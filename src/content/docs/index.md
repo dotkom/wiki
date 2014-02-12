@@ -6,10 +6,9 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 **Er du informatiker? Skriv noe! :)**
 
-[Informasjon til deg som Informatiker](/wiki/online/info/)
-------------------------------------
+### [Informasjon til deg som Informatiker](/wiki/online/info/)
 
-### [Faglig](/wiki/online/info/faglig/)
+## [Faglig](/wiki/online/info/faglig/)
 
 - [Emner](/wiki/online/info/faglig/eksamen/) - Vår fagwiki! Skriv noen ord om et emne du har hatt
 - [Emnevalg](/wiki/online/info/faglig/emnevalg/) - Her kan du lære av andres feil og suksesser med valg av emner
