@@ -1,0 +1,4 @@
+---
+title: "Trøndersk ordliste"
+---
+
