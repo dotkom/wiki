@@ -53,3 +53,25 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
 
 ***
+
+Historie om linjeforeningen og komiteene
+----------------------------------------
+
+- Historien om linjeforeningen
+    - Hovedstyret
+    - Arrangementskomiteen
+    - Bank- og økonomikomiteen
+    - Bedriftskomiteen
+    - Drifts- og utviklingskomiteen
+    - Fag- og kurskomiteen
+    - Profil- og aviskomiteen
+    - Trivselskomiteen
+    - Ekskursjonskomiteen
+    - Jubileumskomiteen
+    - Velkomstkomiteen
+- Offline
+- Generalforsamlingen
+- Kontoret
+- Boden på Moholt
+- Realfagskjelleren
+- Datakameratene FK
