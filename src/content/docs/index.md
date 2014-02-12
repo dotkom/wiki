@@ -17,7 +17,7 @@ title: "Online"
 - [Masterorientering](/wiki/online/info/faglig/masterorientering/) - Referat fra Fredag 16. mars 2012
 - [Kompendier](/wiki/online/info/faglig/kompendier/) - Studentskapte kompendier til emner.
 
-### Sosialt & økonomisk
+### [Sosialt & økonomisk](/wiki/online/info/sosialt-og-okonomisk/)
 
 - Ny student? - La oss hjelpe deg igang!
 - Ditt liv som Onliner - Hvordan kommer Onlines komiteer til å påvirke meg?
@@ -28,7 +28,7 @@ title: "Online"
 - Onlines kalender
 - Søke om drikking på kontoret
 
-### Trivia
+### [Trivia](/wiki/online/info/trivia/)
 
 - Lost and found
 - Folk - Personer man kommer til å høre om
@@ -40,7 +40,7 @@ title: "Online"
 - Scanner på kontoret
 - Installasjon av IDI sine nettverksprintere på Windows 8
 
-### Innsikt & Interface
+### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
 
 - Møtereferater fra Hovedstyret - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
 - Digital eksamen - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
