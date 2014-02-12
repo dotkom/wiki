@@ -1,4 +1,4 @@
 ---
-title: "historie"
+title: "Historie"
 ---
 
