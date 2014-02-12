@@ -2,9 +2,9 @@
 title: "Online"
 ---
 
-**Er du informatiker? Skriv noe! :)**
+Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon om studiet, NTNU, linjeforeningen og mye mer.
 
-[article_list depth:4]
+**Er du informatiker? Skriv noe! :)**
 
 [Informasjon til deg som Informatiker](/wiki/online/info/)
 ------------------------------------
