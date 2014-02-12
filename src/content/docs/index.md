@@ -44,12 +44,12 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 ### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
 
-- Møtereferater fra Hovedstyret - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
-- Digital eksamen - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
-- API - Online tilbyr et API for å interface mot diverse eksterne tjenester.
-- Notifier - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
-- Grafisk profil - Onlines grafiske profil
-- Vedtekter - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-- Stillingstitler på engelsk
+- [Møtereferater fra Hovedstyret](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
+- [Digital eksamen](/wiki/online/info/innsikt-og-interface/digital-eksamen/) - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
+- [API](/wiki/online/info/innsikt-og-interface/api/) - Online tilbyr et API for å interface mot diverse eksterne tjenester.
+- [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
+- [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
+- [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
+- [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
 
 ***
