@@ -52,8 +52,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
 
-***
-
 Historie om linjeforeningen og komiteene
 ----------------------------------------
 
