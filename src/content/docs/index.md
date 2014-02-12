@@ -52,7 +52,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
 
-Historie om linjeforeningen og komiteene
+[Historie om linjeforeningen og komiteene](/wiki/online/historie/)
 ----------------------------------------
 
 - Historien om linjeforeningen
@@ -74,7 +74,7 @@ Historie om linjeforeningen og komiteene
 - Realfagskjelleren
 - Datakameratene FK
 
-Hvordan drive en linjeforening
+[Hvordan drive en linjeforening](/wiki/online/hvordan-drive-en-linjeforening/)
 ------------------------------
 
 - Hvordan lede linjeforeningen
@@ -87,21 +87,23 @@ Hvordan drive en linjeforening
 - Hvorfor bli komitemedlem
     - Hvordan være kontorvakt
 
-Interne wikier
+[Interne wikier](/wiki/)
 --------------
 
 I tillegg til en felles wiki for alle komiteer har hver komite sin egen wiki (som kun komitemedlemmene har tilgang til).
 Du kan også finne disse via prosjektsiden til din komite.
 
-- Felles komitewiki
-    - Hovedstyrets wiki
-    - Arrangementskomiteens wiki
-    - Bank- og økonomikomiteens wiki
-    - Bedriftskomiteens wiki
-    - Drifts- og utviklingskomiteens wiki
-    - Fag- og kurskomiteens wiki
-    - Profil- og aviskomiteens wiki
-    - Trivselskomiteens wiki
-    - Ekskursjonskomiteens wiki
-    - Jubileumskomiteens wiki
-    - Velkomstkomiteens wiki
+- [Kontoret](/wiki/komiteer/kontoret/)
+- [Felles komitewiki](/wiki/komiteer/)
+    - [Hovedstyrets wiki](/wiki/komiteer/hovedstyret/)
+    - [Arrangementskomiteens wiki](/wiki/komiteer/arrkom/)
+    - [Bank- og økonomikomiteens wiki](/wiki/komiteer/bankom/)
+    - [Bedriftskomiteens wiki](/wiki/komiteer/bedkom/)
+    - [Drifts- og utviklingskomiteens wiki](/wiki/komiteer/dotkom/)
+    - [Fag- og kurskomiteens wiki](/wiki/komiteer/fagkom/)
+    - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
+    - [Trivselskomiteens wiki](/wiki/komiteer/trikom/)
+    - [Ekskursjonskomiteens wiki](/wiki/komiteer/ekskom/)
+    - [Jubileumskomiteens wiki](/wiki/komiteer/jubkom/)
+    - [Velkomstkomiteens wiki](/wiki/komiteer/velkom/)
+    - [Pensjonistkomiteens wiki](/wiki/komiteer/pankom/)
