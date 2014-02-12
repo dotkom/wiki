@@ -4,6 +4,8 @@ title: "Online"
 
 **Er du informatiker? Skriv noe! :)**
 
+[article_list depth:4]
+
 [Informasjon til deg som Informatiker](/wiki/online/info/)
 ------------------------------------
 
