@@ -73,3 +73,35 @@ Historie om linjeforeningen og komiteene
 - Boden på Moholt
 - Realfagskjelleren
 - Datakameratene FK
+
+Hvordan drive en linjeforening
+------------------------------
+
+- Hvordan lede linjeforeningen
+    - Hvordan holde en generalforsamling
+    - Hvordan gjøre endringer i Brønnøysundregistrene
+- Hvordan være komiteleder
+    - Hvordan utvise god møtekultur
+    - Hvordan revidere regnskap
+    - Hvordan ordne bedriftskonto og -kort hos Rema 1000
+- Hvorfor bli komitemedlem
+    - Hvordan være kontorvakt
+
+Interne wikier
+--------------
+
+I tillegg til en felles wiki for alle komiteer har hver komite sin egen wiki (som kun komitemedlemmene har tilgang til).
+Du kan også finne disse via prosjektsiden til din komite.
+
+- Felles komitewiki
+    - Hovedstyrets wiki
+    - Arrangementskomiteens wiki
+    - Bank- og økonomikomiteens wiki
+    - Bedriftskomiteens wiki
+    - Drifts- og utviklingskomiteens wiki
+    - Fag- og kurskomiteens wiki
+    - Profil- og aviskomiteens wiki
+    - Trivselskomiteens wiki
+    - Ekskursjonskomiteens wiki
+    - Jubileumskomiteens wiki
+    - Velkomstkomiteens wiki
