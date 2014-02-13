@@ -24,10 +24,11 @@ C (2.5) i snitt på hovedprofilen
 **Master**
 
 Førsteåret er fag, sisteåret er masterppgave. I løpet av første semester skal masterkontrakten signeres. 
-- sørg for å orientere dere for aktuelle fag for senere masteroppgave når dere er kommet inn på masterprogrammet (finne en veileder / kontakte Rydland)
-- hvilke fag som er lurt å velge avhenger av hvilken retning man har valgt
-- noen fag kreves på forskjellige masterretninger, om de ikke er tatt tidligere, må de tas i løpet av masteren
-- i utgangspunktet skal det være fag på masternivå (avanserte emner)
-- maks 3 emner, av de 7 "valgfrie", kan være videregående emner
+
+- Sørg for å orientere dere for aktuelle fag for senere masteroppgave når dere er kommet inn på masterprogrammet (finne en veileder / kontakte Rydland)
+- Hvilke fag som er lurt å velge avhenger av hvilken retning man har valgt
+- Noen fag kreves på forskjellige masterretninger, om de ikke er tatt tidligere, må de tas i løpet av masteren
+- I utgangspunktet skal det være fag på masternivå (avanserte emner)
+- Maks 3 emner, av de 7 "valgfrie", kan være videregående emner
 
 **Kristin: "du forholder deg til studiehåndboka da du starta" ???? (må sjekke opp dette) - cuz fakultetet sier noe annet"**
