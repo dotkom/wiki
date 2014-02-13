@@ -17,10 +17,10 @@ Med bachelor på informatikk har du kan du enten gå videre med 2-årig master. 
 
 Ved søking av datatkenikkmaster velger du ikke retning før du har fått plass. Ved søking av informatikk-master velger du blant 5 retninger (Informasjonsforvaltning, komplekse datasystemer, spillteknologi, Systemarbeid og MMi, AI og læring)
 
-**Karakterkrav for opptak til master**
+#### Karakterkrav for opptak til master
 C (2.5) i snitt på hovedprofilen
 
-**Master**
+#### Master
 Førsteåret er fag, sisteåret er masterppgave. I løpet av første semester skal masterkontrakten signeres. 
 
 - Sørg for å orientere dere for aktuelle fag for senere masteroppgave når dere er kommet inn på masterprogrammet (finne en veileder / kontakte Rydland)
