@@ -6,7 +6,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 **Er du informatiker? Skriv noe! :)**
 
-[Informasjon til deg som Informatiker](online/info/)
+[Informasjon til deg som Informatiker](/wiki/online/info/)
 ----------------------------------------------------------
 
 ### [Faglig](/wiki/online/info/faglig/)
