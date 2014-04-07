@@ -5,8 +5,6 @@ title: "Emner"
 Emner
 =====
 
-{{\>toc}}
-
 Alle linjeforeninger med respekt for seg selv har en fagwiki! Det er
 ingen regler for hvilke fag som skal listes her, men prøv å hold siden
 kategorisert fornuftig.
