@@ -11,10 +11,10 @@ I følge en halvnaken Svein-Halvor Halvorsen (på en badstu ikke langt fra gråk
 ### **Innspillinger**
 
 [Nu klinger](http://www.youtube.com/watch?v=GPsN9lZqRdE) Promenadekonserten UKA-11 _YouTube_
-"Nu klinger":http://skrift.no/sit/index.asp?lyd=Nu%20klinger _Cassa-Rossa, UKA 1929 (opptak 1967)_
-"Nu klinger":https://wiki.online.ntnu.no/attachments/181/Nu-klinger-igjennem-den-gamle-stad.mp3 
 
-h2. Sangen
+[Nu klinger](http://skrift.no/sit/index.asp?lyd=Nu%20klinger) _Cassa-Rossa, UKA 1929 (opptak 1967)_ 
+
+### **Sangen**
 
 Nu klinger igjennom den gamle stad, påny en studentersang,
 og alle mann alle i rekker og rad, svinger opp under begerklang!
@@ -57,15 +57,3 @@ Husk på at jenter, øl og dram var kjempenes meny.
 Og faller I alle mann alle, skal det gjalle fra alle mot sky.
 La'kke byen få ro, men la den få merke det er en studenterby!¨
 (INGEN ØL OG DRAM ETTER SISTE REFRENG! Men ofte utbrytes det i en "Skål!")
-
-
-
-
-
-
-
-
-
-
-
-/online/info/sosialt-og-okonomisk/studentsanger/_create/
