@@ -3,7 +3,7 @@ title: "Studentsanger"
 ---
 
 ### Studentsanger
--  [Nu klinger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/_create/)
+-  [Nu klinger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/_create/) - Selve Trondheimstudentsangen! Obligatorisk å kunne.
 
 ### Andre sanger
 
