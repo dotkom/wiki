@@ -4,7 +4,7 @@ title: "Studentsanger"
 
 ### Studentsanger
 -  [Nu klinger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/nu-klinger-igjennom/) - Selve Trondheimstudentsangen! Obligatorisk å kunne.
-- [Himmelseng]() - Sangen med kun ett originalt vers, flere vers legges til underveis.
+- [Himmelseng](/wiki/online/info/sosialt-og-okonomisk/studentsanger/himmelseng/) - Sangen med kun ett originalt vers, flere vers legges til underveis.
 
 ### Andre sanger
 
