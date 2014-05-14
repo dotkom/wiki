@@ -3,7 +3,7 @@ title: "Studentsanger"
 ---
 
 ### Studentsanger
--  [Nu klinger]()
+-  [Nu klinger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/_create/)
 
 ### Andre sanger
 
