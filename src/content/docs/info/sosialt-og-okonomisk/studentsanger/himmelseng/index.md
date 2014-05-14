@@ -45,6 +45,7 @@ men jeg tok å lurte han
 
 jeg snudde meg og gapa
 
+--
 
 jeg møtte på en lommemann
 
@@ -54,6 +55,7 @@ det var ikke sukkertøy
 
 jeg klemte til, det skumma
 
+--
 
 jeg sku' en tur på landsmøtet
 
@@ -63,6 +65,7 @@ men terje vakke oppdrive
 
 han pulte barn i sverige
 
+--
 
 jeg sku' en tur til østerrike
 
@@ -72,6 +75,7 @@ for bjarne vakke oppdrive
 
 han satt fast i en kjeller
 
+--
 
 jeg sku' en tur på karl johan
 
@@ -81,6 +85,7 @@ sexen den var kjempebra
 
 men hora hette tore
 
+--
 
 jeg ble nå med ei kjerring hjem
 
