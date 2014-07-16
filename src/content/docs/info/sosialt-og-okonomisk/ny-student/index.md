@@ -87,8 +87,7 @@ Da Lånekassen har en enorm pågang rundt semesterstart, er det en god idé
 semesterstart har Lånekassen ofte en behandlingstid på opptil åtte uker,
 så det er lurt å være tidlig ute hvis du trenger pengene fort. Heldigvis
 får du ikke noe mindre penger dersom du er treig med å søke, men de kan
-komme godt med i fadderukene. Gå inn på
-http://www.lanekassen.no/Soknader/Nettsoknaden/ for å søke om lån.
+komme godt med i fadderukene. Gå inn på [lånekassen][] for å søke om lån.
 
 Ordne brukerkontoer på NTNUs datasystemer
 -----------------------------------------
@@ -177,13 +176,14 @@ Spørsmål og svar
 Som ny student i Trondheim står sikkert mange spørsmål sentralt i ditt
 hode. Abakus (Linjeforeningen for Datateknikk og
 Kommunikasjonsteknologi) har laget en flott side med mye av den
-informasjonen du trenger!
+informasjonen du trenger! Sjekk ut [ny i trondheim][]
 
-http://nyitrondheim.no/
 
 **Q:** Hvor har jeg tilgang med kortet mitt?  
 **A:** P15, IT-syd, Realfagbygget, Stripa, og ikke minst bør du ta en
 titt på lesesalsplassoversikten fra instituttet: [Studenttilgang for
 IDI-studenter][]
 
+[ny i trondheim]: http://nyitrondheim.no/
   [Studenttilgang for IDI-studenter]: http://www.idi.ntnu.no/education/studenttilgang.php
+[lånekassen]: http://www.lanekassen.no/Soknader/Nettsoknaden/
