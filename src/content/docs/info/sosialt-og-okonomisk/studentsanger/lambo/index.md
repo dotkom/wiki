@@ -15,26 +15,20 @@ Tekst
 Se der står en fyllehund, mine herrer lambo.  
 Sett nu flasken for din munn, mine herrer lambo.  
 Se hvordan den dråpen vanker ned ad halsen på den dranker  
-Lambo, lambo, mine herrer lambo
-
-*<span
-class="opp. drukket har mot rettet er verset vedkommende til Repeteres"></span>*
+Lambo, lambo, mine herrer lambo (Repeteres til vedkommende verset er rettet mot har drukket opp)
 
 **Dranker synger:**  
 Jeg mitt glass utdrukket har, mine herrer lambo.  
 Se der fins ei dråpen kvar, mine herrer lambo.  
 Som bevis der på jeg vender, flasken på dens annen ende
-
-*<span
-class="bevis. som hodet over ned toppen med annet el. glass/flaske fysisk vender Drankeren"></span>*
+(Drankeren vender fysisk glass/flaske el. annet med toppen ned over hodet som bevis.)
 
 **Tilskuere synger:**  
 Lambo, lambo, mine herrer lambo  
 Hun/han kunne kunsten hun/han var et jævla fyllesvin.  
 Så går vi til nestemann og ser hva hun/han formår.
 
-*<span
-class="drikke. for tomme er folk eller lei, går man til fortsett og person ny en Finn"></span>*
+(Finn en ny person og fortsett til man går lei, eller folk er tomme for drikke.)
 
 Avsluttning
 -----------
