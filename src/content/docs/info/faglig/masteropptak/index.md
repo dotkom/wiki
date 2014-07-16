@@ -2,3 +2,54 @@
 title: "Masteropptak"
 ---
 
+
+For opptaket til master i informatikk trenger man et godt snitt på et
+utvalg av emnene. Denne kombinasjonen av emner er gjerne kalt
+“hovedprofilen”. Dette er den oppdaterte listen som ble utlevert fra
+Langbakk 30.11.2012
+
+Emnene som teller på hovedprofilen for 2013/2014 er følgende:
+-------------------------------------------------------------
+
+-   **Obligatoriske emner:**
+
+-   IT1901 Informatikk prosjektarbeid 1 **7,5 sp**
+-   IT2901 Informatikk prosjektarbeid 2 **15 sp**
+-   TDT4100 Objektorientert programmering (Kan erstattes med
+    TDT4102) **7,5 sp**
+-   TDT4120 Algoritmer og datastrukturer **7,5 sp**
+-   TDT4140 Systemutvikling **7,5 sp**
+-   TDT4145 Datamodellering og databasesystemer **7,5 sp**
+-   TDT4160 Datamaskiner, grunnkurs **7,5 sp**
+    ELLER
+-   TDT4186 Operativsystemer **7,5 sp**
+
+-   **Inklusiv 3 valgte emner fra følgende liste og andre IT eller TDT
+    fag: (totalt 82,5 sp)**
+
+-   TDT4110 IT GK * (7,5 sp)*
+-   IT1603 IKT, Kultur og Samfunn * (7,5 sp)*
+-   TDT4180 Menneske-maskin interaksjon **7,5 sp**
+-   TDT4110 Informasjonsteknologi grunnkurs **7,5 sp**
+-   IT2302 Pedagogisk programvare **7,5 sp**
+-   TDT4117 Informasjonsgjenfinning **7,5 sp**
+-   TDT4136 Logikk og resonnerende systemer **7,5 sp**
+-   TDT4165 Programmeringsspråk **7,5 sp**
+-   TDT4171 Metoder i kunstig intelligens **7,5 sp**
+-   TDT4175 Informasjonssystemer **7,5 sp**
+-   TDT4186 Operativsystemer **7,5 sp**
+-   TDT4190 Distribuerte informasjonssystemer **7,5 sp**
+-   TDT4195 Grunnleggende visuell databehandling **7,5 sp**
+-   TDT4258 Mikrokontroller systemdesign **7,5 sp**
+-   TDT4300 Datavarehus og datagruvedrift **7,5 sp**
+-   TDT4125 Algoritmekonstruksjon videregående kurs **7,5 sp**
+-   TDT4205 Kompilatorteknikk **7,5 sp**
+-   TDT4240 Programvarearkitektur **7,5 sp**
+-   TDT4220 Ytelsesvurdering **7,5 sp**
+-   TDT4242 Kravspesifikasjon og testing **7,5 sp**
+
+Kilde: [Studiehådboka for 2013-2014][]
+
+Det skjer stadig endringer i fagkombinasjoner og hvilke emner som er tilgjengelig, så det er viktig å holde seg oppdatert med studiehåndboken og å besøke Langbakk en gang i blant.
+
+  [Studiehådboka for 2013-2014]: http://www.ntnu.no/studieinformasjon/realfag/205.pdf
