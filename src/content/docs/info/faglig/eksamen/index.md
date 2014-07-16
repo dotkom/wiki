@@ -63,9 +63,103 @@ Tre steder det er vanlig å ha eksamen:
 * [Gløshaugen][] idrettssenter  
 [Dragvoll][] idrettssenter
 
+Karakterer
+----------
+
+På mange Gløshaugen-eksamener vil man finne prosentannotering i
+oppgaveteksten. Sensuren for besvarelsen er da bundet av denne
+prosentfordelingen! Dette er ikke ideelt for kandidaten. Om det ikke er
+noen prosentfordeling per oppgave vil sensor stå mer fritt til å bedømme
+hvorvidt vedkommende mener at kandidaten har skjønt stoffet og besvart
+oppgaven på et fornuftig vis. Med andre ord: Hvis sensor tror du har kan
+mer enn du får vist så står vedkommende fritt til å gi deg en bedre
+karakter, så lenge det ikke står prosentannotering på oppgavene.
+
+For å se karakterstatistikk fra tidligere år, og sammenligne over flere
+år, og kanskje til og med fordelt på kjønn, ta en titt på NTNUs
+**[KarStat][]**. På normale NTNU eksamener pleier karakterfordelingen å være prosentvis fordelt slik:  
+* A: 88 - 100  
+* B: 76 - 87  
+* C: 64 - 75  
+* D: 52 - 63  
+* E: 40 - 51  
+* F: 0 - 39
+
+Merk at dette varierer litt fra emne til emne, og ofte fra campus til
+campus (det kan være betydelige forskjeller mellom gløshaugen og
+dragvoll). I tillegg må man regne med en viss justering basert på
+eventuelle feil og/eller klager rettet mot oppgavesettet. Sistnevnte har
+ofte stor betydning for prosentfordelingen på flervalgseksamener.
+
+Begrunnelser og klager
+----------------------
+
+Vårt fakultet, IME, har sitt eget begrunnelses- og klagesystem separat
+fra resten av NTNU: [begrunnelse/klage][] Skjemaer fra den siden må du skrive ut, signere og putte i postkassen i tredje etasje på IME-fakultetet. IME er for øyeblikket lokalisert i
+tredje etasje på gamle fysikk, men det foreligger planer om å flytte
+IME-fakultetet på grunn av at Gamle Fysikk ikke er rullestolaksessibelt.
+Hvis du ikke vet hvor gamle fysikk er bør du ta en titt på [kartet][]
+
+Gyllen regel: *Alltid be om begrunnelse.*
+
+Her på NTNU kjenner foreleser studentene, emnet og øvingsopplegget. Når
+du klager så blir oppgaven, og et ark med retningslinjer sendt til en
+ekstern sensor, kanskje på UIO, eller på HiST. Hvordan den sensoren
+tolker retningslinjene mot din besvarelse kan være ganske tilfeldig.
+Dersom du på forhånd har bedt om begrunnelse så får du kjennskap til
+retningslinjene, og hvorvidt du egentlig burde be om noe mer, - for du
+risikerer virkelig å få en dårligere karakter!
+
+Forbedring av karakter
+----------------------
+
+Kandidaten har rett til å forbedre eksamenskarakterer, men kun én gang
+per emne etter at kandidaten har bestått, - dvs. har fått en karakter
+mellom A og E, eller “Bestått” i emner som ikke opererer med karakterer.
+Merk at emner som kun har bestått / ikke bestått som regel krever en
+besvarelse som tilsvarer C eller bedre for å gi bestått. Tommelregelen
+er mer enn 60% for å bestå i slike fag.
+
+Konting
+-------
+
+Når en kandidat har møtt opp på en vanlig eksamen, og enten levert
+blankt eller strøket, får vedkommende lov til å melde seg opp til
+kontinuasjonseksamen (konteeksamen) på **StudWeb** i ettertid.
+
+For TDT emner vil konteeksamen finne sted i påfølgende august.
+
+For IT- og MA-emner vil konteeksamen finne sted i neste ordinære
+eksamensperiode.
+
+FAQ
+---
+
+**Q:** Hva skjer hvis jeg leverer blankt på eksamen?  
+**A:** *Du stryker hvertfall, men siden du møtte opp så får du
+muligheten til å konte! God sommer!?*
+
+**Q:** Hva skjer hvis jeg ikke møter opp på eksamen?  
+**A:** *Du stryker, og siden du forsov deg så får du ikke engang lov å
+ta konteeksamen. Hell freezes over.*  
+**PS:** Dette kan motvirkes ved at du skaffer deg lege-erklæring på
+fravær grunnet sykdom. Gyldig fravær gir rett til konteeksamen!
+
+**Q:** Hva skjer hvis jeg kommer for sent til eksamen?  
+**A:** *På de fleste eksamener må du ha satt din fot innenfor døra innen
+et kvarter over tiden for å få lov å skrive en besvarelse.*
+
+**Q:** Må jeg sitte en hel time før jeg får lov til å gå selv om jeg
+ikke kan svare på noe som helst?  
+**A:** *Ja, ta med en kurv med druer og fargestifter, så blir det mer
+utholdelig.*
+
 [Offisielle wiki]: https://innsida.ntnu.no/eksamen
 [ntnustipend]: www.ntnu.no/studier/international/ntnustipend
 [Kilder]: http://bit.ly/GlucoseAndCaffeine
 [Dragvoll]: http://bit.ly/DragvollIdrettsSenter
 [Gløshaugen]: http://bit.ly/GloshaugenIdrettsSenter 
 [Spektrum]: http://bit.ly/TrondheimSpektrum
+[KarStat]: http://www.ntnu.no/karstat/login.do
+[begrunnelse/klage]: http://www.ime.ntnu.no/eksamensweb 
+[kartet]: http://ntnu.no/kart
