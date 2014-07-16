@@ -182,7 +182,7 @@ informasjonen du trenger!
 http://nyitrondheim.no/
 
 **Q:** Hvor har jeg tilgang med kortet mitt?  
-**A:** P15, IT-syd, Realfagsbygget, Stripa, og ikke minst bør du ta en
+**A:** P15, IT-syd, Realfagbygget, Stripa, og ikke minst bør du ta en
 titt på lesesalsplassoversikten fra instituttet: [Studenttilgang for
 IDI-studenter][]
 
