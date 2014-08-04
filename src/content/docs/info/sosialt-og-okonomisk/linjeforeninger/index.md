@@ -15,11 +15,11 @@ title: "Linjeforeninger"
     -   Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er
         får areal dekket av sitt fakultet v/fakultetsdirektør
 
--   Se også [[Linjeforeninger på Dragvoll]]
--   Se også [[Linjeforeninger på HiST]]
--   Se også [[Karrieredager]]
--   Se også [[Studentkjellere på Moholt]]
--   See also [[International student organizations at NTNU]]
+-   Se også [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll)
+-   Se også [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist)
+-   Se også [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager)
+-   Se også [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere)
+-   See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg)
 
 Linjeforeninger
 ---------------
