@@ -185,7 +185,7 @@ Lørdag 28. september 2013 var linjeforeningslederforumet på sin aller første 
 
 * En ansvarlig i Studentrådet HF/SVT har ansvaret for å kalle inn til møter og føre referat.
 
-h2. Tips og triks
+### Tips og triks
 
 Noen linjeforeninger har vært kortlevd. For å øke levedyktigheten til en linjeforening er det følgende anbefalt **på det sterkeste**:
 * Skaffe et kontor. Helst i nærheten av der studentene på linjen pleier å oppholde seg slik at nye studenter blir lettere engasjert. På den måten får man også bygget opp en sosial "kaffe på kontoret"-kultur.
