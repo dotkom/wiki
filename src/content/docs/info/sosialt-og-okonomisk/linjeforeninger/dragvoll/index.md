@@ -157,6 +157,7 @@ Dragvolligaen er et engasjement fra flere av linjene ved Dragvoll. Formålet er 
 * [Facebook](http://fb.com/dragvolligaen)
 
 Medlemmer per mars 2014
+
 * De Folkevalgte FK (statsvitenskap)
 * Erudio Fotball (lektorutdanning)
 * Det Historiske Selskab (historie)
@@ -188,10 +189,15 @@ Lørdag 28. september 2013 var linjeforeningslederforumet på sin aller første 
 ### Tips og triks
 
 Noen linjeforeninger har vært kortlevd. For å øke levedyktigheten til en linjeforening er det følgende anbefalt **på det sterkeste**:
+
 * Skaffe et kontor. Helst i nærheten av der studentene på linjen pleier å oppholde seg slik at nye studenter blir lettere engasjert. På den måten får man også bygget opp en sosial "kaffe på kontoret"-kultur.
+
 * Skaffe inntekter. Se lenger opp for måter å gjøre det eller send epost til bedkom@online.ntnu.no med spørsmål om bedriftspresentasjoner og lignende.
+
 * Holde fadderuker via linjeforeningen, ikke via Fadderutvalget på Dragvoll. Det er viktig at studentene assosierer seg med linjeforeningen fremfor Fadderutvalget da linjeforeningen er den eneste av de to som vil være til stede gjennom hele studiet.
+
 * Få ut informasjon der folk vil lese det. En webside er ikke nødvendigvis det beste mediet, kanskje en Facebook-page er bedre? Helst vil man selvsagt ha begge.
+
 * Sørg for overlapp. Ta opp nye folk i styrer og komitéer hvert semester, gjerne førsteklassinger. Utvid med flere stillinger om nødvendig, ikke vent til den dagen alle de som driver linjeforeningen i dag slutter på studiet. (Dette sier seg kanskje selv) 
 
 _PS: Tips og triks er bl.a. fra en eks-dragvolling som senere var leder for Online og som brenner for å få topp linjeforeningsmiljø på Dragvoll_
