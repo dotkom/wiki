@@ -4,8 +4,7 @@ title: "Linjeforeninger"
 
 -   Velkommen til www.gloshaugen.info :)
 
--   For epostlister se her:
-    https://online.ntnu.no/resourcecenter/mailinglists
+-   For epostlister se [her](https://online.ntnu.no/resourcecenter/mailinglists)
 -   Er din linjeforening listet opp her? Send epost til
     kontakt@online.ntnu.no for oppdateringer
 -   Usikker på statusen hos Brønnøysund (BrReg)? [Hvordan gjøre
