@@ -67,19 +67,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - Realfagskjelleren
 - Datakameratene FK
 
-[Hvordan drive en linjeforening](/wiki/online/hvordan-drive-en-linjeforening/)
-------------------------------
-
-- Hvordan lede linjeforeningen
-    - Hvordan holde en generalforsamling
-    - Hvordan gjøre endringer i Brønnøysundregistrene
-- Hvordan være komiteleder
-    - Hvordan utvise god møtekultur
-    - Hvordan revidere regnskap
-    - Hvordan ordne bedriftskonto og -kort hos Rema 1000
-- Hvorfor bli komitemedlem
-    - Hvordan være kontorvakt
-
 [Interne wikier](/wiki/)
 --------------
 
