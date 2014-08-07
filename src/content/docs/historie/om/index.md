@@ -264,8 +264,69 @@ kaffedrikking.
 
 |År|Leder|Nestleder|Økonomiansvarlig|Kontorsjef|arrKom-leder|bedKom-leder|dotKom-leder|fagKom-leder|
 |---|---|---|---|---|---|---|---|---|
-|2009h-2010v|Alexander Bjerkan|Trond Martin Nyhus|Michael Johansen|Håvard Slettvold|Lars Tovsen|Hilde Visthoff Drange|Dag Olav Prestegarden|Christian Jonassen,
-Anders Brujordet|
+|2009h-2010v|Alexander Bjerkan|Trond Martin Nyhus|Michael Johansen|Håvard Slettvold|Lars Tovsen|Hilde Visthoff Drange|Dag Olav Prestegarden|Christian Jonassen,Anders Brujordet|
+|2008h-2009h|Elling Overaa|Alexander Bjerkan|Linn Melby Meyer|Kristian Oftedal|Hanne Christine Lund|Katarina Hunstad|Dag Olav Prestegarden|Vegard Økland|
+|2007h-2008h|Mats Ringstad|Kristian Oftedal|Linn Melby Meyer|Steinar Hagen|Hanne Christine Lund, Birgitte Fidjeland, Carl Christopher Hoel|Elling Overaa|Dag Olav Prestegarden|Bjarne Muri|
+|2006h-2007h|Lars Tobias Børsting|Mats Ringstad|Lars Tobias Børsting|Steinar Hagen|Mats Ringstad|Ketil Balle|Asbjørn Fellinghaug|Bjarne Muri|
+|2005h-2006h|Lars Tobias Børsting|Ketil Balle|Lars Tobias Børsting|Steinar Hagen|Mats Ringstad, Anders Brujordet|Ketil Balle|Asbjørn Fellinghaug|
+|2004h-2005h|Jørgen Hovelsen|Patrick Mostad|Bjørnar Jønsberg|(ingen)|Steinar Hagen|Ketil Balle|Asbjørn Fellinghaug|
 
+|År|Leder|Nestleder|Økonomiansvarlig|Kontorsjef|Festsjef|Bedriftskontakt|PR-sjef|Sekretær/-tøse|
+|---|---|---|---|---|---|---|---|---|
+|2003h-2004h|Patrick Mostad|Jørgen Hovelsen|Bjørnar Jønsberg, Asgeir Ingebrigtsen|Silje Sletteng|Mari Lie Hæreid|May Linda Martinsen|Steinar Hagen|Kari Korntorp|
+|2002h-2003h|Patrick Mostad|Kristoffer Strømsvåg|Asgeir Ingebrigtsen|Silje Sletteng|Erik Nikolai Olne|Geir G. Pedersen||Aanund Austrheim|
+|2001h-2002h|Aanund Austrheim||||Erik Nikolai Olne||Torgeir Sesseng||
+|2000h-2001h|Laila Jøssund/Åste Reppe||Thomas N. Ertkjern||Martin Kulhawzhuc (slaver: Gunnhild Aasprang, Ingvild Granum)|Øyvind Lillerødvann (slaver: Thomas Nedland Ertkjern, Linn Kristin Knudsen)|Ida Uran Jørgensen (slave: Marius Mikalsen, web: Ola Eirik Klingen)|Øyvind Vestavik|
+
+(kjellersjef 2000-2001: Aanund Austrheim)
+
+|År|Leder|Nestleder|Kasserer|Kontorsjef|Leder for Festkomitéen|Leder for Bedriftskomitéen|Leder for PR-komitéen|
+|---|---|---|---|---|---|---|---|
+|1999h-2000h|Gøril Tronslien|Kjerst Rønholt|||Michal Koziel?|Jan Erik Bakke Nævdal|Ida Uran Jørgensen|
+|1998h-1999h||Gøril Tronslien, Ove Kuvåssæter?|John Krogstad||Anita Iren Oppedal|Jan Erik Bakke Nævdal?|Ida Uran Jørgensen?|
+
+|År|Leder|Styremedlemmer|
+|---|---|---|
+|1997h-1998h|Kim O. Johansen|Bente Torp Pederse, Morten Dreier, Anders Kofod-Petersen, Gøril Tronslien, Ove Kuvåssæter, Ralf Jørgensen?, Sigmund Aamodt?, Ellen Lippe?|
+
+97/98: Konflikt i informasjon: Rune A. Hollås (leder), Rina Bjørntvedt (nestleder og kasserer)
+
+|År|Leder|Sekretær|Web|Styremedlem|
+|---|---|---|---|---|
+|1996h-1997h|Kim O. Johansen|Morten Dreier|Knut H. H. Nielsen|Anders Kofod-Petersen, Stian Græsli|
+
+96/97: Konflikt i informasjon: Rina Bjørntvedt (leder for bedriftskomiteen)
+
+|År|Leder|Sekretær|Web|Styremedlem|
+|---|---|---|---|---|
+|1995h-1996h|Jan L. Børsheim|Morten Dreier|Knut H. H. Nielsen|Anders Kofod-Petersen|
+
+|År|?|
+|---|---|
+|1994-1995|?|
+|1993-1994|?|
+|1992-1993|?|
+
+I disse tre årene er det mulig at Online ikke hadde noen styremedlemmer. Under avsnittet "bakrusen og reparasjonen" står det et notat om at Online ble startet fra scratch i 95/96.
+
+|År|Formann|Ukjent stilling|??|
+|---|---|---|---|
+|1991-1992|Asgeir Drøyvoldsmo|||
+|1990-1991|Gisle Forseth|||
+|1989-1990|Randi Bjærum|Ole Einar Langen||
+|1988-1989||Ola Einar Langen||
+
+Skal ligge her en plass: Nils Fredriksen, Knut Stølen,
+
+|År|Formann|Sekretær|??|
+|---|---|---|---|
+|1987h-1988h|Ole A. Brevik|Leiv Arild Andenes||
+|1986h-1987h|Ole A. Brevik|Leiv Arild Andenes||
+
+Se forøvrig referatet fra [[Årsmøtet 1987]].
+
+|År|Formann|Sekretær|Styremedlem|Styremedlem|Styremedlem|
+|---|---|---|---|---|---|
+|1985h-1986h|Ole A. Brevik|Leiv A. Andenes|Svein Gjølmesli|N.N. (kjørte 2CV og Kawasaki)|N.N. (blond studine)|
 
   [Den allmennvitenskapelige høgskole]: http://no.wikipedia.org/wiki/Den_allmennvitenskapelige_h%C3%B8gskole
