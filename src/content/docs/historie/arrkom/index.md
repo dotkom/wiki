@@ -1,0 +1,65 @@
+---
+title: "Arrangementskomiteen"
+---
+
+Historie
+--------
+
+Sosialkomiteen i linjeforeningen ble opprettet den 13. oktober 1987.  
+Fram til våren 2002 het komiteen festKomiteen.  
+Arrangementskomiteen som vi kjenner den i dag ble opprettet i 2004
+sammen med BedKom og DotKom, da Online gikk fra å ha kun et hovedstyre
+til å være et hierarki med hovedstyret på toppen. Komiteen fikk straks
+kortnavnet arrKom, selv om man ovenfor eksterne samarbeidspartnere har
+titulert den som Arrangmentskomiteen.
+
+### Tidligere arrangementer:
+
+**Toddygallopp**  
+Dette var et slags rebusløp kombinert med hyttetur hvor man konsumerte
+store mengder Toddy. Ble arrangert regelmessig frem til ca. 2003
+
+**Vinterball**  
+I stedet for immball hadde Online tidligere ball rundt januar/februar.
+Dette ble sist arrangert i 2002 (det henger bilder av dette på kontoret)
+
+ArrKom til daglig
+-----------------
+
+ArrKom er arrangementskomitéen til Online og har som hovedansvar å
+arrangere sosiale tilstelninger for informatikkstudenter.
+
+Online arrangerer både tradisjonsrike fester, som Blåturen, og mer
+uformelle fester i løpet av skoleåret. Dette er et tilbud til deg slik
+at du kan ha det moro og knytte nye kontakter innad i linjeforeningen.
+
+Utenom dette arrangerer arrKom også flere turer i løpet av året, da
+blant annet ski-tur til Åre i Sverige og oppdagelsesferd til Tallinn.
+
+## Medlemmer
+
+(Tabellen er noe mangelfull)
+* L - leder
+* K - kjelleransvarlig
+* N - nestleder
+* Ø - Økonomiansvarlig
+* V - kun på vårparten
+* H - kun på høstparten
+
+
+
+|År| Medlemmer |
+|---| --- |
+|2013-2014|*Marius Thingwall(L)*| Tale Prestmo(N) | Ivar Flakstad(Ø) | Marte J. Sæther |Ingrid Kittelsen|Marthe Øynes|Ragnhild Seim|Caroline Odden|Sondre Johann Widmark|Gaute Lunde|Leif Marius Sethne Reppen|Thea Lerfaldet|John H. Kolstad(Permitert)|Jim Frode Hoff(Permitert)|
+|2012-2013|Marte J. Sæther|Ingrid Kittelsen|John H. Kolstad (NH)|Jim Frode Hoff (Ø)|Joakim Aune (permittert september 2011)|Anja S. Rønning|Marius Thingwall   (NV)   |Mathilde Ø. Oftedal (permittert august 2012)|Juni Angelfoss|Tale Prestmo|Marthe Øynes|Ivar Flakstad|_.Martin A. Midtsund (L)|Ragnhild Seim|
+|2011-2012|Marte J. Sæther|Ingrid Kittelsen (Ø)|John H. Kolstad|Jim Frode Hoff|Joakim Aune (permittert september 2011)|Anja S. Rønning|Lars Tovsen|Mathilde Ø. Oftedal|_.Juni Angelfoss (L)|Ketil Ellertsen|Magnus G. Hove|André Knudsen (permittert vår 2012)|Martin A. Midtsund|Jonathan Brynjar Hårek Laschet|
+|2010-2011|Steinar Hagen|Ingrid Kittelsen|John H. Kolstad|Jim Frode Hoff|Joakim Aune|Anja S. Rønning|_.Lars Tovsen (L)|Mathilde Ø. Oftedal|Juni Angelfoss|Ketil Ellertsen|Magnus G. Hove|
+|2009-2010|Steinar Hagen|Ingrid Kittelsen|John H. Kolstad|Hanne Christine Lund|Joakim Aune|Anja S. Rønning|_.Lars Tovsen (L)|Mathilde Ø. Oftedal|Juni Angelfoss|Kristian Laskemoen|
+|2008-2009|Steinar Hagen|Linn Melby Meyer|Elisabeth Solheim|_.Hanne Christine Lund (L)|Joakim Aune|Anja S. Rønning|Lars Tovsen|Wenche Meland|Juni Angelfoss|Kristian Oftedal|
+|2007-2008|Steinar Hagen|Linn Melby Meyer|Elisabeth Solheim|_.Hanne Christine Lund (L)|Birgitte Fidjeland|
+|2006-2007|Steinar Hagen|Linn Melby Meyer|Elisabeth Solheim|_.Mats A. Ringstad (L)|
+|2005-2006|Steinar Hagen|Cheung Yuen Wong|_.Anders Brujordet (L)|Mats A. Ringstad (N)|Silje Myran|Kristel Bræin|Elen Østerås|
+|2004-2005|_.Mari Lie Hæreid (L)/ Steinar Hagen (L)|Jarl Erik Schmidt|Trond Martin Nyhus|Mats A. Ringstad|
+|2003-2004|_.Erik Olne (festsjef)|
+|2002-2003|_.Erik Olne (festsjef)|Morten Svendsen (K)|Kristoffer Strømsvåg|Fredrik Wisløff|Rodrigo San Martin|
+|2001-2002|Erik Olne|Morten Svendsen (K)|Kristoffer Strømsvåg|Fredrik Wisløff|Rodrigo San Martin|
