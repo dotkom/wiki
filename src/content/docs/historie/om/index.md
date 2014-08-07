@@ -238,13 +238,13 @@ kaffedrikking.
 
 -   **Historie ønskes!**
 
-### [2009/2010](/0910)
+### [2009/2010](/wiki/online/historie/om/0910)
 
-### [2010/2011](/1011)
+### [2010/2011](/wiki/online/historie/om/1011)
 
-### [2011/2012](/1112)
+### [2011/2012](/wiki/online/historie/om/1112)
 
-### [2012/2013](/1213)
+### [2012/2013](/wiki/online/historie/om/1213)
 
 ## Hovedstyrer
 
