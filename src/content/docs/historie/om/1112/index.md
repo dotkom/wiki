@@ -1,0 +1,240 @@
+---
+title: "Perioden 2011 - 2012"
+---
+
+-   Sterk innsats fra mange medlemmer førte til at wikien vokste til nye
+    høyder og ble en allvitende skapning som kunne svare på spørsmål
+    selv når [[Steinar Hagen]] ikke var til stede. Wikien ble blant
+    annet fylt like full med studentsanger som visse kjente visebøker på
+    Gløshaugen.
+-   Hovedstyret startet med ukentlige polls som tillegg til de ukentlige
+    infomailene.
+-   Det ble satt i gang et initiativ for å lage et helt nytt
+    linjeforeningsopptak. I slutten av sommeren sydde Hovedstyret sammen
+    Kompileringen, med idéer fra Eldsterådet, pangKom, HS og flere
+    komitemedlemmer. Det ble et høytidelig, nerdete opptak som falt i
+    god smak hos de nye informatikerne.
+-   Leder av Online stilte som varaen til varaen på et Studenttingsmøte
+    rett før sommeren og sørget for at Studenttinget begynte å jobbe for
+    PC på eksamen.
+    -   Dette resulterte i en meget aktiv “PC på eksamen”-kampanje på
+        høstsemesteret. Mye press ble lagt på NTNU fra
+        studentdemokratiets side.
+    -   Parallelt laget Online en underskriftskampanje, med egenlaget
+        underskriftssystem, som ble kjørt på landsbasis og fikk nærmere
+        1.000 underskrifter fra studenter og ansatte landet rundt.
+    -   Online fortsatte å støtte kampanjen ved å stille opp hos
+        Dagsnytt, Under Dusken, Student-TV og NRK.
+    -   Det samlede presset på NTNU førte til at NTNU vedtok å starte et
+        pilotprosjekt for digital eksamen påfølgende vårsemester.
+-   En storslått fadderuke ble avholdt, der både de internasjonale
+    studentene og de nyankomne masterstudentene for første gang ble med
+    på moroa.
+    -   Tradisjonen med stilige lommeprogrammer i fadderukene ble fulgt
+        opp.
+    -   Vi fikk knallgod tilbakemelding fra flere hold. Den kanskje mest
+        interessante var fra en utenforstående internasjonal student:
+        “Joining the buddy program? (…) We heard Onlines buddy programme
+        rocks the world up!”
+    -   I forkant av fadderukene ble det satt opp en tilpasset, sterkt
+        forenklet nettside for nye informatikere som gjorde bruk av ny,
+        flashy HTML5- og CSS3-funksjonalitet.
+-   [[triKom|Trivselskomiteen]] ble opprettet for å møte det økende
+    behovet for tilknytning til førsteklassingene og den økende bruken
+    av linjeforeningskontoret.
+    -   Komiteen fikk som hovedansvar å sørge for at informatikere
+        trivdes, og satte umiddelbart i gang med vaffeltirsdag der
+        gratis vafler ble gitt ut til stor glede blant studenter på P15.
+    -   Komiteens sekundære oppgave ble å ha ansvar for
+        linjeforeningskontoret: Oppsett av kontorvakter og møtetider,
+        sørge for at det holdes ryddig og tildele tilgang til alle
+        komitemedlemmer.
+    -   I år igjen fikk kontoret en ny sofa.
+-   Inkludert triKom og studLAN talte Online 76 medlemmer i aktive verv,
+    som var det høyeste antallet engasjerte informatikere noensinne og
+    tilnærmet en dobling på bare tre år.
+-   I løpet av året ble Online den nye sentrale kommunikasjonskanalen på
+    Gløshaugen. Dette skjedde ved at mye arbeid ble lagt ned i å tilby
+    lett tilgjengelige, oppdaterte epostlister for linjeforeningene på
+    Gløshaugen. Dette var et ansvar Online tok over, med grønt lys, fra
+    Høiskolens Chemikerforening (HC) som hadde driftet linjeforenings-
+    og kjellerliste i mange år. I løpet av året ble det laget i alt åtte
+    epostlister for bedre kommunikasjon og enklere samarbeid:
+    -   linjeforeninger@online.ntnu.no - Linjeforeningsstyrene på
+        Gløshaugen.
+    -   linjeledere@online.ntnu.no - Linjeforeningslederne på
+        Gløshaugen.
+    -   linjeredaksjoner@online.ntnu.no - Linjeforeningsredaksjoner på
+        Gløshaugen.
+    -   masterforeninger@online.ntnu.no - Masterforeninger på
+        Gløshaugen.
+    -   kjellere@online.ntnu.no - Kjellerne på Moholt.
+    -   foreninger@online.ntnu.no - Gløs’ linjeforeninger og Samfundet,
+        NTNUI, Studenttinget, Velferdstinget og studentmediene.
+    -   studentligaen@online.ntnu.no - Fotballagene i linjeforeningene.
+    -   Samt et par epostlister for samarbeid mellom linjeforeningene og
+        studentrådene på IME og IVT.
+    -   Foreninger over hele Trondheim meldte at de var kjempefornøyd
+        med epostlistene vi hadde satt opp og skrøt mye over hvor godt
+        epostlistene fungerte. Epostlistene var en kjempesuksess.
+-   Hovedstyret åpnet referatene sine for Onlinere, andre
+    linjeforeninger og alle som måtte ønske å følge med på hvilken
+    retning Online tar. Dette ble gjort både for åpenhet og for at folk
+    lettere skulle kunne gi innspill og idéer tilbake til Hovedstyret.
+-   Onlines 25-årsjubileum ble avholdt dette året.
+    -   JubKom og proKom la ned sin tyngste innsats og skapte årets mest
+        minneverdige helg.
+    -   Mye tid ble lagt ned i forkant for å finne historie og
+        informasjon om stiftelsen av Online.
+    -   Meget langt inn i planleggingen dukket det endelig opp
+        informasjon om alderen, hvorpå det viste seg at linjeforeningen
+        egentlig var 26 år gammel. Jubileet var allerede planlagt så
+        tidsproblemet måtte løses. Den endelige løsningen ble, som
+        programmerere, å nullindeksere tidsregningen.
+    -   Jubileet ble avholdt på Prinsen Hotell, med et episk
+        historierom, Nyan-Cat kake etter en herlig middag, taler fra
+        selveste stifteren og mange andre prominente Onlinere, samt
+        glimrende oppmøte blant gamle, nye og gjestende styrer.
+    -   [[Erlend Klakegg Bergheim]] ble utnevnt som Onlines tredje
+        æresmedlem på jubileet.
+    -   Jubileet ble hyllet i mangfold i sosiale medier dagen etter.
+-   Reboot ble avholdt for første gang, for senere å bli en semesterlig
+    fest der alle gamle og nye komitemedlemmer skulle mingle, bli venner
+    og skape bedre samhold.
+-   Julebordet hadde en morsom vri der alle komitemedlemmene fikk sin
+    egen tittel.
+-   LinkedIn ble gjennomgått grundig for å gjenskaffe full styring de
+    profilene vi hadde liggende der. Gamle og nye grupper ble slått
+    sammen og fokuset ble styrt mot Onlines viktigste oppføring, som
+    company (bedriftsoppføring i stedet for gruppe).
+-   Det ble forhandlet en ny hovedsamarbeidsavtale med Steria som var
+    vår hovedsponsor på andre året. Stor glede over samarbeidet ble
+    uttrykt på begge sider.
+-   Offline \#2, \#3 og \#4 ble gitt ut dette året, det ene stilgere enn
+    det andre.
+    -   Hvert eneste nummer fikk mye skryt i jungeltelegrafen. Både
+        gamle og nye medlemmer gledet seg til hver utgivelse.
+    -   [Offline \#2][] fokuserte på fadderukene, Kompileringen,
+        [[Steinar Hagen]] og sommerjobber.
+    -   [Offline \#3][] var en jubileumsspesial som tok for seg
+        historien og modellerte vår tidslinje fra historierommet på
+        jubileet. Bladet markerte flere milepæler i utviklingen av
+        tidsskriftet ved å gå fra 250 til 450 i opplag, være hele 36
+        sider tykt og ved å ha fullstendig sponsing av trykkekostnadene
+        takket være et godt samarbeid mellom bedKom og redaksjonen.
+    -   Offline \#4 var den første utgaven av Offline med et politisk
+        innslag, der SOPA/ACTA ble tatt tak i.
+    -   Flere spalter ble faste innslag: Utgavens pattern,
+        hacke-artikkel, kjøkken-hacks (oppskrift for nerder) og
+        “Refresh” som tok for seg alt som hadde skjedd i miljøet rundt
+        informatikerne siden sist nummer.
+    -   I løpet av den fjerde utgaven sto Offline økonomisk helt på egne
+        ben, med sponsorer som dekket alt av utgifter med trykking.
+    -   Rundt utgivelsen av Offline \#4 satte redaksjonen i gang
+        arbeidet med å opprette en abonnementsordning for utgåtte
+        medlemmer, bedrifter og andre interesserte. Flere av disse hadde
+        fått de første numrene tilsendt gratis, men redaksjonen ønsket
+        bedre oversikt over interesserte og mer bærekraftig økonomi.
+-   Fjorårets overgang fra towerbokser til rackskap ble fulgt opp med
+    kraftig utvidelse av serverparken.
+    -   Gaver fra THILDE og andre gav dotKom en herlig stabel med
+        rackservere å jobbe med.
+    -   Serverparken og alle tjenester ble med stødig hånd flyttet over
+        til nye tjenere.
+    -   Overgangen fra gode, gamle, legendariske Dworek til nye Dworek
+        ble markert på 25-årsjubileet med litt statistikk over
+        strømforbruk og antall behandlede eposter.
+    -   Med ny eposttjener og ny mailprogramvare ble det også satt opp
+        eposttjeneste for alle komitemedlemmer slik at alle kunne sende
+        og motta epost med sitt eget brukernavn og domenet
+        online.ntnu.no.
+    -   OnlineWeb ble flyttet over til GitHub, og mye kode ble gjort
+        open-source.
+    -   For å sitere lederen av dotKom på Hovedstyremøte: “Serverparken
+        har blitt enterprise!”
+    -   Det kom inn flere kodebidrag fra utenforstående i løpet av året.
+-   Online hadde nettopp blitt momspliktige da studieåret startet. I en
+    lang prosess for å komme i gang med momsregnskap fikk banKom venner
+    i økonomiavdelingen til SiT på Gamle Kjemi.
+    -   I tillegg til omfattende bruk av Excel ble daTax
+        foreningsøkonomi tatt aktivt i bruk. I den forbindelse ble den
+        første Windowsserveren Online hadde sett installert og klargjort
+        for daTax. Av frykt for hvordan det skulle gå med en
+        Windowsserver på nettverket fikk maskinen navnet “Heimert”.
+    -   Arbeidet med økonomi som skulle bli mindre ved å fordeles over
+        flere økonomiansvarlige steg likevel i takt med økonomien. For å
+        lette på trykket og gi litt tilbake til de økonomiansvarlige ble
+        det innført gratis pizza på alle banKoms arbeidskvelder.
+    -   Posting av fakturaer ble også en anelse enklere da proKom laget
+        nytt stempel (omkring 10 år siden sist).
+-   Da Google publiserte pages-funksjonaliteten sin på Google+ tok det
+    mindre enn ett døgn før Online var å finne der. Det tok også mindre
+    enn ett døgn fra Facebook slapp “timeline for pages” til Online
+    hadde tatt i bruk funksjonaliteten. På grunn av manglende
+    funksjonalitet for å legge til eiere ble ikke Google+ pagen tatt
+    aktivt i bruk dette året.
+-   Onlines plakater og glade budskap ble mer synlige på Gløshaugen da
+    linjeforeningen fikk tildelt en tavle i glasskap på Stripa.
+-   Etter at proKom debuterte med hyttetur som teambuilding året før
+    fulgte både bedKom og dotKom opp med hyttetur-teambuilding fremfor
+    den tradisjonelle teambuilding-festen.
+-   Hovedstyret holdt et høyt tempo og kom seg gjennom mer enn 370 saker
+    i tillegg til at de behandlet et høyt antall tilbud, forespørsler og
+    eventueltsaker.
+-   OnlineShop ble påbegynt for å lage en oversikt over alle effektene
+    Online selger og tilbyr, det være seg gensere, tskjorter, pins eller
+    hva man måtte ønske seg.
+-   Etter brevveksling med Google ble Online plassert på kartet,
+    bokstavelig talt. Finn Online på [maps.google.com][]
+-   Støtten til Datakameratene FK ble økt fra 2000,- i semesteret til
+    5000,-
+-   I etterkant av suksessen med epostlistene gjennomførte Hovedstyret
+    en omfattende innsamling av linjeforeningsinformasjon fra et høyt
+    antall kilder, i tillegg til mye manuell innhenting. All
+    informasjonen ble strukturert i wikien. Deretter ble domenene
+    www.gloshaugen.info og www.dragvoll.info pekt til wikisidene. Etter
+    å ha fortalt alle linjeforeningene og større studentforeninger om
+    nettsidene fikk vi veldig mye positiv tilbakemelding.
+    -   Sidene inneholdt nettsider, facebooksider, aviser, kjennetegn
+        ved styremedlemmer, brønnøysundslenker og ikke minst
+        direktelenker til CampusGuiden for å finne
+        linjeforeningskontorene på campus.
+    -   Mange linjeforeninger på Gløshaugen og Dragvoll uttrykte stor
+        fornøyelse over oversiktene, mengden smigrende tilbakemelding
+        var til stor glede.
+    -   Dragvolls linjeforeninger var spesielt fornøyd med at det
+        endelig fantes en oppdatert, fullstendig liste over de 31
+        linjeforeningene på campusen da det tidligere hadde vært meget
+        vanskelig å skaffe seg full oversikt.
+    -   Hovedstyret satte deretter i gang prosessen med å opprette en
+        epostliste for linjeforeningene på Dragvoll, i håp om at det
+        skulle fungere like godt som det hadde gjort på Gløshaugen.
+-   Etter en gjennomgang av fordeler og ulemper med forskjellige
+    komiteverv ble man oppmerksomme på at medlemmer av arrKom hadde
+    mindre fordeler enn de i andre komiteer. For å utjevne litt av disse
+    forskjellene vedtok Hovedstyret at arrKommere som sto ansvarlige for
+    arrangement skulle få sin billett til arrangementet gratis.
+-   Både høstsemesteret og vårsemesteret var preget av meget høy
+    aktivitet. BedKom og fagKom avholdt mer enn dobbelt så mange som
+    budsjettert av bedpresser og bedriftskurs i begge semestrene.
+-   BedKom fikk for første gang på flere år nye generiske visittkort,
+    designet av proKom, slik at personlig kontkat med næringslivet
+    skulle bli litt stiligere.
+-   Epostlisten for linjeledere ble fort tatt aktivt i bruk og førte
+    raskt til at Emil og Smørekoppen kalte inn til første møte mellom
+    alle de 19 linjelederne på Gløshaugen. Dette var det første møtet i
+    det som senere skulle bli kjent som Linjerådet.
+-   Hovedstyret holdt bedre kontakt enn noen gang med de andre
+    linjeforeningene.
+    -   Det gikk ikke et eneste immball eller jubileum forbi uten at
+        Online var representert.
+    -   Hovedstyret stod på for å beholde ryktet om å være gode på
+        gaver. Blant annet ble det laget logobannere til et par
+        linjeforeninger, og ikke minst en maskot kalt Abapus ifm. Abakus
+        35-årsjubileum.
+
+
+  [maps.google.com]: http://maps.google.com/maps/place?q=Online,+linjeforeningen+for+informatikk,+H%C3%B8gskoleringen,+Trondheim,+Norway&hl=no&ie=UTF8&cid=9127931427751188784
+
+  [Offline \#2]: https://online.ntnu.no/media/documents/offline_201109.pdf
+  [Offline \#3]: https://online.ntnu.no/media/documents/offline_201112.pdf
