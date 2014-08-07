@@ -42,11 +42,11 @@ muligheter til å mingle med bedriften etter kursene.
 Medlemmer
 ---------
 
-|År|Leder| Medlemmer |
+|År|Leder| Medlemmer ||
 |---|---| --- ||
-|2012-2013|*Linn Vikre*| Dag Erik Vikan| Kristian Laskemoen| Henning Moberg Wold| Nina Margrethe Smørsgård| Fredrik Soløy| Nikolai Krill| Aina Elisabeth Thunestveit | Espen Hellerud | Håkon Ødegård Løvdal | Pia Karlsen Lindkjølen | Truls Mørk Pettersen ||
-|2011-2012|/2.*Tri M. Nguyen(fra februar 2011)
-Jenny Rønningen(2010)*|/2.Beate Baier Biribakken|Linn Vikre|
+|2012-2013|*Linn Vikre*|Dag Erik Vikan|Kristian Laskemoen|Henning Moberg Wold|Nina Margrethe Smørsgård|Fredrik Soløy|Nikolai Krill|Aina Elisabeth Thunestveit | Espen Hellerud | Håkon Ødegård Løvdal | Pia Karlsen Lindkjølen | Truls Mørk Pettersen ||
+|2011-2012|*Tri M. Nguyen(fra februar 2011)
+Jenny Rønningen(2010)*|Beate Baier Biribakken|Linn Vikre|
 |2010-2011|Tri M. Nguyen |
 |2009-2010|*Christian Jonassen*|/2.Jenny Rønningen|/2.Christian Jonassen|/2.Øyvind Valen-Sendstad|Even Østvold|Anders Brujordet|
 |2008-2009|*Vegard Økland*|
