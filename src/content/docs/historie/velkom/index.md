@@ -1,0 +1,85 @@
+---
+title: "Velkomstkomiteen"
+---
+
+VelKom til daglig
+-----------------
+
+Historie
+--------
+
+På generalforsamlingen 2011 ble periodiske komiteer som jubKom og velKom
+slått fast i vedtektene. Forslaget om dette ble fremmet for å få mer
+informasjon om disse komiteene ned på papiret (ned i wikien), samt å
+anerkjenne at disse komiteene kommer til å være nødvendige mange ganger
+i fremtiden.
+
+Fra ca. 2007 og frem til VelKom ble opprettet som egen komite ble
+fadderuka arrangert av en egen komite med utspring blant arrkoms
+medlemmer, men hvor også andre informatikkstudenter og onlinere kunne
+delta. Før dette var det arrKom som arrangerte fadderuka, med hjelp fra
+enkelte andre komitemedlemmer.
+
+Fadderukas organisering
+-----------------------
+
+Bør denne skilles ut i en egen artikkel?
+
+Det er en del faste poster som har gått igjen i fadderuka til Online
+
+-   Omvisning på Gløshaugen
+-   Langåpent på kjelleren
+-   Rebusløpet
+-   Immballet  
+    Har blitt arrangert etter hver fadderuke siden 2004
+
+Andre ting som har blitt gjort (med varierende hell):  
+* Ølskole på Dahls  
+* Kakebuffet på Mormors
+
+Immatrikuleringsball
+--------------------
+
+Frem til 2004 hadde ikke Online noe immball, men hadde et Vinterball som
+ble arrangert rundt januar hvert år. Men for å ha en feiring av de nye
+studentene og øke aktivitetsnivået etter fadderuka ble det i 2004
+vedtatt at vi skulle arrangere immball på lik linje med de andre
+linjeforeningene på Gløshaugen. På det første immballet ble
+representanter for Abakus og de andre linjeforeningene på Realfag
+invitert. Senere har det blitt vanlig å arrangere et styrevors på
+Onlinekontoret for HS og inviterte gjester, samt gjerne en fest etter
+middagen hvis spisestedet ikke innbyr til skikkelig festing. Etter denne
+er det gjerne duket for uoffisielt nachspiel på Onlinekontoret, som ikke
+ser særlig innbydende ut etterpå.  
+Siden 2009 har det blitt arrangert swingkurs i forkant av immballet som
+et akutt HMS-tiltak mot såre tær hos kvinnelige informatikere.
+
+### Liste over immball
+
+(bør kanskje utvides med menyer og ant. deltakere?)  
+* 2004 (mangler dato), Quality hotell Augustin  
+* 2005 2. Septmber, Sandmoen kro  
+* 2006 5. September, Dickens (nåværende Ai Suma)  
+* 2007 20. September, Grenaderen med fest på Ricks etterpå  
+* 2008 2. September, Ricks  
+* 2009 3. September, Kvilhaugen Gård med fest på [[Club ID]].  
+* 2010 8. September, Prinsen hotell  
+* 2011 3. September, Prinsen hotell  
+* 2012 15. September, Frimurerlosjen  
+* 2013 14. September, Frimurerlosjen
+* 2014 13. September, Frimurerlosjen
+
+Medlemmer
+---------
+
+|År|Leder|Økonomiansvarlig|    Medlemmer    |
+|---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
+|*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Magnus Buvarp|
+|*2013* |*Tri M. Nguyen* | Marius Krakeli | Henning Moberg Wold|Aina Elisabeth Thunestveit | Marius Thingwall | Marthe Sofie Øynes |Sverre Johann Bjørke|Tale Prestmo|Vilde Kristine Grav|
+|*2012*|*Terje Mikalsen*|Ragnhild Seim|Even Ødegaard|Even Østvold|Henning Moberg Wold|Ingeborg Ødegård Oftedal|
+|Jonathan Laschet|Jørgen Rugelsjøen Wikdahl|Per Øyvind Kanestrøm||
+|*2011*|*Juni Angelfoss*|Magnus German Hove|Lorents Gravås|Mathilde Oftedal|Sigurd Stølen Lund|Even Lislebø|
+|Magnus Kongshem|Magnus B. Line|Hanne Gunby|Eirin Haneseth|
+|John Hanssen Kolstad|David Storjord|Christian Peter||
+|*2010*|*Kristian Laskemoen*|Ada Jordal|Anja S. Rønning|Astrid Kløve-Graue|Dag Olav Prestegarden|Håvard Svae Slettvold|Jenny Rønningen|Joakim Aune|Juni Angelfoss|Lorents Gravås|Mathilde Ø. Oftedal|Sondre Frisvold|Michael Johansen|
+|*2009*|*Alexander Bjerkan*|Lorents Gravås|Anja S. Rønning|Jenny Rønningen|John Kolstad|Mathias Moen|Ingrid Kittelsen|Sondre Frisvold|Håkon Guldbransen|Hanne Oustad|Michael Johansen|Maria Møller|Alexander Perry|
