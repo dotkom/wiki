@@ -83,11 +83,11 @@ De tidlige årene
 
 Linjeforeningens formål var å skape et sosialt miljø og et bedre
 fagmiljø for de som studerte datafag på AVH.  
-\* Sosialt miljø - AVH hadde ikke hadde klasser, kun studenter som tok
+* Sosialt miljø - AVH hadde ikke hadde klasser, kun studenter som tok
 enkeltfag i ulik rekkefølge i sine studier. Derfor var det viktig å
 skape en sosial arena (holde fester) hvor man kunne bli bedre kjent med
 de øvrige studentene.  
-\* Faglig miljø - Linjeforeningen jobbet for å få etablert
+* Faglig miljø - Linjeforeningen jobbet for å få etablert
 hovedfagsstudium i informatikk. For å nå dette hovedmålet jobbet vi opp
 mot Fagstyret for EDB.
 
@@ -97,7 +97,7 @@ navnet fordi det “hørtes data ut”, var litt engelsk og kult, og skulle
 symbolisere at vi var på nett med medlemmene. Skrivemåten med små
 bokstaver og bindestrek var gjengs i datidens ortografi, men også viktig
 for at det da ble sju tegn, og navnet ble i starten skrevet på samme
-måten som “digital”. Det vil si “o n - l i n e” skrevet på tekstskjerm
+måten som “digital”. Det vil si “on - line” skrevet på tekstskjerm
 (80x24) på VT100 med ikke-proposjonal font med reversert bakgrunn. DEC,
 altså Digital Equipment Corporation, laget VAX-maskinene og
 VT100/220/240-terminalene vi brukte i mange av fagene (og utenom), og
@@ -166,13 +166,10 @@ historie.
 **Bakrusen og reparasjonen**
 
 Cirka 1990 - Online og Delta utga sangboken “Nusse”. Nusse er oppkalt
-etter Norges første elektroniske regnemaskin: Norsk Universell
-Siffermaskin Selvstyrt Elektronisk
-(http://no.wikipedia.org/wiki/Norsk\_Universell\_Siffermaskin\_Selvstyrt\_Elektronisk).
-**Nusse er å finne i bunnen av denne siden som PDF.**
+etter Norges første elektroniske regnemaskin: [Norsk Universell
+Siffermaskin Selvstyrt Elektronisk](http://no.wikipedia.org/wiki/Norsk\_Universell\_Siffermaskin\_Selvstyrt\_Elektronisk).
 
-Informatikk ved AVH går i ukatog (UKA 91). Ca. 2min12s inn i klippet;
-https://www.youtube.com/watch?v=XxiIYj-1LSc. Utdrag av youtube-klippet
+Informatikk ved AVH går i ukatog (UKA 91). Ca. 2min12s inn i [klippet](https://www.youtube.com/watch?v=XxiIYj-1LSc). Utdrag av youtube-klippet
 er lastet opp blant “Files” på denne wiki-en.
 
 95-96 - Online lå nede og ble startet opp fra scratch. Aktiviteter:
@@ -213,14 +210,14 @@ kaffedrikking.
 ### 2004/2005
 
 -   **Historie ønskes!**
--   [[dotKom|Drifts- og utviklingskomiteen]] opprettes. Før dette var
+-   dotKom(Drifts- og utviklingskomiteen) opprettes. Før dette var
     det hovedsaklig medlemmer av Hovedstyret som laget og driftet
     hjemmesidene.
 
 ### 2005/2006
 
 -   **Historie ønskes!**
--   [[fagKom|Fag- og kurskomiteen]] opprettes for å fordele det økende
+-   fagKom (Fag- og kurskomiteen) opprettes for å fordele det økende
     ansvaret for bedriftsarrangementer utover bedpresser.
 
 ### 2006/2007
@@ -231,8 +228,7 @@ kaffedrikking.
 ### 2007/2008
 
 -   **Historie ønskes!**
--   Linjeforeningen registreres i Brønnøysundregistrene,
-    http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992548045
+-   Linjeforeningen registreres i [Brønnøysundregistrene](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992548045)
 
 ### 2008/2009
 
