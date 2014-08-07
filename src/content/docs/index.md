@@ -48,18 +48,18 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 [Historie om linjeforeningen og komiteene](/wiki/online/historie/)
 ----------------------------------------
 
-- Historien om linjeforeningen
-    - Hovedstyret
-    - Arrangementskomiteen
-    - Bank- og økonomikomiteen
-    - Bedriftskomiteen
-    - Drifts- og utviklingskomiteen
-    - Fag- og kurskomiteen
-    - Profil- og aviskomiteen
-    - Trivselskomiteen
-    - Ekskursjonskomiteen
-    - Jubileumskomiteen
-    - Velkomstkomiteen
+- [Historien om linjeforeningen](/wiki/online/historie/om)
+    - [Hovedstyret](/wiki/online/historie/hs)
+    - [Arrangementskomiteen](/wiki/online/historie/arrkom)
+    - [Bank- og økonomikomiteen](/wiki/online/historie/bankom)
+    - [Bedriftskomiteen](/wiki/online/historie/bedkom)
+    - [Drifts- og utviklingskomiteen](/wiki/online/historie/dotkom)
+    - [Fag- og kurskomiteen](/wiki/online/historie/fagkom)
+    - [Profil- og aviskomiteen](/wiki/online/historie/prokom)
+    - [Trivselskomiteen](/wiki/online/historie/trikom)
+    - [Ekskursjonskomiteen](/wiki/online/historie/ekskom)
+    - [Jubileumskomiteen](/wiki/online/historie/jubkom)
+    - [Velkomstkomiteen](/wiki/online/historie/velkom)
 - Offline
 - Generalforsamlingen
 - Kontoret
