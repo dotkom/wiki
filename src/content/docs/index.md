@@ -61,7 +61,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Jubileumskomiteen](/wiki/online/historie/jubkom)
     - [Velkomstkomiteen](/wiki/online/historie/velkom)
 - Offline
-- Generalforsamlingen
+- [Generalforsamlingen](/wiki/online/generalforsamlingen)
 - Kontoret
 - Boden på Moholt
 - Realfagskjelleren
