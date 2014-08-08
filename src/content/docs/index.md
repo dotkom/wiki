@@ -60,7 +60,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Ekskursjonskomiteen](/wiki/online/historie/ekskom)
     - [Jubileumskomiteen](/wiki/online/historie/jubkom)
     - [Velkomstkomiteen](/wiki/online/historie/velkom)
-- Offline
+- [Offline](/wiki/online/offlines-historie/)
 - [Generalforsamlingen](/wiki/online/generalforsamlingen)
 - Kontoret
 - Boden på Moholt
