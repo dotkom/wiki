@@ -11,7 +11,7 @@ Våren 2014 ble Gulleblekka arrangert for første gang, etter initiativ fra Offl
 
 God lesing!
 
-Redaktører:
+Redaktører:  
 2011-2012: Lorents Odin Gravås  
 2012-2013: Rikard Eide  
 2013-2014: Kari F. Skjold  
