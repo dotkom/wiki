@@ -3,23 +3,22 @@ title: "Trivselskomiteen"
 ---
 
 
-
 Historie
 --------
 
 Trivselskomitéen ble startet høsten 2011, og vedtatt som komité på
 genfors 2012. 
-I året 2012-2013 pusset triKom opp hele kontoret 
+I året 2012-2013 pusset triKom opp hele kontoret med blant annet ny sofakrok, kjøkkenhjørne, stort konferansebord og nye hyller til komitémedlemmer. 
 
 triKom til daglig
 -----------------
-Trivselskomitéen har til daglig ansvar for at det er mat på kontoret, at kontorvakter blir satt opp og at man møter til disse og at kontoret er et greit sted å være for studenter. 
+Trivselskomitéen har til daglig ansvar for at det er mat på kontoret, at kontorvakter blir satt opp og at man møter til disse og at kontoret er et greit sted å være for studenter. Vi arrangerer også små hyggelige sammenkomster i løpet av året. 
 
 
 Medlemmer
 ---------
 
-Komitéen består for øyeblikket av 10 studenter som er engasjerte i
+Komitéen består for øyeblikket av 9 studenter som er engasjerte i
 triKom og linjeforeningen.
 
 -   L - leder
