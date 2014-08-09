@@ -2,13 +2,19 @@
 title: "Trivselskomiteen"
 ---
 
-Trivselskomitéen ble startet høsten 2011.
+
 
 Historie
 --------
 
 Trivselskomitéen ble startet høsten 2011, og vedtatt som komité på
-genfors 2012.
+genfors 2012. 
+I året 2012-2013 pusset triKom opp hele kontoret 
+
+triKom til daglig
+-----------------
+Trivselskomitéen har til daglig ansvar for at det er mat på kontoret, at kontorvakter blir satt opp og at man møter til disse og at kontoret er et greit sted å være for studenter. 
+
 
 Medlemmer
 ---------
