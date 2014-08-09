@@ -25,8 +25,7 @@ komiteene.
 -   Vedtekter
 
 Hvis generalforsamlingen er et stortingsvalg er vedtektene grunnloven.
-Her står bla. formålet til Online og en del om driften. Vedtektene kan
-leses [her][]. For å endre vedtektene må et endringsforslag fremmes før
+Her står bla. formålet til Online og en del om driften. For å endre vedtektene må et endringsforslag fremmes før
 generalforsamlingen og ha minst to tredjedels flertall.
 
 -   Dagsorden
@@ -47,5 +46,3 @@ Dokumenter
 -   [Generalforsamlingen 2012](/wiki/online/generalforsamlingen/2012)
 -   [Generalforsamlingen 2011](/wiki/online/generalforsamlingen/2012)
 -   [Årsmøtet 1987](/wiki/online/generalforsamlingen/arsmotet1987)
-
-  [her]: https://online.ntnu.no/media/uploads/onlines_vedtekter.pdf
