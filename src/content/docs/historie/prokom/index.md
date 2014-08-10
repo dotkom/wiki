@@ -54,7 +54,7 @@ Medlemmer
 ---------
 |År|Leder|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|13/14|**Thor Håkon Bredesen**|Said Turusbekov|Elise F. Olsen|Anne-Marie Samuelsen|Hanna S. Storaker|Lars L. Andersen|Stian Dysthe|Kathrine Steffensen|Rikard Eide|Hallvard Jore Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|
+|13/14|**Thor Håkon Bredesen**|Kathrine Steffensen|Rikard Eide|Sverre J. Bjørke|Said Turusbekov|Elise F. Olsen|Anne-Marie Samuelsen|Hanna S. Storaker|Lars L. Andersen|Stian Dysthe|Hallvard Jore Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|
 |12/13|**Magnus Line**|Beate H. Sandmo|Erik Lothe|Lorents O. Gravås|Magnus B. Line|Susanne Gustavsen|Sverre J. Bjørke|Aleksander Skraastad|Beate Baier Biribakken|
-|11/12|**Erik Lothe**|Espen S. Olsen|
-|10/11|**René Räisänen**|Juliet Nedza|René Räisänen|Annicka Johnsrud|John-E. Johansen|
+|11/12|**Erik Lothe**|Beate H. Sandmo|Erik Lothe|Lorents O. Gravås|Magnus B. Line|Susanne Gustavsen|Sverre J. Bjørke|Espen S. Olsen|
+|10/11|**René Räisänen**|Beate H. Sandmo|Erik Lothe|Lorents O. Gravås|Magnus B. Line|Susanne Gustavsen|Juliet Nedza|René Räisänen|Annicka Johnsrud|John-E. Johansen|
