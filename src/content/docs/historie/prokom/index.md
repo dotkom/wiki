@@ -54,7 +54,7 @@ Medlemmer
 ---------
 |År|Leder|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|14/15|**Kathrine Steffensen**|||Anne-Marie Samuelsen|Hanna Storaker|Stian Dysthe|
+|14/15|**Kathrine Steffensen**|Said Turusbekov|Elise Olsen|Anne-Marie Samuelsen|Hanna Storaker|Stian Dysthe|Lars Andersen|Kathrine Steffensen|Rikard Eide|Hallvard Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen||Maren Gulnes|Jørn-Egil Jensen|Øystein Molnes|
 |13/14|**Thor Håkon Bredesen**|Said Turusbekov|Elise Olsen|Anne-Marie Samuelsen|Hanna Storaker|Stian Dysthe|Lars Andersen|Kathrine Steffensen|Rikard Eide|Hallvard Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|Maren Gulnes|Jørn-Egil Jensen|Øystein Molnes|
 |12/13|**Magnus Line**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Sverre Bjørke|Kathrine Steffensen|Rikard Eide|Hallvard Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|Aleksander Skraastad|Beate Baier Biribakken|
 |11/12|**Erik Lothe**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Sverre Bjørke|Kathrine Steffensen|Rikard Eide|Espen Olsen|John-Erik Johansen|
