@@ -54,7 +54,7 @@ Medlemmer
 ---------
 |År|Leder|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|13/14|**Thor Håkon Bredesen**|Kathrine Steffensen|Rikard Eide|Sverre J. Bjørke|Said Turusbekov|Elise F. Olsen|Anne-Marie Samuelsen|Hanna S. Storaker|Lars L. Andersen|Stian Dysthe|Hallvard Jore Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|
-|12/13|**Magnus Line**|Beate H. Sandmo|Erik Lothe|Lorents O. Gravås|Magnus B. Line|Susanne Gustavsen|Sverre J. Bjørke|Aleksander Skraastad|Beate Baier Biribakken|
-|11/12|**Erik Lothe**|Beate H. Sandmo|Erik Lothe|Lorents O. Gravås|Magnus B. Line|Susanne Gustavsen|Sverre J. Bjørke|Espen S. Olsen|
-|10/11|**René Räisänen**|Beate H. Sandmo|Erik Lothe|Lorents O. Gravås|Magnus B. Line|Susanne Gustavsen|Juliet Nedza|René Räisänen|Annicka Johnsrud|John-E. Johansen|
+|13/14|**Thor Håkon Bredesen**|Kathrine Steffensen|Rikard Eide|Sverre Bjørke|Said Turusbekov|Elise Olsen|Anne-Marie Samuelsen|Hanna Storaker|Lars Andersen|Stian Dysthe|Hallvard Jore Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|
+|12/13|**Magnus Line**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Sverre Bjørke|Aleksander Skraastad|Beate Baier Biribakken|
+|11/12|**Erik Lothe**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Sverre Bjørke|Espen Olsen|John-Erik Johansen|
+|10/11|**René Räisänen**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Juliet Nedza|René Räisänen|Annicka Johnsrud|John-Erik Johansen|
