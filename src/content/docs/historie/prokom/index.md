@@ -53,7 +53,8 @@ utenforstående skribenter.
 Medlemmer
 ---------
 |År|Leder|Medlemmer|
-|---|---|---|---|---|---|---|---|---|---|---|---|--||13/14|**Thor Håkon Bredesen**|Said Turusbekov|Elise Olsen|Sverre Bjørke|Kathrine Steffensen|Rikard Eide|Anne-Marie Samuelsen|Hanna Storaker|Lars Andersen|Stian Dysthe|Hallvard Jore Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|13/14|**Thor Håkon Bredesen**|Said Turusbekov|Elise Olsen|Sverre Bjørke|Kathrine Steffensen|Rikard Eide|Anne-Marie Samuelsen|Hanna Storaker|Lars Andersen|Stian Dysthe|Hallvard Jore Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|
 |12/13|**Magnus Line**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Sverre Bjørke|Kathrine Steffensen|Rikard Eide|Aleksander Skraastad|Beate Baier Biribakken|
 |11/12|**Erik Lothe**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Sverre Bjørke|Kathrine Steffensen|Rikard Eide|Espen Olsen|John-Erik Johansen|
 |10/11|**René Räisänen**|Beate Sandmo|Erik Lothe|Lorents Gravås|Magnus Line|Susanne Gustavsen|Juliet Nedza|René Räisänen|Annicka Johnsrud|John-Erik Johansen|
