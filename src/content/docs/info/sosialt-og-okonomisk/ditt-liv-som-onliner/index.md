@@ -22,7 +22,8 @@ title: "Ditt liv som Onliner"
         med noen av våre tekniske løsninger.
 
 ###### FagKom: fagKom@online.ntnu.no
-- Organsiserer et eler flere kurs i samarbeid med bedrifter eller at egne studenter holder kurs. De organiserer også eksamenskurs når den tid nærmer seg.
+- Organsiserer kurs i samarbeid med bedrifter. Bedriftene kommer til NTNU for å lære bort det som er det kuleste i arbeidslivet, akkurat nå. De organiserer også eksamenskurs når den tid nærmer seg.
+- En gang i semesteret avholdes også lightning talks, en koselig kveld hvor alle som vil kan holde en lyntale (på 10-15 min) om det de har lyst til.
 
 ###### JubKom: jubKom@online.ntnu.no
 - Holder Onlinejubileum hvert femte år slik at alle som tar et
@@ -41,6 +42,10 @@ title: "Ditt liv som Onliner"
         tilfeldige.
 ###### VelKom: velKom@online.ntnu.no
 - Holder fadderuker for deg når du er fersk informatiker.
+
+###### EksKom: ekskom@online.ntnu.no
+- Arrangerer utenlandsekskursjon for alle 3.klassinger. Dette er noe alle bør benytte anledningen til å få med seg. 
+- Arrangerer TechTalks på våren for å samle inn penger, slik at ekskursjonen blir billigere for studentene. Dette er en dag, åpen for alle studenter på NTNU, hvor bedrifter kommer for å holde talks og foredrag. 
 
 «Kjapt, hva er bedpres, bedkurs og slikt?»
 ------------------------------------------
