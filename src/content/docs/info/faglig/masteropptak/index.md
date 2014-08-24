@@ -2,13 +2,11 @@
 title: "Masteropptak"
 ---
 
-
 For opptaket til master i informatikk trenger man et godt snitt på et
-utvalg av emnene. Denne kombinasjonen av emner er gjerne kalt
-“hovedprofilen”. Dette er den oppdaterte listen som ble utlevert fra
+utvalg av emnene. Dette er den oppdaterte listen som ble utlevert fra
 Langbakk 30.11.2012
 
-Emnene som teller på hovedprofilen for 2013/2014 er følgende:
+Emnene som teller på masteropptak for 2013/2014 er følgende:
 -------------------------------------------------------------
 
 -   **Obligatoriske emner:**
