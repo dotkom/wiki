@@ -50,4 +50,4 @@ Kilde: [Studiehådboka for 2013-2014][]
 
 Det skjer stadig endringer i fagkombinasjoner og hvilke emner som er tilgjengelig, så det er viktig å holde seg oppdatert med studiehåndboken og å besøke Langbakk en gang i blant.
 
-  [Studiehådboka for 2013-2014]: http://www.ntnu.no/studieinformasjon/realfag/205.pdf
+  [Studieplan for de forskjellige årskullene]: http://www.ntnu.no/studier/studieplan-realfag#programmeCode=BIT
