@@ -2,11 +2,11 @@
 title: "Tradisjonell skål"
 ---
 
-##Info
+#Info
 
 Dette er en skål med gode tradisjoner i Trondheim, og mange synger denne i de fleste sammenhenger der en stor  forsamling skal vise sin takk overfor noe. Derfor kan "Online" i denne teksten byttes ut med andre ord som passer   i melodien.  
 
-## Sangen
+# Sangen
 
 Ååååååååååååååååååååå,  
 dette skal være Online sin skål, hurra!  
