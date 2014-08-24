@@ -31,7 +31,7 @@ rene, hvite strender, ·
 en sommer flommer i din hals når  
 gyllenheten renner.  
 
-Skål for ølet _ect._  
+_Refr.:_ Skål for ølet ect.  
 
 En takk for ølet som er skjenket  
 mennesket i nåde,  
@@ -42,7 +42,7 @@ men ikke skatt til Staten
 som ikke engang. skjønner det er  
 godt med pils til maten!  
 
-Skål for ølet _ect._  
+_Refr.:_ Skål for ølet ect.  
 
 Nei, la oss ikke tenke mer på  
 avgifts-politikken,  
@@ -53,7 +53,7 @@ våre dager
 hva enten vi har lett-øl eller  
 sterkere på lager.  
 
-p(. Skål for ølet _ect._
+_Refr.:_ Skål for ølet ect.  
 
 Mmm . . . glasset hver vi påny,  
 mens ølhunden den glammer  
@@ -64,7 +64,7 @@ hånd-slag uten like
 som Harald's mjød i fortid  
 samlet Norge til ett rike!  
 
-p(. Skål for ølet _ect._  
+_Refr.:_ Skål for ølet ect.    
  
 
 _*Forbruker-opplysning:*
