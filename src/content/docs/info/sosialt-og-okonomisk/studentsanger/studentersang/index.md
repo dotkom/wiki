@@ -2,7 +2,6 @@
 title: "Studentersang"
 ---
 
-h1. Studentersang
 
 _Tekst: Nils Collett Vogt (24/9-1864 -- 23/2-1937)_
 
