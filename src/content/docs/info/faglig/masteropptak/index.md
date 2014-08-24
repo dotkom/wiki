@@ -46,8 +46,6 @@ Emnene som teller på masteropptak for 2013/2014 er følgende:
 -   TDT4220 Ytelsesvurdering **7,5 sp**
 -   TDT4242 Kravspesifikasjon og testing **7,5 sp**
 
-Kilde: [Studiehådboka for 2013-2014][]
+Kilde: [Studieplanen for de forskjellige årskullene](http://www.ntnu.no/studier/studieplan-realfag#programmeCode=BIT)
 
-Det skjer stadig endringer i fagkombinasjoner og hvilke emner som er tilgjengelig, så det er viktig å holde seg oppdatert med studiehåndboken og å besøke Langbakk en gang i blant.
-
-  [Studieplan for de forskjellige årskullene]: http://www.ntnu.no/studier/studieplan-realfag#programmeCode=BIT
+Det skjer stadig endringer i fagkombinasjoner og hvilke emner som er tilgjengelig, så det er viktig å holde seg oppdatert med studiehåndboken og å besøke Langbakk en gang i blant. Dersom du startet før 2013 finner du ikke din plan på siden og du bør sende en mail til Erik Langbakk for mer info. 
