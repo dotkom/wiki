@@ -2,7 +2,6 @@
 title: "Ved et studenterjubilaeum"
 ---
 
-h1. Ved et studenterjubilæum
 
 _Tekst: Kristofer Randers(1851-1917)_
 
