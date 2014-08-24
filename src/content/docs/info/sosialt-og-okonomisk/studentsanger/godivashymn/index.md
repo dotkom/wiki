@@ -4,8 +4,8 @@ title: "Godivas hymn"
 
 # Innspilling
 
-En del skoler i USA og Kanada har laget sine egne versjoner av sangen:
-* [MIT Chorallaries: The Engineers' Drinking Song](http://www.youtube.com/watch?v=CsFeKhjvpSg) _Kilde:YouTube_
+En del skoler i USA og Kanada har laget sine egne versjoner av sangen:  
+* [MIT Chorallaries: The Engineers' Drinking Song](http://www.youtube.com/watch?v=CsFeKhjvpSg) _Kilde:YouTube_  
 * [MIT Chorallaries: The Engineers' Drinking Song] (http://web.mit.edu/molly/OldFiles/Public/song.mp3) _Kilde:MIT_
 
 
