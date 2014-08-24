@@ -2,7 +2,6 @@
 title: "Studentersange"
 ---
 
-h1. Studentersange
 
 _Tekst: Marcus Jacob Monrad(1816-1897)_
 _Mel.: Saasnart jeg er indskreven_
