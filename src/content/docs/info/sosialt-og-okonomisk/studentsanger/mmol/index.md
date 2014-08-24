@@ -14,7 +14,7 @@ det smaker hele kroppen
 når perler går i evig strøm mot  
 skummet oppå toppen.  
 
-p(. *Refr.:*
+*Refr.:*
 Skål for ølet,  
 la det krølle  
 tungespissen i din munn.  
@@ -31,7 +31,7 @@ rene, hvite strender, ·
 en sommer flommer i din hals når  
 gyllenheten renner.  
 
-p(. Skål for ølet _ect._  
+Skål for ølet _ect._  
 
 En takk for ølet som er skjenket  
 mennesket i nåde,  
@@ -42,7 +42,7 @@ men ikke skatt til Staten
 som ikke engang. skjønner det er  
 godt med pils til maten!  
 
-p(. Skål for ølet _ect._  
+Skål for ølet _ect._  
 
 Nei, la oss ikke tenke mer på  
 avgifts-politikken,  
