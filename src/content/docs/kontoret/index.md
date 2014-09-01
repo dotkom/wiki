@@ -15,7 +15,7 @@ Kontoret fyller rom 303 i [Høgskoleringen 3](http://maps.google.com/maps?f=q&so
 Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent i semesteret grunnet eksamenslesing eller at kontorvakter ikke er satt opp enda. Det er i flittig bruk uansett, så det er nok noen innom i løpet av dagen uansett tid på året.
 
 ## Kjøleskapene
-- Dette må oppdateres.
+- På kontoret har vi pr. dags dato to kjøleskap. Det til høyre er det mulig å oppbevare mat i, men det må merkes med navn ellers kan hvem som helst forsyne seg av den. Kjøleskapet til venstre er stortsett fylt med drikkevarer som kjøpes inn av triKom for videre salg til studentene. 
 
 ## Kaffetrakteren
 
