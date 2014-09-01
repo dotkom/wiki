@@ -22,6 +22,8 @@ Nøkkelen til denne boden ligger i safen på kontoret. Kun HS har tilgang til sa
 
 ## Leieavtale
 
+# Denne biten er vel halveis utdatert?
+
 1. Leietakeren leier **bod nr 5 i Herman Kragsvei 38**, Moholt Studentby.
 2. Leietakeren leier fra **1.7.2011 til 30.06.2012**
 3. Boden skal ikke tas i bruk til annet formål enn oppbevaring av gods. Oppbevaring av brann- eller eksplosjonsfarlig materiale er ikke tillatt.
