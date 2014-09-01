@@ -2,12 +2,11 @@
 title: "Årsmøtet 1987"
 ---
 
-
 Dette er referatet fra årsmøtet den 13. oktober 1987. Formateringen er beholdt, men skandinaviske tegn er lagt til da standard tegnsett har forandret seg litt fra den tiden og de skandinaviske tegnene har falt vekk underveis. Referatet er skrevet av Leiv Arild Horrstad Andenes. Se forøvrig vedlegg til referatet i bunnen.
 
 ## Referat fra årsmøtet
 
-<pre>
+
 File name: ONLINE.AA3;10
 Document title: Referat frå allmøte 13/10-87
 Author initials: LAA
@@ -105,7 +104,7 @@ Som "sosial-komité" underliggjande on-line vart alle kandidatane valde:
 Sosial-komitéen skal velje ein representant som skal sitje i styret.
 Denne personen skal samtidig fylle funksjonen som kasserar i
 linjeforeninga.
-</pre>
+
 
 ## Vedlegg til referatet
 
