@@ -1,0 +1,33 @@
+---
+title: "Kontoret"
+---
+
+# Kontoret
+
+Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sove på en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall algoritmen og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner. Kontoret blir også brukt til møtevirksomhet av komitéene.
+
+## Beliggenhet
+
+Kontoret fyller rom 303 i [Høgskoleringen 3](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=h%C3%B8gskoleringen+3&aq=&sll=63.418013,10.406225&sspn=0.002048,0.007923&ie=UTF8&hq=&hnear=H%C3%B8gskoleringen+3,+7034+Trondheim,+S%C3%B8r-Tr%C3%B8ndelag,+Norway&ll=63.4184,10.405898&spn=0.00819,0.031693&z=16) på Gløshaugen. 
+
+## Åpningstider
+
+Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent i semesteret grunnet eksamenslesing eller at kontorvakter ikke er satt opp enda. Det er i flittig bruk uansett, så det er nok noen innom i løpet av dagen uansett tid på året.
+
+## Kjøleskapene
+- Dette må oppdateres.
+
+## Kaffetrakteren
+
+Kaffe er gratis, det er bare å lage! =)
+Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kanna, slik at andre kan se når kaffen ble laget.
+
+For en full kanne lønner det seg å bruke 6 flate kaffeskjeer med kaffe og fylle vann til "1 1/4"-merket.
+
+## Annet
+
+Det står en mikrobølgeovn fremme som er til fritt bruk.
+Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne for å gå i forelesning eller datasalen, men hvis du ikke finner mer enn 1 kanne, så la den stå igjen. _Kanna fra trakteren kan **ALDRI** fjernes fra kontoret!_
+Kaffe, te og annet som det ikke står noen pris på er å betrakte som gratis goder til "alle" (les: medlemmer av linjeforeningen).
+
+Telefonnummeret til kontoret er 73 59 64 89
