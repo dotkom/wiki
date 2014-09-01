@@ -2,7 +2,6 @@
 title: "Boden på Moholt"
 ---
 
-# Boden på Moholt
 
 Bortsett fra kontoret er boden er den eneste låsbare ressursen Online har.
 Boden vår er nummer 5 i Herman Krags vei 38.
