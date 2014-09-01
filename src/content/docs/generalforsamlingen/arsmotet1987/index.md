@@ -6,104 +6,103 @@ Dette er referatet fra årsmøtet den 13. oktober 1987. Formateringen er beholdt
 
 ## Referat fra årsmøtet
 
+    File name: ONLINE.AA3;10
+    Document title: Referat frå allmøte 13/10-87
+    Author initials: LAA
+    Last edited: 14-OCT-87
 
-File name: ONLINE.AA3;10
-Document title: Referat frå allmøte 13/10-87
-Author initials: LAA
-Last edited: 14-OCT-87
+    REFERAT frå allmøte på datafag,
+    Tysdag 13. oktober 1987,  kl. 12.15,  Auditorium V.
 
-REFERAT frå allmøte på datafag,
-Tysdag 13. oktober 1987,  kl. 12.15,  Auditorium V.
+    Saksliste:
 
-Saksliste:
+    1) Orientering om datafag-studiet ved Terje Rydland.
+    2) Val av nytt linjeforeningsstyre.
+    3) Val av studentrepresentant til StudentUtvalget og Fagstyret for EDB.
+    4) Eventuelt.
 
-1) Orientering om datafag-studiet ved Terje Rydland.
-2) Val av nytt linjeforeningsstyre.
-3) Val av studentrepresentant til StudentUtvalget og Fagstyret for EDB.
-4) Eventuelt.
+    Møtte:  Totalt 36 (ein del færre under stemmegivinga).
+    Møteleiar:  Ragnar Kvithyll.
+    Referent:   Leiv Arild H. Andenes.
 
-Møtte:	Totalt 36 (ein del færre under stemmegivinga).
-Møteleiar:	Ragnar Kvithyll.
-Referent:	Leiv Arild H. Andenes.
+    Sak nr. 1
+    =========
+    Terje Rydland sa seg villeg til å gi ei orientering om datafag-studiet,
+    og kopi av hans notatar følgjer som vedlegg til referatet.
+    Elles hadde han følgjande kommentarar til hovudfagsstudiet:
+    - Studiet skal tilsvare (minst) 1 års fulltidsstudium.
+    - Fellespensumet (5 vekttal) er felles for alle hovudfagsstudentane.
+    - Spesialpensumet (5 vekttal) kan veljast mellom emne på instituttet
+      og NTH, og må godkjennast av instituttet. Det skal også vere råd å
+      leggje opp ei bok som deler av spesialpensumet.
 
-Sak nr. 1
-=========
-Terje Rydland sa seg villeg til å gi ei orientering om datafag-studiet,
-og kopi av hans notatar følgjer som vedlegg til referatet.
-Elles hadde han følgjande kommentarar til hovudfagsstudiet:
-- Studiet skal tilsvare (minst) 1 års fulltidsstudium.
-- Fellespensumet (5 vekttal) er felles for alle hovudfagsstudentane.
-- Spesialpensumet (5 vekttal) kan veljast mellom emne på instituttet
-  og NTH, og må godkjennast av instituttet. Det skal også vere råd å
-  leggje opp ei bok som deler av spesialpensumet.
+    Etter innlegget kom det eit spørsmål om korvidt det er råd å få
+    tilgang til NTH-fag.
+    I prinsippet er dette ei kurant sak, men AVH-studentar stiller sist i
+    køen om tilgang til studieplassane. Dersom faga er oppfylte (noko som
+    spesielt er tilfelle på grunn-kursa), vil det vere uråd å få plass,
+    men på ein del fag er det avsett plassar til hospitantar slik at t.d.
+    AVH-studentar kan ha ein sjanse.
+    I alle fall skulle det ikkje vere nemneverdige problem på vidaregåande
+    kurs dersom ein har dei nødvendige faglege føresetnadene.
 
-Etter innlegget kom det eit spørsmål om korvidt det er råd å få
-tilgang til NTH-fag.
-I prinsippet er dette ei kurant sak, men AVH-studentar stiller sist i
-køen om tilgang til studieplassane. Dersom faga er oppfylte (noko som
-spesielt er tilfelle på grunn-kursa), vil det vere uråd å få plass,
-men på ein del fag er det avsett plassar til hospitantar slik at t.d.
-AVH-studentar kan ha ein sjanse.
-I alle fall skulle det ikkje vere nemneverdige problem på vidaregåande
-kurs dersom ein har dei nødvendige faglege føresetnadene.
+    Reint praktisk må faget førast i eigen rubrikk på det vanlege
+    fagpåmeldingsskjemaet (Merk: Nokre NTH-fag har i tillegg emnekode frå
+    AVH - i så fall skal denne brukast!)
 
-Reint praktisk må faget førast i eigen rubrikk på det vanlege
-fagpåmeldingsskjemaet (Merk: Nokre NTH-fag har i tillegg emnekode frå
-AVH - i så fall skal denne brukast!)
+    Ein bør vere klar over at AVH har eit system for vekttalsreduksjon som
+    vert brukt dersom deler av faget overlappar med fag på AVH, slik at ein
+    kan få mindre kreditt for faget enn tenkt.
 
-Ein bør vere klar over at AVH har eit system for vekttalsreduksjon som
-vert brukt dersom deler av faget overlappar med fag på AVH, slik at ein
-kan få mindre kreditt for faget enn tenkt.
+    Sak nr. 2
+    =========
+    Det avtroppande styret i on-line, linjeforeninga for datafag, har kome
+    fram til ei ny organiseringsform for foreninga, med målsettinga å best
+    mogleg kunne syte for informasjon mellom studentane og dei styrande
+    organa.
 
-Sak nr. 2
-=========
-Det avtroppande styret i on-line, linjeforeninga for datafag, har kome
-fram til ei ny organiseringsform for foreninga, med målsettinga å best
-mogleg kunne syte for informasjon mellom studentane og dei styrande
-organa.
+    I den samanheng vert styret sine oppgåver meir fagleg orienterte enn
+    før, og ansvaret for alle arrangement av sosial karakter blir delegert
+    til den nyvalde "sosial-komiteen", som så skal velje ein representant
+    til styret for foreninga.
 
-I den samanheng vert styret sine oppgåver meir fagleg orienterte enn
-før, og ansvaret for alle arrangement av sosial karakter blir delegert
-til den nyvalde "sosial-komiteen", som så skal velje ein representant
-til styret for foreninga.
+    Studentrepresentanten i Fagstyret for EDB (og evt. andre resentantar
+    som har ting å kome med som vedkjem datastudentane), bør vere med på
+    on-line-møta i den utstrekning det er råd.
 
-Studentrepresentanten i Fagstyret for EDB (og evt. andre resentantar
-som har ting å kome med som vedkjem datastudentane), bør vere med på
-on-line-møta i den utstrekning det er råd.
+    Som representant til SU (Studentutvalget) vart Paul Woxeng Sollid vald
+    på akklamasjon som einaste kandidat.
 
-Som representant til SU (Studentutvalget) vart Paul Woxeng Sollid vald
-på akklamasjon som einaste kandidat.
+    Som studentrepresentant til Fagstyret for EDB (som snart går over til
+    instituttrådet ved Inst. for Informatikk) vart følgjande personar
+    foreslått:
+        Erlend Stav     23 stemmer
+        Ole André Brevik Saure   9 stemmer
+        Eva Margrete Sundset     0 stemmer
 
-Som studentrepresentant til Fagstyret for EDB (som snart går over til
-instituttrådet ved Inst. for Informatikk) vart følgjande personar
-foreslått:
-	Erlend Stav		23 stemmer
-	Ole André Brevik Saure	 9 stemmer
-	Eva Margrete Sundset	 0 stemmer
+    Valet vart avgjort ved handsopprekking, og Erlend Stav vart altså
+    attvald som representant.
 
-Valet vart avgjort ved handsopprekking, og Erlend Stav vart altså
-attvald som representant.
+    Av det avtroppande styret i on-line stilte følgjande personar til attval:
+        Ragnar Kvithyll
+        Leiv Arild Horrstad Andenes
 
-Av det avtroppande styret i on-line stilte følgjande personar til attval:
-	Ragnar Kvithyll
-	Leiv Arild Horrstad Andenes
-	
-Hemmeleg avstemming ga følgjande resultat:
-	Kjersti Lauritzen	31 stemmer
-	Ragnar Kvithyll		24 stemmer
-	Leiv Arild H. Andenes	21 stemmer
-	Hilde Fiane Jacobsen	19 stemmer
-	Terje Olsen		13 stemmer
-	
-Som "sosial-komité" underliggjande on-line vart alle kandidatane valde:
-	Børge Furu
-	Bjørn Klaussen
-	Lars J. Kolby
-	Knut Stølen
-	Jorun Berg Malvik
-Sosial-komitéen skal velje ein representant som skal sitje i styret.
-Denne personen skal samtidig fylle funksjonen som kasserar i
-linjeforeninga.
+    Hemmeleg avstemming ga følgjande resultat:
+        Kjersti Lauritzen   31 stemmer
+        Ragnar Kvithyll     24 stemmer
+        Leiv Arild H. Andenes   21 stemmer
+        Hilde Fiane Jacobsen    19 stemmer
+        Terje Olsen     13 stemmer
+
+    Som "sosial-komité" underliggjande on-line vart alle kandidatane valde:
+        Børge Furu
+        Bjørn Klaussen
+        Lars J. Kolby
+        Knut Stølen
+        Jorun Berg Malvik
+    Sosial-komitéen skal velje ein representant som skal sitje i styret.
+    Denne personen skal samtidig fylle funksjonen som kasserar i
+    linjeforeninga.
 
 
 ## Vedlegg til referatet
