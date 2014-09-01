@@ -61,7 +61,7 @@ Linjeforeninger
 | [Theodor](http://www.lftheodor.no/) | | Arkeologi | | | [Group](http://fb.com/groups/122741647786/) | theodor.arkeologi@gmail.com |
 | [Trondheim Klassisk Studentforening](http://klassisk.webs.com/news.htm) | | Klassiske fag | | | [Group](https://www.facebook.com/groups/41722135873/) | |
 
-h2. Bedriftsforeninger
+## Bedriftsforeninger
 
 Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sine egne bedpreser via sin bedriftskontakt. I tillegg finnes det studentforeninger som har bedriftskontakt som sitt primære og eneste område. For enkelhet har vi valgt å kalle disse "bedriftsforeninger".
 
@@ -70,9 +70,9 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
 |[Bedriftsportalen for psykologi](http://www.bedpsyk.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994503855)|Psykologi||[Page](http://fb.com/bedpsyk)|post@bedpsyk.no|
 |[ECONnect](http://econnect-ntnu.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994625314)|Samfunnsøkonomi||[Page](http://fb.com/econ.ntnu)|it@econnect-ntnu.no|
 
-h2. Ressurser
+## Ressurser
 
-h3. Søke økonomisk støtte
+### Søke økonomisk støtte
 
 * *Kulturstyret*, SiT ved Kulturstyret deler ut 1.000.000 i året
 ** Les mer på [sit.no/om-sit/studentorganisasjoner](http://www.sit.no/om-sit/studentorganisasjoner)
