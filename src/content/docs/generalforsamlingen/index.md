@@ -44,5 +44,5 @@ Dokumenter
 -   [Generalforsamlingen 2014](/wiki/online/generalforsamlingen/2014)
 -   [Generalforsamlingen 2013](/wiki/online/generalforsamlingen/2013)
 -   [Generalforsamlingen 2012](/wiki/online/generalforsamlingen/2012)
--   [Generalforsamlingen 2011](/wiki/online/generalforsamlingen/2012)
+-   [Generalforsamlingen 2011](/wiki/online/generalforsamlingen/2011)
 -   [Årsmøtet 1987](/wiki/online/generalforsamlingen/arsmotet1987)
