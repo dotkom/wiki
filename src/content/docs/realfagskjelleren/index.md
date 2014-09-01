@@ -2,12 +2,10 @@
 title: "Realfagskjelleren"
 ---
 
-
 I 2000 fikk Online og [Volvox & Alkymisten](http://org.ntnu.no/volvox) tildelt sin egen kjeller på moholt, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
 
 Senere lot vi [Delta](http://org.ntnu.no/delta) og [Spanskrøret](http://www.spanskroret.no) inn i varmen og skiftet navn til Realfagskjelleren.
 
-Se [[Linjeforeninger på Gløshaugen#Moholtkjellerne|kart over Moholtkjellerne]].
 
 ## Onlinere i Kjellerstyret
 
