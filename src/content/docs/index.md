@@ -62,10 +62,10 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Velkomstkomiteen](/wiki/online/historie/velkom)
 - [Offline](/wiki/online/offlines-historie/)
 - [Generalforsamlingen](/wiki/online/generalforsamlingen)
-- Kontoret
-- Boden på Moholt
-- Realfagskjelleren
-- Datakameratene FK
+- Kontoret(/wiki/online/kontoret)
+- Boden på Moholt(/wiki/online/bodenpaamoholt)
+- Realfagskjelleren(/wiki/online/realfagskjelleren)
+- Datakameratene FK(/wiki/online/datakameratenefk)
 
 [Interne wikier](/wiki/)
 --------------
