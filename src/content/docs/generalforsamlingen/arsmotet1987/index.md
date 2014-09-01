@@ -107,50 +107,48 @@ Dette er referatet fra årsmøtet den 13. oktober 1987. Formateringen er beholdt
 
 ## Vedlegg til referatet
 
-<pre>
-File name: ONLINE.AA4;5
-Document title: Vedlegg til allmøtereferat -87
-Author initials: LAA
-Last edited: 14-OCT-87
+    File name: ONLINE.AA4;5
+    Document title: Vedlegg til allmøtereferat -87
+    Author initials: LAA
+    Last edited: 14-OCT-87
 
-Oversikt over EDB-studiet ved AVH. 4 målgrupper:
-* Et eller flere IT-emner som støttefag til et annet fagområde.
-* Undervisningskompetanse.
-* Cand. mag. studenter med hovedvekt på EDB.
-* Hovedfag/dr.gradsstudium.
+    Oversikt over EDB-studiet ved AVH. 4 målgrupper:
+    * Et eller flere IT-emner som støttefag til et annet fagområde.
+    * Undervisningskompetanse.
+    * Cand. mag. studenter med hovedvekt på EDB.
+    * Hovedfag/dr.gradsstudium.
 
-Undervisningskompetanse: Må ta:
-- Da1 (Grunnkurs i EDB og programmering), 5 vekttall
-- Da2 (Videregåeende programmering), 4 vekttall
-- Da3 (EDB i skolen), 2 vekttall
-- Da4 (EDB og samfunn), 2 vekttall
-- Da6 (Datamaskinens virkemåte), 2 vekttall
-Dvs. 15 vekttall.
+    Undervisningskompetanse: Må ta:
+    - Da1 (Grunnkurs i EDB og programmering), 5 vekttall
+    - Da2 (Videregåeende programmering), 4 vekttall
+    - Da3 (EDB i skolen), 2 vekttall
+    - Da4 (EDB og samfunn), 2 vekttall
+    - Da6 (Datamaskinens virkemåte), 2 vekttall
+    Dvs. 15 vekttall.
 
-Resterende 5 vekttall kan taes blant:
-- Da5 (Grafisk databehandling), 2 vekttall
-- Da7 (Datastøttet læring), 2 vekttall
-- Da8 (Sanntidsprogrammering og prosesstilknytning), 2 vekttall
-- Da9 (Systemering I), 2 vekttall
+    Resterende 5 vekttall kan taes blant:
+    - Da5 (Grafisk databehandling), 2 vekttall
+    - Da7 (Datastøttet læring), 2 vekttall
+    - Da8 (Sanntidsprogrammering og prosesstilknytning), 2 vekttall
+    - Da9 (Systemering I), 2 vekttall
 
-Det er søkt departementet om å få erstattet Da2 med Da12, slik at man
-kan få undervisningskompetanse uten å ha tatt Da2.
+    Det er søkt departementet om å få erstattet Da2 med Da12, slik at man
+    kan få undervisningskompetanse uten å ha tatt Da2.
 
-Grunnfag: Består av 20 vekttall, hvor følgende emner er med:
-Da1, Da2, Da6 og Da9.
+    Grunnfag: Består av 20 vekttall, hvor følgende emner er med:
+    Da1, Da2, Da6 og Da9.
 
-Hovedfag: Minimum 30 vekttall for å bli tatt opp. Det kreves et visst
-kjennskap til matematikk innen fagfeltene Kunnskapsteknologi og Billed-
-behandling. Hovedfaget består av 3 deler:
-	Fellespensum.
-	Spesialpensum.
-	Hovedoppgave.
-I fellespensumet vil man kreve en viss mengde matematikk uansett
-fagområde.
+    Hovedfag: Minimum 30 vekttall for å bli tatt opp. Det kreves et visst
+    kjennskap til matematikk innen fagfeltene Kunnskapsteknologi og Billed-
+    behandling. Hovedfaget består av 3 deler:
+        Fellespensum.
+        Spesialpensum.
+        Hovedoppgave.
+    I fellespensumet vil man kreve en viss mengde matematikk uansett
+    fagområde.
 
-Kapasitet: Instituttet vil ta opp hovedfagsstudenter etter den
-kapasitet som man til enhver tid har. Dvs. at pr. idag vil man kunne
-håndtere ca. 10-12 studenter. Hvor mange det bli i fremtiden vil være
-avhengig av bemanning og i hvor stor grad hovedfagsstudentene er i
-stand til å jobbe selvstendig.
-</pre>
+    Kapasitet: Instituttet vil ta opp hovedfagsstudenter etter den
+    kapasitet som man til enhver tid har. Dvs. at pr. idag vil man kunne
+    håndtere ca. 10-12 studenter. Hvor mange det bli i fremtiden vil være
+    avhengig av bemanning og i hvor stor grad hovedfagsstudentene er i
+    stand til å jobbe selvstendig.
