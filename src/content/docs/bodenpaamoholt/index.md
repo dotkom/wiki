@@ -11,8 +11,8 @@ Boden vår er nummer 5 i Herman Krags vei 38.
 
 * Grillen
 * Diverse utendørsspill;
-** Kubb
-** Krokket
+    * Kubb
+    * Krokket
 * Pokerbordene (4. styk)
 * Skillevegger som tidligere ble brukt på kontoret
 
