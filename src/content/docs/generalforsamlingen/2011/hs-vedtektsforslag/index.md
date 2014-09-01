@@ -2,10 +2,10 @@
 title: "Hovedstyrets vedtektsforslag"
 ---
 
-
 [TOC]
 
 Se også:
+
 * [2011 Separate vedtektsforslag](/wiki/online/generalforsamlingen/2011/separate-vedtekstforslag) - Endringer som kan skape større kontrovers.
 * [2011 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2011/valg) - Er du klar for et verv i Hovedstyret?
 
