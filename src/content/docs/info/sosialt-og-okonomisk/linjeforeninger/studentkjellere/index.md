@@ -64,4 +64,4 @@ Kjellerne på Moholt har lange tradisjoner for å "berge" ting, altså å ta tin
 
 Om du vil *redigere dette kartet* er det bare å laste ned photoshopfilen nederst på denne siden og sende en oppdatert versjon tilbake til oss på kontakt@online.ntnu.no
 
-!Moholtkjellerne.png!
+[attachment:120]
