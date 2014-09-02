@@ -3,6 +3,7 @@ title: "2013 Vedtektsforslag"
 ---
 
 [TOC]
+
 ---
 * [2013 Saksliste](/wiki/online/generalforsamlingen/2013/saksliste) - Saksliste for generalforsamlingen 2013
 * [2013 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2013/valg) - Er du klar for et verv i Hovedstyret?
@@ -14,7 +15,6 @@ title: "2013 Vedtektsforslag"
 
 # §3 Generalforsamlingen
 
-## 1
 
 ## Retting av skrivefeil
 
@@ -23,7 +23,6 @@ bør endres til "Hovedstyret", for å samsvare med resten av dokumentet.
 Denne endringen bør ikke overgå reglene for naturlig orddeling,
 eksempelvis ved linjeskift i §4.1 linje 1.
 
-## 2
 
 ## Fraskrivelse av rett til å stille til valg
 
@@ -101,7 +100,6 @@ Alle tidligere informatikkstudenter har anledning til å søke om medlemskap i p
 
 Casual Gaming
 
-## 6
 
 ## Endre bedKoms beskrivelse for å inkludere utarbeiding av hovedsamarbeidsavtale
 
