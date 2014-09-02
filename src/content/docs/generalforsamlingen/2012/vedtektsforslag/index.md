@@ -12,11 +12,9 @@ title: "2012 Vedtektsforslag"
 * [attachment:109]
 - - -
 
-
-
 # §5 Medlemskap
 
-## 1.
+
 
 ## Nye medlemsretninger
 
@@ -26,7 +24,7 @@ Erfaringsbasert master i helseinformatikk
 Bioinformatics (internasjonal master)
 Healthcare informatics (internasjonal master)
 
-## 2.
+
 
 ## Kompileringen
 
@@ -36,7 +34,7 @@ Et medlem som har deltatt på linjeforeningsopptaket Kompileringen betegnes som 
 
 # §6 Økonomi
 
-## 3.
+
 
 ## Forsikringer
 
@@ -44,7 +42,7 @@ Et medlem som har deltatt på linjeforeningsopptaket Kompileringen betegnes som 
 
 Bank- og økonomikomiteen skal etterstrebe å holde linjeforeningen med gyldige forsikringer for midler og materiell som er disponert av linjeforeningen. Dette gjelder kun dersom bank- og økonomikomiteen mener at linjeforeningen har tilstrekkelige midler til at dette er fornuftig.
 
-## 4.
+
 
 ## Utilgjengelighet av økonomiansvarlig
 
@@ -54,7 +52,7 @@ Nestleder kan også påta seg oppgavene til leder av banKom ved midlertidig beho
 
 # §4 Struktur, ledelse og organisasjon
 
-## 5.
+
 
 ## Forslag om navngivning av pangKom
 
@@ -68,7 +66,7 @@ Pensjonistkomiteen
 
 Komiteens navn forkortes pangKom.
 
-## 6.
+
 
 ## TriKom
 
@@ -82,7 +80,7 @@ Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverd
 
 *Teksten "Kontoret skal ha retningslinjer på lik linje med komiteene." i §4.5 om kontoret skal erstattes med:* Kontorets retningslinjer defineres av trivselskomiteen.
 
-## 7.
+
 
 ## Oppsigelse
 
@@ -98,7 +96,7 @@ Ved oppsigelse fra en komite mister man de rettigheter man har tilegnet seg inte
 
 Leder av en komite har rett til å si opp et medlem av sin egen komite. Oppsigelse skal kun finne sted i tilfeller der det blir ansett som høyst nødvendig for å beskytte komiteens samhold, initiativ, integritet eller profesjonalitet. Et komitemedlem har rett til å få én advarsel og en mulighet til å forbedre seg i forkant av en eventuell oppsigelse. Leder av komiteen plikter å konsultere leder av linjeforeningen i forkant av en eventuell advarsel eller oppsigelse. Det påpekes at leder av linjeforeningen har HMS-ansvar.
 
-## 8.
+
 
 ## Mislighold av verv
 
@@ -106,7 +104,7 @@ Leder av en komite har rett til å si opp et medlem av sin egen komite. Oppsigel
 
 Om et komitemedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag ovenfor vedkommende. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret, deretter skal den anklagede få en mulighet til å forsvare seg før Hovedstyret diskuterer og avgjør saken uten den anklagede til stede. For å beholde et beslutningsdyktig og fungerende Hovedstyre vil det kun være mulig å stille mistillitsforslag mot ett hovedstyremedlem av gangen. Hovedstyret har to uker på å behandle et mistillitsforslag.
 
-## 9.
+
 
 ## Nodesystemet
 
@@ -152,7 +150,6 @@ Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står frit
         nert av Pressens Faglige Utvalg. Redaktøren følger på lik måte Redaktørplakaten defi
                                                                                             nert av Pressens Faglige Utvalg. Redaktøren står fritt til å velge redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Merk at personer som ikke innfrir krav til medlemskap som definert under §5 ikke får medlemskap i linjeforeningen utenfor redaksjonen, men kan fritt inkluderes på interne arrangementer for medlemmer med verv. Komiteens forelderkomite er proKom.
 
-## 10.
 
 ## Jubileumsfond
 
@@ -162,7 +159,6 @@ Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står frit
 
 Hovedstyret skal spare kr. 10.000,- hvert år til neste jubileum. Beløpet kan justeres av Hovedstyret dersom de ser behov for det. Hovedstyret kan etter behov vedta å ikke spare noe et år dersom linjeforeningen har havnet i en vanskelig økonomisk situasjon. Pengene skal settes over på en egen konto og blir da øremerket til gjennomføring av linjeforeningens neste jubileum.
 
-## 11.
 
 ## Forslag om endring av navneregler for komiteforkortelser
 
