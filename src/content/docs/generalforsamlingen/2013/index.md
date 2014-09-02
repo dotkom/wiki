@@ -10,8 +10,6 @@ title: "Generalforsamlingen 2013"
 
 h2. Budsjetter og regnskap
 
-* [attachment:111]
-* [attachment:112]
 * [attachment:113]
 * [attachment:114]
 * [attachment:115]
