@@ -2,7 +2,6 @@
 title: "2012 Saksliste"
 ---
 
-
 - - -
 
 1. Velkommen v/leder
@@ -43,24 +42,24 @@ title: "2012 Saksliste"
 12. Innsendte saker og vedtektsendringer
 
     * 12.1 - Innsendte saker
-        * 12.1.1 - ProKom formaterer vedtektene -
-        * 12.1.2 - Undergrupper kan stille til verv -
-        * 12.1.3 - Sparing til jubileer -
+        * 12.1.1 - ProKom formaterer vedtektene 
+        * 12.1.2 - Undergrupper kan stille til verv 
+        * 12.1.3 - Sparing til jubileer 
     * 12.2 - Vedtektsendringer
-        * 12.2.1 - Nye medlemsretninger -
-        * 12.2.2 - Kompileringen -
-        * 12.2.3 - Forsikringer -
-        * 12.2.4 - Utilgjengelighet av økonomiansvarlig -
-        * 12.2.5 - Forslag om navngivning av pangKom -
-        * 12.2.6 - TriKom -
-        * 12.2.7 - Oppsigelse -
-        * 12.2.8 - Mislighold av verv -
-        * 12.2.9 - Nodesystemet -
-        * 12.2.10 - Jubileumsfond -
-        * 12.2.11 - Forslag om endring av navneregler for komiteforkortelser -
+        * 12.2.1 - Nye medlemsretninger 
+        * 12.2.2 - Kompileringen 
+        * 12.2.3 - Forsikringer 
+        * 12.2.4 - Utilgjengelighet av økonomiansvarlig 
+        * 12.2.5 - Forslag om navngivning av pangKom 
+        * 12.2.6 - TriKom
+        * 12.2.7 - Oppsigelse 
+        * 12.2.8 - Mislighold av verv
+        * 12.2.9 - Nodesystemet 
+        * 12.2.10 - Jubileumsfond 
+        * 12.2.11 - Forslag om endring av navneregler for komiteforkortelser 
 
 13. Godkjenning av regnskap 11/12 og budsjett 12/13
-14. Valg - Se [[2012 Kandidater til Hovedstyret|Kandidater]]
+14. Valg
 
     * 14.1 - Valg av leder
     * 14.2 - Valg av nestleder
