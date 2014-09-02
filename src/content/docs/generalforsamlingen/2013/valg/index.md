@@ -15,7 +15,7 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som *har meldt sin interesse* for verv i Hovedstyret til neste år. Følgende personer har meldt at de har interesse av å stille til Hovedstyreverv på generalforsamlingen:
 
-* *Leder:* David Storjord, _Sverre J. Bjørke_, Linn Vikre
+* *Leder:* David Storjord, __Sverre J. Bjørke__, Linn Vikre
 * *Nestleder:* Håvard Slettvold, +Linn Vikre+, Per Øyvind Kanestrøm
 * *arrKom:* +Marius Thingwall+, Jim Frode Hoff, Tale Prestmo
 * *bedKom:* +Jim Tørlen+, Per Øyvind Kanestrøm
