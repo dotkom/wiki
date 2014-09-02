@@ -2,12 +2,6 @@
 title: "2012 Saksliste"
 ---
 
-* [2012 Saksliste](/wiki/online/generalforsamlingen/2012/saksliste) - Saksliste for generalforsamlingen 2012
-* [2012 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2012/valg) - Er du klar for et verv i Hovedstyret?
-* [2012 Vedtektsforslag](/wiki/online/generalforsamlingen/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2012 Saksforslag](/wiki/online/generalforsamlingen/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [attachment:110]
-* [attachment:109]
 
 - - -
 
@@ -27,40 +21,40 @@ title: "2012 Saksliste"
 10 - Dagsorden
 11 - Årsberetninger
 *       11.1 - Administrative
-**               11.1.1 - Hovedstyret
-**               11.1.2 - Kontoret
+*               11.1.1 - Hovedstyret
+*               11.1.2 - Kontoret
 *       11.2 - Komiteer
-**               11.2.1 - ArrKom
-**               11.2.2 - BanKom
-**               11.2.3 - BedKom
-**               11.2.4 - DotKom
-**               11.2.5 - FagKom
-**               11.2.6 - PangKom
-**               11.2.7 - ProKom
+*               11.2.1 - ArrKom
+*               11.2.2 - BanKom
+*               11.2.3 - BedKom
+*               11.2.4 - DotKom
+*               11.2.5 - FagKom
+*               11.2.6 - PangKom
+*               11.2.7 - ProKom
 *       11.3 - Periodiske komiteer
-**               11.3.1 - JubKom
-**               11.3.2 - VelKom
+*               11.3.1 - JubKom
+*               11.3.2 - VelKom
 *       11.4 - Andre
-**               11.4.1 - Datakameratene FK
-**               11.4.2 - Realfagskjellern
+*               11.4.1 - Datakameratene FK
+*               11.4.2 - Realfagskjellern
 
 12 - Innsendte saker og vedtektsendringer
 *       12.1 - Innsendte saker
-**               12.1.1 - ProKom formaterer vedtektene - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Saksforslag#1
-**               12.1.2 - Undergrupper kan stille til verv - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Saksforslag#2
-**               12.1.3 - Sparing til jubileer - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Saksforslag#3
+*               12.1.1 - ProKom formaterer vedtektene -
+*               12.1.2 - Undergrupper kan stille til verv -
+*               12.1.3 - Sparing til jubileer -
 *       12.2 - Vedtektsendringer
-**               12.2.1 - Nye medlemsretninger - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Nye-medlemsretninger
-**               12.2.2 - Kompileringen - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Kompileringen
-**               12.2.3 - Forsikringer - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Forsikringer
-**               12.2.4 - Utilgjengelighet av økonomiansvarlig - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Utilgjengelighet-av-økonomiansvarlig
-**               12.2.5 - Forslag om navngivning av pangKom - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Forslag-om-navngivning-av-pangKom
-**               12.2.6 - TriKom - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#TriKom
-**               12.2.7 - Oppsigelse - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Oppsigelse
-**               12.2.8 - Mislighold av verv - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Mislighold-av-verv
-**               12.2.9 - Nodesystemet - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Nodesystemet
-**               12.2.10 - Jubileumsfond - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Jubileumsfond
-**               12.2.11 - Forslag om endring av navneregler for komiteforkortelser - "Se sak":https://wiki.online.ntnu.no/projects/online/wiki/2012_Vedtektsforslag#Forslag-om-endring-av-navneregler-for-komiteforkortelser
+*               12.2.1 - Nye medlemsretninger -
+*               12.2.2 - Kompileringen -
+*               12.2.3 - Forsikringer -
+*               12.2.4 - Utilgjengelighet av økonomiansvarlig -
+*               12.2.5 - Forslag om navngivning av pangKom -
+*               12.2.6 - TriKom -
+*               12.2.7 - Oppsigelse -
+*               12.2.8 - Mislighold av verv -
+*               12.2.9 - Nodesystemet -
+*               12.2.10 - Jubileumsfond -
+*               12.2.11 - Forslag om endring av navneregler for komiteforkortelser -
 
 13 - Godkjenning av regnskap 11/12 og budsjett 12/13
 14 - Valg - Se [[2012 Kandidater til Hovedstyret|Kandidater]]
