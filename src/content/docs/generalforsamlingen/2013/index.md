@@ -8,7 +8,7 @@ title: "Generalforsamlingen 2013"
 * [2013 Saksforslag](/wiki/online/generalforsamlingen/2013/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2013 Årsberetninger](/wiki/online/generalforsamlingen/2013/aarsberetninger) - Oppsummering av Onlines arbeid 2012/2013
 
-h2. Budsjetter og regnskap
+## Budsjetter og regnskap
 
 * [attachment:113]
 * [attachment:114]
