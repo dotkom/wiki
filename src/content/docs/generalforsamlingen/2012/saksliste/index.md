@@ -2,24 +2,25 @@
 title: "2012 Saksliste"
 ---
 
-
 - - -
 
-1 - Velkommen v/leder
-2 - Valg av ordstyrer
-3 - Valg av referenter
-4 - Valg av tellekorps
-5 - Valg av to paraferer
-6 - Godkjenning av oppmøtte
+1. - Velkommen v/leder
+2. - Valg av ordstyrer
+3. - Valg av referenter
+4. - Valg av tellekorps
+5. - Valg av to paraferer
+6. - Godkjenning av oppmøtte
+
 *       6.1 - Godkjenning av gjester
 *       6.2 - Godkjenning av talerett
 *       6.3 - Godkjenning av stemmeberettigede
 
-7 - Godkjenning av referat fra 2. mai 2011
-8 - Godkjenning av innkalling
-9 - Godkjenning av saksliste
-10 - Dagsorden
-11 - Årsberetninger
+7. - Godkjenning av referat fra 2. mai 2011
+8. - Godkjenning av innkalling
+9. - Godkjenning av saksliste
+10. - Dagsorden
+11. - Årsberetninger
+
 *       11.1 - Administrative
 *               11.1.1 - Hovedstyret
 *               11.1.2 - Kontoret
@@ -38,7 +39,8 @@ title: "2012 Saksliste"
 *               11.4.1 - Datakameratene FK
 *               11.4.2 - Realfagskjellern
 
-12 - Innsendte saker og vedtektsendringer
+12. - Innsendte saker og vedtektsendringer
+
 *       12.1 - Innsendte saker
 *               12.1.1 - ProKom formaterer vedtektene -
 *               12.1.2 - Undergrupper kan stille til verv -
@@ -56,8 +58,9 @@ title: "2012 Saksliste"
 *               12.2.10 - Jubileumsfond -
 *               12.2.11 - Forslag om endring av navneregler for komiteforkortelser -
 
-13 - Godkjenning av regnskap 11/12 og budsjett 12/13
-14 - Valg - Se [[2012 Kandidater til Hovedstyret|Kandidater]]
+13. - Godkjenning av regnskap 11/12 og budsjett 12/13
+14. - Valg - Se [[2012 Kandidater til Hovedstyret|Kandidater]]
+
 *       14.1 - Valg av leder
 *       14.2 - Valg av nestleder
 *       14.3 - Valg av leder for arrKom
@@ -68,4 +71,4 @@ title: "2012 Saksliste"
 *       14.8 - Valg av kontorsjef eller leder for triKom (den av de to titlene som er gjeldende)
 *       14.9 - Valg av valgkomite
 
-15 - Medaljeutdeling
+15. - Medaljeutdeling
