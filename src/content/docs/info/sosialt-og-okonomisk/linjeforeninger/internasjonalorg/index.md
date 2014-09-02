@@ -9,11 +9,11 @@ title: "International student organizations at NTNU"
 *) Do you need an office? [Apply to NTNU centrally about a free office for student organizations at this page](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger
 **) Please note that linjeforeninger and other faculty specific student organizations will get their room needs covered by their respective faculty through the faculty director
 
-* See also [[Linjeforeninger på Gløshaugen|Linjeforeninger at Gløshaugen]]
-* See also [[Linjeforeninger på Dragvoll|Linjeforeninger at Dragvoll]]
-* See also [[Linjeforeninger på HiST|Linjeforeninger at HiST]]
-* See also [[Karrieredager|Career days at NTNU]]
-* See also [[Studentkjellere på Moholt|Student cellars at Moholt]]
+-   See also [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll)
+-   See also [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist)
+-   See also [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager)
+-   See also [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere)
+-   See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg)
 
 ## English-speaking student organizations at NTNU
 
