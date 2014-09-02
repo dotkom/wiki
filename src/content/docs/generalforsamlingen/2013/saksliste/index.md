@@ -32,6 +32,7 @@ title: "2013 Saksliste"
 17:35
 
 11 Årsberetninger
+
 * 11.1 - Administrative
     * 11.1.1 - Hovedstyret
 * 11.2 - Komiteer
@@ -53,6 +54,7 @@ title: "2013 Saksliste"
 18:15 - 5 minutters pause
 
 12 - Innsendte saker og vedtektsendringer
+
 * 12.1 - Innsendte saker
     * 12.1.1 - Åpning av påmeldingslister
     * 12.1.2 - Åpning av hvor bespisning er på bedriftspresentasjoner og kurs
@@ -74,6 +76,7 @@ title: "2013 Saksliste"
 21:00 - Pause (pizza)
 
 14 - Valg
+
 * 14.1 - Valg av leder
 * 14.2 - Valg av nestleder
 * 14.3 - Valg av leder for arrKom
