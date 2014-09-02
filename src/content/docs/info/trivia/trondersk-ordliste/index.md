@@ -93,3 +93,5 @@ Skjellsord
 -   Blængdall - En som skryter uten å ha grunn til det
 
 -   Kjærringjækel - Djevelkjærring
+
+-   Brækkækkel - En som er så ekkel at man blir kvalm og spyr
