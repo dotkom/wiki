@@ -2,7 +2,6 @@
 title: "Generalforsamlingen 2014"
 ---
 
-
 * [2014 Saksliste](/wiki/online/generalforsamlingen/2014/saksliste) - Saksliste for generalforsamlingen 2014
 * [2014 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2014/valg) - Er du klar for et verv i Hovedstyret?
 * [2014 Vedtektsforslag](/wiki/online/generalforsamlingen/2014/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
@@ -13,7 +12,8 @@ title: "Generalforsamlingen 2014"
 
 # Vedlegg
 
-* [attachment:115]
+* [attachment:116]
+* [attachment:117]
 
 Tirsdag 1. april 2014 invitererer linjeforeningen Online alle informatikkstudenter til den årlige Generalforsamlingen kl. 15 i auditorium R9.
 
