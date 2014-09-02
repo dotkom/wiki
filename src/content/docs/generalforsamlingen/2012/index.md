@@ -7,8 +7,8 @@ title: "Generalforsamlingen 2012"
 * [2012 Vedtektsforslag](/wiki/online/generalforsamlingen/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2012 Saksforslag](/wiki/online/generalforsamlingen/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
 
-* [2012 Referat 20112][attachment:109]
-* [2012 Budsjett][attachment:110]
+* [2012 Referat 20112][attachment:110]
+* [2012 Budsjett][attachment:109]
 
 ### Budsjetter og regnskap:
 
