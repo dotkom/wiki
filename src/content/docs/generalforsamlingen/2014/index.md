@@ -15,6 +15,8 @@ title: "Generalforsamlingen 2014"
 * [attachment:116]
 * [attachment:117]
 
+# Informasjon
+
 Tirsdag 1. april 2014 invitererer linjeforeningen Online alle informatikkstudenter til den årlige Generalforsamlingen kl. 15 i auditorium R9.
 
 Som informatikkstudent ved NTNU er du automatisk medlem av Online. Du er også medlem av Online dersom du er medlem av Onlines pensjonistkomité (pangKom), Eldsterådet, er utnevnt æresmedlem eller på annen måte er blitt tatt opp i Online. 
