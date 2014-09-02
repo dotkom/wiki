@@ -17,18 +17,18 @@ title: "Linjeforeninger på HiST"
 ## Linjeforeninger
 
 |_.Linjeforening|_.BrReg|_.Linje|_.Kontor|_.Epost|_.Facebook|
-| (Elektra)[http://elektra.hist.no] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711] | Elektro | | leder@elektra.hist.no | |
-| (Fraktur)[http://www.fraktur.no] (St.Olav) | | Radiograf | | post@fraktur.no | |
-| (KOM)[http://kjemiogmaterial.wordpress.com] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812] | Kjemi og Material | | |(Page)[http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199]|
-| (Logistikkstudentene)[http://www.logistikkstudentene.no] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372] | Logistikk | | logistikkstudentene@gmail.com | (Page)[http://fb.com/pages/Logistikkstudentene/116151561776568] |
-| (MiT)[http://mit.hist.no] | | Maskin | | | |
-| (Vivas)[http://vivas.hist.no] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898893952] | Ingeniør i Fornybar Energi | Gunnerusbygget  ved AFT |  leder@vivas.hist.no | (Page)[https://www.facebook.com/VivasHiST]  |
-| (Nucleus)[http://www.nucleus-bio.no] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306] | Bioingeniør | | nucleuslinjeforening@gmail.com | (Page)[http://fb.com/nucleusforbioingeniorer] |
-| (Nutrix)[http://nutrix.hist.no/] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872] | Sykepleier | | nutrix@nutrix.hist.no | (Page)[http://fb.com/pages/Nutrix/297838347011022] |
-| (STØH)[http://sftoh.no ]| (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791] | Økonomi | | post@sftoh.no | |
-| Tekno-Tunga | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125] | Matteknologi | | | (Page)[http://fb.com/TeknoTunga] |
-| (TIHLDE)[http://www.tihlde.org] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183] | Elektronisk databehandling (EDB) | AITeL ^1^ | hs@tihlde.org | |
-| (Tim & Shænko)[http://bygging.no] | (BrReg)[http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952] | Bygg og Miljø | | styret@bygging.no | (Group)[http://fb.com/groups/220828851361570/] |
+| [Elektra](http://elektra.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711) | Elektro | | leder@elektra.hist.no | |
+| [Fraktur](http://www.fraktur.no) (St.Olav) | | Radiograf | | post@fraktur.no | |
+| [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
+| [Logistikkstudentene](http://www.logistikkstudentene.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | logistikkstudentene@gmail.com | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
+| [MiT](http://mit.hist.no) | | Maskin | | | |
+| [Vivas](http://vivas.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898893952) | Ingeniør i Fornybar Energi | Gunnerusbygget  ved AFT |  leder@vivas.hist.no | [Page](https://www.facebook.com/VivasHiST)  |
+| [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
+| [Nutrix](http://nutrix.hist.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | nutrix@nutrix.hist.no | [Page](http://fb.com/pages/Nutrix/297838347011022) |
+| [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Økonomi | | post@sftoh.no | |
+| Tekno-Tunga | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | | [Page](http://fb.com/TeknoTunga) |
+| [TIHLDE](http://www.tihlde.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Elektronisk databehandling (EDB) | AITeL ^1^ | hs@tihlde.org | |
+| [Tim & Shænko](http://bygging.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | | styret@bygging.no | [Group](http://fb.com/groups/220828851361570/) |
 
 _1. = "Brygghuset" ved Leütenhaven/Trøndelag Teater_
 
