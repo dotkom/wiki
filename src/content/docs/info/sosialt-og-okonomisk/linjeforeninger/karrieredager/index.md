@@ -56,7 +56,8 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 
 De fleste linjeforeningene på NTNU, spesielt Gløshaugen, driver bedriftskontakt selv og arrangerer sine egne bedpreser via sin bedriftskomite (merk at navnet på denne komiteen varierer stort mellom linjeforeningene). I tillegg finnes det studentforeninger som har bedriftskontakt som sitt primære og eneste område. For enkelhet har vi valgt å kalle disse [bedriftsforeninger".
 
-|_.Bedriftsforening|_.BrReg|_.Tilhørighet|_.Kontor|_.Facebook|
+|Bedriftsforening|BrReg|Tilhørighet|Kontor|Facebook|
+|---|---|---|---|---|
 | "Bindeleddet](http://bindeleddet.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=984416628)|Industriell økonomi| [Kjelhuset](http://app.campusguiden.no/#&command=search&find=537&nid=6693&lon=10.40279283699&lat=63.41860091931&fromZ=0) |[Page](http://fb.com/bindeleddet.ntnu)|
 |[itDAGENE](http://itdagene.no/) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998933242) (endres årlig)|Abakus|[IT Syd](https://app.campusguiden.no/#&v=1&dest=37054&desttype=poi) |[Page](http://fb.com/itDAGENE)|
 | [Teknologiporten](http://teknologiporten.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=988810703)|Linjeforeningene ved IVT-fakultetet| [Sentralbygget](http://app.campusguiden.no/#&command=search&find=220B&nid=5170&lon=10.40279283699&lat=63.41860091931&fromZ=0) |[Page](http://fb.com/Teknologiporten)|
