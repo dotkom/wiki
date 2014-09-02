@@ -82,7 +82,8 @@ title: "2014 Saksliste"
 
 21:00 - pause med pizza
 
-15 - Valg - Se [[2014 Kandidater til Hovedstyret|Kandidater]]
+15 - Valg
+
 * 15.1 - Valg av leder
 * 15.2 - Valg av nestleder
 * 15.3 - Valg av leder for arrKom
