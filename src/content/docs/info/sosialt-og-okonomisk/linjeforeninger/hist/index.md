@@ -16,7 +16,8 @@ title: "Linjeforeninger på HiST"
 
 ## Linjeforeninger
 
-|_.Linjeforening|_.BrReg|_.Linje|_.Kontor|_.Epost|_.Facebook|
+|Linjeforening|BrReg|Linje|Kontor|Epost|Facebook|
+|---|---|---|---|---|---|
 | [Elektra](http://elektra.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711) | Elektro | | leder@elektra.hist.no | |
 | [Fraktur](http://www.fraktur.no) (St.Olav) | | Radiograf | | post@fraktur.no | |
 | [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
