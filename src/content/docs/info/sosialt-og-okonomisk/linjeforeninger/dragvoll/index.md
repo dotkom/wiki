@@ -167,13 +167,15 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
 ### Trondhjem Dragvollympiske Leker
 
 Trondhjem Dragvollympiske Leker er et arrangement som arrangeres i Fadderuka på NTNU Dragvoll, og inneholder utradisjonelle aktiviteter for studenter. Arrangementet ble grunnlagt av Nicholas Lund fra Eureka og Ida Brattbakk fra IVRig. Thomas Drageset krediteres for å ha navngitt Trondhjem Dragvollympiske Leker.
-* [Facebook](http://fb.com/pages/Trondhjem-Dragvollympiske-Leker/1395205534054285)
+
+* Facebook: [fb.com/pages/Trondhjem-Dragvollympiske-Leker/1395205534054285](http://fb.com/pages/Trondhjem-Dragvollympiske-Leker/1395205534054285)
 * Epost: dragvollympics@gmail.com
 
 ### Dragvolligaen
 
 Dragvolligaen er et engasjement fra flere av linjene ved Dragvoll. Formålet er å skape økt fotballengasjement og sunne konkurranser mellom linjeforeningene. Ligaen ble startet opp høsten 2012 av Lasse Morstøl Vinje, Andreas Wangensteen, Joel Andre Svendsen og Filip Jessen Carey. Ligaen består av seks lag, fra De Folkevalgte, Eureka, Geolf, Erudio, Det Historiske Selskab og Primetime. PSI har også meldt interesse for å bli med fra høsten 2013. Ligaen fortsetter å vokse og nye linjeforeningslag er hjertelig velkomne. Ligaen er et lavterskel-tilbud som holdes "så gratis som mulig" for alle deltakere. Det eneste man betaler er baneleie samt noen kroner i påskjønnelser til dommerene, som også er studenter. Stikk innom Facebook-pagen for å sende inn spørsmål og ønsker via Message-knappen. Meld gjerne inn et lag for din linjeforening dersom det ikke allerede finnes.
-* [Facebook](http://fb.com/dragvolligaen)
+
+* Facebook: [fb.com/dragvolligaen](http://fb.com/dragvolligaen)
 
 Medlemmer per mars 2014
 
