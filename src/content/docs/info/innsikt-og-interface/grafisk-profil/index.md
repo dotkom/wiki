@@ -36,21 +36,14 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 
 ### Komitésymboler
 
-* Alle
-* ArrKom
-* BanKom
-* BedKom
-* DotKom
-* FagKom
-* ProKom
-* TriKom
+* [attachment:132] - Alle komitesymboler.
 
 ### Skrivebordsbakgrunn (jubileum 2011)
 
-* 1280*1024
-* 1440*900
-* 1680*1050
-* 1920*1200
+* [attachment:133]
+* [attachment:134]
+* [attachment:135]
+* [attachment:136]
 
 ## Fargeskjema
 
