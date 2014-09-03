@@ -80,10 +80,8 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
 ** På våren tildeles midler til drift (videreføring, vedlikehold, osv), det er her brorparten av midlene deles ut
 * *Prosjektmidler*, Studenttinget deler ut opptil 45.000 i året til nyoppstartede prosjekter
     * Les mer på [www.studenttinget.no/prosjektmidler](http://www.studenttinget.no/prosjektmidler/)
-
-
-* Midlene skal støtte opp under tiltak for å fremme en sak eller et tema som den søkende organisasjonen ønsker belyst
-* Prosjektet må være til gode for en god del studenter på NTNU
+    * Midlene skal støtte opp under tiltak for å fremme en sak eller et tema som den søkende organisasjonen ønsker belyst
+    * Prosjektet må være til gode for en god del studenter på NTNU
 * *Repromidler*, Studenttinget refunderer opptil 50% av trykkekostnader dersom man har brukt NTNU Trykk
     * Les mer på [www.studenttinget.no/repromidler](http://www.studenttinget.no/repromidler/)
     * På høsten er søknadsfristen 1. oktober
