@@ -192,9 +192,10 @@ Medlemmer per mars 2014
 ### Dragvollkjelleren
 
 Alle som studerer på Dragvoll er hjertelig velkomne til Dragvollkjelleren som befinner seg på Moholt. Kjelleren er stadig åpen på fredags- og lørdagskvelder.
-- [Web](http://dragvollkjelleren.wordpress.com/)
-- Epost: dragvollkjelleren@gmail.com
-* [Facebook](https://www.facebook.com/dragvollkjelleren.dragvoll)
+
+* Web: [dragvollkjelleren.wordpress.com](http://dragvollkjelleren.wordpress.com/)
+* Epost: dragvollkjelleren@gmail.com
+* Facebook: [fb.com/dragvollkjelleren.dragvoll](https://www.facebook.com/dragvollkjelleren.dragvoll)
 * Kart: [Herman Krags vei 11](http://maps.google.com/maps?q=herman+krags+vei+11&hl=en&ie=UTF8&sll=63.430515,10.395053&sspn=0.165233,0.484085&t=v&hnear=Herman+Krags+veg+11,+7050+Trondheim,+S%C3%B8r-Tr%C3%B8ndelag,+Norway&z=15&iwloc=A)
 
 ### Linjeforeningslederforumet
@@ -210,13 +211,9 @@ Lørdag 28. september 2013 var linjeforeningslederforumet på sin aller første 
 Noen linjeforeninger har vært kortlevd. For å øke levedyktigheten til en linjeforening er det følgende anbefalt **på det sterkeste**:
 
 * Skaffe et kontor. Helst i nærheten av der studentene på linjen pleier å oppholde seg slik at nye studenter blir lettere engasjert. På den måten får man også bygget opp en sosial "kaffe på kontoret"-kultur.
-
 * Skaffe inntekter. Se lenger opp for måter å gjøre det eller send epost til bedkom@online.ntnu.no med spørsmål om bedriftspresentasjoner og lignende.
-
 * Holde fadderuker via linjeforeningen, ikke via Fadderutvalget på Dragvoll. Det er viktig at studentene assosierer seg med linjeforeningen fremfor Fadderutvalget da linjeforeningen er den eneste av de to som vil være til stede gjennom hele studiet.
-
 * Få ut informasjon der folk vil lese det. En webside er ikke nødvendigvis det beste mediet, kanskje en Facebook-page er bedre? Helst vil man selvsagt ha begge.
-
 * Sørg for overlapp. Ta opp nye folk i styrer og komitéer hvert semester, gjerne førsteklassinger. Utvid med flere stillinger om nødvendig, ikke vent til den dagen alle de som driver linjeforeningen i dag slutter på studiet. (Dette sier seg kanskje selv) 
 
 _PS: Tips og triks er bl.a. fra en eks-dragvolling som senere var leder for Online og som brenner for å få topp linjeforeningsmiljø på Dragvoll_
