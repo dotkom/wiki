@@ -56,7 +56,7 @@ CMYK: 96 65 7 1
 RGB: 0 96 163  
 Hex: #0060A3  
 
-**Online-oransje:**
+**Online-oransje:**  
 PMS: 143 EC  
 CMYK: 0 42 100 0  
 RGB: 250 162 27  
