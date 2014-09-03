@@ -75,9 +75,9 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
 ### Søke økonomisk støtte
 
 * *Kulturstyret*, SiT ved Kulturstyret deler ut 1.000.000 i året
-** Les mer på [sit.no/om-sit/studentorganisasjoner](http://www.sit.no/om-sit/studentorganisasjoner)
-** På høsten tildeles midler til oppstartsprosjekter (ny linjeforening, nytt band, ny webside, osv)
-** På våren tildeles midler til drift (videreføring, vedlikehold, osv), det er her brorparten av midlene deles ut
+    * Les mer på [sit.no/om-sit/studentorganisasjoner](http://www.sit.no/om-sit/studentorganisasjoner)
+    * På høsten tildeles midler til oppstartsprosjekter (ny linjeforening, nytt band, ny webside, osv)
+    * På våren tildeles midler til drift (videreføring, vedlikehold, osv), det er her brorparten av midlene deles ut
 * *Prosjektmidler*, Studenttinget deler ut opptil 45.000 i året til nyoppstartede prosjekter
     * Les mer på [www.studenttinget.no/prosjektmidler](http://www.studenttinget.no/prosjektmidler/)
     * Midlene skal støtte opp under tiltak for å fremme en sak eller et tema som den søkende organisasjonen ønsker belyst
