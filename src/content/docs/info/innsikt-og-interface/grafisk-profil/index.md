@@ -17,7 +17,7 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 
 ## Grafikkfiler
 
-* **[attachment:122] - Pakke med alle logoer og symboler, i vektor og** bitmap.
+* **[attachment:122] - Samlepakke med alle logoer og komitesymboler, i vektor og bitmap.**
 
 ### Onlinelogo
 
@@ -51,7 +51,7 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 * 1680*1050
 * 1920*1200
 
-### Fargeskjema
+## Fargeskjema
 
 PMS: Bruk biblioteket PANTONE solid to process EURO  
 Biblioteket finner du typisk i menyen til swatches-palletten i ID/IL/PS. (Add new swatch: Color Books: Pantone el.)
