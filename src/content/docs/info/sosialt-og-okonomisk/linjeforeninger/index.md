@@ -2,7 +2,7 @@
 title: "Linjeforeninger"
 ---
 
--   Velkommen til www.gloshaugen.info :)
+### Velkommen til www.gloshaugen.info :)
 
 -   For epostlister se [her](https://online.ntnu.no/resourcecenter/mailinglists)
 -   Er din linjeforening listet opp her? Send epost til
