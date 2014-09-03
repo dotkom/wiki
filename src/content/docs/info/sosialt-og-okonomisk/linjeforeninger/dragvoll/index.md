@@ -95,12 +95,10 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
     * Begrensning: Tildeles ikke til studier eller deler av dem (f.eks. ekskursjoner), heller ikke til gjentakende arrangement
     * Denne ordningen er ustabil, den revurderes hvert år
     * Søknader behandles fortløpende
-    
 * *Akan*, støtter alkoholfrie arrangementer
     * Finn søknadsskjemaet for "Midler til rusmiddelforebyggende arbeid blant studenter" på [akan.no](http://akan.no/) - 2013-skjemaet her: [akan.no/../](http://www.akan.no/publisher/publisher.asp?id=57&tekstid=611)
     * Send inn skjema og budsjett for aktiviteten det søkes penger for
     * Legg merke til frist
-    
 * *Tilretteleggingstjenesten* ved Studentservice på NTNU deler ut 25.000,- i året
     * Les mer på [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement](https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement)
     * Midlene det søkes om skal bidra til å øke muligheten for at studenter med funksjonsnedsettelse kan delta
@@ -114,32 +112,26 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
     * Få inn bedrift, ta administrasjonsgebyr på f.eks. 3.000 - 15.000
     * Tilby en kursvariant, litt billigere, mer fokus på fag enn bedriften
     * Statlige bedrifter får som regel ikke godkjenning for å betale mer enn rundt 3.000
-    
 * **Karrieredag**
     * Mange bedrifter betaler linjeforeningen for standplass
     * Noen av bedriftene betaler ekstra og får holde kurs/bedpres/middag
     * Vanlig for å tjene penger til ekskursjon, se [karrieredager]()
-    
 * **Hovedsponsor**
     * Sponsoren får en pakke med bedpres, kurs, besøk på ekskursjon osv.
     * Sponsoren får logo på alt av trykk, klær, hjemmeside, facebookside ++
     * Sponsoren får ha plakat/banner på linjeforeningskontoret
-    
 * **Kompendier**
     * Dette er den eldste måten linjeforeningene har tjent penger!
     * Alle skriver notater uansett, lag kompendie av notater som finnes i emner med mange studenter
     * Kompendiet kan forbedres av nye i linjeforeningen hvert år (gjør forbedring enkelt)
     * Selg for 100,- per kompendie
     * Skaff sponsor til kompendiet (selg forsiden og baksiden) for å tjene inn mer
-    
 * **Linjeforeningsavis**
     * Trekk inn flere sponsorer for å dekke trykking og fullfarge
     * Ha pakker: Halvside, helside, baksiden, husk kontraktsperiode
-    
 * **Selge snacks**
     * Vafler eller kaker er lettest
     * Lån pølsekoker, popcornmaskin eller sukkerspinnmaskin
-    
 * **Selge plass**
     * Selg reklameplass til bedrifter
     * Bedriftslogoen på alle linjeforeningens kaffekopper i 5 år
