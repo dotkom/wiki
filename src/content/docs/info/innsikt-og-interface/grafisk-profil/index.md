@@ -15,20 +15,25 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 * Ikke plassér logoen for tett innpå andre logoer og grafiske elementer.
 * Logoens proporsjoner skal bevares.
 
-## Logofiler
+## Grafikkfiler
 
-* [attachment:122] - Pakke med alle logoer og symboler, i vektor og bitmap.
-* Online blue gradient
-* Online blue plain
-* Online white
-* Online white gradient
-* Online white plain
+* **[attachment:122] - Pakke med alle logoer og symboler, i vektor og** bitmap.
+
+### Onlinelogo
+
+
+* [attachment:123] - Onlinelogo, blå med gradient.
+* [attachment:124] - Onlinelogo, blå uten gradient.
+* [attachment:126] - Onlinelogo, hvit med gradient.
+* [attachment:127] - Onlinelogo, hvit uten gradient.
+
+### O-med-lyn-logo
 
 * O blue gradient
 * O white gradient
 * O jubileum
 
-## Komitésymboler
+### Komitésymboler
 
 * Alle
 * ArrKom
@@ -39,14 +44,14 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 * ProKom
 * TriKom
 
-## Skrivebordsbakgrunn (jubileum 2011)
+### Skrivebordsbakgrunn (jubileum 2011)
 
 * 1280*1024
 * 1440*900
 * 1680*1050
 * 1920*1200
 
-## Fargeskjema
+### Fargeskjema
 
 PMS: Bruk biblioteket PANTONE solid to process EURO  
 Biblioteket finner du typisk i menyen til swatches-palletten i ID/IL/PS. (Add new swatch: Color Books: Pantone el.)
