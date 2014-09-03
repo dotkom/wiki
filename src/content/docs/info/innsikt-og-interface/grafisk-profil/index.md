@@ -29,9 +29,10 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 
 ### O-med-lyn-logo
 
-* O blue gradient
-* O white gradient
-* O jubileum
+* [attachment:130] - O-logo, blå med gradient.
+* [attachment:129] - O-logo, blå uten gradient.
+* [attachment:128] - O-logo, hvit med gradient.
+* [attachment:131] - Spesiallogo til 25årsjubileum!
 
 ### Komitésymboler
 
