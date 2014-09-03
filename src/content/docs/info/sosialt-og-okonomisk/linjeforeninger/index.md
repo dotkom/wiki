@@ -250,7 +250,8 @@ Gamle Kjemi. Axel Holene, phormand i HC, stilte med ølfond. Temaene
 rangerte i alt fra utlånbare ressurser til tradisjonsrike Åreturer og
 man fant fort ut at **dette forumet hadde et uant potensiale som
 kontaktledd mellom alle linjeforeningene**. Ansvar ble fordelt på de
-forskjellige linjeforeningene slik:  
+forskjellige linjeforeningene slik:
+
 - [Emil][] og [Smørekoppen][] har ansvaret for å kalle inn til møter.  
 - [HC][], med [Omega][] som vara, har ansvaret for å ta med ølfond.  
 - [Online][] har ansvaret for epostlisten og for å kalle inn til
