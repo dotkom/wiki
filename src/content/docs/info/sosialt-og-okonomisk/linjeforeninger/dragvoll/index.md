@@ -102,6 +102,7 @@ Flere linjeforeninger på Dragvoll driver bedriftskontakt selv og arrangerer sin
     * Legg merke til frist
     
 * *Tilretteleggingstjenesten* ved Studentservice på NTNU deler ut 25.000,- i året
+    * Les mer på [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement](https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement)
     * Midlene det søkes om skal bidra til å øke muligheten for at studenter med funksjonsnedsettelse kan delta
     * Foreningen/organisasjonen må være Brønnøysundsregistrert
     * Kontakt tilrettelegging@adm.ntnu.no
