@@ -17,6 +17,7 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 
 ## Logofiler
 
+* [attachment:122] - Pakke med alle logoer og symboler, i vektor og bitmap.
 * Online blue gradient
 * Online blue plain
 * Online white
