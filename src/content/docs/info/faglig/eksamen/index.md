@@ -47,7 +47,7 @@ Under eksamen
 Innen tre virkedager før eksamen skal det dukke opp på **StudWeb** hvor
 du skal være på eksamensdagen. Du trenger ikke å notere
 kandidatnummeret, dette får du på eksamen uansett, bare ta med
-identifikasjon og studentkortet (**den fargede lappen**, ikke
+identifikasjon og semesterkortet (**den fargede lappen**, ikke
 adgangskortet ditt).
 
 Alltid vit hva hjelpemiddelkoden for din eksamen er. Denne forteller deg
