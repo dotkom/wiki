@@ -80,6 +80,7 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Bank- og økonomikomiteens wiki](/wiki/komiteer/bankom/)
     - [Bedriftskomiteens wiki](/wiki/komiteer/bedkom/)
     - [Drifts- og utviklingskomiteens wiki](/wiki/komiteer/dotkom/)
+    - [Eldsterådets wiki](/wiki/komiteer/eldsteradets-wiki/)
     - [Fag- og kurskomiteens wiki](/wiki/komiteer/fagkom/)
     - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
     - [Trivselskomiteens wiki](/wiki/komiteer/trikom/)
