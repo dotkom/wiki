@@ -2,15 +2,15 @@
 title: "Himmelseng"
 ---
 
-### **Info**
+## **Info**
 
 Dette er en sang med kun ett originalt vers og ett refreng. Alle vers etter det første er vers man legger til underveis.
 
 Det oppfordres her til at folk dokumenterer hendelser i form av vers til denne sangen, dermed kan onlinere synge om sin historie i lang tid fremover!
 
-### **Tekst**
+## **Tekst**
 
-#### **Første vers**
+### **Første vers**
 
 jeg ønsker meg en himmelseng
 
@@ -20,7 +20,7 @@ så jeg kan ligge og speile meg
 
 og se hvor jeg er deilig
 
-#### **Refreng**
+### **Refreng**
 
 Hey lå li lå li lå
 
@@ -35,7 +35,7 @@ Ompa ompa ompa sprut,
 ompa ompa sprut sprut!
 
 
-#### **Div. vers**
+### **Div. vers**
 
 jeg møtte på en homofil
 
@@ -95,8 +95,17 @@ det burde ikke vært så galt
 
 men flomma jo som Temsen
 
+--
 
-#### **Onlines Himmelsengvers, nyeste først**
+jeg pratet litt med rektor'n vår
+
+jeg skulle inn på teppet
+
+men det vakke kjeft å få
+
+så UA måtte deppe
+
+## **Onlines Himmelsengvers, nyeste først**
 
 _Marius Krakeli's vers_
 
@@ -108,6 +117,7 @@ Krakels dansa gangnam-style,
 
 slo dama si i tryne
 
+--
 
 _Kristian Laskemoen's vers_
 
@@ -119,6 +129,7 @@ men kristian ville ha no mer
 
 han ville prøve lokalt
 
+--
 
 _Trond Martin Nyhus' vers_
 
@@ -130,6 +141,7 @@ for trond han fikk litt mye vin
 
 og spydde som ei jente
 
+--
 
 _Håvard Svae Slettvold's vers_
 
@@ -141,6 +153,7 @@ vi hadde eget styrebord
 
 men håvard han var tøffel
 
+--
 
 _Tallinn's vers_
 
@@ -153,7 +166,7 @@ hun viste oss den lange pikk
 men vi vil helst se fitta
 
 
-_Avslutningsverset_
+## _Avslutningsverset_
 
 jeg trenger ingen himmelseng
 
