@@ -4,7 +4,7 @@ title: "Studentsanger"
 
 ### Studentsanger
 -  [Nu klinger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/nu-klinger-igjennom/) - Selve Trondheimstudentsangen! Obligatorisk å kunne.
-- [Himmelseng](/wiki/online/info/sosialt-og-okonomisk/studentsanger/himmelseng/) - Sangen med kun ett originalt vers, flere vers legges til underveis.
+- [Himmelseng](/wiki/online/info/sosialt-og-okonomisk/studentsanger/himmelseng/) - Sangen med kun to originale vers, flere vers legges til underveis.
 -   [Calypso](/wiki/online/info/sosialt-og-okonomisk/studentsanger/calypso)
 -   [Theodor](/wiki/online/info/sosialt-og-okonomisk/studentsanger/theodor)
 -   [Fader Abraham](/wiki/online/info/sosialt-og-okonomisk/studentsanger/faderabraham)
