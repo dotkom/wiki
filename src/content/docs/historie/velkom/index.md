@@ -66,7 +66,7 @@ et akutt HMS-tiltak mot såre tær hos kvinnelige informatikere.
 * 2010 8. September, Prinsen hotell  
 * 2011 3. September, Prinsen hotell  
 * 2012 15. September, Frimurerlosjen  
-* 2013 14. September, Frimurerlosjen
+* 2013 14. September, Frimurerlosjen  
 * 2014 13. September, Frimurerlosjen
 
 Medlemmer
