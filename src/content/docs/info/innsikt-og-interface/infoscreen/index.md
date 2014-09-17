@@ -21,15 +21,15 @@ Bruk en ekstra PC, en du ikke trenger til noe annet.
 - Åpne "Software Updater"
     - Install updates this once
 - Åpne en terminal
-    - <pre>sudo apt-get install openssh-server python-xlib</pre>
-- Installer Google Chrome fra "chrome.google.com":http://chrome.google.com
+    - **sudo apt-get install openssh-server python-xlib**
+- Installer Google Chrome fra [chrome.google.com](http://chrome.google.com)
     - Ikke engang tenk på å bruke Chromium i stedet, den lagger bak på støtte for CSS3, ting vil se stygt ut.
 - Åpne Chrome
     - Settings -> Set Chrome as default browser
     - Settings -> Turn off language suggestions
     - Settings -> Do not offer to save passwords
     - Settings -> On startup, open the new tab page (this is important for kiosk mode to work properly)
-    - Installer Notifier fra "Chrome Web Store":http://bit.ly/NotifierForChrome
+    - Installer Notifier fra [Chrome Web Store](http://bit.ly/NotifierForChrome)
     - Online Notifier Options -> Enable Infoscreen
 - Launcheren (sidebaren i Ubuntu)
     - Lås Chrome-ikonet til Launcheren
@@ -47,5 +47,4 @@ Bruk en ekstra PC, en du ikke trenger til noe annet.
 - Åpne "Startup Applications"
     - Add **google-chrome --kiosk**
     - Add **python ~/move_mouse_once.py**
-    - Add -**xset s 0 0 && xset -dpms**- (no longer necessary as of Ubuntu 13.04 Raring Ringtail)
 - **sudo reboot**
