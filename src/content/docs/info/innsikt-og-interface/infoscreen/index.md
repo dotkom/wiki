@@ -36,12 +36,12 @@ Bruk en ekstra PC, en du ikke trenger til noe annet.
     - Andre apps du kanskje vil låse til launcheren: System Settings, Startup Applications, Software Updater, Terminal
     - Fjern unødvendige ikoner, ja, Firefox også
 - Putt dette python-scriptet i hjemmemappen din, kall det **move_mouse_once.py**
-    - #!/usr/bin/python
+    - \#!/usr/bin/python
     - from Xlib import X, display
     - d = display.Display()
     - s = d.screen()
     - root = s.root
-    - # move the mouse the fuck outta here
+    - \# move the mouse the fuck outta here
     - root.warp_pointer(5000,5000)
     - d.sync()
 - Åpne "Startup Applications"
