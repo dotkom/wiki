@@ -45,7 +45,7 @@ Bruk en ekstra PC, en du ikke trenger til noe annet.
     - root.warp_pointer(5000,5000)
     - d.sync()
 - Åpne "Startup Applications"
-    - Add <code>google-chrome --kiosk</code>
-    - Add <code>python ~/move_mouse_once.py</code>
-    - Add -<code>xset s 0 0 && xset -dpms</code>- (no longer necessary as of Ubuntu 13.04 Raring Ringtail)
+    - Add **google-chrome --kiosk**
+    - Add **python ~/move_mouse_once.py**
+    - Add -**xset s 0 0 && xset -dpms**- (no longer necessary as of Ubuntu 13.04 Raring Ringtail)
 - **sudo reboot**
