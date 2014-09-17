@@ -5,6 +5,7 @@ title: "Innsikt & Interface"
 - [Møtereferater fra Hovedstyret](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
 - [Digital eksamen](/wiki/online/info/innsikt-og-interface/digital-eksamen/) - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
 - [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
+- [Infoscreen](/wiki/online/info/innsikt-og-interface/infoscreen/) - En del av Notifier som gir infoskjerm og kontorskjerm til linjeforeninger
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
