@@ -110,20 +110,20 @@ Ressurser
 ### Søke økonomisk støtte
 
 -   **Kulturstyret**, SiT ved Kulturstyret deler ut 1.000.000 i året
-    -   Les mer på [sit.no/om-sit/studentorganisasjoner][]
+    -   Les mer på [sit.no/om-sit/studentorganisasjoner](sit.no/om-sit/studentorganisasjoner)
     -   På høsten tildeles midler til oppstartsprosjekter (ny
         linjeforening, nytt band, ny webside, osv)
     -   På våren tildeles midler til drift (videreføring, vedlikehold,
         osv), det er her brorparten av midlene deles ut
 -   **Prosjektmidler**, Studenttinget deler ut opptil 45.000 i året til
     nyoppstartede prosjekter
-    -   Les mer på [www.studenttinget.no/prosjektmidler][]
+    -   Les mer på [www.studenttinget.no/prosjektmidler](www.studenttinget.no/prosjektmidler)
     -   Midlene skal støtte opp under tiltak for å fremme en sak eller
         et tema som den søkende organisasjonen ønsker belyst
     -   Prosjektet må være til gode for en god del studenter på NTNU
 -   **Repromidler**, Studenttinget refunderer opptil 50% av
     trykkekostnader dersom man har brukt NTNU Trykk
-    -   Les mer på [www.studenttinget.no/repromidler][]
+    -   Les mer på [www.studenttinget.no/repromidler](www.studenttinget.no/repromidler)
     -   På høsten er søknadsfristen 1. oktober
     -   På våren er søknadsfristen 1. mars
 -   **Rektorpotten**, rektor på NTNU deler ut 1.000.000 i året
@@ -141,8 +141,7 @@ Ressurser
     -   Søknader behandles fortløpende
 -   **Akan**, støtter alkoholfrie arrangementer
     -   Finn søknadsskjemaet for “Midler til rusmiddelforebyggende
-        arbeid blant studenter” på [akan.no][] - 2013-skjemaet her:
-        [akan.no/../][]
+        arbeid blant studenter” på [akan.no](akan.no)
     -   Send inn skjema og budsjett for aktiviteten det søkes penger for
     -   Legg merke til frist
 -   **Tilretteleggingstjenesten** ved Studentservice på NTNU deler ut
@@ -168,7 +167,7 @@ Ressurser
     -   Mange bedrifter betaler linjeforeningen for standplass
     -   Noen av bedriftene betaler ekstra og får holde
         kurs/bedpres/middag
-    -   Vanlig for å tjene penger til ekskursjon, se [[karrieredager]]
+    -   Vanlig for å tjene penger til ekskursjon, se [karrieredager]()
 -   **Hovedsponsor**
     -   Sponsoren får en pakke med bedpres, kurs, besøk på ekskursjon
         osv.
@@ -201,24 +200,24 @@ Ressurser
 ### Utlån, utleie
 
 -   **Lyd og lys:**
-    -   Begge: [H.M. Aarhønen][], [HC][]
-    -   Lyd: [Abakus][], [A/F Smørekoppen][]
+    -   Begge: [H.M. Aarhønen](http://www.aarhonen.ntnu.no/?q=node/158), [HC](http://www.hc.ntnu.no)
+    -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus][], [Emil][], [Omega][],
-        [Placebo][]
-    -   Storband: [Emil][]
-    -   Kor: [A/F Smørekoppen][], [Alf][], [BSF][], [Mannhullet][]
-    -   Gutte-/jentekor: [BSF][], [Placebo][], [Timini][]
-    -   Korps: [BSF][]
-    -   Orkester: [Mannhullet][], [Omega][]
-    -   DJ: [Online][] [Omega][]
+    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no),
+        [Placebo](http://org.ntnu.no/placebo)
+    -   Storband: [Emil](http://emilweb.no)
+    -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.ntnu.no/)
+    -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
+    -   Korps: [BSF](http://bergstud.no)
+    -   Orkester: [Mannhullet](http://mannhullet.no), [Omega](http://omega.ntnu.no)
+    -   DJ: [Online](online.ntnu.no) [Omega](http://omega.ntnu.no)
 -   **Diverse:**
-    -   [A/F Smørekoppen][]: Motorsager, diverse verktøy, tau og
+    -   [A/F Smørekoppen](http://www.smorekoppen.no): Motorsager, diverse verktøy, tau og
         fendere.
--   **Grill:** [A/F Smørekoppen][], [BSF][], [Online][], [Omega][]
--   **Hytter:** [BSF][], [Janus][]
--   **Epostlister:** [Online][]
--   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen][]
+-   **Grill:** [A/F Smørekoppen](http://www.smorekoppen.no), [BSF](http://bergstud.no), [Online](online.ntnu.no), [Omega](http://omega.ntnu.no)
+-   **Hytter:** [BSF](http://bergstud.no), [Janus](http://org.ntnu.no/janus)
+-   **Epostlister:** [Online](online.ntnu.no)
+-   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
 
 
 ### Sjenkebevilling til arrangementer
