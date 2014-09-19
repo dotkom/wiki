@@ -6,23 +6,19 @@ title: "Karrieredager"
 
 ---
 
--   For epostlister se [her](https://online.ntnu.no/resourcecenter/mailinglists)
--   Er din linjeforening listet opp her? Send epost til
-    kontakt@online.ntnu.no for oppdateringer
--   Usikker på statusen hos Brønnøysund (BrReg)? [Hvordan gjøre
-    endringer i Brønnøysundregistrene][]
--   Har dere kontor? [Les regler for rombruk og internhusleie][]
--   Trenger dere kontor? Søk til NTNU sentralt om fristasjon for
-    studentorganisasjon på denne [siden][]
-    -   Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er
-        får areal dekket av sitt fakultet v/fakultetsdirektør
+- For epostlister se [her](https://online.ntnu.no/resourcecenter/mailinglists)
+- Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
+- Usikker på statusen hos Brønnøysund (BrReg)? [Hvordan gjøre endringer i Brønnøysundregistrene][]
+- Har dere kontor? [Les regler for rombruk og internhusleie][]
+- Trenger dere kontor? Søk til NTNU sentralt om fristasjon for studentorganisasjon på denne [siden][]
+    - Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er får areal dekket av sitt fakultet v/fakultetsdirektør
 
--   Se også [Linjeforeninger på Gløshaugen](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
--   Se også [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll)
--   Se også [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist)
--   Se også [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager)
--   Se også [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere)
--   See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg)
+- Se også [Linjeforeninger på Gløshaugen](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
+- Se også [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll)
+- Se også [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist)
+- Se også [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager)
+- Se også [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere)
+- See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg)
 
 ---
 ## Karrieredager
