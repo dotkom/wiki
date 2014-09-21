@@ -15,25 +15,25 @@ ha for at livet til slutt kan bli bra.
 Ja, hva må man ha  
 Svaret er da, Svaret er da,  
 skal det bli bra,  
-er det øl man må ha.   
+er det øl man må ha.  
 
-Refreng:
-Å-------, en øl i handa
-en øl i handa er bedre,
-mye, mye, mye, mye,
+Refreng:  
+Å-------, en øl i handa  
+en øl i handa er bedre,  
+mye, mye, mye, mye,  
 mye bedre enn ti fulle lerker på taket  
 
-Kunne jeg få, Kunne jeg få,
-kunne jeg få cirka en million,
-skulle jeg gå
-skulle jeg gå bort å kjøpe meg en telefon.
-Så skulle jeg slå,
-slå litt på trå’n til en handelsperson,
-jeg skulle så
-be ham å sende meg øl for en halv million.
+Kunne jeg få, Kunne jeg få,  
+kunne jeg få cirka en million,  
+skulle jeg gå  
+skulle jeg gå bort å kjøpe meg en telefon.  
+Så skulle jeg slå,  
+slå litt på trå’n til en handelsperson,  
+jeg skulle så  
+be ham å sende meg øl for en halv million.  
 
-refreng:
-Å-------, en øl i handa
-en øl i handa er bedre,
-mye, mye, mye, mye,
-mye bedre enn ti fulle lerker på taket . 
+Refreng:  
+Å-------, en øl i handa  
+en øl i handa er bedre,  
+mye, mye, mye, mye,  
+mye bedre enn ti fulle lerker på taket .  
