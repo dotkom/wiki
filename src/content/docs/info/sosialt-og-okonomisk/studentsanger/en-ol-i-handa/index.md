@@ -17,8 +17,8 @@ det man må ha,
 ha for at livet til slutt kan bli bra.  
 Hva må man ha,  
 hva må man ha for at alt skal bli bra?  
-Svaret er da, svaret er  
-skal det bli bra,  
+Svaret er da,  
+svaret er skal det bli bra,  
 er det øl man må ha.  
 
 Refreng:  
