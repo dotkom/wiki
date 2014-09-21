@@ -24,7 +24,7 @@ er det øl man må ha.
 Refreng:  
 Å-------, en øl i handa  
 en øl i handa er bedre,  
-så mye, mye bedre,
+så mye, mye bedre,  
 enn ti fulle lerker på taket  
 
 Kunne jeg få  
