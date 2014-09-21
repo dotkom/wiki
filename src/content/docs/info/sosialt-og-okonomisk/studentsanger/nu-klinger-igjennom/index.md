@@ -19,7 +19,7 @@ I følge en halvnaken Svein-Halvor Halvorsen (på en badstu ikke langt fra gråk
 Nu klinger igjennom den gamle stad, påny en studentersang,  
 og alle mann alle i rekker og rad, svinger opp under begerklang!  
 Og mens borgerne våkner i køia og hører det glade "kang-kang",  
-stemmer alle mann, alle mann, alle mann, alle mann, alle mann, alle mann;
+stemmer alle mann, alle mann, alle mann, alle mann, alle mann, alle mann an;
 
 Refreng:
 
@@ -31,7 +31,7 @@ Og øl og dram, og øl og dram, og øl og dram, og øl og dram.
 
 I denne gamle staden satt så mangen en konge stor,  
 og hadde nok av øl fra fat og piker ved sitt bord.  
-De laga bøljer i gata når hjem ifra gildet de fór.  
+Og de laga bøljer i gata når hjem ifra gildet de fór.  
 Og nu sitter de alle mann alle i valhall og traller til oss i kor:
 
 Refreng..
@@ -39,9 +39,9 @@ Refreng..
 På Elgeseter var det liv i klosteret dag og natt!  
 Der hadde de sin kagge og der hadde de sin skatt.  
 De herjet i Nonnenes gate og rullet og tullet og datt.  
-Og nu skuer de fra himmelen og griper sin harpe fatt.
+Og nu skuer de fra himmelen ned og griper sin harpe fatt.
 
-Refreng:
+Refreng..
 
 (Adagio)
 
