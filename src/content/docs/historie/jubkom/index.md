@@ -53,14 +53,14 @@ velKom nedtegnet i vedtektene.
 25-års jubileum
 ---------------
 
-Dette blir Online sitt første jubileum, og var egentlig tiltenkt
+Dette ble Online sitt første jubileum, og var egentlig tiltenkt
 anledningen 25 år. Tidligere i artikkelen blir det sagt at
 linjeforeningen ble stiftet høsten 1985, som betyr at i realiteten
 fyller Online 26 år. Da det var lagt ned mye arbeid i jubileet og
 mesteparten av de som hadde bidratt til både graving i historien og
 planleggingen ville vært ferdige før neste jubileum, ble det foreslått
 at alderen kunne nullindekseres for at det skulle passe med 25-års
-jubileum, som er litt mer i tråd med sosiale normer.
+jubileum, som er litt mer i tråd med sosiale normer og passet med materiell som allerede var produsert.
 
 Nullindeksering er en vanlig ting i dataverdenen, og Online har både
 grunnlag, mulighet og behov for å gjennomføre et slikt stunt, som
