@@ -2,28 +2,32 @@
 title: "En øl i hånda"
 ---
 
+Sangen er opprinnelig av Otto Nielsen, som studerte ved NTH. Først sett i _Litjvisa mi_, en sangbiografi om hans liv utgitt av Otto Nielsens eldste datter Ann-Cathrin Ramberg.
+
 ### **Innspillinger**
 
-[Kor I All Verden](https://www.youtube.com/watch?v=kptE9R7SxX8) Synger flerstemt
+[Kor I All Verden](https://www.youtube.com/watch?v=kptE9R7SxX8) synger flerstemt
+[Otto Nielsen og Den Norske Studentsangforening](http://open.spotify.com/track/681rpbNuR41d7XwM86XTtG) på spotify
 
 ### **Sangen**
 
-Livet er bra! Livet er bra!  
+Livet er bra!  
 Livet er bra når man bare kan ha  
 det man må ha,  
 ha for at livet til slutt kan bli bra.  
-Ja, hva må man ha  
-Svaret er da, Svaret er da,  
+Hva må man ha,  
+hva må man ha for at alt skal bli bra?  
+Svaret er da, svaret er  
 skal det bli bra,  
 er det øl man må ha.  
 
 Refreng:  
 Å-------, en øl i handa  
 en øl i handa er bedre,  
-mye, mye, mye, mye,  
-mye bedre enn ti fulle lerker på taket  
+så mye, mye bedre,
+enn ti fulle lerker på taket  
 
-Kunne jeg få, Kunne jeg få,  
+Kunne jeg få  
 kunne jeg få cirka en million,  
 skulle jeg gå  
 skulle jeg gå bort å kjøpe meg en telefon.  
@@ -35,5 +39,5 @@ be ham å sende meg øl for en halv million.
 Refreng:  
 Å-------, en øl i handa  
 en øl i handa er bedre,  
-mye, mye, mye, mye,  
-mye bedre enn ti fulle lerker på taket .  
+så mye, mye bedre  
+enn ti fulle lerker på taket .  
