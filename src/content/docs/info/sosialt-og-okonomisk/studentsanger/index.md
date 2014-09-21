@@ -4,7 +4,9 @@ title: "Studentsanger"
 
 Her fins en samling med sanger som man stadig finner i lystige lag blandt studenter i Trondheim. Bidrag med nye og gamle sanger mottas med glede, og om det fins en lenke til innspilling av sangen gjør det alle glade!
 
-### Studentsanger
+Studentsanger
+----------------
+
 -  [Nu klinger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/nu-klinger-igjennom/) - Selve Trondheimstudentsangen! Obligatorisk å kunne.
 - [Himmelseng](/wiki/online/info/sosialt-og-okonomisk/studentsanger/himmelseng/) - Sangen med kun to originale vers, flere vers legges til underveis.
 -   [Calypso](/wiki/online/info/sosialt-og-okonomisk/studentsanger/calypso)
