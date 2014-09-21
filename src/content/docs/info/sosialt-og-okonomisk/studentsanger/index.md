@@ -92,6 +92,7 @@ Om øl
 -   [Deilig er en pils i grunn](/wiki/online/info/sosialt-og-okonomisk/studentsanger/deiligpils)
 -   [Deilig er pilsen](/wiki/online/info/sosialt-og-okonomisk/studentsanger/deiligerpilsen)
 -   [Du kalde, duggfriskne pilsner goddag](/wiki/online/info/sosialt-og-okonomisk/studentsanger/pilsner)
+-   [En øl i hånda](/wiki/online/info/sosialt-og-okonomisk/studentsanger/en-ol-i-handa)  
 -   [Lille øl](/wiki/online/info/sosialt-og-okonomisk/studentsanger/lilleol)
 -   [Mmm… Øl](/wiki/online/info/sosialt-og-okonomisk/studentsanger/mmol)
 -   [Norsk bryggerisang](/wiki/online/info/sosialt-og-okonomisk/studentsanger/bryggerisang)
