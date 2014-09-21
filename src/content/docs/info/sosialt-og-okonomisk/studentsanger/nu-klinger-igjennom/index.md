@@ -16,73 +16,50 @@ I følge en halvnaken Svein-Halvor Halvorsen (på en badstu ikke langt fra gråk
 
 ### **Sangen**
 
-Nu klinger igjennom den gamle stad, påny en studentersang,
-
-og alle mann alle i rekker og rad, svinger opp under begerklang!
-
-Og mens borgerne våkner i køia og hører det glade "kang-kang",
-
+Nu klinger igjennom den gamle stad, påny en studentersang,  
+og alle mann alle i rekker og rad, svinger opp under begerklang!  
+Og mens borgerne våkner i køia og hører det glade "kang-kang",  
 stemmer alle mann, alle mann, alle mann, alle mann, alle mann, alle mann;
 
-
 Refreng:
 
-Studenter i den gamle stad, ta vare på byens ry! (klapp x2)
-
-Husk på at jenter, øl og dram var kjempenes meny. 
-
-Og faller I alle mann alle, skal det gjalle fra alle mot sky.
-
-La'kke byen få ro, men la den få merke det er en studenterby!
-
+Studenter i den gamle stad, ta vare på byens ry! (klapp x2)  
+Husk på at jenter, øl og dram var kjempenes meny.  
+Og faller I alle mann alle, skal det gjalle fra alle mot sky.  
+La'kke byen få ro, men la den få merke det er en studenterby!  
 Og øl og dram, og øl og dram, og øl og dram, og øl og dram.
 
-
-I denne gamle staden satt så mangen en konge stor,
-
-og hadde nok av øl fra fat og piker ved sitt bord.
-
-De laga bøljer i gata når hjem ifra gildet de fór.
-
+I denne gamle staden satt så mangen en konge stor,  
+og hadde nok av øl fra fat og piker ved sitt bord.  
+De laga bøljer i gata når hjem ifra gildet de fór.  
 Og nu sitter de alle mann alle i valhall og traller til oss i kor:
 
+Refreng..
 
-Refreng:
-
-På Elgeseter var det liv i klosteret dag og natt!
-
-Der hadde de sin kagge og der hadde de sin skatt.
-
-De herjet i Nonnenes gate og rullet og tullet og datt.
-
+På Elgeseter var det liv i klosteret dag og natt!  
+Der hadde de sin kagge og der hadde de sin skatt.  
+De herjet i Nonnenes gate og rullet og tullet og datt.  
 Og nu skuer de fra himmelen og griper sin harpe fatt.
-
 
 Refreng:
 
 (Adagio)
 
-Når vi er vandret hen og staden hviler et øyeblikk,
-
-så kommer våre sønner og tar opp den gamle skikk; 
-
-En lek mellom muntre butuljer, samt aldri så lit' erotikk.
+Når vi er vandret hen og staden hviler et øyeblikk,  
+så kommer våre sønner og tar opp den gamle skikk;  
+En lek mellom muntre butuljer, samt aldri så lit' erotikk. 
 
 (Accelerando)
 
 Også sitter vi i himmelen og stemmer i vår replikk;
 
-
 Refreng:
 
 (Tramp/klapp hele siste refreng)
 
-Studenter i den gamle stad, ta vare på byens ry! (markant klapp x2)
-
-Husk på at jenter, øl og dram var kjempenes meny. 
-
-Og faller I alle mann alle, skal det gjalle fra alle mot sky.
-
+Studenter i den gamle stad, ta vare på byens ry! (markant klapp x2)  
+Husk på at jenter, øl og dram var kjempenes meny.  
+Og faller I alle mann alle, skal det gjalle fra alle mot sky.  
 La'kke byen få ro, men la den få merke det er en studenterby!¨
 
 (INGEN ØL OG DRAM ETTER SISTE REFRENG! Men ofte utbrytes det i en "Skål!")
