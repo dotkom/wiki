@@ -14,7 +14,7 @@ Sangen er opprinnelig av Otto Nielsen, som studerte ved NTH. Først sett i _Litj
 Livet er bra!  
 Livet er bra når man bare kan ha  
 det man må ha,  
-ha for at livet til slutt kan bli bra.  
+det man må ha for at livet til slutt kan bli bra.  
 Hva må man ha,  
 hva må man ha for at alt skal bli bra?  
 Svaret er da,  
