@@ -2,64 +2,42 @@
 title: "Linjeforeninger på Dragvoll"
 ---
 
-### Velkommen til www.dragvoll.info :)
-
-Tilhørende info
-
-* Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
-* Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
-* Har dere kontor? [Les regler for rombruk og internhusleie](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer)
-* Trenger dere kontor? [Søk til NTNU sentralt om fristasjon for studentorganisasjon](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger)
-* Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er får areal dekket av sitt fakultet v/fakultetsdirektør
-
-Tilhørende wikisider
-
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
-* Du er her: [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
-* [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
-
-Linjeforeninger
-----
-
-|Linjeforening|BrReg|Linje|Kontor|Avis|Facebook|Epost|
-|---|---|---|---|---|---|---|
-| Akwaaba | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995924226) | Afrikastudier | | | [Group](http://fb.com/groups/495389020623/) | akwaabapost.ntnu@gmail.com |
-| [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com |
-| [CAF](http://org.ntnu.no/idrett/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | | | cafidrett@gmail.com |
-| [Communitas](http://sosantntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998359910) | Sosialantropologi | | | [Person](http://fb.com/profile.php?id=100005081378226), [Group](http://fb.com/groups/523915897703998/) | sosant.ntnu@gmail.com |
-| [De Folkevalgte](http://www.defolkevalgte.net/) | | Statsvitenskap | | | [Page](http://fb.com/defolkevalgte), [Person](http://fb.com/thomashobbesdf) | defolkevalgte@gmail.com |
-| [De Passe Simple](http://org.ntnu.no/dps/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=895213632) | Fransk | 7-508 (bygg 7, nivå 5) | | [Group](http://fb.com/groups/5656499932/) | depassesimple@gmail.com |
-| [Det Historiske Selskab](http://org.ntnu.no/historie/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996557405) | Historie | | | [Page](http://fb.com/DetHistoriskeSelskab), [Person](http://fb.com/petter.wesseltordenskjold), [Group](http://fb.com/groups/33248463626/) | ntnu_dhs@hotmail.com |
-| [Dionysos](http://dionysosntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998237874) | Religion | | | [Page](http://fb.com/LinjeforeningenDionysos) | dionysoslinjeforening@gmail.com |
-| [Erudio](http://www.erudiontnu.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=888738622) | Lektor | Låven | | [Page](http://fb.com/erudiontnu) | erudiostyret@hotmail.com |
-| [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [SerEØS](http://org.ntnu.no/eureka/abonner-pa-sereos/arkiv) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com |
-| [Geolf](http://geolf.org/) | | Geografi | | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
-| [Gengangere](http://www.gengangere.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | | [Group](http://fb.com/groups/gengangere/) | gengangere@list.stud.ntnu.no |
-| [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
-| IVRig | | Voksnes læring og rådgivningsvitenskap | | | [Group](http://fb.com/groups/417229618342926/) | ivrig.linjeforening@gmail.com |
-| [Katharsis](http://ntnukatharsis.wordpress.com/) | | Kunsthistorie | | | [Group](http://fb.com/groups/119903818113496/) | linjeforeningenkatharsis@gmail.com |
-| [Kultura](https://sites.google.com/site/kulturaweb/) | | Kulturminneforvaltning | | | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
-| LiMP | | Master i psykologi | | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | linjeforeningen.limp@gmail.com |
-| Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
-| [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
-| [Ludimus](http://ludimus.wordpress.com/) | | [Språk og kommunikasjon](http://ntnu.no/isk) | | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
-| [Lydmurerlosjen](http://org.ntnu.no/lydmurerlosjen/) | | Musikkteknologi | | | [Group](http://fb.com/groups/39534575405/) | |
-| [Notelinjeforeningen](http://notelinja.wordpress.com/) | | Utøvende musikk | | | [Page](http://fb.com/pages/Notelinjeforeningen/206686876172728) | notelinja@gmail.com |
-| [Paideia Fadder](http://pedfadder.no/), [Paideia](http://org.ntnu.no/paideia/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideia@live.no |
-| [Panoptikon](http://panoptikon.blogg.no/) | | Master STS/KKS, Årsstudium STS | | | [Page](http://fb.com/panoptikonlinjeforening) | tverrfagligkult@gmail.com |
-| [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
-| [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
-| [Psi](http://psilinjeforening.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | | [Person](http://fb.com/psi.linjeforening), [Group](http://fb.com/groups/221747724542810/) | psi.linjeforening@gmail.com |
-| [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |
-| [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
-| [Sturm und Drang](http://www.sturm.ntnu.no/wordpress/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898359662) | Tysk | 7-508 (bygg 7, nivå 5) | | [Page](http://fb.com/SturmUndDrangNTNU), [Group](http://fb.com/groups/30581775718/) | sd.linjeforening@gmail.com |
-| Syrinx | | Musikkvitenskap | | | [Group](http://fb.com/groups/2374408016/) | |
-| [Teaterlosjen](http://teaterlosjen.wordpress.com/) | | Drama/Teater | | | [Page](http://fb.com/teaterlosjen), [Group](http://fb.com/groups/460089664086811/) | teaterlosjen@gmail.com |
-| [Theodor](http://www.lftheodor.no/) | | Arkeologi | | | [Group](http://fb.com/groups/122741647786/) | theodor.arkeologi@gmail.com |
-| [Trondheim Klassisk Studentforening](http://klassisk.webs.com/news.htm) | | Klassiske fag | | | [Group](https://www.facebook.com/groups/41722135873/) | |
+|Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|
+|---|---|---|---|---|---|
+| Akwaaba | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995924226) | Afrikastudier | | [Group](http://fb.com/groups/495389020623/) | akwaabapost.ntnu@gmail.com |
+| [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com |
+| [CAF](http://org.ntnu.no/idrett/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | | cafidrett@gmail.com |
+| [Communitas](http://sosantntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998359910) | Sosialantropologi | | [Person](http://fb.com/profile.php?id=100005081378226), [Group](http://fb.com/groups/523915897703998/) | sosant.ntnu@gmail.com |
+| [De Folkevalgte](http://www.defolkevalgte.net/) | | Statsvitenskap | | [Page](http://fb.com/defolkevalgte), [Person](http://fb.com/thomashobbesdf) | defolkevalgte@gmail.com |
+| [De Passe Simple](http://org.ntnu.no/dps/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=895213632) | Fransk | 7-508 (bygg 7, nivå 5) | [Group](http://fb.com/groups/5656499932/) | depassesimple@gmail.com |
+| [Det Historiske Selskab](http://org.ntnu.no/historie/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996557405) | Historie | | [Page](http://fb.com/DetHistoriskeSelskab), [Person](http://fb.com/petter.wesseltordenskjold), [Group](http://fb.com/groups/33248463626/) | ntnu_dhs@hotmail.com |
+| [Dionysos](http://dionysosntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998237874) | Religion | | [Page](http://fb.com/LinjeforeningenDionysos) | dionysoslinjeforening@gmail.com |
+| [Erudio](http://www.erudiontnu.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=888738622) | Lektor | Låven | [Page](http://fb.com/erudiontnu) | erudiostyret@hotmail.com |
+| [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com |
+| [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
+| [Gengangere](http://www.gengangere.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Group](http://fb.com/groups/gengangere/) | gengangere@list.stud.ntnu.no |
+| [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
+| IVRig | | Voksnes læring og rådgivningsvitenskap | | [Group](http://fb.com/groups/417229618342926/) | ivrig.linjeforening@gmail.com |
+| [Katharsis](http://ntnukatharsis.wordpress.com/) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | linjeforeningenkatharsis@gmail.com |
+| [Kultura](https://sites.google.com/site/kulturaweb/) | | Kulturminneforvaltning | | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
+| LiMP | | Master i psykologi | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | linjeforeningen.limp@gmail.com |
+| Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
+| [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
+| [Ludimus](http://ludimus.wordpress.com/) | | [Språk og kommunikasjon](http://ntnu.no/isk) | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
+| [Lydmurerlosjen](http://org.ntnu.no/lydmurerlosjen/) | | Musikkteknologi | | [Group](http://fb.com/groups/39534575405/) | |
+| [Notelinjeforeningen](http://notelinja.wordpress.com/) | | Utøvende musikk | | [Page](http://fb.com/pages/Notelinjeforeningen/206686876172728) | notelinja@gmail.com |
+| [Paideia Fadder](http://pedfadder.no/), [Paideia](http://org.ntnu.no/paideia/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideia@live.no |
+| [Panoptikon](http://panoptikon.blogg.no/) | | Master STS/KKS, Årsstudium STS | | [Page](http://fb.com/panoptikonlinjeforening) | tverrfagligkult@gmail.com |
+| [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
+| [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
+| [Psi](http://psilinjeforening.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Person](http://fb.com/psi.linjeforening), [Group](http://fb.com/groups/221747724542810/) | psi.linjeforening@gmail.com |
+| [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |
+| [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
+| [Sturm und Drang](http://www.sturm.ntnu.no/wordpress/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898359662) | Tysk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/SturmUndDrangNTNU), [Group](http://fb.com/groups/30581775718/) | sd.linjeforening@gmail.com |
+| Syrinx | | Musikkvitenskap | | [Group](http://fb.com/groups/2374408016/) | |
+| [Teaterlosjen](http://teaterlosjen.wordpress.com/) | | Drama/Teater | | [Page](http://fb.com/teaterlosjen), [Group](http://fb.com/groups/460089664086811/) | teaterlosjen@gmail.com |
+| [Theodor](http://www.lftheodor.no/) | | Arkeologi | | [Group](http://fb.com/groups/122741647786/) | theodor.arkeologi@gmail.com |
+| [Trondheim Klassisk Studentforening](http://klassisk.webs.com/news.htm) | | Klassiske fag | | [Group](https://www.facebook.com/groups/41722135873/) | |
 
 ## Bedriftsforeninger
 
