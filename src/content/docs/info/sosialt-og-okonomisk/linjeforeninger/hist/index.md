@@ -6,15 +6,22 @@ title: "Linjeforeninger på HiST"
 
 ---
 
-* For epostlister se her: https://online.ntnu.no/resourcecenter/mailinglists
-* Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
-* Usikker på statusen hos Brønnøysund (BrReg)? [[Hvordan gjøre endringer i Brønnøysundregistrene]]
+Tilhørende info
 
-* Se også [[Linjeforeninger på Gløshaugen]]
-* Se også [[Linjeforeninger på Dragvoll]]
-* Se også [[Karrieredager]]
-* Se også [[Studentkjellere på Moholt]]
-* See also [[International student organizations at NTNU]]
+* Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
+* Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
+* Har dere kontor? [Les regler for rombruk og internhusleie](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer)
+* Trenger dere kontor? [Søk til NTNU sentralt om fristasjon for studentorganisasjon](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger)
+* Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er får areal dekket av sitt fakultet v/fakultetsdirektør
+
+Tilhørende wikisider
+
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
+* [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* Du er her: [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ## Linjeforeninger
 
