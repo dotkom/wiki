@@ -21,8 +21,7 @@ Tilhørende wikisider
 * [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
-Linjeforeninger
----------------
+## Linjeforeninger
 
 Linjeforeningene på Gløshaugen er de mest kjente linjeforeningene i
 Norge. De har årelange tradisjoner og noen av dem er eldre enn hundre
@@ -52,9 +51,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Timini](http://timini.no) (2006) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990373418) | NanoTek | Styrebånd (tynne turkise med sølvlenke) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7596&desttype=poi) | inTimini | [Page](http://fb.com/TiminiNTNU) | |
 | [Volvox & Alkymisten](http://volvox.no) (1961) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992357002) | Kjemi, Biologi, BioTek | Styrebånd (grønn med gullkant) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7594&desttype=poi) | Nukleotidende | [Page](http://fb.com/volvoxogalkymisten) | [Boksalg](http://fb.com/groups/462966773725320) |
 
-
-Masterforeninger
-----------------
+## Masterforeninger
 
 |Masterforening|BrReg|Linje|Facebook|Avis|
 |---|---|---|---|---|
@@ -67,16 +64,13 @@ Masterforeninger
 |[Soma](http://somantnu.blogspot.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Medisin|[Page](http://fb.com/SOMANTNU), [Group](http://fb.com/groups/159591847413555/)||
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi|[Group](http://fb.com/groups/104245099606755/)||
 
-
-Doktorgradsforeninger
-----------
+## Doktorgradsforeninger
 
 |Doktorgradsforening|BrReg|Linje|Facebook|
 |---|---|---|---|
 |[DION](http://www.dion.ntnu.no)||Alle doktorgrader|[Page](http://fb.com/DION.NTNU)|
 
-Tradisjoner
------------
+## Tradisjoner
 
 Tradisjoner som linjeforeninger på Gløshaugen har opprettholdt i mange
 år
@@ -99,13 +93,11 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   Emil og Placebo holder **styrefest** hver høst
 -   Emil og A/F Smørekoppen lager **revy** hver vår
 -   HC lager **musikal** hver vår
--   Online holder **tallinntur** hver høst
 -   Omega bulletin holder **presseconfirance** hver vår, en fest for
     linjeredaksjonene
 -   A/F Smørekoppen holder **badekarpadling** på Nidelven i september
 
-Ressurser
----------
+## Ressurser
 
 ### Søke økonomisk støtte
 
@@ -151,7 +143,6 @@ Ressurser
         studenter med funksjonsnedsettelse kan delta
     -   Foreningen/organisasjonen må være Brønnøysundsregistrert
     -   Kontakt tilrettelegging@adm.ntnu.no
-
 
 ### Tjene penger
 
@@ -219,7 +210,6 @@ Ressurser
 -   **Epostlister:** [Online](online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
 
-
 ### Sjenkebevilling til arrangementer
 
 1.  Søk om ambulerende sjenkebevilling hos [Trondheim Kommune][]
@@ -231,8 +221,7 @@ Ressurser
     NTNU vil sørge for at det er vakter på jobb i bygget på den aktuelle
     kvelden
 
-Linjeforeningslederforumet
---------------------------
+## Linjeforeningslederforumet
 
 Sent i 2011 begynte hovedstyret i Online med den nitidige jobben å samle
 inn statiske epostadresser for alle linjeforeningene på Gløshaugen. Den
@@ -258,15 +247,13 @@ linjeledergrøt/linjelederpizza hver fredag i Hangaren/Kjelhuset.
 - [Abakus][] har ansvaret for å kalle inn til linjelederpils på
 Mikrobryggeriet/Daglighallen.
 
-Gløshaugenkartet
-----------------
+## Gløshaugenkartet
 
 Nesten alle Gløshaugens linjeforeninger har kontorlokaler. Disse har
 varierende aktivitetsnivå, alt fra én time i uken til fullt hus til alle
 døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
 tilbake til oss på kontakt@online.ntnu.no
-
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601
   [RomRes]: http://romres.ntnu.no/
