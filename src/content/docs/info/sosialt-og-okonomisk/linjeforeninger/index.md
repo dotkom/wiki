@@ -14,7 +14,7 @@ Tilhørende info
 
 Tilhørende wikisider
 
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
+* Du er her: [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
 * [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
 * [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
 * [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
