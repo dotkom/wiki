@@ -4,22 +4,22 @@ title: "Linjeforeninger"
 
 ### Velkommen til www.gloshaugen.info :)
 
--   For epostlister se [her](https://online.ntnu.no/resourcecenter/mailinglists)
--   Er din linjeforening listet opp her? Send epost til
-    kontakt@online.ntnu.no for oppdateringer
--   Usikker på statusen hos Brønnøysund (BrReg)? [Hvordan gjøre
-    endringer i Brønnøysundregistrene][]
--   Har dere kontor? [Les regler for rombruk og internhusleie][]
--   Trenger dere kontor? Søk til NTNU sentralt om fristasjon for
-    studentorganisasjon på denne [siden][]
-    -   Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er
-        får areal dekket av sitt fakultet v/fakultetsdirektør
+Tilhørende info
 
--   Se også [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll)
--   Se også [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist)
--   Se også [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager)
--   Se også [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere)
--   See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg)
+* For epostlister se [her](https://online.ntnu.no/resourcecenter/mailinglists)
+* Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
+* Har dere kontor? [Les regler for rombruk og internhusleie](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer)
+* Trenger dere kontor? Søk til NTNU sentralt om fristasjon for studentorganisasjon på denne [siden](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger)
+* Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er får areal dekket av sitt fakultet v/fakultetsdirektør
+
+Tilhørende sider
+
+* Se også [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
+* Se også [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* Se også [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* Se også [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* Se også [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 Linjeforeninger
 ---------------
@@ -299,6 +299,3 @@ tilbake til oss på kontakt@online.ntnu.no
   [akan.no]: http://akan.no/
   [akan.no/../]: http://www.akan.no/publisher/publisher.asp?id=57&tekstid=611
   [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement]: https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement
-
-  [Les regler for rombruk og internhusleie]: https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer
-  [siden]: https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger
