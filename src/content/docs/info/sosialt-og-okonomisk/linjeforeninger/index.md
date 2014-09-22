@@ -286,3 +286,6 @@ tilbake til oss på kontakt@online.ntnu.no
   [akan.no]: http://akan.no/
   [akan.no/../]: http://www.akan.no/publisher/publisher.asp?id=57&tekstid=611
   [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement]: https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement
+
+* [attachment:154]
+* [attachment:155]
