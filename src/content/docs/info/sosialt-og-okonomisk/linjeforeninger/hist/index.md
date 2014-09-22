@@ -2,10 +2,6 @@
 title: "Linjeforeninger på HiST"
 ---
 
-[TOC]
-
----
-
 Tilhørende info
 
 * Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
