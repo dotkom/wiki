@@ -2,18 +2,21 @@
 title: "International student organizations at NTNU"
 ---
 
-* For mailinglists, see here: https://online.ntnu.no/resourcecenter/mailinglists
-* Is your organization listed here? Email kontakt@online.ntnu.no for updates
-* Unsure about your status with the Brønnøysund National Regristry (BrReg)? Hvordan gjøre endringer i Brønnøysundregistrene|How to update your organizations' National Registry entry
-* Do you have an office? [Read the rules for room usage and the internal room distribution agreements](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer
-*) Do you need an office? [Apply to NTNU centrally about a free office for student organizations at this page](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger
-**) Please note that linjeforeninger and other faculty specific student organizations will get their room needs covered by their respective faculty through the faculty director
+Associated information
 
--   See also [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll)
--   See also [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist)
--   See also [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager)
--   See also [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere)
--   See also [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg)
+* Contact student orgs.? [See mailinglists here](https://online.ntnu.no/resourcecenter/mailinglists)
+* Is your student org. listed here? Email kontakt@online.ntnu.no for updates
+* Does your student org. have an office? [Read rules about office use and the "internal rent system"](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer)
+* Does your student org. need an office? [Apply to NTNU for a "free station" for student orgs.](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger)
+
+Associated wiki pages
+
+* [Student orgs. at Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
+* [Student orgs. at Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* [Student orgs. at HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* [Student basements at Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Career fairs](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* You are here: [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ## English-speaking student organizations at NTNU
 
