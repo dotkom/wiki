@@ -2,3 +2,21 @@
 title: "Historie"
 ---
 
+- [Historien om linjeforeningen](/wiki/online/historie/om)
+    - [Hovedstyret](/wiki/online/historie/hs)
+    - [Arrangementskomiteen](/wiki/online/historie/arrkom)
+    - [Bank- og økonomikomiteen](/wiki/online/historie/bankom)
+    - [Bedriftskomiteen](/wiki/online/historie/bedkom)
+    - [Drifts- og utviklingskomiteen](/wiki/online/historie/dotkom)
+    - [Fag- og kurskomiteen](/wiki/online/historie/fagkom)
+    - [Profil- og aviskomiteen](/wiki/online/historie/prokom)
+    - [Trivselskomiteen](/wiki/online/historie/trikom)
+    - [Ekskursjonskomiteen](/wiki/online/historie/ekskom)
+    - [Jubileumskomiteen](/wiki/online/historie/jubkom)
+    - [Velkomstkomiteen](/wiki/online/historie/velkom)
+- [Offline](/wiki/online/offlines-historie/)
+- [Generalforsamlingen](/wiki/online/generalforsamlingen)
+- [Kontoret](/wiki/online/kontoret)
+- [Boden på Moholt](/wiki/online/bodenpaamoholt)
+- [Realfagskjelleren](/wiki/online/realfagskjelleren)
+- [Datakameratene FK](/wiki/online/datakameratenefk)
