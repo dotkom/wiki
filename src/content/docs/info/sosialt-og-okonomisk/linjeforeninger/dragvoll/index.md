@@ -2,6 +2,27 @@
 title: "Linjeforeninger på Dragvoll"
 ---
 
+### Velkommen til www.dragvoll.info :)
+
+Tilhørende info
+
+* Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
+* Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
+* Har dere kontor? [Les regler for rombruk og internhusleie](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer)
+* Trenger dere kontor? [Søk til NTNU sentralt om fristasjon for studentorganisasjon](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger)
+* Merk at linjeforeninger og andre fakultetsspesifikke stud.org.er får areal dekket av sitt fakultet v/fakultetsdirektør
+
+Tilhørende wikisider
+
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
+* Du er her: [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+
+## Linjeforeninger
+
 |Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|
 |---|---|---|---|---|---|
 | Akwaaba | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995924226) | Afrikastudier | | [Group](http://fb.com/groups/495389020623/) | akwaabapost.ntnu@gmail.com |
