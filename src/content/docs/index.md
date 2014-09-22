@@ -76,6 +76,7 @@ Du kan også finne disse via prosjektsiden til din komite.
 - [Kontoret](/wiki/komiteer/kontoret/)
 - [Felles komitewiki](/wiki/komiteer/)
     - [Hovedstyrets wiki](/wiki/komiteer/hovedstyret/)
+    - [Applikasjonskomiteens wiki](/wiki/komiteer/appkom/)
     - [Arrangementskomiteens wiki](/wiki/komiteer/arrkom/)
     - [Bank- og økonomikomiteens wiki](/wiki/komiteer/bankom/)
     - [Bedriftskomiteens wiki](/wiki/komiteer/bedkom/)
