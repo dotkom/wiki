@@ -55,9 +55,9 @@ For øyeblikket er kjellerene fordelt slikt:
 
 Kjellerne på Moholt har lange tradisjoner for å "berge" ting, altså å ta ting fra en kjeller og overrekke til en annen (fortrinnsvis din egen). Her gjelder det enkelte regler, disse finner du her:
 
-[attachment:118]
-
+* [attachment:118]
 
 Om du vil *redigere dette kartet* er det bare å laste ned photoshopfilen nederst på denne siden og sende en oppdatert versjon tilbake til oss på kontakt@online.ntnu.no
 
-[attachment:120]
+* [attachment:120]
+* [attachment:119]
