@@ -18,7 +18,7 @@ Associated wiki pages
 * [Career fairs](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * You are here: [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
-## Student organization
+## Student organizations
 
 |International student organization|National Registry|Academic Discipline|Facebook|Email|
 |---|---|---|---|---|
