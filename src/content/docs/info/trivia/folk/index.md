@@ -6,7 +6,7 @@ title: "Folk"
 
 #### Nevneverdige Onlinere  
 
-* Marius W. Thingwall (Grunnlegger av studenterhyttearrangementet, og generelt kul arrkomtype)
+
 
 #### Nevneverdige grupperinger  
   
