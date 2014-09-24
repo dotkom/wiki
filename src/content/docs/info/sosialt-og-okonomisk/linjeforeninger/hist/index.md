@@ -14,12 +14,12 @@ Tilhørende wikisider
 
 * [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
 * [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* Du er her: [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* Du er her: [Linjeforeninger på HiST, TJSF, BI](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
 * [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
 * [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
-## Linjeforeninger
+## Linjeforeninger på HiST
 
 |Linjeforening|BrReg|Linje|Kontor|Epost|Facebook|
 |---|---|---|---|---|---|
@@ -38,8 +38,15 @@ Tilhørende wikisider
 
 _1. = "Brygghuset" ved Leütenhaven/Trøndelag Teater_
 
-## Trondheim Teknikersamfunn
+## Trondheim Teknikersamfunn på HiST
 
 Trondheim Teknikersamfunn (TTS) ble stiftet i 1912 av studenter for å sikre politisk innflytelse, så vel som å skape en arena for sosialisering og samhold. *Paraplyorganisasjonen* har gjennom disse hundre årene blant annet drevet en egen avis, studenthytte og idrettsforening. I dag har TTS *et dusin tilknyttede studentforeninger* fra høgskolens to teknologiavdelinger. Arbeidsutvalget i TTS står for den daglige driften og jobber blant annet med å minske frafallet av studenter gjennom praktiske, sosiale og tverrfaglige prosjekter. En representant fra hver av foreningene danner styret i TTS, som er det øverste studentorganet ved de tilhørende avdelingene.
 
 http://tts.hist.no/
+
+## Linjeforeninger på TJSF, BI
+
+|Linjeforening|Institusjon|BrReg|Linje|Kontor|Epost|Facebook|
+|---|---|---|---|---|---|---|
+| [TJSF](http://tjsf.no/) | [Folkeuniversitetet](http://jusitrondheim.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989550667) | Jus | ? | nyetjsf@gmail.com | [Group](https://www.facebook.com/groups/2235679616/) |
+| [BIS](http://www.bis.no/trondheim/) | [BI](http://www.bi.no/studenter/bi-trondheim/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=975888320) | Business | | leder.trondheim@bis.no | |
