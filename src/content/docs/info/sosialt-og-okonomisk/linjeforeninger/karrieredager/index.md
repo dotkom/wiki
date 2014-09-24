@@ -14,7 +14,7 @@ Tilhørende wikisider
 
 * [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
 * [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* [Linjeforeninger på HiST, TJSF, BI](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
 * [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
 * Du er her: [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
