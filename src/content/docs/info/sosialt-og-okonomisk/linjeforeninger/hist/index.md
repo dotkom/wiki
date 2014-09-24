@@ -42,7 +42,7 @@ _1. = "Brygghuset" ved Leütenhaven/Trøndelag Teater_
 
 Trondheim Teknikersamfunn (TTS) ble stiftet i 1912 av studenter for å sikre politisk innflytelse, så vel som å skape en arena for sosialisering og samhold. *Paraplyorganisasjonen* har gjennom disse hundre årene blant annet drevet en egen avis, studenthytte og idrettsforening. I dag har TTS *et dusin tilknyttede studentforeninger* fra høgskolens to teknologiavdelinger. Arbeidsutvalget i TTS står for den daglige driften og jobber blant annet med å minske frafallet av studenter gjennom praktiske, sosiale og tverrfaglige prosjekter. En representant fra hver av foreningene danner styret i TTS, som er det øverste studentorganet ved de tilhørende avdelingene.
 
-http://tts.hist.no/
+* [tts.hist.no](http://tts.hist.no/)
 
 ## Linjeforeninger på TJSF, BI
 
