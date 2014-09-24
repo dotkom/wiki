@@ -13,7 +13,7 @@ Associated wiki pages
 
 * [Student orgs. at Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
 * [Student orgs. at Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Student orgs. at HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* [Student orgs. at HiST, TJSF, BI](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
 * [Student basements at Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
 * [Career fairs](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * You are here: [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
