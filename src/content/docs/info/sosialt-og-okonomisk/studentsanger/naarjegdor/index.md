@@ -29,7 +29,7 @@ hvis du vil elske alle piker før du dør.
 
 p(. **Jentene synger:**  
 Vil du elske alle gutta før du dør,  
-vi l du elske alle gutta før du dør,  
+vil du elske alle gutta før du dør,  
 vil du finne, notabene,  
 alt av alle hos den ene,  
 hvis du vil elske alle gutta før du dør.
