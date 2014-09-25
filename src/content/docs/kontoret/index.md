@@ -4,6 +4,10 @@ title: "Kontoret"
 
 # Kontoret
 
+
+
+
+
 Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sove på en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall algoritmen og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner. Kontoret blir også brukt til møtevirksomhet av komitéene.
 
 ## Beliggenhet
@@ -31,3 +35,6 @@ Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er f
 Kaffe, te og annet som det ikke står noen pris på er å betrakte som gratis goder til "alle" (les: medlemmer av linjeforeningen).
 
 Telefonnummeret til kontoret er 73 59 64 89
+
+
+- [Kontorvakt](/wiki/online/kontoret/kontorvakt)
