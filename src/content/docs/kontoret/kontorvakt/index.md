@@ -5,7 +5,8 @@ title: "Kontorvakt"
 ##Hvordan være kontorvakt
 Som kontorvakt har man noen oppgaver og ansvar. Her kan man få oversikt over hva dette innebærer!
 
-##Ansvar og oppgaver
+Ansvar og oppgaver
+---
 Etasjeansvarlig Når man er kontorvakt på Onlinekontoret har man ansvaret for brann og evakuering i HELE 3. Etasje.
 En veldig viktig jobb vi er pålagt å gjøre! Sørg for at du som kontorvakt er kjent med rømningsplan for P15.
 Refleksvesten man skal ta på seg ved en brannalarm henger på veggen ved vasken.
