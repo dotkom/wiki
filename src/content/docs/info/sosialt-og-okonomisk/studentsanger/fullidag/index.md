@@ -8,8 +8,8 @@ sånn har livet blitt for meg,
 alle andre har hverandre,  
 bare jeg er glad i meg.  
 
-Full i dag  
-og full i morgen  
+Vondt i hodet  
+vondt i kroppen  
 sånn har livet blitt for meg,  
 alle andre har hverandre,  
 bare jeg er glad i meg.  
