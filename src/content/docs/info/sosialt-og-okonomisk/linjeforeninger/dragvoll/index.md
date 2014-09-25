@@ -35,6 +35,7 @@ Tilhørende wikisider
 | [Dionysos](http://dionysosntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998237874) | Religion | | [Page](http://fb.com/LinjeforeningenDionysos) | dionysoslinjeforening@gmail.com |
 | [Erudio](http://www.erudiontnu.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=888738622) | Lektor | Låven | [Page](http://fb.com/erudiontnu) | erudiostyret@hotmail.com |
 | [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com |
+| Fauréningen | | Musikkvitenskap | 2-426 (bygg 2, nivå 4) | [Group](http://fb.com/groups/586235868057291/) | faureningen@gmail.com |
 | [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
 | [Gengangere](http://www.gengangere.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Group](http://fb.com/groups/gengangere/) | gengangere@list.stud.ntnu.no |
 | [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
@@ -55,7 +56,6 @@ Tilhørende wikisider
 | [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |
 | [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
 | [Sturm und Drang](http://www.sturm.ntnu.no/wordpress/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898359662) | Tysk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/SturmUndDrangNTNU), [Group](http://fb.com/groups/30581775718/) | sd.linjeforening@gmail.com |
-| Syrinx | | Musikkvitenskap | | [Group](http://fb.com/groups/2374408016/) | |
 | [Teaterlosjen](http://teaterlosjen.wordpress.com/) | | Drama/Teater | | [Page](http://fb.com/teaterlosjen), [Group](http://fb.com/groups/460089664086811/) | teaterlosjen@gmail.com |
 | [Theodor](http://www.lftheodor.no/) | | Arkeologi | | [Group](http://fb.com/groups/122741647786/) | theodor.arkeologi@gmail.com |
 | [Trondheim Klassisk Studentforening](http://klassisk.webs.com/news.htm) | | Klassiske fag | | [Group](https://www.facebook.com/groups/41722135873/) | |
