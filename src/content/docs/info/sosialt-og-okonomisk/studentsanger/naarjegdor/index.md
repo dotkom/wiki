@@ -41,19 +41,19 @@ nu i aften, når vi er sammen,
 d’ække sikkert vi får brennvin når vi dør.
 
 Minst et værtshus må man lukke når jeg dør,  
-minst et værtshu s må man lukke når jeg dør,  
+minst et værtshus må man lukke når jeg dør,  
 for jeg har alt mitt på det tørre,  
 intet privatkonsum har vært større,  
 minst et værtshus må man stenge når jeg dør.
 
 Det blir ingen prestetale når jeg dør,  
-det blir in g en prestetalen år jeg dør,  
+det blir ingen prestetalen år jeg dør,  
 jeg skal minnes ved et beger  
 som en gammel skjørtejeger,  
 det blir ingen prestetale når jeg dør.
 
 Du skal få min gamle sykkel når jeg dør,  
-du skal f å min g amle sykkel når jeg dør,  
+du skal få min gamle sykkel når jeg dør,  
 for de siste kilo meter,  
 tar jeg tandem med St. Peter ,  
 du skal få min gamle sykkel når jeg dør.
