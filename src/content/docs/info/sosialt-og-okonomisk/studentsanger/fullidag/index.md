@@ -8,19 +8,11 @@ sånn har livet blitt for meg,
 alle andre har hverandre,  
 bare jeg er glad i meg.  
 
-Vondt i hodet
-
-
-vondt i kroppen
-
-
-hva har fylla gjort med meg
-
-
-jeg skal aldri svikte flaska
-
-
-jeg skal aldri gifte meg.
+Full i dag  
+og full i morgen  
+sånn har livet blitt for meg,  
+alle andre har hverandre,  
+bare jeg er glad i meg.  
 
 
 På min gravstein  
