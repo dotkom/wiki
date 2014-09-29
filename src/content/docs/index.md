@@ -25,16 +25,16 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Lånekassen](/wiki/online/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
 - [Linjeforeninger](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/) - Kjekt å vite om linjeforeningene i Trondheim
 - [Studentsanger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/) - De tradisjonsrike sangene sunget av NTNU-studenter gjennom tidene!
-- [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"}
-- [Søke om drikking på kontoret](/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/)
+- [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"} - Ekstern link
+- [Søke om drikking på kontoret](/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/) - Ekstern link
 
 ### [Trivia](/wiki/online/info/trivia/)
 
 - [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
 - [Mailoppsett på mobil](/wiki/online/info/trivia/mailoppsett-pa-mobil/) - Sett opp @stud.ntnu.no -mailen din på mobiltelefonen din
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
-- [Scanner på kontoret](/wiki/online/info/trivia/scanner-pa-kontoret/)
-- [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/)
+- [Scanner på kontoret](/wiki/online/info/trivia/scanner-pa-kontoret/) - Eller du kan laste ned appen DocScan
+- [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/) - Ikke alltid like lett å sette opp
 
 ### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
 
@@ -43,7 +43,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-- [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
+- [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/) - In case you're wondering
 
 [Historie om linjeforeningen og komiteene](/wiki/online/historie/)
 ----------------------------------------
