@@ -2,7 +2,6 @@
 title: "Sekkemannen"
 ---
 
-
 Sekkemannen er det populære kallenavnet på Rajananad Dhananjaya. Rajananad Dhananjaya het opprinnelig Stein Roar Andersen, men endret navn etter å ha blitt opptatt av Indisk filosofi1. Rajananad Dhananjaya er et kjent innslag i bybildet i Trondheim, spesielt på grunn av den store ryggsekken (trolig en 120-liters Berganssekk) han alltid går med. Rajananad Dhananjaya er student på NTNU og kan påtreffes både på Gløshaugen og Dragvoll, samt på rute 5 mellom disse to.
 
 ### Fredsarbeid og studentdemokrati
@@ -33,9 +32,9 @@ Mye av informasjonen her kommer fra fangruppen hans på Facebook, som til slutt 
 - Han ser på TV (først og fremst nyheter) i vrimleområdet bak R8, og skjeller ut de som ikke er stille
 - Mangus Romnes (Skrot) møtte sekkemannen på Burgerking en sen natt, og de ble sittende og diskutere vinteridrett. Da kom det frem at Sekkemannen mener vinteridrett er satans verk, styrt av en hemmelig regjering som kidnapper barn til dette formålet. Etter samtalen fikk Skrot visittkortet hans.
 
-Litteraturliste
-[1] "Fra Stein Roar til Rajananda", Adresseavisen 27.11.2004: http://www.adressa.no/nyheter/trondheim/article347196.ece
-[2] Intervjuet fra RadioRevolt: http://mts.ms/Sekkemannen.mp3
-[3] Readme februar 2008, inneholder intervju med Sekkemannen: https://dvikan.no/files/readme-2008-februar.pdf
-[4] Eksempel på anmeldelse, her av PVV: http://list.pvv.org/pipermail/aktive/2007-October/000592.html
+Litteraturliste    
+[1] "Fra Stein Roar til Rajananda", Adresseavisen 27.11.2004: http://www.adressa.no/nyheter/trondheim/article347196.ece    
+[2] Intervjuet fra RadioRevolt: http://mts.ms/Sekkemannen.mp3    
+[3] Readme februar 2008, inneholder intervju med Sekkemannen: https://dvikan.no/files/readme-2008-februar.pdf    
+[4] Eksempel på anmeldelse, her av PVV: http://list.pvv.org/pipermail/aktive/2007-October/000592.html    
 [5] "Rajananad Dhananjaya's homepage" http://padma1008.50megs.com/index.html (hjemmesiden, gøy å lese på i eksamenstida)
