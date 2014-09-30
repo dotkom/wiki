@@ -20,7 +20,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 ### [Sosialt & økonomisk](/wiki/online/info/sosialt-og-okonomisk/)
 
 - [Ny student?](/wiki/online/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
-- [Hvordan bære daljer](https://online.ntnu.no/wiki/online/dalje)En veiledning på hvordan kle seg i daljer og pin på studentgallaer
+- [Hvordan bære daljer](https://online.ntnu.no/wiki/online/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
 - [Ditt liv som Onliner](/wiki/online/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
 - [IRC](/wiki/online/info/sosialt-og-okonomisk/irc/) - Guide til å komme deg inn på Onlines chatterom, åpent for alle
 - [Lånekassen](/wiki/online/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
