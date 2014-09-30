@@ -44,7 +44,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/) - In case you're wondering
-- [Hvordan drive en linjeforening](https://online.ntnu.no/wiki/online/linjeforening) - Ting som er kjekt å kunne!
+- [Hvordan drive en linjeforening](https://online.ntnu.no/wiki/online/linjeforening) - Ting som er kjekt å vite!
 
 [Historie om linjeforeningen og komiteene](/wiki/online/historie/)
 ----------------------------------------
