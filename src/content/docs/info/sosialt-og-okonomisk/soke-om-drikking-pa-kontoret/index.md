@@ -6,6 +6,8 @@ Hvis det skal søkes om drikking på kontoret så kan dere sende mail til
 adgangskontrollen@adm.ntnu.no. Husk å klarere med triKom,
 trikom@online.ntnu.no, at kontoret er ledig på dagen og tidspunktet.
 
+**Vi forventer at man rydder etter seg på kontoret etter et slik arrangement.**
+
 Her er de reglene vi har fått tilsendt fra drift:
 -------------------------------------------------
 
