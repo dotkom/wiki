@@ -92,3 +92,4 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Velkomstkomiteens wiki](/wiki/komiteer/velkom/)
     - [Pensjonistkomiteens wiki](/wiki/komiteer/pankom/)
     - [Bedrift-, Fag- og kurskomiteens felleswiki](https://online.ntnu.no/wiki/komiteer/bedfagkom/)
+    - [Seniokomiteens wiki](/wiki/komiteer/seniorkom/)
