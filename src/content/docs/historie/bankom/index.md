@@ -35,14 +35,8 @@ og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 
 ## Medlemmer
 
-|Semester|Leder|Nestleder|arrKom|bedKom|dotKom|fagKom|HS|triKom|proKom|
+|Semester|Leder|Nestleder|arrKom|bedKom|dotKom|fagKom|HS|proKom|triKom|velKom|
 |---|---|---|---|---|---|---|---|---|---|
-|13/14|*Jim Frode Hoff*|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Johan Slettvold|Hallvard Jore Christensen|
-|12/13|*Marius Krakeli*|Markus Slemdal Andersen|/2.Nina Margrethe Smørsgård|/2.Jim Frode Hoff|/2.Ivar Flakstad|/2.Johan Slettevold|/2.Kristoffer Dalby|/3.Marius Krakeli|/3.Rikard Eide|Fredrik Tørnvall|Hallvard Jore Christensen|
-|Høst12|/3.René Räisänen|
-|Vår12|/2.*Ada Jordal*|/6.Ada Jordal|/2.Dag Erik Vikan|/4.Ingrid Kittelsen|Håvard Kindem, Helle Grimnes|Ranghild Seim|
-|Høst11||/3.John-Erik Johansen|/2.Magnus G. Hove|
-|Vår11|/2.*Even Østvold*|/4.Even Østvold|/4.Kristian Laskemoen|
-|Høst10|
-|Vår10|/2.*Michael Johansen*|/2.Michael Johansen|
-|Høsr09|
+|13/14|*Jim Frode Hoff*|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|Johan Slettvold|Henning M. Wold|
+|12/13|*Marius Krakeli*|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|Johan Slettevold|Ragnhild Seim|
+|11/12|*Ada Jordal*|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|Dag Erik Vikan|---|
