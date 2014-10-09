@@ -36,7 +36,9 @@ og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 ## Medlemmer
 
 |Semester|Leder|Nestleder|arrKom|bedKom|dotKom|fagKom|HS|proKom|triKom|velKom|
-|---|---|---|---|---|---|---|---|---|---|
-|13/14|*Jim Frode Hoff*|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|Johan Slettvold|Henning M. Wold|
-|12/13|*Marius Krakeli*|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|Johan Slettevold|Ragnhild Seim|
-|11/12|*Ada Jordal*|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|Dag Erik Vikan|---|
+|---|---|---|---|---|---|---|---|---|---|---|
+|13/14|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|Johan Slettvold|Henning M. Wold|
+|12/13|**Marius Krakeli**|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|Johan Slettevold|Ragnhild Seim|
+|11/12|**Ada Jordal**|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|Dag Erik Vikan|---|Rikard Eide|N/A|Magnus G. Hove|
+|10/11|**Even Østvold**|---|Ingrid Kittelsen, Magnus G. Hove(?)|Ada Jordal|---|Kristian Laskemoen|---|John-Erik Johansen|N/A|---|
+|09/10|**Michael Johansen**|---|Kristian Laskemoen(?)|Ada Jordal|---|Even Østvold(?)|---|N/A|N/A|---|
