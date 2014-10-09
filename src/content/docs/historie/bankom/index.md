@@ -35,10 +35,10 @@ og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 
 ## Medlemmer
 
-|Semester|Leder| Medlemmer |
-|---|---| :---: |
-|Høst 13| Jim Frode Hoff | Linn Vikre | Truls Mørk Pettersen | Ivar Flakstad | Johan Slettvold | Kristoffer Dalby | Hallvard Jore Christensen | Fredrik Tørnvall | Sondre Johann Widmark |
-|Vår13|/2.*Marius Krakeli*|/2.Markus Slemdal Andersen|/2.Nina Margrethe Smørsgård|/2.Jim Frode Hoff|/2.Ivar Flakstad|/2.Johan Slettevold|/2.Kristoffer Dalby|/3.Marius Krakeli|/3.Rikard Eide|Fredrik Tørnvall|Hallvard Jore Christensen|
+|Semester|Leder|Nestleder|arrKom|bedKom|dotKom|fagKom|HS|triKom|proKom|
+|---|---|---|---|---|---|---|---|---|---|
+|13/14|*Jim Frode Hoff*|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Johan Slettvold|Hallvard Jore Christensen|
+|12/13|*Marius Krakeli*|Markus Slemdal Andersen|/2.Nina Margrethe Smørsgård|/2.Jim Frode Hoff|/2.Ivar Flakstad|/2.Johan Slettevold|/2.Kristoffer Dalby|/3.Marius Krakeli|/3.Rikard Eide|Fredrik Tørnvall|Hallvard Jore Christensen|
 |Høst12|/3.René Räisänen|
 |Vår12|/2.*Ada Jordal*|/6.Ada Jordal|/2.Dag Erik Vikan|/4.Ingrid Kittelsen|Håvard Kindem, Helle Grimnes|Ranghild Seim|
 |Høst11||/3.John-Erik Johansen|/2.Magnus G. Hove|
