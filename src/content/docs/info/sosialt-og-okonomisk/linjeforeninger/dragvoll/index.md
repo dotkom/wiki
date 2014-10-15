@@ -52,7 +52,7 @@ Tilhørende wikisider
 | [Panoptikon](http://panoptikon.blogg.no/) | | Master STS/KKS, Årsstudium STS | | [Page](http://fb.com/panoptikonlinjeforening) | tverrfagligkult@gmail.com |
 | [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
 | [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
-| [Psi](http://psilinjeforening.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Person](http://fb.com/psi.linjeforening), [Group](http://fb.com/groups/221747724542810/) | psi.linjeforening@gmail.com |
+| [Psi](http://psilinjeforening.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Page](http://fb.com/psi.linjeforening), [Person](http://fb.com/psi.linjeforening) | psi.linjeforening@gmail.com |
 | [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |
 | [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
 | [Sturm und Drang](http://www.sturm.ntnu.no/wordpress/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898359662) | Tysk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/SturmUndDrangNTNU), [Group](http://fb.com/groups/30581775718/) | sd.linjeforening@gmail.com |
