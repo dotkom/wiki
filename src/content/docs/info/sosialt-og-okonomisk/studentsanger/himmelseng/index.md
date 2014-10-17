@@ -66,7 +66,7 @@ men hora hette tore
 jeg ble nå med ei kjerring hjem  
 hun sa hun hadde mensen  
 det burde ikke vært så galt  
-men flomma jo som Temsen  
+men flomma jo som Themsen  
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
 
