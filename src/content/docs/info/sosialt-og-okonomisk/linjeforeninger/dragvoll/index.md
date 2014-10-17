@@ -42,7 +42,6 @@ Tilhørende wikisider
 | IVRig | | Voksnes læring og rådgivningsvitenskap | | [Group](http://fb.com/groups/417229618342926/) | ivrig.linjeforening@gmail.com |
 | [Katharsis](http://ntnukatharsis.wordpress.com/) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | linjeforeningenkatharsis@gmail.com |
 | [Kultura](https://sites.google.com/site/kulturaweb/) | | Kulturminneforvaltning | | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
-| LiMP | | Master i psykologi | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | linjeforeningen.limp@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
 | [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
 | [Ludimus](http://ludimus.wordpress.com/) | | [Språk og kommunikasjon](http://ntnu.no/isk) | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
@@ -53,6 +52,7 @@ Tilhørende wikisider
 | [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
 | [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
 | [Psi](http://psilinjeforening.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Page](http://fb.com/psi.linjeforening) | psi.linjeforening@gmail.com |
+| [Pstimulus](http://limp.webs.com/) | | Master i psykologi | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | linjeforeningen.limp@gmail.com |
 | [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |
 | [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
 | [Sturm und Drang](http://www.sturm.ntnu.no/wordpress/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898359662) | Tysk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/SturmUndDrangNTNU), [Group](http://fb.com/groups/30581775718/) | sd.linjeforening@gmail.com |
