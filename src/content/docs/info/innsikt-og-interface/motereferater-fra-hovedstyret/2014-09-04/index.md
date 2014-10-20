@@ -22,73 +22,73 @@ title: "Hovedstyrets opptaksmøte"
 
 - arrKom, med velKom
 
-* * Nye medlemmene har kommet seg på mailistene 
-* * Immballet er fullt, venteliste på 16. Får ikke gjort noe med det, er makskapasitet. 
-* * Må få flere vakter hvis de utvider. Kan ikke garantere noen ting 
-* * Har noen ekstra reservasjonsplasser men holder på disse pga styrer og eldsterådet 
-* * Nye arrangementer? 
-* * Spørt proKom om det kunne bli dekket vha film 
-* * Blåtur blir 26. september. 
-* * Ny økonomiansvarlig
+    * Nye medlemmene har kommet seg på mailistene 
+    * Immballet er fullt, venteliste på 16. Får ikke gjort noe med det, er makskapasitet. 
+    * Må få flere vakter hvis de utvider. Kan ikke garantere noen ting 
+    * Har noen ekstra reservasjonsplasser men holder på disse pga styrer og eldsterådet 
+    * Nye arrangementer? 
+    * Spørt proKom om det kunne bli dekket vha film 
+    * Blåtur blir 26. september. 
+    * Ny økonomiansvarlig
 
-* * Fadderuka er ferdig 
-* * Positive tilbakemeldinger
-* * Noe penger igjen
+    * Fadderuka er ferdig 
+    * Positive tilbakemeldinger
+    * Noe penger igjen
 
 - banKom
 
-* * ikke tilstede
+    * ikke tilstede
 
 - bedKom
 
-* * ikke tilstede
+    * ikke tilstede
 
 - dotKom
 
-* * Første møte med nye i går
-* * Introopplegg
-* * wikien er lansert
-* * Mailinglister er ordnet
+    * Første møte med nye i går
+    * Introopplegg
+    * wikien er lansert
+    * Mailinglister er ordnet
 
 - fagKom, med eksKom
 
-* * Tatt opp nye, møte senere i dag
-* * Hatt ett kurs allerede
-* * Nytt kurs til mandag, halvveis fullt
-* * Lite opphold med kurs 
-* * Lightningtalks, fått tak i noen studentkontakter, kommet i kontakt med idi
-* * Skal ha møte med bookinga med abakus snart
+    * Tatt opp nye, møte senere i dag
+    * Hatt ett kurs allerede
+    * Nytt kurs til mandag, halvveis fullt
+    * Lite opphold med kurs 
+    * Lightningtalks, fått tak i noen studentkontakter, kommet i kontakt med idi
+    * Skal ha møte med bookinga med abakus snart
 
-* * Målet for eksKom er spikra, det blir USA
-* * Påmeldingen er full
+    * Målet for eksKom er spikra, det blir USA
+    * Påmeldingen er full
 
 
 - proKom
 
-* * Mye plakater for tiden
-* * Tidlig planlegging av årbok, sender ut poll snart pga laber interesse blant folk 
-* * Diskutert et plakatbestillingsskjema
-* * Nye ideer til offlineartikkel
-* * lotr filmene ble litt kasta opp i fanget
+    * Mye plakater for tiden
+    * Tidlig planlegging av årbok, sender ut poll snart pga laber interesse blant folk 
+    * Diskutert et plakatbestillingsskjema
+    * Nye ideer til offlineartikkel
+    * lotr filmene ble litt kasta opp i fanget
 
 - triKom
 
-* * Må kjøpe brus for fagKom
-* * Tatt opp to nye 
-* * Sagt ja til at Casual Gaming kan ha et par ting på kontoret
-* * Begynt å telle opp varer, gjør det beste de kan for å se hva de har solgt hver uke
+    * Må kjøpe brus for fagKom
+    * Tatt opp to nye 
+    * Sagt ja til at Casual Gaming kan ha et par ting på kontoret
+    * Begynt å telle opp varer, gjør det beste de kan for å se hva de har solgt hver uke
 
 - IDI ved ITR
 
-* * Første møte var intro
-* * FUS, rektor vil ha en vurdering på om Siving skal være 5-årig eller 3+2årig
-* * Kakefredag hver fredag på studentrådskontoret
-* * Må organisere KTR for andreklasse
+    * Første møte var intro
+    * FUS, rektor vil ha en vurdering på om Siving skal være 5-årig eller 3+2årig
+    * Kakefredag hver fredag på studentrådskontoret
+    * Må organisere KTR for andreklasse
 
 - Leder
 
-* * Planlagt et hastemøte før møtet med rektor og ntnu
-* * Ingenting å være redd for for vår del, opptaket vårt er snilt
+    * Planlagt et hastemøte før møtet med rektor og ntnu
+    * Ingenting å være redd for for vår del, opptaket vårt er snilt
 
 
 ### 63 Interkom
@@ -101,9 +101,9 @@ title: "Hovedstyrets opptaksmøte"
 * Kjellern er booket fra kl 18
 * dotKom skal ha stand
 * Program
-* * Hva Online er - Linn, Henning, Caro
-* * Kontorvakter - Linn
-* * Irc og mail - dotKom
+    * Hva Online er - Linn, Henning, Caro
+    * Kontorvakter - Linn
+    * Irc og mail - dotKom
 
 ### 66 Møte med NTNU angående opptak
 
