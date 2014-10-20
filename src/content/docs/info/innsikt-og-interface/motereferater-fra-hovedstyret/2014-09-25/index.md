@@ -34,8 +34,8 @@ title: "Hovedstyrets høstmøte"
 
 - bedKom:
 
-* Alt går fint
-* Cxense og Knowit bedpressen gikk bra
+    * Alt går fint
+    * Cxense og Knowit bedpressen gikk bra
 
 - dotKom:
 
@@ -82,7 +82,7 @@ Det gis ris og ros på tvers av kommiteene
 
 * Det blir møte mellom Online og IT-EX 
 * Mest fornuftig å sende Pia og Perok på møtet, og kanskje Caro og Linn. 
-* Det blir en tett dialog med IT-EX om mulighetene
+* Det blir en tett dialog med IT-EX om mulighetene for at IT-EX kan bli en del av Online
 
 ### 95 Kosekveld med Abakus
 
