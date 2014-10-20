@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 #### Møtereferat
 
 - [2014-10-09](2014-10-09) - Hovedstyrets "det blæs"-møte
+- [2014-09-04](2014-09-04) - Hovedstyrets opptaksmøte
 - [2014-05-05](2014-05-05) - Hovedstyrets maimøte
 
 #### Arkiv fra perioden før høst 2014
