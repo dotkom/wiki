@@ -11,6 +11,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2014-09-25](2014-09-25) - Hovedstyrets høstmøte
 - [2014-09-18](2014-09-18) - Hovedstyrets post-immballmøte
 - [2014-09-04](2014-09-04) - Hovedstyrets opptaksmøte
+- [2014-08-28](2014-08-28) - Hovedstyrets immballsesongmøte
 - [2014-05-05](2014-05-05) - Hovedstyrets maimøte
 
 #### Arkiv fra perioden før høst 2014
