@@ -11,6 +11,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2014-10-09](2014-10-09) - Hovedstyrets "det blæs"-møte
 - [2014-09-25](2014-09-25) - Hovedstyrets høstmøte
 - [2014-09-18](2014-09-18) - Hovedstyrets post-immballmøte
+- [2014-09-11](2014-09-11) - Hovedstyrets kompileringsmøte
 - [2014-09-04](2014-09-04) - Hovedstyrets opptaksmøte
 - [2014-08-28](2014-08-28) - Hovedstyrets immballsesongmøte
 - [2014-08-13](2014-08-13) - Hovedstyrets fadderukemøte
