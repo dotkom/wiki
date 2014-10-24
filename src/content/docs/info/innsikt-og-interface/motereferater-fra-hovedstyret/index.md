@@ -16,6 +16,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2014-08-28](2014-08-28) - Hovedstyrets immballsesongmøte
 - [2014-08-13](2014-08-13) - Hovedstyrets fadderukemøte
 - [2014-05-05](2014-05-05) - Hovedstyrets maimøte
+- [2014-04-04](2014-04-07) - Nytt år med nye muligheter
 
 #### Arkiv fra perioden før høst 2014
 
