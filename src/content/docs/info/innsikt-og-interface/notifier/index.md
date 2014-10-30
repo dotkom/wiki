@@ -31,12 +31,18 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 
 ## Versjonshistorie
 
+Versjon 4.2
+
+- Retina-kaffememes
+- La til 1 ny linjeforening: MF Placebo
+
 Versjon 4.1
 
 - Retinastøtte
 - Hackerspace-døra (Online/Abakus)
 - La til 5 nye linjeforeninger: Høiskolens Chemikerforening, Arkitektstudentenes Broderskab, Communitas, Theodor, ESN (gjenopplivet)
 - Fjernet foreningene Fraktur, De Folkevalgte, grunnet døde nettsider
+- Høiskolens Chemikerforening fikk hardwarefeatures og den tredje Notipien fra Omega Verksted
 
 Versjon 4.0
 
