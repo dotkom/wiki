@@ -7,19 +7,6 @@ Notifier er en extension til Chrome og Opera. Den gir deg kontortilgjengelighet,
 * [chrome.google.com/webstore/detail/online-notifier/hfgffimlnajpbenfpaofmmffcdmgkllf](https://chrome.google.com/webstore/detail/online-notifier/hfgffimlnajpbenfpaofmmffcdmgkllf)
 * [addons.opera.com/en/extensions/details/online-notifier](https://addons.opera.com/en/extensions/details/online-notifier)
 
-## Dingser
-
-Dingser får du kjøpt med cash, døgnet rundt, på [Omega Verksted](http://omegav.ed.ntnu.no) i kjellern på Gamle Elektro. Om din linjeforening installerer dingser så kan de få enda mer ut av Notifier: Kontorstatus, kaffestatus, møteplan, kontorvakter og kaffeabonnement. Hva trenger vi av din linjeforening? Ganske enkelt *to URLer* og *to Googlekalendere*:
-
-* En URL som viser ON/OFF fra lyssensor på kontoret, eller bare tallverdien fra lyssensoren (0-1023), se [draug.online.ntnu.no/lys.txt](http://draug.online.ntnu.no/lys.txt)
-* En URL som viser antall kaffekanner i dag, samt dato for sist kanne, se [draug.online.ntnu.no/coffee.txt](http://draug.online.ntnu.no/coffee.txt)
-* En Googlekalender som viser møter, vafler, boller, kaffekos og lignende kontoraktiviteter via møtetitlene, vi trenger bare ID'en til kalenderen
-* En Googlekalender som viser hvem som har kontortid/kontorvakt nå, vi trenger her også bare ID'en til kalenderen
-
-Ut ifra de fire tingene ordner vi resten på under ett døgn (under én halvtime om vi sitter klar når mailen kommer).
-
-Det vi har gjort for å installere lyssensor og kaffeknapp er å bruke en Arduino til hver ting (en til lyssensor, en til kaffeknapp), samt at Arduinoene er koblet til en Raspberry Pi som viser ting på internett. Om du vil ta en nærmere titt så stikk innom Onlinekontoret når som helst! Det er bare å stikke innom og si du vil ta en titt på Arduino-oppsettet. Deltakontoret har også ordnet seg dingser, de har valgt litt andre løsninger for hardware og har gjennomført det veldig godt.
-
 ## Kode
 
 * [github.com/appkom/notifier](https://github.com/appkom/notifier/) - Kildekoden for hele Notifier, samt liste over alle bidragsytere
