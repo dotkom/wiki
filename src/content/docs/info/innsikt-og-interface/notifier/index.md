@@ -18,13 +18,16 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 
 ## Versjonshistorie
 
-Versjon 4.3
+Versjon 4.4 (planlagt)
+
+- Retina-kaffememes
+
+Versjon 4.3 (kommer)
 
 - La til 1 ny linjeforening: MF Placebo
 
-Versjon 4.2
+Versjon 4.2 (nåværende)
 
-- Retina-kaffememes
 - La til 1 ny linjeforening: Mannhullet
 
 Versjon 4.1
