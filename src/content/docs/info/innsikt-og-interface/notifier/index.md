@@ -19,6 +19,7 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 ## Versjonshistorie
 
 Versjon 4.3
+
 - La til 1 ny linjeforening: MF Placebo
 
 Versjon 4.2
