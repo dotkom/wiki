@@ -78,12 +78,12 @@ karakter, så lenge det ikke står prosentannotering på oppgavene.
 For å se karakterstatistikk fra tidligere år, og sammenligne over flere
 år, og kanskje til og med fordelt på kjønn, ta en titt på NTNUs
 **[KarStat][]**. På normale NTNU eksamener pleier karakterfordelingen å være prosentvis fordelt slik:  
-* A: 88 - 100  
-* B: 76 - 87  
-* C: 64 - 75  
-* D: 52 - 63  
-* E: 40 - 51  
-* F: 0 - 39
+* A: 89 - 100  
+* B: 77 - 88  
+* C: 65 - 76  
+* D: 53 - 64  
+* E: 41 - 52  
+* F: 0 - 40
 
 Merk at dette varierer litt fra emne til emne, og ofte fra campus til
 campus (det kan være betydelige forskjeller mellom gløshaugen og
