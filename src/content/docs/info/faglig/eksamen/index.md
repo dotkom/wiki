@@ -85,11 +85,9 @@ For å se karakterstatistikk fra tidligere år, og sammenligne over flere
 * E: 41 - 52  
 * F: 0 - 40
 
-Merk at dette varierer litt fra emne til emne, og ofte fra campus til
-campus (det kan være betydelige forskjeller mellom gløshaugen og
-dragvoll). I tillegg må man regne med en viss justering basert på
-eventuelle feil og/eller klager rettet mot oppgavesettet. Sistnevnte har
-ofte stor betydning for prosentfordelingen på flervalgseksamener.
+Skalaen er gyldig for ordinære emner fra 15. september 2013. Etter 31. mars 2014 vil den gjelde for masteroppgaver innenfor matematikk, naturvitenskap, teknologi, lektorutdanning i realfag og 2-årige masterprogram ved Det medisinske fakultetet.
+Prosentvurderingsmetoden er veiledende. Ikke alle faglærere benytter denne metoden. I tillegg må man regne med en viss justering basert på
+eventuelle feil og/eller klager rettet mot oppgavesettet. Sistnevnte har ofte stor betydning for prosentfordelingen på flervalgseksamener.
 
 Begrunnelser og klager
 ----------------------
