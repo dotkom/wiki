@@ -20,15 +20,16 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 
 Versjon 4.4 (planlagt)
 
+- In-page options: Mulig å endre kantine direkte i popupen
+
+Versjon 4.3 (nåværende)
+
 - Retina-kaffememes
-
-Versjon 4.3 (kommer)
-
 - La til 1 ny linjeforening: MF Placebo
 
-Versjon 4.2 (nåværende)
+Versjon 4.2
 
-- La til 1 ny linjeforening: Mannhullet
+- La til 2 ny linjeforeninger: Mannhullet, Sct. Omega Broderskab
 
 Versjon 4.1
 
