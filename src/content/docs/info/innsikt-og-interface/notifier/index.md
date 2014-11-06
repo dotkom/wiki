@@ -18,6 +18,10 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 
 ## Versjonshistorie
 
+Versjon 4.5 (planlagt)
+
+- Personlig timeplan fra ntnu.1024.no
+
 Versjon 4.4 (planlagt)
 
 - In-page options: Mulig å endre kantine direkte i popupen
