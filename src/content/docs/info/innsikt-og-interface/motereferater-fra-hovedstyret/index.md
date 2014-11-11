@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 
+- [2014-11-06](2014-11-06) - Hovedstyrets julekortmøte
 - [2014-10-30](2014-10-30) - Hovedstyrets halloweenmøte
 - [2014-10-23](2014-10-23) - Hovedstyrets post-IDImøte
 - [2014-10-16](2014-10-16) - Hovedstyrets pre IDImøte
