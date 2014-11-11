@@ -68,29 +68,23 @@ Ekskom:
 * Har vært på mange møter. Informatikk har flinke KTR'er. IDI vil ha bedre samarbeid i forbindelse med forskningsrekrutering
 
 ### 152 Interkom
-* Kjøleskap: Ber om et prisanslag, legger det under proKoms budsjett.
-* FagKom skal legge tomflasker på kontoret og kasser i kjelleren.
-* ProKom brekker på datasal.
-* Data fra kurs og bedprs: Mer tilrettelagt. API for å hente ut dataene fra tilbakemeldingssystemet? Totalstatistikker etc. Kanskje heller lage det som en del av weben. Dashboard-app.
-* Komitédaljer før julebordet. Skal betales, 60 kr. Diskusjon på om vi skal sponse daljene. Må tas opp på genfors hvis det skal skje.
-* Bussbetaling: FagKom betaler ikke, og vil ikke betale for buss. Bør være likt både hos bedKom og fagKom. BedKom kom frem til at det bør være lett, og enkelt for bedriftene.
 
-### 152 
+### 153 
 
-### 153 Årboka
+### 154 Årboka
 
 Bilde neste torsdag. Vi må finne tema. Barnebursdag? Kathrine må lage festlig kake. Krone, partyhatter, Fiske godteposer. Woo!
 Må skrive årboktekst.
 
-### 154 Hyttetur
+### 155 Hyttetur
 
 Taco til middag. Si ifra til Teaterlosjen. Kanskje Linn stiller med lam? NOM. Linn sjekker. Caroline snakker med Gregers. Må ha med sengetøy/laken!
 
-### 155 Ukens infomail
+### 156 Ukens infomail
 
 Caroline lager.
 
-### 156 Forespørsler som har kommet på epost
+### 157 Forespørsler som har kommet på epost
 
 * Startup-weekend Trondheim: BedKom? Bleste?
 * Stress? Kurs med SiT. Har blestet.
@@ -103,8 +97,8 @@ Caroline lager.
 * Carro hadde velKom-møte. Litt labert oppmøte. Få med alle førsteklassinger for fadder-reunion. Hvordan skal vi få til dette? Bedre med vors som fadderne insjer på? 
 * Vors i kveld: Har invitert Teaterlosjen. Blir hos Linn. Berg studentby, kube 65. 17:00
 
-### 157 Eventuelt.
+### 158 Eventuelt.
 
-### 158 Møteevaluering.
+### 159 Møteevaluering.
 
 Tale. Fine på bildet.
