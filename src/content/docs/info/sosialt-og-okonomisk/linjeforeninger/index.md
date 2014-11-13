@@ -201,7 +201,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
     -   Korps: [BSF](http://bergstud.no)
     -   Orkester: [Mannhullet](http://mannhullet.no), [Omega](http://omega.ntnu.no)
-    -   DJ: [Online](online.ntnu.no) [Omega](http://omega.ntnu.no)
+    -   DJ: [Online](http://online.ntnu.no) [Omega](http://omega.ntnu.no)
 -   **Diverse:**
     -   [A/F Smørekoppen](http://www.smorekoppen.no): Motorsager, diverse verktøy, tau og
         fendere.
