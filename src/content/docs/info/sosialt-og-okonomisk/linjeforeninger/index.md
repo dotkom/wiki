@@ -210,7 +210,7 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Epostlister:** [Online](online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
 
-### Sjenkebevilling til arrangementer
+### Søke om sjenkebevilling til arrangementer
 
 1.  Søk om ambulerende sjenkebevilling hos [Trondheim Kommune][]
 2.  Reserver passende undervisningsrom på [RomRes][]
@@ -220,6 +220,10 @@ Arrangementer der linjeforeningene inviterer hverandre
 4.  Om alt går bra vil arrangementet kunne gjennomføres som planlagt og
     NTNU vil sørge for at det er vakter på jobb i bygget på den aktuelle
     kvelden
+
+### Søke om å drikke på campus
+
+1. Dersom du kun ønsker å søke om å drikke på campus så gjøres dette ved å sende en kort og konsis søknad med tid, sted, kontaktperson og ansvarsplassering til adgangskontrollen@adm.ntnu.no
 
 ## Linjeforeningslederforumet
 
