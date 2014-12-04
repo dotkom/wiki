@@ -86,8 +86,7 @@ litt senere aborten.
 
 --
 
-Jeg møtte en gang en bergjente,  
-hun ville på ei bergjente  
+Jeg møtte en gang en bergjente,   
 Hun slet no litt med matten  
 Så kom jeg til utsetning  
 Vi pulte hele natten  
