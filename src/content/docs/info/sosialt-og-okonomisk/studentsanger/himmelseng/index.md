@@ -87,16 +87,19 @@ litt senere aborten.
 --
 
 Jeg møtte en gang en bergjente,  
-hun ville bli min kone,  
-men jeg lurte'a ved alteret  
-og gifta'a bort til Jone!  
-
---
-
-Jeg støtte på ei bergjente  
+hun ville på ei bergjente  
 Hun slet no litt med matten  
 Så kom jeg til utsetning  
 Vi pulte hele natten  
+
+--
+
+_Jone Trovågs vers_  
+
+Jeg møtte en gang en bergjente,  
+hun ville bli min kone,  
+men jeg lurte'a ved alteret  
+og gifta'a bort til Jone!  
 
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
