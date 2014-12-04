@@ -66,7 +66,38 @@ men hora hette tore
 jeg ble nå med ei kjerring hjem  
 hun sa hun hadde mensen  
 det burde ikke vært så galt  
-men flomma jo som Themsen  
+men flomma jo som Themsen
+
+--
+  
+_Ymse Bergjubileumsvers_
+
+Jeg kjøpte et lite hijab-barn,  
+jeg trodde vi skulle vies,  
+men det var visstnok ikke lov  
+så jeg solgte henne til IS.  
+
+--
+
+Jeg traff en gang ei bergjente,  
+i året nitten-fjorten.  
+Året før kom stemmerett,  
+litt senere aborten.  
+
+--
+
+Jeg møtte en gang en bergjente,  
+hun ville bli min kone,  
+men jeg lurte'a ved alteret  
+og gifta'a bort til Jone!  
+
+--
+
+Jeg støtte på ei bergjente  
+Hun slet no litt med matten  
+Så kom jeg til utsetning  
+Vi pulte hele natten  
+
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
 
@@ -120,6 +151,7 @@ og guiden hette britta
 hun viste oss den lange pikk  
 men vi vil helst se fitta
 
+-- 
 
 ## Avslutningsverset
 
