@@ -2,6 +2,8 @@
 title: "Karrieredager"
 ---
 
+### Velkommen til www.karrieredager.info :)
+
 Tilhørende info
 
 * Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
