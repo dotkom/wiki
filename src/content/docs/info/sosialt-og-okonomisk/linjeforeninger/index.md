@@ -2,7 +2,7 @@
 title: "Linjeforeninger"
 ---
 
-### Velkommen til www.gloshaugen.info :)
+### Velkommen til **www.gloshaugen.info**
 
 Tilhørende info
 
