@@ -2,7 +2,7 @@
 title: "Karrieredager"
 ---
 
-### Velkommen til www.karrieredager.info :)
+### Velkommen til **www.karrieredager.info**
 
 Tilhørende info
 
