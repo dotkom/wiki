@@ -2,7 +2,7 @@
 title: "Linjeforeninger på Dragvoll"
 ---
 
-### Velkommen til www.dragvoll.info :)
+### Velkommen til **www.dragvoll.info**
 
 Tilhørende info
 
