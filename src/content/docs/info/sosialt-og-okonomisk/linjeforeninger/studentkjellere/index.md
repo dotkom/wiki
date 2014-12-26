@@ -2,6 +2,8 @@
 title: "Studentkjellere"
 ---
 
+### Velkommen til **www.moholt.info**
+
 Tilhørende info
 
 * Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
