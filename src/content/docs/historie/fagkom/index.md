@@ -44,8 +44,8 @@ Medlemmer
 
 |År|Leder| Medlemmer |
 |----|---| -------- |
-|2014-2015|**Pia Karlsen Lindkjølen**|Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Truls Mørk Pettersen, Ingeborg Ødegård Oftedal, Fredrik Berg, Fredrik Bye, Trond Christer Leganger, Jan Michael Olsen, Christina Hellenes Andresen, Christoffer Lofsberg, Henning Moberg Wold(Permittert), Linn Vikre(Permittert)|
-|2013-2014|**Henning Moberg Wold**|Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Pia Karlsen Lindkjølen, Truls Mørk Pettersen, Ingeborg Ødegård Oftedal, Fredrik Berg, Peter Jensen, Linn Vikre(Permittert)|  
+|2014-2015|**Pia Karlsen Lindkjølen**|Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Truls Mørk Pettersen, Ingeborg Ødegård Oftedal, Fredrik Berg, Fredrik Bye, Trond Christer Leganger, Jan Michael Olsen, Christina Hellenes Andresen, Christoffer Lofsberg,Paul Philip Mitchell, Henning Moberg Wold(Permittert), Linn Vikre(Permittert)|
+|2013-2014|**Henning Moberg Wold**|Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Pia Karlsen Lindkjølen, Truls Mørk Pettersen,Paul Philip Mitchell, Ingeborg Ødegård Oftedal, Fredrik Berg, Peter Jensen, Linn Vikre(Permittert)|  
 |2012-2013|**Linn Vikre**| Dag Erik Vikan, Kristian Laskemoen, Henning Moberg Wold, Nina Margrethe Smørsgård, Fredrik Soløy, Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Pia Karlsen Lindkjølen, Truls Mørk Pettersen|  
 |2011-2012|**Tri M. Nguyen(fra februar 2011),**|Dag Erik Vikan, Kristian Laskemoen, Henning Moberg Wold, Beate Baier Biribakken, Linn Vikre, Nikolai Krill, Fredrik Soløy, Nina Margrethe Smørsgård|  
 |2010-2011|**Tri M. Nguyen(fra februar 2011), Jenny Rønningen(2010 - 2011)**|Dag Erik Vikan, Kristian Laskemoen, Henning Moberg Wold, Beate Baier Biribakken|  
