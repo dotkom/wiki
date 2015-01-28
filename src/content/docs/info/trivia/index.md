@@ -6,4 +6,5 @@ title: "Trivia"
 - [Mailoppsett på mobil](/wiki/online/info/trivia/mailoppsett-pa-mobil/) - Sett opp @stud.ntnu.no -mailen din på mobiltelefonen din
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Scanner på kontoret](/wiki/online/info/trivia/scanner-pa-kontoret/) - Hvordan installere nødvendige drivere for å bruke scanneren
-- [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/)
+- [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/)  
+- [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
