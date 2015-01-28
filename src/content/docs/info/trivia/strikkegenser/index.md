@@ -5,19 +5,19 @@ title: "Strikkemønster til Online-genser"
 **Størrelser:** (S) M (L) XL (XXL) _#merk at dette er herrestørrelser, og at XXL ikke har noe mønster enda_
 
 **Mål:**
-Overvidde: (95) 102 (110) 117 (124) cm _#mål på en genser du har for å finne riktig størrelse_
-Lengde: (66) 68 (70) 72 (73) cm
-Ermer: (51) 52 (53) 54 (55) cm
+Overvidde: (95) 102 (110) 117 (124) cm _#mål på en genser du har for å finne riktig størrelse_  
+Lengde: (66) 68 (70) 72 (73) cm  
+Ermer: (51) 52 (53) 54 (55) cm  
 
 **Farger:**
-F1 = Mørk blå 5563 eller F1 = Hvit 0017 _#det er lurt å kjøpe alt garnet samtidig så man ikke får ulik fargning på garnet_
-F2 = Hvit 0017 eller F2 = Mørk blå 5563
-F3 = Solgul 2417 eller F3 = Solgul 2417
+F1 = Mørk blå 5563 eller F1 = Hvit 0017 _#det er lurt å kjøpe alt garnet samtidig så man ikke får ulik fargning på garnet_  
+F2 = Hvit 0017 eller F2 = Mørk blå 5563  
+F3 = Solgul 2417 eller F3 = Solgul 2417  
 
 **Garnforbruk:**
-F1: 650 (700) 750 (800) _#dette er veiledende_
-F2: 100 (100) 100 (100)		
-F3: 150 (150) 150 (200)		 
+F1: 650 (700) 750 (800) _#dette er veiledende_  
+F2: 100 (100) 100 (100)  
+F3: 150 (150) 150 (200)  		 
 
 I utgangspunktet er oppskriften skrevet for garnet [Heilo](http://www.dalegarn.com/shop_yarn_detail.php?hId=76) fra Dalegarn. De har ikke gult, så man kan bruke [Falk](http://www.dalegarn.com/shop_yarn_detail.php?hId=75), som har samme strikkefasthet. I Trondheim selger de Dalegarn på City Garn (Tiller), Coop Obs City Syd, Coop Obs Lade og på Garnhuset i Fjordgata. Det bør også gå fint å bruke Gjestals [Vestlandsgarn](http://www.gjestal.no/index.php?option=com_content&view=article&id=64&Itemid=69), dog blir genseren blir litt mindre i størrelsen så da bør du gå opp minst en størrelse avhengig av hvor tettsittende du ønsker å ha den. Fargene er gul 258, blå 206 og hvit 217. 
 
