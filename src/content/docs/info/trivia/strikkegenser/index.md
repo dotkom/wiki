@@ -2,7 +2,8 @@
 title: "Strikkemønster til Online-genser"
 ---
 
-**Størrelser:** (S) M (L) XL (XXL) _#merk at dette er herrestørrelser, og at XXL ikke har noe mønster enda_
+**Størrelser:**  
+(S) M (L) XL (XXL) _#merk at dette er herrestørrelser, og at XXL ikke har noe mønster enda_
 
 **Mål:**  
 Overvidde: (95) 102 (110) 117 (124) cm _#mål på en genser du har for å finne riktig størrelse_  
