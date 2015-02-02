@@ -18,18 +18,11 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 
 ## Versjonshistorie
 
-Versjon 4.5 (planlagt)
-
-- Personlig timeplan fra ntnu.1024.no
-
-Versjon 4.4 (planlagt)
-
-- In-page options: Mulig å endre kantine direkte i popupen
-
-Versjon 4.3 (nåværende)
+Versjon 4.3
 
 - Retina-kaffememes
 - La til 1 ny linjeforening: MF Placebo
+- Fjernet 1 linjeforening: Ludimus (grunnet nedleggelse)
 
 Versjon 4.2
 
