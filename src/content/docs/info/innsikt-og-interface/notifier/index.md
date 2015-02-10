@@ -18,6 +18,10 @@ Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Joha
 
 ## Versjonshistorie
 
+Versjon 4.4
+
+- Valg for kantine direkte i popupen
+
 Versjon 4.3
 
 - Retina-kaffememes
