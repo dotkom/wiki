@@ -36,6 +36,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Scanner på kontoret](/wiki/online/info/trivia/scanner-pa-kontoret/) - Eller du kan laste ned appen DocScan
 - [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/) - Ikke alltid like lett å sette opp
+- [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
 
 ### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
 
