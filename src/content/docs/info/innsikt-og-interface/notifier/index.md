@@ -14,4 +14,4 @@ Notifier er en extension til Chrome og Opera. Den gir deg kontortilgjengelighet,
 
 ## Opprinnelse
 
-Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Johansen mens han var leder i linjeforeningen. Prosjektet ble holdt relativt godt skjult frem til han var ferdig som leder og brukte prosjektet som søknad til ekstraordinært opptak i dotKom. Infoscreen, Chatter og Mobile er prosjekter som har sprunget ut fra Notifierprosjektet.
+Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Johansen mens han var leder i linjeforeningen. Prosjektet ble hjørnesteinen i oppstarten av Applikasjonskomiteen, der engasjerte informatikere jobber med browser extensions, apps, APIer og annen morro. Prosjekter som har spunnet ut fra Notifier er blant annet Infoscreen, Notipi, Notiwire og flere andre.
