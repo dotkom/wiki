@@ -12,6 +12,6 @@ Notifier er en extension til Chrome og Opera. Den gir deg kontortilgjengelighet,
 * [github.com/appkom/notifier](https://github.com/appkom/notifier/) - Kildekoden for hele Notifier, samt liste over alle bidragsytere
 * [github.com/vehagn/DeltaPi](https://github.com/vehagn/DeltaPi) - Deltas kode for dingser, skrevet av Vegard Stenhjem Hagen i C++
 
-## Historie
+## Opprinnelse
 
 Online Notifier ble påbegynt i julen 11/12 som et hobbyprosjekt av Michael Johansen mens han var leder i linjeforeningen. Prosjektet ble holdt relativt godt skjult frem til han var ferdig som leder og brukte prosjektet som søknad til ekstraordinært opptak i dotKom. Infoscreen, Chatter og Mobile er prosjekter som har sprunget ut fra Notifierprosjektet.
