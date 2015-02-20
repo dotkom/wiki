@@ -32,7 +32,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
 | [Abakus](http://abakus.no) (1977) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=986037314) | Data og KomTek | Styrebånd (rød med svart stripe) | [P15](http://use.mazemap.com/#&v=1&dest=6228&desttype=poi) | [readme](http://readme.abakus.no) | [Page](http://fb.com/AbakusNTNU) | |
-| [A/F Smørekoppen](http://www.smorekoppen.no) (1929) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991056009) | Maskin | Styrebånd (rød med gullkant) | [Gamle kjemi](http://use.mazemap.com/#&v=1&dest=7943&desttype=poi) | M-ord | [Page](http://fb.com/smorekoppen/) | |
+| [A/F Smørekoppen](http://www.smorekoppen.no) (1929) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991056009) | Maskin | Styrebånd (rød med gullkant) | [Verkstedteknisk](http://use.mazemap.com/?&v=1&campusid=1&sharepoitype=poi&sharepoi=52021) | M-ord | [Page](http://fb.com/smorekoppen/) | |
 | [Arkitektstudentenes Broderskab](http://broderskabet.no/) (1913) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991596089) | Arkitekt | Styrebånd (gul ytterst, svart innover, lilla stripe i midten) | [Sentralbygg 1](http://use.mazemap.com/#&v=1&dest=5187&desttype=poi) | [A](http://tidsskrifteta.no/) | [Page](http://fb.com/arkitektstudentenesbroderskab) | |
 | [BSF](http://bergstud.no) (1914) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993555738) | Geologi, PetTek og MatTek | Bergmannsdrakten | [Berg](http://use.mazemap.com/#&v=1&dest=38251&desttype=poi) | Bergmanden | [Page](http://fb.com/bergstud), [Person](http://fb.com/bergstuderendes.forening) | [Boksalg](http://fb.com/groups/369041746482558/) |
 | [Delta](http://www.deltahouse.no) (1974) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996510352) | Matte, Fysikk, Statistikk | Styrebånd (grønn/sølv med sølvstripe i midten) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7591&desttype=poi) | Δt | [Page](http://fb.com/DeltaNTNU) | |
@@ -192,10 +192,10 @@ Arrangementer der linjeforeningene inviterer hverandre
 
 -   **Lyd og lys:**
     -   Begge: [H.M. Aarhønen](http://www.aarhonen.ntnu.no/?q=node/158), [HC](http://www.hc.ntnu.no)
-    -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no)
+    -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
 -   **Musikere:**
     -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no),
-        [Placebo](http://org.ntnu.no/placebo)
+        [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
     -   Storband: [Emil](http://emilweb.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.ntnu.no/)
     -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
@@ -209,6 +209,7 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Hytter:** [BSF](http://bergstud.no), [Janus](http://org.ntnu.no/janus)
 -   **Epostlister:** [Online](online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
+-   **Fotograf til galla:**[A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=31)
 
 ### Søke om sjenkebevilling til arrangementer
 
