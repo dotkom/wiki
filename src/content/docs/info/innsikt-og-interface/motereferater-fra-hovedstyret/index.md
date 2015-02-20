@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 #### Møtereferat
 
 - [2015-02-03](20150203) - Hovedstyrets årbokmøte
-- [2015-01-27](2015-01-27) - Hovedstyrets komitemøte
+- [2015-01-27](20150127) - Hovedstyrets komitemøte
 - [2015-01-20](2015-01-20) - Hovedstyrets post-Åremøte
 - [2015-01-13](20150113) - Hovedstyrets nyttårsmøte
 - [2014-11-06](2014-11-06) - Hovedstyrets julekortmøte
