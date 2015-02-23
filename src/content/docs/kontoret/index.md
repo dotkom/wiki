@@ -8,7 +8,7 @@ title: "Kontoret"
 
 
 
-Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sove på en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall algoritmen og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner. Kontoret blir også brukt til møtevirksomhet av komitéene.
+Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sitte i en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall algoritmen og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner. Kontoret blir også brukt til møtevirksomhet av komitéene.
 
 ## Beliggenhet
 
@@ -31,7 +31,7 @@ For en full kanne lønner det seg å bruke 6 flate kaffeskjeer med kaffe og fyll
 ## Annet
 
 Det står en mikrobølgeovn fremme som er til fritt bruk.
-Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne for å gå i forelesning eller datasalen, men hvis du ikke finner mer enn 1 kanne, så la den stå igjen. _Kanna fra trakteren kan **ALDRI** fjernes fra kontoret!_
+Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne for å gå i forelesning eller datasalen, men hvis du ikke finner mer enn 2 kanner, så la de stå igjen. _Kanna fra trakteren kan **ALDRI** fjernes fra kontoret!_
 Kaffe, te og annet som det ikke står noen pris på er å betrakte som gratis goder til "alle" (les: medlemmer av linjeforeningen).
 
 Telefonnummeret til kontoret er 73 59 64 89
