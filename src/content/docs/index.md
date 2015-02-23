@@ -76,6 +76,8 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 I tillegg til en felles wiki for alle komiteer har hver komite sin egen wiki (som kun komitemedlemmene har tilgang til).
 Du kan også finne disse via prosjektsiden til din komite.
 
+
+- [Kontoret](/wiki/komiteer/kontoret/)
 - [Felles komitewiki](/wiki/komiteer/)
     - [Hovedstyrets wiki](/wiki/komiteer/hovedstyret/)
     - [Applikasjonskomiteens wiki](/wiki/komiteer/appkom/)
