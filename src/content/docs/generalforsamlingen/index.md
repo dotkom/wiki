@@ -41,6 +41,7 @@ tvingende nødvendig.
 Dokumenter
 ----------
 
+-   [Generalforsamlingen 2015](/wiki/online/generalforsamlingen/2015)
 -   [Generalforsamlingen 2014](/wiki/online/generalforsamlingen/2014)
 -   [Generalforsamlingen 2013](/wiki/online/generalforsamlingen/2013)
 -   [Generalforsamlingen 2012](/wiki/online/generalforsamlingen/2012)
