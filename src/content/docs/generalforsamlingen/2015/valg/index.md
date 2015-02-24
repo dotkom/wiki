@@ -5,11 +5,11 @@ title: "2015 Kandidater"
 [TOC]
 
 ---
-* [2014 Saksliste](/wiki/online/generalforsamlingen/2014/saksliste) - Saksliste for generalforsamlingen 2014
-* [2014 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2014/valg) - Er du klar for et verv i Hovedstyret?
-* [2014 Vedtektsforslag](/wiki/online/generalforsamlingen/2014/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2014 Saksforslag](/wiki/online/generalforsamlingen/2014/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2014 Årsberetninger](/wiki/online/generalforsamlingen/2014/aarsberetninger) - Oppsummering av Onlines arbeid 2013/2014
+* [2015 Saksliste](/wiki/online/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015
+* [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2015/valg) - Er du klar for et verv i Hovedstyret?
+* [2015 Vedtektsforslag](/wiki/online/generalforsamlingen/2015/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2015 Saksforslag](/wiki/online/generalforsamlingen/2015/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2015 Årsberetninger](/wiki/online/generalforsamlingen/2015/aarsberetninger) - Oppsummering av Onlines arbeid 2014/2015
 
 ---
 
