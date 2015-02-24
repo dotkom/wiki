@@ -9,7 +9,6 @@ title: "Generalforsamlingen 2015"
 
 ---
 
-# Vedlegg
 
 
 # Informasjon
