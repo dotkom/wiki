@@ -22,7 +22,7 @@ Godkjent
 
 #### arrKom:  
 
-Kryssfesten gikk veldig bra. Syns det er greit å se hvem som er Online og hvem som er Abakus. Paintball var gøy, 29 deltagere. Blir temafest i morgen, håper på å få med så mange som mulig - blæst for alle. Kanskje man kan si at det ikke er et must å kle seg ut, men at man kan komme for en god fest? Studenterhytta, de er litt trege, men vi håper på kontrakt snart. Vakter er fiksa. Åre16 er en case. Brunkulla er done, Skistar vurderer å selge det. De har ingen andre steder som kan holde så mange, så arrkom skal prøve å få fiksa det. 17.mai-middag er booket. Vi får 19.30 - 21.30 på graffi midtbyen. Arrkom hadde teambuilding. De skal ha sjampagnefrokost før full før barnetv. 
+Kryssfesten gikk veldig bra. Syns det er greit å se hvem som er Online og hvem som er Abakus. Paintball var gøy, 29 deltagere. Blir temafest i morgen, håper på å få med så mange som mulig - blæst for alle. Kanskje man kan si at det ikke er et must å kle seg ut, men at man kan komme for en god fest? Studenterhytta, de er litt trege, men vi håper på kontrakt snart. Vakter er fiksa. Åre16 er en case. Brunkulla er done, Skistar vurderer å selge det. De har ingen andre steder som kan holde så mange, så arrkom skal prøve å få fiksa det. 17.mai-middag er booket. Vi får 19.30 - 21.30 på graffi midtbyen.  
 
 #### banKom:
 
@@ -30,7 +30,7 @@ Tok ti timer å revidere regnskapet til Abakus. Vårt var flott.
 
 #### bedKom:
 
-Bookinggruppa styrer på. Kalenderen er korrekt. Nå mangler det å få datoer på plass, slik at vi kan sende den ut. Bookingrunden blir i uke 12 - starter på onsdag. Marius er vakt på sosialkvelden deres. Skal ha KID-workshop neste uke. Har begynt med budsjett. Litt bussproblemer. Forslag om at deltagere kan huke av på hvorvidt de skal være med buss ned eller om de kommer seg til utestedet på egen hånd. Hadde møte med redaktøren, slik at bedriftsting skal gå via bedkom. 
+Bookinggruppa styrer på. Kalenderen er korrekt. Nå mangler det å få datoer på plass, slik at vi kan sende den ut. Bookingrunden blir i uke 12 - starter på onsdag. Skal ha KID-workshop neste uke. Har begynt med budsjett. Litt bussproblemer. Forslag om at deltagere kan huke av på hvorvidt de skal være med buss ned eller om de kommer seg til utestedet på egen hånd. Hadde møte med redaktøren, slik at bedriftsting skal gå via bedkom. 
 
 #### dotKom: 
 
