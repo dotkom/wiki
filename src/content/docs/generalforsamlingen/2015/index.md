@@ -9,7 +9,9 @@ title: "Generalforsamlingen 2015"
 
 ---
 
+# Vedtekter
 
+[attachment:71]
 
 # Informasjon
 
