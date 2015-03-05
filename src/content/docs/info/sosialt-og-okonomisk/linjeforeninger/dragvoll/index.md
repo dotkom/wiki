@@ -39,7 +39,7 @@ Tilhørende wikisider
 | [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
 | [Gengangere](http://www.gengangere.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Group](http://fb.com/groups/gengangere/) | gengangere@list.stud.ntnu.no |
 | [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
-| IVRig | | Voksnes læring og rådgivningsvitenskap | | [Group](http://fb.com/groups/417229618342926/) | ivrig.linjeforening@gmail.com |
+| [IVRig](http://org.ntnu.no/ivriglinjeforening/) | | Voksnes læring og rådgivningsvitenskap | | [Group](https://www.facebook.com/groups/271991916331535/) | ivrig.linjeforening@gmail.com |
 | [Katharsis](http://ntnukatharsis.wordpress.com/) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | linjeforeningenkatharsis@gmail.com |
 | [Kultura](https://sites.google.com/site/kulturaweb/) | | Kulturminneforvaltning | | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
