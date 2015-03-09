@@ -12,3 +12,11 @@ title: "2015 Saksforslag"
 
 
 ---
+
+### Forslag 1 (Thor Håkon Bredesen)
+
+* Endre budsjettperioden til å følge kalenderåret, slik som regnskapet. Da får komitéleder ansvar for sitt andre semester og neste leders første. Forvirringen på generalforsamlingen vil forhåpentligvis bli mindre.
+
+### Forslag 2 (Thor Håkon Bredesen)
+
+* Opprette interessegrupper for alle Onlinere. 
