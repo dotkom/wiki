@@ -29,6 +29,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *triKom:* 
 
 Vennligst merk at:
+
 * Denne listen vil *oppdateres kontinuerlig* frem til genfors ettersom folk bestemmer/ombestemmer seg.
 * *Man trenger ikke stå på listen* for å stille til et Hovedstyreverv, det vil fremdeles være åpent for benkeforslag på genfors.
 * Man må ha *hatt et verv i Online* i minst ett semester for å kunne bli valgt inn i Hovedstyret på genfors.
