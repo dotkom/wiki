@@ -25,7 +25,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *bedKom:* 
 * *dotKom:* 
 * *fagKom:* 
-* *proKom:* 
+* *proKom:* Agnete Djupvik
 * *triKom:* 
 
 Vennligst merk at:
