@@ -23,7 +23,7 @@ Online jobber kontinuerlig for å gjøre informatikkstudentenes hverdag bedre ve
 
 Om du ønsker å ta en titt på hvilke kandidater som stiller til valg, eller ønsker å stille som kandidat til et lederverv, finner du mer informasjon om dette under kandidater. Merk at i følge vedtektene, paragraf 4.1.2, må du ha vært i komité i minst ett semester for å kunne stille til noen av ledervervene, med unntak av leder av banKom.
 
-Den foreløpige dagsorden er klar, og forslagene til vedtektsendringer vil komme fortløpende. Vi oppfordrer alle informatikkstudenter til å lese gjennom Onlines vedtekter, og komme med forslag til forbedringer.
+Dagsordenen er ikke klar helt ennå men kommer etter hvert, og forslagene til vedtektsendringer vil komme fortløpende. Vi oppfordrer alle informatikkstudenter til å lese gjennom Onlines vedtekter, og komme med forslag til forbedringer.
 
 Dersom du har forslag til vedtektsendringer, eller har forslag til saker som bør tas opp på generalforsamlingen, send en e-post til hs@online.ntnu.no senest 20. mars 2014, så legger vi det ut. 
 
