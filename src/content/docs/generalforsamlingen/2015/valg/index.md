@@ -24,7 +24,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *banKom:* Marius Thingwall  
 * *bedKom:* Didrik Pemmer Aalen
 * *dotKom:* 
-* *fagKom:* 
+* *fagKom:* Christoffer Skar Lofsberg
 * *proKom:* Agnete Djupvik, Signe Elise Livgard
 * *triKom:* 
 
