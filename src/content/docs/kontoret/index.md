@@ -2,12 +2,6 @@
 title: "Kontoret"
 ---
 
-# Kontoret
-
-
-
-
-
 Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sitte i en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall algoritmen og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner. Kontoret blir også brukt til møtevirksomhet av komitéene.
 
 ## Beliggenhet
@@ -26,7 +20,7 @@ Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent
 Kaffe er gratis, det er bare å lage! =)
 Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kanna, slik at andre kan se når kaffen ble laget.
 
-For en full kanne lønner det seg å bruke 6 flate kaffeskjeer med kaffe og fylle vann til "1 1/4"-merket.
+For en full kanne lønner det seg å bruke 6 flate kaffeskjeer med kaffe og fylle vann til "1 1/4"-merket. Husk å ta opp dryppstoppen!!!
 
 ## Annet
 
