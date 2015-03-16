@@ -25,7 +25,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *bedKom:* Didrik Pemmer Aalen
 * *dotKom:* 
 * *fagKom:* 
-* *proKom:* Agnete Djupvik
+* *proKom:* Agnete Djupvik, Signe Elise Livgard
 * *triKom:* 
 
 Vennligst merk at:
