@@ -23,7 +23,7 @@ Man har også ansvaret for kontoret. Dette innebærer å holde kontoret ryddig o
  Dersom man ikke gjør dette faller jobben med å rydde på kontorvakten og ved endt kontorvakt skal det ikke finnes søppel, flasker og lignende på kontoret.
 
 - Rydding av kontoret betyr at man skal holde et lite øye med folk og si fra dersom de ikke rydder opp etter seg. Hvis noen nekter å rydde etter seg selv etter at kontorvakt sier i fra, send mail til kontorsjef@online.ntnu.no så tar kontorsjefen dette opp med vedkommende.
-- - Kontoransvarlig er også ansvarlig for generell rengjøring på kontoret når folk ikke rengjør selv og ved endt kontorvakt skal det ikke finnes søppel, flasker og lignende på kontoret. I tillegg må kontorvakt vaske opp boller, bestikk og lignende som ligger igjen, og rengjøre microen om denne er skitten.
+- - Kontoransvarlig er også ansvarlig for generell rengjøring på kontoret når folk ikke rengjør selv og ved endt kontorvakt skal det ikke finnes søppel, flasker og lignende på kontoret. I tillegg må kontorvakt vaske opp boller, bestikk og lignende som ligger igjen, og rengjøre microen om denne er skitten. Oppvaskmiddel og børste skal finnes ved vasken.
 - - Om gjenstander (inkludert microen) viser seg problematisk å holde rent, vil de bli fjernet!
 - Kontoret har alltid kaffe! Som kontorvakt skal man sørge for at kaffen er traktet så slitne onlinere kan komme inn og få seg en boost :) Følg oppskriften på veggen bak kaffetrakteren, og husk å ta opp dryppstoppen!!
 - Er man siste kontorvakt for dagen skal man låse. Dersom det sitter folk igjen der, sørg for at det er en med kontortilgang der og overlat ansvaret til denne personen. Hvis det ikke er noen med kontortilgang til stede må de dessverre finne et annet sted.
