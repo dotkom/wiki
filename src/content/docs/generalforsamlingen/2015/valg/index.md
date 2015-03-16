@@ -21,8 +21,8 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *Leder:* Pia Lindkjølen, Thor Håkon Bredesen, Caroline Odden
 * *Nestleder:* 
 * *arrKom:* 
-* *banKom:* Didrik Pemmer Aalen
-* *bedKom:* 
+* *banKom:* 
+* *bedKom:* Didrik Pemmer Aalen
 * *dotKom:* 
 * *fagKom:* 
 * *proKom:* Agnete Djupvik
