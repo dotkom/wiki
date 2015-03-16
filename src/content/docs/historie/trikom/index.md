@@ -17,11 +17,11 @@ Trivselskomitéen har til daglig ansvar for at det er mat på kontoret, at konto
 Medlemmer
 ---------
 
-Komitéen består for øyeblikket av 9 studenter som er engasjerte i
+Komitéen består for øyeblikket av 7 studenter som er engasjerte i
 triKom og linjeforeningen.
 
--   L - leder
--   N - nestleder
+-   L - Leder
+-   N - Nestleder
 -   Ø - Økonomiansvarlig
 
 |År|Medlemmer|
