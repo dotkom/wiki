@@ -18,7 +18,7 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
 
 
-* *Leder:* Pia Lindkjølen, Thor Håkon Bredesen
+* *Leder:* Pia Lindkjølen, Thor Håkon Bredesen, Caroline Odden
 * *Nestleder:* 
 * *arrKom:* 
 * *banKom:* Didrik Pemmer Aalen
