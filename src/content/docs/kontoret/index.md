@@ -32,3 +32,4 @@ Telefonnummeret til kontoret er 73 59 64 89
 
 
 - [Kontorvakt](/wiki/online/kontoret/kontorvakt)
+- [For komitémedlemmer](https://online.ntnu.no/wiki/komiteer/kontoret/)
