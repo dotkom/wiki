@@ -32,7 +32,7 @@ For en full kanne lønner det seg å bruke 6 flate kaffeskjeer med kaffe og fyll
 
 Det står en mikrobølgeovn fremme som er til fritt bruk.
 Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne for å gå i forelesning eller datasalen, men hvis du ikke finner mer enn 2 kanner, så la de stå igjen. _Kanna fra trakteren kan **ALDRI** fjernes fra kontoret!_
-Kaffe, te og annet som det ikke står noen pris på er å betrakte som gratis goder til alle.
+Kaffe, te og annet som det ikke står noen pris på (se prisliste på kjøleskapet) er å betrakte som gratis goder til alle.
 
 Telefonnummeret til kontoret er 73 59 64 89
 
