@@ -4,8 +4,8 @@ title: "Gullblekka"
 
 ## Praktisk informasjon om Gullblekka 2015
 
-Tid:  8. april 2015
-Sted: 
+Tid:  8. april 2015  
+Sted:   
 Kategorier:  
 - Årets artikkel (saklig)
 - Årets morsomste artikkel
