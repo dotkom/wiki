@@ -13,7 +13,8 @@ title: "2015 Vedtekter"
 
 ---
 
-# § Forslag til vedtektsendringer
+# § Forslag til vedtektsendringer   
+Husk å legge inn navnet ditt. På den måten vet vi hvem som skal presentere, og forsvare forslaget på generalforsamlingen.  
 
 ### Forslag 1 
 
