@@ -28,6 +28,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Studentsanger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/) - De tradisjonsrike sangene sunget av NTNU-studenter gjennom tidene!
 - [Søke om drikking på kontoret](/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/) - Det er lov å drikke alokohol på Onlinekontoret så lenge noen har søkt om det
 - Ekstern: [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"} - Oversikt over alle vaffeldager og møter på kontoret
+- [Gullblekka](/wiki/online/gullblekka/)
 
 ### [Trivia](/wiki/online/info/trivia/)
 
