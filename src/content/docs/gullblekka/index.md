@@ -18,7 +18,7 @@ title: "Gullblekka"
 **Hvordan nominere:**  
 Frist for å sende inn nominasjoner er mandag 23. mars klokken 16.00. Det vil foregå på følgende måte:
 
-Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema[attachment:201] (et eksempel er fylt ut her[attachment:202]). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2015” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Man nominerer altså saker sin egen redaksjon har produsert, ikke saker fra andre linjeofreningsaviser.
+Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([attachment:201]) (et eksempel er fylt ut her([attachment:202])). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2015” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Man nominerer altså saker sin egen redaksjon har produsert, ikke saker fra andre linjeofreningsaviser.
 
 Konvolutten leveres på Online-kontoret, enten i postkassen utenfor, eller til en kontorvakt. Det vil bli sendt kvittering når nominasjonene er mottatt. Ta kontakt om dere ikke mottar denne innen rimelig tid.
 
