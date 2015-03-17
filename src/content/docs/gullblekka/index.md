@@ -7,12 +7,12 @@ title: "Gullblekka"
 Tid:  8. april 2015  
 Sted:   
 Kategorier:  
-- Årets artikkel (saklig)
-- Årets morsomste artikkel
-- Årets ordsmed (her skal det leveres to artikler av samme skribent, mer info nedenfor)
-- Årets foto eller illustrasjon
-- Årets design på enkeltsak (forside regnes som enkeltsak)
-- Åpen klasse (mer info nedenfor)
+- Årets artikkel (saklig)  
+- Årets morsomste artikkel  
+- Årets ordsmed (her skal det leveres to artikler av samme skribent, mer info nedenfor)  
+- Årets foto eller illustrasjon  
+- Årets design på enkeltsak (forside regnes som enkeltsak)  
+- Åpen klasse (mer info nedenfor)  
 - Gullblokka (folkeprisen som stemmes frem av alle linjene)  
 
 Hvordan nominere:  
