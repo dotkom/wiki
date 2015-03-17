@@ -26,7 +26,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *dotKom:* 
 * *fagKom:* Christoffer Skar Lofsberg
 * *proKom:* Agnete Djupvik, Signe Elise Livgard
-* *triKom:* 
+* *triKom:*  Kristoffer Hajem
 
 Vennligst merk at:
 
