@@ -18,4 +18,4 @@ title: "2015 Vedtekter"
 ### Forslag 1 
 
 4.1.2 Krav til kandidater  
-*Endre fra "En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester med unntak(...)" til* "En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester. For verv utenom leder, nestleder og leder for bank- og økonomikomiteen må kandidaten ha vært medlem av komiteen det stilles til i minst ett semester."
+Endre fra *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester med unntak(...)"* til *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester. For verv utenom leder, nestleder og leder for bank- og økonomikomiteen må kandidaten ha vært medlem av komiteen det stilles til i minst ett semester."*
