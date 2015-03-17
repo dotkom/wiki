@@ -2,4 +2,4 @@
 title: "Gullblekka"
 ---
 
-- [Utdelingen 2014](/online/gullblekka/utdelingen_2014/)
+- [Utdelingen 2014](/wiki/online/gullblekka/utdelingen_2014/)
