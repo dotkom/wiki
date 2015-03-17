@@ -2,7 +2,7 @@
 title: "2015 Vedtekter"
 ---
 
-[TOC]
+
 
 ---
 * [2015 Saksliste](/wiki/online/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015
