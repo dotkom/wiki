@@ -2,6 +2,8 @@
 title: "Gullblekka"
 ---
 
+Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppdateringer.
+
 ## Praktisk informasjon om Gullblekka 2015
 
 **Tid:**  8. april 2015  
