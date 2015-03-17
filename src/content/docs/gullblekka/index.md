@@ -2,9 +2,9 @@
 title: "Gullblekka"
 ---
 
-# Om Gullblekka
+## Om Gullblekka
 
-# Historie
+## Historie
 
 
 #### Utdelinger
