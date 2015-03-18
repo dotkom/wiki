@@ -91,6 +91,7 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
     - [Trivselskomiteens wiki](/wiki/komiteer/trikom/)
     - [Ekskursjonskomiteens wiki](/wiki/komiteer/ekskom/)
+    - [IT-Ekskursjonens wiki](/wiki/komiteer/it_ekskursjonen/)
     - [Jubileumskomiteens wiki](/wiki/komiteer/jubkom/)
     - [Velkomstkomiteens wiki](/wiki/komiteer/velkom/)
     - [Pensjonistkomiteens wiki](/wiki/komiteer/pankom/)
