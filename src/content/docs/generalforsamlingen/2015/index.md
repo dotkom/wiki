@@ -9,9 +9,10 @@ title: "Generalforsamlingen 2015"
 
 ---
 
-# Vedtekter
+# Onlines vedtekter og referat fra forrige generalforsamling 
 
-[attachment:71]
+* Vedtekter: [attachment:71]
+* Referat fra generalforsamlingen 2014: [attachment:203]
 
 # Informasjon
 
