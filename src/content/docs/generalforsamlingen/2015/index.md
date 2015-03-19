@@ -16,16 +16,16 @@ title: "Generalforsamlingen 2015"
 
 # Informasjon
 
-Mandag 20. april 2015 invitererer linjeforeningen Online alle informatikkstudenter til den årlige Generalforsamlingen kl. 15:00. Hvor det skal være kommer vi tilbake til.
+Hei,
 
-Som informatikkstudent ved NTNU er du automatisk medlem av Online. Du er også medlem av Online dersom du er medlem av Onlines pensjonistkomité (pangKom), Eldsterådet, er utnevnt æresmedlem eller på annen måte er blitt tatt opp i Online. 
+Mandag 20. april invitererer linjeforeningen Online alle informatikkstudenter til den årlige Generalforsamlingen som begynner kl. 15 i auditorium H3.
 
-Online jobber kontinuerlig for å gjøre informatikkstudentenes hverdag bedre ved å blant annet arrangere sosiale begivenheter, bygge bro mellom studentene og næringslivet ved bedriftspresentasjoner, samt introdusere ny og spennende teknologi ved kurs. På generalforsamlingen velges styret som skal lede Online i året som kommer, og dette vil vi at alle informatikere skal være med på å bestemme.
+Som informatikkstudent ved NTNU er du automatisk medlem av Online. Du er også medlem av Online dersom du er medlem av Onlines pensjonistkomité (pangKom), Eldsterådet eller er utnevnt æresmedlem.
 
-Om du ønsker å ta en titt på hvilke kandidater som stiller til valg, eller ønsker å stille som kandidat til et lederverv, finner du mer informasjon om dette under kandidater. Merk at i følge vedtektene, paragraf 4.1.2, må du ha vært i komité i minst ett semester for å kunne stille til noen av ledervervene, med unntak av leder av banKom.
+Online jobber kontinuerlig for å gjøre informatikkstudentenes hverdag bedre ved å arrangere sosiale begivenheter, bygge bro mellom studentene og næringslivet ved bedriftspresentasjoner, samt. introdusere ny og spennende teknologi ved kurs. På generalforsamlingen velges Hovedstyret som skal lede Online i året som kommer, og dette vil vi at alle informatikere skal være med på å bestemme.
 
-Dagsordenen er ikke klar helt ennå men kommer etter hvert, og forslagene til vedtektsendringer vil komme fortløpende. Vi oppfordrer alle informatikkstudenter til å lese gjennom Onlines vedtekter, og komme med forslag til forbedringer.
+Dagsorden vil bli fastsatt rett over påske, og forslagene til saks- og vedtektsendringer vil komme fortløpende. Vi oppfordrer alle informatikkstudenter til å lese gjennom Onlines vedtekter, og komme med forslag til forbedringer.
 
-Dersom du har forslag til vedtektsendringer, eller har forslag til saker som bør tas opp på generalforsamlingen, send en e-post til hs@online.ntnu.no senest 20. mars 2014, så legger vi det ut. 
+Dersom du har forslag til vedtektsendringer, send mail til hs@online.ntnu.no senest 6. april, så legger vi det ut. Det er også mulig å sende inn saksforslag til saker som bør tas opp på generalforsamlingen. Husk at man må formulere vedtektsendringene slik at de kan gå rett inn i vedtektene til Online.
 
 Vel møtt!
