@@ -24,4 +24,4 @@ Endre fra *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett se
 4.1.2 Krav til kandidater  
 Dersom forslag 1 går gjennom.  
 Legge til et ekstra avsnitt:  
-"Hvis valg av komitéleder faller på ekstraordinær generalforsamling, begrenses kravet til at kandidaten kun må ha innehatt et verv i linjeforeningen i minst ett semester."
+*"Hvis valg av komitéleder faller på ekstraordinær generalforsamling, begrenses kravet til at kandidaten kun må ha innehatt et verv i linjeforeningen i minst ett semester."*
