@@ -36,9 +36,9 @@ Legge til et ekstra avsnitt:
 
 ### Forslag 3 (Pia Lindkjølen)
 
-4.3.1 Periodiske komiteer
+4.3.1 Periodiske komiteer  
 Legge til et avsnitt om ekskursjonskomiteen som nodekomite av fagKom. Forslag: 
 
-"4.3.1.3 Ekskursjonskomiteen
+"4.3.1.3 Ekskursjonskomiteen  
 
 Komiteens hovedoppgave er å organisere ekskursjon for studentene i 3.klasse. Komiteen kan selv velge å tillate studenter i eldre årskull å bli med på ekskursjonen, dersom studenten det gjelder ikke har vært på ekskursjon i regi av linjeforeningen tidligere. Ekskursjonskomiteen er også ansvarlig for gjennomføringen av TechTalks. Komiteens forelderkomite er fagKom. Komiteens navn forkortes eksKom."
