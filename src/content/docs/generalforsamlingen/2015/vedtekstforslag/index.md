@@ -54,5 +54,5 @@ Medlemsskap
 Fjerne linjen *"Årsstudium i informatikk"* Da dette studiet ikke lenger eksisterer. 
 
 ### Forslag 6 (Thor Håkon Bredesen)
-3 Generalforsamlingen
+3 Generalforsamlingen  
 Ifm saksforslag om å endre budsjettperiode til å følge regnskapsperiode må det en endring i vedtekten om når budsjett skal bli godkjent. Utdypelse kommer senere.
