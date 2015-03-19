@@ -49,7 +49,9 @@ Legge til et avsnitt om Informatikernes IT-ekskursjon som nodekomite under bedko
 *"4.3.4 Informatikernes IT-ekskursjon  
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter. Denne arrangeres hver høst og har som hovedformål å gjøre masterstudentene kjent med hvilke muligheter som finnes etter endt studie. Komiteens forelderkomite er bedKom. Komiteens navn forkortes itex"*
 
-### Forslag 5 (Pia Lindkjølen)
+### Forslag 5 (Thor Håkon Bredesen)
+3 Generalforsamlingen
+Ifm saksforslag om å endre budsjettperiode til å følge regnskapsperiode må det en endring i vedtekten om når budsjett skal bli godkjent. Utdypelse kommer senere.### Forslag 5 (Pia Lindkjølen)
 
 5 Medlemsskap
 
