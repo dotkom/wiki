@@ -48,3 +48,9 @@ Legge til et avsnitt om Informatikernes IT-ekskursjon som nodekomite under bedko
 
 *"4.3.4 Informatikernes IT-ekskursjon  
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter. Denne arrangeres hver høst og har som hovedformål å gjøre masterstudentene kjent med hvilke muligheter som finnes etter endt studie. Komiteens forelderkomite er bedKom. Komiteens navn forkortes itex"*
+
+### Forslag 5 (Pia Lindkjølen)
+
+5 Medlemsskap
+
+Fjerne linjen *"Årsstudium i informatikk"* Da dette studiet ikke lenger eksisterer. 
