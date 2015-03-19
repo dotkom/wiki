@@ -3,7 +3,6 @@ title: "2015 Vedtekter"
 ---
 
 
-
 ---
 * [2015 Saksliste](/wiki/online/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015
 * [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2015/valg) - Er du klar for et verv i Hovedstyret?
@@ -20,3 +19,10 @@ title: "2015 Vedtekter"
 
 4.1.2 Krav til kandidater  
 Endre fra *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester med unntak(...)"* til *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester. For verv utenom leder, nestleder og leder for bank- og økonomikomiteen må kandidaten ha vært medlem av komiteen det stilles til i minst ett semester."*
+
+### Forslag 2 
+
+4.1.2 Krav til kandidater  
+Dersom forslag 1 går gjennom.
+Legge til et ekstra avsnitt:
+"Hvis valg av komitéleder faller på ekstraordinær generalforsamling, begrenses kravet til at kandidaten kun må ha innehatt et verv i linjeforeningen i minst ett semester."
