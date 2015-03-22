@@ -18,14 +18,14 @@ title: "Generalforsamlingen 2015"
 
 Hei,
 
-Mandag 20. april invitererer linjeforeningen Online alle informatikkstudenter til den årlige Generalforsamlingen som begynner kl. 15 i auditorium H3.
+Mandag 20. april invitererer Linjeforeningen Online alle informatikkstudenter til den årlige generalforsamlingen. I år begynner vi klokken 15.00, og skal være i auditorium H3.  
 
-Som informatikkstudent ved NTNU er du automatisk medlem av Online. Du er også medlem av Online dersom du er medlem av Onlines pensjonistkomité (pangKom), Eldsterådet eller er utnevnt æresmedlem.
+Som informatikkstudent ved NTNU er du automatisk medlem av Linjeforeningen Online. Medlem av linjeforeningen inkluderer også pensjonistkomiteen, Eldstrådet, og utnevnte æresmedlemmer.  
 
-Online jobber kontinuerlig for å gjøre informatikkstudentenes hverdag bedre ved å arrangere sosiale begivenheter, bygge bro mellom studentene og næringslivet ved bedriftspresentasjoner, samt. introdusere ny og spennende teknologi ved kurs. På generalforsamlingen velges Hovedstyret som skal lede Online i året som kommer, og dette vil vi at alle informatikere skal være med på å bestemme.
+Online jobber kontinuerlig for å gjøre informatikkstudentenes hverdag bedre. Dette gjør vi ved å arrangere sosiale begivenheter, samt bygge bro mellom studentene og næringslivet. Vi bidrar også til å introdusere ny og spennende teknologi ved kurs og faglige arrangementer. På generalforsamlingen velges Onlines hovedstyre, som skal lede linjeforeningen i året som kommer. Denne begivenheten ønsker vi at alle informatikere skal være med på.  
 
-Dagsorden vil bli fastsatt rett over påske, og forslagene til saks- og vedtektsendringer vil komme fortløpende. Vi oppfordrer alle informatikkstudenter til å lese gjennom Onlines vedtekter, og komme med forslag til forbedringer.
+Dagsorden vil bli fastsatt rett over påske, og forslag til saker og vedtektsendringer vil komme fortløpende. Vi oppfordrer alle informatikkstudenter til å lese i gjennom Onlines vedtekter, og komme med forslag til eventuelle forbedringer.  
 
-Dersom du har forslag til vedtektsendringer, send mail til hs@online.ntnu.no senest 6. april, så legger vi det ut. Det er også mulig å sende inn saksforslag til saker som bør tas opp på generalforsamlingen. Husk at man må formulere vedtektsendringene slik at de kan gå rett inn i vedtektene til Online.
+Dersom du har forslag til eventuelle vedtektsendringer, send mail til hs@online.ntnu.no senest 6. april. På den måten kan vi få lagt dem ut i god tid. Husk at en må formulere vedtektsendringene slik at de kan gå rett inn i vedtektene til Online. En kan også sende inn saksforslag til saker som bør tas opp. Saker eller vedtekstendringer som sendes inn må presenteres, og forsvares av innsenderen. Dersom du har innspill til budsjett og revidert regnskap ber vi om at disse sendes inn som saksforslag senest 6.april. Budsjett og revidert regnskap vil bli tilgjengeliggjort så fort det er klart. 
 
 Vel møtt!
