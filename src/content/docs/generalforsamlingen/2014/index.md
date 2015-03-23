@@ -11,7 +11,7 @@ title: "Generalforsamlingen 2014"
 ---
 
 # Vedlegg
-* [attachment:203]
+*  Referat fra generalforsamlingen 2014 [attachment:203]
 * [attachment:116]
 * [attachment:117]
 
