@@ -47,7 +47,7 @@ Komiteens hovedoppgave er å organisere ekskursjon for studentene i 3.klasse. Ko
 Legge til et avsnitt om Informatikernes IT-ekskursjon som nodekomite under bedkom.
 
 *"4.3.4 Informatikernes IT-ekskursjon  
-Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter. Denne arrangeres hver høst og har som hovedformål å gjøre masterstudentene kjent med hvilke muligheter som finnes etter endt studie. Komiteens forelderkomite er bedKom. Komiteens navn forkortes itex"*
+Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter. Denne arrangeres hver høst og har som hovedformål å gjøre masterstudentene kjent med hvilke muligheter som finnes etter endt studie. Komiteen er selvstyrt og tar alle avgjørelser angående ekskursjonen. Komiteens forelderkomite er bedKom. Komiteens navn forkortes itex"*
 
 ### Forslag 5 Medlemsskap (Pia Lindkjølen)  
 Medlemsskap  
