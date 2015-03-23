@@ -7,7 +7,7 @@ Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppda
 ## Praktisk informasjon om Gullblekka 2015
 
 **Tid:**  8. april 2015  
-**Sted:**    
+**Sted:** Klubben på Samfundet, 19.00  
 **Kategorier:**  
 - Årets artikkel (saklig)  
 - Årets morsomste artikkel  
