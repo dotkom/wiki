@@ -56,3 +56,16 @@ Fjerne linjen *"Årsstudium i informatikk"* Da dette studiet ikke lenger eksiste
 ### Forslag 6 (Thor Håkon Bredesen)
 3 Generalforsamlingen  
 Ifm saksforslag om å endre budsjettperiode til å følge regnskapsperiode må det en endring i vedtekten om når budsjett skal bli godkjent. Utdypelse kommer senere.
+
+### Forslag 7 (Sondre Auestad)
+3.4 Beslutningsdyktighet og avstemming  
+Endre teksten slik at blanke stemmer ikke er tellende ved ja/nei-avstemminger.  
+Forslag:  
+I første avsnitt legge til setningen *"Blanke stemmer er ikke tellende, med mindre annet er spesifisert."*
+
+### Forslag 8 (Sondre Auestad)
+3.6 Gjennomføring av valg  
+Endre teksten slik at folk kan stemme "ingen" i valgssaker, og dermed skille mellom blanke stemmer og negative stemmer.  
+Forslag:  
+Endre setningen *"Ved avholdt valg vil alle stemmer, inkludert blanke, være tellende."* til:  
+*"Ved avholdt valg er ikke blanke stemmer tellende, men folk kan stemme 'ingen' på valget."*
