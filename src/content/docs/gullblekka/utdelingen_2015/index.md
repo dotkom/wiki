@@ -6,7 +6,7 @@ title: "Utdelingen 2015"
 
 Konferansieren var TBA.  
 Juryen besto av TBA.  
-Gullblekka 2014 ble arrangert av Mats Byrkjeland (readme), Eskild Bakke (Spikers Kårner), Kathrine Steffensen (Offline) og Signe Elise Livgard (Offline).  
+Gullblekka 2015 ble arrangert av Mats Byrkjeland (readme), Eskild Bakke (Spikers Kårner), Kathrine Steffensen (Offline) og Signe Elise Livgard (Offline).  
 
 ## Vinnere
 
