@@ -5,7 +5,7 @@ title: "Utdelingen 2015"
 ## Arrangementet
 
 Konferansieren var TBA.  
-Juryen bestod av TBA.  
+Juryen bestod av Synne Hammervik (Redaktør for Under Dusken), Camilla Stenkløv (Grafiker i UKA) og TBA.  
 Gullblekka 2015 ble arrangert av Mats Byrkjeland (readme), Eskild Bakke (Spikers Kårner), Kathrine Steffensen (Offline) og Signe Elise Livgard (Offline).  
 
 ## Vinnere
