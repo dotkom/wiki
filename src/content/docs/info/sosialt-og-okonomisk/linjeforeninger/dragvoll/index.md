@@ -44,7 +44,6 @@ Tilhørende wikisider
 | [Kultura](https://sites.google.com/site/kulturaweb/) | | Kulturminneforvaltning | | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
 | [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
-| [Ludimus](http://ludimus.wordpress.com/) | | [Språk og kommunikasjon](http://ntnu.no/isk) | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
 | [Lydmurerlosjen](http://org.ntnu.no/lydmurerlosjen/) | | Musikkteknologi | | [Group](http://fb.com/groups/39534575405/) | |
 | [Notelinjeforeningen](http://notelinja.wordpress.com/) | | Utøvende musikk | | [Page](http://fb.com/pages/Notelinjeforeningen/206686876172728) | notelinja@gmail.com |
 | [Paideia Fadder](http://pedfadder.no/), [Paideia](http://paideiantnu.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideia@live.no |
@@ -218,3 +217,9 @@ Noen linjeforeninger har vært kortlevd. For å øke levedyktigheten til en linj
 * Sørg for overlapp. Ta opp nye folk i styrer og komitéer hvert semester, gjerne førsteklassinger. Utvid med flere stillinger om nødvendig, ikke vent til den dagen alle de som driver linjeforeningen i dag slutter på studiet. (Dette sier seg kanskje selv) 
 
 _PS: Tips og triks er bl.a. fra en eks-dragvolling som senere var leder for Online og som brenner for å få topp linjeforeningsmiljø på Dragvoll_
+
+### Kjente tidligere linjeforeninger
+
+|Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|
+|---|---|---|---|---|---|
+| [Ludimus](http://ludimus.wordpress.com/) (?-26.9.2014) | [Språk og kommunikasjon](http://ntnu.no/isk) | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
