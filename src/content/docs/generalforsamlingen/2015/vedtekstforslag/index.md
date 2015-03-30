@@ -69,3 +69,9 @@ Endre teksten slik at folk kan stemme "ingen" i valgssaker, og dermed skille mel
 Forslag:  
 Endre setningen *"Ved avholdt valg vil alle stemmer, inkludert blanke, være tellende."* til:  
 *"Ved avholdt valg er ikke blanke stemmer tellende, men folk kan stemme 'ingen' på valget."*
+
+### Forslag 9: appKom (Michael Johansen)
+
+*Følgende, forutenom beskrivende (fet), tekst legges til som §4.3.4 Applikasjonskomiteen. Dersom forslaget om eksKom går gjennom blir paragrafnummeret §4.3.5*
+
+Komiteens hovedoppgave er å utvikle og drifte nettleserutvidelser, mobilapplikasjoner, infoskjermer og tilhørende tjenester som f.eks. mellomlagstjenester og mikrokontrollere. Komiteens forelderkomite er dotKom. Komiteen skal ikke drive med oppgaver som overlapper med dotKoms oppgaver. Komiteen har åpen dør og lav terskel for deltakelse. Enhver Onliner som oppfyller kravene til medlemskap i §5 skal kunne bli med på møter. Ettersom det vil være enkelt å delta på møter stilles det to formelle krav før man får permanente komitefordeler. Kravene er deltakelse på fire påfølgende møter og fullførelse av en opptaksprøve som bestemmes internt i komiteen. På grunn av utfordringer som kan oppstå med åpent opptak gis komiteleder fullmakt til å begrense adgang til møtene for deltakere som ikke allerede er medlem av komiteen. Det spesifiseres at begrensning i hovedsak er ment å brukes dersom komiteen er for stor eller dersom en deltaker har uakseptabel oppførsel. Dersom et komitemedlem har en periode av inaktivitet kan leder velge å avslutte komitevervet til vedkommende. Komiteens navn forkortes appKom.
