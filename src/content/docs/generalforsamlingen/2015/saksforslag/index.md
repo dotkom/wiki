@@ -20,3 +20,11 @@ title: "2015 Saksforslag"
 ### Forslag 2 (Thor Håkon Bredesen)
 
 * Opprette interessegrupper for alle Onlinere. 
+
+### Forslag 3 (Michael Johansen)
+
+* Hovedstyret gis anledning til å rette opp i redaksjonelle feil i vedtektene. Dette for at saker der hensikten er klar, men grunnet småfeil i formuleringen kan tolkes tvetydig likevel kan vedtas i henhold til hensikten.
+
+### Forslag 4 (Michael Johansen)
+
+* Generalforsamlingen gis myndighet til å endre på innsendte vedtektsforslag før endelig beslutning.
