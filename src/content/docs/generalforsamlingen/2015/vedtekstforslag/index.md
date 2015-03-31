@@ -72,21 +72,22 @@ Endre setningen *"Ved avholdt valg vil alle stemmer, inkludert blanke, være te
 
 ### Forslag 9: appKom (Michael Johansen)
 
-*Følgende, forutenom beskrivende (kursiv), tekst legges til som §4.3.4 Applikasjonskomiteen. Dersom forslaget om eksKom går gjennom blir paragrafnummeret §4.3.5. Forslaget er versjonert. Det stemmes først om hvilken versjon som skal bestå, før det stemmes om forslaget som helhet.*
+**Følgende, forutenom beskrivende (fet eller kursiv), tekst legges til som §4.3.4 Applikasjonskomiteen. Dersom forslaget om eksKom går gjennom blir paragrafnummeret §4.3.5. Forslaget er versjonert. Det stemmes først om hvilken versjon som skal bestå, før det stemmes om forslaget som helhet.**
 
-*Versjon 1.0:*
+**Versjon 1.0:**
 Komiteens hovedoppgave er å utvikle og drifte nettleserutvidelser, mobilapplikasjoner, infoskjermer og tilhørende tjenester som f.eks. mellomlagstjenester og mikrokontrollere. Komiteens forelderkomite er dotKom. Komiteen skal ikke drive med oppgaver som overlapper med dotKoms oppgaver. Komiteen har åpen dør og lav terskel for deltakelse. Enhver Onliner som oppfyller kravene til medlemskap i §5 skal kunne bli med på møter. Ettersom det vil være enkelt å delta på møter stilles det to formelle krav før man får permanente komitefordeler. Kravene er deltakelse på fire påfølgende møter og fullførelse av en opptaksprøve som bestemmes internt i komiteen. På grunn av utfordringer som kan oppstå med åpent opptak gis komiteleder fullmakt til å begrense adgang til møtene for deltakere som ikke allerede er medlem av komiteen. Det spesifiseres at begrensning i hovedsak er ment å brukes dersom komiteen er for stor eller dersom en deltaker har uakseptabel oppførsel. Dersom et komitemedlem har en periode av inaktivitet kan leder velge å avslutte komitevervet til vedkommende. Komiteens navn forkortes appKom.
 
-*Versjon 2.0. De følgende avsnittene er oppdelt for lesbarhet. Delene slås sammen, uten underoverskrifter, dersom forslaget skal innlemmes i vedtektene.*
+**Versjon 2.0. De følgende avsnittene er oppdelt for lesbarhet. Delene slås sammen, uten underoverskrifter, dersom forslaget skal innlemmes i vedtektene.**
 
-*Hovedoppgave*
+**Hovedoppgave:**
+
 Komiteens hovedoppgave er å utvikle og drifte nettleserutvidelser, mobilapplikasjoner, infoskjermer og tilhørende tjenester som f.eks. mellomlagstjenester og mikrokontrollere. Komiteens navn forkortes appKom.
 
-*Nodekomite under dotKom:*
+**Nodekomite under dotKom:**
 Komiteens forelderkomite er dotKom. Komiteen skal ikke drive med oppgaver som overlapper med dotKoms oppgaver. Komiteen skal være nært tilknyttet dotKom gjennom komiteens leder. Leder av appKom har plikt til å rapportere til dotKom om komiteens drift, og skal ikke pålegges andre arbeidsoppgaver i dotKom. Per §4.3 velges komiteleder for appKom internt i dotKom. Ny leder velges snarest etter linjeforeningens ordinære generalforsamling. Dersom dotKom enten ikke finner en leder eller ikke ønsker å finne en leder, skal appKom selv velge en leder blant sittende komitemedlemmer. Det spesifiseres at de samme reglene gjelder for leder enten vedkommende er valgt av dotKom eller av appKom. *Kanskje stryke den siste setningen? For åpenbart?*
 
-*Åpent opptak:*
+**Åpent opptak:**
 Komiteen har løpende åpent opptak, åpen dør og lav terskel for deltakelse. Enhver Onliner som oppfyller kravene til medlemskap i §5 skal kunne bli med på møter. Ettersom det vil være enkelt å delta på møter stilles det to formelle krav før komiteleder gir tilbud om å bli komitemedlem. Kravene er deltakelse på fire påfølgende møter og fullførelse av en opptaksprøve som bestemmes internt i komiteen.
 
-*Leders ansvar som moderator:*
+**Leders ansvar som moderator:**
 På grunn av utfordringer som kan oppstå med åpent opptak gis komiteleder fullmakt til å begrense adgang til møtene for deltakere som ikke er medlemmer av komiteen. Det spesifiseres at begrensning i hovedsak er ment å brukes dersom komiteen er for stor, eller dersom en deltaker har uakseptabel oppførsel eller innsats. Dersom et komitemedlem har en periode med inaktivitet eller lav deltakelse kan leder velge å avslutte komitevervet til vedkommende.
