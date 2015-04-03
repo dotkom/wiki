@@ -222,4 +222,4 @@ _PS: Tips og triks er bl.a. fra en eks-dragvolling som senere var leder for Onli
 
 |Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|
 |---|---|---|---|---|---|
-| [Ludimus](http://ludimus.wordpress.com/) (?-26.9.2014) | [Språk og kommunikasjon](http://ntnu.no/isk) | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
+| [Ludimus](http://ludimus.wordpress.com/) (?-26.9.2014) | | [Språk og kommunikasjon](http://ntnu.no/isk) | | [Group](http://fb.com/groups/ludimus/)| ludimus@list.stud.ntnu.no |
