@@ -7,6 +7,8 @@ Innspillinger
 
 [Lindbärs - Balladen Om Theobald Thor][] *Kilde:YouTube*
 
+[Musikkvideo laget ifm. BSF's 100årsjubileum][] *Kilde:YouTube*
+
 Tekst
 -----
 
@@ -79,3 +81,5 @@ från dess topp till dess rot
 med en JÄTTESTOR ryggsäck till pung.
 
   [Lindbärs - Balladen Om Theobald Thor]: http://www.youtube.com/watch?v=Q3R0JF25bGQ
+
+[Musikkvideo laget ifm. BSF's 100årsjubileum]: https://www.youtube.com/watch?v=EOHPefjvsPM
