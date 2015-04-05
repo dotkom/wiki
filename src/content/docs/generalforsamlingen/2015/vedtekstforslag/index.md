@@ -72,11 +72,7 @@ Endre setningen *"Ved avholdt valg vil alle stemmer, inkludert blanke, være te
 
 ### Forslag 9: appKom (Michael Johansen)
 
-**Følgende, forutenom beskrivende (fet), tekst legges til som §4.3.4 Applikasjonskomiteen. Dersom forslaget om eksKom går gjennom blir paragrafnummeret §4.3.5. Forslaget er versjonert. Det stemmes først om hvilken versjon som skal bestå, før det stemmes om forslaget som helhet.**
-
-**Versjon 1.0:**
-
-Komiteens hovedoppgave er å utvikle og drifte nettleserutvidelser, mobilapplikasjoner, infoskjermer og tilhørende tjenester som f.eks. mellomlagstjenester og mikrokontrollere. Komiteens forelderkomite er dotKom. Komiteen skal ikke drive med oppgaver som overlapper med dotKoms oppgaver. Komiteen har åpen dør og lav terskel for deltakelse. Enhver Onliner som oppfyller kravene til medlemskap i §5 skal kunne bli med på møter. Ettersom det vil være enkelt å delta på møter stilles det to formelle krav før man får permanente komitefordeler. Kravene er deltakelse på fire påfølgende møter og fullførelse av en opptaksprøve som bestemmes internt i komiteen. På grunn av utfordringer som kan oppstå med åpent opptak gis komiteleder fullmakt til å begrense adgang til møtene for deltakere som ikke allerede er medlem av komiteen. Det spesifiseres at begrensning i hovedsak er ment å brukes dersom komiteen er for stor eller dersom en deltaker har uakseptabel oppførsel. Dersom et komitemedlem har en periode av inaktivitet kan leder velge å avslutte komitevervet til vedkommende. Komiteens navn forkortes appKom.
+**Følgende, forutenom beskrivende (fet), tekst legges til som §4.3.4 Applikasjonskomiteen. Dersom forslaget om eksKom går gjennom blir paragrafnummeret §4.3.5.**
 
 **Versjon 2.0. De følgende avsnittene er oppdelt for lesbarhet. Delene slås sammen uten underoverskrifter dersom forslaget skal innlemmes i vedtektene.**
 
