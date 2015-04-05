@@ -91,3 +91,100 @@ Komiteen har løpende åpent opptak, åpen dør og lav terskel for deltakelse. E
 **Leders ansvar som moderator:**
 
 På grunn av utfordringer som kan oppstå med åpent opptak gis komiteleder fullmakt til å begrense adgang til møtene for deltakere som ikke er medlemmer av komiteen. Det spesifiseres at begrensning i hovedsak er ment å brukes dersom komiteen er for stor, eller dersom en deltaker har uakseptabel oppførsel eller innsats. Dersom et komitemedlem har en periode med inaktivitet eller lav deltakelse kan leder velge å avslutte komitevervet til vedkommende.
+
+### Forslag 10: Ridderorden (Håvard Slettvold)
+
+***§4.6 Eldsterådet* erstattes i sin helhet med forslaget under. Dette forslaget innebærer å trekke sammen tidligere §4.6 og §5.2 til en sammenfattet forklaring av vår ridderorden, samt innskrive riddere av 3. grad i vedtektene.**
+
+Vanlig tekst = Fantes fra før, kan være flyttet  
+**Fet tekst** = Lagt til  
+<s>Strøket tekst</s> = Fjernet
+
+
+#### 4.6 Ridderne av det Indre Lager
+
+**Linjeforeningen har en egen orden for medlemmer som gjennom sitt arbeid har utmerket seg.**
+
+##### 4.6.1 Ridder av 1. grad
+
+**Riddere av første grad er Æresmedlemmer av linjeforeningen.**
+
+Linjeforeningen har anledning til å utnevne æresmedlemmer. Æresmedlemskap går
+til personer som har gjort en eksepsjonell innsats for informatikkens sak, eller har
+gjort en eksepsjonell innsats for studentene ved informatikkstudiet. **Æresmedlemmer
+har ikke noe noe krav om tidligere tilknytning til linjeforeningen for nominasjon.**
+
+<s>Utnevnelse skjer ved at Hovedstyret mottar forslag fra medlemmer av linjeforeningen,
+med begrunnelse om hvorfor kandidaten bør utnevnes. Kandidaten utnevnes ved
+kvalifisert flertall i Hovedstyret.</s>
+
+###### 4.6.1.1 Medlemskap 
+
+**Utnevnelse skjer ved at Hovedstyret vurderer alle nominerte kandidater. Nominasjoner
+kan komme fra alle medlemmer av linjeforeningen. Kandidater utnevnes ved flertall i Hovedstyret.**
+
+**Annonsering av opptak for riddere av 1. grad gjøres kun i sammenheng med jubileum.**
+
+##### 4.6.2 Ridder av 2. grad
+
+**Riddere av andre grad er Eldsterådet til linjeforeningen.**
+
+Eldsterådet er en gruppe bestående av særs erfarne medlemmer som har opparbeidet
+seg status og autoritet blant medlemmene i linjeforeningen.
+Eldsterådet skrives med stor ’E’ på samme måte som egennavn.
+
+###### 4.6.2.1 Medlemskap
+
+Medlemmer av linjeforeningen blir medlem i Eldsterådet ved å oppfylle
+en eller flere av følgende krav:
+
+* Er eller har vært leder av linjeforeningen.
+* Er eller har vært et aktivt hovedstyremedlem i tre år (seks semestere)
+eller mer.
+* Har blitt utnevnt til Æresmedlem.
+
+<s>Det spesifiseres at</s> Man kan være medlem i Eldsterådet samtidig som
+man er medlem av Hovedstyret eller en av linjeforeningens komiteer.
+
+**Annonsering av opptak for riddere av 2. grad gjøres ved en egnet formell
+anledning der en stor mengde medlemmer er tilstede.**
+
+###### 4.6.2.2 Formål
+
+Det er Eldsterådets oppgave å avholde opptaksseremonien i forbindelse med linjeforeningsopptaket (ikke
+komiteopptak). Før opptaket skal sittende leder av linjeforeningen
+velge representanter fra Eldsterådet til å avholde opptaket sammen med
+lederen. Det bør være minst fem medlemmer av Eldsterådet til stede
+under opptaket. <s>Det spesifiseres at</s> Leder <s>bør</s> **er pliktig til å** invitere Eldsterådet i god tid
+før linjeforeningsopptaket <s>da</s> **ettersom** medlemmer av Eldsterådet gjerne bor langt
+vekk fra universitetet.
+
+##### 4.6.3 Ridder av 3. grad
+
+**Riddere av tredje grad en personer som gjennom sin tid i linjeforeningen
+har vist stort engasjement, utført ekstraordinært arbeid eller har spesielt lang
+fartstid i frivillige verv tilknyttet informatikkstudiet.**
+
+###### 4.6.3.1 Medlemskap
+
+**Utnevnelse skjer ved at ridderordenen overleverer forslag til Hovedstyret om verdige
+kandidater. Valget av disse kandidatene kan kun overstyres med
+kvalifisert flertall i Hovedstyret.**
+
+**Annonsering av opptak for riddere av 3. grad gjøres ved en egnet formell
+anledning der en stor mengde medlemmer er tilstede.**
+
+-----
+
+***§5 Medlemmer* endres for å reflektere inkluderingen av æresmedlemmer og eldsterådet i Riddere av det Indre Lager.**
+
+Følgende er medlemmer av linjeforeningen på livstid:
+* <s>Æresmedlemmer</s>
+* Medlemmer av pensjonistkomiteen
+* <s>Medlemmer av Eldsterådet</s>
+
+***§5.2 Æresmedlemskap* erstattes av en egen paragraf under §5 Medlemskap om rettigheter for medlemmer av ridderordenen.**
+
+#### 5.2 Ridderorden
+
+Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen på livstid.
