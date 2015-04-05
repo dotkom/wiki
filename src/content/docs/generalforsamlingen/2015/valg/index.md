@@ -20,7 +20,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 
 * *Leder:* Pia Lindkjølen, Thor Håkon Bredesen, Caroline Odden
 * *Nestleder:* 
-* *arrKom:* Fredrik Anthonisen, Sondre Johan Widmark
+* *arrKom:* Sondre Johan Widmark
 * *banKom:* Marius Thingwall  
 * *bedKom:* Didrik Pemmer Aalen
 * *dotKom:* 
