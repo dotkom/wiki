@@ -86,7 +86,7 @@ Komiteens hovedoppgave er å utvikle og drifte nettleserutvidelser, mobilapplika
 
 **Nodekomite under dotKom:**
 
-Komiteens forelderkomite er dotKom. Komiteen skal ikke drive med oppgaver som overlapper med dotKoms oppgaver. Komiteen skal være nært tilknyttet dotKom gjennom komiteens leder. Leder av appKom har plikt til å rapportere til dotKom om komiteens drift, og skal ikke pålegges andre arbeidsoppgaver i dotKom. Per §4.3 velges komiteleder for appKom internt i dotKom. Ny leder velges snarest etter linjeforeningens ordinære generalforsamling. Dersom dotKom enten ikke finner en leder eller ikke ønsker å finne en leder, skal appKom selv velge en leder blant sittende komitemedlemmer. Det spesifiseres at de samme reglene gjelder for leder enten vedkommende er valgt av dotKom eller av appKom. **Kanskje stryke den siste setningen? For åpenbart?**
+Komiteens forelderkomite er dotKom. Komiteen skal ikke drive med oppgaver som overlapper med dotKoms oppgaver. Komiteen skal være nært tilknyttet dotKom gjennom komiteens leder. Leder av appKom har plikt til å rapportere til dotKom om komiteens drift, og skal ikke pålegges andre arbeidsoppgaver i dotKom. Per §4.3 velges komiteleder for appKom internt i dotKom. Ny leder velges snarest etter linjeforeningens ordinære generalforsamling. Dersom dotKom enten ikke finner en leder eller ikke ønsker å finne en leder, skal appKom selv velge en leder blant sittende komitemedlemmer.
 
 **Åpent opptak:**
 
