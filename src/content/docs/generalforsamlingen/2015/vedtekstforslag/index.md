@@ -245,7 +245,6 @@ Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen,
 
 **...** og leder for seniorkomiteen.
 
-
 ### Forslag 17 (Pia Lindkjølen)
 
 **Følgende tekst fjernes fra § 4.5 Kontoret**  
@@ -298,3 +297,16 @@ Alt etter femte punktum sløyfes. Økonomisk status (støtte fra nye prosjekter,
 4.3.4 Andre nodekomitéer
 Andre nodekomitéer kan opprettes av onlinemedlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse komitéene formulerer sine egne retningslinjer og budsjett som deretter godkjennes av Hovedstyret. Hovedstyret avgjør også hvorvidt komitéen underlegges en eksisterende komité, eller Hovedstyret selv. Nodekomitéer som har eksitert i to år eller mer skal ha egen budsjett post i foreldrekomitéen og kan bare offisielt nedlegges av Generalforsamlingen. 
 
+### Forslag 23 (Håvard Slettvold)
+*§4.1.1 Hovedstyrets sammensetning Endres til:*
+
+Hovedstyret består av:
+* Leder
+* Nestleder
+* Leder av Arrangementskomiteen
+* Leder av Bank- og økonomikomiteen
+* Leder av Bedriftskomiteen
+* Leder av Drifts- og utviklingskomiteen
+* Leder av Fag- og kurskomiteen
+* Leder av Profil- og aviskomiteen
+* Leder av Trivselskomiteen
