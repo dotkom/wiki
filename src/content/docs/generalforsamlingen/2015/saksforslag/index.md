@@ -37,3 +37,7 @@ title: "2015 Saksforslag"
 ### Forslag 6 (Pia Lindkjølen)
 
 * Informatikernes IT-ekskursjon som en del av Online. (Som en nodekomite under bedKom)
+
+### Saksforslag 7 (Nils Herde)
+
+* Neste hovedstyre skal omformulere komitéretningslinjene så de i større grad følger vedtektenes formelle struktur. Retningslinjene skal inneholde komitéens formål, funksjon, struktur og økonomiske “status” som absolutte minimum. Hensikten er å abstrahere bort spesifikke, og potensielt hemmende begrensninger fra vedtektene. (Vedtektene er vår grunnlov som omtaler idealer, formål og filosofi, mens retningslinjene er detaljstyring som kan finnes i en mer tradisjonell lovtekst)
