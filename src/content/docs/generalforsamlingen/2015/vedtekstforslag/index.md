@@ -260,3 +260,17 @@ fordrer personlig oppmøte"
 
 ** endres til:**  
 "Det skal etterstrebes å holde kontoret åpent for sosialt samvær for medlemmer."
+
+### Forslag 18 (Pia Lindkjølen)
+
+**Følgende tekst endres i §4.7 Mislighold av verv**  
+
+**Fra:**  
+For å beholde et
+beslutningsdyktig og fungerende Hovedstyre vil det kun være mulig å stille mistillitsforslag
+mot ett hovedstyremedlem av gangen. Hovedstyret har to uker på å behandle
+et mistillitsforslag. 
+
+**Til:**  
+
+Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling. 
