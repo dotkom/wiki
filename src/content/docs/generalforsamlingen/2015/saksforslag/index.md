@@ -32,3 +32,8 @@ title: "2015 Saksforslag"
 ### Forslag 5 (Nils Herde) 
 
 * Generalforsamlingen gir Seniorkom en pott for nye prosjekter. 
+
+
+### Forslag 6 (Pia Lindkjølen)
+
+* Informatikernes IT-ekskursjon som en del av Online. (Som en nodekomite under bedKom)
