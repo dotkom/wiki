@@ -197,48 +197,51 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
 **Legger til følgende punkt under §4.1**  
  
 4.1.4 Valg av Hovedstyrets medlemmer  
-*«“Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.*
+Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.  
 
-*Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.”»*
+Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.  
 
 
 ### Forslag 13: (Magnus Kongshem og Jim Tørlen)
 
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer**  
 **Dersom forslag 1 går gjennom og forslag 3 ikke går gjennom.**  
 **Legger til følgende punkt under §4.1**  
 
 4.1.4 Valg av Hovedstyrets medlemmer  
-*«Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.*
+Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.  
 
-*Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.*
+Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.  
 
-*Hvis valg av komitéleder forskyves og faller på en ekstraordinær generalforsamling, faller §4.1.2 fra, og krav til kandidatur er at kandidaten har innehatt et verv i linjeforeningen i minst ett semester.»*
+Hvis valg av komitéleder forskyves og faller på en ekstraordinær generalforsamling, faller §4.1.2 fra, og krav til kandidatur er at kandidaten har innehatt et verv i linjeforeningen i minst ett semester.  
  
 
 
 ### Forslag 14: (Magnus Kongshem og Jim Tørlen)
 
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer**  
 **Dersom forslag 1 går gjennom og forslag 3 og 13 ikke går igjenom.**  
 **Legger til følgende punkt under §4.1**  
  
 4.1.4 Valg av Hovedstyrets medlemmer  
-*«Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.*  
+Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.  
 
-*Hvis en komité ikke skulle klare å stille en kandidaten til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil det bli ekstraordinær generalforsamling hvor §4.1.2 faller fra, og krav til kandidatur er at kandidaten har innehatt et verv i linjeforeningen i minst ett semester.»*
+Hvis en komité ikke skulle klare å stille en kandidaten til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil det bli ekstraordinær generalforsamling hvor §4.1.2 faller fra, og krav til kandidatur er at kandidaten har innehatt et verv i linjeforeningen i minst ett semester.  
 
 
 ### Forslag 15: (Magnus Kongshem og Jim Tørlen)
 
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer**  
 **Dersom forslag 1 eller 2 ikke går gjennom:**  
 **Legger til følgende punkt under §4.1**  
  
 4.1.4 Valg av Hovedstyrets medlemmer  
-*«Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.*
+Lederne for de komiteene som utgjør Hovedstyret, bortsett fra leder av bank- og økonomikomiteen, velges innad i sin respektive komité senest 2 uker før generalforsamlingen. Ledervalget internt i komiteene må godkjennes av generalforsamlingen.  
 
-*Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.»*
+Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.  
 
 ### Forslag 16: (Jim Tørlen)
 
 ** Følgende, forutenom beskrivende(fet), tekst legges til på slutten av punkt 3 i §4.1.1 Hovedstyrets sammensetning. **  
 
-*"og leder for seniorkomiteen."*  
+**...** og leder for seniorkomiteen.
