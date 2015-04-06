@@ -274,3 +274,16 @@ et mistillitsforslag.
 **Til:**  
 
 Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling. 
+
+### Forslag 19 (Pia Lindkjølen)
+
+**Følgende tekst endres i §3.4 Beslutningsdyktighet og avstemming:**  
+
+**Fra:**  
+Antallet defineres som det laveste mellom 15 medlemmer og 1/5 av
+medlemmene. 
+
+**Til:**  
+
+Antallet defineres som det høyeste mellom 15 medlemmer og 1/5 av
+medlemmene. 
