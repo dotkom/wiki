@@ -167,9 +167,7 @@ fartstid i frivillige verv tilknyttet informatikkstudiet.**
 
 ###### 4.6.3.1 Medlemskap
 
-**Utnevnelse skjer ved at ridderordenen overleverer forslag til Hovedstyret om verdige
-kandidater. Valget av disse kandidatene kan kun overstyres med
-kvalifisert flertall i Hovedstyret.**
+**Utnevnelse skjer ved at Hovedstyret vurderer alle nominerte kandidater. Nominasjoner kan komme fra alle medlemmer av linjeforeningen. Kandidater utnevnes ved flertall i Hovedstyret.**
 
 **Annonsering av opptak for riddere av 3. grad gjøres ved en egnet formell
 anledning der en stor mengde medlemmer er tilstede.**
