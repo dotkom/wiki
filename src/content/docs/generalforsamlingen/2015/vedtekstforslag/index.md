@@ -34,14 +34,14 @@ Dersom forslag 1 går gjennom.
 Legge til et ekstra avsnitt:  
 *"Hvis valg av komitéleder faller på ekstraordinær generalforsamling, begrenses kravet til at kandidaten kun må ha innehatt et verv i linjeforeningen i minst ett semester."*
 
-### Forslag 3 (Pia Lindkjølen)
+### Forslag 4 (Pia Lindkjølen)
 4.3.1 Periodiske komiteer  
 Legge til et avsnitt om ekskursjonskomiteen som nodekomite av fagKom. Forslag: 
 
 *"4.3.1.3 Ekskursjonskomiteen  
 Komiteens hovedoppgave er å organisere ekskursjon for studentene i 3.klasse. Komiteen kan selv velge å tillate studenter i eldre årskull å bli med på ekskursjonen, dersom studenten det gjelder ikke har vært på ekskursjon i regi av linjeforeningen tidligere. Ekskursjonskomiteen skal også jobbe for å sikre økonomisk støtte til ekskursjonen. Komiteens forelderkomite er fagKom. Komiteens navn forkortes eksKom."*
 
-### Forslag 4 (Pia Lindkjølen)
+### Forslag 5 (Pia Lindkjølen)
 
 4.3 Nodekomiteer  
 Legge til et avsnitt om Informatikernes IT-ekskursjon som nodekomite under bedkom.
@@ -49,28 +49,28 @@ Legge til et avsnitt om Informatikernes IT-ekskursjon som nodekomite under bedko
 *"4.3.4 Informatikernes IT-ekskursjon  
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter. Denne arrangeres hver høst og har som hovedformål å gjøre masterstudentene kjent med hvilke muligheter som finnes etter endt studie. Komiteen er selvstyrt og tar alle avgjørelser angående ekskursjonen. Komiteens forelderkomite er bedKom. Komiteens navn forkortes itex"*
 
-### Forslag 5 Medlemsskap (Pia Lindkjølen)  
+### Forslag 6 Medlemsskap (Pia Lindkjølen)  
 Medlemsskap  
 Fjerne linjen *"Årsstudium i informatikk"* Da dette studiet ikke lenger eksisterer. 
 
-### Forslag 6 (Thor Håkon Bredesen)
+### Forslag 7 (Thor Håkon Bredesen)
 3 Generalforsamlingen  
 Ifm saksforslag om å endre budsjettperiode til å følge regnskapsperiode må det en endring i vedtekten om når budsjett skal bli godkjent. Utdypelse kommer senere.
 
-### Forslag 7 (Sondre Auestad)
+### Forslag 8 (Sondre Auestad)
 3.4 Beslutningsdyktighet og avstemming  
 Endre teksten slik at blanke stemmer ikke er tellende ved ja/nei-avstemminger.  
 Forslag:  
 I første avsnitt legge til setningen *"Blanke stemmer er ikke tellende, med mindre annet er spesifisert."*
 
-### Forslag 8 (Sondre Auestad)
+### Forslag 9 (Sondre Auestad)
 3.6 Gjennomføring av valg  
 Endre teksten slik at folk kan stemme "ingen" i valgssaker, og dermed skille mellom blanke stemmer og negative stemmer.  
 Forslag:  
 Endre setningen *"Ved avholdt valg vil alle stemmer, inkludert blanke, være tellende."* til:  
 *"Ved avholdt valg er ikke blanke stemmer tellende, men folk kan stemme 'ingen' på valget."*
 
-### Forslag 9: appKom (Michael Johansen)
+### Forslag 10: appKom (Michael Johansen)
 
 **Følgende, forutenom beskrivende (fet), tekst legges til som §4.3.4 Applikasjonskomiteen. Dersom forslaget om eksKom går gjennom blir paragrafnummeret §4.3.5.**
 
@@ -92,7 +92,7 @@ Komiteen har løpende åpent opptak, åpen dør og lav terskel for deltakelse. E
 
 På grunn av utfordringer som kan oppstå med åpent opptak gis komiteleder fullmakt til å begrense adgang til møtene for deltakere som ikke er medlemmer av komiteen. Det spesifiseres at begrensning i hovedsak er ment å brukes dersom komiteen er for stor, eller dersom en deltaker har uakseptabel oppførsel eller innsats. Dersom et komitemedlem har en periode med inaktivitet eller lav deltakelse kan leder velge å avslutte komitevervet til vedkommende.
 
-### Forslag 10: Ridderorden (Håvard Slettvold)
+### Forslag 11: Ridderorden (Håvard Slettvold)
 
 ***§4.6 Eldsterådet* erstattes i sin helhet med forslaget under. Dette forslaget innebærer å trekke sammen tidligere §4.6 og §5.2 til en sammenfattet forklaring av vår ridderorden, samt innskrive riddere av 3. grad i vedtektene.**
 
