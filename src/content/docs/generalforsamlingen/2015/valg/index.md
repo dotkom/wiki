@@ -23,7 +23,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *arrKom:* Sondre Johan Widmark
 * *banKom:* Marius Thingwall  
 * *bedKom:* Didrik Pemmer Aalen
-* *dotKom:* 
+* *dotKom:* Nils Herde 
 * *fagKom:* Christoffer Skar Lofsberg
 * *proKom:* Agnete Djupvik, Signe Elise Livgard
 * *triKom:*  Kristoffer Hajem
