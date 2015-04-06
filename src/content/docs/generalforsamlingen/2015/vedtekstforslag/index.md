@@ -177,6 +177,7 @@ anledning der en stor mengde medlemmer er tilstede.**
 ***§5 Medlemmer* endres for å reflektere inkluderingen av æresmedlemmer og eldsterådet i Riddere av det Indre Lager.**
 
 Følgende er medlemmer av linjeforeningen på livstid:
+
 * <s>Æresmedlemmer</s>
 * Medlemmer av pensjonistkomiteen
 * <s>Medlemmer av Eldsterådet</s>
