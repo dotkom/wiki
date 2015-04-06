@@ -301,6 +301,7 @@ Andre nodekomitéer kan opprettes av onlinemedlemmer som ønsker å dekke et beh
 *§4.1.1 Hovedstyrets sammensetning Endres til:*
 
 Hovedstyret består av:
+
 * Leder
 * Nestleder
 * Leder av Arrangementskomiteen
