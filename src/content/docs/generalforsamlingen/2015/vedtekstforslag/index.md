@@ -287,3 +287,16 @@ medlemmene.
 
 Antallet defineres som det høyeste mellom 15 medlemmer og 1/5 av
 medlemmene. 
+
+### Forslag 20 (Nils Herde)
+4.3
+Alt etter femte punktum sløyfes. Økonomisk status (støtte fra nye prosjekter, fast post på foreldrekomitéens budsjett eller egen økonomiansvarlig) skal stå i nodekomitéens retningslinjer.
+
+### Forslag 21 (Nils Herde)
+4.3.3 Redaksjonen
+“så langt det lar seg gjøre” sløyfes. 
+
+### Forslag 22 (Nils Herde)
+4.3.4 Andre nodekomitéer
+Andre nodekomitéer kan opprettes av onlinemedlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse komitéene formulerer sine egne retningslinjer og budsjett som deretter godkjennes av Hovedstyret. Hovedstyret avgjør også hvorvidt komitéen underlegges en eksisterende komité, eller Hovedstyret selv. Nodekomitéer som har eksitert i to år eller mer skal ha egen budsjett post i foreldrekomitéen og kan bare offisielt nedlegges av Generalforsamlingen. 
+
