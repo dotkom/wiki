@@ -19,7 +19,7 @@ title: "2015 Vedtekter"
 4.1.2 Krav til kandidater  
 Endre fra *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester med unntak(...)"* til *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett semester. For verv utenom leder, nestleder og leder for bank- og økonomikomiteen må kandidaten ha vært medlem av komiteen det stilles til i minst ett semester."*
 
-### Forslag 2 (Magnus Kongshem og Jim Tørlen)
+### Forslag 2: (Magnus Kongshem og Jim Tørlen)
 Dersom forslag 1 ikke går gjennom.  
 
 4.1.2 Krav til kandidater  
@@ -27,7 +27,7 @@ Endre fra *"En kandidat må ha innehatt et verv i linjeforeningen i minst ett se
 
 *Hvis valg av komitéleder faller på ekstraordinær generalforsamling, begrenses kravet til at kandidaten kun må ha innehatt et verv i linjeforeningen i minst ett semester."*  
 
-### Forslag 3 (Magnus Kongshem og Jim Tørlen)
+### Forslag 3: (Magnus Kongshem og Jim Tørlen)
 Dersom forslag 1 går gjennom.  
 
 4.1.2 Krav til kandidater  
@@ -191,7 +191,7 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
 
 
 
-### Forslag 12 (Magnus Kongshem og Jim Tørlen)
+### Forslag 12: (Magnus Kongshem og Jim Tørlen)
 
 **Dersom forslag 2 eller 3 går gjennom:**  
 **Legger til følgende punkt under §4.1**  
@@ -202,7 +202,7 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
 *Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.”»*
 
 
-### Forslag 13 (Magnus Kongshem og Jim Tørlen)
+### Forslag 13: (Magnus Kongshem og Jim Tørlen)
 
 **Dersom forslag 1 går gjennom og forslag 3 ikke går gjennom.**  
 **Legger til følgende punkt under §4.1**  
@@ -216,7 +216,7 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
  
 
 
-### Forslag 14 (Magnus Kongshem og Jim Tørlen)
+### Forslag 14: (Magnus Kongshem og Jim Tørlen)
 
 **Dersom forslag 1 går gjennom og forslag 3 og 13 ikke går igjenom.**  
 **Legger til følgende punkt under §4.1**  
@@ -227,7 +227,7 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
 *Hvis en komité ikke skulle klare å stille en kandidaten til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil det bli ekstraordinær generalforsamling hvor §4.1.2 faller fra, og krav til kandidatur er at kandidaten har innehatt et verv i linjeforeningen i minst ett semester.»*
 
 
-### Forslag 15 (Magnus Kongshem og Jim Tørlen)
+### Forslag 15: (Magnus Kongshem og Jim Tørlen)
 
 **Dersom forslag 1 eller 2 ikke går gjennom:**  
 **Legger til følgende punkt under §4.1**  
@@ -237,7 +237,7 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
 
 *Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen, eller generalforsamlingen ikke godkjenner kandidaten, vil lederen for den respektive komiteen velges av generalforsamlingen etter vanlig benkeforslag.»*
 
-### Forslag 16 (Jim Tørlen)
+### Forslag 16: (Jim Tørlen)
 
 ** Følgende, forutenom beskrivende(fet), tekst legges til på slutten av punkt 3 i §4.1.1 Hovedstyrets sammensetning. **  
 
