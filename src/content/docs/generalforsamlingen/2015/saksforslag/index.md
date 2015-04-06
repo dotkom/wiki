@@ -28,3 +28,7 @@ title: "2015 Saksforslag"
 ### Forslag 4 (Michael Johansen)
 
 * Generalforsamlingen gis myndighet til å endre på innsendte vedtektsforslag før endelig beslutning.
+
+### Forslag 5 (Nils Herde) 
+
+* Generalforsamlingen gir Seniorkom en pott for nye prosjekter. 
