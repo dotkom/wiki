@@ -193,6 +193,7 @@ Personer utnevnt til Ridder av det Indre Lager er medlemmer av linjeforeningen p
 
 ### Forslag 12: (Magnus Kongshem og Jim Tørlen)
 
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer.**  
 **Dersom forslag 2 eller 3 går gjennom:**  
 **Legger til følgende punkt under §4.1**  
  
@@ -204,8 +205,8 @@ Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen,
 
 ### Forslag 13: (Magnus Kongshem og Jim Tørlen)
 
-** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer**  
-**Dersom forslag 1 går gjennom og forslag 3 ikke går gjennom.**  
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer.**  
+**Dersom forslag 1 går gjennom og forslag 3 ikke går gjennom:**  
 **Legger til følgende punkt under §4.1**  
 
 4.1.4 Valg av Hovedstyrets medlemmer  
@@ -219,8 +220,8 @@ Hvis valg av komitéleder forskyves og faller på en ekstraordinær generalforsa
 
 ### Forslag 14: (Magnus Kongshem og Jim Tørlen)
 
-** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer**  
-**Dersom forslag 1 går gjennom og forslag 3 og 13 ikke går igjenom.**  
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer.**  
+**Dersom forslag 1 går gjennom og forslag 3 og 13 ikke går igjennom:**  
 **Legger til følgende punkt under §4.1**  
  
 4.1.4 Valg av Hovedstyrets medlemmer  
@@ -231,7 +232,7 @@ Hvis en komité ikke skulle klare å stille en kandidaten til generalforsamlinge
 
 ### Forslag 15: (Magnus Kongshem og Jim Tørlen)
 
-** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer**  
+** Følgende, forutenom beskrivende(fet), tekst legges til som §4.1.4 Valg av Hovedstyrets medlemmer.**  
 **Dersom forslag 1 eller 2 ikke går gjennom:**  
 **Legger til følgende punkt under §4.1**  
  
@@ -242,6 +243,6 @@ Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen,
 
 ### Forslag 16: (Jim Tørlen)
 
-** Følgende, forutenom beskrivende(fet), tekst legges til på slutten av punkt 3 i §4.1.1 Hovedstyrets sammensetning. **  
+**Følgende, forutenom beskrivende(fet), tekst legges til på slutten av punkt 3 i §4.1.1 Hovedstyrets sammensetning.**  
 
 **...** og leder for seniorkomiteen.
