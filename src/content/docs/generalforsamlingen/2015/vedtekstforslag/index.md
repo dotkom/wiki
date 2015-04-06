@@ -246,3 +246,13 @@ Hvis en komité ikke skulle klare å stille en kandidat til generalforsamlingen,
 **Følgende, forutenom beskrivende(fet), tekst legges til på slutten av punkt 3 i §4.1.1 Hovedstyrets sammensetning.**  
 
 **...** og leder for seniorkomiteen.
+
+
+### Forslag 17 (Pia Lindkjølen)
+
+**Følgende tekst fjernes fra § 4.5 Kontoret**
+"Kontorarealet skal primært brukes til møtevirksomhet for komiteene og Hovedstyret" 
+
+**Neste linje endres fra: ** "Dersom kontoret ikke er opptatt i forbindelse med møtevirksomhet skal det etterstrebes å holde
+kontoret åpent for sosialt samvær og andre ærend medlemmer måtte ha som
+fordrer personlig oppmøte" **til:** "Det skal etterstrebes å holde kontoret åpent for sosialt samvær for medlemmer."
