@@ -11,19 +11,22 @@ Gullblekka 2015 ble arrangert av Mats Byrkjeland (readme), Eskild Bakke (Spikers
 ## Vinnere
 
 #### Årets artikkel (saklig)
-TBA
+(Vannmagasinet) for "Tett på Arne Bredesen"
 
 #### Årets morsomste artikkel
-TBA
+(M-ord) for "Alene på byen"
 
 #### Årets ordsmed
-TBA
+Mikal Bjerga (readme)
 
 #### Årets foto eller illustrasjon
-TBA
+(Nukleotidende) for "Autumn Beauty"
 
 #### Årets design på enkeltsak
-TBA
+(The Sign) for "Styr(k)eprøven"
+
+#### Åpen klasse
+(OmBul) for "Påskekrim"
 
 #### Gullblokka
-TBA
+readme
