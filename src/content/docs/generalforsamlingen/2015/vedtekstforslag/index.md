@@ -295,6 +295,8 @@ Alt etter femte punktum sløyfes. Økonomisk status (støtte fra nye prosjekter,
 “så langt det lar seg gjøre” sløyfes. 
 
 ### Forslag 22 (Nils Herde)
+OBS! Nils svarer gjerne på spørsmål angående dette vedtektsforslaget på forhånd! 
+
 4.3.4 Andre nodekomitéer
 Andre nodekomitéer kan opprettes av onlinemedlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse komitéene formulerer sine egne retningslinjer og budsjett som deretter godkjennes av Hovedstyret. Hovedstyret avgjør også hvorvidt komitéen underlegges en eksisterende komité, eller Hovedstyret selv. Nodekomitéer som har eksitert i to år eller mer skal ha egen budsjett post i foreldrekomitéen og kan bare offisielt nedlegges av Generalforsamlingen. 
 
