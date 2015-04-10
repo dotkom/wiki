@@ -11,9 +11,9 @@ jeg tatt noen screenshots underveis og lagt dem til denne artikkelen. Se
 på dem hvis du trenger, men jeg tror guiden skal være såpass detaljert
 at det ikke skal være nødvendig :-)
 
-DENNE ARTIKKELEN ER UTDATERT, HVERTFALL FOR PRINTERNE PÅ P15.
+**DENNE ARTIKKELEN ER UTDATERT, HVERTFALL FOR PRINTERNE PÅ P15.
 Se Innsida (https://innsida.ntnu.no/utskrift-kopi) for mer info.
-
+**
 
 ### Steg 1:
 
