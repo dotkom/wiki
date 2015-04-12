@@ -22,7 +22,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *Nestleder:* 
 * *arrKom:* Sondre Johan Widmark, Tale Prestmo
 * *banKom:* Marius Thingwall  
-* *bedKom:* Didrik Pemmer Aalen
+* *bedKom:* Didrik Pemmer Aalen, Kristian Svoren
 * *dotKom:* Nils Herde 
 * *fagKom:* Christoffer Skar Lofsberg
 * *proKom:* Agnete Djupvik, Signe Elise Livgard
