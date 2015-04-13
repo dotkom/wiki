@@ -209,7 +209,7 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Hytter:** [BSF](http://bergstud.no), [Janus](http://org.ntnu.no/janus)
 -   **Epostlister:** [Online](online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
--   **Fotograf til galla:**[A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=31)
+-   **Fotograf til galla:** [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=31)
 
 ### Søke om sjenkebevilling til arrangementer
 
