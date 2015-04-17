@@ -2,7 +2,6 @@
 title: "Arvid Holme"
 ---
 
-
 ### Yngre år
 
 Arvid Holme er født og antatt oppvokst i Bergen. Holme studerte ved daværende NTH, og ble sivilingeniør i byggfag en gang på 60-tallet. Under en reise til USA en gang på 1960-tallet fikk han for første gang stifte kjennskap til datamaskiner og programmering, og fra dette øyeblikket var Holme klar over at dette var selve fremtiden. Hva han gjorde etter dette og frem til han startet sin egen PC-butikk er noe ukjent, men han har drevet flere ulike bedrifter.
@@ -15,7 +14,7 @@ Vareutvalget i butikken var bl.a. Sinclair ZX Spectrum.
 
 ### Tiden som foreleser
 
-I 1985 ble Arvid Holme ansatt ved AVH på Lade hvor han fikk i oppdrag å lære informatikere å programmere. I begynnelsen foreleste han i Pascal, men gikk på tidlig 2000-tall over til Java. I løpet av tiden som foreleser fikk han en pris som årets foreleser på NTNU og han ble hedret med det første æresmedlemsskapet i Online. I tillegg til ulike programmeringsfag har han undervist i bla. databaser, algoritmer og datastrukturer, informasjonsgjenfinning og eksperter i team. Sammen med kollega Arvid Staupe stiftet Holme i 2001 selskapet Internet Learning Systems. Dette var et av de første læringsprogrammene for nettbruk ikke ulikt It´s learing og Fronter.
+I 1985 ble Arvid Holme ansatt ved AVH på Lade hvor han fikk i oppdrag å lære informatikere å programmere. I begynnelsen foreleste han i Pascal, men gikk på tidlig 2000-tall over til Java. I løpet av tiden som foreleser fikk han en pris som årets foreleser på NTNU og han ble hedret med det første æresmedlemsskapet i Online. I tillegg til ulike programmeringsfag har han undervist i bla. databaser, algoritmer og datastrukturer, informasjonsgjenfinning og eksperter i team. Sammen med kollega Arvid Staupe stiftet Holme i 2001 selskapet Internet Learning Systems. Dette var et av de første læringsprogrammene for nettbruk, tilsvarende dagens it's learning og Fronter.
 
 ### Fritid og hobbyer
 
