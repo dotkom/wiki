@@ -14,6 +14,8 @@ Blir mer aggresiv på nattestid.
 Betegnet av en spesiell årvåkenhet som kun inntreffer en gang hvert år.
 
 ### Beærede ugler:
+
+* Hanne G. ble utnevnt til ugle på genfors i 2015.
 * Kristian L. aka Nr. 72 ble utnevnt til ugle på genfors i 2012.
 * Elling S.O. ble utnevnt til ugle på genfors i 2011.
 * Erlend K.B. ble utnevnt til ugle på genfors i 2010.
