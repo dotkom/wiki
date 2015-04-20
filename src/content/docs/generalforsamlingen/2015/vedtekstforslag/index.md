@@ -2,6 +2,8 @@
 title: "2015 Vedtekter"
 ---
 
+[TOC]
+
 ---
 * [2015 Saksliste](/wiki/online/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015
 * [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2015/valg) - Er du klar for et verv i Hovedstyret?
