@@ -13,6 +13,7 @@ title: "Generalforsamlingen 2015"
 
 * Vedtekter: [attachment:71]
 * Referat fra generalforsamlingen 2014: [attachment:203]
+* Budsjett og regnskap: https://docs.google.com/spreadsheets/d/1xZBJKfU2GH_BnkOocPEednsOGOOMMqCBE_0PWxIXw3s/edit?usp=sharing
 
 # Informasjon
 
