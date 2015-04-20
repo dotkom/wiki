@@ -288,7 +288,7 @@ medlemmene.
 
 ### Forslag 20 (Nils Herde)
 4.3
-Alt etter femte punktum sløyfes. Økonomisk status (støtte fra nye prosjekter, fast post på foreldrekomitéens budsjett eller egen økonomiansvarlig) skal stå i nodekomitéens retningslinjer.
+Alt etter sjette punktum sløyfes. Økonomisk status (støtte fra nye prosjekter, fast post på foreldrekomitéens budsjett eller egen økonomiansvarlig) skal stå i nodekomitéens retningslinjer.
 
 ### Forslag 21 (Nils Herde)
 4.3.3 Redaksjonen
