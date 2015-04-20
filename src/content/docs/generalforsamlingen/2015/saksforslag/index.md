@@ -21,6 +21,8 @@ title: "2015 Saksforslag"
 
 * Opprette interessegrupper for alle Onlinere. 
 
+* Forslag på rettelse: Hovedstyret skal legge til rette for opprettelse av interessegrupper i Online.
+
 ### Forslag 3 (Michael Johansen)
 
 * Hovedstyret gis anledning til å rette opp i redaksjonelle feil i vedtektene. Dette for at saker der hensikten er klar, men grunnet småfeil i formuleringen kan tolkes tvetydig likevel kan vedtas i henhold til hensikten.
