@@ -1,0 +1,105 @@
+---
+title: "Hovedstyrets nestleder-leker-sjef møte"
+---
+
+
+
+**Møtetidspunkt:** 14:15 rom 054 it-vest
+
+**Servering:** Nils
+
+**Referering:** Nils
+
+**Vinstraff:** 
+
+**Tilstede:** Caroline, Henning, Kathrine, Pia, Marius, PØK, Nils, Erik
+
+**Mangler:** Linn
+
+### 245 Godkjenning av innkalling, servering og referent.
+Godkjent
+
+
+### 246 Status for komiteene.
+
+#### arrKom:  
+- Brunkulla er ikke nødvendigvis utleibar til neste år. Sjekker!
+- Temafest 4. mars. Potensielt helt gratis
+- Studenterhytta blir 17. april
+- 17. mai middag er "in the making"
+- Teambuilding på lørdag. "Tror vi"
+- Bord på kjelleren er hentet
+  
+#### banKom:
+- Regnskap HS vises frem. Alt ser bra ut! 
+
+#### bedKom:
+- Simula bedpress er full
+- Bekk er Full
+- Diskuterer nye bedpresskonsepter
+- Tilbakemeldinger til tider useriøse, men ikke stort problem foreløpig
+- Omstrukturering av bookingrunden diskuteres
+- Budsjett diskuteres i neste uke
+
+#### dotKom: 
+- 
+
+
+#### fagKom, med eksKom:
+- Ekskom: Har ny leder og nestleder. 
+    -- Har sendt ut mail til Onlinere om at det tas opp nye medlemmer
+    Usikker på antall søkere
+- Bekk-kurs -> all good
+- Booking-gruppa skal ha møte
+- Blir C-kurs med Erik Lote - Blir kanskje kjøpt pizza
+- Trenger en ny Åsmund for eksamenskurs(!)
+- Pia og førsteklassinger drar på Oslotur
+- Har kjøpt kaffekanne
+- Finn blir vanlig kurs. Ikke hackaton. 
+
+#### proKom:
+- Hadde bra servering 
+- Offline er lansert. Marius er nevnt ved navn
+- Neste er påpegynt
+- Snakkes med Sverre om kontakt med IDI for skriverier i neste Offline som skal sendes ut. 
+- Strikkeoppskrift skal legges ut på nett
+- Årbok brekkes til helga
+- Alle må være med på genfors
+
+#### triKom:
+- Har jobbet med budsjett
+- Skal reformatere kontorPC for emulator ol.
+- Blir IKEA-tur for nye ting til PC-kroken
+
+
+### 249 Leder av velKom
+- Begge kandidater virker bra. Tar intervju med begge og setter dem på hver sin plass avhengig av det. 
+
+### 250 Labamba
+- Caroline og Erik går. Kathrine og PØK tentativt. Pia er Gdansk. 
+
+### 251 Hackerspace
+- Caroline tar kontakt og melder seg som kontaktperson. 
+
+### 252 Gaver til jubileum
+
+### 253 Ukens infomail. 
+- Det blir infomail
+
+### 254 Eventuelt.
+- Abapusteambuilding
+-- De har glemt det, poke dem. 
+- HS gjør ting de ikke kan. Nils hører litt rundt. 
+
+### 255 Forespørsler som har kommet på epost
+- Notipi
+- Machine learning
+- IME. Kathrine (+ Pia)
+- Nito Studentene 
+- Støtte til Ekskom 2015. 
+- Allergi-epost. Marius svarer. Vi får ikke gjort noe med falske allergier. 
+- Filmingen. Ikke-sak
+- Nils tar Erudio
+
+### 255 Møteevaluering.
+- Caroline er flink vikar
