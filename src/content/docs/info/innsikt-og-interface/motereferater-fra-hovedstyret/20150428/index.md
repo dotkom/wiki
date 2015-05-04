@@ -1,5 +1,5 @@
 ---
-title: "2015-04-28 - Hovedstyrets første piamøte"
+title: "Hovedstyrets første piamøte"
 ---
 
 **Møtetidspunkt:** 14:15 rom 054 it-vest
