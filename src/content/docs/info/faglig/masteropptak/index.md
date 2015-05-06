@@ -3,8 +3,7 @@ title: "Masteropptak"
 ---
 
 For opptaket til master i informatikk trenger man et godt snitt på et
-utvalg av emnene. Dette er den oppdaterte listen som ble utlevert fra
-Langbakk 30.11.2012
+utvalg av emnene. Dette er en liste fra 30.11.2012
 
 Emnene som teller på masteropptak for 2013/2014 er følgende:
 -------------------------------------------------------------
@@ -48,4 +47,4 @@ Emnene som teller på masteropptak for 2013/2014 er følgende:
 
 Kilde: [Studieplanen for de forskjellige årskullene](http://www.ntnu.no/studier/studieplan-realfag#programmeCode=BIT)
 
-Det skjer stadig endringer i fagkombinasjoner og hvilke emner som er tilgjengelig, så det er viktig å holde seg oppdatert med studiehåndboken og å besøke Langbakk en gang i blant. Dersom du startet før 2013 finner du ikke din plan på siden og du bør sende en mail til Erik Langbakk for mer info. 
+Det skjer stadig endringer i fagkombinasjoner og hvilke emner som er tilgjengelig, så det er viktig å holde seg oppdatert med studiehåndboken og å besøke studieveileder en gang i blant. Dersom du startet før 2013 finner du ikke din plan på siden og du bør sende en mail til studieveileder for mer info. 
