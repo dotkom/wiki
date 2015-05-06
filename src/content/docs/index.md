@@ -46,7 +46,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-
+- [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
 
 [Historie om linjeforeningen og komiteene](/wiki/online/historie/)
 ----------------------------------------
