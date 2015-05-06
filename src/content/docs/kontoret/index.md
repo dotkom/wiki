@@ -20,7 +20,7 @@ Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent
 Kaffe er gratis, det er bare å lage! =)
 Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kanna, slik at andre kan se når kaffen ble laget.
 
-For en full kanne lønner det seg å bruke 6 flate kaffeskjeer med kaffe og fylle vann til "1 1/4"-merket. Husk å ta opp dryppstoppen!!!
+For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fylle vann til "2.2 l"-merket.
 
 ## Annet
 
@@ -37,3 +37,4 @@ Telefonnummeret til kontoret er 73 59 64 89
 
 - [Kontorvakt](/wiki/online/kontoret/kontorvakt)
 - [For komitémedlemmer](https://online.ntnu.no/wiki/komiteer/kontoret/)
+- [Handleliste](/wiki/online/kontoret/handleliste)
