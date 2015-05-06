@@ -8,4 +8,3 @@ title: "Innsikt & Interface"
 - [Infoscreen](/wiki/online/info/innsikt-og-interface/infoscreen/) - En del av Notifier som gir infoskjerm og kontorskjerm til linjeforeninger
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-- [Stillingstitler på engelsk](/wiki/online/info/innsikt-og-interface/stillingstitler-pa-engelsk/)
