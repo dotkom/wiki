@@ -6,10 +6,10 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 
 ###Mangler
 
--Gaffler
--Dype tallerkener
+- Gaffler
+- Dype tallerkener
 
 ###Ønsker
 
--Snickers-is
--Krone-is
+- Snickers-is
+- Krone-is
