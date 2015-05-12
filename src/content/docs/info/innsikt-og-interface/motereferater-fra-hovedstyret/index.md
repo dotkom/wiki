@@ -6,7 +6,8 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
-
+- [2014-12-05](20150512) - Hovedstyrets sommermøte
+- [2014-05-05](20150505) - Hovedstyrets ryddebodenmøte
 - [2014-05-05](20150505) - Hovedstyrets ryddebodenmøte
 - [2015-04-28](20150428) - Hovedstyrets første piamøte
 - [2015-04-21](20150421) - Hovedstyrets lykketilmøte
