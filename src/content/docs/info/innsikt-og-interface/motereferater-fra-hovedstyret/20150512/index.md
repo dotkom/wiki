@@ -148,7 +148,7 @@ title: "Hovedstyrets sommermøte"
 * Bra møte.  
 * Bra servering, jævlig faste og gode brownies
 * Det stemmes hvorvidt det skal være hjemmelaget servering, og med kjærleik
-	* **8 for, 1 imot**
+	
  
 * Møtet er hevet 16.39
 
