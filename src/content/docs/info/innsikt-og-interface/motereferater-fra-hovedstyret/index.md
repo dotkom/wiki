@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 
+- [2014-05-05](20150505) - Hovedstyrets ryddebodenmøte
 - [2015-04-28](20150428) - Hovedstyrets første piamøte
 - [2015-04-21](20150421) - Hovedstyrets lykketilmøte
 - [2015-03-10](20150310) - Hovedstyrets marsmøte
