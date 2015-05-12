@@ -13,6 +13,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2015-03-10](20150310) - Hovedstyrets marsmøte
 - [2015-03-03](20150303) - Hovedstyrets vedtektsmøte
 - [2015-02-24](20150224) - Hovedstyrets nestleder-leker-sjef møte
+- [2015-02-17](20150217) - Hovedstyrets SFUmøte
 - [2015-02-03](20150203) - Hovedstyrets årbokmøte
 - [2015-01-27](20150127) - Hovedstyrets komitemøte
 - [2015-01-20](2015-01-20) - Hovedstyrets post-Åremøte
