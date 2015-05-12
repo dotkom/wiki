@@ -49,8 +49,8 @@ title: "Hovedstyrets ryddebodenmøte"
 
 #### dotKom:   
 
-- Siste møte forrige uke med avslutningskveld for Håvard
-- Snakket litt rundt kjellersystemet, ettersom Håvard slutter
+- Siste møte forrige uke
+- Snakket litt rundt kjellersystemet
     - Skal hoste systemet, men ikke vedlikeholde
     - Skal snakke mer med realfagskjelleren
 - Snakket om opptak
