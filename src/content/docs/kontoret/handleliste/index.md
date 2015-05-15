@@ -6,7 +6,6 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 
 ###Mangler
 
-- Kopper
 - Tannpirkere
 
 ###Ønsker
