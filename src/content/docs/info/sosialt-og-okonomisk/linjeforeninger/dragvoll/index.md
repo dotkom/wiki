@@ -27,7 +27,7 @@ Tilhørende wikisider
 |---|---|---|---|---|---|
 | Akwaaba | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995924226) | Afrikastudier | | [Group](http://fb.com/groups/495389020623/) | akwaabapost.ntnu@gmail.com |
 | [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com |
-| [CAF](http://www.cafidrett.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | | cafidrett@gmail.com |
+| [CAF](http://www.cafidrett.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | [Page](http://fb.com/citiusaf) | cafidrett@gmail.com |
 | [Communitas](http://sosantntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998359910) | Sosialantropologi | | [Person](http://fb.com/profile.php?id=100005081378226), [Group](http://fb.com/groups/523915897703998/) | sosant.ntnu@gmail.com |
 | [De Folkevalgte](http://www.defolkevalgte.net/) | | Statsvitenskap | | [Page](http://fb.com/defolkevalgte), [Person](http://fb.com/thomashobbesdf) | defolkevalgte@gmail.com |
 | [De Passe Simple](http://org.ntnu.no/dps/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=895213632) | Fransk | 7-508 (bygg 7, nivå 5) | [Group](http://fb.com/groups/5656499932/) | depassesimple@gmail.com |
