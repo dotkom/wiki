@@ -103,6 +103,13 @@ og gifta'a bort til Jone!
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
 
+Jeg meldte meg i Abakus,  
+Jeg ville programmere.  
+Men ingen sa jeg aldri  
+skulle se en jente mer'e
+
+-- 
+
 jeg pratet litt med rektor'n vår  
 jeg skulle inn på teppet  
 men det vakke kjeft å få  
