@@ -5,7 +5,7 @@ title: "Slik lager du bruker på Onlineweb"
 Hvordan registrere en bruker på Onlineweb på 1-2-3-4-5!
 
 1. Etter at du har navigert deg til online.ntnu.no trykker du på hengelåsen, som er inne i den oransje sirkelen på bildet nedenfor.  
-
+1.
 [image:243 align:right]
     Trykk på hengelåsen
 
