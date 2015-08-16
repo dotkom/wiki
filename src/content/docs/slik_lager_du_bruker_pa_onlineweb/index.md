@@ -6,12 +6,12 @@ Hvordan registrere en bruker på Onlineweb på 1-2-3-4-5!
 
 1. Etter at du har navigert deg til online.ntnu.no trykker du på hengelåsen, som er inne i den oransje sirkelen på bildet nedenfor.  
 
-[image:243 align:left]
+[image:243 align:right]
     Trykk på hengelåsen
 
 2. Da får du opp påloggingsvinduet, her trykker du på registrer.  
 
-[image:244 align:left]
+[image:244 align:right]
     Trykk på "registrer"
 
 3. Fyll ut skjemaet med nødvendig informasjon og trykk på "registrer" nederst på siden. Registrer studentmailen din som e-postadresse.  
