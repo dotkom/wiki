@@ -24,7 +24,7 @@ Hvordan registrere en bruker på Onlineweb på 1-2-3-4-5!
 [image:246 align:right]
     Bilde 4: Trykk på "min side"
 
-5: Om du er berettiget for medlemskap i Online (student ved bachelor eller master i informatikk) kan du søke om det ved å trykke på "medlemskap" på din "min side". Fyll ut nødvendig informasjon og søk i vei!
+5: Om du er berettiget for medlemskap i Online (student ved bachelor eller master i informatikk) kan du søke om det ved å trykke på "medlemskap" på din "min side". Fyll ut nødvendig informasjon og søk i vei! Om du er masterstudent fyller du inn når du startet på master.
 
 [image:247 align:right]
     Bilde 5: Søk om medlemskap
