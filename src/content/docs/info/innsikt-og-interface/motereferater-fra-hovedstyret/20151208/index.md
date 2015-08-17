@@ -189,14 +189,14 @@ Trikom vil ta kontakt med vedkommende og gjennomføre et prøveprosjekt til nest
 
 ## 37 Immballinvitasjoner 
 
-Omega, 3.sept - svarfrist 16. aug  - Auestad & christoffer
-Placebo, 27. aug - svarfrist 18. aug – Christoffer og Sondre Auestad
-Berg, 3. sept - svarfrist 18. aug  - Dre og Kristian
-Nabla, 2. sept - svarfrist 20. aug  - Agnete
-Smørekoppen, 28.aug - svarfrist 21. aug  - Kristian, Dre, Christoffer. 
-Spanskrøret, 11. sept - svarfrist 26. aug  - Kristian og Auestad
-Leonardo, 5. sept - svarfrist 26. aug  - Nils, Dre, spør om TH kan.
-Delta, 5. sept svarfrist 28. aug  - Christoffer og Agnete, muligens TH.
+Omega, 3.sept - svarfrist 16. aug  - Auestad & christoffer  
+Placebo, 27. aug - svarfrist 18. aug – Christoffer og Sondre Auestad  
+Berg, 3. sept - svarfrist 18. aug  - Dre og Kristian  
+Nabla, 2. sept - svarfrist 20. aug  - Agnete  
+Smørekoppen, 28.aug - svarfrist 21. aug  - Kristian, Dre, Christoffer.   
+Spanskrøret, 11. sept - svarfrist 26. aug  - Kristian og Auestad  
+Leonardo, 5. sept - svarfrist 26. aug  - Nils, Dre, spør om TH kan.  
+Delta, 5. sept svarfrist 28. aug  - Christoffer og Agnete, muligens TH.  
 
 
 
