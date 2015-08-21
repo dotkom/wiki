@@ -6,6 +6,12 @@ I 2000 fikk Online og [Volvox & Alkymisten](http://org.ntnu.no/volvox) tildelt s
 
 Senere lot vi [Delta](http://org.ntnu.no/delta) og [Spanskrøret](http://www.spanskroret.no) inn i varmen og skiftet navn til Realfagskjelleren.
 
+## Kontakt
+
+Kjellerstyret nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
+
+Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:realfagskjellern-opptak@list.stud.ntnu.no)
+
 
 ## Onlinere i Kjellerstyret
 
