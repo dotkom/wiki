@@ -10,7 +10,7 @@ title: "Hovedstyret Thor-Båkon-har-tatt-roret-pia-er-borte-hvordan-skal-dette-g
 
 **Vinstraff:** Marius, Nils (ikke publisert referat)
 
-**Ølstraff:** Nils (ikke sett på masker)
+**Ølstraff:** Nils 
 
 **Tilstede:** Kristian, Aggie, Nils, THB, Petter (ITV), Sondre, Dre, Caroline (vikar for Kongsy)
 
