@@ -124,6 +124,6 @@ Fyll ut 26. aug
 	Hvor viktig er det med onlinefarger på masken? Ikke viktig
 
 ## 55 Immballinvitasjoner 
-	Check
+Check
 
 ## 56 Møteevaluering 
