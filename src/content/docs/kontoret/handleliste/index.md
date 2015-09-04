@@ -6,7 +6,7 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 
 ###Mangler
 
-Zalo
+- Zalo
 
 ###Ønsker
 
