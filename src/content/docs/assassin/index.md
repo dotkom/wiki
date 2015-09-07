@@ -10,7 +10,7 @@ For å være en deltaker må man sende mail til organisatoren innen fristen, med
 
 Man bør holde det hemmelig hvorvidt man har meldt seg på eller ikke, og også hvorvidt man er eliminert eller ikke.
 
-Eliminering og utdeling av mål
+Utdeling av mål og eliminering
 ------------------
 Alle deltakere får ved start av runden en annen deltaker som sitt mål. Når man eliminerer målet sitt, vil man få den eliminertes mål som sitt neste. Tildeling av mål vil gjøres via mail av organisatoren.
 
