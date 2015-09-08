@@ -6,7 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
-- [2015-09-01](20150901) - Hovedstyrets Kristian-har-endelig-kommet-til-makten-møte
+- [2015-09-01](20150901) - Hovedstyrets Kristian-har-kommet-til-makten-møte
 - [2015-08-25](20150823) - Hovedstyrets Thor-Bakon-har-tatt-roret-pia-er-borte-hvordan-skal-dette-gå-møte
 - [2015-08-19](20150819) - Hovedstyrets Pia-skal-på-ferie-møte
 - [2015-12-08](20151208) - Hovedstyrets første møte for semesteret  
