@@ -1,5 +1,5 @@
 ---
-title: "Hovedstyrets Kristian-har-kommet-til-makten-møte"
+title: "Hovedstyrets Kristian-har-endelig-kommet-til-makten-møte"
 ---
 
 **Møtetidspunkt:** 12.15 - rom 354 it-vest
