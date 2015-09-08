@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2015-08-25](20150823) - Hovedstyrets Thor-Bakon-har-tatt-roret-pia-er-borte-hvordan-skal-dette-gå-møte
+- [2015-08-19](20150819) - Hovedstyrets-pia-skal-på-ferie-møte
 - [2015-12-08](20151208) - Hovedstyrets første møte for semesteret  
 - [2014-12-05](20150512) - Hovedstyrets sommermøte
 - [2014-05-05](20150505) - Hovedstyrets ryddebodenmøte
