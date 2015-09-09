@@ -3,7 +3,9 @@ title: "Kontorvakt"
 ---
 
 ##Hvordan være kontorvakt
-Som kontorvakt har man noen oppgaver og ansvar. Her kan man få oversikt over hva dette innebærer!
+Som kontorvakt har man noen oppgaver og ansvar. Uten deg blir faktisk kontoret stengt. Det er derfor viktig å presisere at man må være presis til vaktene sine; det er ikke akademisk kvarter på vaktene!
+
+Her følger en oversikt over hva dette innebærer.
 
 #Ansvar og oppgaver
 
