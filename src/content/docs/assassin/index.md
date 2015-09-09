@@ -6,7 +6,7 @@ Assassin er et spill hvor målet er å eliminere andre spillere med liksomvåpen
 
 Påmelding
 ------------------
-For å være en deltaker må man sende mail til organisatoren innen fristen, med et anonymt nick samt et bilde. Nicket skal brukes for oppslagstavle hvor man kan følge med på spillet, mens bildet er for å kunne gjenkjenne målet sitt.
+For å være en deltaker må man sende mail til organisatoren innen fristen, med fullt navn, et anonymt nick, samt link til din facebookprofil. Nicket skal brukes for oppslagstavle hvor man kan følge med på spillet, mens facebook er for å kunne gjenkjenne målet sitt.
 
 Man bør holde det hemmelig hvorvidt man har meldt seg på eller ikke, og også hvorvidt man er eliminert eller ikke.
 
