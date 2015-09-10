@@ -26,9 +26,7 @@ Når en deltaker er eliminert er denne ute av spillet. Overnevnte regel om avsl�
 ------------------
  Det er flere områder som ikke er i spill:
 
- - Forelesningssaler
  - Møterom under møter
- - Datasaler
 
  Utenom disse områdene er alt i spill.
 
