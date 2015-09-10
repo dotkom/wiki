@@ -69,6 +69,32 @@ det burde ikke vært så galt
 men flomma jo som Themsen
 
 --
+
+Jeg drakk min egen sæd i går,
+og havna på klinikken.
+Doktor'n sa "det va'kke bra",
+og amputerte pikken.
+
+--
+
+Jeg hoppet ut fra Bybrua,
+jeg trodde det var whisky.
+Men akk og stakkars arme meg,
+det var jo vann med fisk i.
+
+--
+
+En jægersmann på linja gikk,
+så hørt'n toget ula.
+Konduktør'n av toget gikk
+og skrapt'n vekk av hjula.
+
+--
+
+Jeg hadd' en onkel Theodor,
+han har jeg ikke mere,
+for han tok feil av H2O
+og H2SO4.
   
 _Ymse Bergjubileumsvers_
 
