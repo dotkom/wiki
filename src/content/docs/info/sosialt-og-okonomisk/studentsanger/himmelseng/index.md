@@ -95,6 +95,13 @@ Jeg hadd' en onkel Theodor,
 han har jeg ikke mere,  
 for han tok feil av H2O  
 og H2SO4.  
+
+--
+
+Jeg var så kåt, så kåt en kveld,  
+jeg putta den i kverna.  
+Da jeg trakk den ut igjen  
+var hele hodet fjerna.
   
 _Ymse Bergjubileumsvers_
 
