@@ -24,11 +24,11 @@ Når en deltaker er eliminert er denne ute av spillet. Overnevnte regel om avsl�
 
  Spillområde
 ------------------
- Det er flere områder som ikke er i spill:
+ Områder som ikke er i spill:
 
  - Møterom under møter
 
- Utenom disse områdene er alt i spill.
+ Ellers er alt i spill.
 
 Våpen
 ------------------
