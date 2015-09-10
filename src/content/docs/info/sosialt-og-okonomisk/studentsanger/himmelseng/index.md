@@ -12,10 +12,10 @@ Det oppfordres her til at folk dokumenterer hendelser i form av vers til denne s
 
 ### Første vers
 
-jeg ønsker meg en himmelseng  
-en himmelseng med speil i  
+Jeg ønsker meg en himmelseng  
+en himmelseng med speil i,  
 så jeg kan ligge og speile meg  
-og se hvor jeg er deilig  
+og se hvor jeg er deilig.  
 
 ### Refreng
 
