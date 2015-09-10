@@ -7,6 +7,7 @@ title: "Kontorvakt"
 #Ansvar og oppgaver
 
 **Oppmøteplikt**
+
 Som kontorvakt har man oppmøteplikt. Du har oppgaver og ansvar, og uten deg blir faktisk kontoret stengt. Det er derfor viktig at man er presis til vaktene sine; det er ikke akademisk kvarter på vaktene!
 
 Har du ikke mulighet til å komme på en vakt må du finne en annen å bytte med, og sende mail til [triKom](mailto:trikom@online.ntnu.no) med hvem og når du har byttet.
