@@ -145,9 +145,9 @@ så UA måtte deppe
 
 _Magnus Kongshem_
 
-Jeg skulle vinne Tour de Øl
-jeg måtte ut å klatre
-men klatringa ble litt for hard
+Jeg skulle vinne Tour de Øl  
+jeg måtte ut å klatre,  
+men klatringa ble litt for hard  
 jeg måtte finne bøtte
 
 _Marius Krakeli's vers_  
