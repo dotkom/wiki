@@ -10,11 +10,13 @@ For å være en deltaker må man sende mail til organisatoren innen fristen, med
 
 Man bør holde det hemmelig hvorvidt man har meldt seg på eller ikke, og også hvorvidt man er eliminert eller ikke.
 
+Dersom man vet identiteten til en annen deltaker skal denne ikke avsløres til en annen deltaker. Dette vil føre til diskvalifikasjon, og er generelt ødeleggende for spillet.
+
 Utdeling av mål og eliminering
 ------------------
 Alle deltakere får ved start av runden en annen deltaker som sitt mål. Når man eliminerer målet sitt, vil man få den eliminertes mål som sitt neste. Tildeling av mål vil gjøres via mail av organisatoren.
 
-Dersom man vet identiteten til en annen deltaker skal denne ikke avsløres til en annen deltaker. Dette vil føre til diskvalifikasjon, og er generelt ødeleggende for spillet.
+Det er til enhver tid to mål du har lov til å drepe. Den personen som er ditt mål, og den som har deg som mål. Det er altså lov å ta ut den som har deg som mål hvis du finner ut hvem det er, eller klarer å forsvare deg i et angrep.
 
 Dersom et mål elimineres med vitner, vil elimineringen annuleres og målet vil forbli det samme. Dette forekommer dersom; deltakerens forsøk på eliminering er observet av flere 3. parter på en måte der det entydig og klart observeres hvem som er "assassin", mål, og hvordan elimineringen bler forsøkt utført.
 
