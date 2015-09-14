@@ -102,6 +102,13 @@ Jeg var så kåt, så kåt en kveld,
 jeg putta den i kverna.  
 Da jeg trakk den ut igjen  
 var hele hodet fjerna.
+
+--
+
+Jeg satt på sal en fredagskveld,  
+jeg følte meg litt sliten.  
+Øvinga den ble for lang,  
+jeg kokte hele skiten.  
   
 _Ymse Bergjubileumsvers_
 
@@ -125,11 +132,6 @@ Så kom jeg til utsetning
 Vi pulte hele natten  
 
 --
-
-Jeg satt på sal en fredagskveld,  
-jeg følte meg litt sliten.  
-Øvinga den ble for lang, 
-jeg kokte hele skiten.  
 
 _Jone Trovågs vers_  
 
