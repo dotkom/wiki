@@ -126,6 +126,11 @@ Vi pulte hele natten
 
 --
 
+Jeg satt på sal en fredagskveld,  
+jeg følte meg litt sliten.  
+Øvinga den ble for lang, 
+jeg kokte hele skiten.  
+
 _Jone Trovågs vers_  
 
 Jeg møtte en gang en bergjente,  
