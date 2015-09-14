@@ -18,7 +18,7 @@ Alle deltakere får ved start av runden en annen deltaker som sitt mål. Når ma
 
 Det er til enhver tid to mål du har lov til å drepe. Den personen som er ditt mål, og den som har deg som mål. Det er altså lov å ta ut den som har deg som mål hvis du finner ut hvem det er, eller klarer å forsvare deg i et angrep.
 
-Dersom et mål elimineres med vitner, vil elimineringen annuleres og målet vil forbli det samme. Dette forekommer dersom; deltakerens forsøk på eliminering er observet av flere 3. parter på en måte der det entydig og klart observeres hvem som er "assassin", mål, og hvordan elimineringen bler forsøkt utført.
+Dersom et mål elimineres med vitner, vil elimineringen annuleres og målet vil forbli det samme. Dette forekommer dersom; deltakerens forsøk på eliminering er observet av flere tredjeparter på en måte der det entydig og klart observeres hvem som er "assassin", mål, og hvordan elimineringen bler forsøkt utført.
 
  Ved eliminasjon skal det meldes inn av den eliminerte. Meldingen skal inneholde "assassinens" nick samt hvordan eliminasjonen ble utført.
 
