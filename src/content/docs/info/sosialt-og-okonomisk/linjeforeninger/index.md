@@ -102,20 +102,20 @@ Arrangementer der linjeforeningene inviterer hverandre
 ### Søke økonomisk støtte
 
 -   **Kulturstyret**, SiT ved Kulturstyret deler ut 1.000.000 i året
-    -   Les mer på [sit.no/om-sit/studentorganisasjoner](sit.no/om-sit/studentorganisasjoner)
+    -   Les mer på [sit.no/forening/støtte-til-foreninger](https://www.sit.no/forening/st%C3%B8tte-til-foreninger)
     -   På høsten tildeles midler til oppstartsprosjekter (ny
         linjeforening, nytt band, ny webside, osv)
     -   På våren tildeles midler til drift (videreføring, vedlikehold,
         osv), det er her brorparten av midlene deles ut
 -   **Prosjektmidler**, Studenttinget deler ut opptil 45.000 i året til
     nyoppstartede prosjekter
-    -   Les mer på [www.studenttinget.no/prosjektmidler](www.studenttinget.no/prosjektmidler)
+    -   Les mer på [www.studenttinget.no/prosjektmidler](http://www.studenttinget.no/prosjektmidler)
     -   Midlene skal støtte opp under tiltak for å fremme en sak eller
         et tema som den søkende organisasjonen ønsker belyst
     -   Prosjektet må være til gode for en god del studenter på NTNU
 -   **Repromidler**, Studenttinget refunderer opptil 50% av
     trykkekostnader dersom man har brukt NTNU Trykk
-    -   Les mer på [www.studenttinget.no/repromidler](www.studenttinget.no/repromidler)
+    -   Les mer på [www.studenttinget.no/repromidler](http://www.studenttinget.no/repromidler)
     -   På høsten er søknadsfristen 1. oktober
     -   På våren er søknadsfristen 1. mars
 -   **Rektorpotten**, rektor på NTNU deler ut 1.000.000 i året
@@ -133,12 +133,12 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Søknader behandles fortløpende
 -   **Akan**, støtter alkoholfrie arrangementer
     -   Finn søknadsskjemaet for “Midler til rusmiddelforebyggende
-        arbeid blant studenter” på [akan.no](akan.no)
+        arbeid blant studenter” på [akan.no](http://akan.no)
     -   Send inn skjema og budsjett for aktiviteten det søkes penger for
     -   Legg merke til frist
 -   **Tilretteleggingstjenesten** ved Studentservice på NTNU deler ut
     25.000,- i året
-    -   Les mer på [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement][]
+    -   Les mer på [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement](https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement)
     -   Midlene det søkes om skal bidra til å øke muligheten for at
         studenter med funksjonsnedsettelse kan delta
     -   Foreningen/organisasjonen må være Brønnøysundsregistrert
