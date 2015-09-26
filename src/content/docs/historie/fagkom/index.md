@@ -44,6 +44,7 @@ Medlemmer
 
 |År|Leder| Medlemmer |
 |----|---| -------- |
+|2015-2016|**Christoffer Skar Lofsberg**|Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Fredrik Berg, Jan Michael Olsen, Christina Hellenes Andresen, Andreas Aursand, Kristiane Alvarstein Westgård, Christian Nyvoll, Thomas Wold, Henrik Tobias Munkeberg, Vilde Mariussen, Truls Mørk Pettersen(Permittert), Trond Christer Leganger(Permittert), Pia Karlsen Lindkjølen(Permittert)|
 |2014-2015|**Pia Karlsen Lindkjølen**|Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Truls Mørk Pettersen, Ingeborg Ødegård Oftedal, Fredrik Berg, Fredrik Bye, Trond Christer Leganger, Jan Michael Olsen, Christina Hellenes Andresen, Christoffer Lofsberg,Paul Philip Mitchell, Henning Moberg Wold(Permittert), Linn Vikre(Permittert)|
 |2013-2014|**Henning Moberg Wold**|Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Pia Karlsen Lindkjølen, Truls Mørk Pettersen,Paul Philip Mitchell, Ingeborg Ødegård Oftedal, Fredrik Berg, Peter Jensen, Linn Vikre(Permittert)|  
 |2012-2013|**Linn Vikre**| Dag Erik Vikan, Kristian Laskemoen, Henning Moberg Wold, Nina Margrethe Smørsgård, Fredrik Soløy, Nikolai Krill, Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Pia Karlsen Lindkjølen, Truls Mørk Pettersen|  
