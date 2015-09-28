@@ -6,7 +6,8 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
-- [2015-09-15](20150915) - Hovedstyrets Sopra-Steria-har-kurs-møte
+- [2015-09-22](20150922) - Hovedstyrets Sopra-Steria-har-kurs-møte
+- [2015-09-15](20150915) - Hovedstyrets Alle-er-slitne-etter-immball-møte
 - [2015-09-08](20150908) - Hovedstyrets Pia-er-tilbake-møte
 - [2015-09-01](20150901) - Hovedstyrets Kristian-har-endelig-kommet-til-makten-møte
 - [2015-08-25](20150823) - Hovedstyrets Thor-Bakon-har-tatt-roret-pia-er-borte-hvordan-skal-dette-gå-møte
