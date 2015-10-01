@@ -258,9 +258,9 @@ Nesten alle Gløshaugens linjeforeninger har kontorlokaler. Disse har
 varierende aktivitetsnivå, alt fra én time i uken til fullt hus til alle
 døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
-tilbake til oss på kontakt@online.ntnu.no
+tilbake til oss på kontakt@online.ntnu.no    
 
-[image:184 align:left]
+[image:257 align:left]
     Gløshaugenkartet 1.7
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601
