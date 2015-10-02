@@ -271,7 +271,7 @@ kaffedrikking.
 |---|---|---|---|---|---|---|---|---|
 |2003h-2004h|Patrick Mostad|Jørgen Hovelsen|Bjørnar Jønsberg, Asgeir Ingebrigtsen|Silje Sletteng|Mari Lie Hæreid|May Linda Martinsen|Steinar Hagen|Kari Korntorp|
 |2002h-2003h|Patrick Mostad|Kristoffer Strømsvåg|Asgeir Ingebrigtsen|Silje Sletteng|Erik Nikolai Olne|Geir G. Pedersen||Aanund Austrheim|
-|2001h-2002h|Aanund Austrheim|||Linn Kristin Knudsen|Erik Nikolai Olne||Torgeir Sesseng||
+|2001h-2002h|Aanund Austrheim||Linn Kristin Knudsen||Erik Nikolai Olne||Torgeir Sesseng||
 |2000h-2001h|Laila Jøssund/Åste Reppe||Thomas N. Ertkjern||Martin Kulhawzhuc (slaver: Gunnhild Aasprang, Ingvild Granum)|Øyvind Lillerødvann (slaver: Thomas Nedland Ertkjern, Linn Kristin Knudsen)|Ida Uran Jørgensen (slave: Marius Mikalsen, web: Ola Eirik Klingen)|Øyvind Vestavik|
 
 (kjellersjef 2000-2001: Aanund Austrheim)
