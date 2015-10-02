@@ -279,7 +279,7 @@ kaffedrikking.
 |År|Leder|Nestleder|Kasserer|Kontorsjef|Leder for Festkomitéen|Leder for Bedriftskomitéen|Leder for PR-komitéen|
 |---|---|---|---|---|---|---|---|
 |1999h-2000h|Gøril Tronslien|Kjerst Rønholt|||Michal Koziel?|Jan Erik Bakke Nævdal|Ida Uran Jørgensen|
-|1998h-1999h||Gøril Tronslien, Ove Kuvåssæter?|John Krogstad||Anita Iren Oppedal|Jan Erik Bakke Nævdal?|Ida Uran Jørgensen?|
+|1998h-1999h|Rune A. Hollås|Gøril Tronslien, Ove Kuvåssæter?|John Krogstad||Anita Iren Oppedal|Jan Erik Bakke Nævdal?|Ida Uran Jørgensen|
 
 |År|Leder|Styremedlemmer|
 |---|---|---|
