@@ -18,15 +18,15 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
 
 
-* *Leder:* Pia Lindkjølen, Thor Håkon Bredesen, Caroline Odden
-* *Nestleder:* 
-* *arrKom:* Sondre Johan Widmark  
-* *banKom:* Marius Thingwall  
-* *bedKom:* Didrik Pemmer Aalen, Kristian Svoren
-* *dotKom:* Nils Herde 
-* *fagKom:* Christoffer Skar Lofsberg
-* *proKom:* Agnete Djupvik, Signe Elise Livgard
-* *triKom:*  Kristoffer Hajem
+* *Leder:* **Pia Lindkjølen**, Thor Håkon Bredesen, Caroline Odden
+* *Nestleder:* **Thor Håkon Bredesen** (benket)
+* *arrKom:* **Sondre Johan Widmark**  
+* *banKom:* **Marius Thingwall**  
+* *bedKom:* Didrik Pemmer Aalen, **Kristian Svoren**
+* *dotKom:* **Nils Herde** 
+* *fagKom:* **Christoffer Skar Lofsberg**
+* *proKom:* **Agnete Djupvik**, Signe Elise Livgard
+* *triKom:*  Kristoffer Hajem, **Sondre Auestad** (benket)
 
 Vennligst merk at:
 
