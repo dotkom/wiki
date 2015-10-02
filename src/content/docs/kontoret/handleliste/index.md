@@ -10,6 +10,8 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 - Binders
 - Stifter
 - Muffins
+- Jif universal
+- mopp til moppen
 
 ###Ønsker
 
