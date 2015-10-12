@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2015-10-06](20151006) - Hovedstyrets Oktober(fest)-møte
+- [2015-10-06](20152909) - Hovedstyrets møte-møte
 - [2015-09-22](20150922) - Hovedstyrets Sopra-Steria-har-kurs-møte
 - [2015-09-15](20150915) - Hovedstyrets Alle-er-slitne-etter-immball-møte
 - [2015-09-08](20150908) - Hovedstyrets Pia-er-tilbake-møte
