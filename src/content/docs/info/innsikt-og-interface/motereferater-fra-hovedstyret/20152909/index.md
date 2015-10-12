@@ -1,0 +1,122 @@
+---
+title: "Møte-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 054)
+
+**Servering:** Kristian
+
+**Referering:**  Kristian
+
+**Vinstraff:** Kristian (glemt servering), Auestad, for sen på møtet
+
+**Ølstraff:** 
+
+**Tilstede:**Pia, Agnete, TH, Duvholt, Ingrid, Didrik, Kongsy, Chritoffer, Kristian
+
+**Mangler:** Marius og Nils
+
+## 91 Godkjenning av innkalling, servering og referat  
+
+Underkjent servering
+
+
+## 92 Status for komiteene  
+
+#### arrKom, med velKom og jubkom:  
+
+Har hatt blåtur. Onlinelekene begynner å bli klart. De ligger generelt godt an med de kommende arrangementene. Det vil komme ut to arrangementer på nettsiden i løpet av uka.
+
+Jubkom har første møte snart.
+
+#### banKom:  
+
+Har endret faktureringsrutinene til Thorleifs. De fakturerer nå per buss og på mail. De samler altså ikke flere busser på samme faktura. Didrik vil arrangere et kurs for de nye i bankom, slik at de kommer skikkelig i gang med Datax og liknende..
+
+#### bedKom:  
+
+Knowit hadde bespisning på festningen. Det var litt kaldt og litt lite mat, men det skyltes at knowit hadde åpnet for mange flere studenter enn opprinnelig avtalt. Jobber med å samkjøre bookingen med Abakus.
+
+#### dotKom:
+
+Skjedd fint lite.
+
+#### fagKom, med eksKom:
+
+Hatt to kurs. Det har gått greit. Kurset dro ut og spiste på Kos i etterkant, og det var veldig hyggelig. Håper de får det til igjen.
+
+Sliter med påmelding til Bekk-kurset. Dette mistenker vi at er pga promenadekonserten til uka
+
+Ekskom snakker om å ha to dager med techtalks. Første dagen med mindre bedrifter og billigere mingling. Den andre dagen med større bedrifter og større mingling. 
+
+#### proKom:  
+
+Offline er ute (FØR README <3). Det er en del knot med bestillingssystemet for plakater. Det har blitt rapportert og noen jobber med det. Det er skal settes opp en cv-fotograferingsdag der man kan møte opp i dressen og ta flotte bilder til CV.
+
+#### triKom:
+
+Har ikke skjedd så mye. Assassin går sakte. Ingen dreper hverandre. Vurderer å gjennomføre tiltak for å få i gang ting. Trikom vil arrangere filmkveld den samme dagen som BEKK.kurset. Det kan være en dårlig ide å blæste i dag, ettersom bekk sliter såpass med påmelding. Er det aktuelt å arrangere filmkveld en annen gang? Ja.
+
+#### SeniorKom:
+
+Det er sendt ut tilbakemeldingsskjema etter kickoff. Responsen har vært god, og det er mange som har svart. Forbedringspotensialet har blitt notert i erfaringsskriv, slik at det kan tas med videre.
+
+
+#### IDI og ITV:
+
+Petter har lite nytt og er derfor ikke her.
+
+
+#### Leder og nestleder:  
+
+Linjeledermøte: Det ble snakket om Gobi: Hvordan brukes det? Vi må ta hensyn til at folk kan legge ut ting der på fylla og angre i etterkant. Vi må da være behjelpelige til å slette bildene.
+
+Oktoberfest: Det må ikke drikkes øl på campus i kostyme. Det vil bli slått hardt ned på! 
+
+Vi vil samle informasjon om opptakene og hva studentene synes om dette, slik at vi har data vi kan gi til reportere som lurer. Sondre lurer på om tre spørsmål kanskje er litt lite, men det er slik at disse tre spørmålene(Ikke nevnt på møtet) er felles for alle linjeforeninger, men vi står fritt til å legge til våre egne.
+
+Pia og TH har meldt seg på kurs i møteledelse.
+
+## 93 Interkom  
+
+Kongsy spør hvor mange nye det er i alle komiteene for å finne ut hvem man mangler svar fra på tilbakemelding til kickoff-
+
+Fagkom vil sitte på linjesamarbeidetlistene. Det ble besluttet at det ikke er nedvendig, og at bedkom videresender de viktige tingene som skjer.
+
+Får seniorkommedlemmer støtte på både sin egen teambuiling og på teambuilding hos sin originale komite? Nei, det gjør de ikke. Da ville de fått dobbelt opp med støtte fra HS og det blir feil.
+
+Pia sier at alle våre lapper er finere enn Abakus sine lapper. Fremover vil vi lage bonger for alle våre arrangementer, med både Abakus og Online sin logo på.
+
+## 94 Onlines store spørreundersøkelse
+
+Det diskuteres spørsmål til spørreundersøkelsen.
+
+## 95 Ukens infomail
+
+Skriv på denne. Det er flott.
+Kristian skal skrive forslag til retningslinjer for den nye epostlisten. Det skal tilstrebes at disse epostene skal sendes på søndager, og de skal sendes fra et alias. TH skal lage en side på wikien der denne mailen skal lages. 
+
+## 96 Kontorvakter
+
+Viktig at alle tar opp på møtene sine at folk ikke møter opp på kontorvakter. Dette er ikke greit, og folk må skjerpe seg.
+
+## 97 Forespørsler som har kommet på epost  
+
+Merchbestilling -  Har fått pristilbud på diverse ting. Prokom foreslår 1000 nøkkelbånd og 1000 tattiser. Prokom ber om ca. 10 000 til innkjøp av merch. Er det nødvendig med tattiser?
+Hensikten er å dele ut gratis på teknoligidagene, men dersom det blir noen til overs kan vi selge dem på kontoret. Keychains blir kjøpt. Tattiser blir diskutert neste uke.
+
+Cachekom (Erik Wiker). Det er et par i Online som driver med geacaching. Cachekom-navnet kan være problematisk i den forstand at folk misforstår.  Vi er for at komiteen opprettes, men vi må snakke om navnet.
+
+Kritesystemet til Emil. Videresende dem til kjellerstyret.
+
+Aquaba fyller 5 år. Noen som vil dra på dette? Vi tar det på mail.
+
+Valg til NTNU-styret skal blæstes til komiteene, slik at alle vet hva som skjer.
+
+Seniorkom snakker om Dalje. De har foreslått en dalje med dinosaur. Forslaget møter en del motstand, grunnet at den ikke representerer kunnskapen seniorkom sitter på, men har blitt valgt fordi den representerer at de er «gamle» og fordi den er sykt kul. Kongsy argumenterer for at prosessen har vært ryddig og at forslaget er godt, men de kan fortsette diskusjonen litt på mail, eller prøve å få til et møte. Det samme skal prokom.
+
+
+## 98 Eventuelt  
+
+## 99 Møteevaluering/Diggepunkt
+Langt møte. Burde satt av 3 timer.
