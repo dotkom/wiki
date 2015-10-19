@@ -2,7 +2,7 @@
 title: "Kontoret"
 ---
 
-Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sitte i en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall algoritmen og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner.
+Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sitte i en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje la din innestengte kunstner utfolde seg på kontorets scanner.
 
 ## Beliggenhet
 
