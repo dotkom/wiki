@@ -15,5 +15,5 @@ Online tredje eksursjon er planlagt gjennomført påsken 2016 og turen går da t
 |År|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|
 |2013-2014|Per Øyvind Kanestrøm (L)|Ragnhild Seim (Kun med de første månedene)|Pia Lindkjølen|Christian Strand Young|Kathrine Steffensen|Anders Malmo|Vegar Lerpold|Øyvind Hellenes|Rikard Eide|Are Sjøberg
-|2014-2015|Truls Mørk Pettersen|Tale Prestmo|
+|2014-2015|Truls Mørk Pettersen (L)|Tale Prestmo|
 |2015-2016||
