@@ -37,10 +37,20 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 * Sverre Johann Bjørke
 * Håvard Slettevold
 * John Hanssen Kolstad
+* Jim Frode Hoff
 
 ### 2012/2013
 
+* Håvard Slettevold
+* John Hanssen Kolstad
+* Jim Frode Hoff
+* Aina  Elisabeth Thunestveit
+
 ### 2011/2012
+
+* Håvard Slettevold
+* John Hanssen Kolstad
+* Jim Frode Hoff
 
 ### 2010/2011
 
