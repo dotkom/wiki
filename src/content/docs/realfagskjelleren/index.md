@@ -25,7 +25,7 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 
 ### 2014/2015
 
-* Elisabeth Thunestveit
+* Aina Elisabeth Thunestveit
 * Sverre Johann Bjørke
 * Martin Bjerke
 * Petter Rostrup
