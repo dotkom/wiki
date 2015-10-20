@@ -15,6 +15,29 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 
 ## Onlinere i Kjellerstyret
 
+### 2015/2016
+
+* Martin Bjerke (Kjellersjef)
+* Petter Rostrup
+* Marius Enerly
+* Trine-Lise Helgesen
+* Andreas F. Eikeland
+
+### 2014/2015
+
+* Elisabeth Thunestveit
+* Sverre Johann Bjørke
+* Martin Bjerke
+* Petter Rostrup
+* Marius Enerly
+
+### 2013/2014
+
+* Aina Elisabeth Thunestveit (Kjellersjef)
+* Sverre Johann Bjørke
+* Håvard Slettevold
+* John Hanssen Kolstad
+
 ### 2010/2011
 
 * Juni Angelfos
