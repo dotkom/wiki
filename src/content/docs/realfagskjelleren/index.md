@@ -38,6 +38,10 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 * Håvard Slettevold
 * John Hanssen Kolstad
 
+### 2012/2013
+
+### 2011/2012
+
 ### 2010/2011
 
 * Juni Angelfos
