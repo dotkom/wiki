@@ -29,4 +29,4 @@ triKom og linjeforeningen.
 |2012-2013|David Storjord (L)|Ingeborg Ødegård Oftedal (N)|Johan N. Slettevold (Ø)|Daniel Sollie Hansen|Vigdis Hanto|Mats Tostrup|Håvard Holmboe Lian|
 |2013-2014|John Hanssen Kolstad (L)|Vigdis Hanto(N)|Johan Slettevold(Ø)|Daniel Sollie Hansen|Mats Tostrup|Håvard Holmboe Lian|David Storjord|Elin Hagen|William Henriksen|Erik Wiker|
 |2014-2015|Erik Wiker (L)|Vigdis Hanto (N)|Johan Slettevold(Ø14)|Daniel Sollie Hansen|John Hanssen Kolstad|Mats Tostrup|Håvard Holmboe Lian|David Storjord|William Henriksen|Sondre Auestad|Kristoffer Hajem(Ø15)
-|2014-2015|Sondre Auestad (L)|Erik Wiker (N)|Kristoffer Hajem(Ø)|David Storjord|Christoffer Almankaas|Ellen Bakksjø|Katarina Andersen|Martin Bjerke|Thayanan Tharmapalan|
+|2015-2016|Sondre Auestad (L)|Erik Wiker (N)|Kristoffer Hajem(Ø)|David Storjord|Christoffer Almankaas|Ellen Bakksjø|Katarina Andersen|Martin Bjerke|Thayanan Tharmapalan|
