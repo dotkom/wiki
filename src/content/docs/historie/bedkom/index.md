@@ -31,6 +31,7 @@ Komiteen består for øyeblikket av 15 engasjerte studenter.
 
 |År   |Leder                     |       Medlemmer    |||||||||||||
 |---  |---                      |     :----:              ||||||||||||||
+|2015h|Kristian Svoren|Magnus Kongshem|Per Øyvind Kanestrøm|Jim Tørlen|Silje Sævig|Jon Martin Filberg|Frode Rennmo|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Martine Gran|Henrik Bossart|Ingrid Medalen|
 |2015v|Per Øyvind Kanestrøm|Magnus Kongshem|Jim Tørlen|Silje Sævig|Jon Martin Filberg|Frode Rennmo|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Martine Gran|
 |2014h|Per Øyvind Kanestrøm|Magnus Kongshem|Jim Tørlen|Silje Sævig|Jon Martin Filberg|Frode Rennmo|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Martine Gran|
 |2014v|Jim Tørlen|Magnus Kongshem|Vilde Kristine Grav|Per Øyvind Kanestrøm|Fredrik B. Tørnvall|Jim Tørlen|Even Lislebø|||Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad||
