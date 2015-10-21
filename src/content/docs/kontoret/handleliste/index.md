@@ -18,4 +18,4 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 - Ingefær-te (+1)
 - Kaffemelk eller fløte
 - Til jul: Grans julebrus
-- En tusj som kan henge på kjøleskapet
+- En tusj som kan henge på kjøleskapet for å merke mat
