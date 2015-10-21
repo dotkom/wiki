@@ -11,9 +11,11 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 - Stifter
 - Muffins
 - Jif universal
-- mopp til moppen
+- Mopp til moppen
 
 ###Ønsker
 
-- Ingefær-te
+- Ingefær-te (+1)
 - Kaffemelk eller fløte
+- Til jul: Grans julebrus
+- En tusj som kan henge på kjøleskapet
