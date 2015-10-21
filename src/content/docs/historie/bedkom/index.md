@@ -31,9 +31,9 @@ Komiteen består for øyeblikket av 15 engasjerte studenter.
 
 |År   |Leder                     |       Medlemmer    |||||||||||||
 |---  |---                      |     :----:              ||||||||||||||
-|2015h|Kristian Svoren|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Martine Gran|Henrik Bossart|Ingrid Medalen|
-|2015v|Per Øyvind Kanestrøm|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Martine Gran|
-|2014h|Per Øyvind Kanestrøm|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Martine Gran|
+|2015h|Kristian Svoren|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Henrik Bossart|Ingrid Medalen|
+|2015v|Per Øyvind Kanestrøm|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Martine Gran|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|
+|2014h|Per Øyvind Kanestrøm|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Martine Gran|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|
 |2014v|Jim Tørlen|Magnus Kongshem|Vilde Kristine Grav|Per Øyvind Kanestrøm|Fredrik B. Tørnvall|Jim Tørlen|Even Lislebø|||Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad||
 |2013h|Jim Tørlen|Magnus Kongshem|Vilde Kristine Grav|Per Øyvind Kanestrøm|Fredrik B. Tørnval|Jim Tørlen|Even Lislebø|Emil Golmen|Kamilla Tellefsen|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad||
 |2013v|Vilde K. Grav|Magnus Kongshem|Vilde Kristine Grav|Per Øyvind Kanestrøm|Fredrik B. Tørnval|Jim Tørlen|Even Lislebø|Are Sjøberg|Håkon Gulbrandsen|Ada Jordal||
