@@ -1,0 +1,163 @@
+---
+title: "Hovedstyrets Revyogmiddagmøte"
+---
+
+**Møtetidspunkt:** 11.15 (rom 054)
+
+**Servering:** Marius
+
+**Referering:** Christoffer
+
+**Vinstraff:** Dre (sa ikke fra tidsnok), Marius x2 (Forsein, ikke publisert referat), Sondre (Forseint)
+
+**Ølstraff:** 
+
+**Tilstede:** Kongsy, Pia, Svoren, Auestad, THB, CHristoffer, Nils, Aggie, Marius, Sondre (2 timer forseint)
+ 
+**Mangler:** 
+
+## 117 Godkjenning av innkalling, servering og referat  
+
+Nei, kun innkalling
+
+## 118 Status for komiteene  
+
+#### arrKom, med velKom og jubkom: 
+
+Onlinelekene i helgen, tok litt tid å komme igang. Tror folk hadde det gøy ("ganske gøy" - Nils)("vakke Åre liksom" - Marius)    
+Casino om 15. november        
+Adventure of Online blir heftig    
+Gått igjennom litt retningslinjer på mail. Rakk ikke forrige møte. Tar taushetserklæringer nå, og finner ut av medarbeidersamtaler. 
+
+#### banKom:  
+
+Skal ha DaTax kurs i morgen kl 15. Det blir brææ.    
+Litt reasearch med bankort, vært i kontakt med DNB. Ikke mulig å løse med debitkort. Ikke noe problem med corporate MasterCard for linjeforeningen, kan stå i banKom leders navn. Kort til triKom, dotKom og HS.
+Ender opp med arrKom, HS og triKom som forslag.    
+
+Teambuilding uti november en gang
+
+#### bedKom: 
+
+Hatt Accenture bedpres    
+Teambuilding i helga
+Fått signert taushetserklæringene
+Bookingrunden turer og går
+
+#### dotKom:
+
+Hatt arbeidshelg, blæsta masse dashboard shit. Sexy bildeopplastning. Masse commits!!    
+Sykt smud, masse på plass. 
+
+#### fagKom, med eksKom:
+Skal ha fotokurs, planlegger med proKom    
+Mesan etterpå    
+Ciber neste uke    
+Bekk del 3 også neste uke    
+
+#### proKom:  
+
+Hyttetur på vei til Lundamo!
+Førsteutkast Offline
+Plakater rusler og går
+Offline er med på å arrangere linjeredaksjonskonferansen. Her er det foredrag hvor redaksjonene lærer hverandre ting for å bli bedre.
+
+#### triKom:
+
+Imorra er det Back to the Future!    
+Snakker videre om Star Wars, bør si ifra fort at vi har booka sal. 
+Diskuterer popcorn    
+Planlegger TV-ting fremover    
+Mafiakveld, delegert dette semesteret    
+Kjøpt mikro
+
+#### SeniorKom:
+Hatt møte, går for ugle dalje
+Fått erfaringsskriv fra tidligere leder, setter igang med utmatrikulering.    
+Skal ha arbeidskveld om et par uker    
+Være historiebærer, innhente og samle historien om Online et sted. 
+
+#### IDI og ITV:
+Ikke hatt møte
+
+#### Leder og nestleder:  
+Skal på semestermøte imorra, mer for litt klassemiljø og sånn. 
+Skrevet en eksKom side på wikien
+Vært på hybelfylla = syk
+
+## 119 Interkom  
+
+## 120 Retningslinjer
+
+Vi skal vedta alle retningslinjer.    
+
+Det er en liten case ang stemmerett for seniorKom medlemmer, vi kommer frem til at komiteene bestemmer dette selv.    
+Alle må få retningslinjene fra nodekomiteene under seg. 
+
+#### HS:
+Bør lage foretningsorden retningslinjer? Ja     
+Hva med når nytt HS skal tre på? Stille krav så gammel leder ikke bare slipper alt.    
+Få inn når hovedstyret tiltrer i vedtektene.
+"Avtroppende styre plikter å følge opp sine etterkommere under tiden de har møteplikt." legges til i virke.     
+Punkt 7, endres.    
+    
+Vedtatt, en fraværende og 8 stemmepliktige stemmer for.
+
+#### banKom: 
+
+Litt småpirk som blir endret    
+Legger til forsikringer    
+    
+Vedtatt, en fraværende og 8 stemmepliktige stemmer for.
+
+#### bedKom: 
+
+Småpirk og skrivefeil som rettes opp. Oslo-tur, oslotur og Oslotur er en case.     
+    
+Vedtatt, en blank stemme og 8 stemmepliktige stemmer for.
+    
+    
+Tar resten av komiteene neste uke. 
+
+## 121 Ridderordenen
+
+HS må vedta opptak av riddere i henhold til vedtektene,
+opptak av John Hanssen Kolstad vedtas enstemmig.
+
+## 123 Erfaringsoverføring
+
+Tatt tidligere under punkt 120.
+
+## 124 Stripe
+
+Diskusjon ang gebyr på innbetaling på OW eller øke prisene på kontoret.     
+Kanskje naturlig å fase ut kontantbetaling helt, lettere å sette inn på ow.     
+Det er ikke mye svinn som er registrert.     
+    
+Hvordan er tanken med kassasystem? Tanken er å lage et kassasystem hvor man trykker på varen man skal ta.    
+    
+Vi går foreløpig for å implemente at du betaler gebyr når du legger inn penger, noe som må komme klart frem.     
+    
+Alle stemmer for at vi implementerer betalingssystem på nett. 
+
+## 125 Ukens infomail
+
+Fyll inn
+
+## 126 Forespørsler som har kommet på epost  
+
+#### [Eureka feirer 10 år!]  Hvem vil gå?  
+Spør nestledere
+
+#### Styrefest
+Vi er 2015 - Back to the Future style
+
+## 127 Eventuelt 
+
+#### Ta inn gamle komitémedlemmer?
+Det går fint, vi har ingen policy
+
+Siste møte i slutten av november
+
+## 128 Møteevaluering/Diggepunkt
+Vi digger at dotKom jobber masse med dashboard
