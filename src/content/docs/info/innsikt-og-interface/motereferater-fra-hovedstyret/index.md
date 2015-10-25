@@ -6,7 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
-- [2015-10-20](20151020) - Hovedsturets Revyogmiddagmøte
+- [2015-10-20](20151020) - Hovedstyrets Revyogmiddagmøte
 - [2015-10-06](20151006) - Hovedstyrets Oktober(fest)-møte
 - [2015-29-09](20152909) - Hovedstyrets møte-møte
 - [2015-09-22](20150922) - Hovedstyrets Sopra-Steria-har-kurs-møte
