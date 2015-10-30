@@ -26,5 +26,5 @@ Hjemmesiden til TFSS finnes [her](http://tsff.no/). Der blir resultater og tabel
 2012 - 4. plass av 18 lag  
 2013 - Mangler data  
 2014 - 3. plass av 19 lag  
-2015v - 4. plass i gruppe 2.  
+2015v - Kom til gruppe 2 av 4 grupper og havnet på 4. plass  
 2015/2016 -   
