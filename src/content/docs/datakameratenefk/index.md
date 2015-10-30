@@ -11,4 +11,4 @@ Siden laget ikke ble vedtatt av generalforsamlingen og heller ikke ble fremmet s
 
 Jentene på data har også tatt initiativet til å opprette jentelag,laget spiller 7erfotball i bedriftsligaen for damer.
 
-Hjemmesiden til herrelaget finnes her(her)[http://datakameratene.com/]
+Hjemmesiden til herrelaget finnes her(http://datakameratene.com/)[her]
