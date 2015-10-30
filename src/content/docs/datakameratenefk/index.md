@@ -2,7 +2,7 @@
 title: "Datakameratene FK"
 ---
 
-Datakameratene FK er en fotballklubb, formelt registrert som et bedriftsidrettslag som spiller i 6 divisjon med alle de andre studentlagene i Trondheim. Det er ikke formelt tilknyttet Online, og inneholder spillere tilhørende både informatikk og siv.ing data/kom.tek
+Datakameratene FK er en fotballklubb, formelt registrert som et bedriftsidrettslag som spiller i TFSS med alle de andre studentlagene i Trondheim. Det er ikke formelt tilknyttet Online, og inneholder spillere tilhørende både informatikk og siv.ing data/kom.tek.
 
 ## Historie
 
@@ -11,8 +11,4 @@ Siden laget ikke ble vedtatt av generalforsamlingen og heller ikke ble fremmet s
 
 Jentene på data har også tatt initiativet til å opprette jentelag,laget spiller 7erfotball i bedriftsligaen for damer.
 
-## Resultater
-
-## Kamphistorikk
-
-## Spillere
+Hjemmesiden til herrelaget finnes her(her)[http://datakameratene.com/]
