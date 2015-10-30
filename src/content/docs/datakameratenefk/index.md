@@ -19,12 +19,12 @@ Hjemmesiden til TFSS finnes [her](http://tsff.no/). Der blir resultater og tabel
 
 ## Resultater tidligere år.
 
-2008 - 10. plass av 10 lag
-2009 - 13. plass av 16 lag
-2010 - 6. plass av 15 lag
-2011 - 12. plass av 14 lag
-2012 - 4. plass av 18 lag
-2013 - Mangler data
-2014 - 3. plass av 19 lag
-2015v - 4de plass i gruppe 2.
-2015/2016 - 
+2008 - 10. plass av 10 lag  
+2009 - 13. plass av 16 lag  
+2010 - 6. plass av 15 lag  
+2011 - 12. plass av 14 lag  
+2012 - 4. plass av 18 lag  
+2013 - Mangler data  
+2014 - 3. plass av 19 lag  
+2015v - 4de plass i gruppe 2.  
+2015/2016 -   
