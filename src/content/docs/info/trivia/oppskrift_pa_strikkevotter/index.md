@@ -2,7 +2,7 @@
 title: "Oppskrift på strikkevotter"
 ---
 
-Det begynte med en strikkegenser. Så kom ønsket om strikkevotter som matchet. De er nok litt enklere å få til enn genseren, og går mye raskere. Så hvorfor ikke prøve?
+**Det begynte med en strikkegenser. Så kom ønsket om strikkevotter som matchet. De er nok litt enklere å få til enn genseren, og går mye raskere. Så hvorfor ikke prøve?**
 
 _Signe Elise Livgard, proKom 2015_
 
