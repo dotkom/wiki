@@ -57,7 +57,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |---|---|---|---|---|
 |[BioM](http://org.ntnu.no/biom)||Biologi|[Page](http://fb.com/pages/BioM/211739618885287)||
 |[LAKS](http://org.ntnu.no/laks) (inaktiv nettside, se FB)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi|[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)||
-|[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Eiendom|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/?page_id=108)|
+|[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og forvaltning|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/?page_id=108)|
 |[Projeksjon](http://projeksjon.no) (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk|[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)||
 |[Signifikant](http://org.ntnu.no/signifikant) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991616470)|Forsker (medisin)|[Group](http://fb.com/groups/2735131351/)||
 |[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen|[Group](http://fb.com/groups/2362192638/)||
@@ -260,8 +260,8 @@ døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
 tilbake til oss på kontakt@online.ntnu.no    
 
-[image:184 align:left]
-    Gløshaugenkartet 1.8
+[image:257 align:left]
+    Gløshaugenkartet 1.7
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601
   [RomRes]: http://romres.ntnu.no/
