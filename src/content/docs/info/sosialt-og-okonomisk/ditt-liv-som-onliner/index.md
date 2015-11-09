@@ -12,13 +12,13 @@ title: "Ditt liv som Onliner"
   - Fredagen etter at studielånet kommer (den 15. hver måned) er det studielånspils på kjellern.
     
 ###### BanKom: banKom@online.ntnu.no
- - Kommer ikke til å påvirke din hverdag før du er komitemedlem.
+ - Kommer ikke til å påvirke din hverdag før du er komitémedlem.
 
 ###### BedKom: bedKom@online.ntnu.no
 - Organiserer en eller flere bedpres eller bedseminar i uken hvor du får anledningen til å møte mange forskjellige bedrifter.
 
 ###### DotKom: dotKom@online.ntnu.no
-- Send mail til dotKom om du har feature requests eller problemer
+- Send mail til dotKom om du har featurerequests eller problemer
         med noen av våre tekniske løsninger.
 
 ###### FagKom: fagKom@online.ntnu.no
