@@ -246,6 +246,7 @@ kaffedrikking.
 
 |År|Leder|Nestleder|arrKom|banKom|bedKom|dotKom|fagKom|proKom|triKom|
 |---|---|---|---|---|---|---|---|---|---|
+|2015v-2016v| Pia Lindkjølen |Thor Håkon Bredesen| Sondre Widmark|Marius Thingwall| Kristian Svoren|Nils Herde|Christoffer Skar Lofsberg|Agnete Djupvik|Sondre Auestad|
 |2014v-2015v| Linn Vikre |Caroline Odden| Marius Thingwall|Henning Moberg Wold| Per Øyvind Kanestrøm|Nils Herde|Pia Lindkjølen|Kathrine Steffensen|Erik Wiker|
 |2013v-2014v|Sverre Bjørke|Linn Vikre|Marius Thingwall|Jim Frode Hoff|Jim Tørlen|Nils Herde|Henning Moberg Wold|Thor Håkon Bredesen|John Hanssen Kolstad|
 |2012v-2013v|Hanne Gunby|Tri M. Nguyen|Martin Akre Midtsund|Marius Krakeli|Vilde Kristine Grav|Christian S. Young|Linn Vikre|Magnus Line|David Storjord|
