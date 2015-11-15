@@ -8,4 +8,4 @@ title: "Trivia"
 - [Scanner på kontoret](/wiki/online/info/trivia/scanner-pa-kontoret/) - Hvordan installere nødvendige drivere for å bruke scanneren
 - [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/)  
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
-- [Oppskrift på strikkevotter](wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
+- [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
