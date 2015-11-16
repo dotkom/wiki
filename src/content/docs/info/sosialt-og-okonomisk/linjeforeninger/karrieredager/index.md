@@ -47,6 +47,7 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 | [Rekrutteringsdagen](http://www.rekrutteringsdagen.no/¨)| 3. klasse kybernetikk | Februar | Glassgården | [Page](http://fb.com/pages/Rekrutteringsdagen/158466262823) |
 | [Teknodagen](http://smorekoppen.no/teknodagen/) | 3. klasse maskin | Februar |  Realfagbygget | [Page](http://fb.com/teknodagen) |
 | [VIVO](http://fb.com/VIVOkarrieredag) | [Volvox & Alkymisten](http://volvox.no) | Januar | Realfagbygget | [Page](http://fb.com/VIVOkarrieredag) |
+|[Tech talks](http://techtalks.no/)| Online | Februar |
 
 ## Bedriftsforeninger
 
