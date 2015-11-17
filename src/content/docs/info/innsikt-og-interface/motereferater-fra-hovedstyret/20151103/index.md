@@ -123,8 +123,8 @@ Oppdragsmailen diskuteres som opt out eller opt inn.
 
 Sykt bra møte.
 
-Digger at bankom har satt frister på bilagsføring.
-Digger at hyllene er blitt ordnet opp i.
-Digger at komiteer kan snakke med folk om prikker.
-Digger at pc ikke var oppe på møtet.
-Digger jazz hands på møtet.
+Digger at bankom har satt frister på bilagsføring.  
+Digger at hyllene er blitt ordnet opp i.  
+Digger at komiteer kan snakke med folk om prikker.  
+Digger at pc ikke var oppe på møtet.  
+Digger jazz hands på møtet.  
