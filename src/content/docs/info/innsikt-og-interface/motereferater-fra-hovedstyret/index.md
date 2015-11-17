@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2015-11-10](20151110) - Hovedstyrets kuldemøte
+- [2015-11-03](20151103) - Hovedstyrets Thor Håkon fylte år-møte!
 - [2015-10-20](20151020) - Hovedstyrets Revyogmiddagmøte
 - [2015-10-27](20151027) - Hovedstyrets Teambuildingsmøte
 - [2015-10-06](20151006) - Hovedstyrets Oktober(fest)-møte
