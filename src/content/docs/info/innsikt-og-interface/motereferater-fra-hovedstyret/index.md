@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2015-11-10](20151110) - Hovedstyrets kuldemøte
 - [2015-10-20](20151020) - Hovedstyrets Revyogmiddagmøte
 - [2015-10-27](20151027) - Hovedstyrets Teambuildingsmøte
 - [2015-10-06](20151006) - Hovedstyrets Oktober(fest)-møte
