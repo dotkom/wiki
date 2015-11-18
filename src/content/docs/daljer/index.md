@@ -33,7 +33,7 @@ Lang og tro tjeneste
 Denne daljen deles ut for lang og tro tjeneste i Onlines komitéer, og symboliserer et utall frivillige timer nedlagt i Online sit virke. Opprinnelig skal daljen deles ut etter tre år, men deles i dag ut ved påbegynt tredje år. Den deles typisk ut ved festelige anledninger som immatrikuleringsball og julebord. Daljen er produsert av Trofé og viser to hender i et håndtrykk, og er et generisk design fra produsenten.
 
 
-Komitédalje
+Komitédaljer
 ==================
 Komitédaljene ble introdusert i 2011 og tok over for komitépinsen for å markere komitémedlemer. Daljene er baserte på komitésymbolene utviklet av Magnus Line og resten av proKom. Komitédaljen deles ut til komitémedlemer mot slutten av første semester med arbeid, ofte i samenheng med julebordet. Produsert av Trofé.
 
