@@ -23,7 +23,7 @@ HS-daljen
 ==================
 [image:276 align:right]
     Hovedstyredaljen
-HS-daljen deles ut til Onlines hovedstyre ved endt generalforsamling og er et symbol på den tilliten hovedstyret blir vist av Onlines medlemer. Daljen er produsert av [Trofé AS](http://www.trofe.no/) og viser et lyn gjennom en sirkel på en blå og hvit bakgrunn.
+HS-daljen deles ut til Onlines hovedstyre ved endt generalforsamling og er et symbol på den tilliten hovedstyret blir vist av Onlines medlemer. Daljen er produsert av [Trofé AS](http://www.trofe.no/) og viser et lyn gjennom en sirkel på en blå og hvit bakgrunn. Designer ukjent.
 
 
 Lang og tro tjeneste
