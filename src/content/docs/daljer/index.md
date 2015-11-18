@@ -19,7 +19,7 @@ Medaljen ble introdusert i 2010 og er designet av Magnus Line, tidligere leder a
 
 HS-daljen
 ==================
-[image:276 align:left]
+[image:276 align:right]
     Hovedstyredaljen
 HS-daljen deles ut til Onlines hovedstyre ved endt generalforsamling og er et symbol på den tilliten hovedstyret blir vist av Onlines medlemer. Daljen er produsert av [Trofé AS](http://www.trofe.no/) og viser et lyn gjennom en sirkel på en blå og hvit bakgrunn.
  
