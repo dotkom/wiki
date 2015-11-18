@@ -23,6 +23,8 @@ HS-daljen
     Hovedstyredaljen
 HS-daljen deles ut til Onlines hovedstyremedlemmer. HS-daljen deles ut ved endt generalforsamling og er et symbol på den tilliten hovedstyret blir vist av Onlines medlemer. Daljen er produsert av [Trofé AS](http://www.trofe.no/) og viser et lyn gjennom en sirkel på en blå og hvit bakgrunn.
 
+***
+
 Lang og tro tjeneste
 ==================
 Denne daljen deles ut for lang og tro tjeneste i Onlines komitéer, og symboliserer et utall frivillige timer nedlagt i Online sit virke. Opprinnelig skal daljen deles ut etter tre år, men deles i dag ut ved påbegynt tredje år. Daljen deles typisk ut ved festelige anledninger som immatrikuleringsball og julebord.
