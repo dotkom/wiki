@@ -35,8 +35,7 @@ Denne daljen deles ut for lang og tro tjeneste i Onlines komitéer, og symbolise
 
 Komitédaljer
 ==================
-[image:278 align:right]
-    Online 25 år!
+
 Komitédaljene ble introdusert i 2011 og tok over for komitépinsen for å markere komitémedlemer. Daljene er baserte på komitésymbolene utviklet av Magnus Line og resten av proKom. Komitédaljen deles ut til komitémedlemer mot slutten av første semester med arbeid, ofte i samenheng med julebordet. Produsert av Trofé.
 
 Onlines 25års-dalje
