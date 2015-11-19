@@ -9,7 +9,7 @@ Online har de siste årene begynt å få en del forskjellige daljer. Dette er en
 =================
 [image:275 align:right]
     Æresdaljen i all sin prakt
-Æresmedlemsdaljen er utvilsomt den daljen i Online som henger høyest. Æresmedlemsdaljen er kun produsert i  10 eksemplarer og er per nå utdelt tre ganger. Daljen dels utelukkende ut på ekstra flotte arrangementer. De stolte bærere av Onlines æresdalje er:
+Æresmedlemsdaljen er utvilsomt den daljen i Online som henger høyest. Æresmedlemsdaljen er kun produsert i ti eksemplarer og er per nå utdelt tre ganger. Daljen dels utelukkende ut på ekstra flotte arrangementer. De stolte bærere av Onlines æresdalje er:
 
 * Arvid Holme
 * Steinar Hagen
