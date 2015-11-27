@@ -57,6 +57,8 @@ Gammel komitépin
 [image:283 align:right]
     Gammel komitépin
 Før Online innførte komitédalje ble komitépinen brukt for å markere komitémedlemmer. Pinen er sirkulær, med en blå og en hvit halvdel. Den blå delen skal være på venstre side, slik som på daljebåndene.
+
 Kompileringspin
 ------------------
+
 Alle kompilerte medlemmer av Online mottar sin kompileringspin fra Eldsterådet. Pinen viser Online sin O-logo.
