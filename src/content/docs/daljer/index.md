@@ -1,5 +1,5 @@
 ---
-title: "Onlines daljer"
+title: "Onlines daljer og pins"
 ---
 
 Online har de siste årene begynt å få en del forskjellige daljer. Dette er en oversikt over disse.
