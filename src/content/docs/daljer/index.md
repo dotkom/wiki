@@ -27,7 +27,6 @@ HS-daljen deles ut til Onlines hovedstyre ved endt generalforsamling og er et sy
 
 Gammel HS-dalje
 ==================
-
 [image:279 align:right]
     Gammel HS-dalje.
 Slik så hovedstyrets dalje ut før. Lite er visst om denne, men det anntas at det er Trofé som står for produksjonen. Daljen er veldig enkel, med "STYRET" og "ONLINE" satt i en sirkel, med krans rundt. Bæres i dag av ytterst få, og er et sjeldent syn.
@@ -41,7 +40,8 @@ Denne daljen deles ut for lang og tro tjeneste i Onlines komitéer, og symbolise
 
 Komitédaljer
 ==================
-
+[image:282 align:right]
+    Komitedaljer
 Komitédaljene ble introdusert i 2011 og tok over for komitépinsen for å markere komitémedlemer. Daljene er baserte på komitésymbolene utviklet av Magnus Line og resten av proKom. Komitédaljen deles ut til komitémedlemer mot slutten av første semester med arbeid, ofte i sammenheng med julebordet. Produsert av Trofé.
 
 Onlines 25års-dalje
