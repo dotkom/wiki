@@ -60,5 +60,6 @@ Før Online innførte komitédalje ble komitépinen brukt for å markere komité
 
 Kompileringspin
 ------------------
-
+[image:284 align:right]
+    Kompileringspin
 Alle kompilerte medlemmer av Online mottar sin kompileringspin fra Eldsterådet. Pinen viser Online sin O-logo.
