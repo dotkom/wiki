@@ -8,7 +8,7 @@ Adressen til P15 er: Høgskoleringen 3
 Adressen til Drivhuset (IT-vest): Sem Sælandsvei 7-9    
 Adressen til Realfagbygget: Høgskoleringen 5    
 
-### SiT    
+## SiT    
 #### Hangaren     
 [Meny](https://www.sit.no/middag/hangaren)    
 Åpningstider:    
@@ -28,7 +28,7 @@ Adressen til Realfagbygget: Høgskoleringen 5
 
 Andre åpningstider i eksamensperioden.
 
-### Take away
+## Take away
 #### SAPA (tidligere XO)   
 Ligger i Kjøpmannsgata 13. Kjører ikke ut.    
 Telefon: 73 51 47 77    
