@@ -32,6 +32,7 @@ Andre åpningstider i eksamensperioden.
 #### SAPA (tidligere XO)   
 Ligger i Kjøpmannsgata 13. Kjører ikke ut.    
 Telefon: 73 51 47 77    
+[Meny](http://213.162.240.23/~byggkvhx/xorestaurant/index.php/menu)    
 Åpningstider:    
 - Onsdag til mandag: 14:00 - 22:00   
 - Tirsdag stengt    
@@ -82,7 +83,27 @@ Telefon: 22 22 55 55
 
 #### Petters Pizza
 Ligger ved siden av Bunnpris ved Berg studentby, i Dybdahls vei 3. Leverer ikke    
+#### Kyoto
+Ligger Dronningens gate 26. Leverer ikke, men har 15 prosent rabatt før klokken fem.   
+[Meny](http://www.kyoto.no/meny/)   
 Telefon: 73 93 72 74    
+            ^  ^^^^^
+Telefon: 73 50 13 00    
+            ^^^^  ^^
 [Meny](http://www.petterspizza.no/menu-category/pizzameny/)    
 Åpningstider:    
 - Mandag til Søndag: 14:00 - 22:00    
+             ^^^
+- Mandag til torsdag: 14:00 - 22:00    
+             ^^^^
+- Fredag til lørdag: 12:00 - 23:00     
+- Søndag: 14:00 - 22:00    
+
+#### Kyoto
+Ligger Dronningens gate 26. Leverer ikke, men har 15 prosent rabatt før klokken fem.   
+[Meny](http://www.kyoto.no/meny/)   
+Telefon: 73 50 13 00    
+Åpningstider:    
+- Mandag til torsdag: 14:00 - 22:00    
+- Fredag til lørdag: 12:00 - 23:00     
+- Søndag: 14:00 - 22:00    
