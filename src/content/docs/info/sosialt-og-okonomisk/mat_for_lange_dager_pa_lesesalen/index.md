@@ -9,19 +9,19 @@ Adressen til Drivhuset (IT-vest): Sem Sælandsvei 7-9
 Adressen til Realfagbygget: Høgskoleringen 5    
 
 ### SiT    
-**Hangaren**     
+##### Hangaren     
 [Meny](https://www.sit.no/middag/hangaren)    
 Åpningstider:    
 - Mandag til torsdag: 11:00 - 17:30    
 - Fredag: 11:00 - 15:30    
 
-**Realfag**    
+##### Realfag    
 [Meny](https://www.sit.no/middag/realfag)     
 Åpningstider:    
 - Mandag til torsdag: 10:00 - 17:30    
 - Fredag: 10:00 - 14:00
 
-**Storkiosken på Stripa**     
+##### Storkiosken på Stripa    
 Åpningstider:    
 - Mandag til torsdag: 08:00 - 17:00    
 - Fredag: 08:00 - 16:00   
