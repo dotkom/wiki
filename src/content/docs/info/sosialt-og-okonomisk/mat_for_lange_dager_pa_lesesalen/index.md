@@ -8,9 +8,29 @@ Adressen til P15 er: Høgskoleringen 3
 Adressen til Drivhuset (IT-vest): Sem Sælandsvei 7-9    
 Adressen til Realfagbygget: Høgskoleringen 5    
 
+### SiT    
+**Hangaren**
+[Meny](https://www.sit.no/middag/hangaren)
+Åpningstider:    
+- Mandag til torsdag: 11:00 - 17:30    
+- Fredag: 11:00 - 15:30    
+
+**Realfag**   
+[Meny](https://www.sit.no/middag/realfag)
+Åpningstider:   
+- Mandag til torsdag: 10:00 - 17:30    
+- Fredag: 10:00 - 14:00
+
+**Storkiosken på Stripa**   
+Åpningstider:    
+- Mandag til torsdag: 08:00 - 17:00    
+- Fredag: 08:00 - 16:00   
+
+Andre åpningstider i eksamensperioden.
+
 ### Take away
 **SAPA (tidligere XO)**    
-Ligger i Kjøpmannsgata 13. Kjører ikke ut, men har take away.    
+Ligger i Kjøpmannsgata 13. Kjører ikke ut.    
 Telefon: 73 51 47 77    
 Åpningstider: 
 - Onsdag til mandag: 14:00 - 22:00   
@@ -25,10 +45,21 @@ Telefon: 952 48 814
 - Fredag til lørdag: 15:00 - 04:00   
 
 **Smile**   
-Ligger i Elgeseter gate. Leverer.   
+Ligger i Elgeseter gate 18. Leverer.   
+Telefon: 73 53 02 02   
+[Meny](http://www.smilepizzaelgeseter.no/smilepizza_retter.php?meny=pizz)    
+Åpningstider:   
+- Mandag til fredag: 11:00 - 22:00   
+- Lørdag og søndag: 12:00 - 22:00   
 
 **Pizzabakeren**   
-Ligger ved Samfundet. Leverer etter klokken fire.   
+Ligger ved Samfundet, Klostergaten 21. Leverer etter klokken tre.   
+Telefon: 73 52 66 66    
+[Meny](https://www.pizzabakeren.no/pizzameny)    
+Åpningstider:    
+- Mandag til torsdag: 13:00 - 22:00
+- Fredag til lørdag: 13:00 - 23:00   
+- Søndag: 13:00 - 22:00   
 
 **Dolly Dimples**    
 Ligger på Lerkendal Stadion.   
