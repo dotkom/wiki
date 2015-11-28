@@ -4,6 +4,7 @@ title: "Sosialt & økonomisk"
 
 - [Ny student?](/wiki/online/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
 - [Ditt liv som Onliner](/wiki/online/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
+- [Mat for lange dager på lesesalen](/wiki/online/info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen/) - Her finner du oversikt over take away
 - [IRC](/wiki/online/info/sosialt-og-okonomisk/irc/) - Guide til å komme deg inn på Onlines chatterom, åpent for alle
 - [Lånekassen](/wiki/online/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
 - [Linjeforeninger](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/) - Kjekt å vite om linjeforeningene i Trondheim
