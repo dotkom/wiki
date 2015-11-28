@@ -62,6 +62,13 @@ Telefon: 73 52 66 66
 - Søndag: 13:00 - 22:00   
 
 **Dolly Dimples**    
-Ligger på Lerkendal Stadion.   
+Ligger på Lerkendal Stadion, Klæbuveien 125. Leverer etter halv tolv.    
+Telefon:
+[Meny](http://www.dolly.no/shop/meny)    
+Åpningstider:    
+- Mandag til torsdag: 11:00 - 22:00    
+- Fredag: 11:00 - 23:00    
+- Lørdag: 12:00 - 23:00    
+- Søndag: 13:00 - 23:00   
 
 **Peppes Pizza**   
