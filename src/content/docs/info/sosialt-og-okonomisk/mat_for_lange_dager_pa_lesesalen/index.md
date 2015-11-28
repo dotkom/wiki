@@ -19,7 +19,7 @@ Telefon: 73 51 47 77
 **Sesam**    
 Ligger på Samfundet. Kjører ikke ut. Får rabatt på dagtid dersom du er Samfundetmedlem.     
 Telefon: 952 48 814    
-[Meny](http://www.sesam-as.no/meny-sesam/)
+[Meny](http://www.sesam-as.no/meny-sesam/)   
 Åpningstider:   
 - Søndag til torsdag: 15:00 - 23:30     
 - Fredag til lørdag: 15:00 - 04:00   
