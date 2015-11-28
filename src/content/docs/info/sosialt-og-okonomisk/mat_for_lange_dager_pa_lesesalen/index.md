@@ -79,3 +79,10 @@ Telefon: 22 22 55 55
 - Mandag til torsdag: 11:00 - 23:00    
 - Fredag til lørdag: 11:00 - 23:30    
 - Søndag: 13:00 - 23:00    
+
+#### Petters Pizza
+Ligger ved siden av Bunnpris ved Berg studentby, i Dybdahls vei 3. Leverer ikke    
+Telefon: 73 93 72 74    
+[Meny](http://www.petterspizza.no/menu-category/pizzameny/)    
+Åpningstider:    
+- Mandag til Søndag: 14:00 - 22:00    
