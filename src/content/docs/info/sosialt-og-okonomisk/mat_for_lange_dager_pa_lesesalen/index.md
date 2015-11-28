@@ -9,19 +9,19 @@ Adressen til Drivhuset (IT-vest): Sem Sælandsvei 7-9
 Adressen til Realfagbygget: Høgskoleringen 5    
 
 ### SiT    
-##### Hangaren     
+#### Hangaren     
 [Meny](https://www.sit.no/middag/hangaren)    
 Åpningstider:    
 - Mandag til torsdag: 11:00 - 17:30    
 - Fredag: 11:00 - 15:30    
 
-##### Realfag    
+#### Realfag    
 [Meny](https://www.sit.no/middag/realfag)     
 Åpningstider:    
 - Mandag til torsdag: 10:00 - 17:30    
 - Fredag: 10:00 - 14:00
 
-##### Storkiosken på Stripa    
+#### Storkiosken på Stripa    
 Åpningstider:    
 - Mandag til torsdag: 08:00 - 17:00    
 - Fredag: 08:00 - 16:00   
@@ -29,14 +29,14 @@ Adressen til Realfagbygget: Høgskoleringen 5
 Andre åpningstider i eksamensperioden.
 
 ### Take away
-**SAPA (tidligere XO)**    
+#### SAPA (tidligere XO)   
 Ligger i Kjøpmannsgata 13. Kjører ikke ut.    
 Telefon: 73 51 47 77    
 Åpningstider:    
 - Onsdag til mandag: 14:00 - 22:00   
 - Tirsdag stengt    
 
-**Sesam**    
+#### Sesam   
 Ligger på Samfundet. Kjører ikke ut. Får rabatt på dagtid dersom du er Samfundetmedlem.     
 Telefon: 952 48 814    
 [Meny](http://www.sesam-as.no/meny-sesam/)   
@@ -44,7 +44,7 @@ Telefon: 952 48 814
 - Søndag til torsdag: 15:00 - 23:30     
 - Fredag til lørdag: 15:00 - 04:00   
 
-**Smile**   
+#### Smile   
 Ligger i Elgeseter gate 18. Leverer.   
 Telefon: 73 53 02 02   
 [Meny](http://www.smilepizzaelgeseter.no/smilepizza_retter.php?meny=pizz)    
@@ -52,7 +52,7 @@ Telefon: 73 53 02 02
 - Mandag til fredag: 11:00 - 22:00   
 - Lørdag og søndag: 12:00 - 22:00   
 
-**Pizzabakeren**   
+#### Pizzabakeren   
 Ligger ved Samfundet, Klostergaten 21. Leverer etter klokken tre.   
 Telefon: 73 52 66 66    
 [Meny](https://www.pizzabakeren.no/pizzameny)    
@@ -61,7 +61,7 @@ Telefon: 73 52 66 66
 - Fredag til lørdag: 13:00 - 23:00   
 - Søndag: 13:00 - 22:00   
 
-**Dolly Dimples**    
+#### Dolly Dimples 
 Ligger på Lerkendal Stadion, Klæbuveien 125. Leverer etter halv tolv.    
 Telefon: 0 44 40    
 [Meny](http://www.dolly.no/shop/meny)    
@@ -71,7 +71,7 @@ Telefon: 0 44 40
 - Lørdag: 12:00 - 23:00    
 - Søndag: 13:00 - 23:00   
 
-**Peppes Pizza**   
+#### Peppes Pizza   
 Ligger i Kjøpmannsgata 25. Leverer.    
 Telefon: 22 22 55 55    
 [Meny](https://www.peppes.no/pp13/wicket/bookmarkable/no.peppes.pepp2013.bestill.pizza.PeppesPizzaIntroPage?44)    
