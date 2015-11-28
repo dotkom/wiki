@@ -32,7 +32,7 @@ Andre åpningstider i eksamensperioden.
 **SAPA (tidligere XO)**    
 Ligger i Kjøpmannsgata 13. Kjører ikke ut.    
 Telefon: 73 51 47 77    
-Åpningstider: 
+Åpningstider:    
 - Onsdag til mandag: 14:00 - 22:00   
 - Tirsdag stengt    
 
