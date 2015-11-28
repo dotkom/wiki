@@ -14,6 +14,7 @@ Adressen til Realfagbygget: Høgskoleringen 5
 Åpningstider:    
 - Mandag til torsdag: 11:00 - 17:30    
 - Fredag: 11:00 - 15:30    
+Leverer: Nei
 
 #### Realfag    
 [Meny](https://www.sit.no/middag/realfag)     
