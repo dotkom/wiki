@@ -86,6 +86,7 @@ Ligger ved siden av Bunnpris ved Berg studentby, i Dybdahls vei 3. Leverer ikke.
 Telefon: 73 93 72 74    
 [Meny](http://www.petterspizza.no/menu-category/pizzameny/)    
 Åpningstider:    
+- Alle dager 14:00 - 22:00   
 
 #### Kyoto
 Ligger Dronningens gate 26. Leverer ikke, men har 15 prosent rabatt før klokken fem.   
