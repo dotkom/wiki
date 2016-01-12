@@ -58,7 +58,11 @@ Godkjent
 
 #### triKom:
 
-* Ikke møtt
+* Kontorvakter starter neste uke
+* Adlib har startet å røre på seg igjen
+* Star Wars gikk bra
+* KobKom skal starte opp
+* Starter med møter neste uke
 
 #### SeniorKom: 
 
