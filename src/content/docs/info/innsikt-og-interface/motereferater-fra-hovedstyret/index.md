@@ -6,6 +6,8 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+
+- [2016-01-12](20160112) - Hovedstyrets backinbusinessmøte
 - [2015-11-17](20151117) - Hovedstyrets Lille London-møte
 - [2015-11-10](20151110) - Hovedstyrets kuldemøte
 - [2015-11-03](20151103) - Hovedstyrets Thor Håkon fylte år-møte!
