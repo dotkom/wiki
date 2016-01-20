@@ -63,6 +63,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Drifts- og utviklingskomiteen](/wiki/online/historie/dotkom)
     - [Fag- og kurskomiteen](/wiki/online/historie/fagkom)
     - [Profil- og aviskomiteen](/wiki/online/historie/prokom)
+    - [Seniorkomiteen](/wiki/online/historie/seniorkom)
     - [Trivselskomiteen](/wiki/online/historie/trikom)
     - [Ekskursjonskomiteen](/wiki/online/historie/ekskom)
     - [Jubileumskomiteen](/wiki/online/historie/jubkom)
