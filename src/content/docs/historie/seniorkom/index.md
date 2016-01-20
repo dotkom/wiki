@@ -31,3 +31,4 @@ Komiteen består for øyeblikket av 15 engasjerte studenter.
 
 |År   |Leder                     |       Medlemmer    |||||||||||||
 |---  |---                      |     :----:              ||||||||||||||
+|2010| Lol | Magnus | Veri | sure |
