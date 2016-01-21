@@ -25,6 +25,10 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
+|[Darling](http://darling.no)| |Mediefag||||||
+|[Ing:a](http://inga-hig.no/)| |Teknologifag||||||
+|[Login](http://higlog.no)| |Informatikk||||||
+|[RIK](mailto:rik@hig.no)| |Økonomi, ledelse og logistikk||||||
 
 
 ## Masterforeninger
