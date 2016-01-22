@@ -13,6 +13,7 @@ God lesing!
 
 Redaktører:
 
+- 2015-2016: Anne-Marie Samuelsen
 - 2014-2015: Thor Håkon Bredesen
 - 2013-2014: Kari F. Skjold
 - 2012-2013: Rikard Eide
