@@ -2,18 +2,17 @@
 title: "Hovedstyrets EfterÅremøte"
 ---
 
-
 **Møtetidspunkt:** 09.15 (rom 054)
 
 **Servering:** Thor Håkon
 
 **Referering:** Nils
 
-**Vinstraff:** 
+**Vinstraff:** Dre
 
 **Ølstraff:** 
 
-**Tilstede:** 
+**Tilstede:** Alle
 
 **Mangler:**
 
