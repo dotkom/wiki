@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 
+- [2016-01-19](20160119) - Hovedstyrets EfterÅremøte 
 - [2016-01-12](20160112) - Hovedstyrets backinbusinessmøte
 - [2015-11-17](20151117) - Hovedstyrets Lille London-møte
 - [2015-11-10](20151110) - Hovedstyrets kuldemøte
