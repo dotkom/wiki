@@ -10,6 +10,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2016-02-02](20160202) - Hovedstyrets SnartVinterferiemøte 
 - [2016-01-19](20160119) - Hovedstyrets EfterÅremøte 
 - [2016-01-12](20160112) - Hovedstyrets backinbusinessmøte
+- [2016-11-24](20161124) - Hovedstyrets julemøte
 - [2015-11-17](20151117) - Hovedstyrets Lille London-møte
 - [2015-11-10](20151110) - Hovedstyrets kuldemøte
 - [2015-11-03](20151103) - Hovedstyrets Thor Håkon fylte år-møte!
