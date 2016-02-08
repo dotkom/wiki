@@ -23,6 +23,8 @@ _Korte trekk fra orientering 4. februar 2016 - kl 1230 - rom F6_
 - Kunstig intelligens
 - Databaser og søk
 
+------------------------------------------
+
 _Referat fra orientering 16. mars 2012 - kl 1015 - rom 454_
 
 På planen:
