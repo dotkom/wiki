@@ -2,6 +2,28 @@
 title: "Masteropptak"
 ---
 
+Emnene som teller på masteropptak for 2016/2017 er følgende:
+-------------------------------------------------------------
+
+-   **Obligatoriske emner:**
+
+-   IT1901 Informatikk prosjektarbeid 1 **7,5 sp**
+-   IT2901 Informatikk prosjektarbeid 2 **15 sp**
+-   TDT4100 Objektorientert programmering **7,5 sp**
+-   TDT4120 Algoritmer og datastrukturer **7,5 sp**
+-   TDT4140 Programvareutvikling **7,5 sp**
+-   TDT4145 Datamodellering og databasesystemer **7,5 sp**
+-   TDT4160 Datamaskiner, grunnkurs **7,5 sp**
+    ELLER
+-   TDT4186 Operativsystemer **7,5 sp**
+
+-   **Inklusiv 3 valgte emner innen IT eller TDT
+    fag: (totalt 82,5 sp)**
+
+Hvordan regne snitt:
+-------------------------------------------------------------
+(Karakter i emnet * Studiepoeng for emnet) / (Studiepoeng)
+
 For opptaket til master i informatikk trenger man et godt snitt på et
 utvalg av emnene. Dette er en liste fra 30.11.2012
 
