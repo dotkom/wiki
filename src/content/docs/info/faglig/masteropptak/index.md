@@ -5,7 +5,7 @@ title: "Masteropptak"
 Emnene som teller på masteropptak for 2016/2017 er følgende:
 -------------------------------------------------------------
 
--   **Obligatoriske emner:**
+**Obligatoriske emner:**
 
 -   IT1901 Informatikk prosjektarbeid 1 **7,5 sp**
 -   IT2901 Informatikk prosjektarbeid 2 **15 sp**
