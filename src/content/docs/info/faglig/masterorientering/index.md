@@ -2,6 +2,27 @@
 title: "Masterorientering"
 ---
 
+_Korte trekk fra orientering 4. februar 2016 - kl 1230 - rom F6_
+
+### Plasser
+- Antall plasser høst 2016: 60
+- Opptaket høst 2015; tilbud til 90, 60 ja-svar
+
+### Opptaksgrenser høst 2015
+- Databaser og søk: 2,5
+- Kunstig intelligens: 2,9
+- Programvaresystemer: 3,5
+- Interaksjonsdesign, spill- og læringsteknologi: Ny
+
+### Søknadsfrist
+- Våropptak: 15. november
+
+### Retningsvalg
+- Programvaresystemer: _Fokus på store IT-systemer, IT bruk i organisasjoner, utviklingsmetodikk for IT_.
+- Interaksjonsdesign, spill- og læringsteknologi: _Fokus på brukere, design og brukeropplevelser._
+- Kunstig intelligens
+- Databaser og søk
+
 _Referat fra orientering 16. mars 2012 - kl 1015 - rom 454_
 
 På planen:
