@@ -22,13 +22,13 @@ Emnene som teller på masteropptak for 2016/2017 er følgende:
 
 Hvordan regne snitt:
 -------------------------------------------------------------
-(Karakter i emnet * Studiepoeng for emnet) / (Studiepoeng)
+(Karakter i emnet * Studiepoeng for emnet) + (Karakter i emnet * Studiepoeng for emnet) + ... / (Studiepoeng for alle emnene)
 
-For opptaket til master i informatikk trenger man et godt snitt på et
-utvalg av emnene. Dette er en liste fra 30.11.2012
 
 Emnene som teller på masteropptak for 2013/2014 er følgende:
 -------------------------------------------------------------
+For opptaket til master i informatikk trenger man et godt snitt på et
+utvalg av emnene. Dette er en liste fra 30.11.2012
 
 -   **Obligatoriske emner:**
 
