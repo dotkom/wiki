@@ -17,7 +17,7 @@ Emnene som teller på masteropptak for 2016/2017 er følgende:
     ELLER
 -   TDT4186 Operativsystemer **7,5 sp**
 
--   **Inklusiv 3 valgte emner innen IT eller TDT
+**Inklusiv 3 valgte emner innen IT eller TDT
     fag: (totalt 82,5 sp)**
 
 Hvordan regne snitt:
