@@ -22,7 +22,9 @@ Emnene som teller på masteropptak for 2016/2017 er følgende:
 
 Hvordan regne snitt:
 -------------------------------------------------------------
-(Karakter i emnet * Studiepoeng for emnet) + (Karakter i emnet * Studiepoeng for emnet) + ... / (Studiepoeng for alle emnene)
+((Karakter i emnet * Studiepoeng for emnet) + (Karakter i emnet * Studiepoeng for emnet) + ...) / (Studiepoeng for alle emnene) = Snitt
+
+2,5 regnes som C i snitt og er minstekravet for å kunne søke.
 
 
 Emnene som teller på masteropptak for 2013/2014 er følgende:
