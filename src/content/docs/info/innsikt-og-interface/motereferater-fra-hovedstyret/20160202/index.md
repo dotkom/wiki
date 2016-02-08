@@ -4,7 +4,7 @@ title: "Vinterferiemøte"
 
 **Møtetidspunkt:** 09.15 (rom 054)
 
-**Servering:** Dre
+**Servering:** Sondre W
 
 **Referering:** Marius
 
@@ -14,7 +14,7 @@ title: "Vinterferiemøte"
 
 **Tilstede:** Wiker(For Sondre), Christoffer, Pia, THB, Nils, Agnete, Magnus, Marius
 
-**Mangler:** Dre, Kristalin, Sondre
+**Mangler:** Dre, Kristian, Sondre
 
 ## 030 Godkjenning av innkalling, servering og referat 
 
@@ -148,7 +148,6 @@ Mål: Lokale? Hvordan skal det utføres?
 ## 037 Prikkereglene (10 min)
 
 * Har revidert førsteutkastet
-* **Marius har tatt en redaksjonell endring. Det syntes vi er kjempestemning** 
 * Det voteres
 	* Nye prikkeregler er godkjent
 
