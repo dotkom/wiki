@@ -86,16 +86,6 @@ Marius er borte.
 * Pia har tatt over som møteleder i linjelederforumet.
 * Websjefene rundt på gløshaugen ønsker å samle krefter for å lage nettsider. Det blir holdt møte i kveld for å finne ut hva man kan gjøre det videre.
 
-
-## 045 Interkom (10 min)
-
-* Kristian skryter av Nils for at dotkom forhører seg med komiteene angående behov på ow4
-
-* Dårlig av oss at vi ikke kom oss på kjellermøtet, men det var ikke egentlig så dumt, ettersom vi ikke gikk glipp av noe.
-
-## 046 Forespørsler som har kommet på epost (5 min) 
-* Nablarevyen: Påmeldingsfrist i går. Ingen som vil? Ingen som kan.
-
 ## 046 Forespørsler som har kommet på epost (5 min)  
 * Søknad om midler til D&D nodekomite: Går fra midlene vi har fått fra IDI. De får det de ber om.
 
