@@ -25,6 +25,7 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
+|Sekstanten| |Nautikk| | | |[Lukket gruppe](https://www.facebook.com/groups/522914471208133/?fref=ts)||
 
 
 ## Masterforeninger
