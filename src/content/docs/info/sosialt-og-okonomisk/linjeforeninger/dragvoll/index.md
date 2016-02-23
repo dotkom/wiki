@@ -25,8 +25,8 @@ Tilhørende wikisider
 
 ## Linjeforeninger
 
-|Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|
-|---|---|---|---|---|---|
+|Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|Avis|
+|---|---|---|---|---|---|---|
 | Akwaaba | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995924226) | Afrikastudier | | [Group](http://fb.com/groups/495389020623/) | akwaabapost.ntnu@gmail.com |
 | [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com |
 | [CAF](http://www.cafidrett.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | [Page](http://fb.com/citiusaf) | cafidrett@gmail.com |
@@ -53,9 +53,9 @@ Tilhørende wikisider
 | [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
 | Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet | | [Page](https://www.facebook.com/pokayokeNTNU/) | |
 | [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
-| [Psi](http://www.psintnu.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Page](http://fb.com/psi.linjeforening) | psi.linjeforening@gmail.com |
-| [pStimulus](http://limp.webs.com/) | | Master i psykologi | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | linjeforeningen.limp@gmail.com |
-| [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |
+| [Psi](http://www.psintnu.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Page](http://fb.com/psi.linjeforening) | psi.linjeforening@gmail.com |[Psykologisk tidsskrift](http://psykologisktidsskrift.no)|
+| [pStimulus](http://limp.webs.com/) | | Master i psykologi | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | linjeforeningen.limp@gmail.com |[Psykologisk tidsskrift](http://psykologisktidsskrift.no)|
+| [Psykolosjen](http://www.psykolosjen.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995088673) | Profesjonsstudiet i psykologi | 12-416 (bygg 12, nivå 4) | [Group](http://fb.com/groups/136769179563/) | psykolosjen@gmail.com |[Psykologisk tidsskrift](http://psykologisktidsskrift.no)|
 | [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
 | [Sturm und Drang](http://www.sturm.ntnu.no/wordpress/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898359662) | Tysk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/SturmUndDrangNTNU), [Group](http://fb.com/groups/30581775718/) | sd.linjeforening@gmail.com |
 | [Teaterlosjen](http://teaterlosjen.wordpress.com/) | | Drama/Teater | | [Page](http://fb.com/teaterlosjen), [Group](http://fb.com/groups/460089664086811/) | teaterlosjen@gmail.com |
