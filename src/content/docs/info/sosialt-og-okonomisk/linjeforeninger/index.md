@@ -61,6 +61,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |[BioM](http://org.ntnu.no/biom)||Biologi|[Page](http://fb.com/pages/BioM/211739618885287)||
 |[LAKS](http://org.ntnu.no/laks) (inaktiv nettside, se FB)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi|[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)||
 |[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/?page_id=108)|
+| Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet | | [Page](https://www.facebook.com/pokayokeNTNU/) | |
 |[Projeksjon](http://projeksjon.no) (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk|[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)||
 |[Signifikant](http://org.ntnu.no/signifikant) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991616470)|Forsker (medisin)|[Group](http://fb.com/groups/2735131351/)||
 |[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen|[Group](http://fb.com/groups/2362192638/)||
