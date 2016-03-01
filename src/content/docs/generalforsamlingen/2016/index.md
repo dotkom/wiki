@@ -11,7 +11,7 @@ title: "Generalforsamlingen 2016"
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 
-# Regnskap 15, og budsjett for 16/17
+# Regnskap 15 og budsjett 16/17
 
 # Informasjon
 
