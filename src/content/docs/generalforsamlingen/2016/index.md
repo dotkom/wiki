@@ -13,6 +13,9 @@ title: "Generalforsamlingen 2016"
 
 # Regnskap 15 og budsjett 16/17
 
+Regnskapet og budsjettene vil bli lagt frem her i god tid før regnskapskvelden 31.mars med Online. 
+
+
 # Informasjon
 
 Mandag 18. april inviterer Linjeforeningen Online alle informatikkstudenter til den årlige generalforsamlingen.
