@@ -198,7 +198,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Begge: [H.M. Aarhønen](http://www.aarhonen.ntnu.no/?q=node/158), [HC](http://www.hc.ntnu.no)
     -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no),
+    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/)
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
     -   Storband: [Emil](http://emilweb.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.ntnu.no/)
