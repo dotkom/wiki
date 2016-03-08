@@ -4,27 +4,28 @@ title: "Gullblekka"
 
 Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppdateringer.
 
-## Praktisk informasjon om Gullblekka 2015
+## Praktisk informasjon om Gullblekka 2016
 
-**Tid:**  8. april 2015  
-**Sted:** Klubben på Samfundet, 19.00  
+**Tid:**  14. april 2016  
+**Sted:** Bodegaen på Singsaker Studenterhjem, 19.00  
 **Kategorier:**  
 - Årets artikkel (saklig)  
 - Årets morsomste artikkel  
-- Årets ordsmed (her skal det leveres to artikler av samme skribent, mer info nedenfor)  
-- Årets foto eller illustrasjon  
+- Årets ordsmed (her skal det leveres to artikler av samme skribent)
+- Årets foto 
+- Årets Illustrasjon  
 - Årets design på enkeltsak (forside regnes som enkeltsak)  
-- Åpen klasse (mer info nedenfor)  
+- Åpen klasse
 - Gullblokka (folkeprisen som stemmes frem av alle linjene)  
 
 **Hvordan nominere:**  
-Frist for å sende inn nominasjoner er mandag 23. mars klokken 16.00. Det vil foregå på følgende måte:
+Frist for å sende inn nominasjoner er fredag 1. april klokken 17.00. Det vil foregå på følgende måte:
 
-Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([attachment:201]) (et eksempel er fylt ut her([attachment:202])). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2015” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Man nominerer altså saker sin egen redaksjon har produsert, ikke saker fra andre linjeofreningsaviser.
+Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([attachment:201]) (et eksempel er fylt ut her([attachment:202])). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2016” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Ikke fra andre linjeforeningsaviser.
 
-Konvolutten leveres på Online-kontoret, enten i postkassen utenfor, eller til en kontorvakt. Det vil bli sendt kvittering når nominasjonene er mottatt. Ta kontakt om dere ikke mottar denne innen rimelig tid.
+Konvolutten leveres i postkassen utenfor Abakus kontoret, fjerde etasjen i Høyskoleringen 3. Det vil bli sendt kvittering når nominasjonene er mottat. Ta kontakt om dere har noen spørsmål.
 
-Send også én e-post til gullblekka@online.ntnu.no, merket “[Nominasjoner 2015] Navn på redaksjon”, med én pdf per nominasjon. I pdf-en skal det kun være den nominerte saken/bildet, ikke hele utgaven. Nominasjonsskjemaet skal også medfølge her. For folkeprisen/Gullblokka legger dere ved pdf-en av hele det nummeret dere ønsker å nominere, enten direkte i e-posten eller som lenke.
+Send også én e-post til gullblekka@online.ntnu.no, merket “[Nominasjoner 2016] Navn på redaksjon”, med én pdf per nominasjon. I pdf-en skal det kun være den nominerte saken/bildet, ikke hele utgaven. Nominasjonsskjemaet skal også medfølge her. For folkeprisen/Gullblokka legger dere ved pdf-en av hele det nummeret dere ønsker å nominere.
 
 ## Om Gullblekka
 
