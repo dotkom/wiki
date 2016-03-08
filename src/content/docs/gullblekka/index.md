@@ -11,11 +11,11 @@ Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppda
 **Kategorier:**  
 - Årets artikkel (saklig)  
 - Årets morsomste artikkel  
-- Årets ordsmed (her skal det leveres to artikler av samme skribent)
-- Årets foto 
+- Årets ordsmed (her skal det leveres to artikler av samme skribent)  
+- Årets foto  
 - Årets Illustrasjon  
 - Årets design på enkeltsak (forside regnes som enkeltsak)  
-- Åpen klasse
+- Åpen klasse  
 - Gullblokka (folkeprisen som stemmes frem av alle linjene)  
 
 **Hvordan nominere:**  
