@@ -6,8 +6,8 @@ Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppda
 
 ## Praktisk informasjon om Gullblekka 2016
 
-**Tid:**  14. april 2016, 19:00
-**Sted:** Bodegaen på Singsaker Studenterhjem
+**Tid:**  14. april 2016, 19:00  
+**Sted:** Bodegaen på Singsaker Studenterhjem  
 **Kategorier:**  
 - Årets artikkel (saklig)  
 - Årets morsomste artikkel  
