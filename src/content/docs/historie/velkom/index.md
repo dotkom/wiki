@@ -74,7 +74,9 @@ Medlemmer
 
 |År|Leder|Økonomiansvarlig|    Medlemmer    |
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
-|*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Magnus Buvarp|
+|*2016*|*Fride Skarseth*| 
+|*2015*|*Andreas Norstein*|
+|*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Marius Thingwall|Magnus Buvarp|
 |*2013* |*Tri M. Nguyen* | Marius Krakeli | Henning Moberg Wold|Aina Elisabeth Thunestveit | Marius Thingwall | Marthe Sofie Øynes |Sverre Johann Bjørke|Tale Prestmo|Vilde Kristine Grav|
 |*2012*|*Terje Mikalsen*|Ragnhild Seim|Even Ødegaard|Even Østvold|Henning Moberg Wold|Ingeborg Ødegård Oftedal|Jonathan Laschet|Jørgen Rugelsjøen Wikdahl|Per Øyvind Kanestrøm|
 |*2011*|*Juni Angelfoss*|Magnus German Hove|Lorents Gravås|Mathilde Oftedal|Sigurd Stølen Lund|Even Lislebø|Magnus Kongshem|Magnus B. Line|Hanne Gunby|Eirin Haneseth|John Hanssen Kolstad|David Storjord|Christian Peter|Håvard Slettvold|
