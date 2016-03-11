@@ -74,7 +74,7 @@ Medlemmer
 
 |År|Leder|Økonomiansvarlig|    Medlemmer    |
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
-|*2016*|*Fride Skarseth*| 
+|*2016*|*Fride Skarseth*| Jakob Westermoen | Oscar Conrad | Ingrid Medalen | Maria Rønning | Mathias Strupstad |Kristiane Westgård | Caroline Odden | Marius Aarsnes | Lars Vattøy | Henrik Bossart |
 |*2015*|*Andreas Norstein*|
 |*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Marius Thingwall|Magnus Buvarp|
 |*2013* |*Tri M. Nguyen* | Marius Krakeli | Henning Moberg Wold|Aina Elisabeth Thunestveit | Marius Thingwall | Marthe Sofie Øynes |Sverre Johann Bjørke|Tale Prestmo|Vilde Kristine Grav|
