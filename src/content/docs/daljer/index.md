@@ -15,7 +15,7 @@ Online har de siste årene begynt å få en del forskjellige daljer. Dette er en
 * Steinar Hagen
 * Erlend Klakegg Bergheim
 
-Medaljen ble introdusert i 2010 og er designet av Magnus Line, tidligere leder av proKom. Den er produsert av [Musette](musette.no). Daljen er [showcaset](http://musette.no/no/produkter/medaljer/eksempler/) på deres nettsider og der kan man lese at:
+Medaljen ble introdusert i 2010 og er designet av Magnus Line, tidligere leder av proKom. Den er produsert av [Musette](http://www.musette.no). Daljen er [showcaset](http://musette.no/no/produkter/medaljer/eksempler/) på deres nettsider og der kan man lese at:
 > Medaljen er en avansert variant i 3D-teknikk, laget i blankt gull belagt med sølv på motivet og banneret. Den blå bakgrunnen er laget i perlemor-effekt for å skape mer dybde i fargen.
 
 
