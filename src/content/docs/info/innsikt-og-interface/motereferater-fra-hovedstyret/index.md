@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 
+- [2016-03-08](20160308) - Hovedstyrets Osloturmøte
 - [2016-02-16](20160216) - Hovedstyrets Valentinesmøte
 - [2016-02-09](20160209) - Hovedstyrets Pia er PC-løsmøte
 - [2016-02-02](20160202) - Hovedstyrets SnartVinterferiemøte 
