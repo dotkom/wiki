@@ -42,7 +42,7 @@ Tilhørende wikisider
 | [Gengangere](http://www.gengangere.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Group](http://fb.com/groups/gengangere/) | gengangere@list.stud.ntnu.no |
 | [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
 | [IVRig](http://org.ntnu.no/ivriglinjeforening/) | | Voksnes læring og rådgivningsvitenskap | | [Group](https://www.facebook.com/groups/271991916331535/) | ivrig.linjeforening@gmail.com |
-| [Katharsis](http://ntnukatharsis.wordpress.com/) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | linjeforeningenkatharsis@gmail.com |
+| [Det Gyldne Snitt](http://ntnukatharsis.wordpress.com/) (tidl. Katharsis) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | post.detgyldnesnitt@gmail.com |
 | [Kultura](www.kulturalinjeforening.no ) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911761157) | Kulturminneforvaltning | Bygg 6 nivå 4, rom 6430C | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
 | [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
