@@ -13,5 +13,5 @@ Kravene som stilles er at det skal være en gruppering som åpner for at alle On
 Eksisterende nodekomiteer
 -----------------------------
 * kobKom - Kort og brettspillkomiteen
-* sushiKom - Stipendsushi
+* [sushiKom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/) - Stipendsushi
 * cacheKom - Geocaching
