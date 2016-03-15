@@ -14,4 +14,4 @@ Eksisterende nodekomiteer
 -----------------------------
 * kobKom - Kort og brettspillkomiteen
 * [sushiKom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/) - Stipendsushi
-* cacheKom - Geocaching
+* [cacheKom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/) - Geocaching
