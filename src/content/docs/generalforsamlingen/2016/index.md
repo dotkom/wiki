@@ -10,12 +10,21 @@ title: "Generalforsamlingen 2016"
 ---
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
+Onlines vedtekter finner du [her](/wiki/71/plugin/attachments/download/71/)  
+Referat fra generalforsamlingen 2015 finner du her: [attachment:304]
 
 # Regnskap 15 og budsjett 16/17
 
-Regnskapet og budsjettene vil bli lagt frem her i god tid før regnskapskvelden 31.mars med Online. 
-
+Regnskapet og budsjettene vil bli lagt frem her i god tid før vedtekts- og økonomikvelden 31.mars med Online.  
+Regnskap 2015:  
+Budsjett 2016/2017: 
 
 # Informasjon
 
-Mandag 18. april inviterer Linjeforeningen Online alle informatikkstudenter til den årlige generalforsamlingen.
+Generalforsamlingen 2016 finner sted mandag 18. april kl. 15.00 i auditorium Kjl1. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+
+Om du har en sak du vil at hovedstyret for perioden 16/17 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
+
+Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen, 3. april. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
+
+I år kommer Hovedstyret til å foreslå en omskriving av alle vedtektene, vi ber derfor om at alle vedtektsforslag skrives til å passe både de nåværende og de eventuelt nye vedtektene, skulle de bli godkjent av generalforsamlingen.
