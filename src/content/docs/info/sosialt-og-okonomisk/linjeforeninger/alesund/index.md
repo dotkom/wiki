@@ -25,6 +25,7 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
+|Aqua Ålesund|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Vann- og Miljøteknikk| | | | [Facebookside](https://www.facebook.com/AquaAlesund)| |
 |Sekstanten| |Nautikk| | | |[Lukket gruppe](https://www.facebook.com/groups/522914471208133/?fref=ts)||
 
 
@@ -136,4 +137,4 @@ Tilhørende wikisider
 
 ### Utlån, utleie
 
-Ting som kan leies mellom foreninger. 
+Ting som kan leies mellom foreninger.
