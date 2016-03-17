@@ -12,6 +12,10 @@ Kravene som stilles er at det skal være en gruppering som åpner for at alle On
 
 Eksisterende nodekomiteer
 -----------------------------
+* appKom
+* [cacheKom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/) - Geocaching
+* eksKom
+* jubKom
 * kobKom - Kort og brettspillkomiteen
 * [sushiKom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/) - Stipendsushi
-* [cacheKom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/) - Geocaching
+* velKom
