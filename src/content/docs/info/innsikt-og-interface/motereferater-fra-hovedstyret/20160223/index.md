@@ -1,0 +1,118 @@
+---
+title: "Hovedstyrets Agnetetrekkervisdomstannmøte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Christoffer
+
+**Referering:** Sondre A
+
+**Vinstraff:** Dre
+
+**Ølstraff:**
+
+**Tilstede:** 
+
+**Mangler:** Agnete
+
+## 058 Godkjenning av innkalling, servering og referat
+
+Godkjent
+
+## 059 Status for komiteene
+
+#### arrKom, med velKom og jubkom: 
+
+Hadde vinter-OL på lørdag, var dritkult, masse oppmøte.
+Reboot upcomming, måtte leie håndverkeren.  
+Har temafest på fredag, skal bli veldig gøy. Har også flere andre kjekke arrangement fremover.  
+JubKom går bra.
+
+#### banKom:  
+
+Regnskapsføring skal være klar til søndag, Abakus skal revideres.  
+Alle kortene er blitt avsluttet, nye kort blir opprettet, noen må stå som personalansvarlig.
+
+#### bedKom:
+
+Har hatt Knowit og it-verket, gjekk bra.
+Bekk, Nordea og Simula begynner å bli klart.    
+Har begynt å planlegge Oslotur og bookingen.
+
+#### dotKom:
+
+Forholdsvis rolig, skal gå gjennom drittopgavene på onsdag.  
+Stemmesystemet er On track.
+
+#### fagKom, med eksKom:
+
+Har hatt Computas og Javazone, gikk veldig bra.  
+Vilde drar til Oslo.  
+Har to kurs som kommer, med Beck og Mesan.  
+Lightningtalks har begynt planleggingen.  
+
+#### proKom:  
+
+Har gitt ut jubileumsutgaven. 
+Holder på med årbok, kommer snart.  
+Det lages masse plakater.  
+Offlinebursdag sliter med lokale, men det skjer.  
+
+#### triKom:
+
+Skal arrangere visning av CS:GO-finale under studlan. Driver på med planlegging av påskelunsj og ++
+Skal se på nytt assassin-spill.
+
+#### SeniorKom: 
+
+Rolig, skal ha møte på torsdag.  
+Tikker inn med påmelding og betaling til utmatrikulering.
+
+#### IDI og ITV:
+
+Ikkje til stede.
+
+#### Leder og nestleder:
+
+Lite å melde. Gjør viktige ting og er veldig flinke.
+
+## 060 Interkom
+
+## 061 Forespørsler som har kommet på epost
+
+It-dagene-kontrakten ser bra ut, er klar til signering. Kontrakten signeres med ein gang.  
+
+Kaffesponsor: BedKom ser etter kaffesponsor.
+
+StartIT: det er mange informatikere påmeldt, dei har bedt om 3000 kr, vi får i tillegg logo på sidene deres. Vi utsetter vedtak til vi har fått regnskap og budsjett.
+
+Kjellerjubileum: vi har ut dagen for å finne ut kven som skal dra, sender mail etter det.
+
+Agnete-mail: vi svarer på den, og må generelt bli bedre til å svare.
+
+## 062 Ukens infomail
+
+Vedtekt- og økonomikveld skjer, og blir lagt ved eit lite notis på allerede nå. Kommer i tillegg facebookarrangement på det.  
+Genfors blir også lagt ut der.  
+
+## 063 Eventuelt
+
+Det kjøpes inn en møtekaffekanne, Sondre A finner pris, og så kjøper triKom eller HS inn det. TriKom skal i tillegg kjøpe ny vannkoker.
+
+Bør det kjøpes inn eit kompaktkamera som kan tas med på fadderuker o.l? ProKom informerer at det allerede fins eit slik kamera.  
+Det må i tilfelle opplyses om at disse bildene tas dersom kamera brukes, og det bør være ein viss kvalitet på bildene.  
+
+Teambuilding med SS, alle må svare hvorvidt dei kan eller ikkje.  
+
+Teambuilding med HS på søndag, vi finner ut ASAP kor vi skal være.
+
+Vedtektsendringsutkast kommer fortløpende, og så går vi i fellesskap gjennom og diskuterer dette.
+
+## 064 Møteevaluering/Diggepunkt
+
+Pia digger alle sammen.
+
+Christoffer digger dotKom for Rfid-lesere på kontoret.
+
+TH digger at Sondre A er tilbake.
