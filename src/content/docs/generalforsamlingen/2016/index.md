@@ -33,9 +33,9 @@ Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandida
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. 
 
-Hva: Onlines generalforsamling
-Dato: 18. april
-Klokken: 15.00
-Sted: Kjl1
+Hva: Onlines generalforsamling  
+Dato: 18. april  
+Klokken: 15.00  
+Sted: Kjl1  
 
 Vel møtt!
