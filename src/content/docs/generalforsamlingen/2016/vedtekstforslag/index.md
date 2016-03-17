@@ -9,5 +9,7 @@ title: "Vedtektsforslag 2016"
 
 ---
 
-** Hva er et vedtektsforslag? **
+** Hva er et vedtektsforslag? **  
 Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtektene til linjeforeningen. Det innebærer at reglene som Hovedstyret og linjeforeningen følger blir endret. Alle medlemmer av Online kan fremme vedtektsforslag. Gjør dette ved å sende en e-post til hovedstyret@online.ntnu.no innen 3. april kl. 23.59, eller endre de i dette dokumentet. Hovedstyret vil i år foreslå en omskriving av alle vedtektene. Vi ber derfor om at alle vedtektsforslag skrives til å passe både de nåværende og de eventuelt nye vedtektene, skulle disse bli godkjent av generalforsamlingen.
+
+---
