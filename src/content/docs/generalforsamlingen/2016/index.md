@@ -29,7 +29,7 @@ Om du har en sak du vil at hovedstyret for perioden 16/17 skal fokusere på, og 
 
 I år kommer Hovedstyret til å foreslå en omskriving av alle vedtektene, vi ber derfor om at alle vedtektsforslag skrives til å passe både de nåværende og de eventuelt nye vedtektene, skulle de bli godkjent av generalforsamlingen.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektene på generalforsamlingen. Derfor inviterer Hovedstyret til [vedtekts- og økonomikveld](https://www.facebook.com/events/969880506434584/) 31. mars i Kjl1. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
+Det vil ikke være mulighet til å gjøre endringer på vedtektene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](https://www.facebook.com/events/969880506434584/) 31. mars i Kjl1. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
