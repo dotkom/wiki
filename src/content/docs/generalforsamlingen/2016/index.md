@@ -15,7 +15,7 @@ Referat fra generalforsamlingen 2015 finner du her: [attachment:304]
 
 # Regnskap 15 og budsjett 16/17
 
-Regnskapet og budsjettene vil bli lagt frem her i god tid før vedtekts- og økonomikvelden 31.mars med Online.  
+Regnskapet og budsjettene vil bli lagt frem her i god tid før økonomi- og vedtektskvelden 31.mars med Online.  
 Regnskap 2015:  
 Budsjett 2016/2017: 
 
