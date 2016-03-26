@@ -18,7 +18,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *Leder:* 
 * *Nestleder:* 
 * *arrKom:* 
-* *banKom:* 
+* *banKom:* Kristoffer Hajem
 * *bedKom:* 
 * *dotKom:* 
 * *fagKom:* 
