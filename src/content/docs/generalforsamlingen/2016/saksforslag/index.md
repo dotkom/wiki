@@ -22,3 +22,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 ### Forslag 1 (Sondre Auestad, Christoffer Skar Lofsberg, Agnete Djupvik)
 
 * Hovedstyret skal i neste periode utrede mulighetene for å opprette et fond for Onlines overskudd, administrert av et tilhørende fondstyre.
+
+### Forslag 2 (Christoffer Skar Lofsberg)
+
+* Hovedstyret skal avholde en åpen diskusjonskveld minst en gang i semesteret hvor vedtak og annet anliggende diskuteres. Dette for å fremme åpenhet ovenfor Onlines medlemmer.
