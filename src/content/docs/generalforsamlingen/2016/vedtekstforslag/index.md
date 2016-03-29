@@ -13,3 +13,8 @@ title: "Vedtektsforslag 2016"
 Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtektene til linjeforeningen. Det innebærer at reglene som Hovedstyret og linjeforeningen følger blir endret. Alle medlemmer av Online kan fremme vedtektsforslag. Gjør dette ved å sende en e-post til hovedstyret@online.ntnu.no innen 3. april kl. 23.59, eller endre de i dette dokumentet. Hovedstyret vil i år foreslå en omskriving av alle vedtektene. Vi ber derfor om at alle vedtektsforslag skrives til å passe både de nåværende og de eventuelt nye vedtektene, skulle disse bli godkjent av generalforsamlingen.
 
 ---
+
+### Forslag (Thor Håkon Bredesen og Nils Herdé)
+[4.2.1, 4.2.8]  \*komiteen  
+Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.21 tom. 4.2.8 til *"Komiteens navn forkortes \*kom"*.  
+Dette er ønskelig fordi forkortelsen, når brukt i starten av en setning, brukes inkonsekvent (f.eks.: proKom bla bla bla, eller ProKom bla bla bla), og Språkrådet anbefaler å ha kun små bokstaver siden camelCase ikke er en del av det norske språket.
