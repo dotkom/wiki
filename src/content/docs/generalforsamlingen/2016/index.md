@@ -17,7 +17,7 @@ Referat fra generalforsamlingen 2015 finner du her: [attachment:304]
 
 Regnskapet og budsjettene vil bli lagt frem her før økonomi- og vedtektskvelden 31.mars med Online.  
 
-**Minner om at dette er førsteutkastet av budsjettet, det kan forekomme forandringer frem mot generalforsamlingen.** 
+**Minner om at det kan forekomme endringer i budsjettet etter økonomikvelden**
 
 [Regnskap 2015](https://docs.google.com/spreadsheets/d/1iDUiHjVUO1q7rXfKJDfMEChTPwpR2QJTwwxLsTpdXw8/edit?usp=sharing)     
 [Budsjett 16/17](https://docs.google.com/spreadsheets/d/1Kw7rSxZtq2brddImTsAnO1mZAtr6sm0Q3XoUshNdP0g/edit?usp=sharing)
