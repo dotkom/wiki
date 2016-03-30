@@ -25,7 +25,7 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kontor|Epost|Facebook|Avis|
 |---|---|---|---|---|---|---|
-| [Elektra](http://elektra.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711) | Elektro | | leder@elektra.hist.no | | |
+| [Elektra](https://elektra.io) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711) | Elektro | | leder@elektra.io | | |
 | [Fraktur](http://www.fraktur.no) (St.Olav) | | Radiograf | | post@fraktur.no | |
 | [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | leder@kom.hist.no |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
 | [Logistikkstudentene](http://www.logistikkstudentene.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | logistikkstudentene@gmail.com | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
