@@ -19,7 +19,7 @@ Regnskapet og budsjettene vil bli lagt frem her før økonomi- og vedtektskvelde
 
 **Minner om at dette er førsteutkastet av budsjettet, det kan forekomme forandringer frem mot generalforsamlingen.** 
 
-Regnskap 2015:  
+[Regnskap 2015](https://docs.google.com/spreadsheets/d/1iDUiHjVUO1q7rXfKJDfMEChTPwpR2QJTwwxLsTpdXw8/edit?usp=sharing)
 Budsjett 2016/2017: 
 
 # Informasjon
