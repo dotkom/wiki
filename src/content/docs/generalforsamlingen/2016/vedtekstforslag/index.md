@@ -254,4 +254,39 @@ Dette er ønskelig fordi forkortelsen, når brukt i starten av en setning, bruke
 ### Forslag 19 (Hovedstyret)
 §4.3 endres til *"En nodekomite er underlagt en av komiteene beskrevet i §4.2, eller direkte underlagt Hovedstyret og plikter og holde den ansvarlige kjernekomiteen løpende oppdatert på sitt virke. Nodekomiteer som har eksistert i to år eller mer kan bare offisielt nedlegges av Generalforsamlingen."*
 
-Her tas begrepet foreldrekomité ut, og det legges til at nodekomiteer kan være direkte under HS.
+Her tas begrepet foreldrekomité ut, og det legges til at nodekomiteer kan være direkte under HS. §4.3.6 flyttes inn i §4.3.
+
+### Forslag 20 (Hovedstyret)
+§4.3.* fjernes da disse ikke trenger å være vedtektsfestet.
+
+### Forslag 21 (Hovedstyret)
+Legge til §4.4 Interessegrupper. Følgelig får påfølgende paragrafer nummer n+1. Paragrafteksten er:  
+*"Interessegrupper kan opprettes av onlinemedlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer og budsjett som godkjennes av Hovedstyret. Hovedstyret avgjør også hvorvidt komiteen underlegges en eksisterende komité, eller Hovedstyret selv."*
+
+### Forslag 22 (Hovedstyret)
+Nåværende §4.5 Kontoret tas ut av retningslinjene. Dette er en del av trivselskomiteens virke.
+
+### Forslag 23 (Hovedstyret)
+Nåværende §4.4 Permisjon eller oppsigelse fra komité endres til:  
+
+*4.5.1 Pause i sitt engasjement*  
+*Ved permisjon fra en komité er man fullstendig fritatt de pliktene komitevervet medførte.*
+
+*Et komitemedlem kan søke om permisjon fra et komitéverv i Online. Man må ha sittet i en komite i minst ett semester for å kunne søke permisjon. Dersom permisjonen varer lengre enn to semestere vil medlemmets verv opphøre.*
+
+*4.5.2 Verv i Hovedstyret*  
+*Dersom et komitemedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komite, og kan fritt returnere til denne ved endt engasjement i Hovedstyret:*
+					
+*- Leder*  
+*- Nestleder*  
+*- Leder for bankom*  
+
+*4.5.3 Advarsel og oppsigelse*  			
+*Leder av en komite har rett til å si opp et medlem av sin egen komité. Oppsigelse skal kun finne sted i tilfeller der det blir ansett som høyst nødvendig for å beskytte komiteens samhold, initiativ, integritet eller profesjonalitet. Leder av komiteen plikter å konsultere leder av linjeforeningen i forkant av en eventuell advarsel eller oppsigelse."*
+
+### Forslag 24 (Hovedstyret)
+Nåværende §4.7 Mislighold av verv flyttes før paragrafen om ridderorden. Setningen *" Det må ved innkalling til ekstraordinær generalforsamling fremmes mistillitsforsalg av minst 10 medlemmer."* tas ut, da dette er beskrevet i paragrafen om ekstraordinær generalforsamling.
+
+### Forslag 25 (Hovedstyret)
+Nåværende §4.6 blir til §4.7 og endres til:  
+*"Et verv i linjeforeningen varer i seks semestre fra måneden man ble tatt opp. Dersom man ønsker å være et aktivt komitemedlem etter disse seks semestre kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene til linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i Seniorkomiteen."*
