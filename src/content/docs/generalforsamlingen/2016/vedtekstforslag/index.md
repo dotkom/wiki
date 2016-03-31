@@ -98,6 +98,8 @@ Forklaring: Dette er slik en ekstraordinær generalforsamling funker, greit å s
 Ekstraordinær generalforsamling skal kun behandle sakene som forårsaket innkallingen."
 
 
+Kravet om minst 10 medlemmer fjernes også fra §4.5. 
+
 ### Forslag 7 (Hovedstyret) 
 
 #### Spesifisere valgkom i større grad i vedtektene. 
