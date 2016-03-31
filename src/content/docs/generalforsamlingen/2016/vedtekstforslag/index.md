@@ -146,6 +146,18 @@ Dersom en sak har bred støtte i salen kan ordstyrer forsøke å ta en sak opp t
 
 Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming. "
 
+Forslag 9 (Hovedstyret)
+
+#### §3.5 - Stemmeberettigelse og talerett
+
+Legge til det som har vært praksis de siste årene, at generalforsamlingen kan vedta å gi personer som kommer for sent stemme- og talerett. 
+
+Legge til som tredje avsnitt: 
+
+"Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer."
+
+
+Forslag 10 (Hovedstyret)
 
 
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
