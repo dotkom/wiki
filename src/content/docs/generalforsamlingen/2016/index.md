@@ -13,7 +13,7 @@ title: "Generalforsamlingen 2016"
 Onlines vedtekter finner du [her](/wiki/71/plugin/attachments/download/71/)  
 Referat fra generalforsamlingen 2015 finner du her: [attachment:304]
 
-# Regnskap 15 og budsjett 16/17
+# Regnskap 2015 og budsjett 16/17
 
 Regnskapet og budsjettene vil bli lagt frem her før økonomi- og vedtektskvelden 31.mars med Online.  
 
