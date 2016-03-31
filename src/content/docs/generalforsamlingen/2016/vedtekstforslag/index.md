@@ -117,6 +117,37 @@ Ved generalforsamling er disse vervene nødvendig:
 * Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling   
 
 
+#### Forslag 8 (Hovedstyret)  
+
+##### §3.4 Legge til en spesifiserende setning angående blanke stemmer
+
+Endres til: "Blanke stemmer er ikke tellende og teller dermed ikke blant oppmøtte med stemmerett, med mindre annet er spesifisert."
+
+I tillegg er det en omstrukturering av teksten og redaksjonelle endringer for å gjøre paragrafen mer generell og oversiktlig. §3.4 endres i sin helhet til: 
+
+"3.4 Beslutningsdyktighet og avstemming	
+			
+For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmene ha møtt opp. 
+Alminnelig flertall er definert som 1/2 av de oppmøtte med stemmerett. 
+Kvalifisert flertall er definert som 2/3 av de oppmøtte med stemmerett.
+
+Blanke stemmer er ikke tellende, med mindre annet er spesifisert.	
+
+3.4.1 Saker  
+
+Alle saker på generalforsamlingen avgjøres ved alminnelig flertall, med unntak av vedtektsendringer. 
+
+3.4.2 Vedtektsendringer 
+
+Vedtektsendringer avgjøres med kvalifisert flertall. 
+
+
+Dersom en sak har bred støtte i salen kan ordstyrer forsøke å ta en sak opp til votering ved akklamasjon. Det skal gis rom for å uttrykke sin misnøye ved å vise tegn innen rimelig tid. Enhver stemmeberettiget person tilstede kan kreve at det gjennomføres en fullstendig avstemning.
+
+Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming."  
+
+
+
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
 [4.2.1, 4.2.8]  \*komiteen  
 Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.21 tom. 4.2.8 til *"Komiteens navn forkortes \*kom"*.  
