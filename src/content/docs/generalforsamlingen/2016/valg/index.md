@@ -20,7 +20,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *arrKom:* 
 * *banKom:* Kristoffer Hajem
 * *bedKom:* 
-* *dotKom:* 
+* *dotKom:* Håkon Solbjørg
 * *fagKom:* 
 * *proKom:* 
 * *triKom:*  
