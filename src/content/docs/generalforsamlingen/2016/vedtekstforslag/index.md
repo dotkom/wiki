@@ -78,7 +78,7 @@ Paragrafen foreslås endret til:
 * Innkalling skal sendes ut til medlemmene senest fire (4) uker før generalforsamlingen skal avholdes.
 * Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest to (2) uker før generalforsamlingen skal avholdes.
 * Fullstendig saksliste med vedtektsendringer skal tilgjengeliggjøres senest én (1) uke før generalforsamlingenmøtedato. Denne skal også inneholde årsmelding, revidert regnskap, budsjettforslag og eventuelle andre relevante sakspapirer.
-* Referat fra generalforsamlingen skal underskrives av paraferer og sendes medlemmene eller gjøres tilgjengelig for medlemmene senest 14 dager etter generalforsamlingen.
+* Referat og vedtekter fra generalforsamlingen skal underskrives av paraferer og sendes medlemmene eller gjøres tilgjengelig for medlemmene senest 14 dager etter generalforsamlingen.
 
 
 ### Forslag 6 (Hovedstyret)
