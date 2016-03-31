@@ -218,33 +218,38 @@ Fjerne §4.2.6 Pensjonistkomiteen og dermed legge ned pensjonistkomiteen. Denne 
 ### Forslag 17 (Hovedstyret)
 §4.2.* endres til å kun inneholde hovedoppgave og forkortelse. Disse paragrafene endres til:
 
-4.2.1 Arrangementskomiteen
+4.2.1 Arrangementskomiteen  
 Komiteens hovedoppgave er å koordinere og gjennomføre sosiale arrangement. Komiteens navn forkortes arrKom.
 
-4.2.2 Bank- og økonomikomiteen
+4.2.2 Bank- og økonomikomiteen  
 Komiteens hovedoppgave er administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes banKom.
 
-4.2.3 Bedriftskomiteen			
+4.2.3 Bedriftskomiten  		
 Komiteens hovedoppgaver er å være et bindeledd mellom linjeforeningens medlemmer og næringslivet, og å utarbeide en hovedsamarbeidsavtale med en bedrift for Linjeforeningen Online. Komiteens navn for- kortes bedKom.
 
-4.2.4 Drifts- og utviklingskomiteen			
+4.2.4 Drifts- og utviklingskomiteen  		
 Komiteens hovedoppgave er å utvikle og vedlikeholde linjeforeningens datasystemer. Komiteens navn forkortes dotKom.
 
-4.2.5 Fag- og kurskomiteen					
+4.2.5 Fag- og kurskomiteen	  	
 Komiteens hovedoppgave er å koordinere og gjennomføre arrangement som tilbyr faglig innhold, primært for linjeforeningens egne medlemmer. Komiteens navn forkortes fagKom.
 
-4.2.6 Profil- og aviskomiteen					
+4.2.6 Profil- og aviskomiteen  		
 Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi ut linjeforeningens tidsskrift. Komiteens navn forkortes proKom.
 
-4.2.7 Trivselskomiteen	
+4.2.7 Trivselskomiteen  
 Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes triKom.
 
-4.2.8 Seniorkomiteen
+4.2.8 Seniorkomiteen  
 Komiteens hovedoppgave vil være å bist å med kunnskap, erfaring og assistanse i Linjeforeningens daglige drift. Seniorkomiteens navn forkortes seniorKom. 					
 
 Seniorkomiteen velger selv sin leder. Leder av Seniorkomiteen har møte- og talerett i Hovedstyret. 
 
 ### Forslag 18 (Hovedstyret)
 [4.2.1, 4.2.8]  \*komiteen  
-Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.21 tom. 4.2.8 til *"Komiteens navn forkortes \*kom"*.  
+Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.2.1 tom. 4.2.8 til *"Komiteens navn forkortes \*kom"*.  
 Dette er ønskelig fordi forkortelsen, når brukt i starten av en setning, brukes inkonsekvent (f.eks.: proKom bla bla bla, eller ProKom bla bla bla), og Språkrådet anbefaler å ha kun små bokstaver siden camelCase ikke er en del av det norske språket.
+
+### Forslag 19 (Hovedstyret)
+§4.3 endres til *"En nodekomite er underlagt en av komiteene beskrevet i §4.2, eller direkte underlagt Hovedstyret og plikter og holde den ansvarlige kjernekomiteen løpende oppdatert på sitt virke. Nodekomiteer som har eksistert i to år eller mer kan bare offisielt nedlegges av Generalforsamlingen."*
+
+Her tas begrepet foreldrekomité ut, og det legges til at nodekomiteer kan være direkte under HS.
