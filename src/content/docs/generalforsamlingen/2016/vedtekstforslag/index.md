@@ -77,12 +77,25 @@ Paragrafen foreslås endret til:
 
 * Innkalling skal sendes ut til medlemmene senest fire (4) uker før generalforsamlingen skal avholdes.
 * Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest to (2) uker før generalforsamlingen skal avholdes.
-* Fullstendig saksliste med vedtektsendringer skal tilgjengeliggjøres senest én (1) uke før generalforsamlingenmøtedato. Denne skal også inneholde årsmelding, revidert regnskap, bud- sjettforslag og eventuelle andre relevante sakspapirer.
+* Fullstendig saksliste med vedtektsendringer skal tilgjengeliggjøres senest én (1) uke før generalforsamlingenmøtedato. Denne skal også inneholde årsmelding, revidert regnskap, budsjettforslag og eventuelle andre relevante sakspapirer.
 * Referat fra generalforsamlingen skal underskrives av paraferer og sendes medlemmene eller gjøres tilgjengelig for medlemmene senest 14 dager etter generalforsamlingen.
 
 
 ### Forslag 6 (Hovedstyret)
 
+#### §3.2 - Flytte kravet om at 10 medlemmer må ville ha ekstraordinær generalforsamling ved mistillitsforslag til flere styremedlemmer til første avsnitt i 3.2. 
+
+Forklaring: Dette vil gjøre dette kravet generelt gjeldene for alle ekstraordinære generalforsamlinger. 
+
+#### Legge til at en ekstraordinær generalforsamling kun skal behandle sakene det er kalt inn til generalforsamling for. 
+
+Forklaring: Dette er slik en ekstraordinær generalforsamling funker, greit å spesifisere det. 
+
+§3.2 - Ekstraordinær generalforsamling endres i sin helhet til: 
+
+"Denne kan innkalles av Hovedstyret eller om det minste av 1/8 av medlemmene og 10 medlemmer ønsker det. Fristene for å kalle inn til ekstraordinær er halvert i forhold til fristene for ordinær, jamfør §3.1.
+
+Ekstraordinær generalforsamling skal kun behandle sakene som forårsaket innkallingen."
 
 
 ### Forslag 7 (Hovedstyret) 
