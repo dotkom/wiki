@@ -145,9 +145,9 @@ I tillegg er det en omstrukturering av teksten og redaksjonelle endringer for å
 
 #### " 3.4 Beslutningsdyktighet og avstemming	
 			
-For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmene ha møtt opp. 
-Alminnelig flertall er definert som 1/2 av de oppmøtte med stemmerett. 
-Kvalifisert flertall er definert som 2/3 av de oppmøtte med stemmerett.
+For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmene ha møtt opp.  
+Alminnelig flertall er definert som 1/2 av de oppmøtte med stemmerett, med unntak av blanke stemmer. 
+Kvalifisert flertall er definert som 2/3 av de oppmøtte med stemmerett, med unntak av blanke stemmer.
 
 Blanke stemmer er ikke tellende, med mindre annet er spesifisert.	
 
