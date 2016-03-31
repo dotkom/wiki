@@ -133,9 +133,9 @@ Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
 
 
 
-#### Forslag 8 (Hovedstyret)  
+### Forslag 8 (Hovedstyret)  
 
-##### §3.4 Legge til en spesifiserende setning angående blanke stemmer
+#### §3.4 Legge til en spesifiserende setning angående blanke stemmer
 
 Endres til: "Blanke stemmer er ikke tellende og teller dermed ikke blant oppmøtte med stemmerett, med mindre annet er spesifisert."
 
@@ -162,7 +162,7 @@ Dersom en sak har bred støtte i salen kan ordstyrer forsøke å ta en sak opp t
 
 Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming. "
 
-#### Forslag 9 (Hovedstyret)
+### Forslag 9 (Hovedstyret)
 
 #### §3.5 - Stemmeberettigelse og talerett
 
@@ -173,7 +173,7 @@ Legge til som tredje avsnitt:
 "Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer."
 
 
-#### Forslag 10 (Hovedstyret)
+### Forslag 10 (Hovedstyret)
 #### § 3.6 Gjennomføring av valg
 
 Endre tredje avsnitt slik at forrige valgte leder til et verv sitter helt frem til det er valgt en ny. Tredje avsnitt endres til: 
