@@ -180,6 +180,28 @@ Endre tredje avsnitt slik at forrige valgte leder til et verv sitter helt frem t
 
 "Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført et godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å gjennomføre et valg må det kalles inn til ekstraordinær forsamling innen tre dager etter endt ordinær generalforsamling."
 
+### Forslag 11 (Hovedstyret)
+#### §4.1 Hovedstyret
+Fjerne setningen *"Leder av Hovedstyret skal avholde medarbeidersamtaler for hovedstyremedlemmer minst en gang i året"*. Dette flyttes ut i HS' retningslinjer.
+
+Endre setningen *"For at Hovedstyret skal være beslutningsdyktig må minst fire representanter være tilstede."* til *"For at Hovedstyret skal være beslutningsdyktig må minst halvparten representanter være tilstede."*
+
+Legge til setningen *"Leder av linjeforeningen Online har HMS-ansvar i organisasjonen."* Dette flyttes fra medlemmers rettigheter.
+
+### Forslag 12 (Hovedstyret)
+Legge til §4.1.2 Fravær av Hovedstyremedlem. Nåværende §4.1.2 blir 4.1.3. Paragraf 4.2.1 erstatter nåværende §6.1, som bare tar for seg fravær av økonomiansvarlig, og blir:  
+
+*"Dersom et Hovedstyremedlem blir fraværende er det nestleder i Hovedstyret, eller komitélederens nestleder som tar over Hovedstyremedlemmets plikter, oppgaver og rettigheter. Dersom en nestleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen. *
+
+*Dersom leder og/eller nestleder blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet."*
+
+§6.1 blir tatt ut av vedtektene.
+
+### Forslag 13 (Hovedstyret)
+Fjerne nåværende §4.1.3 Hovedstyrets virke og flytte det ut til HS' retningslinjer.
+
+### Forslag 14 (Hovedstyret)
+Endre nye §4.1.3 til *"En kandidat må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett semester med unntak av kandidatur til stillingen som leder av bank- og økonomikomiteen. Om en kandidat ikke har innehatt et verv i linjeforeningen, må kandidaten foreslås av valgkomiteen."*
 
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
 [4.2.1, 4.2.8]  \*komiteen  
