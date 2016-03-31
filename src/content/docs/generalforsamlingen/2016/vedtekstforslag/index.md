@@ -37,6 +37,10 @@ Linjeforeningen Online er en frivillig veldedig interesseorganisasjon for studen
 
 Online skal arbeide for å skape sterkere bånd mellom medlemmer på ulike årstrinn og være kontaktledd mellom medlemmene og eksterne aktører. 
 
+### Forslag 4 (Hovedstyret)
+
+Paragraf 3, fjerne setningen "Hovedstyret har ansvar for å samle inn saker som medlemmene ønsker å ha på dagsordenen" Dette er implisitt og gjøres i dag ved å ha en åpen wikiside hvor alle medlemmer har tilgang og kan legge inn saks- og vedtektsforslag. 
+
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
 [4.2.1, 4.2.8]  \*komiteen  
 Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.21 tom. 4.2.8 til *"Komiteens navn forkortes \*kom"*.  
