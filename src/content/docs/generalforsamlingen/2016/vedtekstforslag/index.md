@@ -203,7 +203,48 @@ Fjerne nåværende §4.1.3 Hovedstyrets virke og flytte det ut til HS' retningsl
 ### Forslag 14 (Hovedstyret)
 Endre nye §4.1.3 til *"En kandidat må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett semester med unntak av kandidatur til stillingen som leder av bank- og økonomikomiteen. Om en kandidat ikke har innehatt et verv i linjeforeningen, må kandidaten foreslås av valgkomiteen."*
 
-### Forslag (Thor Håkon Bredesen og Nils Herdé)
+### Forslag 15 (Hovedstyret)
+§4.2 Komiteer endres til §4.2 Kjernekomiteer. Paragrafteksten til 4.2 endres til:
+
+*"Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Enhver komite skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret.*
+							
+*Kun medlemmer av linjeforeningen kan inneha verv. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret."*
+
+Endringene her er: 1) det ikke er valgfritt om økonomiansvarlig i en komité er leder av banKom, 2) fjerne at økonomiansvarlig skal holde orden på økonomien da dette er implisitt og hører hjemme i retningslinjene og 3) fjerne at komitéleder skal holde medarbeidersamtaler og kan opprette egne komitéstillinger.
+
+### Forslag 16 (Hovedstyret)
+Fjerne §4.2.6 Pensjonistkomiteen og dermed legge ned pensjonistkomiteen. Denne komiteen er ikke lengre aktiv.
+
+### Forslag 17 (Hovedstyret)
+§4.2.* endres til å kun inneholde hovedoppgave og forkortelse. Disse paragrafene endres til:
+
+4.2.1 Arrangementskomiteen
+Komiteens hovedoppgave er å koordinere og gjennomføre sosiale arrangement. Komiteens navn forkortes arrKom.
+
+4.2.2 Bank- og økonomikomiteen
+Komiteens hovedoppgave er administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes banKom.
+
+4.2.3 Bedriftskomiteen			
+Komiteens hovedoppgaver er å være et bindeledd mellom linjeforeningens medlemmer og næringslivet, og å utarbeide en hovedsamarbeidsavtale med en bedrift for Linjeforeningen Online. Komiteens navn for- kortes bedKom.
+
+4.2.4 Drifts- og utviklingskomiteen			
+Komiteens hovedoppgave er å utvikle og vedlikeholde linjeforeningens datasystemer. Komiteens navn forkortes dotKom.
+
+4.2.5 Fag- og kurskomiteen					
+Komiteens hovedoppgave er å koordinere og gjennomføre arrangement som tilbyr faglig innhold, primært for linjeforeningens egne medlemmer. Komiteens navn forkortes fagKom.
+
+4.2.6 Profil- og aviskomiteen					
+Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi ut linjeforeningens tidsskrift. Komiteens navn forkortes proKom.
+
+4.2.7 Trivselskomiteen	
+Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes triKom.
+
+4.2.8 Seniorkomiteen
+Komiteens hovedoppgave vil være å bist å med kunnskap, erfaring og assistanse i Linjeforeningens daglige drift. Seniorkomiteens navn forkortes seniorKom. 					
+
+Seniorkomiteen velger selv sin leder. Leder av Seniorkomiteen har møte- og talerett i Hovedstyret. 
+
+### Forslag 18 (Hovedstyret)
 [4.2.1, 4.2.8]  \*komiteen  
 Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.21 tom. 4.2.8 til *"Komiteens navn forkortes \*kom"*.  
 Dette er ønskelig fordi forkortelsen, når brukt i starten av en setning, brukes inkonsekvent (f.eks.: proKom bla bla bla, eller ProKom bla bla bla), og Språkrådet anbefaler å ha kun små bokstaver siden camelCase ikke er en del av det norske språket.
