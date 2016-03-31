@@ -344,3 +344,27 @@ En endring er at nestleder tar automatisk over.
 ### Forslag 33 (Hovedstyret)
 §7.2 legger til setningen:
 *"Generalforsamlingen kan ved kvalifisert flertall overføre midler til andre organisasjoner som jobber for studenter."*
+
+
+### Forslag 34 (Ridderordenen)
+
+Ridderskapet foreslår en omstruktutering og forenkling av den delen av vedtektene som omhandler ridderordenen.
+
+**Endre kapittel om ridderskapet til følgende:**
+
+§ X.X Ridderne av det Indre Lager
+Linjeforeningen har en Ridderorden for medlemmer som gjennom sitt arbeid har utmerket seg. Denne ordenen er selvorganisert, og faller utenfor daglig drift av linjeforeningen.
+
+X.X.1 Formål
+
+Ridderordenen er primært tilgjengelig som en kilde for kunnskap, historie og meninger. Et mål for Ridderordenen er å kunne bistå med tanker rundt organisasjonen, verdiene til linjeforeningen og langsiktige planer.
+
+Ridderordenen plikter å etterstrebe en god tilstedeværelse under opptaket av nye medlemmer til linjeforeningen. Ansamlingen av Riddere i denne anledning betegnes som Eldsterådet.
+
+X.X.2 Organisering
+
+Ridderordenen består av flere grader hvor høyere grader betegner større engasjement.
+
+X.X.3 Medlemskap
+
+Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevnelser foregår i formelle anledninger der en betydelig del av linjeforeningens medlemmer er samlet. Før Ridderordenen kan utnevne kandidater skal sittende leder av Hovedstyret underrettes om hvilke kandidater det gjelder. For å vurderes til utnevnelse må en kandidat på et tidspunkt ha oppfylt kravene til medlemskap, ifølge §5 Medlemmer. Engasjement som vektlegges når Ridderordenen vurderer kandidater inkluderer verv i linjeforeningen og andre organisasjoner som er direkte knyttet til linjeforeningen.
