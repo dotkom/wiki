@@ -353,6 +353,8 @@ Ridderordenen foreslår en omstruktutering og forenkling av den delen av vedtekt
 **Endre kapittel om ridderskapet til følgende:**
 
 § X.X Ridderne av det Indre Lager
+
+
 Linjeforeningen har en Ridderorden for medlemmer som gjennom sitt arbeid har utmerket seg. Denne ordenen er selvorganisert, og faller utenfor daglig drift av linjeforeningen.
 
 X.X.1 Formål
