@@ -100,6 +100,20 @@ Ekstraordinær generalforsamling skal kun behandle sakene som forårsaket innkal
 
 ### Forslag 7 (Hovedstyret) 
 
+#### Spesifisere valgkom i større grad i vedtektene. 
+
+Forklaring: Hovedstyret vil at valgkom skal gjøre et godt grunnarbeid i å finne kandidater som vil gjøre en god jobb med å føre Online fremover. Det er i dag spesifisert at valgkom skal velges hver generalforsamling, men det står ingenting om hva som er valgkoms oppgaver og plikter. 
+
+Vi vil derfor legge til et punkt under §3.3 om valgkom og deres oppgaver. 
+
+Vi vil endre §3.3 Organisering til: 
+
+Ved generalforsamling er disse vervene nødvendig:			
+* Ordstyrer
+* To referenter - skriver referat under generalforsamling og samarbeider om renskriving
+* Minst to til tellekorps - teller opp stemmer ved avstemming
+* To paraferer - godkjenner referat fra generalforsamling
+* Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling 
 
 
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
