@@ -325,7 +325,7 @@ Tidligere:
 *"Ved grov uaktsomhet eller brudd på norsk lov kan Hovedstyret, med kvalifisert flertall, fatte vedtak om å eksludere et medlem ut av linjeforeningen."*
 
 ### Forslag 30 (Hovedstyret)
-§6 blir kraftig redusert, og mesteparten blir lagt til i retningslinjer for banKom, eller forretningsorden. Hele §6 er nå:
+§6 blir kraftig redusert, og mesteparten blir lagt til i retningslinjer for banKom, eller forretningsorden. Følgende endringer blir utført:
 
 Fjernes:
 *"Leder av banKom skal legge frem status for linjeforeningens økonomi på hvert hovedstyremøte samt gjøre det daglige økonomiarbeid for Hovedstyret.*
