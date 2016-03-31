@@ -368,3 +368,15 @@ Ridderordenen består av flere grader hvor høyere grader betegner større engas
 X.X.3 Medlemskap
 
 Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevnelser foregår i formelle anledninger der en betydelig del av linjeforeningens medlemmer er samlet. Før Ridderordenen kan utnevne kandidater skal sittende leder av Hovedstyret underrettes om hvilke kandidater det gjelder. For å vurderes til utnevnelse må en kandidat på et tidspunkt ha oppfylt kravene til medlemskap, ifølge §5 Medlemmer. Engasjement som vektlegges når Ridderordenen vurderer kandidater inkluderer verv i linjeforeningen og andre organisasjoner som er direkte knyttet til linjeforeningen.
+
+
+### Forslag 35 (Ridderodenen)
+
+Ridderordenen legger frem følgende forlsag ang. æresmedlemmer:
+
+X.X Æresmedlemmer
+Æresmedlemmer er personer som har bidratt i særskilt stor grad til å avansere linjeforeningen, informatikkfaget eller bidratt i stor grad til saker hvor linjeforeningen eller informatikk er påvirket.
+
+Æresmedlem er en tittel hovedsaklig for personer som ikke har vært medlem av linjeforeningen.
+
+Æresmedlemmer utnevnes av Hovedstyret.
