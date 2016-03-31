@@ -308,7 +308,7 @@ Fjerner
 *"Medlemmer som har utført et arbeid for linjeforeningen har rett til å få attest av Hovedstyret ved forespørsel. "*
 
 ### Forslag 28 (Hovedstyret)
-§5.1.1 Fjerne æresmedlemmer fra medlemmer på livstid, og fjerne livstidsmedlemmers stemmerett.
+§5.1.1 - Ny paragraf som utdyper livstidsmedlemmers rettigheter. Fjerner æresmedlemmer fra medlemmer på livstid, og fjerner livstidsmedlemmers stemmerett.
 
 *"Et medlem på livstid kan delta på sosiale arrangementer arrangert for alle medlemmer. I tillegg har medlemmer på livstid møte- og talerett på generalforsamlingen, men ikke stemmerett.*
 
