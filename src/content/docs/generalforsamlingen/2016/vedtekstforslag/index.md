@@ -39,7 +39,26 @@ Online skal arbeide for å skape sterkere bånd mellom medlemmer på ulike årst
 
 ### Forslag 4 (Hovedstyret)
 
-Paragraf 3, fjerne setningen "Hovedstyret har ansvar for å samle inn saker som medlemmene ønsker å ha på dagsordenen" Dette er implisitt og gjøres i dag ved å ha en åpen wikiside hvor alle medlemmer har tilgang og kan legge inn saks- og vedtektsforslag. 
+Paragraf 3, fjerne siste setning i første avsnitt: "Hovedstyret har ansvar for å samle inn saker som medlemmene ønsker å ha på dagsordenen." Dette er implisitt og gjøres i dag ved å ha en åpen wikiside hvor alle medlemmer har tilgang og kan legge inn saks- og vedtektsforslag. 
+
+Paragraf 3 - første avsnitt endres til: 
+
+"Generalforsamlingen er linjeforeningens øverste organ og er uavhengig av gjeldende hovedstyrevedtak. Generalforsamlingen avholdes årlig i løpet av vårsemesteret."
+
+### Forslag 5 (Hovedstyret)
+
+Paragraf 3 - endre første setning i andre avsnitt fra "år" til "budsjettperiode."
+
+Paragraf 3, andre avsnitt endres til: 
+
+"Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode.  Valgkomite må velges for det neste året."
+
+### Forslag 6 (Hovedstyret)
+
+Flytte at alle medlemmer har stemme og talerett på generalforsamlingen ut fra paragraf 3 og til paragraf 5 - Medlemmers rettigheter
+
+
+### Forslag 7 (Hovedstyret)
 
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
 [4.2.1, 4.2.8]  \*komiteen  
