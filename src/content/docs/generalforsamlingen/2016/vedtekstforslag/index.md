@@ -106,15 +106,31 @@ Forklaring: Hovedstyret vil at valgkom skal gjøre et godt grunnarbeid i å finn
 
 Vi vil derfor legge til et punkt under §3.3 om valgkom og deres oppgaver. 
 
+Vil også legge til at sittende valgkomité fraskriver seg retten til å stille til valg på generalforsamlingen de skal foreslå kandidater til i §3.6.1 Fraskrivelse av retten til å stille til en komité.
+
 Vi vil endre §3.3 Organisering til: 
 
-Ved generalforsamling er disse vervene nødvendig:		 
+"Ved generalforsamling er disse vervene nødvendig:		 
 	
 * Ordstyrer  
 * To referenter - skriver referat under generalforsamling og samarbeider om renskriving  
 * Minst to til tellekorps - teller opp stemmer ved avstemming  
 * To paraferer - godkjenner referat fra generalforsamling  
-* Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling   
+* Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling"  
+
+Og §3.6.1 til: 
+
+#### "§3.6.1 Fraskrivelse av rett til å stille til valg			
+Personer som er valgt til et av følgende verv under Generalforsamlingen fraskriver seg sin rett til å stille til alle andre valg til Hovedstyret.
+					
+* Ordstyrer  
+* Referent  
+* Tellekorps  
+
+Med å stille til andre valg menes det at man ikke kan stille, eller bli nominert, til andre verv under Generalforsamlingen og valg til Hovedstyret.
+
+Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
+
 
 
 #### Forslag 8 (Hovedstyret)  
@@ -158,6 +174,11 @@ Legge til som tredje avsnitt:
 
 
 Forslag 10 (Hovedstyret)
+#### § 3.6 Gjennomføring av valg
+
+Endre tredje avsnitt slik at forrige valgte leder til et verv sitter helt frem til det er valgt en ny. Tredje avsnitt endres til: 
+
+"Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført et godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å gjennomføre et valg må det kalles inn til ekstraordinær forsamling innen tre dager etter endt ordinær generalforsamling."
 
 
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
