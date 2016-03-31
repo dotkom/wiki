@@ -41,19 +41,19 @@ Online skal arbeide for å skape sterkere bånd mellom medlemmer på ulike årst
 
 #### §3 
 
-##### Fjerne siste setning i første avsnitt
+#### Fjerne siste setning i første avsnitt
 
 "Hovedstyret har ansvar for å samle inn saker som medlemmene ønsker å ha på dagsordenen." 
 
 Forklaring: Dette er implisitt og gjøres i dag ved å ha en åpen wikiside hvor alle medlemmer har tilgang og kan legge inn saks- og vedtektsforslag. 
 
-##### Endre første setning i andre avsnitt fra "år" til "budsjettperiode."
+#### Endre første setning i andre avsnitt fra "år" til "budsjettperiode."
 
-##### Flytte at alle medlemmer har stemme og talerett på generalforsamlingen ut fra §3 og til §5 - Medlemmers rettigheter
+#### Flytte at alle medlemmer har stemme og talerett på generalforsamlingen ut fra §3 og til §5 - Medlemmers rettigheter
 
 Forklaring: Det blir mer mer oversiktlig
 
-##### Legge til et fjerde avsnitt at Hovedstyret kan gjøre redaksjonelle endringer i etterkant av generalforsamlingen. 
+#### Legge til et fjerde avsnitt at Hovedstyret kan gjøre redaksjonelle endringer i etterkant av generalforsamlingen. 
 
 Forklaring: Dette tas opp som saksforslag hver generalforsamling og godkjennes hvert år, like greit å ha det skrevet i vedtektene. Redaksjonelle endringer vil si at skrivefeil og lignende, som ikke endrer vedtektenes mening kan fikses.  
 
