@@ -108,7 +108,8 @@ Vi vil derfor legge til et punkt under §3.3 om valgkom og deres oppgaver.
 
 Vi vil endre §3.3 Organisering til: 
 
-Ved generalforsamling er disse vervene nødvendig:			
+Ved generalforsamling er disse vervene nødvendig:		 
+	
 * Ordstyrer  
 * To referenter - skriver referat under generalforsamling og samarbeider om renskriving  
 * Minst to til tellekorps - teller opp stemmer ved avstemming  
