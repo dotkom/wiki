@@ -290,3 +290,57 @@ Nåværende §4.7 Mislighold av verv flyttes før paragrafen om ridderorden. Set
 ### Forslag 25 (Hovedstyret)
 Nåværende §4.6 blir til §4.7 og endres til:  
 *"Et verv i linjeforeningen varer i seks semestre fra måneden man ble tatt opp. Dersom man ønsker å være et aktivt komitemedlem etter disse seks semestre kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene til linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i Seniorkomiteen."*
+
+### Forslag 26 (Hovedstyret)
+§5 Fjerne alle studium som ikke er bachelor og master informatikk. (Resten har HS anledning til å gi medlemsskap uansett)  
+*"Studenter ved følgende studier er medlemmer av linjeforeningen:		
+Bachelor i informatikk (BIT)  
+Master i informatikk (MIT)  
+PhD, de som har tatt en bachelor i informatikk eller master"*
+
+### Forslag 27 (Hovedstyret)
+§5.1 Medlemmers rettigheter - her samles alt som står om medlemmers rettigheter rundt i vedtektene.
+
+Legger til
+*"Alle medlemmer av linjeforeningen har møte-, tale- og stemmerett på linjeforeningens generalforsamling. Alle medlemmer av linjeforeningen har rett til å søke Hovedstyret om å starte opp nodekomiteer.* I tillegg har alle medlemmer rett til å delta på de arrangementer som arrangeres for medlemmene*, gitt at arrangementets spesifikasjoner passer det aktuelle medlemmet."*
+
+Fjerner
+*"Medlemmer som har utført et arbeid for linjeforeningen har rett til å få attest av Hovedstyret ved forespørsel. "*
+
+### Forslag 28 (Hovedstyret)
+§5.1.1 Fjerne æresmedlemmer fra medlemmer på livstid, og fjerne livstidsmedlemmers stemmerett.
+
+*"Et medlem på livstid kan delta på sosiale arrangementer arrangert for alle medlemmer. I tillegg har medlemmer på livstid møte- og talerett på generalforsamlingen, men ikke stemmerett.*
+
+*Følgende er medlemmer av linjeforeningen på livstid: 
+Riddere av det Indre lager"*
+
+
+### Forslag 29 (Hovedstyret)
+§5.2 blir en subparagraf på §4, §5.3 blir §5.2, og 5.4 til 5.3.
+Endre andre paragraf i 5.2 til:  
+*“Hovedstyret kan, ved skjellig grunn, utestenge medlemmer fra linjeforeningen, midlertidig eller permanent, dersom det er kvalifisert flertall for det. “*
+
+Tidligere:
+*"Ved grov uaktsomhet eller brudd på norsk lov kan Hovedstyret, med kvalifisert flertall, fatte vedtak om å eksludere et medlem ut av linjeforeningen."*
+
+### Forslag 30 (Hovedstyret)
+§6 blir kraftig redusert, og mesteparten blir lagt til i retningslinjer for banKom, eller forretningsorden. Hele §6 er nå:
+
+Fjernes:
+*"Leder av banKom skal legge frem status for linjeforeningens økonomi på hvert hovedstyremøte samt gjøre det daglige økonomiarbeid for Hovedstyret.*
+					
+*Økonomiansvarlig i øvrige komiteer er ansvarlig for å utarbeide budsjett og føre regnskap for sin komite. Gjennom året skal disse holde sin komite og banKom oppdatert på den økonomiske situasjonen og gjøre det daglige økonomiarbeidet for sin komite. På generalforsamlingen skal de økonomiansvarlige legge frem regnskap for det foregående året, samt legge frem budsjettforslag for neste år.*
+
+*Linjeforeningen kan søke støtte der den finner det hensiktsmessig, såfremt det ikke anses skadelig for linjeforeningens omdømme."*
+
+### Forslag 31 (Hovedstyret)
+§6.1 er dekket av 4.1.2, og fjernes.
+En endring er at nestleder tar automatisk over.
+
+### Forslag 32 (Hovedstyret)
+§6.2 fjernes, da praksis i dag er at vi ikke har forsikringer.
+
+### Forslag 33 (Hovedstyret)
+§7.2 legger til setningen:
+*"Generalforsamlingen kan ved kvalifisert flertall overføre midler til andre organisasjoner som jobber for studenter."*
