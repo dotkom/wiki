@@ -348,7 +348,7 @@ En endring er at nestleder tar automatisk over.
 
 ### Forslag 34 (Ridderordenen)
 
-Ridderskapet foreslår en omstruktutering og forenkling av den delen av vedtektene som omhandler ridderordenen.
+Ridderordenen foreslår en omstruktutering og forenkling av den delen av vedtektene som omhandler ridderordenen.
 
 **Endre kapittel om ridderskapet til følgende:**
 
@@ -370,7 +370,7 @@ X.X.3 Medlemskap
 Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevnelser foregår i formelle anledninger der en betydelig del av linjeforeningens medlemmer er samlet. Før Ridderordenen kan utnevne kandidater skal sittende leder av Hovedstyret underrettes om hvilke kandidater det gjelder. For å vurderes til utnevnelse må en kandidat på et tidspunkt ha oppfylt kravene til medlemskap, ifølge §5 Medlemmer. Engasjement som vektlegges når Ridderordenen vurderer kandidater inkluderer verv i linjeforeningen og andre organisasjoner som er direkte knyttet til linjeforeningen.
 
 
-### Forslag 35 (Ridderodenen)
+### Forslag 35 (Ridderordenen)
 
 Ridderordenen legger frem følgende forlsag ang. æresmedlemmer:
 
