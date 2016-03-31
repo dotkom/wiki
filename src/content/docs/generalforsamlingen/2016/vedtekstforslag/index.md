@@ -58,7 +58,19 @@ Paragraf 3, andre avsnitt endres til:
 Flytte at alle medlemmer har stemme og talerett på generalforsamlingen ut fra paragraf 3 og til paragraf 5 - Medlemmers rettigheter
 
 
-### Forslag 7 (Hovedstyret)
+### Forslag 7 (Hovedstyret) 
+
+Paragraf 3 - legge til som fjerde avsnitt at Hovedstyret kan gjøre redaksjonelle endringer i etterkant av generalforsamlingen. 
+
+Introen under paragraf 3 endres i sin helhet til: 
+
+"Generalforsamlingen er linjeforeningens øverste organ og er uavhengig av gjeldende hovedstyrevedtak. Generalforsamlingen avholdes årlig i løpet av vårsemesteret.
+
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode.  Valgkomite må velges for det neste året.
+
+Alle medlemmer i linjeforeningen har rett til å levere saks- og vedtektsforslag.
+
+Hovedstyret kan i etterkant av Generalforsamlingen gjøre redaksjonelle endringer i vedtektene."
 
 ### Forslag (Thor Håkon Bredesen og Nils Herdé)
 [4.2.1, 4.2.8]  \*komiteen  
