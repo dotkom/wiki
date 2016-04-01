@@ -25,7 +25,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 ### Forslag 2 (Christoffer Skar Lofsberg)
 
-* Hovedstyret skal avholde en åpen diskusjonskveld minst en gang i semesteret hvor hovedstyrevedtak og annet anliggende kan diskuteres. Dette for å fremme åpenhet ovenfor Onlines medlemmer.
+* Hovedstyret skal avholde en åpen diskusjonskveld minst en gang i løpet høstsemesteret, og ellers ved behov. Her kan hovedstyrevedtak og eventuelle andre saker diskuteres. Diskusjonskveldene er til for å fremme åpenhet over hva Hovedstyret gjør ovenfor medlemene i linjeforeningen.
 
 ### Forslag 3 (Sondre Auestad)
 
