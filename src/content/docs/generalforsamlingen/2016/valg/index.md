@@ -21,7 +21,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *banKom:* Kristoffer Hajem
 * *bedKom:* Magnus Kongshem
 * *dotKom:* Håkon Solbjørg
-* *fagKom:* 
+* *fagKom:* Jim Tørlen
 * *proKom:* 
 * *triKom:*  
 
