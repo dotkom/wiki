@@ -19,9 +19,9 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *Nestleder:* Christoffer Skar Lofsberg
 * *arrKom:* 
 * *banKom:* Kristoffer Hajem
-* *bedKom:* Magnus Kongshem
+* *bedKom:* 
 * *dotKom:* Håkon Solbjørg
-* *fag:* Jim Tørlen
+* *fagKom:*
 * *proKom:* 
 * *triKom:*  
 
