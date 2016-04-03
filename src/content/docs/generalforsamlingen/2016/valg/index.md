@@ -15,8 +15,8 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
 
 
-* *Leder:*      
-* *Nestleder:* Christoffer Skar Lofsberg
+* *Leder:* Thor Håkon Bredesen      
+* *Nestleder:* Christoffer Skar Lofsberg, Signe Elise Livgard
 * *arrKom:* 
 * *banKom:* Kristoffer Hajem
 * *bedKom:* 
