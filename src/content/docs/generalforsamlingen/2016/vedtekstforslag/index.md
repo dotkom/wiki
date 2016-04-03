@@ -45,7 +45,7 @@ Online skal arbeide for å skape sterkere bånd mellom medlemmer på ulike årst
 
 "Hovedstyret har ansvar for å samle inn saker som medlemmene ønsker å ha på dagsordenen." 
 
-Forklaring: Dette er implisitt og gjøres i dag ved å ha en åpen wikiside hvor alle medlemmer har tilgang og kan legge inn saks- og vedtektsforslag. 
+Forklaring: Dette er implisitt og gjøres i dag ved å ha en åpen wikiside hvor alle medlemmer har tilgang og kan legge inn saks- og vedtektsforslag. I tillegg står det spesifisert i §3.1 at saks- og vedtektsforslag skal sendes til Hovedstyret senest to uker før. 
 
 #### Endre første setning i andre avsnitt fra "år" til "budsjettperiode."
 
