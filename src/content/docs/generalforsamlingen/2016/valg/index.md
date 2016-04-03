@@ -16,7 +16,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 
 
 * *Leder:* Thor Håkon Bredesen      
-* *Nestleder:* Christoffer Skar Lofsberg, Signe Elise Livgard
+* *Nestleder:* Signe Elise Livgard
 * *arrKom:* 
 * *banKom:* Kristoffer Hajem
 * *bedKom:* 
