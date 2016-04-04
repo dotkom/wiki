@@ -15,6 +15,7 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Fag- og kurskomiteen](/wiki/online/retningslinjer/fagkom/)
 - [Profil- og aviskomiteen](/wiki/online/retningslinjer/prokom/)
 - [Trivselskomiteen](/wiki/online/retningslinjer/trikom/)
+- [Seniorkomiteen](/wiki/online/retningslinjer/senkom/)
 
 ### Nodekomiteer
 
