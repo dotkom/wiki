@@ -50,7 +50,6 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 * 4.2 paragraftekst, fjerne at økonomiansvarlig skal holde orden på økonomien og fjerne at komitéleder skal avholde medarbeidersamtaler og kan opprette egne komitéstillinger. Dette er implisitt og flyttes til komiteenes retningslinjer
 * 4.2 Legge til at komiteene også må ha nestleder
 * 4.2.6 Fjerne pangkom da komiteen ikke lenger er aktiv og med det legge ned komiteen
-* 4.4.2 Bank- og økonomikomiteen, fjerne “Komiteens medlemmer utgjøres av økonomiansvarlig fra de andre komiteene” Dette flyttes til bankoms retningslinjer
 * 4.2.3 Bedriftskomiteen, endre hovedsamarbeidssamtale til hovedsamarbeidsavtale og endre til liten bokstav i linjeforeningen Online. 
 * 4.2.7 Trivselskomiteen - fjerne hva ansvaret for kontoret innebærer. Noe er utdatert og noe flyttes til trikoms retningslinjer
 * 4.2.8 Seniorkomiteen - fjerne at seniorkomiteen tar opp sine egne medlemmer og at Hovedstyret gjør det dersom seniorkomiteen ikke har mulighet. Dette er praksis og hører hjemme i retningslinjene til hovedstyret og seniorkomiteen
@@ -177,8 +176,6 @@ Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarl
 							
 Kun medlemmer av linjeforeningen kan inneha verv. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret. 
 
-###### 4.2.2 Bank- og økonomikomiteen
-Komiteens hovedoppgave er administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes banKom.
 ###### 4.2.3 Bedriftskomiteen			
 Komiteens hovedoppgaver er å være et bindeledd mellom linjeforeningens medlemmer og næringslivet, og å utarbeide en hovedsamarbeidsavtale med en bedrift for linjeforeningen Online. Komiteens navn for- kortes bedKom.
 ###### 4.2.7 Trivselskomiteen	
@@ -255,7 +252,7 @@ Fjerne *"Linjeforeningen for informatikk, Online"* som tillatt permutasjon.
 Endre hele paragraf 1.2 til:  
 
 1.2.1 Kjernekomité  
-I Online er en kjernekomité en komité der komiteens leder er en del av Hovedstyret, i tillegg til Seniorkomiteen. 
+I Online er en kjernekomité en komité der komiteens leder er en del av Hovedstyret. Seniorkomiteen er også en kjernekomité. 
 
 1.2.2 Nodekomite  
 Nodekomiteer er grupperinger hvor hovedstyret står ansvarlig for komiteens opptak.
@@ -318,9 +315,9 @@ Paragrafen foreslås endret til:
 
 #### §3.2 - Flytte kravet om at 10 medlemmer må ville ha ekstraordinær generalforsamling ved mistillitsforslag til flere styremedlemmer til første avsnitt i 3.2. 
 
-Forklaring: Dette vil gjøre dette kravet generelt gjeldene for alle ekstraordinære generalforsamlinger. 
+Forklaring: Dette vil gjøre dette kravet generelt gjeldene for alle ekstraordinære generalforsamlinger, ikke bare for ekstraordinær genfors ved mistillit til flere HS-medlemmer
 
-#### Legge til at en ekstraordinær generalforsamling kun skal behandle sakene det er kalt inn til generalforsamling for. 
+#### Legge til at en ekstraordinær generalforsamling kun skal behandle den(de) saken(e) som står på dagsordenen til den ekstraordinære generalforsamlingen. 
 
 Forklaring: Dette er slik en ekstraordinær generalforsamling funker, greit å spesifisere det. 
 
@@ -328,8 +325,7 @@ Forklaring: Dette er slik en ekstraordinær generalforsamling funker, greit å s
 
 "Denne kan innkalles av Hovedstyret eller om det minste av 1/8 av medlemmene og 10 medlemmer ønsker det. Fristene for å kalle inn til ekstraordinær er halvert i forhold til fristene for ordinær, jamfør §3.1.
 
-Ekstraordinær generalforsamling skal kun behandle sakene som forårsaket innkallingen."
-
+Ekstraordinær generalforsamling skal kun behandle den (de) saken(e) som står på dagsorden for den ekstraordinære generalforsamlingen"
 
 Kravet om minst 10 medlemmer fjernes også fra §4.5. 
 
@@ -370,17 +366,15 @@ Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
 
 ### Forslag 8 (Hovedstyret)  
 
-#### §3.4 Legge til en spesifiserende setning angående blanke stemmer
-
-Endres til: "Blanke stemmer er ikke tellende og teller dermed ikke blant oppmøtte med stemmerett, med mindre annet er spesifisert."
+#### §3.4 Legge til en spesifiserende setning angående blanke stemmer ved alminnelig og kvalifisert flertall
 
 I tillegg er det en omstrukturering av teksten og redaksjonelle endringer for å gjøre paragrafen mer generell og oversiktlig. §3.4 endres i sin helhet til: 
 
 #### " 3.4 Beslutningsdyktighet og avstemming	
 			
 For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmene ha møtt opp.  
-Alminnelig flertall er definert som 1/2 av de oppmøtte med stemmerett, med unntak av blanke stemmer. 
-Kvalifisert flertall er definert som 2/3 av de oppmøtte med stemmerett, med unntak av blanke stemmer.
+Alminnelig flertall er definert som 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer. 
+Kvalifisert flertall er definert som 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
 
 Blanke stemmer er ikke tellende, med mindre annet er spesifisert.	
 
@@ -419,24 +413,24 @@ Endre tredje avsnitt slik at forrige valgte leder til et verv sitter helt frem t
 #### §4.1 Hovedstyret
 Fjerne setningen *"Leder av Hovedstyret skal avholde medarbeidersamtaler for hovedstyremedlemmer minst en gang i året"*. Dette flyttes ut i HS' retningslinjer.
 
-Endre setningen *"For at Hovedstyret skal være beslutningsdyktig må minst fire representanter være tilstede."* til *"For at Hovedstyret skal være beslutningsdyktig må minst halvparten representanter være tilstede."*
+Endre setningen *"For at Hovedstyret skal være beslutningsdyktig må minst fire representanter være tilstede."* til *"For at Hovedstyret skal være beslutningsdyktig må minst halvparten av representantene være tilstede."*
 
 Legge til setningen *"Leder av linjeforeningen Online har HMS-ansvar i organisasjonen."* Dette flyttes fra medlemmers rettigheter.
 
 ### Forslag 12 (Hovedstyret)
-Legge til §4.1.2 Fravær av Hovedstyremedlem. Nåværende §4.1.2 blir 4.1.3. Paragraf 4.2.1 erstatter nåværende §6.1, som bare tar for seg fravær av økonomiansvarlig, og blir:  
+Legge til §4.1.2 Fravær av Hovedstyremedlem. Nåværende §4.1.2 blir §4.1.3. Paragraf 4.2.1 erstatter nåværende §6.1, som bare tar for seg fravær av økonomiansvarlig, og blir:  
 
-*"Dersom et Hovedstyremedlem blir fraværende er det nestleder i Hovedstyret, eller komitélederens nestleder som tar over Hovedstyremedlemmets plikter, oppgaver og rettigheter. Dersom en nestleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen. *
+*"Dersom leder av Hovedstyret blir fraværende er det nestleder i Hovedstyret som skal fylle stillingen. Dersom en komitéleder blir fraværende er det komitélederens nestleder som tar over komitélederens plikter, oppgaver og rettigheter. Dersom en nestleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen. 
 
-*Dersom leder og/eller nestleder blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet."*
+Dersom leder og/eller nestleder av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet."
 
-§6.1 blir tatt ut av vedtektene.
+§6.1 Utilgjengelighet av økonomiansvarlig blir fjernet fra kapittel 6.
 
 ### Forslag 13 (Hovedstyret)
 Fjerne nåværende §4.1.3 Hovedstyrets virke og flytte det ut til HS' retningslinjer.
 
 ### Forslag 14 (Hovedstyret)
-Endre nye §4.1.3 til *"En kandidat må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett semester med unntak av kandidatur til stillingen som leder av bank- og økonomikomiteen. Om en kandidat ikke har innehatt et verv i linjeforeningen, må kandidaten foreslås av valgkomiteen."*
+Endre nye §4.1.3 Krav til kandidater til *"En kandidat må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett semester med unntak av kandidatur til stillingen som leder av bank- og økonomikomiteen. Om en kandidat ikke har innehatt et verv i linjeforeningen, må kandidaten foreslås av valgkomiteen."*
 
 ### Forslag 15 (Hovedstyret)
 §4.2 Komiteer endres til §4.2 Kjernekomiteer. Paragrafteksten til 4.2 endres til:
@@ -445,31 +439,21 @@ Endre nye §4.1.3 til *"En kandidat må ha innehatt et verv i en av kjernekomite
 							
 *Kun medlemmer av linjeforeningen kan inneha verv. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret."*
 
-Endringene her er: 1) det ikke er valgfritt om økonomiansvarlig i en komité er leder av banKom, 2) fjerne at økonomiansvarlig skal holde orden på økonomien da dette er implisitt og hører hjemme i retningslinjene og 3) fjerne at komitéleder skal holde medarbeidersamtaler og kan opprette egne komitéstillinger.
+Endringene her er: 1) fjerne av det er valgfritt om økonomiansvarlig i en komité er leder av banKom, 2) fjerne at økonomiansvarlig skal holde orden på økonomien da dette er implisitt og hører hjemme i retningslinjene og 3) fjerne at komitéleder skal holde medarbeidersamtaler og kan opprette egne komitéstillinger.
 
 ### Forslag 16 (Hovedstyret)
 Fjerne §4.2.6 Pensjonistkomiteen og dermed legge ned pensjonistkomiteen. Denne komiteen er ikke lengre aktiv.
 
 ### Forslag 17 (Hovedstyret)
-§4.2.* endres til å kun inneholde hovedoppgave og forkortelse. Disse paragrafene endres til:
+§4.2.* endres til å kun inneholde hovedoppgave og forkortelse. 
+Endringer: 
 
-4.2.1 Arrangementskomiteen  
-Komiteens hovedoppgave er å koordinere og gjennomføre sosiale arrangement. Komiteens navn forkortes arrKom.
-
-4.2.2 Bank- og økonomikomiteen  
-Komiteens hovedoppgave er administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes banKom.
+* 4.2.3 Bedriftskomiteen, endre hovedsamarbeidssamtale til hovedsamarbeidsavtale og endre til liten bokstav i linjeforeningen Online. 
+* 4.2.7 Trivselskomiteen - fjerne hva ansvaret for kontoret innebærer. Noe er utdatert og noe flyttes til trikoms retningslinjer
+* 4.2.8 Seniorkomiteen - fjerne at seniorkomiteen tar opp sine egne medlemmer og at Hovedstyret gjør det dersom seniorkomiteen ikke har mulighet. Dette er praksis og hører hjemme i retningslinjene til hovedstyret og seniorkomiteen
 
 4.2.3 Bedriftskomiten  		
 Komiteens hovedoppgaver er å være et bindeledd mellom linjeforeningens medlemmer og næringslivet, og å utarbeide en hovedsamarbeidsavtale med en bedrift for Linjeforeningen Online. Komiteens navn for- kortes bedKom.
-
-4.2.4 Drifts- og utviklingskomiteen  		
-Komiteens hovedoppgave er å utvikle og vedlikeholde linjeforeningens datasystemer. Komiteens navn forkortes dotKom.
-
-4.2.5 Fag- og kurskomiteen	  	
-Komiteens hovedoppgave er å koordinere og gjennomføre arrangement som tilbyr faglig innhold, primært for linjeforeningens egne medlemmer. Komiteens navn forkortes fagKom.
-
-4.2.6 Profil- og aviskomiteen  		
-Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi ut linjeforeningens tidsskrift. Komiteens navn forkortes proKom.
 
 4.2.7 Trivselskomiteen  
 Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes triKom.
