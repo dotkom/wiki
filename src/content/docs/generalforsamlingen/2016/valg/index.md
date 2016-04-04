@@ -23,7 +23,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *dotKom:* Håkon Solbjørg
 * *fagKom:*
 * *proKom:* 
-* *triKom:*  
+* *triKom:*  Erik Wiker
 
 Vennligst merk at:
 
