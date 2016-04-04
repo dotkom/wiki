@@ -12,4 +12,4 @@ Saksliste vil bli publisert senest én uke før generalforsamlingen
 
 ### Forslag 1, Nils Herde
 
-Komiteer bør ha mulighet til å, ved behov, bruke penger på komitemedlemmers faglige utvikling
+Komiteer bør ha mulighet til å, ved behov, bruke penger på komitemedlemmers faglige utvikling. Ønskes 3000,- for pilotprosjekt i dotkom.
