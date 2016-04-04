@@ -34,3 +34,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 ### Forslag 4 (Signe Elise Livgard)
 
 * For å produsere plakater, årbok, Offline og andre ting proKom gjør brukes Adobe Illustrator, Adobe Photoshop og Adobe InDesign. Disse programmene krever lisens, som medlemmer av komiteen (proKom) i dag betaler av egen lomme. Dette er noe vi ikke kan forvente av våre medlemmer, da hver lisens koster 2849,15 kr per år (1830 kr første år). Det foreslås å kjøpe en gruppelisens for komiteen, som kun aktive komitémedlemmer kan benytte seg av. Dette er rimeligere enn enkeltlisenser.
+
+### Forslag 5 (Nils Herde)
+
+* Komiteer bør ha mulighet til å, ved behov, bruke penger på komitemedlemmers faglige utvikling. Ønskes 3000,- for pilotprosjekt i dotkom.
