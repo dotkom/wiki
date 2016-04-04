@@ -484,7 +484,7 @@ Legge til §4.4 Interessegrupper. Følgelig får påfølgende paragrafer nummer 
 Nåværende §4.5 Kontoret tas ut av retningslinjene. Dette er en del av trivselskomiteens virke.
 
 ### Forslag 23 (Hovedstyret)
-Nåværende §4.4 Permisjon eller oppsigelse fra komité endres til:  
+Nåværende §4.4 Permisjon eller oppsigelse fra komité, her endres "fra respektive komité" til: "fra en komité" Blir til: 
 
 *4.5.1 Pause i sitt engasjement*  
 *Ved permisjon fra en komité er man fullstendig fritatt de pliktene komitevervet medførte.*
@@ -502,10 +502,10 @@ Nåværende §4.4 Permisjon eller oppsigelse fra komité endres til:
 *Leder av en komite har rett til å si opp et medlem av sin egen komité. Oppsigelse skal kun finne sted i tilfeller der det blir ansett som høyst nødvendig for å beskytte komiteens samhold, initiativ, integritet eller profesjonalitet. Leder av komiteen plikter å konsultere leder av linjeforeningen i forkant av en eventuell advarsel eller oppsigelse."*
 
 ### Forslag 24 (Hovedstyret)
-Nåværende §4.7 Mislighold av verv flyttes før paragrafen om ridderorden. Setningen *" Det må ved innkalling til ekstraordinær generalforsamling fremmes mistillitsforsalg av minst 10 medlemmer."* tas ut, da dette er beskrevet i paragrafen om ekstraordinær generalforsamling.
+Nåværende §4.7 Mislighold av verv flyttes før paragrafen om ridderorden. Setningen *" Det må ved innkalling til ekstraordinær generalforsamling fremmes mistillitsforsalg av minst 10 medlemmer."* tas ut, da dette er beskrevet i paragrafen om ekstraordinær generalforsamling. ( Såfremt forslag 6 er gått gjennom)
 
 ### Forslag 25 (Hovedstyret)
-Nåværende §4.6 blir til §4.7 og endres til:  
+Nåværende §4.8 Vervvarighet blir til §4.7 og endres til:  
 *"Et verv i linjeforeningen varer i seks semestre fra måneden man ble tatt opp. Dersom man ønsker å være et aktivt komitemedlem etter disse seks semestre kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene til linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i Seniorkomiteen."*
 
 ### Forslag 26 (Hovedstyret)
@@ -534,15 +534,16 @@ Riddere av det Indre lager"*
 
 
 ### Forslag 29 (Hovedstyret)
-§5.2 blir en subparagraf på §4, §5.3 blir §5.2, og 5.4 til 5.3.
-Endre andre paragraf i 5.2 til:  
+§5.2 Om ridderordenen flyttes til §4, og paragrafnumrene til 5.3 og 5.4 blir da tilsvarende 5.2 og 5.3
+
+Endre andre paragraf i Nåværende 5.2 Utmelding, opphør og ekskludering til:  
 *“Hovedstyret kan, ved skjellig grunn, utestenge medlemmer fra linjeforeningen, midlertidig eller permanent, dersom det er kvalifisert flertall for det. “*
 
 Tidligere:
-*"Ved grov uaktsomhet eller brudd på norsk lov kan Hovedstyret, med kvalifisert flertall, fatte vedtak om å eksludere et medlem ut av linjeforeningen."*
+*"Ved grov uaktsomhet eller brudd på norsk lov kan Hovedstyret, med kvalifisert flertall, fatte vedtak om å eksludere et medlem ut av linjeforeningen."* Begge disse går under "Ved skjellig grunn"
 
 ### Forslag 30 (Hovedstyret)
-§6 blir kraftig redusert, og mesteparten blir lagt til i retningslinjer for banKom, eller forretningsorden. Følgende endringer blir utført:
+§6 blir  redusert, og mesteparten legges i retningslinjer for banKom, eller forretningsorden. Følgende endringer blir utført:
 
 Fjernes:
 *"Leder av banKom skal legge frem status for linjeforeningens økonomi på hvert hovedstyremøte samt gjøre det daglige økonomiarbeid for Hovedstyret.*
@@ -556,7 +557,7 @@ Fjernes:
 En endring er at nestleder tar automatisk over.
 
 ### Forslag 32 (Hovedstyret)
-§6.2 fjernes, da praksis i dag er at vi ikke har forsikringer.
+§6.2 fjernes, da praksis i dag er at vi ikke har forsikringer. Det legges til i bankoms retningslinjer at dersom vi har noe som er verdt å forsikre skal det gjøres. 
 
 ### Forslag 33 (Hovedstyret)
 §7.2 legger til setningen:
