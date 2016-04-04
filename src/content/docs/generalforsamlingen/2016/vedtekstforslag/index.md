@@ -248,6 +248,8 @@ Hvert enkelt forslag dersom det i sin helhet ikke går gjennom
 Fjerne *"Linjeforeningen for informatikk, Online"* som tillatt permutasjon.
 
 ### Forslag 2 (Hovedstyret)
+
+Dette forslaget
 §1.2 Navnekonvensjon for grupperinger  
 Endre hele paragraf 1.2 til:  
 
@@ -474,7 +476,24 @@ Dette er ønskelig fordi forkortelsen, når brukt i starten av en setning, bruke
 Her tas begrepet foreldrekomité ut, og det legges til at nodekomiteer kan være direkte under HS. §4.3.6 flyttes inn i §4.3.
 
 ### Forslag 20 (Hovedstyret)
-§4.3.* fjernes da disse ikke trenger å være vedtektsfestet.
+Alle nodekomiteer er nå 4.3.*, uten videre inndeling. I beskrivelsene om nodekomiteer er ting som bør ut i retningslinjer tatt ut. Legg spesielt merke til appKom, dette er godtatt av leder for appKom. 4.3.* Blir nå: 
+
+"  
+###### 4.3.1 Jubileumskomiteen
+Komiteens hovedoppgave er å organisere arrangement i forbindelse med linjeforeningens jubileer. Komiteens navn forkortes jubKom.
+###### 4.3.2 Velkomstkomiteen
+Komiteens hovedoppgave er å organisere fadderperiode for nye studenter som oppfyller de krav for medlemskap som er listet under kapittel 5. Komiteens navn forkortes velKom.
+###### 4.3.3 Ekskursjonskomiteen
+Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes eksKom.
+###### 4.3.4 Redaksjonen
+Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under kapittel 5, er ikke medlemmer av linjeforeningen.
+###### 4.3.5 Informatikernes IT-ekskursjon
+Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.
+###### 4.3.6 Applikasjonskomiteen
+Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn forkortes appKom.
+###### 4.3.7 Casual Gaming
+Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen."
+
 
 ### Forslag 21 (Hovedstyret)
 Legge til §4.4 Interessegrupper. Følgelig får påfølgende paragrafer nummer n+1. Paragrafteksten er:  
