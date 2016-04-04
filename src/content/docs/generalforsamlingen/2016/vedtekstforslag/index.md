@@ -14,7 +14,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ---
 
-### Forslag 0 (Hovedstyret) Alle endringsforslag i et forslag
+### Forslag 0 (Hovedstyret) Alle endringsforslag i ett forslag
 
 ####Endringer kapittel for kapittel
  
