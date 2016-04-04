@@ -471,11 +471,17 @@ Endre *"Komiteens navn forkortes \*Kom"* for samtlige paragrafer fom. 4.2.1 tom.
 Dette er ønskelig fordi forkortelsen, når brukt i starten av en setning, brukes inkonsekvent (f.eks.: proKom bla bla bla, eller ProKom bla bla bla), og Språkrådet anbefaler å ha kun små bokstaver siden camelCase ikke er en del av det norske språket.
 
 ### Forslag 19 (Hovedstyret)
+
+Dette forslaget avhenger av forslag 2  
+
 §4.3 endres til *"En nodekomite er underlagt en av komiteene beskrevet i §4.2, eller direkte underlagt Hovedstyret og plikter og holde den ansvarlige kjernekomiteen løpende oppdatert på sitt virke. Nodekomiteer som har eksistert i to år eller mer kan bare offisielt nedlegges av Generalforsamlingen."*
 
 Her tas begrepet foreldrekomité ut, og det legges til at nodekomiteer kan være direkte under HS. §4.3.6 flyttes inn i §4.3.
 
 ### Forslag 20 (Hovedstyret)
+
+Dette forslaget avhenger av forslag 2  
+
 Alle nodekomiteer er nå 4.3.*, uten videre inndeling. I beskrivelsene om nodekomiteer er ting som bør ut i retningslinjer tatt ut. Legg spesielt merke til appKom, dette er godtatt av leder for appKom. 4.3.* Blir nå: 
 
 "  
