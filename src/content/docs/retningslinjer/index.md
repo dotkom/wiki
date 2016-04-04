@@ -4,6 +4,8 @@ title: "Retningslinjer"
 
 Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
+- [Hovedstyret](/wiki/online/retningslinjer/hs/)
+
 ### Kjernekomiteer
 
 - [Arrangementskomiteen](/wiki/online/retningslinjer/arrkom/)
