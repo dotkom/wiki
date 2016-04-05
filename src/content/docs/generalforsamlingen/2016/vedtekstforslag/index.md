@@ -155,6 +155,17 @@ Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført
 
 Ved opptelling av hemmelig valg skal tellekorps sitte i salen.
 
+##### 3.6.1 Fraskrivelse av rett til å stille til valg			
+Personer som er valgt til et av følgende verv under Generalforsamlingen fraskriver seg sin rett til å stille til alle andre valg til Hovedstyret.
+					
+* Ordstyrer
+* Referent
+* Tellekorps
+
+Med å stille til andre valg menes det at man ikke kan stille, eller bli nominert, til andre verv under Generalforsamlingen og valg til Hovedstyret.
+
+Sittende valgkomité kan heller ikke stille til valg i Hovedstyret
+
 
 #### 4 Struktur, ledelse og organisasjon		
 ##### 4.1 Hovedstyret
