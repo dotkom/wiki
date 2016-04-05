@@ -29,7 +29,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 ### Forslag 3 (Sondre Auestad)
 
-* 35-års jubileum avholdes i 2020, for å korrigere for tidligere års feil.
+* 35-årsjubileum avholdes i 2020, for å korrigere for tidligere års feil.
 
 ### Forslag 4 (Signe Elise Livgard)
 
