@@ -61,7 +61,7 @@ title: "Dagsorden"
 
 21:15 - Pause (5 min)
 
-* 15 Valg - Se [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg)
+* 15 Valg - Se [2016 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg)
     * 15.1 - Valg av leder
     * 15.2 - Valg av nestleder
     * 15.3 - Valg av leder for arrKom
