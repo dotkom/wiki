@@ -58,7 +58,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 
 |Masterforening|BrReg|Linje|Facebook|Avis|
 |---|---|---|---|---|
-|[BioM](http://org.ntnu.no/biom)||Biologi||[Page](http://fb.com/pages/BioM/211739618885287)||
+|[BioM](http://org.ntnu.no/biom)||Biologi|[Page](http://fb.com/pages/BioM/211739618885287)||
 |[Bunnsolid](http://www.bunnsolidmsc.no/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=814470172)|Undervannsteknologi|||
 |[LAKS](http://org.ntnu.no/laks) (inaktiv nettside, se FB)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi|[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)||
 |[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/?page_id=108)|
