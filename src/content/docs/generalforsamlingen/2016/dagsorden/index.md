@@ -24,55 +24,55 @@ title: "Dagsorden"
 
 16:15
 
-* 13 Årsberetninger
-    * 13.1 - Administrative
+* 12 Årsberetninger
+    * 12.1 - Administrative
         * 12.1.1 - Hovedstyret
-    * 13.2 - Komiteer
-        * 13.2.1 - ArrKom
-        * 13.2.2 - BanKom
-        * 13.2.3 - BedKom
-        * 13.2.4 - DotKom
-        * 13.2.5 - FagKom
-        * 13.2.6 - PangKom
-        * 13.2.7 - ProKom
-        * 13.2.8 - TriKom
-        * 13.2.9 - SeniorKom
-    * 13.3 - Periodiske komiteer
-        * 13.3.1 - EksKom
-        * 13.3.2 - VelKom
-        * 13.3.3 - Jubileumskomiteen
-    * 13.4 - Nodekomiteer
-        * 13.4.1 - appKom
-        * 13.4.2 - Informatikernes IT-ekskursjon
-    * 13.5 - Andre
-        * 13.5.1 - Datakameratene FK
-        * 13.5.2 - Realfagskjellern
+    * 12.2 - Komiteer
+        * 12.2.1 - ArrKom
+        * 12.2.2 - BanKom
+        * 12.2.3 - BedKom
+        * 12.2.4 - DotKom
+        * 12.2.5 - FagKom
+        * 12.2.6 - PangKom
+        * 12.2.7 - ProKom
+        * 12.2.8 - TriKom
+        * 12.2.9 - SeniorKom
+    * 12.3 - Periodiske komiteer
+        * 12.3.1 - EksKom
+        * 12.3.2 - VelKom
+        * 12.3.3 - Jubileumskomiteen
+    * 12.4 - Nodekomiteer
+        * 12.4.1 - appKom
+        * 12.4.2 - Informatikernes IT-ekskursjon
+    * 12.5 - Andre
+        * 12.5.1 - Datakameratene FK
+        * 12.5.2 - Realfagskjellern
 
 17:30 - 5 minutters pause
 
-* 14 Innsendte saker og vedtektsendringer
-     * 14.1 Saksforslag
+* 13 Innsendte saker og vedtektsendringer
+     * 13.1 Saksforslag
          
-    * 14.2 Vedtektsforslag
+    * 13.2 Vedtektsforslag
         
 20:00 - Pause (Lengre pause)
 
-* 15 Godkjenning av regnskap 15/16 og budsjett 16/17
+* 14 Godkjenning av regnskap 15/16 og budsjett 16/17
 
 21:15 - Pause (5 min)
 
-* 16 Valg - Se [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg)
-    * 16.1 - Valg av leder
-    * 16.2 - Valg av nestleder
-    * 16.3 - Valg av leder for arrKom
-    * 16.4 - Valg av leder for banKom
-    * 16.5 - Valg av leder for bedKom
-    * 16.6 - Valg av leder for dotKom
-    * 16.7 - Valg av leder for fagKom
-    * 16.8 - Valg av leder for proKom
-    * 16.9 - Valg av leder for triKom
-    * 16.10 - Valg av valgkomite
+* 15 Valg - Se [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg)
+    * 15.1 - Valg av leder
+    * 15.2 - Valg av nestleder
+    * 15.3 - Valg av leder for arrKom
+    * 15.4 - Valg av leder for banKom
+    * 15.5 - Valg av leder for bedKom
+    * 15.6 - Valg av leder for dotKom
+    * 15.7 - Valg av leder for fagKom
+    * 15.8 - Valg av leder for proKom
+    * 15.9 - Valg av leder for triKom
+    * 15.10 - Valg av valgkomite
 
 24:00
 
-* 17 Medaljeutdeling
+* 16 Medaljeutdeling
