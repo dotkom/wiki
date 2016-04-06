@@ -7,7 +7,7 @@ title: "Generalforsamlingen 2016"
 * [2016 Vedtektsforslag](/wiki/online/generalforsamlingen/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2016 Saksforslag](/wiki/online/generalforsamlingen/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2016 Dagsorden](/wiki/online/generalforsamlingen/2016/dagsorden) - Dagsorden for generalforsamlingen
-* [2016 Årsberetninger](/wiki/online/generalforsamlingen/2016/årsberetninger) - Årsberetninger
+* [2016 Årsberetninger](/wiki/online/generalforsamlingen/2016/aarsberetninger) - Årsberetninger
 
 ---
 
