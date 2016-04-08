@@ -78,6 +78,7 @@ Andre drikkeviser
 -   [Kjære broder, rens din stemme](/wiki/online/info/sosialt-og-okonomisk/studentsanger/rensdinstemme)
 -   [Nøtteliten blir full](/wiki/online/info/sosialt-og-okonomisk/studentsanger/notteliten)
 -   [Sluttstrupen](/wiki/online/info/sosialt-og-okonomisk/studentsanger/sluttstrupen)
+-   [Finsk Drikkevise](/wiki/online/info/sosialt-og-okonomisk/studentsanger/finskdrikkevise)
 
 Politisk korrekt
 ----------------
