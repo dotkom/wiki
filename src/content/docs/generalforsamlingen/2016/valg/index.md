@@ -19,7 +19,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *Nestleder:* Signe Elise Livgard
 * *arrKom:* 
 * *banKom:* Kristoffer Hajem
-* *bedKom:* 
+* *bedKom:* Hege Louise Borge
 * *dotKom:* Håkon Solbjørg
 * *fagKom:*
 * *proKom:* 
