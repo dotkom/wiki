@@ -50,7 +50,7 @@ title: "Dagsorden"
 
 17:30 - 5 minutters pause
 
-* 13 Innsendte saker og vedtektsendringer
+* 41 Innsendte saker og vedtektsendringer
      * 13.1 Saksforslag
          
     * 13.2 Vedtektsforslag
