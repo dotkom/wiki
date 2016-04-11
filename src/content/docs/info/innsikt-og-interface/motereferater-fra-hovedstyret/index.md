@@ -6,6 +6,8 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+
+- [2016-04-05](20160405) - Hovedstyrest Hundrepunktsmøte   
 - [2016-03-15](20160315) - Hovedstyrets påskemøte
 - [2016-03-08](20160308) - Hovedstyrets Osloturmøte
 - [2016-03-01](20160301) - Hovedstyrets Vårmøte  
