@@ -50,10 +50,12 @@ title: "Dagsorden"
 
 17:30 - 5 minutters pause
 
-* 41 Innsendte saker og vedtektsendringer
+* 13 Innsendte saker og vedtektsendringer
      * 13.1 Saksforslag
+     * [Saksliste finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2016/saksliste/)
          
     * 13.2 Vedtektsforslag
+    [Vedtektsforslag finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2016/vedtekstforslag/)
         
 20:00 - Pause (Lengre pause)
 
