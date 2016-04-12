@@ -21,8 +21,8 @@ Alle deltakere blir gitt et deltakernummer som må bæres under generalforsamlin
 ## 3 Votering
 For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmene ha møtt opp. 
 
-Alminnelig flertall er definert som 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer. 
-Kvalifisert flertall er definert som 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
+* Alminnelig flertall er definert som 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer. 
+* Kvalifisert flertall er definert som 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
 
 Blanke stemmer er ikke tellende, med mindre annet er spesifisert.	
 
