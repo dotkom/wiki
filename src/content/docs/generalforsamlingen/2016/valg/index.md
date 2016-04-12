@@ -17,7 +17,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 
 * *Leder:* Thor Håkon Bredesen      
 * *Nestleder:* Signe Elise Livgard, Erik Wiker
-* *arrKom:* 
+* *arrKom:* Edvard Gjessing Bakken 
 * *banKom:* Kristoffer Hajem
 * *bedKom:* Hege Louise Borge, Didrik Pemmer Aalen
 * *dotKom:* Håkon Solbjørg
