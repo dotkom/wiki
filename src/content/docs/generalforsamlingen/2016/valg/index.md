@@ -16,14 +16,14 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 
 
 * *Leder:* Thor Håkon Bredesen      
-* *Nestleder:* Signe Elise Livgard
+* *Nestleder:* Signe Elise Livgard, Erik Wiker
 * *arrKom:* 
 * *banKom:* Kristoffer Hajem
 * *bedKom:* Hege Louise Borge, Didrik Pemmer Aalen
 * *dotKom:* Håkon Solbjørg
 * *fagKom:*
 * *proKom:* 
-* *triKom:*  Erik Wiker
+* *triKom:* 
 
 Vennligst merk at:
 
