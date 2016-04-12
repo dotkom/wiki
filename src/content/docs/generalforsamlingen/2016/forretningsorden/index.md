@@ -2,6 +2,14 @@
 title: "Forretningsorden for generalforsamling i Online"
 ---
 
+* [2016 Forretningsorden](/wiki/online/generalforsamlingen/2016/forretningsorden) - Forretningsorden
+* [2016 Dagsorden](/wiki/online/generalforsamlingen/2016/dagsorden) - Dagsorden for generalforsamlingen
+* [2016 Årsberetninger](/wiki/online/generalforsamlingen/2016/aarsberetninger) - Årsberetninger
+* [2016 Saksforslag](/wiki/online/generalforsamlingen/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2016 Vedtektsforslag](/wiki/online/generalforsamlingen/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2016 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg) - Er du klar for et verv i Hovedstyret?
+---
+
 ## 1 Generalforsamlingen
 Generalforsamlingen skal behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og valg av nytt Hovedstyre.
 
