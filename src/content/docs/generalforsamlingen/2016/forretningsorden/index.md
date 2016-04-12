@@ -27,7 +27,7 @@ Kvalifisert flertall er definert som 2/3 av de tilstedeværende med stemmerett, 
 Blanke stemmer er ikke tellende, med mindre annet er spesifisert.	
 
 ### 3.1 Saker
-Alle saker på generalforsamlingen avgjøres ved alminnelig flertall.
+Alle saker på generalforsamlingen avgjøres ved alminnelig flertall, med mindre annet er spesifisert.
 
 ### 3.2 Vedtektsendringer
 Vedtektsendringer avgjøres med kvalifisert flertall.
