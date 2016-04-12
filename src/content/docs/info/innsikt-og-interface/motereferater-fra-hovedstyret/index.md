@@ -14,7 +14,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2016-02-23](20160223) - Hovedstyrets Agnetetrekkervisdomstannmøte
 - [2016-02-16](20160216) - Hovedstyrets Valentinesmøte
 - [2016-02-09](20160209) - Hovedstyrets Pia er PC-løsmøte
-- [2016-02-02](20160202) - Hovedstyrets SnartVinterferiemøte 
+- [2016-02-02](20160202) - Hovedstyrets SnartVinterferiemøte  
+- [2016-01-26](20160202) - Hovedstyrets Vedtektsmøte  
 - [2016-01-19](20160119) - Hovedstyrets EfterÅremøte 
 - [2016-01-12](20160112) - Hovedstyrets backinbusinessmøte
 - [2016-11-24](20161124) - Hovedstyrets julemøte
