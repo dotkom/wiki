@@ -14,7 +14,7 @@ title: "Årsberetninger"
         * 12.2.6 - PangKom
         * 12.2.7 - ProKom
         * 12.2.8 - TriKom
-        * 12.2.9 - SeniorKom
+        * 12.2.9 - [SeniorKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/senkom)
     * 12.3 - Periodiske komiteer
         * 12.3.1 - EksKom
         * 12.3.2 - VelKom
