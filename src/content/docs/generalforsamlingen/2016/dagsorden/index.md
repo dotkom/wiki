@@ -59,7 +59,7 @@ title: "Dagsorden"
 
     * [Vedtektsforslag finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2016/vedtekstforslag/)
         
-20:00 - Pause (Lengre pause)
+20:00 - Pause (30 min)
 
 * 15 Godkjenning av regnskap 15/16 og budsjett 16/17
 
