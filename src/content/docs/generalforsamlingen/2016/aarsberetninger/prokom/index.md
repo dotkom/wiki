@@ -12,14 +12,13 @@ title: "proKoms årsberetning"
 
 
 ### Grafisk
-- Fikk ut årbok rett etter genfors i fjor  
+- Fikk ut årbok rett etter genfors i fjor, blir noe tilsvarende i år  
 - Produserte grafisk materiell til fadderperioden  
 - Fått laget Online-keychains, til salgs til en billig penge på kontoret  
 - Hatt større fokus på kursing enn tidligere år, brukt de mer erfarne i komiteen som ressurspersoner  
 - Fått bestillingssystem, kjempefantastisk omveltning som gjør arbeidet mye greiere, vi er glade for det  
 - Count på bestillingssystemet: 44 bestillinger produsert.  
 - Åre-t-skjorter. Billigere enn Åregenser, generelt godt mottatt. Kom ut på den nye webshoppen, det var vi også glade for  
-- Laget to filmer: Movember og Økonomi- og vedtektskveld. De ble veldig vellykkede, så vi fortsetter å filme    
 - Fått på plass mer samarbeidsting med Abakus, som bedriftrepresentantlapper med begge logoene på og samarbeidsbonger  
 
 ### Venner
@@ -42,5 +41,6 @@ title: "proKoms årsberetning"
 - Bestilt nye stativer til Offline
 
 ### Andre ting  
+- Laget to filmer: Movember og Økonomi- og vedtektskveld. De ble veldig vellykkede, så vi fortsetter å filme    
 - Hadde CV-fotografering på høsten. Vellykket, men neste år vil vi ha sign-up  
 - Blitt med i en arbeidsgruppe som skal jobbe med promotering for KiD
