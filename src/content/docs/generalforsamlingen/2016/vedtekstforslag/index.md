@@ -2,7 +2,6 @@
 title: "Vedtektsforslag 2016"
 ---
 
-* [2016 Saksliste](/wiki/online/generalforsamlingen/2016/saksliste) - Saksliste for generalforsamlingen 2016
 * [2016 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg) - Er du klar for et verv i Hovedstyret?
 * [2016 Vedtektsforslag](/wiki/online/generalforsamlingen/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2016 Saksforslag](/wiki/online/generalforsamlingen/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
@@ -31,7 +30,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 * Flytte det som står om medlemmers rettigheter til 5.1 Medlemmers rettigheter
 * Legge til at Hovedstyret kan gjøre redaksjonelle endringer i etterkant og  
 * I 3.3, legge til at endrede vedtekter skal godkjennes av paraferer  
-* 3.2 Flytte at minst ti medlemmer er påkrevd for å kalle inn til generalforsamling hit, fra 4.7 (Gikk gjennom i fjor at for å stille mistillitsforslag til flere enn to styremedlemmer må det kalles inn til ekstraordinær generalforsamling og man må være minst ti personer) Dette flyttes slik at det gjelder generelt for å kalle inn til generalforsamling, ikke bare ved mistillitsforslag
+* 3.2 Flytte at minst ti medlemmer er påkrevd for å kalle inn til generalforsamling hit, fra 4.7 (Gikk gjennom i fjor at for å stille mistillitsforslag til flere enn to styremedlemmer må det kalles inn til ekstraordinær generalforsamling og man må være minst ti personer) Dette flyttes slik at det gjelder generelt for å kalle inn til ekstraordinær generalforsamling, ikke bare ved mistillitsforslag
 * Flytte “Alle medlemmer har stemme- og talerett og rett til å levere forslag til saker” til 5.1 Medlemmers rettigheter  
 * Legge til valgkomité og deres oppgaver i 3.3  
 * Legge til at valgkomitémedlemmer ikke kan stille til valg på den generalforsamlingen hvor de har ansvaret for å foreslå kandidater i 3.3
