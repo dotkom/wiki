@@ -13,7 +13,7 @@ title: "Årsberetninger"
         * 12.2.5 - [FagKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/fagkom) (Christoffer Lofsberg)
         * 12.2.6 - PangKom (Pia Lindkjølen)
         * 12.2.7 - [ProKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/prokom) (Agnete Djupvik)
-        * 12.2.8 - TriKom (Sondre Auestad)
+        * 12.2.8 - [TriKom](trikom) (Sondre Auestad)
         * 12.2.9 - [SeniorKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/senkom) (Magnus Kongshem)
     * 12.3 - Periodiske komiteer
         * 12.3.1 - EksKom (Ingrid Vold)
