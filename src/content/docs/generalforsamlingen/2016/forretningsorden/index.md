@@ -11,7 +11,7 @@ title: "Forretningsorden for generalforsamling i Online"
 ---
 
 ## 1 Generalforsamlingen
-Generalforsamlingen skal behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og valg av nytt Hovedstyre.
+Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og valg av nytt Hovedstyre.
 
 ## 2 Deltakere
 Alle medlemmer av Online, jfr kapittel 5 i vedtektene har møte-, tale- og stemmerett under generalforsamlingen.
