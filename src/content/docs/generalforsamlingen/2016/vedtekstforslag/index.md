@@ -216,7 +216,7 @@ Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittståend
 ##### 4.4 Interessegrupper				
 Interessegrupper kan opprettes av Online-medlemmer som ønsker å dekke et behov som gagner informatikkstudenter. Disse grupperingene formulerer sine egne retningslinjer, og budsjett ved behov, som godkjennes av Hovedstyret. Hovedstyret avgjør også hvorvidt gruppen underlegges en eksisterende komité, eller Hovedstyret selv. 
 ##### 4.7 Vervvarighet				
-Et verv i linjeforeningen varer i seks (6) semestre fra måneden man ble tatt opp. Dersom man ønsker å være et aktivt komitemedlem etter disse seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller på de seks vervsemestrene tre vervårene, inkludert verv i Hovedstyret, men ekskludert verv i Seniorkomiteen. 
+Et verv i linjeforeningen varer i seks (6) semestre fra måneden man ble tatt opp. Dersom man ønsker å være et aktivt komitemedlem etter disse seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i Seniorkomiteen. 
 
 #### 5 Medlemskap
 ##### 5.1 Medlemmer
