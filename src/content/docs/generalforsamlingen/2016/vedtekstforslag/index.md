@@ -5,7 +5,7 @@ title: "Vedtektsforslag 2016"
 * [2016 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2016/valg) - Er du klar for et verv i Hovedstyret?
 * [2016 Vedtektsforslag](/wiki/online/generalforsamlingen/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2016 Saksforslag](/wiki/online/generalforsamlingen/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
-*[Komiteenes retningslinjer](https://online.ntnu.no/wiki/online/retningslinjer/)
+* [Komiteenes retningslinjer](https://online.ntnu.no/wiki/online/retningslinjer/)
 
 ---
 
