@@ -12,7 +12,7 @@ title: "Årsberetninger"
         * 12.2.4 - DotKom
         * 12.2.5 - FagKom
         * 12.2.6 - PangKom
-        * 12.2.7 - ProKom
+        * 12.2.7 - [ProKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/prokom)
         * 12.2.8 - TriKom
         * 12.2.9 - [SeniorKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/senkom)
     * 12.3 - Periodiske komiteer
