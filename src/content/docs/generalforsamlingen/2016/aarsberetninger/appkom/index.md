@@ -2,8 +2,6 @@
 title: "Årsberetning appKom"
 ---
 
-Årsberetning appKom
-
 #### Om appKom:
 - Tok opp 3 nye på åpent opptak, flere som er med og kan kvalifiseres til medlemskap senere
 - 3 gikk ut av komitéen
