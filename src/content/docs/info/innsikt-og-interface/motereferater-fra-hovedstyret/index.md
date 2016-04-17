@@ -9,6 +9,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 - [2016-04-12](20160412) - Piastyrets siste Hovedmøte
 - [2016-04-05](20160405) - Hovedstyrest Hundrepunktsmøte   
+- [2016-03-29](20160329) - Hovedstyrets postpåskemøte  
 - [2016-03-15](20160315) - Hovedstyrets påskemøte
 - [2016-03-08](20160308) - Hovedstyrets Osloturmøte
 - [2016-03-01](20160301) - Hovedstyrets Vårmøte  
