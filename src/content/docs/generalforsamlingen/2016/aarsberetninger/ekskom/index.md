@@ -1,5 +1,5 @@
 ---
-title: "Årsberetning ekskom"
+title: "Årsberetning eksKom"
 ---
 
 - Komiteen:
