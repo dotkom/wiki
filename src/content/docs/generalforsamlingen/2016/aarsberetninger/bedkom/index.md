@@ -2,7 +2,7 @@
 title: "Årsberetningbedkom 2016"
 ---
 
-* Tatt opp 4 nye førsteklassinger vi er nå 14, i tillegg til to aktive fra seniorKom
+* Tatt opp 3 nye førsteklassinger vi er nå 14, i tillegg til to aktive fra seniorKom
 * Skiftet og lært opp økonomiansvarlig.
 * Dratt på oslotur to ganger sammen med fagKom og besøkt til sammen 13 forskjellige bedrifter.
 * Vi har hatt teambuilding med fagkom på vårsemesteret
