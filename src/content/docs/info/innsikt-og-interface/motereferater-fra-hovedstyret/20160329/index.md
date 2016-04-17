@@ -1,0 +1,108 @@
+---
+title: "Hovedstyrets postpåskemøte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Marius
+
+**Referering:** Nils
+
+**Vinstraff:** 
+
+**Ølstraff:** 
+
+**Tilstede:** Pia, THB, Magnus, Marius, Sondre A, Christina, Agnete (ish)
+
+**Mangler:** Dre, Kristalin
+
+## 091 Godkjenning av innkalling, servering og referat 
+* Godkjent
+
+## 092 Status for komiteene (30 min)
+
+#### arrKom, med velKom og jubkom:  
+* Ikke til stede
+
+#### banKom:  
+
+* Ikke hatt arbeidskveld siden sist
+* Kjører internugling i kveld
+* Ellers alt good
+
+#### bedKom, med ITEX:
+
+* Jobber med turen til Bergen (Knowit) med Abakus
+* Bookingen starter denne uken
+
+
+#### dotKom:
+* Har blitt commita en del på stemmesystemet i påsken. 
+* Ellers rolig
+
+
+#### fagKom, med eksKom:
+* Har begynt å kikke på eksamenskurs, ellers hatt ferie som resten av oss
+* Ekskom15 har vært i Japan
+* Ekskom16 skal møte IME for å sjekke datoer, deretter undersøke prisanslag
+
+
+#### proKom:  
+
+* Rolig over påske
+* Artikkelfrist Offline om to dager
+* Har kontaktperson inn i velkom 
+
+#### triKom:
+
+* Kikker på muligheten for mafia på torsdag om to uker
+* Kobkom ønsker spillkveld til helgen
+* Super-smash turnering blir kult
+* Begynt å kikke på 17. mai. 
+* Har fikset budsjett
+
+
+#### SeniorKom: 
+
+* Rolig over påske
+* Diplomutdeling i kjel1 fremfor H3 grunnet opppussing
+
+
+#### Leder og nestleder:
+
+* "Vi" (Pia) har jobbet med vedtektene
+
+
+## 094 Ekskom (15 min)
+
+
+Mål: Skal neste ekskom opprette en ny organisasjon i br.reg eller skal de merges inn i Online som itex ble forrige semester?  
+
+Konklusjon: Ber Christoffer forberede pros/cons til neste møte. 
+
+
+## 095 Forberedelse til økonomi- og vedtektskveld (45 min)
+
+* Økonomien tas først
+* Det diskuteres
+* Vi går for en tostatsløsning (nodekomiteer + interessegrupper)
+* Neste punkt er Palestinakonflikten
+
+
+## 096 Forespørsler som har kommet på epost (5 min) 
+
+* StartIT får penger
+* Folk tar insj på ball og greier selv. Vi ønsker plasser til Eurudio så neste HS kan kose seg på det
+* Svar gjerne på NOKUT-greiene
+
+## 097 Ukens infomail (5 min)
+
+* Folk fyller infomail
+
+## 098 Eventuelt (10 min)
+
+* Lol no
+
+## 099 Møteevaluering/Diggepunkt (5 min)
+
+* Dette tok av, men gikk bra!
