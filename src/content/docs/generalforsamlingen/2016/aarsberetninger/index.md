@@ -17,7 +17,7 @@ title: "Årsberetninger"
         * 12.2.9 - [SeniorKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/senkom) (Magnus Kongshem)
     * 12.3 - Periodiske komiteer
         * 12.3.1 - [EksKom] 
-(/wiki/online/generalforsamlingen/2016/aarsberetninger/ekskom)(Ingrid Vold)
+(/wiki/online/generalforsamlingen/2016/aarsberetninger/ekskom) (Ingrid Vold)
         * 12.3.2 - [VelKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/velkom) (Andreas Norstein)
         * 12.3.3 - Jubileumskomiteen (Sverre Bjørke)
     * 12.4 - Nodekomiteer
