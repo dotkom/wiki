@@ -8,7 +8,7 @@ title: "Årsberetninger"
     * 12.2 - Komiteer
         * 12.2.1 - ArrKom (Sondre Widmark)
         * 12.2.2 - BanKom (Marius Thingwall)
-        * 12.2.3 - BedKom (Kristian Svoren)
+        * 12.2.3 - [BedKom](BedKom) (Kristian Svoren)
         * 12.2.4 - DotKom (Nils Herde)
         * 12.2.5 - [FagKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/fagkom) (Christoffer Lofsberg)
         * 12.2.6 - PangKom (Pia Lindkjølen)
