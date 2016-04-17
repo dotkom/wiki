@@ -21,7 +21,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *banKom:* Kristoffer Hajem
 * *bedKom:* Hege Louise Borge, Didrik Pemmer Aalen
 * *dotKom:* Håkon Solbjørg
-* *fagKom:*
+* *fagKom:* Christina H. Andresen
 * *proKom:* Andrea Bach
 * *triKom:* 
 
