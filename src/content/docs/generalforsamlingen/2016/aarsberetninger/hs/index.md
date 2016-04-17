@@ -21,6 +21,7 @@ title: "Hovedstyrets årsberetning 2015-2016"
 - Har hatt god kommunikasjon med SiT
 - Har opprettet et utvalg (redd kjellerne) for å jobbe mot å kartlegge hva som må til for at kjellerne skal åpne igjen
 - Jobbet tett med studenttinget om studieforskriften og innsamling av frivillighetstall
+- Har tatt opp en samarbeidstråd med Login på Gjøvik
 
 #### Komiteer
 - Medlemmer har opprettet nodekomiteer - hurra! (StipendSushi, Kobkom og cachekom)
