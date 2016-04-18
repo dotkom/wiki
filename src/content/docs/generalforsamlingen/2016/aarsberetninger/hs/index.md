@@ -8,7 +8,6 @@ title: "Hovedstyrets årsberetning 2015-2016"
 - Opprettet jubkom
 - Opprettet velkom
 - Holdt den store Onlinespørreundersøkelsen for å finne ut hva folk vil forandre og beholde
-- Delte ut pepperkaker på de store eksamenene før jul
 - Søkt og fått ekstra støtte av IDI -> til nodekomiteer, jubileum og masterfadderuke
 - Revidert prikkereglene til å omfatte bruken av stripe
 
@@ -35,3 +34,4 @@ title: "Hovedstyrets årsberetning 2015-2016"
 - Opprettet OnlineGobikanal
 - Hadde julekalender (Er vel nå tradisjon!)
 - Hadde Movemberinnsamling
+- Delte ut pepperkaker på de store eksamenene før jul
