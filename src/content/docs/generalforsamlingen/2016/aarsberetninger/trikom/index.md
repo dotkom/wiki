@@ -11,10 +11,12 @@ title: "Årsberetning triKom"
 - Sammarbeidet med CG om åpent kontor og salg på studlan
 
 Vårsemesteret etter genfors.
+
 - Arrangert grilling, GoT og 17. mai-frokost
 - Kjøpte grill i sammarbeid med velKom
 
 Høsten
+
 - Kjøpte TV med støtte fra HS, i tillegg til ny micro
 - Hatt ca 10 filmvisninger på nye TV-en
 - Avholdt Assassin
@@ -25,6 +27,7 @@ Høsten
 
 
 Våren
+
 - Nintendo Wii U på kontoret, kjøpt kontrollere til den
 - Kjøpt flere kaffekanner til -trakteren
 - Nibble kom på kontoret
