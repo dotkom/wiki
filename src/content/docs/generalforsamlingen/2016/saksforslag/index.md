@@ -35,6 +35,11 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 * For å produsere plakater, årbok, Offline og andre ting proKom gjør brukes Adobe Illustrator, Adobe Photoshop og Adobe InDesign. Disse programmene krever lisens, som medlemmer av komiteen (proKom) i dag betaler av egen lomme. Dette er noe vi ikke kan forvente av våre medlemmer, da hver lisens koster 2849,15 kr per år (1830 kr første år). Det foreslås å kjøpe en gruppelisens for komiteen, som kun aktive komitémedlemmer kan benytte seg av. Dette er rimeligere enn enkeltlisenser.
 
+-- NYTT -- 
+
+ProKom ønsker en pott på 8000 kr til Adobe-lisenser. Det å opprette team-lisens for komiteen viste seg å ikke lønne seg, så vi har kommet fram til en annen modell. Forslaget er at komitémedlemmene selv kjøper en ettårig lisens, avhengig av hva de trenger. Noen trenger kun Illustrator, mens andre trenger både Illustrator, Photoshop og InDesign. De medlemmene som velger å kjøpe en lisens, kan ved (skole)årets slutt søke om å få refundert deler av lisensen. Her tenker vi maksimalt 50% av lisensavgiften, og potten skal fordeles på alle i komiteen som har kjøpt lisens. Det gjør det mulig økonomisk for komitémedlemmene å kjøpe en lisens, uten at det er en gode man får helt gratis. Ved å refundere ved endt skoleår garanterer man også at de som får subsidiert lisens faktisk er aktive komitémedlemmer.
+
+
 ### Forslag 5 (Nils Herde)
 
 * Komiteer bør ha mulighet til å, ved behov, bruke penger på komitemedlemmers faglige utvikling. Ønskes 3000,- for pilotprosjekt i dotkom.
