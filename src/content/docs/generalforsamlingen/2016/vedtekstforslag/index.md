@@ -628,9 +628,10 @@ Ridderordenen bestyrer selv sitt eget opptak og vurdering av kandidater. Utnevne
 
 ### Forslag 35 (Ridderordenen)
 
-Ridderordenen legger frem følgende forlsag ang. æresmedlemmer:
+Ridderordenen legger frem følgende forslag ang. æresmedlemmer:
 
 X.X Æresmedlemmer
+
 Æresmedlemmer er personer som har bidratt i særskilt stor grad til å avansere linjeforeningen, informatikkfaget eller bidratt i stor grad til saker hvor linjeforeningen eller informatikk er påvirket.
 
 Æresmedlem er en tittel hovedsaklig for personer som ikke har vært medlem av linjeforeningen.
