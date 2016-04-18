@@ -9,7 +9,7 @@ title: "Årsberetning for Bank- og Økonomikomiteen."
 
 ### Annet
 
-* Fått fikset opp i bankkortene, og nye debetkort til nåværende medlemmer er fordelt på de komiteene som trenger det. 
+* Fått fikset opp i bankkortene, og nye debetkort er fordelt på de komiteene som trenger det. 
 * DaTax gikk _ikke_ ned i år. 
 * Itex sin økonomi er lagt under Online.
 * Ble gjennomført kurs i regnskap ved starten av høstsemesteret. 
