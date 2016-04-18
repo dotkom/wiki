@@ -57,6 +57,11 @@ En ny stilling introdusert: Promoteringsansvarlig
 Nodekomiteer
 ------------------
 
-Jubkom fortsatt med planleggingen, ser ut til å være godt igang. 6 medlemmer
-Velkom startet opp. Leder: Fride Skarseth, nestleder Marius Aarsnes.
+** Jubkom **
+Dortsatt med planleggingen, ser ut til å gå veldig bra.  
+6 medlemmer
+
+** VelKom **
+Ble startet opp tidligere i dette semesteret  
+Leder: Fride Skarseth, nestleder Marius Aarsnes  
 13 medlemmer (inkl. fra bedKom, proKom og seniorKom)
