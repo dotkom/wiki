@@ -21,7 +21,7 @@ title: "Årsberetninger"
         * 12.3.3 - [Jubileumskomiteen](/wiki/online/generalforsamlingen/2016/aarsberetninger/jubkom) (Sverre Bjørke)
     * 12.4 - Nodekomiteer
         * 12.4.1 - [appKom](/wiki/online/generalforsamlingen/2016/aarsberetninger/appkom) (Petter Rostrup)
-        * 12.4.2 - [informatikernes_it-ekskursjon](itex) (Espen Hellerud)
+        * 12.4.2 - [informatikernes it-ekskursjon](itex) (Espen Hellerud)
     * 12.5 - Andre
         * 12.5.1 - [Datakameratene FK](/wiki/online/generalforsamlingen/2016/aarsberetninger/datakameratene) (Pia Lindkjølen)
         * 12.5.2 - [Realfagskjellern](/wiki/online/generalforsamlingen/2016/aarsberetninger/realfagskjelleren) (Martin Bjerke)
