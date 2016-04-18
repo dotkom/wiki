@@ -15,15 +15,15 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
 
 
-* *Leder:* Thor Håkon Bredesen      
-* *Nestleder:* Signe Elise Livgard, Erik Wiker
-* *arrKom:* Edvard Gjessing Bakken, Sander Arnesen, Kasper Klæboe Berg
-* *banKom:* Kristoffer Hajem
-* *bedKom:* Hege Louise Borge, Didrik Pemmer Aalen
-* *dotKom:* Håkon Solbjørg
-* *fagKom:* Christina H. Andresen, Andreas Haugan Aursand
-* *proKom:* Andrea Bach, Trine-Lise Helgesen
-* *triKom:* 
+* *Leder:* **Thor Håkon Bredesen**      
+* *Nestleder:* Signe Elise Livgard, **Erik Wiker**
+* *arrKom:* Edvard Gjessing Bakken, **Sander Arnesen**, Kasper Klæboe Berg
+* *banKom:* **Kristoffer Hajem**, Kristiane Westgård(benket)
+* *bedKom:* Hege Louise Borge, **Didrik Pemmer Aalen**
+* *dotKom:* **Håkon Solbjørg**
+* *fagKom:* Christina H. Andresen, Andreas Haugan Aursand, Vilde Mariussen(benket), **Kristiane Westgård**(benket)
+* *proKom:* **Andrea Bach**, Trine-Lise Helgesen
+* *triKom:* **Martin Bjerke(benket)**
 
 Vennligst merk at:
 
