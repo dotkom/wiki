@@ -32,20 +32,20 @@ Onlinelekene 18. okt - 26 påmeldte  (nytt)
 Blåtur 24. sept - 43 påmeldte  
 Immball 12. sept - 224 påmeldte  
 
-Antall deltagende høst: 450 stk (eksl. juleverksted, eksamensfest)
-Antall deltagende vår: 361 stk (eksl. X-fest, reboot, 17. mai-middag, eksamensfest)
-Antall deltagende totalt: 811 stk
+Antall deltagende høst: 450 stk (eksl. juleverksted, eksamensfest)  
+Antall deltagende vår: 361 stk (eksl. X-fest, reboot, 17. mai-middag, eksamensfest)  
+Antall deltagende totalt: 811 stk  
 
 
-Antall arrangementer vårsemester: 11 stk  (7 stk ifjor)
-Antall arrangementer høstsemester: 8 stk  (6 stk ifjor)
+Antall arrangementer vårsemester: 11 stk  (7 stk ifjor)  
+Antall arrangementer høstsemester: 8 stk  (6 stk ifjor)  
 
 Antall arrangementer med andre linjeforeninger: 3 stk  
 
 Antall alkohol arrangementer: 5 + 8 = 13 stk  
-Antall ikke-alkohol arrangementer: 3 + 3 = 6 stk
+Antall ikke-alkohol arrangementer: 3 + 3 = 6 stk  
 
-Antall nye arrangementer: 3 + 3 = 6 stk
+Antall nye arrangementer: 3 + 3 = 6 stk  
 
 
 
