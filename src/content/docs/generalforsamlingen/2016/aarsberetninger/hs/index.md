@@ -10,6 +10,8 @@ title: "Hovedstyrets årsberetning 2015-2016"
 - Holdt den store Onlinespørreundersøkelsen for å finne ut hva folk vil forandre og beholde
 - Søkt og fått ekstra støtte av IDI -> til nodekomiteer, jubileum og masterfadderuke
 - Revidert prikkereglene til å omfatte bruken av stripe
+- Begynt arbeidet med å offentliggjøre retningslinjene
+- Jobbet med å gjøre vedtektene mer modulære og spesifikke og å luke ut feil
 
 
 #### Samarbeid med andre
