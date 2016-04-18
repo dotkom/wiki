@@ -19,6 +19,6 @@ title: "Årsberetningbedkom 2016"
  
 #### Vårsemesteret 2016  
 * Planlagt 11 bedriftspresentasjoner. Gjennomført 10, den siste er denne uken.
-* Ett KiD-arrangement
+* 2 KiD-arrangementer
 * Vi har skaffet en sponsor til jubileet, og jobber med å få tak i flere.
 * Vi jobber med ytterligere endringer i kontraktene våre.
