@@ -3,7 +3,7 @@ title: "Årsberetning seniorkomiteen"
 ---
 
 * Har vært 8 aktive medlemmer gjennom året. 
-       * Mistet 2 stk til sommeren pga endt studie.
+       * Mistet 2 stk til sommeren pga endt studie og 1 pga fokus på studie.
        * Permitert 2 stk pga utveksling, 1 etter sommeren og 1 etter jul.
 * Har gjennomført utmatrikulering
 * Har gjennomført Online sin første fadderuke for Masterstudenter
