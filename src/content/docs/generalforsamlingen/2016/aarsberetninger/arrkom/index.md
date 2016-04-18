@@ -19,7 +19,7 @@ Vinter-OL med Volvox 20. feb - 9 påmeldte  (nytt)
 X-fest 15. feb - ingen påmelding  
 Åre 14. jan - 151 påmeldte  
 
-Antall deltagende: 361 stk (eksl. X-fest, reboot, 17. mai-middag, eksamensfest)
+
 
 ** Høst 2015 **
 
@@ -32,7 +32,10 @@ Onlinelekene 18. okt - 26 påmeldte  (nytt)
 Blåtur 24. sept - 43 påmeldte  
 Immball 12. sept - 224 påmeldte  
 
-Antall deltagende: 450 stk (eksl. juleverksted, eksamensfest)
+Antall deltagende høst: 450 stk (eksl. juleverksted, eksamensfest)
+Antall deltagende vår: 361 stk (eksl. X-fest, reboot, 17. mai-middag, eksamensfest)
+Antall deltagende totalt: 811 stk
+
 
 Antall arrangementer vårsemester: 11 stk  (7 stk ifjor)
 Antall arrangementer høstsemester: 8 stk  (6 stk ifjor)
