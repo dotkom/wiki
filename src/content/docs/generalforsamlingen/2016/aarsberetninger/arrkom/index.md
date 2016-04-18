@@ -5,7 +5,7 @@ title: "ArrKom"
 Arrangementer
 ------------------
 
-* Vår 2016
+** Vår 2016 **
 
 Eksamensfest 11. juni - ingen påmelding  
 17. mai-middag - påmelding kommer  
@@ -21,7 +21,7 @@ X-fest 15. feb - ingen påmelding
 
 Antall deltagende: 361 stk (eksl. X-fest, reboot, 17. mai-middag, eksamensfest)
 
-* Høst 2015
+** Høst 2015 **
 
 Eksamensfest 18. des - ingen påmelding  
 Juleverksted (m/TriKom) 25. nov - ingen påmelding  
