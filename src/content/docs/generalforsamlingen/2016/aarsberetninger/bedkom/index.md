@@ -7,7 +7,7 @@ title: "Årsberetningbedkom 2016"
 * Dratt på oslotur to ganger sammen med fagKom og besøkt til sammen 13 forskjellige bedrifter.
 * Vi har hatt teambuilding med fagkom på vårsemesteret
 * Vi har hatt fellesmøte med fagKom to ganger.
-* 44 karrieremuligheter
+* 43 karrieremuligheter
 * Bookingen er gjennomført for denne omgang.
 * Vi har fortsatt vårt samarbeid med Sopra Steria et år til, med en avtale som gjelder til 31. desember.
 
