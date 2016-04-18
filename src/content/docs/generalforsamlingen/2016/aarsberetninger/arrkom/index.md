@@ -51,17 +51,24 @@ Opptak/medlemmer
 
 Idag 11 personer i komiteen
 
-En ny stilling introdusert: Promoteringsansvarlig
+Nye ting
+------------------
+
+** Promoteringsansvarlig **  
+Ny stilling introdusert med ønske om å bli med strukturert og flink på promotering.  
+
+** Semesterplakat arrangementoversikt **  
+Fått ut plakat hvert semester med oversikt over alle arrangementene.  
 
 
 Nodekomiteer
 ------------------
 
-** Jubkom **
-Dortsatt med planleggingen, ser ut til å gå veldig bra.  
-6 medlemmer
+** Jubkom **  
+Dortsatt med planleggingen, ser ut til å gå veldig bra.    
+6 medlemmer  
 
-** VelKom **
-Ble startet opp tidligere i dette semesteret  
-Leder: Fride Skarseth, nestleder Marius Aarsnes  
+** VelKom **  
+Ble startet opp tidligere i dette semesteret    
+Leder: Fride Skarseth, nestleder Marius Aarsnes   
 13 medlemmer (inkl. fra bedKom, proKom og seniorKom)
