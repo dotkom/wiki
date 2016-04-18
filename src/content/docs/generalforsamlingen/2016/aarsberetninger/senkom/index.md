@@ -8,6 +8,7 @@ title: "Årsberetning seniorkomiteen"
 * Har gjennomført utmatrikulering
 * Har gjennomført Online sin første fadderuke for Masterstudenter
 * Har gjennomført komitekickoff hvor vi gjorde store endringer fra tidligere gjennomføringer
-* Har jobbet med å sette strukturen til seniorkom gjennom interne og eksterne retningslinjer.
+* Har jobbet med å sette strukturen til seniorkom gjennom interne og eksterne retningslinjer. 
+* Tegnet komiteen sitt symbol og fått på plass vår egen komitedalje.
 * Er i planleggingsfasen til inneværene års utmatrikulering, fadderuke og komitekickoff
 * Har vært aktiv i hovedstyrets arbeid gjennom året
