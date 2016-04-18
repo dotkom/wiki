@@ -6,7 +6,7 @@ title: "Årsberetninger"
     * 12.1 - Administrative
         * 12.1.1 - [Hovedstyret](/wiki/online/generalforsamlingen/2016/aarsberetninger/hs) (Pia Lindkjølen)
     * 12.2 - Komiteer
-        * 12.2.1 - ArrKom (Sondre Widmark)
+        * 12.2.1 - [ArrKom](ArrKom) (Sondre Widmark)
         * 12.2.2 - [Bankom](BanKom) (Marius Thingwall)
         * 12.2.3 - [BedKom](BedKom) (Kristian Svoren)
         * 12.2.4 - [DotKom](Dotkom) (Nils Herde)
