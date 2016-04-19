@@ -21,7 +21,7 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *banKom:* **Kristoffer Hajem**, Kristiane Westgård(benket)
 * *bedKom:* Hege Louise Borge, **Didrik Pemmer Aalen**
 * *dotKom:* **Håkon Solbjørg**
-* *fagKom:* Christina H. Andresen, Andreas Haugan Aursand, Vilde Mariussen(benket), **Kristiane Westgård**(benket)
+* *fagKom:* Christina H. Andresen(trakk kandidatur), Andreas Haugan Aursand, Vilde Mariussen(benket), **Kristiane Westgård**(benket)
 * *proKom:* **Andrea Bach**, Trine-Lise Helgesen
 * *triKom:* **Martin Bjerke(benket)**
 
