@@ -18,8 +18,7 @@ Referat fra generalforsamlingen 2015 finner du her: [attachment:304]
 
 [Regnskap 2015](https://docs.google.com/spreadsheets/d/1iDUiHjVUO1q7rXfKJDfMEChTPwpR2QJTwwxLsTpdXw8/edit?usp=sharing)     
 [Budsjett 16/17](https://docs.google.com/spreadsheets/d/1Kw7rSxZtq2brddImTsAnO1mZAtr6sm0Q3XoUshNdP0g/edit?usp=sharing)    
-
-**Minner om at det kan forekomme endringer i budsjettet frem til to uker før generalforsamlingen.**     
+   
 
 # Informasjon
 
