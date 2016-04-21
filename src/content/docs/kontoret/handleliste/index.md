@@ -10,5 +10,23 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 - Jif universal
 - Mopp til moppen
 - Penner
+- Teip
 
 ###Ønsker
+
+###Budre ha
+
+- Tallerkener
+- Plastkniver, gaffler og skjeier
+- Muffins
+- Te
+- Kaffepulver og kaffekopper
+- Vaskemiddel til kaffekanner og kaffetrakter
+- Saft
+- Ymse sjokolade
+- Frosh
+- Nuddler(Mama og mr. Lee)
+
+##Sesongbasert
+- Jul, gløgg
+- Vår/høst, is
