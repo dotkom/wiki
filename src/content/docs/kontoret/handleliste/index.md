@@ -6,16 +6,9 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 
 ###Mangler
 
-- Zalo
 - Binders
-- Stifter
-- Muffins
 - Jif universal
 - Mopp til moppen
+- Penner
 
 ###Ønsker
-
-- Ingefær-te (+1)
-- Kaffemelk eller fløte
-- Til jul: Grans julebrus
-- En tusj som kan henge på kjøleskapet for å merke mat
