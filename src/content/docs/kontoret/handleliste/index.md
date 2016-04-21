@@ -26,6 +26,7 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 - Ymse sjokolade
 - Frosh
 - Nuddler(Mama og mr. Lee)
+- Potetmos- og pastakopper (Toro)
 
 ##Sesongbasert
 - Jul, gløgg
