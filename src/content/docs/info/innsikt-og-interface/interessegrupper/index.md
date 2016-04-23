@@ -6,5 +6,5 @@ title: "Interessegrupper"
 
 ## Nåværende interessegrupper
 
-- Cachekom
-- Sushikom
+- [Cachekom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/)
+- [Sushikom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/) - [Facebook-gruppe](https://www.facebook.com/groups/394422394075947/)
