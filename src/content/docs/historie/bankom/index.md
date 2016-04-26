@@ -13,8 +13,8 @@ komitestilling kalt “økonomiansvarlig” i alle komiteene som hadde større
 budsjetter og regnskap.
 
 Ved generalforsamlingen 2010 gikk det gjennom et forslag om å fastslå
-økonomikomiteen (økonomiKom) i vedtektene. Forslaget ble fremmet av
-Erlend K. Bergheim fra bedKom og Michael Johansen som var
+økonomikomiteen (økonomikom) i vedtektene. Forslaget ble fremmet av
+Erlend K. Bergheim fra bedkom og Michael Johansen som var
 økonomiansvarlig i Hovedstyret. Det påfølgende året jobbet den nye
 økonomiansvarlige med å finne gode rutiner for daglig arbeid i
 økonomikomiteen. Dette var et veldig nytt område for linjeforeningen og
@@ -24,9 +24,9 @@ tålmodighet å utarbeide gode rutiner.
 
 På generalforsamlingen i 2011 gikk det gjennom et forslag fra
 Hovedstyret om å endre navnet på økonomikomiteen til “Bank- og
-økonomikomiteen” (banKom). Forslaget ble fremmet for å bedre beskrive
+økonomikomiteen” (bankom). Forslaget ble fremmet for å bedre beskrive
 det daglige arbeidet komiteen bedrev, samt å gi komiteen en bedre
-forkortelse, da mange oppfattet “økonomiKom” som en litt lang og
+forkortelse, da mange oppfattet “økonomikom” som en litt lang og
 upraktisk forkortelse.
 
 Våren 2011 søkte Even Østvold, leder for komiteen, om å få
@@ -35,7 +35,7 @@ og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 
 ## Medlemmer
 
-|Semester|Leder|Nestleder|arrKom|bedKom|dotKom|fagKom|HS|proKom|triKom|velKom|
+|Semester|Leder|Nestleder|arrkom|bedkom|dotkom|fagkom|HS|prokom|trikom|velkom|
 |---|---|---|---|---|---|---|---|---|---|---|
 |14/15|**Henning M. Wold**|Didrik Pemmer Aalen|Sondre Johan Widmark, Edvard Schreiner Sjøblom|Kristian Svoren|Kristoffer Dalby|Håkon Ødegård Løvdal|---|Jørn-Egil Jensen|Johan Slettvold|Didrik Pemmer Aalen|
 |13/14|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|Johan Slettvold|Henning M. Wold|
