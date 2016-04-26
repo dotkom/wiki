@@ -26,7 +26,7 @@ For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fy
 
 Det står en mikrobølgeovn fremme som er til fritt bruk.
 
-Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne for å gå i forelesning eller datasalen, men hvis du ikke finner mer enn 2 kanner, så la de stå igjen. _Kanna fra trakteren kan **ALDRI** fjernes fra kontoret!_
+Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne til møter eller lignende, så lenge det står igjen en til andre kaffetørste mennesker på kontoret.
 
 Kaffe, te og annet som ikke står oppført på prislisten på kjøleskapet er å betrakte som gratis goder til alle.
 
