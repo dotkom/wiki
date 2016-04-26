@@ -35,11 +35,11 @@ og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 
 ## Medlemmer
 
-|Semester|Leder|Nestleder|arrkom|bedkom|dotkom|fagkom|HS|prokom|trikom|velkom|
-|---|---|---|---|---|---|---|---|---|---|---|
-|14/15|**Henning M. Wold**|Didrik Pemmer Aalen|Sondre Johan Widmark, Edvard Schreiner Sjøblom|Kristian Svoren|Kristoffer Dalby|Håkon Ødegård Løvdal|---|Jørn-Egil Jensen|Johan Slettvold|Didrik Pemmer Aalen|
-|13/14|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|Johan Slettvold|Henning M. Wold|
-|12/13|**Marius Krakeli**|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|Johan Slettevold|Ragnhild Seim|
-|11/12|**Ada Jordal**|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|Dag Erik Vikan|---|Rikard Eide|N/A|Magnus G. Hove|
-|10/11|**Even Østvold**|---|Ingrid Kittelsen, Magnus G. Hove(?)|Ada Jordal|---|Kristian Laskemoen|---|John-Erik Johansen|N/A|---|
-|09/10|**Michael Johansen**|---|Kristian Laskemoen|Ada Jordal|---|Even Østvold|---|N/A|N/A|---|
+|Semester|Leder|Nestleder|arrkom|bedkom|dotkom|ekskom|fagkom|HS|prokom|ITEX|trikom|velkom|jubkom|seniorkom|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|14/15|**Henning M. Wold**|Didrik Pemmer Aalen|Sondre Johan Widmark, Edvard Schreiner Sjøblom|Kristian Svoren, Silje Sævig|Kristoffer Dalby|N/A|Håkon Ødegård Løvdal|---|Jørn-Egil Jensen|N/A|Johan Slettvold, Kristoffer Hajem|Didrik Pemmer Aalen|N/A|N/A|
+|13/14|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|N/A|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|N/A|Johan Slettvold|Henning M. Wold|N/A|N/A|
+|12/13|**Marius Krakeli**|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|N/A|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|N/A|Johan Slettevold|Ragnhild Seim|N/A|N/A|
+|11/12|**Ada Jordal**|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|N/A|Dag Erik Vikan|---|Rikard Eide|N/A|N/A|Magnus G. Hove|N/A|N/A|
+|10/11|**Even Østvold**|---|Ingrid Kittelsen, Magnus G. Hove(?)|Ada Jordal|---|N/A|Kristian Laskemoen|---|John-Erik Johansen|N/A|N/A|---|N/A|N/A|
+|09/10|**Michael Johansen**|---|Kristian Laskemoen|Ada Jordal|---|N/A|Even Østvold|---|N/A|N/A|N/A|---|N/A|N/A|
