@@ -27,6 +27,7 @@ Tilhørende wikisider
 |---|---|---|---|---|---|---|---|
 |[Aqua Ålesund](mailto:aqua.aalesund@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Vann- og Miljøteknikk| | | | [Facebookside](https://www.facebook.com/AquaAlesund)| |
 |Sekstanten| |Nautikk| | | |[Lukket gruppe](https://www.facebook.com/groups/522914471208133/?fref=ts)||
+|Galleonen|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916807341)|Shipping Management| | | | [Facebookside](https://www.facebook.com/galleonen)| |
 
 
 ## Masterforeninger
