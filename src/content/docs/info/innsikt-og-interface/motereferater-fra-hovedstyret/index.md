@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2016-04-26](20160426) - Hovedstyrets and so our watch begin-møte
 - [2016-04-19](20160419) - Hovedstyrets nytt Hovedstyre, nye mulighetermøte
 - [2016-04-12](20160412) - Piastyrets siste Hovedmøte
 - [2016-04-05](20160405) - Hovedstyrest Hundrepunktsmøte   
