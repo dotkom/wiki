@@ -20,7 +20,7 @@ Referat fra generalforsamlingen 2015 finner du her: [attachment:304]
 [Budsjett 16/17](https://docs.google.com/spreadsheets/d/1Kw7rSxZtq2brddImTsAnO1mZAtr6sm0Q3XoUshNdP0g/edit?usp=sharing)    
 
 # Referat fra årets generalforsamling
-Årets referat finner du her: 
+Årets referat finner du her: [attachment:335]
    
 
 # Informasjon
