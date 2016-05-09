@@ -20,5 +20,5 @@ L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
 |2016-2017|Sør-Korea|Christoffer S. Lofsberg (L)|Camilla Tran (NL)|Margit Schefte (Ø)|Dag Frode Solberg|Hung Thieu|Jie Li|Martin Bjerke|Oddrun Petursdottir|Quang-Tam Huynh|Rebekka Alvsvåg|Stian Jørgensrud|
 |2015-2016|Japan|Ingrid Vold (L)|Hanna Sollie Storaker (NL)|Camilla Tøftum Ranner (Ø)|Håkon Solbjørg|Iselin Bjørnsgaard Erikssen|My Thao Nguyen|Uyen Dan Nguyen|Petter Rostrup|Sondre Sæterli Hjetland|Nikolai Hegelstad|Eirik Vikanes|Lars Henrik Søreide Grytten|
-|2014-2015|USA|Truls Mørk Pettersen (L)|Tale Prestmo (NL)|Fredrik Berg|Håkon Løvdal|Kristoffer Dalby|Petter Ekern|Jørgen Sirhaug|Kristian Volden|Sondre Dyvik
+|2014-2015|USA|Truls Mørk Pettersen (L)|Tale Prestmo (NL)|Fredrik Berg|Håkon Løvdal|Kristoffer Dalby (Ø)|Petter Ekern|Jørgen Sirhaug|Kristian Volden|Sondre Dyvik
 |2013-2014|Kina|Per Øyvind Kanestrøm (L)|Ragnhild Seim (Kun med de første månedene)|Pia Lindkjølen|Christian Strand Young|Kathrine Steffensen|Anders Malmo|Vegar Lerpold|Øyvind Hellenes|Rikard Eide|Are Sjøberg
