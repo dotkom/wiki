@@ -32,6 +32,8 @@ Onlinelekene 18. okt - 26 påmeldte  (nytt)
 Blåtur 24. sept - 43 påmeldte  
 Immball 12. sept - 224 påmeldte  
 
+** Statistikk **
+
 Antall deltagende høst: 450 stk (eksl. juleverksted, eksamensfest)  
 Antall deltagende vår: 361 stk (eksl. X-fest, reboot, 17. mai-middag, eksamensfest)  
 Antall deltagende totalt: 811 stk  
@@ -51,10 +53,10 @@ Antall nye arrangementer: 3 + 3 = 6 stk
 
 Opptak/medlemmer
 ------------------
-5 nye medlemmer (alle førsteklassinger)
-4 personer permitterte (1 til HS-verv, 2 til seniorKom)
+5 nye medlemmer (alle førsteklassinger)  
+4 personer permitterte (1 til HS-verv, 2 til seniorKom)  
 
-Idag 11 personer i komiteen
+Idag 11 personer i komiteen  
 
 Nye ting
 ------------------
