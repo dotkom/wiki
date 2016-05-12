@@ -5,6 +5,9 @@ title: "IT-Ekskursjonen"
 Historie
 --------
 
+* Når ble ITEX startet?
+* Hvem startet ITEX?
+
 ITEX' virke
 -----------------
 
@@ -13,10 +16,6 @@ Medlemmer
 ---------
 
 Komiteen består for øyeblikket av 5 medlemmer
-
--   L - Leder
--   N - Nestleder
--   Ø - Økonomiansvarlig
 
 |År||Leder|      Medlemmer      |
 |---|---|---|---|---|---|
