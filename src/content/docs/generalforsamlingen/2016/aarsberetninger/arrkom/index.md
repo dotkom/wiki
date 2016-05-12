@@ -42,13 +42,12 @@ Antall deltagende totalt: 811 stk
 Antall arrangementer vårsemester: 11 stk  (7 stk ifjor)  
 Antall arrangementer høstsemester: 8 stk  (6 stk ifjor)  
 
-Antall arrangementer med andre linjeforeninger: 3 stk  
+Antall arrangementer med andre linjeforeninger: 3 stk  (1 stk ifjor)
 
 Antall alkohol arrangementer: 5 + 8 = 13 stk  
 Antall ikke-alkohol arrangementer: 3 + 3 = 6 stk  
 
 Antall nye arrangementer: 3 + 3 = 6 stk  
-
 
 
 Opptak/medlemmer
