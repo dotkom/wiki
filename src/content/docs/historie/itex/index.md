@@ -8,6 +8,8 @@ Historie
 * Når ble ITEX startet?
 * Hvem startet ITEX?
 
+ITEX ble juridisk innlemmet under Online og bedkom på generalforsamlingen i 2015, etter forslag fra Pia Lindkjølen.
+
 ITEX' virke
 -----------------
 
