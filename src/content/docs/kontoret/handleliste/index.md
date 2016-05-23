@@ -14,6 +14,12 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 
 ###Ønsker
 
+- Iskaffe
+- Red Bull
+- Chai Te
+- Japp
+- Nøtter
+
 ###Budre ha
 
 - Tallerkener
