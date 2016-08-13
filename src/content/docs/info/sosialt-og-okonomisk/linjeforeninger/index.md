@@ -16,7 +16,6 @@ Tilhørende wikisider
 
 *  Du er her: [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
 * [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på HiST](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
 * [Linjeforeninger på Kalvskinnet](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
 * [Linjeforeninger i Ålesund](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
 * [Linjeforeninger på Gjøvik](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
