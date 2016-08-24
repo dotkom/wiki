@@ -110,7 +110,8 @@ Alle serverne kjører debian squeeze, tykklientene kjører ubuntu.
   [Django]: http://www.djangoproject.com/
   [Python]: http://python.org/
 
-h2. Medlemmer
+Medlemmer
+---
 
 |År|Leder| Medlemmer |
 |---|---| :---: |
