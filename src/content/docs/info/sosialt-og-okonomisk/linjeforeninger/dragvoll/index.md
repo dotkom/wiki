@@ -31,7 +31,6 @@ Tilhørende wikisider
 | [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com |
 | [CAF](http://www.cafidrett.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | [Page](http://fb.com/citiusaf) | cafidrett@gmail.com |
 | [Communitas](http://sosantntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998359910) | Sosialantropologi | | [Person](http://fb.com/profile.php?id=100005081378226), [Group](http://fb.com/groups/523915897703998/) | sosant.ntnu@gmail.com |
-| [Leviathan](http://www.defolkevalgte.net/) | | Statsvitenskap | | [Page](http://fb.com/defolkevalgte), [Person](http://fb.com/thomashobbesdf) | leviathan.ntnu@gmail.com |
 | [De Passe Simple](http://org.ntnu.no/dps/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=895213632) | Fransk | 7-508 (bygg 7, nivå 5) | [Group](http://fb.com/groups/5656499932/) | depassesimple@gmail.com |
 | [Det Historiske Selskab](http://org.ntnu.no/historie/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996557405) | Historie | | [Page](http://fb.com/DetHistoriskeSelskab), [Person](http://fb.com/petter.wesseltordenskjold), [Group](http://fb.com/groups/33248463626/) | ntnu_dhs@hotmail.com |
 | [Dionysos](http://dionysosntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998237874) | Religion | | [Page](http://fb.com/LinjeforeningenDionysos) | dionysoslinjeforening@gmail.com |
@@ -44,6 +43,7 @@ Tilhørende wikisider
 | [IVRig](http://org.ntnu.no/ivriglinjeforening/) | | Voksnes læring og rådgivningsvitenskap | | [Group](https://www.facebook.com/groups/271991916331535/) | ivrig.linjeforening@gmail.com |
 | [Det Gyldne Snitt](http://ntnukatharsis.wordpress.com/) (tidl. Katharsis) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | post.detgyldnesnitt@gmail.com |
 | [Kultura](www.kulturalinjeforening.no ) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911761157) | Kulturminneforvaltning | Bygg 6 nivå 4, rom 6430C | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
+| [Leviathan](http://www.defolkevalgte.net/) | | Statsvitenskap | | [Page](http://fb.com/defolkevalgte), [Person](http://fb.com/thomashobbesdf) | leviathan.ntnu@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
 | [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
 | [Lydmurerlosjen](http://org.ntnu.no/lydmurerlosjen/) | | Musikkteknologi | | [Group](http://fb.com/groups/39534575405/) | |
