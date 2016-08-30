@@ -22,6 +22,10 @@ Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kan
 
 For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fylle vann til "2.2 l"-merket.
 
+##Nible systemet(kiosken)
+
+Dotkom har utviklet et eget kiosksystem til bruk på kontoret. Dette kan onlinere bruke for å kjøpe varene som tilbys på kontoret. For å legge inn penger, enten legg penger i det rødeskrinet i en av kjøleskapene og legg til penger manuelt etter å skannet kortet, eller logg inn på [profilen din på online weben, så inn på saldo, så legge inn penger der](https://online.ntnu.no/profile/saldo/).
+
 ## Annet
 
 Det står en mikrobølgeovn fremme som er til fritt bruk.
