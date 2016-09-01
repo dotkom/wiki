@@ -44,7 +44,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 * 2016 - 
 * 2015 - **Sondre Widmark** danser til det ukrainske bidraget til MGP i 2007: "Dancing Lasha Tumbai" med Leif, Ingrid, Didrik og Silje som backupdansere. Alle iført paljettkjoler og glitter.  
 * 2014 - **Marius Thingwall** danser "All the single ladies" sammen med backup-dansere Leif og Sondre, iført strømper og hotpants.
-* 2013 - **Marius Thingwall** synger pokemonsangen, akkompagnert av Ivar på djembe, og Thor Håkon på Kazoo.
+* 2013 - **Marius Thingwall** synger pokemonsangen, akkompagnert av Ivar på djembe og Thor Håkon på Kazoo.
 * 2012 - **Martin Akre Midtsund** synger "never gonna give you up" av Rick Astley. (med bursdagskrone)
 
 
