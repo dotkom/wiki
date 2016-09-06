@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2016-08-24](20160824) - Hovedstyrets fadderuke er hardt-møte
 - [2016-08-17](20160817) - Hovedstyrets fadderukene er i gang-møte
 - [2016-08-13](20160813ny) - Hovedstyrets semiførste møte for semesteret
 - [2016-05-10](20160510) - Hovedstyrets kanskje siste møte før sommeren
