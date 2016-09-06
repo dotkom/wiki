@@ -19,6 +19,8 @@ Er det ting som mangler på kontoret, eller har du ønsker om ting vi skal kjøp
 - Chai Te
 - Japp
 - Nøtter
+- Skyr
+- Ting fra 14-serien til Tine
 
 ###Budre ha
 
