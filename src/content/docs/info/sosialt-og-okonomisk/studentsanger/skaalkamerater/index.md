@@ -8,5 +8,5 @@ title: "Skål kamerater"
 **Jenter:** Datt ned fra gjerdet,  
 **Gutter:** stein dau,  
 **Alle:** ompa, ompa, drikk deg i hjel.  
-*blblblblbl *  
+**Alle:** *blblblblbl *  
 **Alle:** Hei, skål!
