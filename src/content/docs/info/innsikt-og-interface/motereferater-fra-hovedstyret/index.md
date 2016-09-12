@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2016-09-07](20160907) - Hovedstyrets lite kreative møtetittel
+- [2016-08-31](20160831) - Hovedstyrets folk er på ITEX-møte
 - [2016-08-24](20160824) - Hovedstyrets fadderuke er hardt-møte
 - [2016-08-17](20160817) - Hovedstyrets fadderukene er i gang-møte
 - [2016-08-13](20160813ny) - Hovedstyrets semiførste møte for semesteret
