@@ -94,6 +94,14 @@ Ikke her
 - Oversiktsplakat skal skje
 - Hajem, noen har glemt frimerke på et brev. Viser seg å være noe vi har mottatt.
 
+## 085 Informatikkgruppa på facebook
+- Strenge regler
+- Frivillige verv er kanskje greit? Ja
+- Bedriftsrelaterte er ikke ok
+- Boksalg er ikke ok
+- Spørreundersøkelser til fag er ikke greit
+- Vi skal løsne litt på reglene. Så lenge det postes av informatikere og er relevant for flertallet i gruppa er det OK. 
+
 
 ## 087 Forespørsler som har kommet på e-post (5 min) 
 - Fikk en mail om at det er dumt å få prikk for å ikke betale for arrangementer i tide. Vi er enig, strengt nok å bli avmeldt. Vi bestemmer at prikk skal fjernes ved forsen betaling med mindre avmeldingsfristen har gått ut, og at å bli meldt av arrangementet er nok straff. 
