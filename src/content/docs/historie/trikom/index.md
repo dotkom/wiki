@@ -17,7 +17,7 @@ Trivselskomiteen har til daglig ansvar for at det er mat på kontoret, at kontor
 Medlemmer
 ---------
 
-Komiteen består for øyeblikket av 9 medlemmer som er engasjerte i
+Komiteen består for øyeblikket av 10 medlemmer som er engasjerte i
 triKom og linjeforeningen.
 
 -   L - Leder
