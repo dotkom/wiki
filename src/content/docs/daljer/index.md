@@ -4,6 +4,9 @@ title: "Onlines daljer og pins"
 
 Online har de siste årene begynt å få en del forskjellige daljer. Dette er en oversikt over disse.
 
+Den første Komitédaljen er gratis, etter det koster den 100,-.
+Alle får en gratis pin etter fullført kompilering, etter det koster pinen 40,-.
+
 
 Æresmedlemsdaljen
 =================
