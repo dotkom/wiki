@@ -20,7 +20,7 @@ Lambo, lambo, mine herrer lambo (Repeteres til vedkommende verset er rettet mot 
 **Dranker synger:**  
 Jeg mitt glass utdrukket har, mine herrer lambo.  
 Se der fins ei dråpen kvar, mine herrer lambo.  
-Som bevis der på jeg vender, flasken på dens annen ende
+Som bevis der på jeg vender, flasken på dens rette ende
 (Drankeren vender fysisk glass/flaske el. annet med toppen ned over hodet som bevis.)
 
 **Tilskuere synger:**  
