@@ -244,6 +244,10 @@ kaffedrikking.
 
 ## Hovedstyrer
 
+|År|Leder|Nestleder|Arrkom|Bankom|bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
+|---|---|---|---|---|---|---|---|---|---|---|
+|2016v-2017v| Thor Håkon Bredesen |Erik Wiker| Sander Arnesen|Kristoffer Hajem| Didrik Pemmer Aalen|Håkon Solbjørn|Kristiane Westgård|Andrea Bch|Martin Bjerke|Ingrid Myrann (ikke valgt på genfors)|
+
 |År|Leder|Nestleder|arrKom|banKom|bedKom|dotKom|fagKom|proKom|triKom|
 |---|---|---|---|---|---|---|---|---|---|
 |2015v-2016v| Pia Lindkjølen |Thor Håkon Bredesen| Sondre Widmark|Marius Thingwall| Kristian Svoren|Nils Herde|Christoffer Skar Lofsberg|Agnete Djupvik|Sondre Auestad|
