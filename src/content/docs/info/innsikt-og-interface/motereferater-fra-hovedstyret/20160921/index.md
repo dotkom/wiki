@@ -1,0 +1,166 @@
+---
+title: "Hovedstyrets i kveld er det komitékickoff-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Martin
+
+**Vinstraff:** 
+
+**Ølstraff:**  
+
+**Tilstede:** HS - Håkon
+
+**Mangler:** Håkon
+
+## 104 Godkjenning av innkalling, servering og referat 
+Godkjent
+
+## 105 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+* Kjempe fornøyde, spesielt over sondre og edvard de har brukt SYKT mye tid på dette
+* Skryt mail fra eldsterådet  
+* Blåtur på fredag, alt er good  
+* Utsatt arrkommøte til fredag  
+* Åre er good, påmelding er 21. okt  
+* Teambuilding neste helg  
+
+#### Bankom:  
+* Fiken er good to go
+* Kursing av nye på torsdag
+* Teambuilding neste fredag
+
+#### Bedkom, med ITEX:  
+* Miniseminar med Bekk er fult, alt klart
+* Blank i morra
+* Opplæring forrige onsdag
+* Booking runde med abakus
+
+#### Dotkom, med appkom:
+* Kom på mail
+
+#### Fagkom, med ekskom:  
+* Kurs i går, var bra
+* Javazone er avlyst pga at de bare vil ha engang i året
+* Teambuilding med abakus og bedkom i boks
+
+#### Prokom:  
+* Immball bilder er ute
+* CV fotografering på fredag
+* Opplæring
+* Sosialkveld på lørdag
+
+#### Trikom:  
+* Trikoskveld 2. oktober
+* Overnattingstur snart i boks
+* Skal prøve å få til code in the dark
+* Fotballkamp 17. oktober
+
+#### Seniorkom: 
+* Komitekickoff er klart
+
+#### Leder og nestleder:  
+* Jub invite i sendt ut, med mulig feil info
+* Sjefen er borte til uka, Bestleder tar over
+* Chromecast til spørreundersøkelsen er på vei
+* Har mye små ting i gang
+
+#### ITV: 
+* Ser på salplasser til mastere
+
+## 106 Interkom (10 min)
+* Immballbildene: folk var ikke fornøyd med at det var redigering, var problemer med lyset, vakke 10/10 fotograf, bare de fine kom ut
+
+## 108 Tillitspersoner i komiteen
+* En tillitsperson utenfor HS, vil få kursing fra Sit, og en person som er ansvarlig for de
+
+* Kommer ann på komiteen
+* Redd det ikke skal være noen som melder seg
+* Kan komme behov, så bedre å ha noen som ikke gjør noe en stund, enn at vi ikke tar det
+* Ingird, Erik og Thor-Håkon skriver kravspekken
+
+## 109 Tidligere medlemmer/Eldsterådmedlemmer som har tilgang til alt (Didrik)
+* Utsatt til neste gang
+
+## 110 Prikkeregler (Kristiane)
+* Ikke lagt ut de nye, gamle prikkereglene
+* Vi har suspansjoner, kan ikke melde seg på andre arr så lenge man har et ubetalt betalingssystem
+* Vi trenger ikke genvors for å endre prikkeregler
+
+* Det diskuteres
+* Aventer til Dotkomleder kommer på møte, da må reglene ut asap
+
+## 111 Forespørsler som har kommet på e-post (30 min) 
+
+* Utsending av linjeforeningsaviser på tvers av linjeforeningene  
+Videresendes til prokom
+* Telefonene på kontoret  
+Beholder, setter opp viderekobling
+
+* Interessegruppe og støtte  
+Vi trenger en generell regel/fremgangmåte for å søke om penger til interressegrupper
+
+* C# søker penger  
+Vil kickstarte de med penger vi må bli kvitt
+Offline tar med at vi må bli kvitt penger i artikkelen sin og vi poster på face
+* Innvilget
+
+* Forslag til æresmedlem  
+Thor-Håkon mener han er en sikkelig grepa kar
+Æresmedlemmer blir invitert på ting, og de blir invitert til alt
+Vi invilger æresmedlemmer og vi tar å invilger det
+Jubkom og HS tar det med i erfaringsskrivet sitt om hva æresmeldem innebærer
+Skal reklameres og se om noen har lyst til å nominere flere, må gi resten et referansepunkt
+
+* Forslag om anerkjennelse til nodekomiteene
+Blir ikke et nullprosjekt
+Er alternativ pin, billigere
+Må ha minst 30 nye daljer i året, 
+Mener det er fjortjent
+Medlemmer burde få si hva de mener
+Tas på spørretime
+
+* Kulturstyret  
+Ikke stor stemning for det.
+
+* Jobbsøkerkurs  
+Vi sender det ikke til våre studenter.
+
+* Sukkerhuset søker studenter  
+Bra kjeller, men vi vil ikke bleste for de.
+
+* Linjeforeningsstaffeten 2016  
+Man kan vinne vandrepokal. Vi blestet i fjor, og vi gjør det i år.
+Erik legger ut på facebook med link.
+
+* Kandidater til NTNUs Råd for samarbeid med arbeidslivet  
+Vi føler ikke at dette passer for våre informasjonskanaler.
+
+* Refusjon for bruk av NTNU Grafisk senter  
+Vi må vente på faktura før vi kan søke.
+
+## 112 Ukens infomail og Facebook (5 min)  
+* Infofix  
+Alle infomail frem til desember en gang er ute. Legg inn.
+
+* Facebook  
+Alt er avklart fremover.
+
+## 113 Eventuelt (10 min)
+* Minigeneralforsamling  
+Vi må sette opp hva som skal tas opp. Folket skal få møte styret.
+Tentativ dato 17. oktober kl. 16:00.
+Folk kan sende inn forslag. Anonyme innsalg er lov.
+Erik bestiller forelesningssal.
+Lage form, eventer(face og OW) og annen planlegging.
+**
+* Epostlister  
+Velkom sitter på komiteerlisten. Velkom tas bort.
+
+* +1 til jubileum  
+Skal de sitte med oss? Det er ikke plass til dem. De får plasser for seg selv.**
+
+## 115 Møteevaluering/Diggepunkt (5 min)
+HS er diiigg
