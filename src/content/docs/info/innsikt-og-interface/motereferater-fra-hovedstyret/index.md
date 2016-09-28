@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2016-09-21](20160921) - Hovedstyret i kveld er det komitékickoff-møte
 - [2016-09-14](20160914) - Hovedstyret hadde en flott ball-møte
 - [2016-09-07](20160907) - Hovedstyrets lite kreative møtetittel
 - [2016-08-31](20160831) - Hovedstyrets folk er på ITEX-møte
