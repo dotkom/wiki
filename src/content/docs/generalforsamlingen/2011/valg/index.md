@@ -12,14 +12,14 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har vi i Hovedstyret laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
 
-* *Leder:* Michael Johansen
-* *Nestleder:* Håvard S. Slettvold
-* *Kontorsjef:* John H. Kolstad, Håkon Gulbrandsen
-* *arrKom:* Juni Angelfoss, Kristian Laskemoen
-* *bedKom:* Daniel T. Abrahamsen
-* *dotKom:* Christian S. Young
-* *fagKom:* Tri M. Nguyen
-* *proKom:* Erik Lothe
+* *Leder:* **Michael Johansen**
+* *Nestleder:* **Håvard S. Slettvold**
+* *Kontorsjef:* John H. Kolstad, **Håkon Gulbrandsen**
+* *arrKom:* **Juni Angelfoss**, Kristian Laskemoen
+* *bedKom:* **Daniel T. Abrahamsen**
+* *dotKom:* **Christian S. Young**
+* *fagKom:* **Tri M. Nguyen**
+* *proKom:* **Erik Lothe**
 
 Vennligst merk at:
 * Denne listen vil *oppdateres kontinuerlig* frem til genfors ettersom folk bestemmer/ombestemmer seg.
