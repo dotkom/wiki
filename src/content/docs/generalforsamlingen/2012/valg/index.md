@@ -13,14 +13,14 @@ Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interes
 
 For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
 
-* *Leder:* Hanne Gunby
-* *Nestleder:* Ada A. Jordal, Sverre J. Bjørke, Tri M. Nguyen
-* *arrKom:* Jim Frode Hoff, Martin A. Midtsund
-* *bedKom:* Vilde Grav, Magnus Kongshem 
-* *dotKom:* Christian S. Young
-* *fagKom:* Nina Smørsgård, Linn Vikre, Henning M. Wold
-* *proKom:* Magnus Line
-* *triKom:* David Storjord, Malin K. Bruland, John H. Kolstad
+* *Leder:* **Hanne Gunby**
+* *Nestleder:* Ada A. Jordal, Sverre J. Bjørke, **Tri M. Nguyen**
+* *arrKom:* Jim Frode Hoff, **Martin A. Midtsund**
+* *bedKom:* **Vilde Grav**, Magnus Kongshem 
+* *dotKom:* **Christian S. Young**
+* *fagKom:* Nina Smørsgård, **Linn Vikre**, Henning M. Wold
+* *proKom:* **Magnus Line**
+* *triKom:* **David Storjord**, Malin K. Bruland, John H. Kolstad
 
 Vennligst merk at:
 * Denne listen vil *oppdateres kontinuerlig* frem til genfors ettersom folk bestemmer/ombestemmer seg.
