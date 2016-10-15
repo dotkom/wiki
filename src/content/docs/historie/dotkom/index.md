@@ -65,9 +65,13 @@ Utvikling
 Onlines websider er utviklet i rammeverket [Django][]. Django bruker
 [Python][] som programmeringsspråk og vårt valg av databasesoftware er
 PostgreSQL.  
+Kildekoden ligger åpent tilgjengelig på GitHub: [dotkom/onlineweb4](https://github.com/dotKom/onlineweb4)
+
+
 Denne wikien er et open source-prosjekt kalt Redmine og er skrevet i
 Ruby on Rails. Vår implementasjon av redmine innholder ymse selvlagde
 script for adgangshåndtering mot LDAP samt en egen plugin til [[emner]].
+
 
 Drift
 -----
