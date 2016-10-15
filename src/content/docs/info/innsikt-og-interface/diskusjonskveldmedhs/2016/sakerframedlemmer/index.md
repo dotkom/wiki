@@ -2,7 +2,7 @@
 title: "Saker fra medlemmer"
 ---
 
-## Sak 1: Medlem av Online
+## Sak 1: Medlem av Online (Marius Thingwall)
 
 * Hvem er medlemmer av Online? Og eventuelt hva
 betyr et medlemskap i Online. Skal man få delta på sosiale
