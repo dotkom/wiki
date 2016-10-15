@@ -113,15 +113,18 @@ Alle serverne kjører debian squeeze, tykklientene kjører ubuntu.
 Medlemmer
 ---
 
-|År|Leder| Medlemmer |
-|---|---| :---: |
-|2013-2014|/1.*Nils Herde*|/5.Christian Strand Young|/7.Espen Jacobsson|/6.Håvard Slettvold|/3.Magnus Dysthe|/3.Tor Håkon Bonsaksen|/3.Jonas Svarvaa|/2.Kristoffer Dalby|/2.Nils Herde|/2.Edgar Vedvik|/2.Thomas Gautvedt|/2.Iver Asperud|/1.Tri M. Nguyen|/1.Rikke Rye-Holmboe|/1.Christian Duvholt|/1.Nicolas A. Tonne|/1.Aleksander Skraastad|
-|2012-2013|/3.*Christian Strand Young*|/3.Sigurd Fosseng|/2.Torkil Rein Gustavsen|/1.Michael Johansen|
-|2011-2012|/2.Hanne Gunby|/6.Dag Olav Prestegarden|/3.Roy Sindre Norangshol|/5.Jon-Terje Kalvatn|/1.Håvard Kindem|/1.Helle Grimnes|
-|2010-2011|/3.Lorents Gravås|
-|2009-2010|/3.*Dag Olav Prestegarden*|/6.Magnus Romnes|/4.Martin Syvertsen|
-|2008-2009|/5.Glenn Ruben Bakke|/2.Alexander Bjerkan|/2.Anders Brujordet|/3.Aleksander Grande|
-|2007-2008|/4.Asbjørn Fellinghaug|Rune Vikestad|
-|2006-2007|/3.*Asbjørn A. Fellinghaug*|Naimdjon Takhirov|Martin Rødvand|Håvard Sørbø|
-|2005-2006|/2.Anders Berre|/2.Bjørn Christiansen|
-|2004-2005|
+| År | Leder | Medlemmer  |
+| --- | --- | :---:  |
+|2016-2017| *Håkon Solbjørg* | Christian Duvholt, Nils Herde, Kristoffer Andreas Dalby, Kristian Selvik Ekle, Iver Egge Asperud, Thomas Gautvedt, Aleksander Skraastad, Hans Sandbu, Aigars Tumanis, Anders Larsen, Andrea Nornes, Jarle Trollebø, Katrine Jordheim, Martin Lunde, Niklas Hole, Ole Anders Stokker, Aslak Hollund, Dora Oline Eriksrud, Jakob Westermoen, Thomas Lund Mathisen, Torjus Iveland, Zawadi Svela  |
+|2015-2016| *Nils Herde* | |
+|2014-2015| *Nils Herde* | |
+|2013-2014| /1.*Nils Herde* | /5.Christian Strand Young /7.Espen Jacobsson /6.Håvard Slettvold /3.Magnus Dysthe /3.Tor Håkon Bonsaksen /3.Jonas Svarvaa /2.Kristoffer Dalby /2.Nils Herde /2.Edgar Vedvik /2.Thomas Gautvedt /2.Iver Asperud /1.Tri M. Nguyen /1.Rikke Rye-Holmboe /1.Christian Duvholt /1.Nicolas A. Tonne /1.Aleksander Skraastad |
+|2012-2013| /3.*Christian Strand Young* | /3.Sigurd Fosseng /2.Torkil Rein Gustavsen /1.Michael Johansen |
+|2011-2012| /2.Hanne Gunby | /6.Dag Olav Prestegarden /3.Roy Sindre Norangshol /5.Jon-Terje Kalvatn /1.Håvard Kindem /1.Helle Grimnes |
+|2010-2011| | /3.Lorents Gravås| 
+|2009-2010| /3.*Dag Olav Prestegarden* | /6.Magnus Romnes /4.Martin Syvertsen |
+|2008-2009| | | /5.Glenn Ruben Bakke /2.Alexander Bjerkan /2.Anders Brujordet /3.Aleksander Grande |
+|2007-2008| | | /4.Asbjørn Fellinghaug Rune Vikestad |
+|2006-2007| /3.*Asbjørn A. Fellinghaug* | Naimdjon Takhirov Martin Rødvand Håvard Sørbø |
+|2005-2006| | /2.Anders Berre /2.Bjørn Christiansen |
+|2004-2005| | |
