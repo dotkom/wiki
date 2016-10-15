@@ -2,5 +2,8 @@
 title: "Diskusjonskvelden 2016"
 ---
 
+Hovedstyret ber om at du sender inn saker du vil fremme, eller spørsmål du vil stille, i forkant. Du kan også spørre på dagen, men innsendte saker vil bli prioritert. Send inn sakene til hovedstyret@online.ntnu.no.
+
+
 * [2016 Saker fra Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/2016/sakerfrahovedstyret)
 * [2016 Saker fra medlemmer](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/2016/sakerframedlemmer)
