@@ -52,6 +52,9 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
 - [Slik lager du bruker på Onlineweb](/wiki/online/slik_lager_du_bruker_pa_onlineweb/) - Det er helt sant
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
+- [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret
+
+
 
 [Historie om linjeforeningen og komiteene](/wiki/online/historie/)
 ----------------------------------------
