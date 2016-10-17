@@ -11,12 +11,12 @@ Nåværende medlemmer og stillinger
 
 Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktober 2016 12:27:45).
 
-- **Leder:** Thomas "Supersmash" G.
-- **Nestleder:** Fredrik "Laz0o0or" B.
+- **Leder:** Thomas "Fittetaper" G.
+- **Nestleder:** Fredrik "Back-to-the-station" B.
 - **Ape:** Håkon "Ape" G.
-- **Kontrollerinnkjøpsansvarlig:** Fride "Kirby" S
-- **Medlem:** Kristiane "Zelda(?)" A. W.
-- **Medlem:** Kristian "Kristiane" E.
+- **Kontrollerinnkjøpsansvarlig:** Fride "Hammerhore" S
+- **Medlem:** Kristiane "Pilfitte" A. W.
+- **Medlem:** Kristian "KristianE" E.
 
 Historie
 --------
