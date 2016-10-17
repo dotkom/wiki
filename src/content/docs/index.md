@@ -50,6 +50,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
+- [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
 - [Slik lager du bruker på Onlineweb](/wiki/online/slik_lager_du_bruker_pa_onlineweb/) - Det er helt sant
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret
