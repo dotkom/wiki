@@ -11,12 +11,34 @@ Nåværende medlemmer og stillinger
 
 Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktober 2016 12:27:45).
 
-- **Leder:** Thomas "Fittetaper" G.
-- **Nestleder:** Fredrik "Back-to-the-station" B.
+- **Leder:** Thomas "Supersmash" G.
+- **Nestleder:** Fredrik "Laz0o0or" B.
 - **Ape:** Håkon "Ape" G.
-- **Kontrollerinnkjøpsansvarlig:** Fride "Hammerhore" S
-- **Medlem:** Kristiane "Pilfitte" A. W.
-- **Medlem:** Kristian "KristianE" E.
+- **Kontrollerinnkjøpsansvarlig:** Fride "Kirby" S
+- **Medlem:** Kristiane "Zelda(?)" A. W.
+- **Medlem:** Kristian "Kristiane" E.
+
+Retningslinjer
+--------------
+
+### §1 Gruppens formål
+
+Være et sosialt samlingspunkt for Onlinere. Spille Super Smash Bros. Ofte. Masse. Hele tiden.
+
+### §2 Gruppens eksistens
+
+Komiteen eksisterer KUN i perioden hvor det er en Nintendo Wii U eller Nintendo 64 på kontoret med tilhøre Super Smash Bros. spill. Om konsollen, eller spillet, fjernes fra kontoret vil gruppa opphøre innen 69 dager, dersom det ikke blir erstattet med manglende konsoll eller spill. Gruppens eksistens er derfor betingelsesknyttet.
+
+### §3 Gruppens navn
+
+Gruppens omtaltes eksternt som Smashkom, og internt som Smakom.
+
+### §4 Gruppens sammensetning
+
+- Leder
+- Nestleder
+- Ape
+- Medlemmer
 
 Historie
 --------
