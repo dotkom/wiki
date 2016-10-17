@@ -9,12 +9,12 @@ Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt 
 Nåværende medlemmer og stillinger
 ---------------------------------
 
-- Leder: Thomas "Supersmash" G.
-- Nestleder: Fredrik "Laz0o0or" B.
-- Ape: Håkon "Ape" G.
-- Kontrollerinnkjøpsansvarlig: Fride "Kirby" S
-- Medlem: Kristiane "Zelda(?)" A. W.
-- Medlem: Kristian "Kristiane" E.
+- **Leder:** Thomas "Supersmash" G.
+- **Nestleder:** Fredrik "Laz0o0or" B.
+- **Ape:** Håkon "Ape" G.
+- **Kontrollerinnkjøpsansvarlig:** Fride "Kirby" S
+- **Medlem:** Kristiane "Zelda(?)" A. W.
+- **Medlem:** Kristian "Kristiane" E.
 
 Historie
 --------
