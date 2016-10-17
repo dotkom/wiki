@@ -9,6 +9,8 @@ Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt 
 Nåværende medlemmer og stillinger
 ---------------------------------
 
+Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktober 2016 12:27:45).
+
 - **Leder:** Thomas "Supersmash" G.
 - **Nestleder:** Fredrik "Laz0o0or" B.
 - **Ape:** Håkon "Ape" G.
@@ -19,4 +21,6 @@ Nåværende medlemmer og stillinger
 Historie
 --------
 
-TODO
+Gruppa ble hadde en spe begynnelse og ble påtenkt av de grunnleggende medlemmene da de kastet bort nærmere seks årsverk rundt eksamensperioden våren 2016. Det ble forfattet og sendt en søknad til Hovedstyret den 14. mai 2016 20:38:22. Søknaden kan dere se under i sin helhet.
+
+>Derp
