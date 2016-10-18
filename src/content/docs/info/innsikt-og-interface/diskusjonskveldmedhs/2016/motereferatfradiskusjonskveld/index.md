@@ -2,11 +2,11 @@
 title: "Møtereferat fra diskusjonskveld 2016"
 ---
 
-#### Diskusjonskveld med Hovedstyret – 17.10.2016 
+##Diskusjonskveld med Hovedstyret – 17.10.2016 
 ### Saker fra medlemmer
-## Sak 1: Medlem av Online (Marius Thingwall)
-* Hvem er medlemmer av Online? Hvor går grensen for et Online-medlem?
--	HS har fått inn to-tre søknader fra studenter som går informatikk på Kalvskinnet, og en som bare tar informatikk-fag. Per vedtektene våre så er det BIT, MIT og PhD ved IDI som er medlemmer av linjeforeningen.
+#### Sak 1: Medlem av Online (Marius Thingwall)
+* Hvem er medlemmer av Online? Hvor går grensen for et Online-medlem?  
+HS har fått inn to-tre søknader fra studenter som går informatikk på Kalvskinnet, og en som bare tar informatikk-fag. Per vedtektene våre så er det BIT, MIT og PhD ved IDI som er medlemmer av linjeforeningen.
 -	Men i vedtektene står det at HS kan ved spesielt grunnlag tillate andre å bli medlem. 
 -	Vi har ikke noe tilbud for de som går ved Kalvskinnet, de har en linjeforening fra før av.
 -	Ett tilfelle HS opplevde: det var en som tar de samme informatikkfagene som BIT, studieprofilen matcher vår, så HS innvilget medlemskap. Han går som en førsteklassing, men får ikke lov til å bli med på kurs og bedriftspresentasjoner. Kan bli med på sosiale arrangementer.
