@@ -290,7 +290,7 @@ kaffedrikking.
 |---|---|---|
 |1997h-1998h|Kim O. Johansen|Bente Torp Pederse, Morten Dreier, Anders Kofod-Petersen, Gøril Tronslien, Ove Kuvåssæter, Ralf Jørgensen?, Sigmund Aamodt?, Ellen Lippe?|
 
-97/98: Konflikt i informasjon: Rune A. Hollås (leder), Rina Bjørntvedt (nestleder og kasserer)
+97/98: Konflikt i informasjon: Rune A. Hollås (leder), Rina Bjørntvedt (nestleder og kasserer), Bjørn Endresen (kasserer)
 
 |År|Leder|Sekretær|Web|Styremedlem|
 |---|---|---|---|---|
