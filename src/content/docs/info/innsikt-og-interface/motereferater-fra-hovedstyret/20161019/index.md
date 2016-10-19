@@ -30,7 +30,7 @@ Nytt bankkort til trikom er bestilt siden pinkoden er blitt mistet. Tillitsvalgt
 
 #### Bedkom, med ITEX:  
 
-Alt klart for gjenstående bedpreser dette semesteret. **Sliter med påmelding til Appear.tv, men har lagt inn arbeid for å få flere. Har tatt kontakt med SS angående HSP, men har ikke fått svar enda.** Bookingrunden går bra. Skal velge ny økomomiansvarlig. Det har blitt sett på tettere samarbeid med Teknologiporten, etter forespørsel fra dem, og de ønsker å ha oss inn under dem. Problemet er at vi er attraktive nok til at vi har bedre tilbud for bedrifter alene enn med dem. Det skal kjøpes inn nye adaptere til prosjektorer, slik at bedrifter kan bruke de.
+Alt klart for gjenstående bedpreser dette semesteret. Bookingrunden går bra. Skal velge ny økomomiansvarlig. Det har blitt sett på tettere samarbeid med Teknologiporten, etter forespørsel fra dem, og de ønsker å ha oss inn under dem. Problemet er at vi er attraktive nok til at vi har bedre tilbud for bedrifter alene enn med dem. Det skal kjøpes inn nye adaptere til prosjektorer, slik at bedrifter kan bruke de.
 
 #### Dotkom, med appkom:
 
@@ -40,7 +40,6 @@ Appkom går sakte men sikkert fremover og det jobbes med å få inn nye medlemme
 
 #### Fagkom, med ekskom:  
 
-**Kurset med computas gikk bra, og det var positiv tilbakemelding om blant annet tapas og ikke pizza. Det er så langt dårlig påmelding til TDC. Skal se på å få en kontaktinformasjon hos Dataforeningen, som arrangerer TDC, for å få bedre oppsett med datoer. SS har tatt kontakt angående jubileumskurs.** 
 
 #### Prokom:  
 
@@ -92,23 +91,11 @@ Trikom vil prøve seg på 1 års prøvetid hos trondheim bilkollektiv. Det vil k
 
 ## 158 Hyttetur
 
-**vi blir 37 personer, og trenger dermed 3 edruvakter per aften. Kan ta en fra hvert styret hver kveld, slik at det blir likt fordelt. Andrea skal filmes på søndag, så hun er edru på lørdag.**
-
-**transport: Vi har en bil klar og det trengs en bil til.**
-
-**Mat: Vi har ansvar for middag på fredag. Kan lage kjøtt- og grønnsakssuppe fra bunnen av.**
-
-**Vinstraffer kan tas med, men noen bør spares til en våt aften med HS.**
-
-**Ta med utetøy for å spille CtF, og ev badebukse for bading og badstue.**
-
-**Avgang: Bjerke kjører rett etter forelesning 14:00, med Sklirg og THB som passasjerer. Den andre bilen kjører kl 10:00ish med Erik som sjåfør og Hajem, Sander og Andrea som passasjerer.**
-
 ## 159 Fadderukene
 
 Hovedsakelig har gjennomføringen av fadderuka vært bra, men det har vært en del slit med det organisatoriske.
 
-Det har ikke kommet noen innspill fra medlemmer etter at hs ba om dette, så regnes med at de var fornøyde. **Gullsponsor var misfornøyd med fadderukene, siden de ikke får inntrykk i hva de kjøper sposnorpakke for. Dette burde løses med å ta bilder i fadderukene så de kan sendes til dem. Bildene fra i år kunne ikke brukes, og logoen må være større på tskjortene. Dette burde puttes inn i et skriv på velkom sin wiki. Videre så burde det kanskje postes noe om gullsponsor ila fadderukene.**
+Det har ikke kommet noen innspill fra medlemmer etter at hs ba om dette, så regnes med at de var fornøyde.
 
 Det er vanskelig å gjennomføre fadderuka per dags dato siden det ikke finnes noen skikkelig oppskrift på hva og når ting bør gjøres. Derfor må det settes opp en sjekkliste som går gjennom nøyaktig hva som må gjøres med tidligere velkomleder og -medlemmer som har erfaring med komitearbeid, før neste velkom. Burde også skrives opp hvordan man skal sette opp arrangementer og påmeldinger på OW.
 
@@ -117,9 +104,6 @@ Velkom hadde vanskeligheter med å få medlemmer til å gjøre forskjellige oppg
 
 ## 160 Forespørsler som har kommet på e-post (5 min) 
 
-**Guy Fawkes-fest med Lipton og ingen som kan, så vi kan høre med nestledere.**
-
-**Styrefesten vil vi være med på.**
 
 ## 161 Ukens infomail og Facebook (5 min)  
 
@@ -142,31 +126,3 @@ Konklusjonen vi kom frem til var at vi er positivt innstilt for at alle skal kun
 Hva syns komiteer om hs:
 
 Hovedstyret har fått tilbakemelding om at vi ikke er åpne nok med medlemmene våre, og at vi tar for mange avgjørelser bak lukket dør uten innsyn fra medlemmene. I den anledning har vi tatt opp i de ulike komiteene hva deres syn på hs er. Tilbakemeldingen var at vi har vært flinke til å være åpne og jordnære, og at vi er mer folkelige enn tidligere hovedstyrerer. Det er ble også sagt at det er noen avgjørelser som burde tas gjennom komiteene før vi gjør endelig avgjørelse, men at vi hovedsakelig har vært flinke med dette.
-
-## 163 Møteevaluering/Diggepunkt (5 min)
-
-**Hs kan matte**
-
-**Bra at vi informerer om hva vi gjør i infomailen.**
-
-**vi digger bierfest**
-
-**digger nye dashboarden fra dotkom**
-
-**vi digger ikke Bjerke sine norskkunskaper**
-
-## 164 Gjøremål
-
-**sett opp en side på wikien for medarbeidersamtale (wiker)**
-
-**ta opp bilkollektiv med komiteene deres (alle)**
-
-**sende mail om edruvakter på hyttetur (THB)**
-
-**be om kvitteringer og overfør penger til C# (hajem)**
-
-**svare Fri Film at vi sier nei (wiker)**
-
-**svar på styrefest (andrea)**
-
-**send mail til de som arrangerte bierfest om at det var topp (alle som var der)**
