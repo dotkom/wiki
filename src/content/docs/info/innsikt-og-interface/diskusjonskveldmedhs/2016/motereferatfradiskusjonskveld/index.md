@@ -7,303 +7,38 @@ title: "Møtereferat fra diskusjonskveld 2016"
 #### Sak 1: Medlem av Online (Marius Thingwall)
 * Hvem er medlemmer av Online? Hvor går grensen for et Online-medlem?  
   
-HS har fått inn to-tre søknader fra studenter som går informatikk på Kalvskinnet, og en som bare tar informatikk-fag. Per vedtektene våre så er det BIT, MIT og PhD ved IDI som er medlemmer av linjeforeningen.  
+HS har fått søknader fra studenter som ikke går informatikk på NTNU, men på for eksempel Kalvskinnet, tar informatikk-fag på NTNU eller er internasjonal student om å få bli med i Online. Per vedtektene er det BIT, MIT og PhD ved IDI som er medlemmer av linjeforeningen, men det står også at HS kan ved spesielt grunnlag tillate andre å bli medlem. HS har godkjent søknader hvor studieprofilen matcher BIT, og man ikke har en annen linjeforening (som man har hvis man går på Kalvskinnet). Da går personen som en førsteklassing, men han får ikke lov til å bli med på kurs og bedriftspresentasjoner. Han kan bli med på sosiale arrangementer.  
   
-Men i vedtektene står det at HS kan ved spesielt grunnlag tillate andre å bli medlem.  
-  
-Vi har ikke noe tilbud for de som går ved Kalvskinnet, de har en linjeforening fra før av.  
-  
-Ett tilfelle HS opplevde: det var en som tar de samme informatikkfagene som BIT, studieprofilen matcher vår, så HS innvilget medlemskap. Han går som en førsteklassing, men får ikke lov til å bli med på kurs og bedriftspresentasjoner. Kan bli med på sosiale arrangementer.  
-  
-HS gjorde også unntak for en internasjonal student og innvilget samme muligheter, at studenten får lov til å bli med på sosiale arrangementer, men ikke bedriftspresentasjoner og kurs.  
-  
-Spørsmål: En person kom ikke inn på informatikk, men kom inn på filosofi. Kom inn på informatikk neste året. Ville han kunne søkt om online-medlemskap mens han gikk filosofi? Man må ha informatikkfag.  
-  
-Har det noe å si om hvor mange IT-fag en person tar, og om han kommer til å fortsette å gå informatikk? Det er ikke så mange IT-fag i første klasse.  
-  
-Vi valgte å inkludere alle folk i fadderuka, selv om de bare tok IT-fag.  
-  
-Hvis folk som søker Online vil delta i det sosiale er det bra, for å inkludere alle.  
-  
-Viktig å ikke skade omdømmet vårt, produktet vårt. Det er som regel liten skade i sosiale arrangementer. Vi kan diskutere hvor mye spons som skal brukes.  
-  
-Det kommer også an på saken, vi snakker med personen og diskuterer innad om HS skal la personen bli medlem og hvor stor grad han skal bli medlem. Så lenge man ikke går på informatikk skal man ikke få tilgang til bedriftspresentasjoner og kurs, men når man er kommet med kan han bli med.  
-  
-Vi bruker ikke å selge medlemstallene i Online, og vi har ikke noe tall på det.  
-  
-Når vi har folk som har tatt informatikk-fag ett år og hopper inn i andre eller tredje klasse er det greit.  
-  
-Sånn HS har gjort det, så er det mest av bedriftenes hensyn, av Onlines økonomiske hensyn og hvilken interesse studentene som søker har av å være medlem i Online.  
-  
-Det gir medlemskap på årsbasis.  
-  
-Det er ikke noe på ow at man bare kan melde seg på sosiale arrangementer (at man står som «andre medlemmer»). Det har vært såpass få at det har blitt gjort manuelt, men det kan bli gjort automatisk også.  
-  
-Vi er fornøyde med diskusjonen.  
+Det er flere som er enige i at man skal gå som en førsteklassing. Et argument for er at det er viktig å inkludere alle i det sosiale, så hvis man søker Online for å bli med på det sosiale, burde man få bli med. Det blir også nevnt at det er viktig å ikke skade omdømmet vårt og det er som regel liten skade i sosiale arrangementer. Det er mest av bedriftenes hensyn og av Onlines økonomiske hensyn at vi burde diskutere om personen skal få godkjent medlemskap. Vi er enige at det skal gi medlemskap på årsbasis.  
   
 ### Saker fra Hovedstyret
 #### Sak 1: Innkjøp av bil til Online
 * Det er behov for trikom å handle på storcash, vi trenger ting på kontoret. Dette semesteret har det vært lite tilgang til bil, derfor har det vært lite ting på kontoret. Mange medlemmer synes det er leit.  
   
-HS har sett på mulighetene for å leie bil, men dette er veldig dyrt. Kanskje vi kan kjøpe bil? Det kan også bli veldig dyrt, og parkering er dyrt.  
+HS har sett på mulighetene for å leie bil, men det er veldig dyrt. Da lurer vi på om vi kan kjøpe bil? Argument mot er at det er veldig dyrt og parkering blir også dyrt. Det kommer en saksopplysning om at HS har sett på muligheten for å kjøpe bil sammen med Abakus, men det har ikke blitt tatt opp med dem enda. Det kommer flere spørsmål om kjøp av bil: Vil det bli billigere å ikke kjøpe bil og handle inn ting på bunnpris kontra å kjøpe bil og handle på storcash? Hvis vi kjøper bil, kan det bli mulighet å leie til andre for å få en inntekt? HS og forsamlingen er enige om at det kan bli veldig dyrt, men det kan også være nyttig andre ganger enn trikom-handletur, som arrkom-arrangement, fagkom for å bestille mat som ikke kan leveres.  
   
-Saksopplysning: HS har også sett på muligheten for å kjøpe bil sammen med abakus, men vi har ikke snakket med de enda.  
+Vi begynner å diskutere om muligheten for å bli med i Bilkollektivet i Trondheim, som kan være en bedre løsning. Martin (trikom-leder) har snakket med dem, og fått tilbud om ett års prøveperiode hvor 10 stk. kan være sjåfører. Det koster 1000 kr å melde seg inn. Å melde seg inn for ett år mener mange er en god idé, men Online må bli enige om hvem som skal ha skyld hvis noe skjer med bilen. Trikom kan bruke budsjettet sitt på dette, men innkjøp av bil kommer til å bli generalforsamlingssak. Det blir også sagt at vi har fått en ny bod i IT-bygget på 15 kvm hvor vi kan oppbevare masse ting, så det ikke blir noe problem med plass. Konklusjonen blir at vi vurderer sterkt å bruke nye prosjekter av trikom sitt budsjett på Bilkollektivet, i hvert fall et år, så kan vi ta det opp i generalforsamlingen.  
   
-Har HS sett nøyere på et tall? Vil det bli billigere å ikke kjøpe bil og handle inn ting på bunnpris kontra å kjøpe bil og handle på storcash?  
-  
-En bil koster ca. 40 kr. pr. mil.  
-  
-Hvis det blir aktuelt å kjøpe bil kan det bli en mulighet å leie den til linjeforeninger, leie til komiteer i Online (hytteturer osv.), man kan kanskje tjene på det? Det er uenighet om at man kan tjene på det.  
-  
-HS er forberedt på at det er veldig dyrt.  
-  
-Poenget er at tilbudet på kontoret er et godt tilbud, men vi er ikke en kiosk. Men hvis vil kjøper bil kan den brukes flere ganger, fadderukene, leie til andre, hvert arrkom-arrangement. Kan være nyttig for fagkom for å bestille mat som ikke kan leveres.  
-  
-Det er veldig løst det vi snakker om nå – fra en som har bil nå: bil er veldig dyrt, det lønner seg som regel ikke.  
-  
-Bilkollektivet (i Oslo) er relativt billig. Martin sjekker ut prisene i Trondheim. Det kan være en bedre løsning.  
-  
-Har vi sett på det å lease en bil? Ja, det er svindyrt. Det betyr 4000 i mnd. Du leier en bil fast. Det blir fort veldig dyrt, det er mye som ikke er med i den prisen.  
-  
-Trondheim bilkollektiv: Man må fylle på bensin før du leverer den tilbake i bilkollektivet, men den er fylt fra før av.  
-  
-Martin har tall: Vi har spurt bilkollektivet, og hvis vi vil bli med, blir vi bedriftskunde. Vi har fått tilbud om ett års prøveperiode, det er bare 10 stk. som kan være sjåfører. Vi betaler ingen årsavgift, men det koster 1000 kr å melde seg inn. For å leie en bil koster det (trikom ville trengt varebil) 264 kr. Skal vi gå inn for det etter det året, fordeler vi en person pr. komite, og resten til trikom, fordi de trenger det mest.  
-  
-De deler også opp til døgn, hvis du vil leie den i flere døgn. Da er det timeprisen ganger med 10.  
-  
-Det å melde seg opp for ett år er en god ide, man kjøper seg inn og får tilbakebetalt dette når man melder seg ut.  
-  
-Vi har mange folk under 23 år, hva er aldersgrensa? Aldersgrensa er 23 år.  
-  
-Egenandel ved skade er på 15 000.  
-  
-Det virker gunstig for et år.  
-  
-Antar at bilene er forsikret ved full kasko – Online må bli enige om hvem sin skyld det skal være hvis noe skjer.  
-  
-Hvis vi skal se på prøveåret kan trikom ta 1000 kr fra budsjettet sitt.  
-  
-Forslag: Hvis man kjøper en billig bruktbil og leier ut på nabobil kan det kanskje være en inntekt? Men vi burde være ha en varebil, ikke personbil.  
-  
-Har det vært utredet et budsjett? Nei. Innkjøp av bil kommer til å være genfors-sak, men det er greit å få innspill.  
-  
-Man betaler ikke noe ekstra for bil i bilkollektivet.  
-  
-Folk virker positive til å sjekke ut bilkollektivet. Trikom kan bruke 1000 kr til å gjøre det nå.  
-  
-Når det gjelder å velge folk til å være sjåfør, burde man vite at personen skal være her et år.  
-  
-Går det an å bytte folk til å være sjåfør? Det vet vi ikke.  
-  
-Det spørs på hvilken bil vi trenger, vi ser på varebil. Det trenger man ikke ofte, max en gang i måneden.  
-  
-Vi har fått en bod på 15 kvm hvor vi kan oppbevare masse ting. Vi dropper den på Moholt.  
-  
-Hvor mange i trikom kan kjøre den bilen (som er gamle nok)? Martin tror 4 stk. Det er bra.  
-  
-Da er det konklusjonen: vi vurderer sterkt å bruke nye prosjekter av trikom sin pott på bilkollektiv. I hvert fall et år, så tar vi det opp i genfors.
-
 #### Sak 2: Nodekomitédaljer
 * Saken er om vi skal innføre daljer for de som er med i nodekomiteer så de har noe å vise til etter at de er ferdige.  
   
-HS har diskutert, men vil også høre hva dere tenker: En dalje per nodekomite eller en felles dalje for alle nodekomiteene?  
+HS har diskutert dette sammen, men vil også høre hva andre tenker: Skal vi gi en dalje per nodekomite eller en felles dalje for alle nodekomiteene? Den første daljen er allerede bestemt skal være gratis, så da burde det også gjelde nodekomiteene. Det blir sagt at det er verdt å tenke på at det er flere folk i Online, det er de som bare er med i nodekomiteer og ikke kjernekomiteer. Et spørsmål om hvordan det skal ordnes til de som har åpent opptak, kommer opp. Skal man bare sitte der en stund og få dalje? Folk er enige om at man må bidra, men det er vanskelig å definere. Et argument for er at ekskom, for eksempel, er en stor jobb, og de som ikke er kjernekomitemedlemmer ville satt pris på det. Et argument for å bare ha én dalje til alle nodekomiteene er at det kan være personer som får veldig mange daljer, og det er varierende hvor mye jobb som kreves i nodekomiteene. Det kommer et innlegg om at vi har hatt retningslinjer hvor man ikke kan bruke flere daljer samtidig, bare én om gangen.  
   
-Den første daljen skal være gratis er det bestemt.  
+Hvis vi skal gå for én dalje per nodekomite er det 14 000 kr i oppstartskostnad, som vi kan ta fra nye prosjekter. Det kommer et forslag om at vi kan begynne å betale for egne daljer igjen, men det er en større terskel. Man har gjort seg fortjent til den. Det har også vært diskutert om pin istedenfor dalje, som er billigere. Det er en god idé, men vi har en tradisjon å bare ha én pin, Online-pinen. Det koster omkring 2800 kr å bare ha én dalje for alle nodekomiteene. Det kommer et forslag å ha nodedaljene som redaktørdaljen, som er ferdigstøpt med plate, og mye billigere. Vi tar en håndsopprekning over hva folk ville hatt, unik dalje (plate eller helstøpt), felles, pin eller ingenting. Alle minus en ville ha noe, så ville 8 stk. ha unik dalje, 10 stk. ville ha felles dalje og ingen ville ha pin. Hvis vi skulle hatt unik dalje ville 15 stk. ha plate, og 4 stk. ha helstøpt.  
   
-Ser ikke poenget med daljer for nodekomiteer.  
-  
-Vi spesifiserer at det ikke er interessegrupper, men nodekomiteer det er snakk om.  
-  
-Når man har vært vakt i to semestre hos Hackerspace, får man dalje, og det er litt gøy. Synes det er gøy hvis man ser at man er i appkom, for eksempel, at man får en egen dalje for det.  
-  
-Det er verdt å tenke på at det er flere folk i Online, det er de som bare er med i nodekomiteer og ikke kjernekomiteer.  
-  
-Hvordan skal det ordnes til de som har åpent opptak, appkom for eksempel? Skal man bare sitte der en liten stund og få dalje? Man må bidra, men det er vanskelig å definere.  
-  
-Ser på det som en positiv ting. Ekskom, for eksempel, er en stor jobb. De nye som ikke er komitemedlemmer ville satt pris på det.  
-  
-Synes det er kjempefint, gjerne en dalje til hver av de. Hvis folk ikke blir tatt opp i kjernekomite sier vi jo at de kan søke nodekomiteer. La folk bruke det som en «CV» over hva man har gjort i studenttida.  
-  
-Argument for å bare ha en dalje til alle nodekomiteene: mange er med i flere nodekomiteer, da får man bare én istedenfor mange.  
-  
-Det er varierende hvor mye jobb som kreves i nodekomiteene, men vi har penger til daljer for hver nodekomite.  
-  
-Appkom har vært litt vaklende, men har stort potensiale. Det er varierende hvor mange som møter opp, men det skal være lav terskel. Men det trenger litt mer tid for å modnes.  
-  
-Hvis vi skal gå for en dalje per nodekomite er det 14 000 kr i oppstartskostnad. Vi kan ta det av nye prosjekter.  
-  
-Man kan begynne å betale for egne daljer igjen. Det er en større terskel.  
-  
-Det har vært diskutert pin for nodekomite også, det er billigere. Det er en god ide det også, men vi har tradisjon å bare ha én pin, Online-pinen.  
-  
-En betalte 100 kr for hackerspace-daljen, det synes han var greit.  
-  
-Gamle HS kom fram til at den første daljen blir spandert på, dette kan endres, men du har på en måte gjort deg fortjent til noe.  
-  
-Det er vanskelig å få folk til å betale for daljen, vi har ikke noe system hvor de betaler.  
-  
-Den første daljen skal være gratis, men vi satte opp prisen hvis man mister den og må ha ny.  
-  
-Det koster omkring 2800 kr for å lage en ny dalje, da bare én dalje for alle nodekomiteene.  
-  
-Hva med redaktørdaljen? Den er ferdigstøpt, og du legger inn en plate. Den er kjempefin og den er billigere.  
-  
-Det er eksempler på medlemmer som ville endt opp med 8 daljer hvis hver nodekomite hadde egne daljer. Det er en grunn til å bare ha en dalje.  
-  
-Vi har hatt retningslinjer hvor man ikke kan bruke flere daljer samtidig, bare én om gangen. Daljejakt var et problem fordi terskelen var lavere.  
-  
-Abakus har daljer for i hvert fall IT-dagene og ekskom.  
-  
-Litt historikk: da Sverre startet brente vi 18 000 for å lage daljer til alle. Tanken var at medlemmene skulle betale, at det skulle være et nullprosjekt.  
-  
-Synes det er mye å pushe inn fem nye daljer med én gang.  
-  
-Kan avsløre at ITEX ikke er all verden med innsats, sammenlignet med de andre nodekomiteene.  
-  
-For de som ikke er med i kjernekomité kunne det vært gøy.  
-  
-En utfordring: hvordan designer man en dalje som passer alle nodekomiteene? (Thor Håkon tegner et fint forslag på tavla).  
-  
-Fra noen som har vært med i fadderuka i år: man vet ikke hvem som var med i velkom, men hvis man ser en dalje vet man hvem det var som lagde et fint opplegg.  
-  
-Kontortilgang er viktigere enn daljer, vi tar en sak på det etterpå.  
-  
-Vi tar håndsopprekning: unik dalje (plate eller helstøpt), felles, pin, ingenting  
-  
-Vi er 19 stk.
-* Først noe eller ingenting: Alle minus en vil ha noe
-* Unik dalje: 8
-* Hvis unik dalje:
-Plate: 15
-Helstøpt: 4
-* Felles: 10
-* Pin: 0  
-  
-HS tar det nøye til seg.  
-  
-
 #### Sak 3: Kontortilgang
 * Spørsmålet her er om ikke-komitémedlemmer skal ha kontortilgang eller ikke.  
   
-Abakusere har alle tilgang til kontoret sitt. I Online praktiserer vi at kjernekomitemedlemmer har tilgang.  
+I Online praktiserer vi at kjernekomitemedlemmene har tilgang til kontoret. Hos Abakus har alle tilgang. Her påpekes det at vi har brannvakt-avtalen, mens Abakus ikke har det. Vi har pengene løst liggende inne, TV, pengeskrin og øl. Det som også har skjedd før er nachspiel, noe som har blitt slått hardt ned på, og det kan inntreffe oftere hvis alle får tilgang. Det blir diskutert om å gi alle tilgang, eller at man kan søke om å få tilgang og dermed få kontorvakt. Et argument for å gi tilgang til flere er at ting alltid kan bli stjålet, og kontoret er allerede «trust based». Men det skal også være mulig å legge fra seg sekken og lignende uten å være redd for det. Det kommer et forslag om å skrive under en kontrakt og at det skal innføres kontorvakt-kurs utenom komite-kick-offet hvis flere skal få tilgang. Det er også noen som ikke synes det er urimelig at folk skal vite hvem du er før du får tilgang. Noen tror det ikke er et behov for kontortilgang, mens noen andre mener at de som er på kontoret ofte hadde hatt bruk for det. Det påpekes at det er viktig at de som ikke er komitemedlemmer skal føle seg velkomne, og det kan ofte oppleves at kontoret er kun for komitemedlemmer. Alt i alt er folk positive til at man kan søke om kontortilgang og kontorvakt.  
   
-Hvordan løser abakus det? Hvis du ligger inne på siden får du tilgang.  
-  
-Vi har brannvakt-avtalen, det har ikke abakus. Vi har etasjeansvarlig.  
-  
-Vi har pengene liggende løst inne, pluss TV. Abakus har ikke pengeskrin (det er uenighet i dette), de har ikke øl til vanlig.  
-  
-Det som har skjedd før er nachspiel, det har blitt slått ganske hardt ned på. Det kan inntreffe oftere hvis alle får tilgang.  
-  
-Hvis noen har nach, får vi vite hvem som har åpnet. Saksopplysning: da må vi politianmelde det.  
-  
-Tanken var å gi alle kontortilgang, men vi diskuterte også at man kan søke om det, og at man da får man kontorvakt.  
-  
-Det at ting kan bli stjålet, sånn er det nå også, det er trust based. Hvis du absolutt vil stjele, klarer du det. Vi sier på starten av året at det er et system, og det blir som regel ikke tullet med.  
-  
-Er en risiko at man kan miste argumentet for å rekruttere folk til appkom.  
-  
-Man blir tatt opp i komite for å gjøre en jobb, ikke for å få dalje eller kontortilgang.  
-  
-Det skal være mulig å legge fra seg sekken osv, du skal ha et ansvar for å låse, og det blir lavere terskel for at noe skjer opp hvis alle har tilgang.  
-  
-Synes man skal skrive under en kontrakt, ha kontorvakt, det må innføres kontorvakt-kurs utenom komite-kick-offet.  
-  
-Du overfører ansvaret til den neste kontorvakten som kommer.  
-  
-Det å låse kontoret, det er en oppblåst greie. Det er en setting det går an å endre, at det er åpent hele dagen og det åpnes ikke kl 10 automatisk.  
-  
-Da vil det ikke være kontorvakt?  
-  
-For min del vil jeg beholde tryggheten, det kan gjøres ved at eksterne kan få tilgang hvis man spør om det, men det er ikke urimelig at folk skal vite hvem du er før du får tilgang.  
-  
-Tror ikke det er så behov for kontortilgang, men for de som er på kontoret er det greit å ha tilgang. Jeg tror ikke det er så mange som ville søkt.  
-  
-Jeg har kontortilgang på hackerspace, og jeg mener det skal koste noe å ha kontortilgang.  
-  
-De som ikke er komitemedlemmer kan føle seg velkomne, det kan ofte oppleves at kontoret er for komitemedlemmer, men det er det jo ikke. Det kan åpnes for det.  
-  
-Synes det skal være et privilegium.  
-  
-Hvis flere har kontortilgang, er er kontoret mere oppe for alle.  
-  
-Vi er positive til at folk kan søke om kontortilgang og kontorvakt.
-
 #### Sak 4: Spons av andre  
 * Når vi inviterer andre folk, gamle Onlinere på immball o.l., hva skal vi sponse de med? Hvor går grensa?  
   
-
-På jubileet har vi tatt vekk spons.  
+Saken i dag er at vi sponser alle. Et problem med andre linjeforeninger er at de ikke kan tilby spons og har ikke råd. Noen synes at vi ikke skal sponse andre i det hele tatt. Men det spørs også på hvor sponsen kommer fra, om det kommer fra insituttet er det for studentene våre. Det blir sagt at majoriteten av pengene vi har kommer fra bedriftene, og de skal til medlemmene. En annen mener at bedriften ikke har øremerket de pengene og vi kan bruke de som vi vil. Men en ekstra hundrelapp for eksterne hadde ikke gjort noe, spesielt ikke når immballet vårt, for eksempel, er så billig som det er. Abakus kommer opp som eksempel, hvor de tar ekstra betalt for eksterne på immball, men ikke på mindre arrangementer. Konklusjonen er at folk er positive til at eksterne betaler mer enn medlemmene på for eksempel immball og jubileum.  
   
-Saken i dag er at vi sponser alle. Et problem med andre linjeforeninger er at de ikke kan tilby spons og har ikke råd.  
-  
-Synes ikke vi skal sponse andre, alle andre fortjener det ikke. Ikke Eldsterådet.  
-  
-Det spørs hvor sponsen kommer fra, om det kommer fra instituttet er det for studentene våre.  
-  
-Som tidligere økonomiansvarlig er majoriteten av pengene vi har fra bedrifter, det skal til medlemmene. Det hadde ikke gjort noe med en ekstra hundrelapp for eksterne.  
-  
-Bedriftene har ikke øremerket de pengene.  
-  
-De som er fullverdige medlemmer skal få spons, de som ikke er det får ikke spons.  
-  
-Den avgiften bedriftene betaler er for bedriftspresentasjonen. De pengene er våre, per definisjon, og vi kan bruke de som vi vil.  
-  
-Det som synes mest er på betalingsarrangementer.  
-  
-Det er bare å se på Abakus, de tar ekstra på immball, men ikke på små arrangementer.  
-  
-Bedriftene betaler til oss, vi gjør hva vi vil med det, men eksterne betaler mer.  
-  
-Folk er positive til at eksterne betaler mer enn medlemmene, på for eksempel immball, jubileum.
-
 #### Sak 5: Kommunikasjon med medlemmene
-* Tips til hvordan HS kan kommunisere med medlemmene  
+* Har vi noen tips til hvordan HS kan kommunisere bedre med medlemmene?  
   
-Vi har infomailen, facebook, ow4, facebook-gruppa.  
+Vi har infomailen, facebook, ow4, facebook-gruppa. Hva kan vi gjøre for å forbedre kommunikasjonen? En i forsamlingen skulle ønsket at infomailen hadde en oppsummering av siste møtereferat, den store retningen HS driver mot. HS har lagt inn link til møtereferatet i infomailen, men det er kanskje lettere å skrive et avsnitt? Det blir sagt at møtereferatene burde bli skrevet bedre, nå er det veldig mye punkter. En annen mener det er bruken av kommunikasjonsområder som gjelder og infomailen er fin. Et forslag er å ha med de tre viktigste sakene fra møtereferatet. Før hadde vi en forslagsbok, noen mener vi kanskje kunne modernisere den eller ha en egen slack-kanal hvor folk kan spørre HS om ting.  
   
-En skulle ønsket at i infomailen stod det en oppsummering av siste møtereferat, den store retningen HS driver mot.  
-  
-Har lagt inn i infomailen en link til møtereferatet, men er det lettere å skrive et avsnitt?  
-  
-Er ikke alltid det virker som at møtereferatet skal til for å leses, det er veldig mye punkter.  
-  
-Man trenger forklaring for folk: hva har HS planer for fremtiden?  
-  
-Det er bruken av kommunikasjonsområder det gjelder, jeg synes infomailen er fin, bra med de tre viktigste saker.  
-  
-Tror ingen andre enn gamle HS leser møtereferatene, det kan være kult å ha noe annet.  
-  
-Er mye arrangementer på facebook.  
-  
-Forslagsbok, og modernisere den? Egen slack-kanal hvor folk kan spørre HS om ting?  
-  
-Lurt å legge ut bilder av folk som ikke er med i komité, av ting som skjer.  
-  
-Kan teste infomail-oppsummering først og bilder på facebook.  
-  
-Liker slack-kanal-forslag.  
-  
-Det med masse kurs og bedriftspresentasjoner på facebook, er det nødvendig? Man kan sjekke hvor folk får info fra, men folk får et dytt til å melde seg på.  
-  
-Mange ser bedriftspresentasjoner og kurs bare gjennom facebook.  
-  
-Posting i informatikk-gruppa er den letteste måten å få ting ut, alle er alltid på facebook.  
-  
-Det å poste om at vi skal ha møte på facebook kan være lurt.  
-  
-Ha snapchat-bruker, være med aktiv på instagram kan også være lurt.  
-  
-Synes å være aktiv på snapchat og instagram høres bra ut, men ikke glem infomailen. Det kommer bare i tillegg.  
-  
-Tilbakemelding til denne kvelden: blæstingen var kanskje ikke helt der oppe, heller ikke forberedelsene (for eksempel bil-punktet). Hvordan skal vi gjøre det bedre? Pizza!  
-  
-HS kan forberede seg mer.  
-  
-Mener det er for mye pizza – kan være kake eller annen mat.  
-  
-Man kan dumpe forslag selv om man ikke sitter her?  
-  
-Til HS (egentlig alle) fra jubkom: vær sykt flinke på å arkivere ting  
-  
-Diskusjonskvelden er over.
+Et forslag kommer om å legge ut bilder av folk som ikke er med i en komité og av ting som skjer. Posting i informatikk-gruppa er den letteste måten å få ting ut, fordi alle er alltid på facebook. Noen mener det kan være lurt å poste om at vi skal ha møte på facebook, ha snapchat-bruker og være mer aktiv på instagram.
