@@ -99,7 +99,6 @@ Det har ikke kommet noen innspill fra medlemmer etter at hs ba om dette, så reg
 
 Det er vanskelig å gjennomføre fadderuka per dags dato siden det ikke finnes noen skikkelig oppskrift på hva og når ting bør gjøres. Derfor må det settes opp en sjekkliste som går gjennom nøyaktig hva som må gjøres med tidligere velkomleder og -medlemmer som har erfaring med komitearbeid, før neste velkom. Burde også skrives opp hvordan man skal sette opp arrangementer og påmeldinger på OW.
 
-Velkom hadde vanskeligheter med å få medlemmer til å gjøre forskjellige oppgaver som handling og vasking av grill. Leder burde få noe opplæring til å bli flinkere til å ta tak i medlemmer og gi en eierskap og engasjement i større grad av fadderuka.
 
 
 ## 160 Forespørsler som har kommet på e-post (5 min) 
