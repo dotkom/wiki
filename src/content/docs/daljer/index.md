@@ -59,6 +59,19 @@ Redaktørdaljen
     Daljen til Offlines redaktør
 Redaktør av Offline, linjeforeningens tidsskrift, bærer denne daljen. Daljen utdeles sammen med redaktørhatten på immball eller andre passende anledninger. Daljen viser Offlines logo, designet av tidligere prokom-medlem Beate Hay. Medaljen er produsert med en lasergravert plate satt i en krans. Produsert av Trofé.
 
+
+Utmatrikuleringsdaljer
+==================
+I forbindelse med utmatrikuleringen av ferdige masterstudenter har seniorkomitéen produsert utmatrikuleringsdaljer.
+
+
+Utmatrikuleringen 2013
+------------------
+TODO
+Utmatrikuleringen 2015
+------------------
+TODO
+
 Pins
 ==================
 Gammel komitépin
