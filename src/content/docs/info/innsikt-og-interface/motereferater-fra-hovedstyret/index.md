@@ -7,7 +7,6 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2016-10-19](20161020) - Hovedstyrets Kristiane-er-tidlig-ute-møte
-- [2016-10-19](20161019) - Hovedstyrets Kristiane-er-tidlig-ute-møte
 - [2016-10-12](20161012) - Hovedstyrets endelig-noen-rolige-uker-møte
 - [2016-10-05](20161005) - Hovedstyrets nå-har-vi-en-plan-for-fremtiden-møte
 - [2016-09-28](20160928) - Hovedstyrets vi er ferdig med immball-møte
