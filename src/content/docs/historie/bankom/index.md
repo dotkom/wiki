@@ -35,6 +35,8 @@ og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 
 Våren 2015 var for bank- og økonomikomiteen, og spesielt dens leder, en påkjennende periode. Det var nemldig under påsken at den store datax-kræsjen fant sted, som førte til at tilnærmet hele regnskapet for 2014 gikk tapt. Daværende leder Henning M. Wold tok da på seg ansvaret med å føre hele Onlines regnskap på nytt, og satt utallige timer de neste dagene for å få det ferdig før generalforsamlingen. Som følge av at ITEX ble innlemmet under Online på generalforsamlingen den samme våren, fikk ITEX også sin egen økonomiansvarlig i bankom.
 
+Høsten 2015 integrerte Online Stripe i sine systemer, noe som gjorde at betalinger for arrengement ble mye enklere enn før. Som følge trengte ikke arrkom lenger to økonomiansvarlige, og det har siden bare vært 1 som i de andre komiteene.
+
 Våren 2016 tok daværende leder Marius Thingvall initiativ på å holde en egen økonomikveld før generalforsamlingen, slik at man kunne diskutere budsjettene før genfors. På denne måten kunne det fortsatt komme inn innspill og gjøres endringer, ettersom at det er for sent på genfors. Dette var en suksess, og vil mest sansynlig gjentas i fremtiden. Samme semester ble ekskursjonskomiteen lagt under Online, som førte med seg at ekskom fikk en egen økonomiansvarlig i bankom.
 
 På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. Dette ble støttet av hovedstyret, og det nye systemet ble tatt i bruk for regnskapsåret 2016. 
