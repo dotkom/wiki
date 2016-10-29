@@ -39,7 +39,7 @@ Høsten 2015 integrerte Online Stripe i sine systemer, noe som gjorde at betalin
 
 Våren 2016 tok daværende leder Marius Thingvall initiativ på å holde en egen økonomikveld før generalforsamlingen, slik at man kunne diskutere budsjettene før genfors. På denne måten kunne det fortsatt komme inn innspill og gjøres endringer, ettersom at det er for sent på genfors. Dette var en suksess, og vil mest sansynlig gjentas i fremtiden. Samme semester ble ekskursjonskomiteen lagt under Online, som førte med seg at ekskom fikk en egen økonomiansvarlig i bankom.
 
-På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. Ettersom at det nye systemet ville koste en fast semesteravgift, måtte dette godkjennes av hovedstyret. Da saken ble tatt opp var det støtte for forslaget fra styret, og det nye systemet ble tatt i bruk for regnskapsåret 2016. 
+På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. I DataX man kunne nemlig bare være én person i systemet om gangen, i tillegg til at det var en generelt knotete system å bruke. Det nye systemet kunne derimot brukes av så mange man ville på en gang, samt at brukergrensesnittet var veldig moderne og intuitivt. Ettersom at det nye systemet ville koste en fast semesteravgift, måtte dette godkjennes av hovedstyret. Da saken ble tatt opp var det støtte for forslaget fra styret, og det nye systemet ble tatt i bruk for regnskapsåret 2016. 
 
 
 ## Medlemmer
