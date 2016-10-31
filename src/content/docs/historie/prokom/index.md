@@ -54,6 +54,7 @@ Medlemmer
 ---------
 |År|Leder|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|16/17|**Andrea Bach**|Vebjørn Sletta|Baldur Kjelsvik|Trine-Lise Helgesen|Agnete Djupvik|Camilla Tran|Carlo Morte|Håkon Halldal|Øystein Hammersland|Carl Erik Friedemann|Catriona Tørklep|Endre Micael Austad Ulberg|Jonas Jevnaker Aas|Peter Rydberg|Sunniva Mathea Runde|
 |15/16|**Agnete Djupvik**|Signe Elise Livgard|Camilla Tran|Anne-Marie Samuelsen|Hanna Sollie Storaker|Stian Dysthe|Trine-Lise Helgesen|Carlo Morte|Rikard Eide|Aasne Naterstad|Håkon Halldal|Øystein Hammersland|Baldur Kjelsvik|Vebjørn Sletta|Andrea Bach|
 |14/15|**Kathrine Steffensen**|Said Turusbekov|Elise Olsen|Anne-Marie Samuelsen|Hanna Storaker|Stian Dysthe|Lars Andersen|Kathrine Steffensen|Rikard Eide|Hallvard Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen||Maren Gulnes|Jørn-Egil Jensen|Øystein Molnes|Sverre Bjørke|
 |13/14|**Thor Håkon Bredesen**|Said Turusbekov|Elise Olsen|Anne-Marie Samuelsen|Hanna Storaker|Stian Dysthe|Lars Andersen|Kathrine Steffensen|Rikard Eide|Hallvard Christensen|Ingrid Myrann|Kari Skjold|Liang Zhu|Thor Håkon Bredesen|Øyvind Hellenes|Maren Gulnes|Jørn-Egil Jensen|Øystein Molnes|
