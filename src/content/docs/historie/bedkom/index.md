@@ -29,9 +29,9 @@ Medlemmer
 
 Komiteen består for øyeblikket av 15 engasjerte studenter.
 
-|År   |Leder                     |       Medlemmer    | | | | | | | | | | | | | |
-|---  |---                      |     :----:              | | | | | | | | | | | | | | | |
-|2016h|Didrik Pemmer Aalen|||Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen||Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|||Oscar Conrad|Didrik Pemmer Aalen|Henrik Bossart|Ingrid Medalen|Astrid Vik|Adrian Hofseth|Lars Gjelstad|Steffen Lorang Ekeberg|Marius Aarsnes|
+|År   |Leder                     |       Medlemmer    | | | | | | | | | | | | | | |
+|---  |---                      |     :----:              | | | | | | | | | | | | | | | | |
+|2016h|Didrik Pemmer Aalen|||Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen||Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|||Oscar Conrad|Didrik Pemmer Aalen|Henrik Bossart|Kathrine Løfqvist|Ingrid Medalen|Astrid Vik|Adrian Hofseth|Lars Gjelstad|Steffen Lorang Ekeberg|Marius Aarsnes|
 |2016v|Kristian Svoren|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Didrik Pemmer Aalen|Henrik Bossart|Ingrid Medalen|
 |2015h|Kristian Svoren|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Didrik Pemmer Aalen|Henrik Bossart|Ingrid Medalen|
 |2015v|Per Øyvind Kanestrøm|Magnus Kongshem|Jon Martin Filberg|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Frode Rennmo|Martine Gran|Hege Louise Borge|Kasper Rynning-Tønnesen|Kristian Svoren|Kathrine Løfqvist|Lasse Drevland|Oscar Conrad|Didrik Pemmer Aalen|
