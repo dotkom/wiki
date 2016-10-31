@@ -1,0 +1,184 @@
+---
+title: "Hovedstyrets vi-skal-kanskje-få-bilavtale-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Didrik
+
+**Vinstraff:** Thor Håkon (Sen møteinnkalling), Håkon (Appkomtingen), Martin (Ikke byttet kode på safe), Andrea (For sen til møtet)
+
+**Ølstraff:**  
+
+**Tilstede:** Thor Håkon, Kristiane, Kristoffer, Sander, Martin, Ingrid, Håkon, Didrik, Erik, Andrea (for sen)
+
+**Mangler:** 
+
+## 165 Godkjenning av innkalling, servering og referat 
+
+Innkalling for sen, serving tipp topp tommel opp.
+
+## 166 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+ * Har ikke hatt møte siden forrige møte, så utesatte møtet for å unngå vinstraff. 
+ * Det som har skjedd: Årepåmelding, det er 40 på venteliste. Skal ringe skistar og prøve å skaffe flere hytter. 
+ * Satt datoer for neste semester: X-fest: Abakus vil ha 6. februar selv om TechTalks er dagen etter. 27 februar passer både Abakus og Online, men det blir tett i tett med arrangementer der. Burde ikke være 6. februar. X-fest må være på en mandag eller en onsdag. 27. februar skal gå, så vidt. 
+ * Har bestilt studenterhytta 24. mars. 
+ * Regner med at styrevors er good. Har ikke hørt noe fra Nardo klubbhus. Sander skal spørre Nils om Styrevors, siden det er Nils som har hatt kontakt med Nardo klubbhus.
+ * Jubkom sliter litt med påmelding. Må bestemme seg innen 31. oktober om de skal begrense til 405 deltakere. 
+ * Oppfordre komitémedlemmer om å melde seg på.  
+ * Programmet begynner å falle på plass. se jubileum.online.
+ * Ting begynner å bli klart til jubileet, men vi sliter med å finne fotograf fra klokken 20.00 - 01.00.
+
+* Kristiane: skal vi kjøpe gave til oss selv? 
+* Vi sponser allerede jubileet med 60k, men vi kan gjøre noe. Vi kan kjøpe noe til Kontoret. 
+
+#### Bankom:  
+
+* Hadde første frist på regnskapsføring til forrige møte, men det var ikke alle som hadde gjort.
+* Åre skal betales. 
+* Regnskapene skal være bra regnskapsført om ikke så lenge.
+
+
+#### Bedkom, med ITEX:  
+
+* Har valgt ny økonomiansvarlig. det er Adrian. 
+* Bedpres med AppearTV gikk bra. 
+* Bedpres med Knowit gikk bra. 
+* Kid gikk også bra etter at vi fikk blestet litt. 
+* Bookingrunden har gått ganske greit. 
+
+
+#### Dotkom, med appkom:
+
+* Prosjektene som startet i høst tusler og går. 
+* De som lager det nye kurs og bedpressystemet har fått API nå, så det er nesten ferdig. 
+* Dotkom skal starte med kurs for å lære folk hva de egentlig driver med. Har satt opp tre kurs, men får se hvor mange som gjennomføres.
+* Epost: sendte ut nedetidsvarsel til komiteer og linjeforeninger. Alle skal ha fått mail med instrukser på hvordan man setter opp kontoen sin. 
+* Appkom: forrige uke ble det sendt mail til appkom om at appkommedlemmer må slutte så melde seg på bedpres og kurs som er samtidig om appkommøter.
+
+#### Fagkom, med ekskom:  
+
+* Har siste kurs for semesteret neste uke. påmeldingen starter idag. Det er tredjekursdag for Abakus (første for oss). 
+* Eksamenskurs med Åsmund i ITGK. 
+* Eksamenskurs i algdat med Nils Barlaug. 
+* Har fått kontaktperson i dataforeningen, det er Christian. De har møte en gang i måneden. 
+
+* Ekskom sliter med å finne lokale til bespisning på TechTalks fordi det er Samedagen den dagen. 
+
+#### Prokom:  
+
+* Har begynt på ny offline, brekkhelg 4-5 november. 
+* Skal på hyttetur til helgen.
+* Har begynt på Åre-t-skjorte. 
+* Har kjøpt nytt kamera.
+
+#### Trikom:  
+
+* Hadde visning av fotballkamp. Det gikk ganske bra, men burde reklamert bedre for arrangementet. Neste gang håper de å få det på kontoret.
+* Kino: Star Wars 14. desember, må bleste for det. Det skal bli satt opp påmeldingen med en gang alt er oppklart med Trondheim kino.
+* Det har vært varierende oppmøte på mandagsforkost med visning av Mr. Robot, men det er alltid noen der. Det er egentlig ganske bra oppmøte. 
+*En trikommer skal justere priser på nibble, fordi vi går litt mye i minus på kontorkiosken. Tenker at det har noe med at vi ikke handler på Storcash. 
+* Trikom skaffet koie til teambuilding i morges.
+* Knertkom(nyoopstartet interessegruppe) skal på tur( bestilte koie samtidig som trikom).
+
+#### Seniorkom: 
+
+* Hadde teambuilding forrige uke og alle var med. 
+* Har fått et nytt medlem.
+* Har ikke hatt møte, fordi det bare er to ting som skjer for tiden: 
+* Venter på Marius sitt kurs for HS og høre fra IDI angående hvilken dato de setter for diplomutdeling for masterstudenter.
+
+#### Leder og nestleder:  
+
+* Erik: styrer litt med interessegrupper. kommer til å få en egen facebook-page idag. Så blir det litt enklere for de å bleste for ting selv og legge ut bilder og slikt. Akkurat nå er interessegrupper litt lukket og det er vanskelig å få med seg hva som skjer i de forskjellige interessegruppene. Denne facebook-pagen skal fikse dette.
+
+* Thor håkon: har vært på hyttetur, sovet og jobbet med jubileet.
+
+#### ITV: 
+
+* Ikke hørt fra.
+
+## 167 Interkom (10 min) 
+
+* Sander lurer på mye angående plakatene. 
+* Arrkom har ikke fått noen plakatutkast dette semesteret, men vil veldig gjerne ha utkast før plakaten printes og henges opp.
+* Bedkom og fagkom har strengt tatt ikke behov for plakatutkast før plakatene printes og henges opp.
+
+## 168 Trondheim Bilkollektiv
+
+* Martin er for å melde seg inn i bilkollektivet på prøveperiode, men synes det er rart at det har tatt så lang tid for Hs å ta en beslutning. 
+* Thor håkon sier det bare tatt to uker. 
+* Bedkom er for.
+* Dotkom synes det er greit.
+* Seniorkom har ikke tatt det opp.
+* Arrkom vil ha bil, og er veldig positiv.
+* Prokom er med.
+* Fagkom er for.
+* Leder og nestleder er for.
+* Vi er for prøveperiode og tar opp fortsettelse av medlemskapet på generalforsamlingen hvis dette er bra.
+
+## 169 Forespørsler som har kommet på e-post (5 min) 
+
+* Vi har fått masse e-poster.
+
+* **Økonomisk støtte fra IDI i 2017**. Vi må søke innen 10. november om penger. I fjor søkte vi om penger til følgende: 10k til jubileum, 5k til kurs(interessegrupper) og 15k til fadderuke for master. 
+* Kan vi bruke penger på dansekurs (av de 5k vi søkte om i fjor)? 
+* Vi kan bruke penger på gaver til folk som kommer og holder kurs.  
+* Vi gir gaver på to eksamenskurs. Det er snakk om 500,-, altså 250,- per kurs.
+* Sander vil ha penger til arrkom, fordi de trenger penger. Vi kan søke om penger til arrangementer for medlemmene, f.eks. Onlinelekene som skal arrangeres til våren.
+* Vi kan søke om penger til å pusse opp kontoret. Det er et par ting vi gjerne skulle pusset opp/byttet ut. Hele sofakroken kunne være byttet ut, og bordet. Martin skal se på priser på bord og sofaer til neste gang.
+* Hvis noen ha lyst til å koble til flere sensorer på kontoret kan vi søke om mer penger til det. 
+* Kan kjøpe nytt anlegg til kontoret. Aux-input er ødelagt. Vi må ikke ha et ødelagt anlegg for å søke om mer penger.
+* Vi må fortsette med å søke penger om støtte til masterfadderuke.
+* Vi kan søke om midler til edruarrangementer i fadderukene, men da må vi ha spesifikke arrangementer, så det kan bli vanskelig.
+
+* **Opprettelse av ny interessegruppe**: Knertkom. Vi kan ta slike diskusjoner på e-post. 
+* Erik skal lage en sjekkliste for interessegrupper. Erik informerer om at Aleksander Skraastad kan opprette Knertkom. 
+* Svarer at interessegruppen skal gagne flere enn bare vedkommene og dens venner. 
+* Erik skriver retningslinjer også.
+* Thor Håkon har gjort interessegrupper til erik sin hjertesak.
+
+* **Historien om Online**: Michael har sendt e-post. Alle komiteer har en åpen komitéhistorie på wikien. I løpet av to uker skal historien være skrevet inn på komiteens historiewiki. TH kan prøve å skrive om hovedstyret denne perioden.
+
+* **IVRig linjeforening**: Håkon fikser.
+
+* **C# vil ha penger**: Thor Håkon svarer at vi betaler for uniformene hvis de tilhører C# og ikke medlemmene. Kan ta det opp på genfors at de skal få en pott hvert semester som går til kjøp av utstyr til medlemmene.
+
+
+## 170 Ukens infomail og Facebook (5 min) 
+
+* Kristiane vil bleste bekk når det kommer.
+* TH vil bleste jubileet idag. 
+* Arrkom skal bleste Onlinekasino imorgen og fredag. 
+* Martin vil bleste kjellerhalloweenstuff. 
+
+
+## 171 Eventuelt (10 min)
+
+* Epostlister for tillitsvalgte kommer idag.
+
+* ITEX mangler på interessegrupper på forsiden på OW4. Det må legges inn. Thor Håkon legger inn.
+
+* Hvilken kjernekomitee skal en interessegruppe gå under? Alle interessegrupper skal inn under en og samme komité -> Hovedstyret.
+
+* I fjor begynte vi med årets komitémedlem. Skal vi fortsette med dette. Vi diskuterer dette, og blir enig om å ta det opp med komiteene våre.
+
+## 172 Møteevaluering/Diggepunkt (5 min)
+
+* Gikk litt sakte, men vi hadde ikke så mye å snakke om. Det var litt chill. 
+
+## 173 Gjøremål
+
+* Martin - Bytte kode på safen.
+* Alle -historie på wikien
+* Kristoffer - si ifra til c# at de må ha kvitteringer.
+* Sander skal mase på Nils.
+* Erik skal fikse sjekkliste og retningslinjer for interessegrupper
+* Alle må fikse årets navn.
+* Spørre om årets komitemedlem i komite
+* Minne folk på jubileet
+* Medarbeidsersamtaler
+* Spørre komiteer om hva vi kan søke penger om
