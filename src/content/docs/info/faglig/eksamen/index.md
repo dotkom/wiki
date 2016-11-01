@@ -22,16 +22,9 @@ man høre sin veileder hvorvidt dette kan skape trøbbel. Følg med på
 avmeldingsfristen, denne er gjerne **15. november på høsten**, og
 likeledes **15. april på våren**. Om man skulle glemme å melde seg av et
 emne vil man som regel motta et brev om ikke fullført øvingsopplegg, og
-en strykkarakter på eksamen. Dette er bittelitt farlig. Man kan stryke i
-hundre emner om man vil, så lenge man har en fornuftig kombinasjon av
-beståtte emner som man kan sette sammen til sin bachelorgrad. **Det som
-er litt farlig** er at dersom man skal søke utveksling så vil NTNU gi
-deg stipend basert på karakterer, og internasjonalt vil alle karakterer
-(inkludert stryk) telle på snittet. Med andre ord: Man kan slite med
-stipendet om man har strøket mye. Vi i Online vil oppfordre til at man
-melder seg av emner som man vet man ikke skal ta eksamen i av tre
-grunner:
+en strykkarakter på eksamen. Dette er bittelitt farlig. Strykkarakterer teller **ikke** når man skal regne snittet for utveksling (per januar 2016). Men, med ny studieforskrift (anno august 2016) kan man ikke stryke mer enn tre ganger før det blir et problem. Dette gjelder i hovedsak studenter tatt opp i 2016 (gjelder også master), men eldre studenter bør heller ikke prøve å komme i den situasjonen. Det kan søkes om et fjerde og femte forsøk, men stryker du for mange ganger kan du miste studieretten din. Pass på!
 
+Ellers grunner til å stå på eksamen:
 * Bedre kår for å få stipend ved utveksling  
 * Man sparer eksamenskontoret og instituttet for unødvendig jobb  
 * Det blir mer ryddig i **StudWeb** uten en haug strykkarakterer.
@@ -39,7 +32,7 @@ grunner:
 Mer om stipend fra NTNU: “Alle resultater er med i beregning av snittet.
 Dette inkluderer også strykkarakter og ikke møtt/manglende øvinger. Det
 er viktig at studenter som melder seg til fag de ikke har tenkt å ta
-eksamen i trekker seg fra eksamen innen trekkfristen.” [ntnustipend][]
+eksamen i trekker seg fra eksamen innen trekkfristen.” [ntnustipend][] (<-- Vet ikke om dette fortsatt gjelder, november 2016)
 
 Under eksamen
 -------------
@@ -92,13 +85,9 @@ eventuelle feil og/eller klager rettet mot oppgavesettet. Sistnevnte har ofte st
 Begrunnelser og klager
 ----------------------
 
-Vårt fakultet, IME, har sitt eget begrunnelses- og klagesystem separat
-fra resten av NTNU: [begrunnelse/klage][] Skjemaer fra den siden må du skrive ut, signere og putte i postkassen i tredje etasje på IME-fakultetet. IME er for øyeblikket lokalisert i
-tredje etasje på gamle fysikk, men det foreligger planer om å flytte
-IME-fakultetet på grunn av at Gamle Fysikk ikke er rullestolaksessibelt.
-Hvis du ikke vet hvor gamle fysikk er bør du ta en titt på [kartet][]
+For å klage på en karakter bruker du IME sitt elektroniske klagesystem. Det er ikke behov for å levere noe papir fysisk. Ved spørsmål så ligger IME-fakultetet i EL-bygget, A-blokken.
 
-Gyllen regel: *Alltid be om begrunnelse.*
+Gylden regel: *Alltid be om begrunnelse.*
 
 Her på NTNU kjenner foreleser studentene, emnet og øvingsopplegget. Når
 du klager så blir oppgaven, og et ark med retningslinjer sendt til en
@@ -117,6 +106,8 @@ mellom A og E, eller “Bestått” i emner som ikke opererer med karakterer.
 Merk at emner som kun har bestått / ikke bestått som regel krever en
 besvarelse som tilsvarer C eller bedre for å gi bestått. Tommelregelen
 er mer enn 60% for å bestå i slike fag.
+
+Etter ny studieforskrift kan man ta en eksamen tre ganger. Står du første gangen har du med andre ord to ganger på å forbedre karakteren.
 
 Konting
 -------
