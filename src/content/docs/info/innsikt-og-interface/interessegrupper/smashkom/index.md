@@ -14,9 +14,9 @@ Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktob
 - **Leder:** Thomas "Supersmash" G.
 - **Nestleder:** Fredrik "Laz0o0or" B.
 - **Ape:** Håkon "Ape" G.
-- **Kontrollerinnkjøpsansvarlig:** Fride "Kirby" S
-- **Medlem:** Kristiane "Zelda(?)" A. W.
-- **Medlem:** Kristian "Kristiane" E.
+-  Fride "Kirby" S
+-  Kristiane "Toon Link" A. W.
+-  Kristian "Kristiane" E.
 
 Retningslinjer
 --------------
