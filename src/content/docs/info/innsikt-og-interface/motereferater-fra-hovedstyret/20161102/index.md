@@ -308,18 +308,18 @@ Ha med i hvert fall en kandidat til neste HS-møte!
 
 #### Trikom vil totalrenovere kontoret. 20.000 kr
 
-Trikom vil også kunne steke vafler. 20.000 kr
+Trikom vil også kunne steke vafler.
 
 - Trikom skal sende ut en spørreundersøkselse for hva folk vil ha på kontoret.
 - Høyttalere til kontoret?
 
 #### Arrkom vil ha penger til nye arrangementer. 10.000 kr 
 
-F.eks. Curling og andre edruarrangementer. 10.000 kr. Kanskje vi kan invitere IDI?
+F.eks. Curling og andre edruarrangementer. Kanskje vi kan invitere IDI?
 
 #### “Ny-i-Trondheim”-kurs. 5.000 kr
 
-Vil gjerne ha midler til å gjøre noe den samme kvelden. F.eks. Grilling, et lokale man kan være på i etterkant, …. 5.000 kr
+Vil gjerne ha midler til å gjøre noe den samme kvelden. F.eks. Grilling, et lokale man kan være på i etterkant, ….
 
 
 #### Masterfadderuker. 15.000 kr
