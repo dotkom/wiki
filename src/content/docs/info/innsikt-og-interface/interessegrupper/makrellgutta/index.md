@@ -30,6 +30,11 @@ Under er en liste over de medlemmene gruppa har.
 - **Drift og utviklingsansvarlig:** Christian Duvholt
 - **Samferdselsminister:** Jarle "Hvor bor jeg" Trollebø
       
+  
+  
+  
+  
+  
      
 
 
