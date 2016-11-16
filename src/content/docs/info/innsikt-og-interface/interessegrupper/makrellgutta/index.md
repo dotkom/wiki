@@ -14,17 +14,17 @@ Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktob
 - **Leder:** Marius Thingwall
 - **Nestleder:** Fredrik "Rulle-fred" B. Tørnvall
 - **Fiskeriminister:** Kristoffer Andreas Breiland "Fishboy" Dalby
-- **Tomatminister:** Anders "Mini-myth" Larsen
-- **Moder makrell:** Margit Schefte
-- **Medlem:** Signe Elise Livgard
-- **Medlem:** Sigurd Wie
-- **Medlem:** Andrea Nornes
-- **Medlem:** Katrine Jordheim
-- **Medlem:** Johan N. Slettevold
-- **Medlem:** Ellen Bakksjø
-- **Medlem:** Ivar "Flakken Flaksnes" Flakstad
-- **Medlem:** Christian Duvholt
-- **Medlem:** Jarle "Hvor bor jeg" Trollebø
+- **Tomatminister:** Andrea Nornes
+- **Agile Webscale-ansvarlig:** Anders "Mini-myth" Larsen
+- **Moder Makrell:** Margit Schefte
+- **Matros:** Signe Elise Livgard
+- **Nordnorsk Ambassadør:** Sigurd Wie
+- **Økonomiansvarlig:** Katrine Jordheim
+- **Tilbudsansvarlig:** Johan N. Slettevold
+- **Trivselsansvarlig:** Ellen Bakksjø
+- **Propagandaminister:** Ivar "Flakken Flaksnes" Flakstad
+- **Drift og utviklingsansvarlig:** Christian Duvholt
+- **Samferdselsminister:** Jarle "Hvor bor jeg" Trollebø
 
 
 Retningslinjer
