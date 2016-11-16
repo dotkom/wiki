@@ -27,6 +27,17 @@ Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktob
 - **Samferdselsminister:** Jarle "Hvor bor jeg" Trollebø
 
 
+
+Hymn
+--------------
+
+
+[image:371 align:left]
+    Vår hymn
+
+
+
+
 Retningslinjer
 --------------
 
