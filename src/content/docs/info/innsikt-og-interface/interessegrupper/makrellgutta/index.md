@@ -29,6 +29,9 @@ Under er en liste over de medlemmene gruppa har.
 - **Propagandaminister:** Ivar "Flakken Flaksnes" Flakstad
 - **Drift og utviklingsansvarlig:** Christian Duvholt
 - **Samferdselsminister:** Jarle "Hvor bor jeg" Trollebø
+      
+     
+
 
 
 Retningslinjer
