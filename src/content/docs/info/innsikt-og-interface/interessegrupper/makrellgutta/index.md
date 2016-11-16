@@ -57,11 +57,11 @@ Gruppens omtales over alle kanaler som "Makrellgutta".
 
 ### §4 Gruppens sammensetning
 
-Leder
-Nestleder
-Fiskeriminister
-Tomatminister
-Medlemmer
-
+Leder  
+Nestleder  
+Fiskeriminister  
+Tomatminister  
+Resten  
+  
 Historie
 --------
