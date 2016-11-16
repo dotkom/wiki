@@ -9,7 +9,11 @@ Selv om gruppens navn lener såvidt mot ett av de mange kjønnene som eksisterer
 Nåværende medlemmer
 ---------------------------------
 
-Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktober 2016 12:27:45).
+Under er en liste over de medlemmene gruppa har.
+
+
+[image:371 align:right]
+    Vår hymn
 
 - **Leder:** Marius Thingwall
 - **Nestleder:** Fredrik "Rulle-fred" B. Tørnvall
@@ -25,17 +29,6 @@ Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktob
 - **Propagandaminister:** Ivar "Flakken Flaksnes" Flakstad
 - **Drift og utviklingsansvarlig:** Christian Duvholt
 - **Samferdselsminister:** Jarle "Hvor bor jeg" Trollebø
-
-
-
-Hymn
---------------
-
-
-[image:371 align:left]
-    Vår hymn
-
-
 
 
 Retningslinjer
