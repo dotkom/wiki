@@ -5,7 +5,8 @@ title: "Onlines daljer og pins"
 Online har de siste årene begynt å få en del forskjellige daljer. Dette er en oversikt over disse.
 
 Den første Komitédaljen er gratis, etter det koster den 100,-.
-Alle får en gratis pin etter fullført kompilering, etter det koster pinen 40,-.
+Alle får en gratis pin etter fullført kompilering, etter det koster pinen 40,-.    
+Hvis du har mistet pin eller dalje betales dette til HS-konto, 1644.20.38094, og merkes med navn. Så kan du kontakte noen i HS, så finner de en ny til deg. 
 
 
 Æresmedlemsdaljen
