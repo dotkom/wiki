@@ -124,9 +124,7 @@ Kurs og bedpresser
 
 ## 149 Eventuelt (10 min)
 - Abakus sin tv er pakka inn i plast (Bjerke)  
-Tv'en til abakus var pakket inn i plast og det var litt gøy, og litt kjipt.  
-- Shit-list (Bjerke)  
-Astrid har blitt straffet med ølstraff. Emil var fyllatull.  
+Tv'en til abakus var pakket inn i plast og det var litt gøy, og litt kjipt.   
 - Datakam vil ha penger  
 400 kr til flytting av kamp. De sender mail, og får det vedtatt.  
 - Møte om forsiden  
