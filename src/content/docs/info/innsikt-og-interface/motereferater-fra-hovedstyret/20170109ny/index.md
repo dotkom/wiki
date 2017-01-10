@@ -80,7 +80,7 @@ title: "HOVEDSTYRETS OG-DER-VAR-VI-I-GANG-*PANG*-MØTE"
 
 
 ## 221 Forespørsler som har kommet på e-post (5 min) 
-  
+  Ingen
 
 ## 222 Ukens infomail og Facebook (5 min)  
   - Ekskom-kveld
