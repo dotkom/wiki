@@ -31,6 +31,7 @@ title: "HOVEDSTYRETS OG-DER-VAR-VI-I-GANG-*PANG*-MØTE"
 
 #### Bedkom, med ITEX:  
   - Bedpresser skal være ordnet for semesteret.
+  - Techtalks er fullt opp med bedrifter. 
 
 #### Dotkom, med appkom:
 
