@@ -2,10 +2,9 @@
 title: "X-Sport"
 ---
 
-Nåværende medlemmer
+Nåværende gjengmedlemmer
 ---------------------------------
 
-Gjengmedlemmer
 
 - **Leder:** Emil Schrøder
 - **Nestleder:** Simen Blikeng
