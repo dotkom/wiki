@@ -12,3 +12,4 @@ title: "Interessegrupper"
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
+- [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
