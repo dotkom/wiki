@@ -1,5 +1,5 @@
 ---
-title: "Hovedstyrets der-var-åre-over-gitt-møte"
+title: "Hovedstyrets nå-er-det-snart-åre-møte"
 ---
 
 **Møtetidspunkt:** 14.15 (rom 054)
