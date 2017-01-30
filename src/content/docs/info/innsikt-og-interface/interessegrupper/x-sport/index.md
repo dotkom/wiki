@@ -8,7 +8,7 @@ Nåværende gjengmedlemmer
 
 - **Leder:** Emil Schrøder
 - **Nestleder:** Simen Blikeng
-- **Trener:** Henrik Sørense
+- **Trener:** Henrik Sørensen
 - **Stikkballansvarlig:** Kristiane Westgård
 - **Håndballansvarlig:** Fride Skarseth
 - **Kiteansvarlig:** Tørres Lande
