@@ -36,7 +36,6 @@ Underkjent innkalling, referat fra forrige gang mangler, men servering er godkje
 
 #### Bedkom, med ITEX:  
 
-** - Liten forandring i UKA-avtale.**
  - Teambuildingtur til Polen.
  - Bedpresplanlegging går på skinner. Knowit og Bouvet denne uken, KID, Yahoo! og Sopra Steria neste uke.
 
