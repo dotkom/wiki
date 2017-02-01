@@ -77,7 +77,7 @@ Ikke her.
 
 ## 248 Eventuelt (10 min)
   - Build that team
-  - Flytte genfors -> Flyttes til tirsdag 25. mars
+  - Flytte genfors -> Flyttes til tirsdag 25. april
   - Felles hackaton? Sklirg tar det opp med sin komité, aka dotkom.
   - Vi må prøve å inkludere folk igjen. Ta en brainstorming på dette?
     - Workshopen blir på fredag.
