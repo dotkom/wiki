@@ -1,0 +1,192 @@
+---
+title: "HOVEDSTYRET SKAL-TA-BILDE-TIL-ÅRBOKA-MØTE"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering og referering:** Hajem
+
+**Vinstraff:** TH (sen innkalling)
+
+**Ølstraff:**  
+
+**Tilstede:** Hajem, Andrea, Thor Håkon, Didrik, Erik, Håkon, Ingrid, Sander, Bjerke, Petter(appkom), Kristiane
+
+**Mangler:** 
+
+## 251 Godkjenning av innkalling, servering og referat 
+
+
+## 252 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+Alt er klart til x-fest, og skal betale snart. Vinter-OL med Volvox er 18. februar, og blesting kommer snart. Har møtt Nabla angående Låvefest den 31. mars. Skal høre med kjellern om de vil stå for servering av drinker der.
+Klatring er good, og blesting kommer snart, men tenker å kanskje høre om folk har brattkort. Skal bytte edruvakter med Nabla for studenterhytta.
+
+Tilbud om lysekrone i Onlinefarger. Datoen for festligheten er 23.09.17. 
+
+Åre 2018 er booka til samme helg som i 2017. 
+
+Kom med kule ideer for nye arrangementer på idemyldring 05.02. 
+
+17.mai-middagen blir ikke på graffi siden det er fullbooka.
+
+Har snakket med velkom om det er mulig å få inn noen arrkomere der.
+
+#### Bankom:  
+
+Vi skal ha internrevisjon på førskommende søndag. Skal avtale revisjon med Abakus. Noen har mista tilgang til dnb, så skal ringe kundeservice og høre hva som skjer. Budsjetter skal settes opp snarest. 
+
+#### Bedkom, med ITEX:  
+
+Det har kommet søknader til ITEX.
+
+#### Dotkom, med appkom:
+
+Forrige uke ble det satt opp nytt RFID-system, og skal se på deployment. Skal snart ha tb. Tenker å sette opp en "idebank" der alle onlinere kan legge inn featurerequests. Nevnte å holde hackathon for online, der dotkom kan lære opp online i ulike ting, og resposnen var positiv. SKal muligens utvide APIet til OW, slik at man kan lage fler extensions osv. Planer om et bildegalleri på OW, der man kan legge inn masse bilder som kan ev brukes i artikler som f.eks. i fadderukene.
+
+Har hatt noen tanker om å åpne for at alle med bruker på OW kan redigere den åpne wikien, men med noen restriksjoner for slikt som genfor og åpne HS-referater.
+
+Har satt opp noen til å se mer på backup. Skal sette opp en sekundærserver som kan ta over dersom den vi har i dag får problemer. Har ikke kjøpt nødbatteri, som det ble vedtatt midler til på genfors, men har ikke kjøpt dette. Det er muligens billigere å putte ting i skyen.
+
+#### Fagkom, med ekskom:  
+
+Har valgt ny økonomiansvarlig, som vil sitte med nåværende frem til genfors. Vil flytte kjøleskapet inn i boden på p15, men det er ikke plass uten at det ryddes.
+
+ekskom: alt klart til tech talks i morgen
+
+#### Prokom:  
+
+Hadde OKA(offlines kulinariske aften) i går, og er på utkikk etter trykkerier.
+
+#### Trikom:  
+
+Hadde ikke møte forrige uke pga folk som ikke kunne. Planlegger valentines, og seriefrokosten gikk bra men med litt lite oppmøte. Har ikke sett noe videre på oppussinga, men skal sette opp en ansvarlig for dette. Dersom vi ikke får støtte fra IDI, vil vi søke på genfors. Har endå ikke fått muligheter til å gi tilgang til flere til nye boden.
+
+Kobkom hadde første arrangementet sitt forrige lørdag. Det var litt lite oppmøte, men det var grunnet litt lite blesting. Skal forberede mer til neste gang, og kanskje få til plakat.
+
+Skal vise VM i ski på onsdag
+
+#### Seniorkom: 
+
+Har ikke hatt møte siden sist, men har sendt ut mailer for å få til utmatrikuleringen angående bl.a. lokaler. Har ikke kommet noe svar endå. 
+
+#### Leder og nestleder:  
+
+I dag var TH i møte med SiT-råd angående "psyko-uka", en uke der linjeforeningene skal sette litt fokus på studenters psykiske helse. SiT skal holde kurs, samt en dame som har vunnet pris for liknende. Skal stå på stand to dager rundt omkring på gløs.
+
+Fikk svar fra Unni om at det ikke er noen beslutning angående støtte.
+
+Erik har satt opp retningslinjer for interessegrupper.
+
+#### ITV: 
+
+
+## 253 Interkom (10 min) 
+ - Shitlist (Martin, 2 min)
+
+
+ Har opprettet synkronisering mellom OW-grupper og Google-suite. Send gjerne mail en stund til for å dobbeltsjekke.
+
+## 254 Appkom v/ appkom-leder
+
+Appkomleder har blitt bedt om å ta en revurdering av appkom, og har foreslått følgende:
+
+Retningslinjer:
+
+ - Scraper åpent opptak, da dette har vist seg og ikke fungere
+
+ - skal ha arbeidskvelder
+
+ - skal prøve å arrangere lynkurs for appkom i ulike ting som f.eks. regex.
+
+ - end of the month review (ble ikke holdt tidligere grunnet lite folk)
+
+ Engasjering av medlemmer:
+
+ - end of the month review oppfordrer å vise fram arbeidet, og vil trekke frem en "vinner" får måneden. Denne vil premieres med en liten premie eller noe spesielt på tb
+
+ - prøve å lage en slags "appstore" der man kan vise frem git, scripts o.l. for å vise appkoms fremgang. Ansvarlig for prosjektene vil krediteres
+
+ - Fornye/styrke samarbeidet med Hackerspace. Kan ha kombinerte arbeidskvelder, så man kan få litt enklere tilgang til hardware og kurs til dette.
+
+ Lokkemat/forslag til prosjekter:
+
+ - NotiWAve API plattform, UI for interaksjon med mellomlaget til Notifier
+
+ - Mobilversjon av Notifier. Ikke bare port, men legge til mer mobilspesifikke funksjoner
+
+ - Script/app for å sjekke om du rekker bussen
+
+ - Forbedret versjon av enklefag.gløs.no. Kan f.eks. ha kommentarer fra folk som har hatt faget, eller filter for enkelt + relevant osv.
+
+ Opptak:
+
+- gjøre opptaket nærmere komiteopptak
+
+- be søkere liste hvilke prosjekt man vil jobbe med
+
+- prosjektbaserte opptak underveis for å være dynamiske. enten for å supplere folk til kule prosjekter som dukker opp, eller ta opp flere ved frafall
+
+HS foreslår at appkom kan bli mer prosjektbasert, der man melder seg opp til ulike prosjekter i appkom, og ikke bare kommer innom å finner på noe å gjøre. Dette kan bidra til tilhørligheten til appkom, hvor man for tettere bånd med de du jobber sammen med, man engasjerer hverandre.
+
+Et problem er at man kanskje får mer tilhørlighet til prosjektet, men ikke til appkom som helhet. Blir litt for løs organisering. Målet med arbeidskveld er å sitte i felleskap og hjelpe hverandre på arbeidskvelder. Vil også kanskje være enklere opptaksmessig å ikke knytte folk til prosjekter, slik at de ikke bare knyttes itl prosjektet og ikke selve appkom.
+
+En mulig løsning kan være å bruke prosjektene til å få folk innenfor døra, og senere gi dem mer oppgaver i appkom hvor man gir dem mer samhold via teambuildinger o.l. Prosjektbaserte opptak kan også hjelpe til å supplere medlemmer dersom noen faller av utenfor vanlige opptaksperioder. 
+
+Viktig å sette forventninger til folk slik at det ikke blir inntrykk av at appkom er useriøst, som var noe av problemet med åpent opptak. 
+
+Et annet problem kan være at det blir lite å gjøre imellom prosjekter, der gruppa kanskje deles opp og man mister den tilhørligheten man hadde. En løsning kan være å gi disse oppgaver i å hjelpe de andre i appkom frem til man får et nytt prosjekt, eller sette gruppa over på et annet prosjekt.
+
+Kombinasjon av ideene der man søker deg til appkom, men samtidig lister opp hvilke prosjekter du syns er spennende. da vil man få tilgang til appkoms goder som tb, lynkurs og arbeidskvelder, samtidig som at du får hoppa inn på prosjektet man vil jobbe med.
+
+Kan vinkle opptaket til at man ikke reklamerer med at det er få folk i appkom, men at man skal starte et nytt prosjekt man trenger personer til. Kan også reklamere med at folk kan komme til appkom med prosjekter de kan trenge litt mer hjelp til. Da kan disse få nødvendig hjelp, og kanskje bidra med hjelp til andre i appkom.
+
+Konklusjon: 
+
+Oppdatere retningslinjene i henhold til forslagene. Sette opp prosjektene som man kan "hyre" inn til. Prøve å få til dette før genfors, slik at man kan vise frem resultatene dersom det blir case om appkom skal legges ned. Bleste om endringene til så mange som mulig. Kan samkjøre opptakene til appkom og velkom.
+
+
+## 255 Velkom
+
+Har fått inn tre søknader. Sander og Erik tar intervjuer med søkerene. 
+
+## 256 Forespørsler som har kommet på e-post (5 min) 
+
+Fler invitasjoner til revyer.
+
+Intensjonsavtale med StartIT. Vi har tidligere sponset dem 
+
+Delta har 43års jub. TH, Erik, Hajem og Bjerke vil dra
+
+Har kommet invitasjon til NTVA-møtet for utvinning i hav i nordområdene. Vi er ikke interessert.
+
+
+
+## 257 Ukens infomail og Facebook (5 min)  
+
+folk fikser infomail.
+
+Facebook:
+
+- Vinter-OL på mandag, skal hypes på forhånd.
+
+- Bleste om x-fest en gang
+
+## 258 Eventuelt (10 min)
+
+
+Epostliste til kalvskinnet. Det har bare vært 2 av 10 som har svart. Vi tar en sjefsavgjørelse og bare gir dem en epostliste, og informerer til de relevante at "hei dette finnes".
+
+Ordstyrer til genfors:
+
+ Erik videresender liste over forslag.
+
+Legge ut referat fra fredagens workshop i morgen.
+
+## 259 Møteevaluering/Diggepunkt (5 min)
+
+
+
+## 260 Gjøremål
