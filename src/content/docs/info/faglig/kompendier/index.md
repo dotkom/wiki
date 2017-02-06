@@ -4,6 +4,10 @@ title: "Kompendier"
 
 Her kan man finne sårt trengt hjelp for fag på NTNU.
 
+### Nettsiden Wikipendium
+En nettside dedikert til kompendier i masse forskjellige fag. Det er veldig enkelt å bidra!
+[Wikipendium link](https://www.wikipendium.no/)
+
 ### TDT4120 Algoritmer og datastrukturer
 * Kompendium av Jim Frode: [attachment:1]  
 * Kompendium av Håkon Ø. Løvdal:  
