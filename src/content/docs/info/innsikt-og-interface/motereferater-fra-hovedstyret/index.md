@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2017-02-06](20170206) - Hovedstyret skal-ta-bilde-til-årboka-møte
 - [2017-01-30](20170130) - Hovedstyrets lets-get-to-work-møte
 - [2017-01-23](20170123ny) - Hovedstyrets der-var-åre-over-gitt-møte
 - [2017-01-16](20170116) - Hovedstyrets nå-er-det-snart-åre-møte
