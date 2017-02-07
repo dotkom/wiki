@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2017-02-06](20170206) - Hovedstyret skal-ta-bilde-til-årboka-møte
+- [2017-02-03](20170203) - Hovedstyrets workshop våren 2017
 - [2017-01-30](20170130) - Hovedstyrets lets-get-to-work-møte
 - [2017-01-23](20170123ny) - Hovedstyrets der-var-åre-over-gitt-møte
 - [2017-01-16](20170116) - Hovedstyrets nå-er-det-snart-åre-møte
