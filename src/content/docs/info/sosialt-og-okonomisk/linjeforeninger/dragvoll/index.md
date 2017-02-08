@@ -48,7 +48,7 @@ Tilhørende wikisider
 | [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
 | [Lydmurerlosjen](http://org.ntnu.no/lydmurerlosjen/) | | Musikkteknologi | | [Group](http://fb.com/groups/39534575405/) | |
 | [Notelinjeforeningen](http://notelinja.wordpress.com/) | | Utøvende musikk | | [Page](http://fb.com/pages/Notelinjeforeningen/206686876172728) | notelinja@gmail.com |
-| [Paideia Fadder](http://pedfadder.no/), [Paideia](http://paideiantnu.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideia@live.no |
+| [Paideia Fadder](http://pedfadder.no/), [Paideia](http://paideiantnu.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideiantnu@gmail.com |
 | [Panoptikon](http://panoptikon.blogg.no/) | | Master STS/KKS, Årsstudium STS | | [Page](http://fb.com/panoptikonlinjeforening) | tverrfagligkult@gmail.com |
 | [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
 | [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
