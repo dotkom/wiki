@@ -62,8 +62,9 @@ Telefon: 73 50 13 00
 - Søndag: 14:00 - 22:00    
 
 #### Nyhaven
-Ligger ved Bunnpris Samfundet og har buffet hver søndag. Serverer kinesisk.
-[Meny]
+Ligger ved Bunnpris Samfundet og har buffet hver søndag. Serverer kinesisk.   
+Meny: [attachment:383]   
+
 - Mandag: Stengt
 - Tirsdag til torsdag: 14:00 - 21:30
 - Fredag til lørdag: 14:00 - 22:30
