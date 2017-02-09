@@ -61,6 +61,14 @@ Telefon: 73 50 13 00
 - Fredag til lørdag: 12:00 - 23:00     
 - Søndag: 14:00 - 22:00    
 
+#### Nyhaven
+Ligger ved Bunnpris Samfundet og har buffet hver søndag. Serverer kinesisk.
+[Meny]
+- Mandag: Stengt
+- Tirsdag til torsdag: 14:00 - 21:30
+- Fredag til lørdag: 14:00 - 22:30
+- Søndag og helligdag: 14:00 - 21:00
+
 ## Leverer
 #### Peppes Pizza   
 Ligger i Kjøpmannsgata 25. Leverer.    
@@ -96,4 +104,4 @@ Telefon: 73 52 66 66
 Åpningstider:    
 - Mandag til torsdag: 13:00 - 22:00
 - Fredag til lørdag: 13:00 - 23:00   
-- Søndag: 13:00 - 22:00   
+- Søndag: 13:00 - 22:00
