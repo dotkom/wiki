@@ -33,6 +33,7 @@ Tilhørende wikisider
 | [Vivas](http://vivas.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898893952) | Ingeniør i Fornybar Energi | Gunnerusbygget  ved AFT |  leder@vivas.hist.no | [Page](https://www.facebook.com/VivasHiST)  |
 | [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
 | [Nutrix](http://nutrix.hist.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | nutrix@nutrix.hist.no | [Page](http://fb.com/pages/Nutrix/297838347011022) |
+| [SALT](http://studentalt.no/)| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912414094) | Lærerutdanning | Campus Rotvoll, E122 | postmottak@studentalt.no | [Page](https://www.facebook.com/studentalt/) | |
 | [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Økonomi | | post@sftoh.no | |[Rustblekka](https://www.facebook.com/Rustblekka-Handelshøyskolen-i-Trondheim-472874276071068/)|
 | Tekno-Tunga | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | | [Page](http://fb.com/TeknoTunga) |
 | [TIHLDE](http://www.tihlde.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Elektronisk databehandling (EDB) | AITeL ^1^ | hs@tihlde.org | |
