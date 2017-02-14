@@ -34,7 +34,7 @@ Tilhørende wikisider
 | [De Passe Simple](http://org.ntnu.no/dps/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=895213632) | Fransk | 7-508 (bygg 7, nivå 5) | [Group](http://fb.com/groups/5656499932/) | depassesimple@gmail.com |
 | [Det Historiske Selskab](http://org.ntnu.no/historie/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996557405) | Historie | | [Page](http://fb.com/DetHistoriskeSelskab), [Person](http://fb.com/petter.wesseltordenskjold), [Group](http://fb.com/groups/33248463626/) | ntnu_dhs@hotmail.com |
 | [Dionysos](http://dionysosntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998237874) | Religion | | [Page](http://fb.com/LinjeforeningenDionysos) | dionysoslinjeforening@gmail.com |
-| [Erudio](http://www.erudiontnu.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=888738622) | Lektor | B125, Moholt Campus | [Page](http://fb.com/erudiontnu) | erudiostyret@gmail.com | [Ugleposten](https://erudiontnu.wordpress.com/avis/) |
+| [Erudio](http://www.erudiontnu.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=888738622) | Lektor | B125, Moholt Campus | [Page](http://fb.com/erudiontnu) | styret@erudiontnu.no | [Ugleposten](https://erudiontnu.wordpress.com/avis/) |
 | [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com |
 | Fauréningen | | Musikkvitenskap | 2-426 (bygg 2, nivå 4) | [Group](http://fb.com/groups/586235868057291/) | faureningen@gmail.com |
 | [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
