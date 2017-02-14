@@ -21,7 +21,7 @@ Tilhørende wikisider
 * [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
-## Linjeforeninger på HiST
+## Linjeforeninger på NTNU Kalvskinnet
 
 |Linjeforening|BrReg|Linje|Kontor|Epost|Facebook|Avis|
 |---|---|---|---|---|---|---|
