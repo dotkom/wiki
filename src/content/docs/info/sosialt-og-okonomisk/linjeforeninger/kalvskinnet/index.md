@@ -30,7 +30,7 @@ Tilhørende wikisider
 | [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | leder@kom.hist.no |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
 | [Logitas](http://www.logitas.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | styret@logitas.no | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
 | [MiT](http://mit.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | Kjelleren, Maskinbygget i Sverresgate 10, rom nr. 034 | leder@mit.teknikersamfunn.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
-| [Vivas](http://vivas.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898893952) | Ingeniør i Fornybar Energi | Gunnerusbygget  ved AFT |  leder@vivas.hist.no | [Page](https://www.facebook.com/VivasHiST)  |
+| [Vivas](http://vivas.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898893952) | Ingeniør i Fornybar Energi | Gunnerusgate 1 |  leder@vivas.teknikersamfunn.no | [Page](https://www.facebook.com/VivasNTNU/)  |
 | [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
 | [Nutrix](http://nutrix.hist.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | nutrix@nutrix.hist.no | [Page](http://fb.com/pages/Nutrix/297838347011022) |
 | [SALT](http://studentalt.no/)| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912414094) | Lærerutdanning | Campus Rotvoll, E122 | postmottak@studentalt.no | [Page](https://www.facebook.com/studentalt/) | |
@@ -45,4 +45,4 @@ _1. = "Brygghuset" ved Leütenhaven/Trøndelag Teater_
 
 Trondheim Teknikersamfunn (TTS) ble stiftet i 1912 av studenter for å sikre politisk innflytelse, så vel som å skape en arena for sosialisering og samhold. *Paraplyorganisasjonen* har gjennom disse hundre årene blant annet drevet en egen avis, studenthytte og idrettsforening. I dag har TTS *et dusin tilknyttede studentforeninger* fra høgskolens to teknologiavdelinger. Arbeidsutvalget i TTS står for den daglige driften og jobber blant annet med å minske frafallet av studenter gjennom praktiske, sosiale og tverrfaglige prosjekter. En representant fra hver av foreningene danner styret i TTS, som er det øverste studentorganet ved de tilhørende avdelingene.
 
-* [tts.hist.no](http://tts.hist.no/)
+* [eknikersamfunn.no](http://teknikersamfunn.no/)
