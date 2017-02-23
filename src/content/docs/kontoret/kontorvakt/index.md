@@ -2,9 +2,7 @@
 title: "Kontorvakt"
 ---
 
-##Hvordan være kontorvakt
-
-#Ansvar og oppgaver
+##Ansvar og oppgaver
 
 **Oppmøteplikt**
 
