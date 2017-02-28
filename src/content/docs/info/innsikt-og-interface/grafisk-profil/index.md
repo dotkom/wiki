@@ -2,11 +2,17 @@
 title: "Grafisk profil"
 ---
 
-Her finnes Onlines grafiske profil i vektorisert format. Ta kontakt med proKom (prokom@online.ntnu.no) dersom du er usikker på hvordan du bruker filene.
+Her finnes Onlines grafiske profil i med vektorfiler. Ta kontakt med prokom (prokom@online.ntnu.no) dersom du er usikker på hvordan du bruker filene.
+
+## Merkevaren Online
+Online har som mål å skape en bedre hverdag for sine studenter. Dette består av kontakt ut mot studentene, men også mot bedrifter, organisasjoner og NTNU ved institutt og fakultet. 
+
+En god merkevare skaper forventninger hos målgruppen, og skal levere i henhold til disse forventningene.
+Online skal gjenkjennes ved bruk av Online-logoen med lynet på. Sammen med den skal det følge grafisk materiale av gjennomgående høy kvalitet.
 
 ## Retningslinjer for bruk av logo
 
-For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønsker Online at alt av plakater designes av proKom. Ved bedpreser og kurs hender det noen ganger at bedriftene likevel ønsker å lage plakat selv, og noen ganger trenger andre komitémedlemmer eller linjeforeninger å bruke logoen til samarbeidsprosjekter. Til disse tilfellene har vi her satt opp noen retningslinjer for bruk av Online-logoen:
+For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønsker Online at alt av plakater designes av proKom. Ved bedriftspresentasjoner og kurs hender det noen ganger at bedriftene likevel ønsker å lage plakat selv, og noen ganger trenger andre komitémedlemmer eller linjeforeninger å bruke logoen til samarbeidsprosjekter. Til disse tilfellene har vi her satt opp noen retningslinjer for bruk av Online-logoen:
 
 
 * Bruk blå logo på lys bakgrunn.
@@ -60,4 +66,4 @@ Hex: #0060A3
 PMS: 143 EC  
 CMYK: 0 42 100 0  
 RGB: 250 162 27  
-Hex: #FAA21B  
+Hex: #FAA21B
