@@ -2,4 +2,16 @@
 title: "Linjekoret C#"
 ---
 
-Her kommer info om linjekoret for Abakus og Online, C#.
+Linjekoret C# er Online interessegruppen for de som liker å synge, som også er eneste kravet for å være med. Koret er en delt interessegruppe med linjeforeningen Abakus så hvis du har lyst til å bli kjent med personer fra Abakus er dette en gylden mulighet.
+ 
+C# har ukentlige øvinger som varierer hvert semester avhengig av når korets medlemmer har tid. Hvis du er interessert i å finne ut når det er øving er det bare og gå inn på korets facebookside eller spørre et av korets medlemmer så er det bare å møte opp med et smil, alle er velkomne!
+C# har flere konserter og opptredener hvert semester, som for eksempel julekonsert, 17. Mai frokost og opptredener på immball, julebord og jubileum.
+ 
+I tillegg har C# flere sosiale sammenkomster, slik som blant annet Singstarkvelder, grilling, hytteturer og Korpils etter øvinger. 
+
+### Øvinger
+Vår 2017 er øvinger til vanlig Mandag 19:15-21:15 i EL6.
+Hvis du vil være med er det bare å møte opp.
+
+### Facebookgruppe
+https://www.facebook.com/groups/1489847091313317/
