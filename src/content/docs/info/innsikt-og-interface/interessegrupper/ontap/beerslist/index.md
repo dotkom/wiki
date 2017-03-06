@@ -16,5 +16,7 @@ For å være et offisielt Ontap øl må man fylle tre krav.
 
 i|Navn|Brygger(e)|Tappedato|Stil|Oppskrift|Etikett  
 |---|---|---|---|---|
-0| beers[0] | Sverre Johann Bjørke og Aslak Hollund | 13.02.17 | Pale ale | [PDF]([attachment:387]) | Kommer
+0| beers[0] | Sverre Johann Bjørke og Aslak Hollund | 13.02.17 | Pale ale | [attachment:387] | Kommer
+                                                                            ------                -
+0| beers[0] | Sverre Johann Bjørke og Aslak Hollund | 13.02.17 | Pale ale | [attachment:387] | Kommer
 1| Prinsen Konrad I. | Boje Ellingsæter, Aslak Hollund og Henrik Wathne | TBD | Weisbeer | Kommer | |
