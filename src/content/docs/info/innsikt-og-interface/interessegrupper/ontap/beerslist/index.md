@@ -9,7 +9,7 @@ For å være et offisielt Ontap øl må man fylle tre krav.
 
 2. Oppskriften på brygget må være tilgjengelig for andre medlemmer av Ontap.
 
-3. Hvis øllet har en etikken må beers[i] være på etikken.
+3. Hvis øllet har en etikett må beers[i] være på etiketten.
 
 4. Øllet må føres inn i listen under. 
 
