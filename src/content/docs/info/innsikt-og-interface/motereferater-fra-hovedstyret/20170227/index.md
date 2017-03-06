@@ -1,0 +1,159 @@
+---
+title: "Hovedstyrets lets-get-wild-møte"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering og referering:** Andrea
+
+**Vinstraff:** Ingrid
+
+**Ølstraff:** 
+
+**Tilstede:** Thor Håkon, Didrik, Sander, Håkon, Kristiane, Kristoffer, Eirik, Andrea, Martin
+
+**Mangler:** Ingrid
+
+## 283 Godkjenning av innkalling, servering og referat 
+Godkjent
+
+## 284 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+* X-fest  
+Alt er fint og flott. X-fest var veldig gøy, og det kostet det vi trodde det skulle koste.  
+Litt stress fordi de ikke visste vi kom. Var ingen der da arrkom kom.  
+Pratet med Abakus om å få inn folk på to innganger så det går raskere.  
+* Vinter-OL 
+Var billig. Volvox ville ikke ha noe for vinen.  
+ 
+Møte med Nabla så 2. klasse får være med. Det kræsjer med Zab.  
+ 
+Studenterhytta er booket.  
+Immball er greit.  
+ 
+Booket Fjordgata 30 30. mars - "Vors-nach-fest" - med mange type drikkeleker, folk drar ut på byen og kommer tilbake på nach!  
+ 
+Reebot er klart. Må kanskje spørre HS om penger fordi det var dyrt med Nidelven klubbhus.  
+ 
+Invitere Mirjam på arrkom-møte neste uke.  
+
+#### Bankom:  
+Revidert Abakus-regnskap i natt. De hadde mer feil enn vi hadde (som hvert år). Skal begynne på vårt snart.  
+ 
+Mast på penger fra folk.  
+ 
+Teambuilding på lørdag - gøy!  
+ 
+Årbokbokbilde i morgen.  
+ 
+Vært på skolen i 24 timer.  
+
+#### Bedkom, med ITEX:  
+ 
+Alt er klart til Bekk på torsdag og Simula neste uke.  
+ 
+ITEX er ferdig med undersøkelsen - skal ta kontakt med bedrifter folk vil møte.  
+ 
+Prøvde det nye innsjekkingssystemet på bedpres. Mye bugs, mye som ikke funket.   
+
+#### Dotkom, med appkom:
+
+Borte forrige uke. Dårlig oppmøte pga kurs. De som lager registreringssystemet har vært hos prokom og fått mye konstruktiv og destruktiv kritikk.  
+ 
+Kanskje ha en nodekomite med UX eller ha en gruppe innen dotkom som jobber spesielt med det.  
+ 
+Backup jobbes med. 
+
+#### Fagkom, med ekskom:  
+
+Kurs med Computas i morgen, litt få oppmeldte. Det er mat ute!  
+ 
+Skal på hyttetur i helga.  
+ 
+Ekskom - nesten ferdig planlagt. Neste års ekskursjon kan også ha samme dugnad som de hadde i år.
+
+#### Prokom:  
+
+Begynt på årboka - mangler fortsatt litt ting fra folk  
+ 
+Skal ha linjeredaksjonskonferansen i morgen, men det er bare 3 lyntalere fra oss, og det kommer bare 6 redaksjoner.  
+ 
+Bestilt prøvetrykk Offline fra Fagtrykk.  
+Har ikke fått prøvetrykk av noen andre trykkerier.
+Plakat-trykkeri er enda ikke bestemt.
+
+#### Trikom:  
+
+Litt problemer med bilkollektivet siden de byttet system. Har 6 brukere.  
+ 
+Skal få ny økonomiansvarlig
+ 
+Sendte mail om kontorvakter siden folk har vært litt dårlige på det.  
+ 
+Teambuilding til helga sammen med koskom.  
+ 
+Seriefrokost fungerer bra.  
+ 
+Strikk og drikk - bra. Skal mekke et facebookarrangement.  
+ 
+Code-in-the-dark skal betatestes innad i trikom - alt er i orden.  
+ 
+Runder av i Nibble til nærmeste krone.  
+ 
+Fått sjakkbrikkene.  
+ 
+Skal være med på bar-til-bar 14. mars.   
+ 
+#### Seniorkom: 
+
+Har gått gjennom alle potensielle nye medlemmer - fått vite at tre stk blir med etter sommeren. Det er bra!  
+ 
+Jobber med utmatrikulering - leter etter noen som kan være ordstyrer - folk kan si ifra om de vet noe. 
+ 
+Teambuilding 31. mars.  
+
+#### Leder og nestleder:  
+Møte med "En psykt normal uke".  
+Stand på mandag - stand og foredrag på tirsdag - kurs med SIT onsdag og torsdag - gjøre noe på kontoret onsdag eller torsdag.  
+ 
+TH har skrevet artikkel til Offline.
+
+#### ITV: 
+Nada.
+
+## 285 Interkom (10 min) 
+Noen lurte på om mange gikk tidlig inn på X-fest? Nei, det var bare arrkommere som var inne tidlig.  
+
+
+## 286 Forespørsler som har kommet på e-post (5 min) 
+StartIT - vil ha en intensjonsavtale (det vi har tenkt til å ha med), pluss en samarbeidsavtale.  
+ 
+Forum på OW - kunne vært en fordel. Vi har også Slack og Piazza, men Håkon tar det opp i dotkom.  
+Kanskje appkom kan gjøre det?  
+Lage en egen wiki?   
+ 
+ 
+Sponsor - mest relevant for ontap, X-sport, C#. Eirik sender mail til alle.  
+ 
+
+## 287 Ukens infomail og Facebook (5 min)  
+
+Sverre vil ha noe på infomail - fiksed.  
+ 
+Blæste raveparty. 
+ 
+Alle må slenge inn ting!
+
+## 288 Eventuelt (10 min)
+* Abakus' jubkom trenger røykvakter  
+De får dalje! Ikke mat. Men må være edru i to timer. Hvordan finne fire stykker? Alle hører med komiteene sine om de vil stille.
+22.30 - 00.30 - Scandic Lerkendal. Gå i det de vil. 18. mars.
+ 
+* Datakameratene FK  
+De trenger 2000 ekstra for baner. Det er ikke nok med det de har. Vi støtter dem.  
+
+## 289 Møteevaluering/Diggepunkt (5 min)
+
+## 290 Gjøremål
+* TH skal sørge for at avtaler som går over flere år (StartIT) er lett tilgjengelig for neste HS
