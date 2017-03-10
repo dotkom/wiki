@@ -28,11 +28,11 @@ Samle og forene linjeforeningens medlemmer som har interesse av strikking og dri
 Så lenge det finnes informatikere som ønsker å samles for å strikke og drikke, vil gruppen eksistere. 
 
 §3 Gruppens navn
-Strikk & drikk
+Strikk & drikk  
 
 §4 Gruppens sammensetning
-Leder
-Nestleder
+Leder 
+Nestleder  
 
 ###Historie
 Strikk & drikk ble opprettet av Agnete Djupvik med god hjelp fra trikom vårsemesteret 2017. Første møte ble holdt på kontoret 9. mars samme semester. Det var meget godt oppmøte med både strikkere fra Online og Abakus.
