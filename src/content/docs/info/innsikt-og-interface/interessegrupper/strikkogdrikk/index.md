@@ -11,13 +11,13 @@ Strikk og drikk er interessegruppen for de strikkeglade sjelene i Online. Om du 
 
 Under er en liste over medlemmer i gruppen.
 
-Leder: 
-Nestleder:
-Strikkeinstruktør:
-Drikkeinstruktør:
-Pinneoppmann:
-Garnnøstetriller:
-Maskefanger:
+Leder:   
+Nestleder:  
+Strikkeinstruktør:   
+Drikkeinstruktør:   
+Pinneoppmann:   
+Garnnøstetriller:   
+Maskefanger:   
 
 ### Retningslinjer
 
