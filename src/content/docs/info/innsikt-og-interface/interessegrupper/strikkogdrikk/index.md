@@ -21,16 +21,16 @@ Maskefanger:
 
 ### Retningslinjer
 
-§1 Gruppens formål
+§1 Gruppens formål    
 Samle og forene linjeforeningens medlemmer som har interesse av strikking og drikking.
 
-§2 Gruppens eksistens
+§2 Gruppens eksistens    
 Så lenge det finnes informatikere som ønsker å samles for å strikke og drikke, vil gruppen eksistere. 
 
-§3 Gruppens navn
+§3 Gruppens navn    
 Strikk & drikk  
 
-§4 Gruppens sammensetning
+§4 Gruppens sammensetning    
 Leder 
 Nestleder  
 
