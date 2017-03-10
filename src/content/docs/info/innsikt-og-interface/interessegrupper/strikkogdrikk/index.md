@@ -33,7 +33,7 @@ Så lenge det finnes informatikere som ønsker å samles for å strikke og drikk
 Strikk & drikk  
 
 §4 Gruppens sammensetning    
-Leder 
+Leder    
 Nestleder  
 
 ###Historie
