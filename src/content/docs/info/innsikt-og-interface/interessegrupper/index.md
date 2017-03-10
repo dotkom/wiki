@@ -14,3 +14,4 @@ title: "Interessegrupper"
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
 - [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
+- [Strikk og drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
