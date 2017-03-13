@@ -31,8 +31,6 @@ Om du har en sak du vil at Hovedstyret for perioden 17/18 skal fokusere på, og 
 
 Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen, 3. april. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-I år kommer Hovedstyret til å foreslå en omskriving av alle vedtektene, vi ber derfor om at alle vedtektsforslag skrives til å passe både de nåværende og de eventuelt nye vedtektene, skulle de bli godkjent av generalforsamlingen.
-
 Det vil ikke være mulighet til å gjøre endringer på vedtektene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld]() 30. mars i ???. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2017/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
