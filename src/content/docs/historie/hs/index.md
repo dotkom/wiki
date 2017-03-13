@@ -5,7 +5,7 @@ title: "Hovedstyret"
 Hovedstyret består av leder, nestleder og alle komitelederne.
 Hovedstyret står for videreutvikling og daglig drift av linjeforeningen.
 For å se hvem som har sittet i Hovedstyret gjennom tidene, ta en titt på
-Onlines [[historie](https://no.wikipedia.org/wiki/Online_(linjeforening)].
+Onlines [historie](https://no.wikipedia.org/wiki/Online_(linjeforening).
 
 Videreutvikling av Online
 -------------------------
