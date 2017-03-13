@@ -1,0 +1,235 @@
+---
+title: "Hovedstyrets nodekomiteene-har-hatt-opptak-møte"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering: ** Taran
+
+**Referering: ** Sklirg
+
+**Tilstede:** TH, Kristiane, Sklirg, Didrik, Taran (trikom), Ingrid, Andrea, Hajem, Sander
+
+**Mangler:** Bjerke (replaced), Wiker
+
+## 291 Godkjenning av innkalling, servering og referat 
+
+Sen innkalling, godkjent servering, ikke lagt ut offentlig referat.
+
+## 292 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+Står bra til. Mange arrangement er OK.
+
+Ønsker å flytte datoen for låvefest med Nabla da 2. klasse har noe obligatorisk opplegg den dagen. Arrkom antar sterkt oppmøte fra 2. klasse, og vil derfor flytte arrangementet. Skal fikse møte med Nabla for å spikre en dato ASAP, ettersom semesteret er veldig fullt allerede.
+
+Studenterhytta er good. Det er ønske om å finne ny meny ettersom maten tidligere år har vært tørr. Det ble servert lam sist gang, og det var godt. Skal prøve å få servert lam.
+
+##### Velkom:
+
+Første møte er i morgen.  De er 12 stk. inkl. leder og nestleder. Har fått wikitilganger. Skal legges til e-postlista. Sander blir med på det første møtet hvis det passer, men han er klar på at han ikke vil legge føringa, og faktisk la komiteen styre seg selv. Møtet er kl. 10. Sander blir ikke med.
+
+ Johannes har satt opp agenda for møtet, i samarbeid med Sander. Sander blir med neste uke for å legge en langtidssplan. Fride kan sikkert og bli med. Velkom skal sikkert bli kjent med hverandre.
+
+Diggepunkt: Velkom kom kjapt i gang.
+
+
+#### Bankom:  
+
+Skjedd lite. Sett på datoer til revidering av regnskap slik at alt blir klart innen økonomi og vedtektskvelden (30. mars). Skal være ferdig innen 26. mars. Forhåpentligvis før?
+
+Bankom har fått toner til printern.
+
+#### Bedkom, med ITEX:  
+
+
+Bookingrunden: 
+Har fått inn en del ønsker. Mangler svar fra noen. Bookingrunden er ferdig på fredag.
+
+Ettersom kommende semester (høst 2017) blir trant har bedkom diskutert å gå ned på antall arrangementer. Semesteret er trangt pga. semesterstart er en uke senere enn vanlig og UKA har mye eksklusivitet. 
+
+En i bedkom blir med i velkom. Marius Aarsnes.
+
+Osloturen gikk **veldig** bra. 
+
+Bedkom har ønsker om å revidere tilbakemeldingsskjemaet de bruker etter bedriftspresentasjoner. Kanskje mer avkrysning enn tilbakemelding? Mange skriver bare punktum eller ja/nei i tekstfeltene. 
+
+
+##### ITEX
+
+Itex er i gang. Prøve å få flere bedrifter og gi folk valg om besøk til f.eks. konsulentbedrifter og ikke-konsulentbedrifter på en dag til dagsbasis 
+
+Bedkom vurderer å få inn itex i produktarket siden det er veldig "hemmelig" nå.
+
+Prøver å se på alternativ for returbilletter slik at folk kan dra hjem på egenhånd hvis de vil, f.eks. om de ønsker å bli i Oslo over helga etter itex. 
+
+
+#### Dotkom, med appkom:
+
+Prosjekter tikker og går.
+
+* Genfors ble jobbet litt med igjen sist uke.
+* Arrangementsregistreringssystemet har startet på en redesign.
+
+Sklirg tok opp et punkt på å prøve å forbedre dotkom sine rutiner på arbeidskveld etter det har blitt lagt merke til at folk har jobbet med det samme problemet over flere uker. Målet her er å forbedre "oppstart og avslutning" av arbeidsøktene, slik at man lettere kan gjenoppta arbeid neste arbeidskveld. Blir noe a la et individuelt stand up-møte [scrum]. Prøves ut.
+
+Skal sosialisere med webkom i abakus.
+
+Sklirg har send ut forespørsel om innspill til genfors-stemmesystemet og et komiteopptakssystem til HS.
+
+Dotkom planlegger et nytt hackathon for å få ferdig genfors-systemet til genfors. Sklirg sitt ønske er at det er klart til 30. mars (økonomi og vedtektskvelden).
+
+Har tenkt litt på bildegallerisystemet prokom har etterspurt, og skal prøve å få sett på det når vi har ledige folk.
+
+Planlegger fortsatt en teambuilding.
+
+#### Fagkom, med ekskom:  
+
+Var på hyttetur i helga, og skal ha teambuilding med abakus-fagkom i dag. 
+
+Computas-kurs gikk bra.
+
+Alt er klart til BEKK på onsdag.
+
+Fagkom ønsker midtsemesterforelesning i OOP med Åsmund. Han har foreslått å holde OOP eller statistikk (?), men fagkom vil at han skal holde OOP. De har en annen som kan holde statistikk (?). Åsmund er flink i OOP. <3
+
+
+##### Ekskom:
+
+* Ekskom17: Reisen for i år er betalt.
+
+* Ekskom18 har tatt opp 5 stk. De er nå 7 stk. De har startet et ekstraopptak siden de er litt få. Varer ut neste uke. 
+
+#### Prokom:  
+
+Har avholdt Linjeredaksjonskonferansen. Offline tok initiativ.
+
+Gullblekka avholdes 20. mars. 
+
+Prokom har startet på årboka, og de prøver å bli ferdig til før eksamensperioden.
+
+De har også sett på merch. Foreløpig top secret. 
+
+Thor Håkon vil gi innspill til årboka til HS. [Ref.anm. tror TH savner prokom.]
+
+#### Trikom:  
+
+Trikom hadde teambuilding i helga. 
+
+Alt er klart til strikk og drikk på torsdag.
+
+Trikom leter etter lokaler til bli kjent-festen. 
+
+Forrige møtet slukket trikom lyset og testet Code in the dark. Det ble rapportert at det gikk bra, men referent lurer på hvor mye som faktisk ble gjort på møtet. Trikom gleder seg til å avholde arrangementet for alle (10) som vil.
+
+Trikom prøvde å starte en smash turnering igjen. Folk taper nå på walk over hvis de ikke stiller en runde. 
+
+Det ønskes blesting av turneringen [ref.anm. visste ikke at det var en smash turnering engang!! mer blest!!]! Det er ønske om å få folk til å være tilskuere (spesielt) på kampene fra semifinale og oppover til finalen i turneringen. Det foreslås bilder på instagram og facebook, samt en facebookpost for å informere om finalene.
+
+Trikom ga kontorvaktene som skal på ekskursjon fri under ekskursjonen. #GoodGuyTrikom.
+
+Trikom har kjøpt tre trebord til kontoret. (Det var litt usikkerhet om det var *tre bord* eller *[ett] trebord*. Trikom oppklarte ved å telle til tre (en (1), to (2), tre (3)) Referent synes det var for informativt og antar at det er snakk om tre trebord.)
+
+Trikom vurderer å ha en månedens kontør [ref.anm. les: "kontorperson"] som de kan dele ut til folk som gjør noe bra på eller for kontoret.
+
+#### Seniorkom: 
+
+Seniorkom har trakassert folk for å få dem med i seniorkom. 5 har svart ja og 3 kanskje (eller motsatt).
+
+Jobber med utmatrikulering. Har fått deltakerliste med e-postadresser. Jobber med budsjettet (se eget punkt #295).
+
+
+#### Leder og nestleder:  
+
+TH har egentlig bare tenkt på gaven til abakus.
+
+Skryt til HS for utrolig fyldig status.
+
+Nestleder er ikke her.
+
+#### ITV: 
+
+Ikke her.
+
+## 293 Interkom (10 min) 
+
+Sliter med å se forskjell på interkom og eventuelt.
+
+TH svarer: 
+
+* Interkom er beskjeder til flere komiteer.
+* Eventuelt er diskusjon om saker som (i stor grad) kom opp under møtet.
+
+## 294 Noens møtepunkt
+
+Noen hadde rapportert inn et møtepunkt på Slack. Ingen tar ansvar. [ref.anm. Kanskje fordi noen™ innså at møtepunkt ikke skal innrapporteres på Slack?]
+
+*Dette punktet er nå HS sitt teambuildingspunkt.*
+
+HS vil spise noe før reboot (som teambuilding). 
+
+Etter en unødvendig lang diskusjon om spisestedene ved Nidelv klubbhus bestemte HS seg for å spise på Bror. @Erik reserverer bord.
+
+## 295 Støtte til utmatrikulering [ingrid] (200 min)
+
+Seniorkom har søkt HS om penger til utmatrikulering. Grunnen til dette er at det er mange ting som koster per hode (mat, billettavgift, vakter, m.m.). Ettersom seniorkom estimerer flere utmatrikulerte studenter i år enn i fjor blir da utgiftene høyere. Seniorkom har ikke kapital til å legge ut for utgiftene selv, og søker derfor ekstra spons fra Online.
+
+Seniorkom ønsker at arrangementet skal være gratis for de utmatrikulerte studentee, og forventer at gjestene skal betale for studentene. Seniorkom regner med 1,5 gjest per student.
+
+I fjor kostet det 550 kr per gjest. Per nå, i år, koster det 750 kr per gjest.
+
+
+Utmatrikuleringen fikk 10.000 kr i spons fra Online i fjor. 
+
+TH lurer på om det er lagt inn spons til utmatrikuleringen i budsjettet til HS. Bankom sjekker. Online har ingen slik spons lagt inn i budsjettet for inneværende semester.
+
+Det diskuteres om hvor mye spons seniorkom trenger. 
+
+Seniorkom ønsker å gå i 0. I budsjettet sitt har de regnet med spons fra Online og bedrift. Per dags dato forventes det 100.000 kr inn fra gjester (billettinntekter). Det forventes altså 138 gjester. (Antar hver student har med seg 2 gjester (mer enn i snitt i fjor)). TH foreslår at Online sponser med 20.000 kr. Da blir prisen 650 kr per pers. 
+
+Hajem sier vi har nok penger til å legge ut for dette. Kristiane sier at HS ikke bare kan ta penger. TH sier at HS kan vedta det. 
+
+Sidepunkt: Er Onlinere fornøyd med at HS bruker penger på utmatrikuleringen? Forhåpentligvis, siden det er for alle med master (og vil da gjelde fremtidige masterstudenter også). 
+
+Seniorkom vil gjerne ha 10.000 kr til (totalt 30.000 kr) for å presse prisen ned for å få med fler så det trengs mindre spons. Pengene brukes på mat, vakter og hoopla-avgift [ref.anm. billettsystem].
+
+HS vedtar å sponse utmatrikuleringen med 30.000 kr.
+
+Sklirg spør om hvorfor seniorkom bruker Hoopla til utmatrikuleringen når det koster 20 kr per billett. Seniorkom svarer: Vi bruker hoopla fordi de brukte det i fjor etter en diskusjon. Kan bli vanskelig å få folk til å lage bruker på OW4 bare for å kjøpe billett. 20 kr hoopla avgift (hvis pris under 700 kr) mot ~10 kr på OW4 (1.4% av billettpris, + 20 øre [kilde](https://stripe.com/blog/pricing-update-for-europe)).
+
+Blir diskutert å bruke Stripe på OW4 uten OW4-bruker, men det er litt teit når man må duplisere masse informasjon. Dotkom foreslår å sende en e-post om det til dotkom dersom det er ønske om å se på saken til neste år.
+
+## 296 Forespørsler som har kommet på e-post (5 min) 
+
+
+## 297 Ukens infomail og Facebook (5 min)  
+
+
+## 298 Eventuelt (10 min)
+
+* Innspill til eletronisk stemmesystem til genfors 
+    * Lite innspill. (Hei du! Ja, du! Du som leser det her. Hvis **du** har innspill til stemmesystemet som skal brukes på generalforsamlingen, skyt av gårde en e-post til dotkom@online.ntnu.no!)
+    * Det må funke minst like bra på forsiden som det forrige.
+    * Det kan få lov til å fungere bedre enn det gamle på baksiden.
+* Komiteopptakssystem
+    * Man skal kunne velge tre komiteer (som man søker til)
+    * Skal kunne skrive en søknadstekst til hver komité (eller én samlet, eller én samlet og en til hver komité).
+    * Inkludér "Om komiteer" på søknadsportalen.
+    * Enten så skal [hele] HS ha tilgang, eller bare Online-leder og Online-nestleder.
+        * Kanskje mulighet for å [enkelt] velge hvem som skal ha tilgang?
+        * Komitéledere kan se egne søknader, Online-[nest]leder kan se alle.
+    * Videre feature: "Kaballøser" for intervjukabalen (inkludert e-postutsending)
+    * Dotkom skal i utgangspunktet ikke ha tilgang til visningen. Kan være behov ved eventuell feilsøking. Skal i så fall ta kontakt med HS for å spørre om tilgang.
+        * Kanskje man kan skjule visse felt for ikke-HS eller noe (typisk søknadsteksten), eller bare vise visse deler av teksten (første x characters?). Kun fornavn på folk, kun forbokstaver (initialer?) e.l.
+    * Å prioritere komiteer bør kanskje være valgfritt. Ikke alle ønsker å prioritere komiteene. Noen ønsker å prioritere komiteer.
+    * Lavt antall klikk for å sende e-poster til søkere. Burde være e-postadresse i oversiktssiden.
+* Hajem har sett på sparekonto hos dnb til sparegrisen til Online
+    * TH vil ha indeksfond
+
+
+## 299 Møteevaluering/Diggepunkt (5 min)
+
+## 300 KAKEPUNKT
+
+## 301 Gjøremål
