@@ -23,8 +23,9 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 * *dotKom:* 
 * *fagKom:* 
 * *proKom:* 
-* *triKom:* 
-Vennligst merk at:
+* *triKom:*  
+
+**Vennligst merk at:**
 
 * Denne listen vil *oppdateres kontinuerlig* frem til genfors ettersom folk bestemmer/ombestemmer seg.
 * *Man trenger ikke stå på listen* for å stille til et Hovedstyreverv, det vil fremdeles være åpent for benkeforslag på generalforsamlingen.
