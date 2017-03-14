@@ -12,8 +12,9 @@ title: "Kandidater 2017"
 
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
-For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret til neste år. Følgende personer har *meldt at de har interesse* av å stille til Hovedstyreverv på generalforsamlingen.
+For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret i perioden 17/18. 
 
+**De som har meldt interesse er:**
 
 * *Leder:*    
 * *Nestleder:* 
@@ -27,6 +28,6 @@ For å ha mer åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget
 
 **Vennligst merk at:**
 
-* Denne listen vil *oppdateres kontinuerlig* frem til genfors ettersom folk bestemmer/ombestemmer seg.
-* *Man trenger ikke stå på listen* for å stille til et Hovedstyreverv, det vil fremdeles være åpent for benkeforslag på generalforsamlingen.
-* Man må ha *hatt et verv i Online* i minst ett semester for å kunne bli valgt inn i Hovedstyret på genfors.
+* Denne listen vil *oppdateres kontinuerlig* frem til generalforsamlingen ettersom folk bestemmer og ombestemmer seg.
+* *Du trenger ikke stå på listen* for å stille til et verv i Hovedstyret, det vil fremdeles være åpent for benkeforslag på generalforsamlingen.
+* Du må ha *hatt et verv i en kjernekomité i Online* i minst ett semester for å kunne bli valgt inn i Hovedstyret på generalforsamlingen.
