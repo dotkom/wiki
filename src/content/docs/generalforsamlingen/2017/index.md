@@ -12,15 +12,14 @@ title: "Generalforsamlingen 2017"
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter finner du [her](/wiki/71/plugin/attachments/download/71/)  
-Referat fra generalforsamlingen 2016 finner du her:
+Referat fra generalforsamlingen 2016 finner du [her](ReferatfraOnlinesgeneralforsamling2016_signert.pdf).
 
 # Regnskap 2016 og budsjett 17/18
 
-[Regnskap 2016]()     
-[Budsjett 17/18]()    
+Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart, og før økonomi- og vedtektskvelden 30. mars.
 
 # Referat fra årets generalforsamling
-Årets referat finner du her: [attachment:335]
+Referat fra årets generalforsamling vil bli publisert etter generalforsamlingen.
    
 
 # Informasjon
