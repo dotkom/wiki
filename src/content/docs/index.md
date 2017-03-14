@@ -76,6 +76,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [IT-Ekskursjonen](/wiki/online/historie/itex)
 - [Offline](/wiki/online/offlines-historie/)
 - [Generalforsamlingen](/wiki/online/generalforsamlingen)
+- [Økonomi- og vedtektskvelden](/wiki/online/okogved)
 - [Kontoret](/wiki/online/kontoret)
 - [Boden på Moholt](/wiki/online/bodenpaamoholt)
 - [Realfagskjelleren](/wiki/online/realfagskjelleren)
