@@ -18,7 +18,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 * *Leder:*    
 * *Nestleder:* 
-* *Arrkom:* 
+* *Arrkom:* Eivind Rydningen
 * *Bankom:* Christoffer Lofsberg
 * *Bedkom:* 
 * *Dotkom:* Anders Larsen, 
