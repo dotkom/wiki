@@ -21,7 +21,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Arrkom:* Eivind Rydningen
 * *Bankom:* Christoffer Lofsberg
 * *Bedkom:* 
-* *Dotkom:* Anders Larsen, 
+* *Dotkom:* Anders Larsen, Aslak Hollund
 * *Fagkom:* 
 * *Prokom:* Endre Ulberg,
 * *Trikom:*  Taran Ruge
