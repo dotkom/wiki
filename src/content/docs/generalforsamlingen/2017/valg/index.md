@@ -19,7 +19,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Leder:*    
 * *Nestleder:* 
 * *arrKom:* 
-* *banKom:* 
+* *banKom:* Christoffer Lofsberg
 * *bedKom:* 
 * *dotKom:* 
 * *fagKom:* 
