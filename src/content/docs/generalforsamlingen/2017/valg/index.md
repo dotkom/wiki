@@ -23,7 +23,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *bedKom:* 
 * *dotKom:* 
 * *fagKom:* 
-* *proKom:* 
+* *proKom:* Endre Ulberg,
 * *triKom:*  
 
 **Vennligst merk at:**
