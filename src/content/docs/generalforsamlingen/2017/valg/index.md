@@ -24,7 +24,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Dotkom:* Anders Larsen, 
 * *Fagkom:* 
 * *Prokom:* Endre Ulberg,
-* *Trikom:*  
+* *Trikom:*  Taran Ruge
 
 **Vennligst merk at:**
 
