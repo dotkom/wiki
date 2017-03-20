@@ -15,10 +15,10 @@ Online skal gjenkjennes ved bruk av Online-logoen med lynet på. Sammen med den 
 For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønsker Online at alt av plakater designes av proKom. Ved bedriftspresentasjoner og kurs hender det noen ganger at bedriftene likevel ønsker å lage plakat selv, og noen ganger trenger andre komitémedlemmer eller linjeforeninger å bruke logoen til samarbeidsprosjekter. Til disse tilfellene har vi her satt opp noen retningslinjer for bruk av Online-logoen:
 
 
-* Bruk blå logo på lys bakgrunn.
-* Bruk hvit logo på mørk bakgrunn.
-* **Ikke** sett skygge bak logoen.
-* Ikke plassér logoen for tett innpå andre logoer og grafiske elementer.
+* Bruk blå logo på hvit bakgrunn.
+* Bruk hvit logo på farget/mørk bakgrunn.
+* Ikke sett skygge bak logoen.
+* Ikke plassér logoen tett innpå andre logoer og grafiske elementer.
 * Logoens proporsjoner skal bevares.  
 * Ikke bruk logo med gradient. Denne har vært i bruk før, men er nå tatt ut av profilen.
 
@@ -60,9 +60,8 @@ Hex: #0060A3
 
 Alternativer til denne fargen hvis du ønsker en mørkere farge (til for eksempel Onlinesplashen osv):  
 
-- #07244C  
-- #033A7F  
-- #063B94
+* \#07244C
+* \#033A7F
 
 **Online-oransje:**  
 PMS: 143 EC  
