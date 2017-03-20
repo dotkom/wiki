@@ -19,7 +19,8 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 * Bruk hvit logo på mørk bakgrunn.
 * **Ikke** sett skygge bak logoen.
 * Ikke plassér logoen for tett innpå andre logoer og grafiske elementer.
-* Logoens proporsjoner skal bevares.
+* Logoens proporsjoner skal bevares.  
+* Ikke bruk logo med gradient. Denne har vært i bruk før, men er nå tatt ut av profilen.
 
 ## Grafikkfiler
 
@@ -28,17 +29,12 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 ### Onlinelogo
 
 
-* [attachment:123] - Onlinelogo, blå med gradient.
 * [attachment:124] - Onlinelogo, blå uten gradient.
-* [attachment:126] - Onlinelogo, hvit med gradient.
 * [attachment:127] - Onlinelogo, hvit uten gradient.
 
 ### O-med-lyn-logo
 
-* [attachment:130] - O-logo, blå med gradient.
 * [attachment:129] - O-logo, blå uten gradient.
-* [attachment:128] - O-logo, hvit med gradient.
-* [attachment:131] - Spesiallogo til 25årsjubileum!
 
 ### Komitésymboler
 
