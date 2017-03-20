@@ -1,0 +1,161 @@
+---
+title: "Hovedstyrets Abakus-har-jubileum-gratulerer-møte"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering: ** TH
+**Referering:** Erik 
+
+**Vinstraff:** 
+
+**Ølstraff:** 
+
+**Tilstede:** Hajem, Wiker, Thor Håkon, Sander, Aslak, Emil, Andrea, Taran, Kristiane, Ingrid
+
+**Mangler:** 
+
+## 302 Godkjenning av innkalling, servering og referat 
+
+Godkjent
+
+## 303 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+  - Låvefest: 6. april. 
+    - Låven er booket
+    - Ikke lov med medbragt hvis kjelleren skal servere
+    - Bakdeler: Mye å frakte drikke til 200 folk, kan bli mye kø
+    - Skal høre om realfagskjelleren kan servere
+    - Sander vil helst satse på medbrakt -> Kjipt hvis baren går tom for drikke hvis ingen har med selv. 
+    - Skal ordne biler/busser
+  - Sushikurs: Fullt
+    - Alt er i orden
+    - Han som holder kurset blir kanskje med på neste arrkom-møte
+  - Klatring: Er i orden
+    - Skal bleste på facebook / ow
+    - Er flere som sikrer enn forrige gang.
+  - Vors/nach: Planlegges  
+    - Wienerpølser blir.
+  - Skiarrangement: 21. april
+    - Blir på lianvatnet.
+    - Grilling og lavvo  
+  - Reboot: Gikk veldig bra
+  - Åre: Mulig det blir samarbeid med abakus siden det er ski week den uka.
+  - Velkom: Første møte på onsdag. 
+
+#### Bankom:  
+
+  - Er helt ferdig med intern revidering.
+
+#### Bedkom, med ITEX:  
+
+  - Bedkom blir 20 år neste år!  
+  - Komitéopptak: Bedkom synes det er enklest å ta søknader på mail. 
+
+#### Dotkom, med appkom:
+
+  - Relativt enkelt å få til komitésøking på OW4. 
+    - Da blir det et enkelt skjema som fylles ut og sender mail.
+    - Hvis det skal gjøres vanskeligere vil det ta mye mer tid som heller kan brukes på mer aktuelle saker.
+  - Dotkom skal ha to nye hackatons for å fikse system til genfors
+  - OW4 overflow anser dotkom som et prosjekt som kommer til å gi for lite gevinst mot tiden det kommer til å ta.  
+  - Teambuilding på onsdag
+  - Snakker med abakus webkom ang samarbeid -> de er positive til det
+  - Åpne wikien for alle medlemmer av ow
+    - Tar litt tid siden alle hender er på genfors-systemet. 
+    - Vil sette opp selektive varsler på endringer som blir gjort
+    - Dette er aktuelt for interessegrupper spesielt. 
+
+#### Fagkom, med ekskom:  
+  - Bookingrunde-møte blir i morgen  
+  - Midtsemesterforelesning i java på lørdag med Åsmund.
+  - Ekskom skal på tur om 3 uker, alt er klart
+
+#### Prokom:  
+
+  - Har skrevet artikkel om onTaps første kurs
+  - Fått ny redaktør-assistent
+  - Hadde idémyldingskveld forrige tirsdag, litt blandet suksess der.
+  - Offline kommer snart
+
+#### Trikom:  
+
+  - Strikk og drikk: Gikk bra
+  - Sendt mail om at kontorvakter avsluttes etter påsken
+  - Dropper bli-kjent-festen: Ikke tid
+    - Blir nok etter immballet en gang  
+  - Planlegger oppussing av kontoret
+    - Skjer antagelig uken før fadderukene
+    - Må rydde boden for unødvendig stuff
+
+#### Seniorkom: 
+
+  - Hadde ikke møte forrige uke
+  - Jobber med å få ordnet utmatrikkuleringen
+
+#### Leder og nestleder:  
+  Fiksa gaver, ski og boks.
+
+#### ITV: 
+
+
+## 304 Interkom (10 min) 
+
+## 305 Merch (2 min) 
+
+  - Prokom fikser
+
+## 306 Genfors (15 min)
+
+  - Innkalling til genfors og økonomi og vedtektskveld bør sendes ut så fort som mulig og ihvertfall denne uken.
+  - Vi skal gå gjennom vedtektene og retningslinjene, og se om det er noe vi vil endre på.   
+  - Til neste gang: Lese seg opp på vedtektene.
+  - Sender ut innkalling på onsdag
+  - Må skrive årsberetning før genfors  
+  
+## 307 Fond (15 min)
+
+  - Hajem har sett på ulike steder å sette pengene våre. 
+    - 1. Fastrente innskuddskonto
+      - Binding i ett år
+      - Rente 1.7%
+      - Må avgjøre hvor mye som skal settes inn
+    - 2. Fond
+      - Har sett på DNB sine fond:
+        - Bankom må sette seg ned å lese opp det spesifikke om hver ordning
+        - Skal ta kontakt med kontakpersonen vår i DNB
+
+    Bankom skal se på flere muligheter. Skal ha noen muligheter til økonomi- og vedtektskvelden.
+    
+  
+
+## 308 Forespørsler som har kommet på e-post (5 min) 
+
+  - Tekna: 
+    - Sendes til bedkom
+  - Kontortilgang til CaG: 
+    - Vi sier det er greit
+  - Arbeidsgruppe for inkludering av internasjonale studenter
+    - Informasjon gies, vi skal sette ned en arbeidsgruppe snart
+  - Emil
+    - Han hører med arrkom om de kan fikse det
+    - Ballene som ble sponset ligger i boden
+    - Barnegym var en suksess
+
+## 309 Ukens infomail og Facebook (5 min)  
+  - Infomail: Genfors og økonomi og vedtektskveld
+  
+
+## 310 Eventuelt (10 min)
+  - Synge bursdagssang for aslak: Gjør det så kleint som mulig Oh god så sykt kleint, we did it guise
+  - Emil: 
+    - Få inn bilder på sushi-kurs og klatring
+    - Klatring vises ikke på fremsiden
+
+## 311 Møteevaluering/Diggepunkt (5 min)
+
+  - God servering -> Thor håkon selvdigger
+
+## 312 Gjøremål
