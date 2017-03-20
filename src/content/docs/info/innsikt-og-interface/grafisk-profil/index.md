@@ -17,7 +17,7 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 * Bruk hvit logo på farget/mørk bakgrunn.
 * Ikke sett skygge bak logoen.
 * Ikke plassér logoen tett innpå andre logoer og grafiske elementer.
-* Hvis du skal sette logoen i et hjørne, ha minst 2cm og helst lik avstand fra kantene på både x- og y-aksen.
+* Hvis du skal sette logoen i et hjørne, ha _minst_ 2cm og helst lik avstand fra kantene på både x- og y-aksen.
 * Logoens proporsjoner skal bevares.  
 * Ikke bruk logo med gradient. Denne har vært i bruk før, men er nå tatt ut av profilen.
 
