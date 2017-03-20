@@ -59,8 +59,9 @@ RGB: 0 96 163
 Hex: #0060A3  
 
 Alternativer til denne fargen hvis du ønsker en mørkere farge (til for eksempel Onlinesplashen osv):  
+
 * #07244C  
-* #033A7F
+* #033A7F  
 * #063B94
 
 **Online-oransje:**  
