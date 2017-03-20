@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2017-03-13](20170313) - Hovedstyrets Abakus-har-jubileum-gratulerer-møte
 - [2017-03-06](20170306) - Hovedstyrets nodekomiteene-har-hatt-opptak-møte
 - [2017-02-27](20170227) - Hovedstyrets lets-get-wild-møte
 - [2017-02-20](20170220) - Hovedstyrets fire-arrangement-på-en-uke-møte
