@@ -58,7 +58,7 @@ title: "Dagsorden 2017"
 
 * 14 Innsendte saker og vedtektsendringer
      * 14.1 Saksforslag
-     * [Saksliste finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/saksliste/)
+     * [Saksforslag finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/saksforslag)
          
     * 14.2 Vedtektsforslag  
 
