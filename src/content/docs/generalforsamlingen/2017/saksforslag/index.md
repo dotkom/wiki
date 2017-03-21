@@ -34,3 +34,7 @@ Teambuildingsbudsjettet for hver kjernekomité og nodekomité økes til 150kr * 
 
 _Hvorfor?     
 Teambuildingsbudsjettet har stått stille i mange år nå, mens prisen på tjenester/varer har økt. Kjøpekraften relatert til teambuilding har i realiteten sunket._
+
+### Forslag 3 (Signe Elise Livgard)
+
+Under generalforsamlingen skal det settes av tid (foreslått: 30 min) til å evaluere sittende hovedstyre, hvor medlemmene får mulighet til å stille spørsmål. Hovedstyremedlemmenes valgsaker fra forrige generalforsamling kan tas opp, og hovedstyremedlemmene får mulighet til å svare for hvordan arbeidet med valgsakene har blitt utført og oppfylt. Dette bør skje før valg av nytt hovedstyre.
