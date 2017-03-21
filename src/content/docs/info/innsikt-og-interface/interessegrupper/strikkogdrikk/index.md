@@ -9,6 +9,12 @@ Strikk og drikk er interessegruppen for de strikkeglade sjelene i Online. Om du 
 
 Det finnes en egen kanal på slack for gruppens medlemmer, kalt #strikkogdrikk. Facebookgruppen finner du [her](https://www.facebook.com/groups/425451887789051/?fref=ts).
 
+Utstyr
+------------------
+- [Utlån av strikkepinner](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/utlaan/)
+
+Om interessegruppen
+------------------
 ### Nåværende medlemmer
 
 Under er en liste over medlemmer i gruppen.
