@@ -7,7 +7,7 @@ Strikk & drikk
 
 Strikk og drikk er interessegruppen for de strikkeglade sjelene i Online. Om du er mest glad i strikking eller drikking spiller ingen rolle, i denne interessegruppen er det rom for alle og enhver. Strikkingen tilpasses hvert enkelt nivå, og gruppen stiller med både pinner og garn til ditt første prosjekt. Drikke stiller du med selv, og her kan man nyte det som en selv måtte ønske. En kopp nytraktet kaffe, te, smoothie, kakao, vin, vann eller øl – det er opp til deg.     
 
-Det finnes en egen kanal på slack for gruppens medlemmer, kalt #strikkogdrikk.
+Det finnes en egen kanal på slack for gruppens medlemmer, kalt #strikkogdrikk. Facebookgruppen finner du [her](https://www.facebook.com/groups/425451887789051/?fref=ts).
 
 ### Nåværende medlemmer
 
