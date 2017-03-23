@@ -20,7 +20,7 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 * Martin Bjerke
 * Petter Rostrup
 * Marius Enerly
-* Andreas F. Eikeland (Leder)
+* Andreas F. Eikeland (Kjellersjef)
 * Sigurd Oxaas Wie (Økonomiansvarlig)
 
 ### 2016/2017
