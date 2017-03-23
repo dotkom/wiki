@@ -15,10 +15,26 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 
 ## Onlinere i Kjellerstyret
 
+###2017/2018
+
+* Martin Bjerke
+* Petter Rostrup
+* Marius Enerly
+* Andreas F. Eikeland (Leder)
+* Sigurd Oxaas Wie (Økonomiansvarlig)
+
+### 2016/2017
+
+* Martin Bjerke
+* Petter Rostrup
+* Marius Enerly (Økonomiansvarlig)
+* Andreas F. Eikeland
+* Sigurd Oxaas Wie
+
 ### 2015/2016
 
 * Martin Bjerke (Kjellersjef)
-* Petter Rostrup
+* Petter Rostrup (Nest leder)
 * Marius Enerly
 * Trine-Lise Helgesen
 * Andreas F. Eikeland
@@ -122,6 +138,4 @@ Disse reglene har som hensikt å sette visse begrensninger på bergingskulturen 
 * Bergingskjelleren kan holde på den bergede gjenstanden i inntil en måned.
 * Blir det forespurt om hvilken kjeller som har en eller flere bergede gjenstander, er kjellersjefen pliktig til å svare og å ha oversikt.
 * Når henting av bergede gjenstander skal forekomme er opp til kjellerne selv å avtale, men det skal senest være mulig å hente gjenstandene innen én uke etter bergingen har forekommet.
-* Hvis det ikke er blitt etterspurt, kan det leveres på O’Store kjellerfest. 
-
- 
+* Hvis det ikke er blitt etterspurt, kan det leveres på O’Store kjellerfest.
