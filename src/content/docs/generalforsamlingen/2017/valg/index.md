@@ -8,7 +8,6 @@ title: "Kandidater 2017"
 * [2017 Saksforslag](/wiki/online/generalforsamlingen/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2017 Vedtektsforslag](/wiki/online/generalforsamlingen/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2017 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2017/valg) - Er du klar for et verv i Hovedstyret?
----
 
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
