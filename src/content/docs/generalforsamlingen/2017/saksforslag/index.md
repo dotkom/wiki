@@ -25,17 +25,17 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 Ved valg hvor det stiller flere kandidater, byttes spørsmålsrunden ut med en åpen spørsmålsrunde etter alle kandidatenes appeller. Alle kandidater svarer på samme spørsmål og hører på hverandres svar. Det rulleres på hvem som starter med å svare. Antall spørsmål vil være tre ganger antall kandidater. (Kandidatene vil ikke høre hverandres apeller)    
 
- _Hvorfor?
+ _Hvorfor?_
 
-Spørsmålsrunden ved tidligere valg har enkelte ganger blitt brukt til useriøse spørsmål og negativt snakk om de andre kandidatene. Dette gjøres i flere seriøse organisasjoner og vil forhåpentligvis føre til mer fremsnakk av motkandidater og bedre svar._
+Spørsmålsrunden ved tidligere valg har enkelte ganger blitt brukt til useriøse spørsmål og negativt snakk om de andre kandidatene. Dette gjøres i flere seriøse organisasjoner og vil forhåpentligvis føre til mer fremsnakk av motkandidater og bedre svar.
 
 ### Forslag 2 (Christoffer Lofsberg)
 
 Teambuildingsbudsjettet for hver kjernekomité og nodekomité økes til 150kr * antall komitémedlemmer hvert semester. 
 
-_Hvorfor?
+_Hvorfor?_
 
-Teambuildingsbudsjettet har stått stille i mange år nå, mens prisen på tjenester/varer har økt. Kjøpekraften relatert til teambuilding har i realiteten sunket._
+Teambuildingsbudsjettet har stått stille i mange år nå, mens prisen på tjenester/varer har økt. Kjøpekraften relatert til teambuilding har i realiteten sunket.
 
 ### Forslag 3 (Signe Elise Livgard)
 
