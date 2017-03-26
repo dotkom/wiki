@@ -4,8 +4,6 @@ title: "Vedtektsforslag 2017"
 
 [TOC]
 
----
-
 * [2017 Forretningsorden](/wiki/online/generalforsamlingen/2017/forretningsorden) - Forretningsorden
 * [2017 Dagsorden](/wiki/online/generalforsamlingen/2017/dagsorden) - Dagsorden for generalforsamlingen
 * [2017 Årsberetninger](/wiki/online/generalforsamlingen/2017/aarsberetninger) - Årsberetninger
