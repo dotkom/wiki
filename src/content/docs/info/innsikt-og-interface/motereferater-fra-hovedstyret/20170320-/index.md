@@ -181,7 +181,6 @@ title: "HOVEDSTYRETS DU-VIL-IKKE-TRO-HVA-HS-GJORDE-PÅ-ABAKUS'-JUBILEUM-MØTE"
 
 ## 319 Forespørsler som har kommet på e-post (5 min) 
 
-    - Taes av velkom
 
 ## 320 Ukens infomail og Facebook (5 min)  
 
