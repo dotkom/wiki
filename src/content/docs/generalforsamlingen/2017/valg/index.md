@@ -21,7 +21,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Bankom:*
 * *Bedkom:* 
 * *Dotkom:* Anders Larsen, Aslak Hollund
-* *Fagkom:* Henrik Munkeberg
+* *Fagkom:* Henrik Munkeberg, Andreas Haugan Aursand 
 * *Prokom:* Endre Ulberg,
 * *Trikom:*  Taran Ruge
 
