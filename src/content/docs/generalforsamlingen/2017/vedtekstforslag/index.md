@@ -45,3 +45,45 @@ Linjeforeningen Online er en frivillig ideell interesseorganisasjon for studente
 _Hvorfor?_
 
 Vi er ikke en veldedig organisasjon, men en ideell.
+
+### Forslag 3 (Hovedstyret)
+
+** 1.2:**
+
+**Erstatt:**
+
+Navnekonvensjon for grupperinger
+
+**Med:**
+
+Grupperinger i linjeforeningen
+
+_Hvorfor?_
+
+Kapittelet handler om hvilke grupperinger som finnes i Online, ikke hva konvensjonen er at de kalles.
+
+### Forslag 4 (Hovedstyret)
+
+**4.3.6:**
+
+Ta ut 4.3.6 Applikasjonskomiteen fra vedtektene.
+
+_Hvorfor?_
+
+Applikasjonskomiteen prøvde å restarte seg selv denne våren, men fikk ikke nok medlemmer som var interessert i å være med. Leder for appkom har derfor kommet til konklusjonen at det ikke grunnlag for videre drift på nåværende tidspunkt. Om appkom vil starte opp igjen er det mulighet for at det opprettes en interessegruppe, om det er interesse for det blant medlemmene.
+
+### Forslag 5 (Hovedstyret)
+
+**5.1:**
+
+**Erstatt:**
+
+Studenter ved følgende studier kan bli medlem av linjeforeningen:
+
+**Med:**
+
+Studenter ved følgende studier har rett til å bli medlem av linjeforeningen:
+
+_Hvorfor?_
+
+Studenter ved studieretningene BIT og MIT har rett til å bli medlem av Online, det er ikke bare noe de kan. Ved at det står "kan" har i grunn Hovedstyret rett til å nekte studenter ved BIT og MIT adgang til linjeforeningen før de er blitt medlem. Vi kan, per lov, ikke tvinge studenter til å bli medlem av linjeforeningen, dette er et valg de må ta selv.
