@@ -37,8 +37,8 @@ title: "Dagsorden 2017"
     * 13.1 - Administrative
         * 13.1.1 - Hovedstyret
     * 13.2 - Komiteer
-        * 13.2.1 - Arrangementskomiteen
-        * 13.2.2 - Bank- og økonomikomiteen
+        * 13.2.1 - Bank- og økonomikomiteen
+        * 13.2.2 - Arrangementskomiteen
         * 13.2.3 - Bedriftskomiteen
         * 13.2.4 - Drifts- og utviklingskomiteen
         * 13.2.5 - Fag- og kurskomiteen
