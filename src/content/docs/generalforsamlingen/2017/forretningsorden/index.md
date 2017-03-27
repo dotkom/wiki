@@ -52,7 +52,7 @@ Når det er flere kandidater til ett verv skal kandidatene som ikke presenterer 
 Under følger reguleringer om forhandlinger under generalforsamlingen.
 
 ### 4.1. Debatt
-Debattene skal preges av gjensidig respekt og anerkjennelse. Møteleder kan utvide taletiden for delegater dersom det er nødvendig. Møteleder kan også beslutte begrensning i taletid dersom dette er nødvendig for å gi alle talere ordet innen den vedtatte tidsrammen, eller dersom taler ikke utviser saklighet eller respekt for sine meddebattanter i debatten som pågår.
+Debattene skal preges av gjensidig respekt og anerkjennelse. Ordstyrer kan utvide taletiden for delegater dersom det er nødvendig. Ordstyrer kan også beslutte begrensning i taletid dersom dette er nødvendig for å gi alle talere ordet innen den vedtatte tidsrammen, eller dersom taler ikke utviser saklighet eller respekt for sine meddebattanter i debatten som pågår.
 
 #### 4.1.1 Hovedinnlegg
 Hovedinnlegg tegnes ved visning av ark med deltakernummer. Til hovedinnlegg gis ordet for inntil 3 minutter.
