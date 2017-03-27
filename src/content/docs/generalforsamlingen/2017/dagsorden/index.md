@@ -20,7 +20,8 @@ title: "Dagsorden 2017"
 3. Valg av referenter
 4. Valg av tellekorps
 5. Valg av to paraferer
-6. Godkjenning av forretningsorden
+6. Gjennomgang av stemmesystem
+7. Godkjenning av forretningsorden
 8. Godkjenning av oppmøtte
     * 8.1. Godkjenning av gjester
     * 8.2. Godkjenning av talerett
