@@ -39,3 +39,18 @@ Teambuildingsbudsjettet har stått stille i mange år nå, mens prisen på tjene
 ### Forslag 3 (Signe Elise Livgard)
 
 Under generalforsamlingen skal det settes av tid (foreslått: 30 min) til å evaluere sittende hovedstyre, hvor medlemmene får mulighet til å stille spørsmål. Hovedstyremedlemmenes valgsaker fra forrige generalforsamling kan tas opp, og hovedstyremedlemmene får mulighet til å svare for hvordan arbeidet med valgsakene har blitt utført og oppfylt. Dette bør skje før valg av nytt hovedstyre.
+
+### Forslag 4 (Hovedstyret)
+
+Gjøre påmeldingslistene til sosiale arrangement offentlige. Dette skal være en opt-in feature, og kun navn vil bli synlig.
+
+_Hvorfor?_
+
+Å se hvem som skal på arrangement kan øke interessen blant andre onlinere. Sosiale arrangement bruker ofte Facebook-arrangement også, der det allerede er synlig. Ved å ha det på onlineweb-en også har medlemmene tilgang på en korrekt liste, men kun med de som ønsker å bli oppført.
+
+### Forslag 5 (Hovedstyret)
+
+Gi alle onlines medlemmer korttilgang til kontoret.
+
+_Hvorfor?_
+Kontoret skal være et sosialt samlingspunkt for medlemmene, også for de som ønsker å være på skolen utenom åpningstidene. Alle som får tilgang på godta reglene for bruk av kontoret. Komitémedlemmer skal sitte kontorvakt i åpningstiden.
