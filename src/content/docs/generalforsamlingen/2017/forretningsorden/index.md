@@ -68,7 +68,7 @@ Saksopplysning tegnes ved å fremvise flat arm over deltakernummer. Saksopplysni
 
 ### 4.2 Andre reguleringer av forhandlingene
 
-Under føler reguleringer som ikke er beskrevet i seksjonene over.
+Under følger reguleringer som ikke er beskrevet i seksjonene over.
 
 #### 4.2.1 Referat
 Det skal føres referat av minst to (2) under generalforsamlingen. Diskusjoner, argumenter, orienteringer og resultat fra valg skal føres ned. Der generalforsamlingen har foretatt et valg skal stemmefordelingen føres ned, med unntak av personvalg.
