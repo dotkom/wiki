@@ -47,6 +47,8 @@ Her følges kapittel 3 paragraf 6 i Onlines vedtekter.
 
 Når det er flere kandidater til ett verv skal kandidatene som ikke presenterer seg vente i et annet rom enn der generalforsamlingen gjennomføres. Kandiater som venter plikter å ikke lytte på de andre kandidatenes presentasjon.
 
+Til kandidater som stiller til leder og nestleder gis det anledning til å stille tre spørsmål fra salen. Til andre kandidater gis det anledning til å stille to spørsmål fra salen.
+
 ## 4 Forhandlinger
 
 Under følger reguleringer om forhandlinger under generalforsamlingen.
