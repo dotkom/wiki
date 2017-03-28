@@ -55,10 +55,10 @@ Under følger reguleringer om forhandlinger under generalforsamlingen.
 Debattene skal preges av gjensidig respekt og anerkjennelse. Ordstyrer kan utvide taletiden for delegater dersom det er nødvendig. Ordstyrer kan også beslutte begrensning i taletid dersom dette er nødvendig for å gi alle talere ordet innen den vedtatte tidsrammen, eller dersom taler ikke utviser saklighet eller respekt for sine meddebattanter i debatten som pågår.
 
 #### 4.1.1 Hovedinnlegg
-Hovedinnlegg tegnes ved visning av ark med deltakernummer. Til hovedinnlegg gis ordet for inntil 3 minutter.
+Hovedinnlegg tegnes ved visning av ark med deltakernummer. Til hovedinnlegg gis ordet for inntil 1 minutter.
 
 #### 4.1.2 Replikk
-Replikk tegnes ved fremvisning av to fingre samt ark med deltakernummer. Det er anledning til inntil to replikker per hovedinnlegg samt en svarreplikk. Til replikk og svarreplikk gis ordet for inntil 1 minutt.  Det er ikke anledning til å ta replikk på replikk.
+Replikk tegnes ved fremvisning av to fingre samt ark med deltakernummer. Det er anledning til inntil to replikker per hovedinnlegg samt en svarreplikk. Til replikk og svarreplikk gis ordet for inntil 0.5 minutt.  Det er ikke anledning til å ta replikk på replikk.
 
 #### 4.1.3 Skriftlig innlegg
 Det gis anledning til å få sine innlegg lest opp av ordstyrer. Innleggene tegnes som beskrevet i  punktene 4.1.1 og 4.1.2.
