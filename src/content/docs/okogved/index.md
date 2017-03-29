@@ -14,3 +14,4 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 * [Regnskap]()
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/saksforslag)
+* [Referat fra økonomi- og vedtektskvelden 2017](okogved-referat2017)
