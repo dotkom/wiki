@@ -54,6 +54,7 @@ title: "Dagsorden 2017"
     * 13.4 - Andre
         * 13.4.1 - Datakameratene FK
         * 13.4.2 - Realfagskjellern
+        * 13.4.3 - Casual Gaming
 
 18:30 - 5 minutters pause
 
