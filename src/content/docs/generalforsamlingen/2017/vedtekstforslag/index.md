@@ -87,3 +87,15 @@ Studenter ved følgende studier har rett til å bli medlem av linjeforeningen:
 _Hvorfor?_
 
 Studenter ved studieretningene BIT og MIT har rett til å bli medlem av Online, det er ikke bare noe de kan. Ved at det står "kan" har i grunn Hovedstyret rett til å nekte studenter ved BIT og MIT adgang til linjeforeningen før de er blitt medlem. Vi kan, per lov, ikke tvinge studenter til å bli medlem av linjeforeningen, dette er et valg de må ta selv.
+
+### Forslag 6 (Hovedstyret)
+
+**4.2.8:**
+
+**Legge til:**
+
+Seniorkom kan gjøre unntak for komitémedlemmer som ikke har vært aktive i fire semestre om de ønsker å ta opp dette medlemmet
+
+_Hvorfor?_
+
+I enkelte tilfeller vil det være aktuelt for seniorkom å ta opp medlemmer som ikke har vært aktive i fire år.
