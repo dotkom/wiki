@@ -10,6 +10,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden 2017 finner sted 30. mars kl. 15 i R7.**
 
+* [Dagsorden](https://online.ntnu.no/wiki/online/okogved/2017/dagsorden)
 * [Budsjett]()
 * [Regnskap]()
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/vedtekstforslag)
