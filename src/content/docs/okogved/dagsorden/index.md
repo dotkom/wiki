@@ -13,6 +13,9 @@ title: "Dagsorden"
 | 10  | 17.00  | 17.10  | Vedtektsforslag 3 v/Hovedstyret  |   |
 | 10  | 17.10  | 17.20  | Vedtektsforslag 4 v/Hovedstyret  |   |
 | 10  | 17.20  | 17.30  | Vedtektsforslag 5 v/Hovedstyret  |   |
+| 10  | 17.30  | 17.40  | Pause  |   |
+| 10  | 17.40  | 17.50  | Vedtektsforslag 6 v/Hovedstyret  |   |
+| 10  | 17.50  | 18.00  | Vedtektsforslag 7 v/Hovedstyret  |   |
 
 
 
