@@ -99,3 +99,19 @@ Seniorkom kan gjøre unntak for komitémedlemmer som ikke har vært aktive i fir
 _Hvorfor?_
 
 I enkelte tilfeller vil det være aktuelt for seniorkom å ta opp medlemmer som ikke har vært aktive i fire år.
+
+### Forslag 6 (Hovedstyret)
+
+**4.7:**
+
+**Erstatt:**
+
+Et verv i linjeforeningen varer i seks (6) semestre fra måneden man ble tatt opp.
+
+**Med:**
+
+Et verv i linjeforeningen kan vare i inntil seks (6) semestre fra måneden man ble tatt opp.
+
+_Hvorfor?_
+
+Dette er for å spesifisere at verv kan avsluttes etter kortere tid enn seks semestre.
