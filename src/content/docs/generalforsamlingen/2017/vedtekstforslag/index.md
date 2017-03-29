@@ -98,7 +98,7 @@ Seniorkom kan gjøre unntak for komitémedlemmer som ikke har vært aktive i fir
 
 _Hvorfor?_
 
-I enkelte tilfeller vil det være aktuelt for seniorkom å ta opp medlemmer som ikke har vært aktive i fire år.
+I enkelte tilfeller vil det være aktuelt for seniorkom å ta opp medlemmer som ikke har vært aktive i fire semestre.
 
 ### Forslag 7 (Hovedstyret)
 
