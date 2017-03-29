@@ -58,3 +58,12 @@ Alle onlines medlemmer som er nåværende studenter ved BIT eller MIT skal gis k
 _Hvorfor?_
 
 Kontoret skal være et sosialt samlingspunkt for medlemmene, også for de som ønsker å være på skolen utenom åpningstidene. Alle som får tilgang på godta reglene for bruk av kontoret. Komitémedlemmer skal sitte kontorvakt i åpningstiden.
+
+### Forslag 6 (Hovedstyret)
+
+
+Det neste hovedstyret skal en gang i måneden la en del av møtet være åpent slik at medlemmer kan komme og stille spørsmål/diskutere ansikt til ansikt med hovedstyret.
+
+_Hvorfor?_
+
+Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra medlemmer.
