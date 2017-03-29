@@ -2,8 +2,6 @@
 title: "Vedtektsforslag 2017"
 ---
 
-[TOC]
-
 * [2017 Forretningsorden](/wiki/online/generalforsamlingen/2017/forretningsorden) - Forretningsorden
 * [2017 Dagsorden](/wiki/online/generalforsamlingen/2017/dagsorden) - Dagsorden for generalforsamlingen
 * [2017 Årsberetninger](/wiki/online/generalforsamlingen/2017/aarsberetninger) - Årsberetninger
@@ -14,6 +12,8 @@ title: "Vedtektsforslag 2017"
 ** Hva er et vedtektsforslag? **
 
 Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtektene til linjeforeningen. Det innebærer at reglene som Hovedstyret og linjeforeningen følger blir endret. Alle medlemmer av Online kan fremme vedtektsforslag. Gjør dette ved å sende en e-post til hovedstyret@online.ntnu.no innen 11. april kl. 23.59, eller endre de i dette dokumentet. 
+
+[TOC]
 
 
 ### Forslag 1 (Christoffer Lofsberg)
