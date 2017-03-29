@@ -100,7 +100,7 @@ _Hvorfor?_
 
 I enkelte tilfeller vil det være aktuelt for seniorkom å ta opp medlemmer som ikke har vært aktive i fire år.
 
-### Forslag 6 (Hovedstyret)
+### Forslag 7 (Hovedstyret)
 
 **4.7:**
 
