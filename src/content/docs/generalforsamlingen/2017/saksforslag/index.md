@@ -67,3 +67,20 @@ Det neste hovedstyret skal en gang i måneden la en del av møtet være åpent s
 _Hvorfor?_
 
 Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra medlemmer.
+
+### Forslag 7 (Endre Ulberg)
+
+
+Prokom får en økning i utstyrsbudsjettet sitt på 8000,- 
+
+_Hvorfor?_
+
+Vi ønsker å kjøpe inn utstyr som vi har lånt av TH eller Endre. Jmf tidligere genfors sine avgjørelser om at vi ønsker å eie ting istedenfor å låne av medlemmene våre. Eksempler på spesifikke ting er, kamerastativ, minnekort, minnekortleser, mikrofon og filter til linsene. Greenscreen eller annet bakteppe som vi kan bruke som nøytral bakgrunn når vi bruker de store blitsene er også ønsket. Årbokbildene, immball, jubileum og CV-fotograferingen ville kunne ha nytte av dette. I tillegg så skulle vi gjerne hatt filterpapir til den lille blitsen slik at den kan brukes innendørs der vi trenger den mest. Pr I dag så låner vi stativ, mikrofoner og minnekort av enten TH eller Endre. Disse tre tingene er avgjørende for å kunne bruke kamera og burde i det minste være eid av linjeforeningen. 
+
+### Forslag 8 (Endre Ulberg )
+
+Vi legger til en fast post i budsjettet til prokom til kameraforsikring.
+
+_Hvorfor?_
+
+Grunnet at kamera skal bli brukt av både folk i og utenfor linjeforeningen, under immball når vi har fotografer fra andre linjeforeninger, så ønsker vi å forsikre kamera. Det er en 15000,- investrering gjort av linjeforeningen og en forsikring beskytter oss mot et like stort tap av verdi.
