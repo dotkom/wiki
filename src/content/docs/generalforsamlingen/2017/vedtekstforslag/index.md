@@ -94,7 +94,7 @@ Studenter ved studieretningene BIT og MIT har rett til å bli medlem av Online, 
 
 **Legge til:**
 
-Seniorkom kan gjøre unntak for komitémedlemmer som ikke har vært aktive i fire semestre om de ønsker å ta opp dette medlemmet
+Seniorkom kan gjøre unntak for komitémedlemmer som ikke har vært aktive i fire(4) semestre om de ønsker å ta opp dette medlemmet.
 
 _Hvorfor?_
 
