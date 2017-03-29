@@ -84,3 +84,11 @@ Vi legger til en fast post i budsjettet til prokom til kameraforsikring.
 _Hvorfor?_
 
 Grunnet at kamera skal bli brukt av både folk i og utenfor linjeforeningen, under immball når vi har fotografer fra andre linjeforeninger, så ønsker vi å forsikre kamera. Det er en 15000,- investrering gjort av linjeforeningen og en forsikring beskytter oss mot et like stort tap av verdi.
+
+### Forslag 9 (Endre Ulberg )
+
+Det neste hovedstyret skal i samarbeid med medlemmene utvikle et vedlegg til vedtektene som supplerer og forsterker vedtektene. 
+
+_Hvorfor?_
+
+En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men samtidig utbrodere ytterligere på ting som er viktig. dette dokumentet vil kunne inneholde begrunnelsen for hvorfor vedtekter er slik de er, så folk som kommer etter 5 år kan forstå begrunnelsen. Det kan i tillegg inneholde anbefalte måter å løse eller håndtere situasjoner ved brudd av vedtekter eller regelverk. Dette er ting som ikke nødvendigvis passer inn i vedtektene, men som allikevel kan være av stor verdi for linjeforeningen å ha.
