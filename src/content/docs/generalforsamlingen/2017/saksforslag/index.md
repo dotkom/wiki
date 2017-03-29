@@ -50,7 +50,7 @@ _Hvorfor?_
 
 ### Forslag 5 (Hovedstyret)
 
-Gi alle onlines medlemmer korttilgang til kontoret.
+Alle onlines medlemmer som er nåværende studenter ved BIT eller MIT skal gis korttilgang til kontoret.
 
 _Hvorfor?_
 Kontoret skal være et sosialt samlingspunkt for medlemmene, også for de som ønsker å være på skolen utenom åpningstidene. Alle som får tilgang på godta reglene for bruk av kontoret. Komitémedlemmer skal sitte kontorvakt i åpningstiden.
