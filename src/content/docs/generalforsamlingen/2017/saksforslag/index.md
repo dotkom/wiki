@@ -40,6 +40,9 @@ Teambuildingsbudsjettet har stått stille i mange år nå, mens prisen på tjene
 
 Under generalforsamlingen skal det settes av tid (foreslått: 30 min) til å evaluere sittende hovedstyre, hvor medlemmene får mulighet til å stille spørsmål. Hovedstyremedlemmenes valgsaker fra forrige generalforsamling kan tas opp, og hovedstyremedlemmene får mulighet til å svare for hvordan arbeidet med valgsakene har blitt utført og oppfylt. Dette bør skje før valg av nytt hovedstyre.
 
+_Hvorfor?_
+Det er i dag ingen forum der man kan stille spørsmål til sittende hovedstyre, foruten å sende mail. Dette er uheldig, og gir ikke medlemmene mulighet til å være oppdatert på hovedstyremedlemmenes aksjoner. Ved å ha en evalueringsrunde på slutten av et hovedstyreverv kan medlemmene få mulighet til å spørre hvordan, eller hvordan ikke, valgløfter har blitt oppfylt. Dette kan være verdifult for neste hovedstyre, komitémedlemmer, samt for medlemmer som skal stemme inn nye kandidater. Spesielt dersom noen stiller til gjenvalg. Det er heller ikke noe i veien for at dette kan gjøres tidligere i perioden, men det finnes per i dag ingen arena der medlemmene er samlet på samme måte, og i samme antall, som på generalforsamlingen.
+
 ### Forslag 4 (Hovedstyret)
 
 Gjøre påmeldingslistene til sosiale arrangement offentlige. Dette skal være en opt-in feature, og kun navn vil bli synlig.
