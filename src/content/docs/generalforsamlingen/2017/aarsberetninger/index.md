@@ -27,3 +27,19 @@ title: "Årsberetninger 2017"
 ## Trivselskomiteen
 
 ## Seniorkomiteen
+
+## Applikasjonskomiteen
+
+## Ekskursjonskomiteen 2017
+
+## IT-ekskursjonen
+
+## Jubileumskomiteen 2016
+
+## Velkomstkomiteen 2016
+
+## Datakameratene FK
+
+## Realfagskjelleren
+
+## Casual Gaming
