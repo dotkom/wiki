@@ -79,7 +79,7 @@ Det skal føres referat av minst to (2) under generalforsamlingen. Diskusjoner, 
 Ordstyrer foreslår å sette strek for en debatt når dette synes nødvendig for å gjennomføre debatten innenfor vedtatte tidsramme. Generalforsamlingen vedtar å sette strek med alminnelig flertall. Vedtak om å oppheve eller på annen måte bryte vedtatte tidsrammer forutsetter kvalifisert flertall.
 
 #### 4.2.3 Stryke talelisten
-Generalforsamlingen kan vedta å stryke resten av talelisten uten at de som er oppført får ordet til debatten. Slikt vedtak gjøres med kvalifisert flertall og har umiddelbar virkning.
+Ordstyrer kan velge å stryke resten av talelisten uten at de som er oppført får ordet til debatten. Generalforsamlingen kan overstyre avgjørelsen ved alminnelig flertall.
 
 ## 5 Andre bestemmelser
 Spørsmål som ikke er regulert i denne forretningsorden avgjøres av møtet med alminnelig flertall.
