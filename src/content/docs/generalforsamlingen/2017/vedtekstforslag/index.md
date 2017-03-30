@@ -24,11 +24,11 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 Linjeforeningen Online er en frivillig veldedig interesseorganisasjon for studenter som oppfyller kapittel 5. 
 
 **Med**:
-Linjeforeningen Online er en politisk og religiøst uavhengig, frivillig og ideell interesseorganisasjon for studenter som oppfyller kapittel 5.
+Linjeforeningen Online er en partipolitisk og religiøst uavhengig, frivillig og ideell interesseorganisasjon for studenter som oppfyller kapittel 5.
 
 _Hvorfor?_
 
-Online er ingen politisk eller religiøs organisasjon. Medlemmene i Online er automatisk innmeldt ved studiestart og mange velger å ikke involvere seg i driften, men vil kanskje dra på en bedriftspresentasjon eller en fest i ny og ne. Tanken med forslaget er å forhindre eventuelle politiske eller religiøse standpunkter linjeforeningen tar, hvertfall utenom Generalforsamling. Veldedig er også erstattet med ideell organisasjon, da det er det vi er.
+Online er ingen politisk eller religiøs organisasjon, dette kan være greit å presisere i vedtektene. Vi er også en ideell og ikke veldedig organisasjon.
 
 ### Forslag 2 (Christoffer Lofsberg)
 
