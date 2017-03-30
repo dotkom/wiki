@@ -185,7 +185,7 @@ Punkt 4.3:
 
 Legg til: 
 4.3.x Realfagskjelleren 
-Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud for studenter ved dens tilhørende linjeforeninger. Realfagsdkjelleren er frittstående fra linjeforeningen. 
+Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud for studenter ved dens tilhørende linjeforeninger. Realfagskjelleren er frittstående fra linjeforeningen. 
 
 _Hvorfor?_
 
