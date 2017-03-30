@@ -131,3 +131,31 @@ Alminnelig flertall er definert som minst 1/2 av de tilstedeværende med stemmer
 _Hvorfor?_
 
 Sånn det står nå vil et forslag gå gjennom uten et flertall i salen hvis stemmene er 50/50. Det er mer naturlig å forvente et faktisk flertall for at en endring skal vedtas.
+
+
+### Forslag 9 (Endre Ulberg)
+
+**3.3:**
+
+**Erstatt:**
+
+"Ved generalforsamling er disse vervene nødvendig:
+• Ordstyrer
+• To referenter - skriver referat under generalforsamling og samarbeider om renskriving
+• Minst to til tellekorps - teller opp stemmer ved avstemming
+• To paraferer - godkjenner referat fra generalforsamling og de endrede vedtek-
+tene i etterkant av generalforsamlingen"
+
+
+**Med:**
+
+Ved generalforsamling er disse vervene nødvendig:
+• Ordstyrer
+• To referenter - skriver referat under generalforsamling og samarbeider om renskriving
+• Minst to til tellekorps - teller opp stemmer ved avstemming
+• To paraferer - godkjenner referat fra generalforsamling og de endrede vedtek-
+tene i etterkant av generalforsamlingen. Paraferene skal være eksterne fra linjeforeningen Online.
+
+_Hvorfor?_
+
+Dette vil sikre at det i mindre grad er noen form for vinning hos paraferene i å forandre referatet vårt. Det vil også gjøre det mindre sannsynlig at det nye Hovedstyrer er for nært tilknyttet paraferene. Dermed sikrer vi større grad av demokrati og at makten alltid forblir hos generalforsamlingen.
