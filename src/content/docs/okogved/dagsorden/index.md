@@ -31,4 +31,5 @@ title: "Dagsorden"
 | 15  | 20.50  | 21.05 | saksforslag 7 v/Endre  |   |
 | 15  | 21.05  | 21.20  | saksforslag 8 v/Endre  |   |
 | 15  | 21.20  | 21.35  | saksforslag 9 v/Endre  |   |
-| 20  | 21.35  | 21.55  | Hvem kan bli medlem av Online? v/Hovedstyret  |   |
+| 15  | 21.35  | 21.50  | saksforslag 10 v/Marius  |   |
+| 20  | 21.50  | 22.10  | Hvem kan bli medlem av Online? v/Hovedstyret  |   |
