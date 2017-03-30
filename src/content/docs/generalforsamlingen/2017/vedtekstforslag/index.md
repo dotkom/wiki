@@ -167,3 +167,14 @@ tene i etterkant av generalforsamlingen. Paraferene skal være eksterne fra linj
 _Hvorfor?_
 
 Dette vil sikre at det i mindre grad er noen form for vinning hos paraferene i å forandre referatet vårt. Det vil også gjøre det mindre sannsynlig at det nye Hovedstyrer er for nært tilknyttet paraferene. Dermed sikrer vi større grad av demokrati og at makten alltid forblir hos generalforsamlingen.
+
+### Forslag 9 (Endre Ulberg)
+
+**6:**
+
+**Legg til**
+Ingen person, organisasjon eller annen enhet, med unntak av IDI, skal noen gang tjene uforholdsmessig mye penger, eller andre verdier, på linjeforeningen Online.
+
+_Hvorfor?_
+
+Vedlegget til paragrafen vil føre til at ingen kan utnytte linjeforeningen. Dette vil i tillegg ikke hemme daglig drift, eller ramme komiteer som får teambuildingpenger o.l.
