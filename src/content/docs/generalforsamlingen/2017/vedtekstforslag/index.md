@@ -115,3 +115,19 @@ Et verv i linjeforeningen kan vare i inntil seks (6) semestre fra måneden man b
 _Hvorfor?_
 
 Dette er for å spesifisere at verv kan avsluttes etter kortere tid enn seks semestre.
+
+### Forslag 7 (Hovedstyret)
+
+**3.4:**
+
+**Erstatt:**
+
+Alminnelig flertall er definert som 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
+
+**Med:**
+
+Alminnelig flertall er definert som minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
+
+_Hvorfor?_
+
+Sånn det står nå vil et forslag gå gjennom uten et flertall i salen hvis stemmene er 50/50. Det er mer naturlig å forvente et faktisk flertall for at en endring skal vedtas.
