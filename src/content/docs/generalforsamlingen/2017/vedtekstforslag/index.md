@@ -173,7 +173,7 @@ Dette vil sikre at det i mindre grad er noen form for vinning hos paraferene i �
 **6:**
 
 **Legg til**
-Ingen person, organisasjon eller annen enhet, med unntak av IDI, skal noen gang tjene uforholdsmessig mye penger, eller andre verdier, på linjeforeningen Online.
+Ingen person, organisasjon eller annen enhet, med unntak av IDI ved inntreffelse av §7.2, skal noen gang tjene uforholdsmessig mye penger, eller andre verdier, på linjeforeningen Online.
 
 _Hvorfor?_
 
