@@ -126,7 +126,7 @@ Alminnelig flertall er definert som 1/2 av de tilstedeværende med stemmerett, m
 
 **Med:**
 
-Alminnelig flertall er definert som minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
+Alminnelig flertall er definert som mer enn 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
 
 _Hvorfor?_
 
