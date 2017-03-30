@@ -178,3 +178,15 @@ Ingen person, organisasjon eller annen enhet, med unntak av IDI ved inntreffelse
 _Hvorfor?_
 
 Vedlegget til paragrafen vil føre til at ingen kan utnytte linjeforeningen. Dette vil i tillegg ikke hemme daglig drift, eller ramme komiteer som får teambuildingpenger o.l.
+
+### Forslag 11 (Marius Enerly)
+
+Punkt 4.3:
+
+Legg til: 
+4.3.x Realfagskjelleren 
+Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud for studenter ved dens tilhørende linjeforeninger. Realfagsdkjelleren er frittstående fra linjeforeningen. 
+
+_Hvorfor?_
+
+Siden 2001 har Realfagskjelleren vært en del av Online. Kjelleren har alltid vært en del av online, og det er viktig å vise sin tilhørighet til kjelleren. Et steg for å fremme kjelleren innad i Online er å sette Realfagskjelleren som en nodekomitee av Online.
