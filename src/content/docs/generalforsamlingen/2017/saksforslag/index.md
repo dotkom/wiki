@@ -98,7 +98,7 @@ En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men sa
 Online skal kjøpe et kassaapparat til Realfagskjelleren. 
 
 Hvorfor?
-Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye kassasystemlova[0] og forskrifta[1][2]. 
+Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye kassasystemlova [0] og forskrifta [1] [2]. 
 
 Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen. 
 
