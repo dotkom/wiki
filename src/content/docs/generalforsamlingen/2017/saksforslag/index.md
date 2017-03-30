@@ -104,6 +104,6 @@ Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et bru
 
 Tilbudet fra Response Retail er vedlagt. 
 
-[0]: https://lovdata.no/dokument/NL/lov/2015-06-19-58
-[1]: http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/
-[2]: https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616
+[0] https://lovdata.no/dokument/NL/lov/2015-06-19-58
+[1] http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/
+[2] https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616
