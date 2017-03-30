@@ -17,6 +17,9 @@ title: "Dagsorden"
 | 10  | 17.40  | 17.50  | Vedtektsforslag 6 v/Hovedstyret  |   |
 | 10  | 17.50  | 18.00  | Vedtektsforslag 7 v/Hovedstyret  |   |
 | 15  | 18.00  | 18.15  | Vedtektsforslag 8 v/Hovedstyret  |   |
+| 15  | 18.00  | 18.15  | Vedtektsforslag 9 v/Endre  |   |
+| 15  | 18.00  | 18.15  | Vedtektsforslag 10 v/Endre  |   |
+| 15  | 18.00  | 18.15  | Vedtektsforslag 11 v/Marius  |   |
 | 15  | 18.15  | 18.30  | saksforslag 1 v/Christoffer  |   |
 | 15  | 18.30  | 18.45  | saksforslag 2 v/Christoffer  |   |
 | 10  | 18.45  | 18.55  | Pause  |   |
