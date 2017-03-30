@@ -116,7 +116,7 @@ _Hvorfor?_
 
 Dette er for å spesifisere at verv kan avsluttes etter kortere tid enn seks semestre.
 
-### Forslag 7 (Hovedstyret)
+### Forslag 8 (Hovedstyret)
 
 **3.4:**
 
