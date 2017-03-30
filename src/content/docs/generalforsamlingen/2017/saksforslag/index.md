@@ -98,12 +98,6 @@ En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men sa
 Online kjøper et kassaapparat til Realfagskjelleren, slik at de kan fortsette sin drift. 
 
 Hvorfor?
-Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye kassasystemlova[0] og forskrifta[1][2]. Som nye loven sier, skal det være integrasjon mot bankterminal ved avstemming på kasse. Kasseskuff, skal også ha loggføring og integrasjon. Dette utelukker løsninger som iZettle, per dags dato. 
+Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye [kassasystemlova](https://lovdata.no/dokument/NL/lov/2015-06-19-58) og forskrifta [her](http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/) og [her](https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616). Som nye loven sier, skal det være integrasjon mot bankterminal ved avstemming på kasse. Kasseskuff, skal også ha loggføring og integrasjon. Dette utelukker løsninger som iZettle, per dags dato. 
 
-Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen. 
-
-Tilbudet fra Response Retail er vedlagt. 
-
-[0]: https://lovdata.no/dokument/NL/lov/2015-06-19-58
-[1]: http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/
-[2]: https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616
+Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen.
