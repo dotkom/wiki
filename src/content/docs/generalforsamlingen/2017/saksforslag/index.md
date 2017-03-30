@@ -92,3 +92,18 @@ Det neste hovedstyret skal i samarbeid med medlemmene utvikle et vedlegg til ved
 _Hvorfor?_
 
 En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men samtidig utbrodere ytterligere på ting som er viktig. dette dokumentet vil kunne inneholde begrunnelsen for hvorfor vedtekter er slik de er, så folk som kommer etter 5 år kan forstå begrunnelsen. Det kan i tillegg inneholde anbefalte måter å løse eller håndtere situasjoner ved brudd av vedtekter eller regelverk. Dette er ting som ikke nødvendigvis passer inn i vedtektene, men som allikevel kan være av stor verdi for linjeforeningen å ha.
+
+### Forslag 10 (Marius Enerly )
+
+Online skal kjøpe et kassaapparat til Realfagskjelleren. 
+
+Hvorfor?
+Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye kassasystemlova[0] og forskrifta[1][2]. 
+
+Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen. 
+
+Tilbudet fra Response Retail er vedlagt. 
+
+[0]: https://lovdata.no/dokument/NL/lov/2015-06-19-58
+[1]: http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/
+[2]: https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616
