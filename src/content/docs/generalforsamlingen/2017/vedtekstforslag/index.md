@@ -190,3 +190,23 @@ Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud f
 _Hvorfor?_
 
 Siden 2001 har Realfagskjelleren vært en del av Online. Kjelleren har alltid vært en del av online, og det er viktig å vise sin tilhørighet til kjelleren. Et steg for å fremme kjelleren innad i Online er å sette Realfagskjelleren som en nodekomitee av Online.
+
+### Forslag 12 (August Solvang)
+
+**Under §5 og §7:**
+
+**Erstatt**:
+PhD-kandidater ved Institutt for datateknikk og informasjonsvitenskap ved
+NTNU, som har tatt en bachelor eller master i informatikk
+og
+
+Ved oppløsning skal midler som linjeforeningen disponerer overføres som gave til
+Institutt for Datateknikk og Informasjonsvitenskap (IDI) ved Norges teknisknaturvitenskaplige
+universitet.
+
+**Med**:
+Det samme men med Institutt for datateknologi og informatikk istedet.
+
+_Hvorfor?_
+
+Fordi IDI har byttet navn.
