@@ -142,8 +142,11 @@ Sånn det står nå vil et forslag gå gjennom uten et flertall i salen hvis ste
 "Ved generalforsamling er disse vervene nødvendig:
 
 • Ordstyrer
+
 • To referenter - skriver referat under generalforsamling og samarbeider om renskriving
+
 • Minst to til tellekorps - teller opp stemmer ved avstemming
+
 • **To paraferer - godkjenner referat fra generalforsamling og de endrede vedtek-
 tene i etterkant av generalforsamlingen"**
 
@@ -153,8 +156,11 @@ tene i etterkant av generalforsamlingen"**
 Ved generalforsamling er disse vervene nødvendig:
 
 • Ordstyrer
+
 • To referenter - skriver referat under generalforsamling og samarbeider om renskriving
+
 • Minst to til tellekorps - teller opp stemmer ved avstemming
+
 • **To paraferer - godkjenner referat fra generalforsamling og de endrede vedtek-
 tene i etterkant av generalforsamlingen. Paraferene skal være eksterne fra linjeforeningen Online.**
 
