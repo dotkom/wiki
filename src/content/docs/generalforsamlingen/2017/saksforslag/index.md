@@ -103,7 +103,7 @@ Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften
 Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen. 
 
 Tilbudet fra Response Retail er vedlagt. 
-
-[0] https://lovdata.no/dokument/NL/lov/2015-06-19-58
-[1] http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/
+  
+[0] https://lovdata.no/dokument/NL/lov/2015-06-19-58  
+[1] http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/  
 [2] https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616
