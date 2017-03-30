@@ -17,18 +17,18 @@ title: "Dagsorden"
 | 10  | 17.40  | 17.50  | Vedtektsforslag 6 v/Hovedstyret  |   |
 | 10  | 17.50  | 18.00  | Vedtektsforslag 7 v/Hovedstyret  |   |
 | 15  | 18.00  | 18.15  | Vedtektsforslag 8 v/Hovedstyret  |   |
-| 15  | 18.00  | 18.15  | Vedtektsforslag 9 v/Endre  |   |
-| 15  | 18.00  | 18.15  | Vedtektsforslag 10 v/Endre  |   |
-| 15  | 18.00  | 18.15  | Vedtektsforslag 11 v/Marius  |   |
-| 15  | 18.15  | 18.30  | saksforslag 1 v/Christoffer  |   |
-| 15  | 18.30  | 18.45  | saksforslag 2 v/Christoffer  |   |
-| 10  | 18.45  | 18.55  | Pause  |   |
-| 15  | 18.55  | 19.10  | saksforslag 3 v/Signe  |   |
-| 15  | 19.10  | 19.25  | saksforslag 4 v/Hovedstyret  |   |
-| 15  | 19.25  | 19.40  | saksforslag 5 v/Hovedstyret  |   |
-| 15  | 19.40  | 19.55  | saksforslag 6 v/Hovedstyret  |   |
-| 10  | 19.55  | 20.05  | Pause  |   |
-| 15  | 20.05  | 20.20 | saksforslag 7 v/Endre  |   |
-| 15  | 20.20  | 20.35  | saksforslag 8 v/Endre  |   |
-| 15  | 20.35  | 20.50  | saksforslag 9 v/Endre  |   |
-| 20  | 20.50  | 21.10  | Hvem kan bli medlem av Online? v/Hovedstyret  |   |
+| 15  | 18.15  | 18.30  | Vedtektsforslag 9 v/Endre  |   |
+| 15  | 18.30  | 18.45  | Vedtektsforslag 10 v/Endre  |   |
+| 15  | 18.45  | 19.00  | Vedtektsforslag 11 v/Marius  |   |
+| 15  | 19.00  | 19.15  | saksforslag 1 v/Christoffer  |   |
+| 15  | 19.15  | 19.30  | saksforslag 2 v/Christoffer  |   |
+| 10  | 19.30  | 19.40  | Pause  |   |
+| 15  | 19.40  | 19.55  | saksforslag 3 v/Signe  |   |
+| 15  | 19.55  | 20.10  | saksforslag 4 v/Hovedstyret  |   |
+| 15  | 20.10  | 20.25  | saksforslag 5 v/Hovedstyret  |   |
+| 15  | 20.25  | 20.40  | saksforslag 6 v/Hovedstyret  |   |
+| 10  | 20.40  | 20.50  | Pause  |   |
+| 15  | 20.50  | 21.05 | saksforslag 7 v/Endre  |   |
+| 15  | 21.05  | 21.20  | saksforslag 8 v/Endre  |   |
+| 15  | 21.20  | 21.35  | saksforslag 9 v/Endre  |   |
+| 20  | 21.35  | 21.55  | Hvem kan bli medlem av Online? v/Hovedstyret  |   |
