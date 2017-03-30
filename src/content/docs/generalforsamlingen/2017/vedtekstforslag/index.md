@@ -168,7 +168,7 @@ _Hvorfor?_
 
 Dette vil sikre at det i mindre grad er noen form for vinning hos paraferene i å forandre referatet vårt. Det vil også gjøre det mindre sannsynlig at det nye Hovedstyrer er for nært tilknyttet paraferene. Dermed sikrer vi større grad av demokrati og at makten alltid forblir hos generalforsamlingen.
 
-### Forslag 9 (Endre Ulberg)
+### Forslag 10 (Endre Ulberg)
 
 **6:**
 
