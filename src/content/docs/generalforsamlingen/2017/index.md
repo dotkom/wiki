@@ -18,6 +18,8 @@ Referat fra generalforsamlingen 2016 finner du [her](ReferatfraOnlinesgeneralfor
 
 Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart, og før økonomi- og vedtektskvelden 30. mars.
 
+[Budsjett](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
+
 # Referat fra årets generalforsamling
 Referat fra årets generalforsamling vil bli publisert etter generalforsamlingen.
    
