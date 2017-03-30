@@ -23,5 +23,9 @@ title: "Dagsorden"
 | 15  | 18.55  | 19.10  | saksforslag 3 v/Signe  |   |
 | 15  | 19.10  | 19.25  | saksforslag 4 v/Hovedstyret  |   |
 | 15  | 19.25  | 19.40  | saksforslag 5 v/Hovedstyret  |   |
-| 15  | 19.40 | 19.55  | saksforslag 6 v/Hovedstyret  |   |
-| 20  | 19.55  | 20.15  | Hvem kan bli medlem av Online? v/Hovedstyret  |   |
+| 15  | 19.40  | 19.55  | saksforslag 6 v/Hovedstyret  |   |
+| 10  | 19.55  | 20.05  | Pause  |   |
+| 15  | 20.05  | 20.20 | saksforslag 7 v/Endre  |   |
+| 15  | 20.20  | 20.35  | saksforslag 8 v/Endre  |   |
+| 15  | 20.35  | 20.50  | saksforslag 9 v/Endre  |   |
+| 20  | 20.50  | 21.10  | Hvem kan bli medlem av Online? v/Hovedstyret  |   |
