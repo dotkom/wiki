@@ -15,3 +15,4 @@ title: "Interessegrupper"
 - [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
+- [Quizline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/quizline/)
