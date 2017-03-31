@@ -12,7 +12,7 @@ Under er en liste over de medlemmene gruppa har.
 - **Quizling:** Didrik aAaaaaaaaalen
 - **Quizpostansvarlig og nestleder:** Aslak Hollund
 - **PR-Ansvarlig:** Agnete Djupvik
-- **Quizulent:** Andrea NornesSigurd Oxaas Wie
+- **Quizulent:** Sigurd Oxaas Wie
 - **Barsjef:** Tord Standnes
 - **Quiz of the stone age:** August Solvang 
 - **Hovedgooglist:** August Solvang
