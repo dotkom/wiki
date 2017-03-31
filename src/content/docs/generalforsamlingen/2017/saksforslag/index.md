@@ -22,7 +22,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 ### Forslag 1 (Christoffer Lofsberg)
 
-Ved valg hvor det stiller flere kandidater, byttes spørsmålsrunden ut med en åpen spørsmålsrunde etter alle kandidatenes appeller. Alle kandidater svarer på samme spørsmål og hører på hverandres svar. Det rulleres på hvem som starter med å svare. Antall spørsmål vil være tre ganger antall kandidater. Forslaget vil tre i kraft umiddelbart. (Spørsmålsrunden vil foregå etter kandidatene sine appeller og disse vil fortsatt foregå uten at kandidatene hører hverandres).
+Ved valg hvor det stiller flere kandidater, byttes spørsmålsrunden ut med en åpen spørsmålsrunde etter alle kandidatenes appeller. Alle kandidater svarer på samme spørsmål og hører på hverandres svar. Det rulleres på hvem som starter med å svare. Forslaget vil tre i kraft umiddelbart. (Spørsmålsrunden vil foregå etter kandidatene sine appeller og disse vil fortsatt foregå uten at kandidatene hører hverandres).
 
  _Hvorfor?_
 
