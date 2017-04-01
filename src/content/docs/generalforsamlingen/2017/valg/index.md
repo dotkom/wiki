@@ -16,12 +16,12 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse er:**
 
 * *Leder:* Christoffer Lofsberg
-* *Nestleder:* 
+* *Nestleder:* Henrik Munkeberg
 * *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken
 * *Bankom:*
 * *Bedkom:* 
 * *Dotkom:* Anders Larsen, Aslak Hollund
-* *Fagkom:* Henrik Munkeberg, Andreas Haugan Aursand 
+* *Fagkom:* Andreas Haugan Aursand 
 * *Prokom:* Endre Ulberg,
 * *Trikom:*  Taran Ruge
 
