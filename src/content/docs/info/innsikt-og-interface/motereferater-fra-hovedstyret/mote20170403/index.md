@@ -1,0 +1,200 @@
+---
+title: "møte 20170403"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering og referering:** Didrik
+
+**Vinstraff:** 2xThor Håkon + For sen møteinnkalling og ikke invitert ITV.
+
+**Ølstraff:**  
+
+**Tilstede:** Erik, Sander, Ingrid, Marius (for Kristoffer), Håvard (For Martin), Thor Håkon, Didrik, Kristiane, Andrea, Håkon
+
+**Mangler:** 
+
+## 243 Godkjenning av innkalling, servering og referat 
+
+Servering godkjent, innkalling kom for sent. Referat fra forrige uke er godkjent.
+
+## 244 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+* VorsNach ble dritbra. Lyst til å gjøre noe lignende neste år. Det var masse leker.
+* Tur til Lianvatnet går bra. Utvidet påmelding. 
+* Immball: Quote Eivind: "Det er fettenice". Blir muligens litt dyrere enn i fjor. Prøve å få frivillige til å stå i garderoben.
+* Har hatt halvparten av medarbeidersamtalene.
+* Skal lage design til arrkomgenser.
+
+* Velkom: Har teambuilding idag. Ellers har de fått på plass trykkeri til t-skjorter. Programmet er satt og de har mange utesteder.
+
+#### Bankom:  
+
+* Har ikke hatt ordinært møte, men hadde et møte på lørdag før folk dro på ekskursjon.
+* Regnskapet i Fiken er klart, men regnskapet i driven mangler nesten 300.000 i inntekter og 35.000 i utgifter.
+* Poenget med driven er å gi et forenklet regnskap til det gemene hop.
+* Regnskapet i driven må fikses, og Thor Håkon føler ansvaret faller på han.
+
+#### Bedkom, med ITEX:  
+
+* Sender ut kontrakter til bedrifter. Har fått de fleste tilbake.
+* Det meste til Itex er good.
+* Jobber med nye sponsorpakker til velkom.
+* Skal ha internvalg før genfors.
+* Ønsker ikke åpne lister for bedpres og kurs. Har en diskusjon med fagkom for å komme med argumenter.
+
+
+#### Dotkom, uten appkom:
+
+* Jobbet med genforsappen siden forrige uke. Nærmer seg at det skal kunne brukes. Håkon og Christian skal sitte i påsken for å få det ferdig. Skal systemet vises frem for å godkjennes? Kode en open source, så alle kan gå inn å se på koden.
+
+* Ferdig med oppmøteregistreringsapplikasjonen.
+
+* Ferdig med den nye karrierenettsiden.
+
+* Skal begynne på bildegalleri
+
+
+#### Fagkom, med ekskom:  
+
+* Har hatt kurs med Bekk og SS, kun et kurs igjen og Lightning talks. Ekskom er på tur og kontrakter er sendt ut.
+
+
+#### Prokom:  
+
+* Har hatt brekkehelg
+* Nærmer seg CopyCat som trykkeri.
+* Lagt ut aprilsnarr
+
+
+#### Trikom:  
+
+* Har Liavatnet også.
+* Eurovision blir noe av.
+* Skal ha servering på genfors.
+* Månedens hyggeligste er blir lagt ut.
+* Diskutert oppussing av kontoret
+
+#### Seniorkom: 
+
+* Påmelding til utmatrikulering kom ut sist mandag. foreløpig tre påmeldte.
+* Alt på plass på kvelden utenom underholdning.
+* På fredag hadde de teambuilding
+
+
+#### Leder og nestleder:  
+
+* Erik: Kan sette opp dagsorden. Vet hvor lang tid ting kommer til å ta.
+* Fikk forslag av Yngve om å sette opp en skikkelig strict dagsorden for at saksforslag og vedtektsforslag ikke skal ta lenger tid. Onlines dagsorden blir Onlines bestilling til Yngve, så er det opp til genfors om det skal forlenges.
+* Fikk ikke lov til å være i auditoriet lenger enn 24.00. Skal sende en ny mail.
+
+* Thor Håkon: har sittet med bankom med regnskapet.
+* Har snakket med Miriam angående hvordan lede. Virker som at velkom har en solid plan og at de har kommet langt på kort tid. Skal ha oppfølging underveis i fadderukene for å finne ut hvor mange som faller ut.
+* Skal seniorkom eller velkom ta masterfadderuke? Miriam tar kontakt med seniorkom. Ingrid skal ta kontakt med Miriam for å få med masterfadderoppmelding.
+* Har snakket med sin venn Even som er siviløkonom, som foreslår at Online sparer i bankinnskudd og ikke i fond eller aksjer. Kan diskuteres på eventuelt.
+
+
+#### ITV: 
+
+Ikke her.
+
+## 245 Interkom (10 min) 
+
+Ny vinstraff til Thor for å ha glemt å invitere ITV.
+
+## 246 Budsjettsforhandlinger
+
+* Thor Håkon var ikke klar over hvor viktig budsjett var fra HS sitt standpunkt.
+
+
+* Burde vi budsjettere med 100.000 i overskudd?
+
+
+
+* Erik: for dette året er det viktigste at komiteer får fortsette som vanlig. Det er mulig at HS kutter i prosjekter-posten.
+Håkon: Den posten har vi vel slitt med å bruke opp.
+
+
+* Thor Håkon: Det ble kommentert at Åre trenger mer spons.
+* Sander: Spons blir flyttet fra julebord til Åre. Vet ikke om det er løsningen å gjøre julebordet dyrere for å gjøre Åre billigere. 
+* Sander vil ikke flytte spons, men heller få mer spons.
+* Kristiane mener vi heller kan kutte ett arrangement. Det er flere arrangementer som ikke blir fulle.
+* Thor Håkon mener at det viktigste er at arrkom ikke går mer i minus enn det er budsjettert
+
+* Arrkom har fått desidert minst øking i spons av arrkom, dotkom, trikom og prokom.
+
+* Offline blir sannsynligvis billigere enn før.
+
+* Hvis det er greit for prokom, kan vi sette ned Adobelisens fra 8000 til 5000.
+
+* Trikom må budsjettere med at vi taper penger på brus.
+
+* bedkom er greit.
+
+* dotkom er greit.
+
+* Vi kan gi litt av de 15.000 vi har fått fra IDI til masterfadderuker til velkom.
+
+* Jubkom gikk ikke i pluss, men ca 15.000 i minus.
+
+* Online sponser billettprisen til studentene på utmatrikuleringen. Dete tilsvarer 7000,- eller 100,- per pers.
+
+* Thor Håkon foreslår at vi gir 15.000 til arrkom, så kan arrkom få velge selv hvor pengene går innad i arrkom (hvilke arrangementer).
+
+## 247 Generalforsamlingen
+
+* Thor Håkon: Vi må gå gjennom saksforslag og ta til oss tilbakemeldingene våre har fått.
+* Vir burde ha et saksforslag nr 2 hvis ikke alle får tilgang til kontoret. Erik fikser saksforslag.
+* Kan alle høre med sin komite om det er noen som gidder å være referent og tellekorps.
+* Marius kan være parafer.
+* Erik vil spørre Yngve om en dagsorden som Erik kan se på.
+
+* Vi tar resten av genfors på mail.
+
+* Erik printer 150 ark med nummer.
+
+## 248 Forespørsler som har kommet på e-post (5 min) 
+
+* Sigurd Wie er ny økonmiansvarlig i Realfagskjelleren
+* Vi må bleste for avslutningsseremoni for 3. klasse og 5. klasse.
+* Vi må bleste for at itslearning avvikles
+* Hør med nestledere om de vil være med på hybridas fest.
+* Quizline blir opprettet som interessegruppe. Erik svarer Aslak.
+
+
+
+## 249 Ukens infomail og Facebook (5 min)  
+
+* Velkom vil rebleste fadderopptak
+
+
+## 250 Eventuelt (10 min)
+
+* Skal bankom ha møter på søndager? Det bestemmer bankom selv.
+
+* Hva tenker folk om bankinnskudd istedenfor fond?
+* Sander: han siviløkonomen har sikkert bedre peiling enn oss.
+* Marius: Hør med flere folk, økonomer blir aldri enige. Hør også med banken. Sett opp tall og se hva de forskjellige alternativene er.
+* Håkon: Det finnes flere fond enn indeksfond. 
+* Skal vi betale kurtasje for å ha et fond?
+* Det er høyere risiko med ikke-indeksfond.
+
+## 251 Møteevaluering/Diggepunkt (5 min)
+
+Ingen møteevaluering eller digging.
+
+Neste møte er uken etter påske.
+
+Møte den 19. samtidig som bursdagen. og møte 24.
+
+19. blir hos Thor Håkon klokken 17 er det møte også blir det sosialisering etterpå. HUSK VINSTRAFFER.
+
+Sander digger velkom.
+
+bankommøte 
+
+## 252 Gjøremål
+
+Erik skal gjøre ting.
