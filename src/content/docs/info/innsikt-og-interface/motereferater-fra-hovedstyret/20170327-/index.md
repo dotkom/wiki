@@ -14,10 +14,10 @@ title: "Hovedstyrets denne-uka-reiser-ekskursjonen-møte"
 
 **Mangler:** Ingrid, Didrik  
 
-## 234 Godkjenning av innkalling, servering og referat 
+## 334 Godkjenning av innkalling, servering og referat 
 Godkjent! :)  
 
-## 235 Status for komiteene (30 min)
+## 335 Status for komiteene (30 min)
 
 #### Arrkom, med velkom og jubkom:
 - Sushikurs
@@ -92,11 +92,11 @@ Didrik er ikke her, heller ingen andre.
 #### ITV: 
 Ingen fra ITV her  
 
-## 236 Interkom (10 min) 
+## 336 Interkom (10 min) 
 * Shitlist  
 
 
-## 237 Generalforsamlingen cont.
+## 337 Generalforsamlingen cont.
 
 - Forretningsorden  
     - Vi må spørre Yngve om hvordan vi skal vedta hvem som skal stemme, fordi det alt står i vedtektene at alle medlemmer har stemmerett, men vi skal vedta før genfors starter allikevel  
@@ -128,19 +128,19 @@ Vi kan invitere folk om det er ønskelig med innspill fra ikkekomitémedlemmer. 
     - Seniorkom kan gjøre unntak for komitémedlemmer som ikke har vært aktive i fire semester om de ønsker å ta opp dette medlemmet  
     - Et verv kan vare inntil seks semester ikke i seks semester  
 
-## 238 Forespørsler som har kommet på e-post (5 min) 
+## 338 Forespørsler som har kommet på e-post (5 min) 
 - CaG som nodekoimté
    - De som er Onlinere får kontortilgang, og vi skal fremme forslag om å fjerne de fra vedtektene på genfors  
 
-## 239 Ukens infomail og Facebook (5 min)  
+## 339 Ukens infomail og Facebook (5 min)  
 - Infomail  
     - Alle legger inn stuff  
 - Facebook  
     - Alle blester det de vil bleste  
 
-## 240 Eventuelt (10 min)
+## 340 Eventuelt (10 min)
 Ingenting eventuelt.
 
-## 241 Møteevaluering/Diggepunkt (5 min)
+## 341 Møteevaluering/Diggepunkt (5 min)
 
-## 242 Gjøremål
+## 342 Gjøremål
