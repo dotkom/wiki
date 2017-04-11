@@ -30,6 +30,18 @@ title: "Årsberetninger 2017"
 
 ## Applikasjonskomiteen
 
+* Overført prosjekter fra utgående medlemmer
+
+* Videre arbeid på eksisterende prosjekter som Watchdog
+
+* La komitéen fryst over julen for å gjennoppta senere
+
+* Legger ned komitéen pga. for mange utgående medlemmer
+
+* Kodebase og andre eiendeler overføres til Dotkom
+
+* Komitéen er klar til å gjenoppstartes ved potensielt fremtidig engasjement
+
 ## Ekskursjonskomiteen 2017
 
 ## IT-ekskursjonen
