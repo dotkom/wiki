@@ -93,11 +93,11 @@ Sparing på høyrentekonto gir mer forutsigbarhet og ingen risiko, sammenlignet 
 ### Forslag 9 (Endre Ulberg)
 
 
-Prokom får en økning i utstyrsbudsjettet sitt på 8000,- 
+Prokom skal få en økning i utstyrsbudsjettet sitt på 6.000 for å kjøpe inn utstyr de i dag låner av medlemmene.
 
 _Hvorfor?_
 
-Vi ønsker å kjøpe inn utstyr som vi har lånt av Thor Håkon eller Endre. Jmf forrige generalforsamling sin avgjørelse om at vi ønsker å eie ting istedenfor å låne av medlemmene våre. Eksempler på spesifikke ting er, kamerastativ, minnekort, minnekortleser, mikrofon og filter til linsene. Greenscreen eller annet bakteppe som vi kan bruke som nøytral bakgrunn når vi bruker de store blitsene er også ønsket. Årbokbildene, immball, jubileum og CV-fotograferingen ville kunne ha nytte av dette. I tillegg så skulle vi gjerne hatt filterpapir til den lille blitsen slik at den kan brukes innendørs der vi trenger den mest. Pr I dag så låner vi stativ, mikrofoner og minnekort av enten Thor Håkon eller Endre. Disse tre tingene er avgjørende for å kunne bruke kamera og burde i det minste være eid av linjeforeningen. 
+Prokom ønsker å kjøpe inn utstyr de i dag låner av Thor Håkon og Endre, jfm. forrige generalforsamling sin avgjørelse om at Online ønsker å eie ting istedenfor å låne av medlemmene våre. I dag låner prokom kamerastativ, minnekort, minnekortleser, mikrofon og linsefilter. 
 
 ### Forslag 10 (Endre Ulberg )
 
