@@ -132,6 +132,21 @@ _Hvorfor?_
 
 Sånn det står nå vil et forslag gå gjennom uten et flertall i salen hvis stemmene er 50/50. Det er mer naturlig å forvente et faktisk flertall for at en endring skal vedtas.
 
+### Forslag 9 (Hovedstyret)
+
+**3.4:**
+
+**Erstatt:**
+
+Kvalifisert flertall er definert som 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
+
+**Med:**
+
+Kvalifisert flertall er definert som minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
+
+_Hvorfor?_
+
+Slik det står nå kreves det akkurat 2/3 av stemmene. For å presisere det som har vært sedvane legges ordet "minst" til.
 
 ### Forslag 9 (Endre Ulberg)
 
@@ -181,15 +196,13 @@ Vedlegget til paragrafen vil føre til at ingen kan utnytte linjeforeningen. Det
 
 ### Forslag 11 (Marius Enerly)
 
-Punkt 4.3:
-
 Legg til: 
 4.3.x Realfagskjelleren 
-Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud for studenter ved dens tilhørende linjeforeninger. Realfagskjelleren er frittstående fra linjeforeningen. 
+Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen. 
 
 _Hvorfor?_
 
-Siden 2001 har Realfagskjelleren vært en del av Online. Kjelleren har alltid vært en del av online, og det er viktig å vise sin tilhørighet til kjelleren. Et steg for å fremme kjelleren innad i Online er å sette Realfagskjelleren som en nodekomitee av Online.
+Siden 2001 har Realfagskjelleren vært en del av Online, og det er viktig for kjelleren å stadfeste dette forholdet. For å bedre kommunikasjonen mellom Realfagskjelleren og Online skal det være en kjellerkontakt i Hovedstyret, som Realfagskjelleren kan ha direkte kontakt med.
 
 ### Forslag 12 (August Solvang)
 
@@ -198,14 +211,14 @@ Siden 2001 har Realfagskjelleren vært en del av Online. Kjelleren har alltid v�
 **Erstatt**:
 PhD-kandidater ved Institutt for datateknikk og informasjonsvitenskap ved
 NTNU, som har tatt en bachelor eller master i informatikk
+
 og
 
 Ved oppløsning skal midler som linjeforeningen disponerer overføres som gave til
-Institutt for Datateknikk og Informasjonsvitenskap (IDI) ved Norges teknisknaturvitenskaplige
-universitet.
+Institutt for Datateknikk og Informasjonsvitenskap (IDI) ved Norges teknisk-naturvitenskaplige universitet.
 
 **Med**:
-Det samme men med Institutt for datateknologi og informatikk istedet.
+Det samme, men med institutt for datateknologi og informatikk istedet.
 
 _Hvorfor?_
 
