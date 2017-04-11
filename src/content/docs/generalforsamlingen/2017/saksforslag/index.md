@@ -87,9 +87,21 @@ En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men sa
 
 ### Forslag 9 (Marius Enerly )
 
-Online kjøper et kassaapparat til Realfagskjelleren, slik at de kan fortsette sin drift. 
+Online støtter med en vennlig overføring av noen smule kroner på det lille beløpet av 6.500 NOK til Realfagskjelleren for et kassaapparat, til en samlet pris på 26 312.50 NOK. 
 
-Hvorfor?
-Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye [kassasystemlova](https://lovdata.no/dokument/NL/lov/2015-06-19-58) og forskrifta [her](http://www.skatteetaten.no/no/Bedrift-og-organisasjon/frister-attester-og-regnskap/Bokforing-og-regnskap/Nye-krav-til-kassasystem/kassasystemliste/) og [her](https://lovdata.no/dokument/SF/forskrift/2015-12-18-1616). Som nye loven sier, skal det være integrasjon mot bankterminal ved avstemming på kasse. Kasseskuff, skal også ha loggføring og integrasjon. Dette utelukker løsninger som iZettle, per dags dato. 
+_Hvorfor?_
+Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye kassasystemlova og forskrifta. 
 
-Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen.
+Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen. 
+
+Spanskøreret, Delta og Volvox & Alymisten har alle blitt enige om å komme med et innskudd på 6.500,-. Grunnet kjellerens nåværende økonomiske tilstand vil dette ikke kunne være noe kjelleren kan betale tilbake.
+
+### Forslag 10 (Marius Enerly)
+
+Legg til: 
+4.3.x Realfagskjelleren 
+Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud for studenter ved dens tilhørende linjeforeninger. Realfagskjelleren er frittstående fra linjeforeningen. Realfagskjelleren vil å ha en kjellerkontakt som skal fungere som et kommunikasjonskanal mellom Realfagskjelleren og Online.
+
+_Hvorfor?_
+
+Siden 2001 har Realfagskjelleren vært en del av Online. Kjelleren har alltid vært en del av online, og det er viktig å vise sin tilhørighet til kjelleren. Et steg for å fremme kjelleren innad i Online er å sette Realfagskjelleren som en nodekomite av Online hvor det spesifiseres “chain of command” mellom Online og kjelleren.
