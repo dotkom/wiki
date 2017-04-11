@@ -68,16 +68,38 @@ _Hvorfor?_
 
 Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra medlemmer.
 
-### Forslag 7 (Endre Ulberg)
+### Forslag 7 (Hovedstyret)
+
+Online skal spare i indeksfond. 
+
+_Hvorfor?_
+
+Den høyeste renten man kan få på en høyrentekonto i 2017 er mellom 1.7% og 1.8%. Regjeringen anslår at konsumprisindeksen i 2017 kommer til å være 2.0% [0]. Med 1.8% i rente taper vi i effekt penger. Fondsparing gir mulighet for større avkastning, men dette vil også medføre en større risiko. 
+
+Indeksfond har generelt lav risiko og liten vedlikeholdskostnad. 
+
+[0] http://www.statsbudsjettet.no/Statsbudsjettet-2017/Statsbudsjettet-fra-A-til-A/Konsumprisindeksen/
+
+### Forslag 8 (Hovedstyret)
+
+**Dersom forslag 6 faller**
+
+Online skal spare på høyrentekonto.
+
+_Hvorfor?_
+
+Sparing på høyrentekonto gir mer forutsigbarhet og ingen risiko, sammenlignet med sparing i fond. DNB tilbyr en rente på 1.7%. Dette er en høyere rente enn kontoene vi benytter i dag. Uttak fra høyrentekonto koster penger, så dette bør gjøres på et årlig basis.
+
+### Forslag 9 (Endre Ulberg)
 
 
 Prokom får en økning i utstyrsbudsjettet sitt på 8000,- 
 
 _Hvorfor?_
 
-Vi ønsker å kjøpe inn utstyr som vi har lånt av TH eller Endre. Jmf tidligere genfors sine avgjørelser om at vi ønsker å eie ting istedenfor å låne av medlemmene våre. Eksempler på spesifikke ting er, kamerastativ, minnekort, minnekortleser, mikrofon og filter til linsene. Greenscreen eller annet bakteppe som vi kan bruke som nøytral bakgrunn når vi bruker de store blitsene er også ønsket. Årbokbildene, immball, jubileum og CV-fotograferingen ville kunne ha nytte av dette. I tillegg så skulle vi gjerne hatt filterpapir til den lille blitsen slik at den kan brukes innendørs der vi trenger den mest. Pr I dag så låner vi stativ, mikrofoner og minnekort av enten TH eller Endre. Disse tre tingene er avgjørende for å kunne bruke kamera og burde i det minste være eid av linjeforeningen. 
+Vi ønsker å kjøpe inn utstyr som vi har lånt av Thor Håkon eller Endre. Jmf forrige generalforsamling sin avgjørelse om at vi ønsker å eie ting istedenfor å låne av medlemmene våre. Eksempler på spesifikke ting er, kamerastativ, minnekort, minnekortleser, mikrofon og filter til linsene. Greenscreen eller annet bakteppe som vi kan bruke som nøytral bakgrunn når vi bruker de store blitsene er også ønsket. Årbokbildene, immball, jubileum og CV-fotograferingen ville kunne ha nytte av dette. I tillegg så skulle vi gjerne hatt filterpapir til den lille blitsen slik at den kan brukes innendørs der vi trenger den mest. Pr I dag så låner vi stativ, mikrofoner og minnekort av enten Thor Håkon eller Endre. Disse tre tingene er avgjørende for å kunne bruke kamera og burde i det minste være eid av linjeforeningen. 
 
-### Forslag 8 (Endre Ulberg )
+### Forslag 10 (Endre Ulberg )
 
 Det neste hovedstyret skal i samarbeid med medlemmene utvikle et vedlegg til vedtektene som supplerer og forsterker vedtektene. 
 
@@ -85,7 +107,7 @@ _Hvorfor?_
 
 En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men samtidig utbrodere ytterligere på ting som er viktig. dette dokumentet vil kunne inneholde begrunnelsen for hvorfor vedtekter er slik de er, så folk som kommer etter 5 år kan forstå begrunnelsen. Det kan i tillegg inneholde anbefalte måter å løse eller håndtere situasjoner ved brudd av vedtekter eller regelverk. Dette er ting som ikke nødvendigvis passer inn i vedtektene, men som allikevel kan være av stor verdi for linjeforeningen å ha.
 
-### Forslag 9 (Marius Enerly)
+### Forslag 11 (Marius Enerly)
 
 Online støtter Realfagskjelleren med 6.500 NOK til innkjøp av nytt kassaapparat. Volvox & Alkymisten, Delta og Spanskrøret sponser samme beløp. Kassaapparatet koster totalt 26.312,50 NOK inkl mva.
 
