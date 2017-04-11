@@ -37,7 +37,7 @@ Det er i dag ingen forum der man kan stille spørsmål til sittende hovedstyre, 
 
 ### Forslag 3 (Hovedstyret)
 
-Gjøre påmeldingslistene til sosiale arrangement offentlige. Dette skal være en opt-in feature, og kun navn vil bli synlig.
+Påmeldingslistene til sosiale arrangement på onlineweb skal være offentlige. Dette skal være en opt-in feature, og kun navn vil bli synlig.
 
 _Hvorfor?_
 
@@ -53,6 +53,14 @@ Kontoret skal være et sosialt samlingspunkt for medlemmene, også for de som ø
 
 ### Forslag 5 (Hovedstyret)
 
+**Dersom forslag 4 faller**
+Alle onlines medlemmer som er nåværende studenter ved BIT eller MIT kan søke om å få tilgang til kontoret.
+
+_Hvorfor?_
+
+Kontoret skal være et sosialt samlingspunkt for medlemmene, også for de som ønsker å være på skolen utenom åpningstidene. Alle som får tilgang på godta reglene for bruk av kontoret. Komitémedlemmer skal sitte kontorvakt i åpningstiden.
+
+### Forslag 6 (Hovedstyret)
 
 Det neste hovedstyret skal en gang i måneden la en del av møtet være åpent slik at medlemmer kan komme og stille spørsmål/diskutere ansikt til ansikt med hovedstyret.
 
@@ -60,7 +68,7 @@ _Hvorfor?_
 
 Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra medlemmer.
 
-### Forslag 6 (Endre Ulberg)
+### Forslag 7 (Endre Ulberg)
 
 
 Prokom får en økning i utstyrsbudsjettet sitt på 8000,- 
@@ -68,14 +76,6 @@ Prokom får en økning i utstyrsbudsjettet sitt på 8000,-
 _Hvorfor?_
 
 Vi ønsker å kjøpe inn utstyr som vi har lånt av TH eller Endre. Jmf tidligere genfors sine avgjørelser om at vi ønsker å eie ting istedenfor å låne av medlemmene våre. Eksempler på spesifikke ting er, kamerastativ, minnekort, minnekortleser, mikrofon og filter til linsene. Greenscreen eller annet bakteppe som vi kan bruke som nøytral bakgrunn når vi bruker de store blitsene er også ønsket. Årbokbildene, immball, jubileum og CV-fotograferingen ville kunne ha nytte av dette. I tillegg så skulle vi gjerne hatt filterpapir til den lille blitsen slik at den kan brukes innendørs der vi trenger den mest. Pr I dag så låner vi stativ, mikrofoner og minnekort av enten TH eller Endre. Disse tre tingene er avgjørende for å kunne bruke kamera og burde i det minste være eid av linjeforeningen. 
-
-### Forslag 7 (Endre Ulberg )
-
-Vi legger til en fast post i budsjettet til prokom til kameraforsikring.
-
-_Hvorfor?_
-
-Grunnet at kamera skal bli brukt av både folk i og utenfor linjeforeningen, under immball når vi har fotografer fra andre linjeforeninger, så ønsker vi å forsikre kamera. Det er en 15000,- investrering gjort av linjeforeningen og en forsikring beskytter oss mot et like stort tap av verdi.
 
 ### Forslag 8 (Endre Ulberg )
 
@@ -85,23 +85,23 @@ _Hvorfor?_
 
 En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men samtidig utbrodere ytterligere på ting som er viktig. dette dokumentet vil kunne inneholde begrunnelsen for hvorfor vedtekter er slik de er, så folk som kommer etter 5 år kan forstå begrunnelsen. Det kan i tillegg inneholde anbefalte måter å løse eller håndtere situasjoner ved brudd av vedtekter eller regelverk. Dette er ting som ikke nødvendigvis passer inn i vedtektene, men som allikevel kan være av stor verdi for linjeforeningen å ha.
 
-### Forslag 9 (Marius Enerly )
+### Forslag 9 (Marius Enerly)
 
-Online støtter med en vennlig overføring av noen smule kroner på det lille beløpet av 6.500 NOK til Realfagskjelleren for et kassaapparat, til en samlet pris på 26 312.50 NOK. 
+Online støtter Realfagskjelleren med 6.500 NOK til innkjøp av nytt kassaapparat. Volvox & Alkymisten, Delta og Spanskrøret sponser samme beløp. Kassaapparatet koster totalt 26.312,50 NOK inkl mva.
 
 _Hvorfor?_
-Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med den driften kjelleren har, så er det nødvendig med et kassaapparat som følger den nye kassasystemlova og forskrifta. 
+Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med driften er det nødvendig med et kassaapparat som følger den nye kassasystemlova og -forskrifta. 
 
-Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. Moms. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen og kjelleren, når den åpnes igjen. 
+Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. mva. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen nå, og kjelleren når den åpnes igjen. 
 
-Spanskøreret, Delta og Volvox & Alymisten har alle blitt enige om å komme med et innskudd på 6.500,-. Grunnet kjellerens nåværende økonomiske tilstand vil dette ikke kunne være noe kjelleren kan betale tilbake.
+Spanskøreret, Delta og Volvox & Alymisten har alle blitt enige om å komme med et innskudd på 6.500,-. Grunnet kjellerens økonomiske tilstand kan ikke Realfagskjelleren betale beløpet tilbake.
 
 ### Forslag 10 (Marius Enerly)
 
 Legg til: 
 4.3.x Realfagskjelleren 
-Komiteens hovedoppgave er å legge til rette for et lavterskels sosialt tilbud for studenter ved dens tilhørende linjeforeninger. Realfagskjelleren er frittstående fra linjeforeningen. Realfagskjelleren vil å ha en kjellerkontakt som skal fungere som et kommunikasjonskanal mellom Realfagskjelleren og Online.
+Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen. 
 
 _Hvorfor?_
 
-Siden 2001 har Realfagskjelleren vært en del av Online. Kjelleren har alltid vært en del av online, og det er viktig å vise sin tilhørighet til kjelleren. Et steg for å fremme kjelleren innad i Online er å sette Realfagskjelleren som en nodekomite av Online hvor det spesifiseres “chain of command” mellom Online og kjelleren.
+Siden 2001 har Realfagskjelleren vært en del av Online, og det er viktig for kjelleren å stadfeste dette forholdet. For å bedre kommunikasjonen mellom Realfagskjelleren og Online skal det være en kjellerkontakt i Hovedstyret, som Realfagskjelleren kan ha direkte kontakt med.
