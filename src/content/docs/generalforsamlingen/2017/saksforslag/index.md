@@ -95,13 +95,3 @@ Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften
 Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. mva. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen nå, og kjelleren når den åpnes igjen. 
 
 Spanskøreret, Delta og Volvox & Alymisten har alle blitt enige om å komme med et innskudd på 6.500,-. Grunnet kjellerens økonomiske tilstand kan ikke Realfagskjelleren betale beløpet tilbake.
-
-### Forslag 10 (Marius Enerly)
-
-Legg til: 
-4.3.x Realfagskjelleren 
-Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen. 
-
-_Hvorfor?_
-
-Siden 2001 har Realfagskjelleren vært en del av Online, og det er viktig for kjelleren å stadfeste dette forholdet. For å bedre kommunikasjonen mellom Realfagskjelleren og Online skal det være en kjellerkontakt i Hovedstyret, som Realfagskjelleren kan ha direkte kontakt med.
