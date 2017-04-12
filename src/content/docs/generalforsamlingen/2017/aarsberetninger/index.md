@@ -15,8 +15,6 @@ title: "Årsberetninger 2017"
 
 [TOC]
 
----
-
 ## Hovedstyret
 
 ## Arrangementskomiteen
