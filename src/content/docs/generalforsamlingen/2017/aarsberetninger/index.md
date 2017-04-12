@@ -36,6 +36,7 @@ title: "Årsberetninger 2017"
         - Skrevet i React.JS mot API-et til OW4.
     - Nytt elektronisk stemmesystem til generalforsamlingen.
         - Skrevet i React.JS (frontend) og Node.JS (backend), bruker WebSockets for real-time asynkron kommunikasjon.
+- Har i flere tilfeller samarbeidet med prokom for input til design av web-en.
 - Drift:
     - Har startet å se mer mot skyen for kritiske ting ettersom det virker som NTNU ikke bryr seg så veldig om lokale servere. Har planer om å satse i større grad fra høsten av.
     - Kommer til å fortsette å drifte ting lokalt, som f.eks. filområder, mindre viktige tjenester og ha muligheten for å leke og lære litt om drift av servere på serverne som ikke drifter kritiske ting (slik som i dag).
