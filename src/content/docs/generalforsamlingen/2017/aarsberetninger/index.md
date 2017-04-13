@@ -19,6 +19,30 @@ title: "Årsberetninger 2017"
 
 ## Bedriftskomiteen
 
+* Har tatt opp fem medlemmer, derav tre er førsteklassinger, én andreklassing og én fjerdeklassing. Vi er totalt 13 nå, med to i permisjon. 
+* Skiftet og lært opp økonomiansvarlig.
+* Vært på Oslotur to ganger sammen med fagkom, og besøkt tilsammen 15 bedrifter. I tillegg har vi besøkt to bedrifter her i Trondheim.
+* Vi har hatt teambuilding med fagkom både på høstsemestert og vårsemesteret.
+* Vi har også hatt teambuilding med Abakus på høstsemesteret.
+* 45 karrieremuligheter.
+* 8 muligheter-e-poster sendt ut.
+* Bookingrunden gjennomført begge semestre.
+* Signert ny hovedsamarbeidsavtale med Sopra Steria.
+
+### Høstsemesteret 2016
+
+* Skaffet én gullsponsor og to sølvsponsorer til fadderperioden.
+* To bedriftsarrangementer i fadderperioden.
+* Ti bedriftspresentasjoner.
+* Tre KID-arrangementer. Ett i fadderperioden for førsteklasse og to i løpet av semesteret.
+* Gjennomført jubileumsarrangement med fagkom.
+* Skaffet syv sponsorer til TechTalks
+
+### Vårsemesteret 2017
+* Gjennomført elleve bedriftspresentasjoner.
+* Gjennomført to KID-arrangementer.
+* Jobber med å finner sponsorer til fadderperioden 2017.
+
 ## Drifts- og utviklingskomiteen
 
 - Tok opp 6 nye medlemmer.
