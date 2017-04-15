@@ -106,6 +106,26 @@ title: "Årsberetninger 2017"
 
 ## Ekskursjonskomiteen 2017
 
+### Turen
+- Planlagt tur til Seoul i Sør-Korea 2. april - 18. april
+- 53 informatikere på tur
+- Fem dager med bedriftsbesøk, hvorav vi har besøkt blant annet LG, Samsung, Microsoft og ambassaden. 
+- Fire dager med kulturelt opplegg før deltakerne kunne gjøre det de ville.
+
+### Økonomi
+- Arrangert dugnader for å samle inn midler til turen, da hovedsakelig hos IDI.
+- Arrangert Tech Talks med stor suksess. Hadde 7 sponsorer. 
+- Alt overskudd føres tilbake til deltakerne. 
+
+### Administrativt
+- 11 medlemmer med ulike ansvarsområder
+- Samarbeidet med IDI om turen.
+- Startet opp ekskom18 ved å prøve ut valg av leder og nestleder.
+- Hjulpet ekskom18 i gang.
+- Laget en wikiside om det meste om å arrangere tur.
+- Fått mye kontakter i Sør-Korea.
+
+
 ## IT-ekskursjonen
 
 ## Jubileumskomiteen 2016
