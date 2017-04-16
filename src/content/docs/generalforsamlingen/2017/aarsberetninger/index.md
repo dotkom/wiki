@@ -137,3 +137,12 @@ title: "Årsberetninger 2017"
 ## Realfagskjelleren
 
 ## Casual Gaming
+* Valgt nytt styre
+* Arrangert tre LAN, to på høsten og ett på våren
+    * To av dem var kun åpne for studenter (studlan)
+    * Ett var åpent for allmennheten (trøndelan)
+* Vi har hatt 332 betalende medlemmer
+* Arrangert to konsoll- og brettspillkvelder
+* CaG Brett og CaG Konsoll er slått sammen
+* Kommunen har satt opp et pilotprosjekt for e-sport
+    * Prøver å samarbeide med Techonoport og Work-Work om dette.
