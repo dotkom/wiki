@@ -108,6 +108,7 @@ title: "Årsberetninger 2017"
 - Alt overskudd føres tilbake til deltakerne. 
 
 ### Administrativt
+- Tatt inn under Online og deler nå økonomi
 - 11 medlemmer med ulike ansvarsområder
 - Samarbeidet med IDI om turen.
 - Startet opp ekskom18 ved å prøve ut valg av leder og nestleder.
