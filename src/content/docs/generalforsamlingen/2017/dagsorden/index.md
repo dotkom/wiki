@@ -13,77 +13,121 @@ title: "Dagsorden 2017"
 **Merk at tidspunktene etter saks- og vedtektsforslag er litt veiledene med tanke på hvor lang tid man bruker på alle forslagene. Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 
 
-16:15
+### Administrativt
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 5 | 16.15 | 16.20 | Velkommen v/leder |   |
+| 1 | 16.20 | 16.21 | Valg av ordstyrer  |   |
+| 1 | 16.21 | 16.22 | Valg av referenter |   |
+| 2 | 16.22 | 16.24 | Valg av tellekorps  |   |
+| 2 | 16.24 | 16.26 | Valg av paraferer  |   |
+| 3 | 16.26 | 16.29 | Gjennomgang av tegnsetting  |   |
+| 5 | 16.29 | 16.34 | Gjennomgang av stemmesystem  |   |
+| 1 | 16.34 | 16.35 | Godkjenning av forretningsorden  |   |
+| 1 | 16.35 | 16.36 | Godkjenning av gjester  |   |
+| 1 | 16.36 | 16.37 | Godkjenning av talerett  |   |
+| 1 | 16.37 | 16.38 | Godkjenning av stemmeberettigede  |   |
+| 1 | 16.38 | 16.39 | Godkjenning av Dagsorden  |   |
+| 1 | 16.39 | 16.40 | Godkjenning av referat fra 18. april 2016  |   |
+| 1 | 16.40 | 16.41 | Godkjenning av innkalling  |   |
+| 1 | 16.41 | 16.42 | Godkjenning av saksliste  |   |
 
-1. Velkommen v/leder
-2. Valg av ordstyrer 
-3. Valg av referenter
-4. Valg av tellekorps
-5. Valg av to paraferer
-6. Gjennomgang av stemmesystem
-7. Godkjenning av forretningsorden
-8. Godkjenning av oppmøtte
-    * 8.1. Godkjenning av gjester
-    * 8.2. Godkjenning av talerett
-    * 8.3. Godkjenning av stemmeberettigede 
-9. Godkjenning av referat fra 18. april 2016
-10. Godkjenning av innkalling
-11. Godkjenning av saksliste
-12. Dagsorden
 
-17:15
+# 3 minutter for HS til å gjøre seg klare til årsberetninger
 
-* 13 Årsberetninger
-    * 13.1 - Administrative
-        * 13.1.1 - Hovedstyret
-    * 13.2 - Komiteer
-        * 13.2.1 - Bank- og økonomikomiteen
-        * 13.2.2 - Arrangementskomiteen
-        * 13.2.3 - Bedriftskomiteen
-        * 13.2.4 - Drifts- og utviklingskomiteen
-        * 13.2.5 - Fag- og kurskomiteen
-        * 13.2.6 - Profil- og aviskomiteen
-        * 13.2.7 - Trivselskomiteen
-        * 13.2.8 - Seniorkomiteen
-    * 13.3 - Nodekomiteer
-        * 13.3.1 - Applikasjonskomiteen
-        * 13.3.2 - Ekskursjonskomiteen 2017
-        * 13.3.3 - IT-ekskursjonen
-        * 13.3.4 - Jubileumskomiteen 2016
-        * 13.3.5 - Velkomstkomiteen 2016
-    * 13.4 - Andre
-        * 13.4.1 - Datakameratene FK
-        * 13.4.2 - Realfagskjellern
-        * 13.4.3 - Casual Gaming
 
-18:30 - 5 minutters pause
+### Årsberetninger
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 5 | 16.45 | 16.50 | Årsberetning Hovedstyret  |   |
+| 5 | 16.50 | 16.55 | Årsberetning Bank- og økonomikomiteen  |   |
+| 5 | 16.55 | 17.00 | Årsberetning Arrangementskomiteen  |   |
+| 5 | 17.00 | 17.05 | Årsberetning Bedriftskomiteen  |   |
+| 5 | 17.05 | 17.10 | Årsberetning Drifts- og utviklingskomiteen  |   |
+| 5 | 17.10 | 17.15 | Årsberetning Fag- og kurskomiteen  |   |
+| 5 | 17.15 | 17.20 | Årsberetning Profil- og aviskomiteen  |   |
+| 5 | 17.20 | 17.25 | Årsberetning Trivselskomiteen  |   |
+| 5 | 17.25 | 17.30 | Årsberetning Seniorkomiteen  |   |
+| 5 | 17.30 | 17.35 | Årsberetning Applikasjonskomiteen  |   |
+| 5 | 17.35 | 17.40 | Årsberetning Ekskursjonskomiteen 2017  |   |
+| 5 | 17.40 | 17.45 | Årsberetning IT-ekskursjonen  |   |
+| 5 | 17.45 | 17.50 | Årsberetning Jubileumskomiteen 2016  |   |
+| 5 | 17.50 | 17.55 | Årsberetning Velkomstkomiteen 2016  |   |
+| 5 | 17.55 | 18.00 | Årsberetning Datakameratene FK  |   |
+| 5 | 18.00 | 18.05 | Årsberetning Realfagskjellern  |   |
+| 5 | 18.05 | 18.10 | Årsberetning Casual Gaming  |   |
 
-* 14 Innsendte saker og vedtektsendringer
-     * 14.1 Saksforslag
-     * [Saksforslag finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/saksforslag)
-         
-    * 14.2 Vedtektsforslag  
 
-    * [Vedtektsforslag finner du her](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/vedtekstforslag/)
-        
-21:00 - Pause (30 min)
+# Pause 15 minutter
 
-* 15 Godkjenning av regnskap 2016 og budsjett 17/18
 
-22:15 - Pause (5 min)
+### Saksforslag
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 10 | 18.25 | 18.35 | saksforslag 1 v/Christoffer  |   |
+| 10 | 18.35 | 18.45 | saksforslag 2 v/Signe  |   |
+| 15 | 18.45 | 19.00 | saksforslag 3 v/Hovedstyret  |   |
+| 25 | 19.00 | 19.25 | saksforslag 4 v/Hovedstyret  |   |
+| 10 | 19.25 | 19.35 | saksforslag 5 v/Hovedstyret  |   |
+| 10 | 19.35 | 19.45 | saksforslag 6 v/Hovedstyret  |   |
+| 20 | 19.45 | 20.05 | saksforslag 7 v/Hovedstyret  |   |
+| 10 | 20.05 | 20.15 | saksforslag 8 v/Hovedstyret  |   |
+| 15 | 20.15 | 20.30 | saksforslag 9 v/Endre  |   |
+| 15 | 20.30 | 20.45 | saksforslag 10 v/Endre  |   |
+| 15 | 20.45 | 21.00 | saksforslag 11 v/Marius  |   |
 
-* 16 Valg - Se [2017 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2017/valg)
-    * 16.1 - Valg av leder
-    * 16.2 - Valg av nestleder
-    * 16.3 - Valg av leder av arrangementskomiteen
-    * 16.4 - Valg av leder av bank- og økonomikomiteen
-    * 16.5 - Valg av leder av bedriftskomiteen
-    * 16.6 - Valg av leder av drifts- og utviklingskomiteen
-    * 16.7 - Valg av leder av fag- og kurskomiteen
-    * 16.8 - Valg av leder av profil- og aviskomiteen
-    * 16.9 - Valg av leder av trivselskomiteen
-    * 16.10 - Valg av valgkomite
 
-24:00
+# Pause 30 min med pizza
 
-* 17 Medaljeutdeling
+
+### Vedtektsforslag
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 10 | 21.30 | 21.40 | Vedtektsforslag 1 v/Christoffer  |   |
+| 5  | 21.40 | 21.45 | Vedtektsforslag 2 v/Christoffer  |   |
+| 5  | 21.45 | 21.50 | Vedtektsforslag 3 v/Hovedstyret  |   |
+| 5  | 21.50 | 21.55 | Vedtektsforslag 4 v/Hovedstyret  |   |
+| 5  | 21.55 | 22.00 | Vedtektsforslag 5 v/Hovedstyret  |   |
+| 5  | 22.00 | 22.05 | Vedtektsforslag 6 v/Hovedstyret  |   |
+| 5  | 22.05 | 22.10 | Vedtektsforslag 7 v/Hovedstyret  |   |
+| 10 | 22.10 | 22.20 | Vedtektsforslag 8 v/Hovedstyret  |   |
+| 15 | 22.20 | 22.35 | Vedtektsforslag 9 v/Endre  |   |
+| 10 | 22.35 | 22.45 | Vedtektsforslag 10 v/Endre  |   |
+| 15 | 22.45 | 23.00 | Vedtektsforslag 11 v/Marius  |   |
+| 5  | 23.00 | 23.05 | Vedtektsforslag 12 v/August  |   |
+
+
+# Pause 15 min
+
+
+### Regnskap
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 30 | 23.20  | 23.50  | Godkjenning av regnskap 2016 og budsjett 17/18  |   |
+
+
+# 1 minutt for å gjøre seg klar til valg
+
+
+### Valg
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 20 | 23.51  | 00.11  | Valg av leder  |   |
+| 20 | 00.11  | 00.31  | Valg av nestleder  |   |
+| 15 | 00.31  | 00.46  | Valg av leder av arrangementskomiteen  |   |
+| 15 | 00.46  | 01.01  | Valg av leder av bank- og økonomikomiteen  |   |
+| 15 | 01.01  | 01.16  | Valg av leder av bedriftskomiteen  |   |
+| 15 | 01.16  | 01.31  | Valg av leder av drifts- og utviklingskomiteen  |   |
+| 15 | 01.31  | 01.46  | Valg av leder av fag- og kurskomiteen  |   |
+| 15 | 01.46  | 02.01  | Valg av leder av profil- og aviskomiteen  |   |
+| 15 | 02.01  | 02.16  | Valg av leder av trivselskomiteen  |   |
+| 10 | 02.16  | 02.26  | Valg av leder av valgkomite  |   |
+
+
+# 5 minutter til å ta bilde av det nye HS
+
+
+### Medaljeutdeling
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 15 | 02.31  | 02.46  | Medaljeutdeling  |   |
