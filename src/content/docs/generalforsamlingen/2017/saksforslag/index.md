@@ -18,8 +18,6 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 [TOC]
 
-
-
 ### Forslag 1 (Christoffer Lofsberg)
 
 Ved valg hvor det stiller flere kandidater, byttes spørsmålsrunden ut med en åpen spørsmålsrunde etter alle kandidatenes appeller. Alle kandidater svarer på samme spørsmål og hører på hverandres svar. Det rulleres på hvem som starter med å svare. Forslaget vil tre i kraft umiddelbart. (Spørsmålsrunden vil foregå etter kandidatene sine appeller og disse vil fortsatt foregå uten at kandidatene hører hverandres).
@@ -33,6 +31,7 @@ Spørsmålsrunden ved tidligere valg har enkelte ganger blitt brukt til useriøs
 Under generalforsamlingen skal det settes av tid (foreslått: 30 min) til å evaluere sittende hovedstyre, hvor medlemmene får mulighet til å stille spørsmål. Hovedstyremedlemmenes valgsaker fra forrige generalforsamling kan tas opp, og hovedstyremedlemmene får mulighet til å svare for hvordan arbeidet med valgsakene har blitt utført og oppfylt. Dette bør skje før valg av nytt hovedstyre.
 
 _Hvorfor?_
+
 Det er i dag ingen forum der man kan stille spørsmål til sittende hovedstyre, foruten å sende mail. Dette er uheldig, og gir ikke medlemmene mulighet til å være oppdatert på hovedstyremedlemmenes aksjoner. Ved å ha en evalueringsrunde på slutten av et hovedstyreverv kan medlemmene få mulighet til å spørre hvordan, eller hvordan ikke, valgløfter har blitt oppfylt. Dette kan være verdifult for neste hovedstyre, komitémedlemmer, samt for medlemmer som skal stemme inn nye kandidater. Spesielt dersom noen stiller til gjenvalg. Det er heller ikke noe i veien for at dette kan gjøres tidligere i perioden, men det finnes per i dag ingen arena der medlemmene er samlet på samme måte, og i samme antall, som på generalforsamlingen.
 
 ### Forslag 3 (Hovedstyret)
@@ -54,6 +53,7 @@ Kontoret skal være et sosialt samlingspunkt for medlemmene, også for de som ø
 ### Forslag 5 (Hovedstyret)
 
 **Dersom forslag 4 faller**
+
 Alle onlines medlemmer som er nåværende studenter ved BIT eller MIT kan søke om å få tilgang til kontoret.
 
 _Hvorfor?_
