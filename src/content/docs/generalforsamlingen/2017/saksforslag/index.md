@@ -70,11 +70,13 @@ Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra m
 
 ### Forslag 7 (Hovedstyret)
 
-Online skal spare i indeksfond. 
+Online skal spare minst 100.000 kr i indeksfond. Fondet administreres av Hovedstyret. 
+
+Hovedstyret skal utforme retningslinjer for søknader og utdeling av midler. Retningslinjene skal ut på høring blant medlemmene før retningslinjene blir vedtatt. Medlemmenes tilbakemeldinger skal tas til etterfølge.
 
 _Hvorfor?_
 
-Den høyeste renten man kan få på en høyrentekonto i 2017 er mellom 1.7% og 1.8%. Regjeringen anslår at konsumprisindeksen i 2017 kommer til å være 2.0% [0]. Med 1.8% i rente taper vi i effekt penger. Fondsparing gir mulighet for større avkastning, men dette vil også medføre en større risiko. 
+Den høyeste renten man kan få på en høyrentekonto i 2017 er mellom 1.7% og 1.8%. Regjeringen anslår at konsumprisindeksen i 2017 kommer til å være 2.0% [0]. Med 1.8% i rente taper vi i effekt penger. Fondsparing gir mulighet for større avkastning, men dette vil også medføre en høyere risiko enn høyrentekonto. 
 
 Indeksfond har generelt lav risiko og liten vedlikeholdskostnad. 
 
@@ -82,9 +84,11 @@ Indeksfond har generelt lav risiko og liten vedlikeholdskostnad.
 
 ### Forslag 8 (Hovedstyret)
 
-**Dersom forslag 6 faller**
+**Dersom forslag 7 faller**
 
-Online skal spare på høyrentekonto.
+Online skal spare på høyrentekonto. Overskuddet fra høyrentekontoen administreres av Hovedstyret etter søknader fra Onlines medlemmer.
+
+Hovedstyret skal utforme retningslinjer for søknader og utdeling av midler. Retningslinjene skal ut på høring blant medlemmene før retningslinjene blir vedtatt. Medlemmenes tilbakemeldinger skal tas til etterfølge.
 
 _Hvorfor?_
 
