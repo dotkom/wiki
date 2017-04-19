@@ -103,8 +103,8 @@ title: "Dagsorden 2017"
 |---|---|---|---|---|
 | 20 | 23.51  | 00.11  | Valg av leder  |   |
 | 20 | 00.11  | 00.31  | Valg av nestleder  |   |
-| 15 | 00.31  | 00.46  | Valg av leder av arrangementskomiteen  |   |
 | 15 | 00.46  | 01.01  | Valg av leder av bank- og økonomikomiteen  |   |
+| 15 | 00.31  | 00.46  | Valg av leder av arrangementskomiteen  |   |
 | 15 | 01.01  | 01.16  | Valg av leder av bedriftskomiteen  |   |
 | 15 | 01.16  | 01.31  | Valg av leder av drifts- og utviklingskomiteen  |   |
 | 15 | 01.31  | 01.46  | Valg av leder av fag- og kurskomiteen  |   |
