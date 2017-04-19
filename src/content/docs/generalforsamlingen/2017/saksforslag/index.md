@@ -116,6 +116,7 @@ En slikt dokument vil tillatte oss å ha kortfattete og konsise vedtekter men sa
 Online støtter Realfagskjelleren med 6.500 NOK til innkjøp av nytt kassaapparat. Volvox & Alkymisten, Delta og Spanskrøret sponser samme beløp. Kassaapparatet koster totalt 26.312,50 NOK inkl mva.
 
 _Hvorfor?_
+
 Nå som Realfagskjelleren skal gjenåpnes, har Sit satt høyere krav til driften av kjellerne. For å fortsette med driften er det nødvendig med et kassaapparat som følger den nye kassasystemlova og -forskrifta. 
 
 Reddkjellerne har vært i kontakt med Response Retail, og fått tilbud om et brukt kassaapparat, skuff, og bankterminal til en samlet pris på 21050 NOK, eksl. mva. (15900 + 1650 + 3500). Kassaapparatet er nødvendig for driften av Barnehagen nå, og kjelleren når den åpnes igjen. 
