@@ -10,7 +10,7 @@ title: "Dagsorden 2017"
 * [2017 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2017/valg) - Er du klar for et verv i Hovedstyret?
 
 
-**Merk at tidspunktene etter saks- og vedtektsforslag er litt veiledene med tanke på hvor lang tid man bruker på alle forslagene. Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
+**Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 
 
 ### Administrativt
