@@ -70,7 +70,7 @@ Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra m
 
 ### Forslag 7 (Hovedstyret)
 
-Online skal spare minst 100.000 kr i indeksfond. Fondet administreres av Hovedstyret. 
+Online skal spare minst 100.000 kr i indeksfond. Overskuddet fra fondet administreres av Hovedstyret etter søknader fra Onlines medlemmer.
 
 Hovedstyret skal utforme retningslinjer for søknader og utdeling av midler. Retningslinjene skal ut på høring blant medlemmene før retningslinjene blir vedtatt. Medlemmenes tilbakemeldinger skal tas til etterfølge.
 
