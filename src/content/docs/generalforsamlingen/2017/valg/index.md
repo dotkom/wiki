@@ -17,8 +17,8 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 * *Leder:* Christoffer Lofsberg, Didrik Pemmer Aalen
 * *Nestleder:*
-* *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken, Johannes Kvamme  
 * *Bankom:*
+* *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken, Johannes Kvamme  
 * *Bedkom:* 
 * *Dotkom:* Anders Larsen, Aslak Hollund
 * *Fagkom:* Henrik Munkeberg
