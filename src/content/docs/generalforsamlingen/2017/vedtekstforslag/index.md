@@ -148,7 +148,7 @@ _Hvorfor?_
 
 Slik det står nå kreves det akkurat 2/3 av stemmene. For å presisere det som har vært sedvane legges ordet "minst" til.
 
-### Forslag 9 (Endre Ulberg)
+### Forslag 10 (Endre Ulberg)
 
 **3.3:**
 
@@ -183,7 +183,7 @@ _Hvorfor?_
 
 Dette vil sikre at det i mindre grad er noen form for vinning hos paraferene i å forandre referatet vårt. Det vil også gjøre det mindre sannsynlig at det nye Hovedstyrer er for nært tilknyttet paraferene. Dermed sikrer vi større grad av demokrati og at makten alltid forblir hos generalforsamlingen.
 
-### Forslag 10 (Endre Ulberg)
+### Forslag 11 (Endre Ulberg)
 
 **6:**
 
@@ -194,7 +194,7 @@ _Hvorfor?_
 
 Vedlegget til paragrafen vil føre til at ingen kan utnytte linjeforeningen. Dette vil i tillegg ikke hemme daglig drift, eller ramme komiteer som får teambuildingpenger o.l.
 
-### Forslag 11 (Marius Enerly)
+### Forslag 12 (Marius Enerly)
 
 Legg til: 
 4.3.x Realfagskjelleren 
@@ -204,7 +204,7 @@ _Hvorfor?_
 
 Siden 2001 har Realfagskjelleren vært en del av Online, og det er viktig for kjelleren å stadfeste dette forholdet. For å bedre kommunikasjonen mellom Realfagskjelleren og Online skal det være en kjellerkontakt i Hovedstyret, som Realfagskjelleren kan ha direkte kontakt med.
 
-### Forslag 12 (August Solvang)
+### Forslag 13 (August Solvang)
 
 **Under §5 og §7:**
 
