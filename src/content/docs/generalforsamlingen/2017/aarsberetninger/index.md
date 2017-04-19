@@ -27,7 +27,7 @@ title: "Årsberetninger 2017"
 * Holdt spør-HS-kveld, økonomi- og vedtektskveld og workshop for å diskutere tilbakemeldinger fra medlemmene
 * Sendt ut spørreundersøkelse etter fadderukene og immballet
 * Utnevnt to nye æresmedlemmer (Åsmund Eldhuset og Tjerand Silde)
-* Inngått prøveavtale med Trondheim Bilkollektiv
+* Fått ny bod på IT-Vest, som deles med ITDagene
 * Prøvd å inkludere komiteene oftere i avgjørelser vi har tatt. Fått tilbakemeldinger på at vi har vært flinke og ikke så flinke
 * Søkt om støtte fra IDI for 2017, fått 30k innvilget som er fordelt slik: 
     * 15 000 kr til masterfadderuker
