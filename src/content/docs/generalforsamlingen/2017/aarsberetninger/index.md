@@ -112,6 +112,10 @@ title: "Årsberetninger 2017"
 ## Profil- og aviskomiteen
 
 ## Trivselskomiteen
+- Har startet et prøveprosjekt hvor Online er medlem av Trondheim Bilkollektiv, dette har gjort handleturene til trikom uendelig mye lettere
+- Har startet med månedens triveligste for å hedre de som gjør litt ekstra for økt trivsel til alle
+- Vi har hatt workshop for å bedre planlegge semesterne, dette vil vi fortsette med
+- 9 arrangementer og 20 seriefrokoster
 
 ## Seniorkomiteen
 
