@@ -15,9 +15,9 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 **De som har meldt interesse er:**
 
-* *Leder:* Christoffer Lofsberg, Didrik Pemmer Aalen
+* *Leder:* Didrik Pemmer Aalen
 * *Nestleder:*
-* *Bankom:*
+* *Bankom:* Christoffer Lofsberg
 * *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken, Johannes Kvamme  
 * *Bedkom:* 
 * *Dotkom:* Anders Larsen, Aslak Hollund
