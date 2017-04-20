@@ -56,7 +56,7 @@ title: "Dagsorden 2017"
 | 5 | 17.56 | 18.01 | Årsberetning Datakameratene FK  |   |
 | 5 | 18.01 | 18.06 | Årsberetning Realfagskjellern  |   |
 | 5 | 18.06 | 18.11 | Årsberetning Casual Gaming  |   |
-| Total tid: | |86 min|
+| Total tid: | |1 t 26 min|
 
 # Pause 15 minutter
 
@@ -82,7 +82,7 @@ title: "Dagsorden 2017"
 | 15 | 21.27 | 21.42 | saksforslag 9 v/Endre  |   |
 | 15 | 21.42 | 21.57 | saksforslag 10 v/Endre  |   |
 | 15 | 21.57 | 22.12 | saksforslag 11 v/Marius  |   |
-| Total tid: | |191 min|
+| Total tid: | |3 t 11 min|
 
 # Pause 30 min med pizza
 
@@ -102,7 +102,7 @@ title: "Dagsorden 2017"
 | 10 | 23.52 | 00.02 | Vedtektsforslag 11 v/Endre  |   |
 | 15 | 00.02 | 00.17 | Vedtektsforslag 12 v/Marius  |   |
 | 5  | 00.17 | 00.22 | Vedtektsforslag 13 v/August  |   |
-| Total tid: | |100 min|
+| Total tid: | |1 t 40 min|
 
 # Pause 15 min
 
@@ -119,7 +119,7 @@ title: "Dagsorden 2017"
 | 15 | 02.32  | 02.47  | Valg av leder av profil- og aviskomiteen  |   |
 | 15 | 02.47  | 03.02  | Valg av leder av trivselskomiteen  |   |
 | 10 | 03.02  | 03.12  | Valg av leder av valgkomite  |   |
-| Total tid: | |155 min|
+| Total tid: | |2 t 35 min|
 
 # 5 minutter til å ta bilde av det nye HS
 
