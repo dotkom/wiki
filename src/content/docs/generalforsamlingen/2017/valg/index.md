@@ -15,8 +15,8 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 **De som har meldt interesse er:**
 
-* *Leder:* Didrik Pemmer Aalen, Erik Wiker
-* *Nestleder:*
+* *Leder:* Didrik Pemmer Aalen
+* *Nestleder:* Erik Wiker
 * *Bankom:* Christoffer Lofsberg
 * *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken, Johannes Kvamme  
 * *Bedkom:* 
