@@ -153,6 +153,13 @@ title: "Årsberetninger 2017"
 
 ## IT-ekskursjonen
 
+* Tok opp 3 nye medlemmer våren 2015 fra tredje- og fjerde-klasse.
+* Totalt 5 aktive medlemmer som arrangerte turen.
+* 50 studenter var med på turen
+* Turen varte fra 30. august til 2. september
+* 6 Bedrifter ble besøkt, hvorav 2 av dem var ikke-konsulentbedrifter
+* Flyreise, transport til og fra bedrifter, og 3 netters hotellopphold ble dekket av bedriftene.
+
 ## Jubileumskomiteen 2016
 
 ## Velkomstkomiteen 2016
