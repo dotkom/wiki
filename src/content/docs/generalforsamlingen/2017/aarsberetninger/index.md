@@ -110,6 +110,35 @@ title: "Årsberetninger 2017"
 ## Fag- og kurskomiteen
 
 ## Profil- og aviskomiteen
+- Har tatt opp seks medlemmer
+- Tre medlemmer sluttet i løpet av året
+- Tok opp ny økonomiansvarlig og redaktørminion
+- Hatt to runder med medarbeidersamtaler, ett hvert semester
+- Fått en i prokom i velkom
+
+### Grafisk:
+- Fikk solgt 26 Online-gensere før sommeren, og holder på med et nytt design nå
+- Fikk levert ut årboka rett etter sommeren, satser på å få levert årboka før sommeren i år
+- Produserte profileringsmateriale til fadderuka
+- Produserte grafisk materiell til immballet, blant annet et nytt banner
+- Bestillingssystemet viser 75 bestillinger
+
+### Venner:
+- Hatt teambuilding med PR i Abakus, og samarbeidet om profileringsustyr til KiD-arrangementer og X-fest
+- Vi fotograferte på deres immball og jubileum, og motsatt
+- Vært på date med readme, kjæresten vår, og skal på en ny date dette semesteret
+- Fordi vårt gamle trykkeri Indergaard og Svenil ble lagt ned, har vi vært på utkikk etter nytt trykkeri til både Offline og plakater. Midlertidig løsning for plakater har vært NTNU trykk, og Offline har vi trykket én gang hos Fagtrykk. Nå har vi fått en god avtale med, og bestemt oss for å satse på CopyCat til både Offline og plakater. 
+
+### Offline:
+- Gitt ut 4 utgaver, to hvert semester
+- Vært med på Gullblekka for fjerde gang. Vi ble nominert til «Årets morsomste artikkel» og vant «Åpen klasse». Vi kom på andreplass på Gullblokka, som er folkeprisen.
+- Fått ut 11 artikler på OW4
+
+### Andre ting:
+- Vi har fått kjøpt kamera, er veldig fornøyde med det
+- Hadde CV-fotografering på høsten, noe som var vellykket
+- Lagde fadderuke-film som kom opp på nyåret
+
 
 ## Trivselskomiteen
 - Har startet et prøveprosjekt hvor Online er medlem av Trondheim Bilkollektiv, dette har gjort handleturene til trikom uendelig mye lettere
