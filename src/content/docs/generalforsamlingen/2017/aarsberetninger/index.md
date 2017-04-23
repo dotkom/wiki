@@ -148,6 +148,22 @@ title: "Årsberetninger 2017"
 
 ## Seniorkomiteen
 
+* Har vært 8 aktive medlemmer første semester og 7 det andre.
+    * Mistet en grunnet studie.
+    * En ny rett før genfors.- totalt 8 igjen.
+* Vi har for 2. gang gjennomført fadderuke for masterstudentene.
+* Utførte komitékickoff med etterfulgt fest.
+* Var med på å gjennomføre Reeboot.
+* Begynte å barinstorme om å samle Onlines historie.
+    * Nedprioritert grunnet arbeidsmengde.
+* Flere teambuildingskvelder og sosiale kvelder. Både alene og med Backup i Abakus.
+* Opplæring og kursing av hovedstyret for første gang.
+* Vært med på å starte tillitsvalgtordningen.
+* Er i gang med utmatrikuleringen som skal skje 9. juni.
+    * En del endringer i planleggingen grunnet fusjonen.
+* Seniorkom har vært involvert i hs hele året
+
+
 ## Applikasjonskomiteen
 
 * Overført prosjekter fra utgående medlemmer
