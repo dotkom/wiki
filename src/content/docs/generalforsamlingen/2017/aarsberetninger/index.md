@@ -196,6 +196,14 @@ title: "Årsberetninger 2017"
 ## Datakameratene FK
 
 ## Realfagskjelleren
+* Nye leder, nestleder og økonomiansvarlig: Andreas Eikeland (abakus), Anders noe (volvox), og Sigurd Wie (Online)
+* Medlemmer fra Online, Martin Bjerke, Sigurd Wie, Andreas F Eikeland, Petter Rostrup, (Marius Enerly går ut)
+* Har hatt totalt 8 arr + quizer
+* Flytter mest sannsynligvis til HK12 tidligst til jul
+* Inntil da organiserer Reddkjellerne gamle Moholt barnehage og kjelleren deler et område med smørekoppen
+* Har tatt kontakt med alle faddergruppene og funnet datoer for arr i fadderperioden. 
+* Trenger kassaapparat, ganske dyrt
+
 
 ## Casual Gaming
 * Valgt nytt styre
