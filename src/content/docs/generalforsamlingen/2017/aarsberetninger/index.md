@@ -135,7 +135,7 @@ title: "Årsberetninger 2017"
 - Hadde midtsemesterforelesning i samarbeid fagkom Abakus
 - Vært med på Javazone Academy 
 - Skal ha 3 eksamenskurs, to av de i samarbeid med fagkom Abakus
-- Skal også ha sikkerhet og sårbarhets-event
+- Skal også være med på sikkerhet og sårbarhet, studentaften
 
 ## Profil- og aviskomiteen
 - Har tatt opp seks medlemmer
