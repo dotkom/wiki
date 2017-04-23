@@ -109,6 +109,34 @@ title: "Årsberetninger 2017"
 
 ## Fag- og kurskomiteen
 
+- Tok opp fire nye, alle fra første klasse. En sluttet til jul, så vi er nå tretten personer + en i seniorkom 
+- Ny økonomiansvarlig og nestleder
+- Har hatt et bra samarbeid med bedkom og fagkom Abakus, og hatt 2 sosialkvelder med hver av de
+- Dratt på oslotur 2. ganger med bedkom
+- Fulgt opp ekskursjonskomiteen
+
+
+### Høsten 2016
+- Hadde ny-i-trondheim-kurs i fadderuka
+- Gjennomført 9 kurs i samarbeid med bedrifter
+- To eksamenskurs og to midtsemesterforelesninger sammen med fagkom Abakus
+- Planlagt og gjennomført jubileumskurs sammen med jubkom
+- Holdte eget ITGK-kickstart kurs
+- Gjennomført bookingrunden
+- Startet samarbeid med dataforeningen (DND) og vært med på Trondheim Developer Conference 
+- Kjøpte nytt kjøleskap til oppbevaring av brus
+- Feiret fagkom sin 10-års dag med nåværende og tidligere fagkommere
+
+
+### Våren 2017
+- Booket bedrifter for neste semester sammen med bedkom
+- Gjennomført 11 kurs i samarbeid med bedrifter, hvorav tre var kursserie
+- Gjennomført Lightning talks sammen med instituttet, Abakus og Tihlde
+- Hadde midtsemesterforelesning i samarbeid fagkom Abakus
+- Vært med på Javazone Academy 
+- Skal ha 3 eksamenskurs, to av de i samarbeid med fagkom Abakus
+- Skal også ha sikkerhet og sårbarhets-event
+
 ## Profil- og aviskomiteen
 - Har tatt opp seks medlemmer
 - Tre medlemmer sluttet i løpet av året
