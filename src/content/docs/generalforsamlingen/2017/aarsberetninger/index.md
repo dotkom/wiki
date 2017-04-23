@@ -120,7 +120,7 @@ title: "Årsberetninger 2017"
 - Hadde ny-i-trondheim-kurs i fadderuka
 - Gjennomført 9 kurs i samarbeid med bedrifter
 - To eksamenskurs og to midtsemesterforelesninger sammen med fagkom Abakus
-- Planlagt og gjennomført jubileumskurs sammen med jubkom
+- Planlagt og gjennomført jubileumskurs sammen med jubkom og Sopra Steria
 - Holdte eget ITGK-kickstart kurs
 - Gjennomført bookingrunden
 - Startet samarbeid med dataforeningen (DND) og vært med på Trondheim Developer Conference 
