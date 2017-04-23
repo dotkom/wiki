@@ -193,6 +193,14 @@ title: "Årsberetninger 2017"
 
 ## Velkomstkomiteen 2016
 
+* Det var 10 medlemmer i velkom med leder og nestleder. Alle som søkte fikk være med
+* Det var med en fra prokom som tok av seg alt med t-skjorter og brosjyrer, og flere fra bedkom som tok seg av sponsorer
+* Det ble 16 faddergrupper og 6 masterfaddergrupper, med ca 10 fadderbarn og 3-4 faddere på hver gruppe. Denne fordelingen funket fint!
+* Masterstudentene hadde noen egne arrangementer som seniorkom arrangerte, men var med på det meste vi planla
+* Gjennomførte fadder-kick­off på Håndverkeren med bare fadderne. Kan kanskje invitere fadderbarn i år
+* Innførte edrufadderopplegg for de som ikke ønsket å drikke alkohol. Var ok oppmøte på dette. Prøvde fortsatt å få dem som ikke drikker til å være med på alle arrangementene
+* Kjøpte inn bånd til utestedene som vi delte ut til alle på informatikk. Dette funket bra
+
 ## Datakameratene FK
 
 ## Realfagskjelleren
