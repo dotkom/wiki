@@ -47,6 +47,14 @@ title: "Årsberetninger 2017"
 
 ## Bank- og økonomikomiteen
 
+* Ekskom sin økonomi er lagt under Online
+* Etter godkjennelse fra HS gikk bankom over til nytt regnskapssystem, Fiken.no, som vil si at vi har gått vekk fra det gamle
+regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
+* Bankom har ført Onlines regnskap for 2016 i Fiken, og satt opp Budsjett 17/18
+* Har gjennomført teambuildinger
+* Hadde gjennomgang av budsjett for 17/18 på Økonomi- og vedtektskveld
+
+
 ## Bedriftskomiteen
 
 * Har tatt opp fem medlemmer, derav tre er førsteklassinger, én andreklassing og én fjerdeklassing. Vi er totalt 13 nå, med to i permisjon. 
