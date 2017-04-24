@@ -51,7 +51,7 @@ Arrangementer
 **Vår 2017**  
 
 * Eksamensfest 31. mai - Ingen påmelding  
-* 17. mai middag - Påmelding kommer  
+* 17.mai middag - Påmelding kommer  
 * Låvefest 06. april - Avlyst grunnet liten påmelding, flere datoer ble forsøkt.  
 * VorsNachfest 30. mars - 41 påmeldte.  
 * Klatring 26. mars - Ingen påmelding.  
