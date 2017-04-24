@@ -318,6 +318,12 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 * Kjøpte inn bånd til utestedene som vi delte ut til alle på informatikk. Dette funket bra
 
 ## Datakameratene FK
+* Første sesong med TSFF som ansvarlig for ligaen og gjennomføring av sesongen 2016/2017.  
+* Totalt denne sesongen(høst 2016/vår 2017) har Datakam 19 poeng på 15 kamper(5 seiere, 4 uavgjort og 6 tap) og  -4 i målforskjell. 
+* Vi er en fast spillergruppe på ca 15-20 som møter på kamper og treninger, og vi er ca 50 aktive som har vært på trening eller kamp i løpet av denne sesongen.  
+* Nettsiden har vært nede det siste året, så det er dessverre litt mangel på statistikk når det kommer til oppmøte på treninger.  
+* Vi har hatt 2 treninger i uken fast både høst og vår, pluss en kamp i uken.  
+* Det er totalt 10 Onlinere som er aktive i Datakam, hvor alle har bidratt på både treninger og kamper.  
 
 ## Realfagskjelleren
 * Nye leder, nestleder og økonomiansvarlig: Andreas Eikeland (abakus), Anders noe (volvox), og Sigurd Wie (Online)
