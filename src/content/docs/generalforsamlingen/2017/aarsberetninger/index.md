@@ -307,6 +307,7 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 
 ## Jubileumskomiteen 2016
 
+* Vi tok opp eit nytt medlem og var på det meste 6 aktive medlem.
 * Det blei arrangert ei knakandes bra jubileumsveke, med tett program frå mandag til laurdag. Kakekickoff, Swingkurs, Jubileumskurs, rebusløp, pre-fest på fredagen og ein fantastisk bankett på Scandic Lerkendal som kronen på verket.
 * Det blei i samarbeid med Austmann brygga eit spesialøl, Ballmer Peak, som blei servert på fredagen og laurdagen. Restane av dette har blitt solgt på kontoret.
 * (I all audmjukheit) Banketten vår heva standarden for kva ein jubileumsfest bør være. Lyd, lys, show, timing, historierom, banner, dalje og andre detaljar var veldig bra. Vi har fått utruleg bra tilbakemelding her, både internt og eksternt.
