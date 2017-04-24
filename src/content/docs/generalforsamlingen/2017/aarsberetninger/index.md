@@ -307,6 +307,12 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 
 ## Jubileumskomiteen 2016
 
+* Det blei arrangert ei knakandes bra jubileumsveke, med tett program frå mandag til laurdag. Kakekickoff, Swingkurs, Jubileumskurs, rebusløp, pre-fest på fredagen og ein fantastisk bankett på Scandic Lerkendal som kronen på verket.
+* Det blei i samarbeid med Austmann brygga eit spesialøl, Ballmer Peak, som blei servert på fredagen og laurdagen. Restane av dette har blitt solgt på kontoret.
+* (I all audmjukheit) Banketten vår heva standarden for kva ein jubileumsfest bør være. Lyd, lys, show, timing, historierom, banner, dalje og andre detaljar var veldig bra. Vi har fått utruleg bra tilbakemelding her, både internt og eksternt.
+* Det blei gjort eit ganske omfattande arbeid med å samle inn kontaktinformasjonen til gamle Onlinerar for å sende ut invitasjon. Denne lista blir sjølvsagt blir videreført til neste jubkom. I tillegg blei invitasjon sendt ut gjennom NTNU sit alumninettverk.
+* Eit utfyllande erfaringsskriv er godt på veg, og skal sjølvsagt bli ferdigstillt.
+
 ## Velkomstkomiteen 2016
 
 * Det var 10 medlemmer i velkom med leder og nestleder. Alle som søkte fikk være med
