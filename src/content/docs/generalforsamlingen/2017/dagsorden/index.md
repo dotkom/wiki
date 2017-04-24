@@ -63,25 +63,24 @@ title: "Dagsorden 2017"
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 18.26 | 18.31  | Godkjenning av regnskap 2015  |   |
-| 30 | 18.31  | 19.01  | Godkjenning av regnskap 2016 og budsjett 17/18  |   |
-| Total tid: | |35 min|
+| 30 | 18.26  | 18.56  | Godkjenning av regnskap 2016 og budsjett 17/18  |   |
+| Total tid: | |30 min|
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1  | 19.01 | 19.02 | Forberedelse saksforslag | |
-| 15 | 19.02 | 19.17 | saksforslag 1 v/Christoffer  |   |
-| 15 | 19.17 | 19.32 | saksforslag 2 v/Signe  |   |
-| 15 | 19.32 | 19.47 | saksforslag 3 v/Hovedstyret  |   |
-| 25 | 19.47 | 20.12 | saksforslag 4 v/Hovedstyret  |   |
-| 15 | 20.12 | 20.27 | saksforslag 5 v/Hovedstyret  |   |
-| 15 | 20.27 | 20.42 | saksforslag 6 v/Hovedstyret  |   |
-| 30 | 20.42 | 21.12 | saksforslag 7 v/Hovedstyret  |   |
-| 15 | 21.12 | 21.27 | saksforslag 8 v/Hovedstyret  |   |
-| 15 | 21.27 | 21.42 | saksforslag 9 v/Endre  |   |
-| 15 | 21.42 | 21.57 | saksforslag 10 v/Endre  |   |
-| 15 | 21.57 | 22.12 | saksforslag 11 v/Marius  |   |
+| 1   | 18.56 | 18.57 | Forberedelse saksforslag | |
+| 15 | 18.57 | 19.12 | saksforslag 1 v/Christoffer  |   |
+| 15 | 19.12 | 19.27 | saksforslag 2 v/Signe  |   |
+| 15 | 19.27 | 19.42 | saksforslag 3 v/Hovedstyret  |   |
+| 25 | 19.42 | 20.07 | saksforslag 4 v/Hovedstyret  |   |
+| 15 | 20.07 | 20.22 | saksforslag 5 v/Hovedstyret  |   |
+| 15 | 20.22 | 20.37 | saksforslag 6 v/Hovedstyret  |   |
+| 30 | 20.37 | 21.07 | saksforslag 7 v/Hovedstyret  |   |
+| 15 | 21.07 | 21.22 | saksforslag 8 v/Hovedstyret  |   |
+| 15 | 21.22 | 21.37 | saksforslag 9 v/Endre  |   |
+| 15 | 21.37 | 21.52 | saksforslag 10 v/Endre  |   |
+| 15 | 21.52 | 22.07 | saksforslag 11 v/Marius  |   |
 | Total tid: | |3 t 11 min|
 
 # Pause 30 min med pizza
@@ -89,42 +88,49 @@ title: "Dagsorden 2017"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10 | 22.42 | 22.52 | Vedtektsforslag 1 v/Christoffer  |   |
-| 10 | 22.52 | 23.02 | Vedtektsforslag 2 v/Christoffer  |   |
-| 5  | 23.02 | 23.07 | Vedtektsforslag 3 v/Hovedstyret  |   |
-| 5  | 23.07 | 23.12 | Vedtektsforslag 4 v/Hovedstyret  |   |
-| 5  | 23.12 | 23.17 | Vedtektsforslag 5 v/Hovedstyret  |   |
-| 5  | 23.17 | 23.22 | Vedtektsforslag 6 v/Hovedstyret  |   |
-| 5  | 23.22 | 23.27 | Vedtektsforslag 7 v/Hovedstyret  |   |
-| 5  | 23.27 | 23.32 | Vedtektsforslag 8 v/Hovedstyret  |   |
-| 5  | 23.32 | 23.37 | Vedtektsforslag 9 v/Hovedstyret  |   |
-| 15 | 23.37 | 23.52 | Vedtektsforslag 10 v/Endre  |   |
-| 10 | 23.52 | 00.02 | Vedtektsforslag 11 v/Endre  |   |
-| 15 | 00.02 | 00.17 | Vedtektsforslag 12 v/Marius  |   |
-| 5  | 00.17 | 00.22 | Vedtektsforslag 13 v/August  |   |
+| 10 | 22.37 | 22.47 | Vedtektsforslag 1 v/Christoffer  |   |
+| 10 | 22.47 | 22.57 | Vedtektsforslag 2 v/Christoffer  |   |
+| 5  | 22.57 | 23.02 | Vedtektsforslag 3 v/Hovedstyret  |   |
+| 5  | 23.02 | 23.07 | Vedtektsforslag 4 v/Hovedstyret  |   |
+| 5  | 23.07 | 23.12 | Vedtektsforslag 5 v/Hovedstyret  |   |
+| 5  | 23.12 | 23.17 | Vedtektsforslag 6 v/Hovedstyret  |   |
+| 5  | 23.17 | 23.22 | Vedtektsforslag 7 v/Hovedstyret  |   |
+| 5  | 23.22 | 23.27 | Vedtektsforslag 8 v/Hovedstyret  |   |
+| 5  | 23.27 | 23.32 | Vedtektsforslag 9 v/Hovedstyret  |   |
+| 15 | 23.32 | 23.47 | Vedtektsforslag 10 v/Endre  |   |
+| 10 | 23.47 | 23.57 | Vedtektsforslag 11 v/Endre  |   |
+| 15 | 23.57 | 00.12 | Vedtektsforslag 12 v/Marius  |   |
+| 5  | 00.12 | 00.17 | Vedtektsforslag 13 v/August  |   |
 | Total tid: | |1 t 40 min|
+
+### Du vil ikke tro hva som skal skje nå
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 10 | 00.17 | 00.27 |   |   |
+| Total tid: | |10 min|
 
 # Pause 15 min
 
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 20 | 00.37  | 00.57  | Valg av leder  |   |
-| 20 | 00.57  | 00.17  | Valg av nestleder  |   |
-| 15 | 01.17  | 01.32  | Valg av leder av bank- og økonomikomiteen  |   |
-| 15 | 01.32  | 01.47  | Valg av leder av arrangementskomiteen  |   |
-| 15 | 01.47  | 02.02  | Valg av leder av bedriftskomiteen  |   |
-| 15 | 02.02  | 02.17  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 15 | 02.17  | 02.32  | Valg av leder av fag- og kurskomiteen  |   |
-| 15 | 02.32  | 02.47  | Valg av leder av profil- og aviskomiteen  |   |
-| 15 | 02.47  | 03.02  | Valg av leder av trivselskomiteen  |   |
-| 10 | 03.02  | 03.12  | Valg av leder av valgkomite  |   |
+| 20 | 00.42  | 01.02  | Valg av leder  |   |
+| 20 | 01.02  | 00.22  | Valg av nestleder  |   |
+| 15 | 01.22  | 01.37  | Valg av leder av bank- og økonomikomiteen  |   |
+| 15 | 01.37  | 01.52  | Valg av leder av arrangementskomiteen  |   |
+| 15 | 01.52  | 02.07  | Valg av leder av bedriftskomiteen  |   |
+| 15 | 02.07  | 02.22  | Valg av leder av drifts- og utviklingskomiteen  |   |
+| 15 | 02.22  | 02.37  | Valg av leder av fag- og kurskomiteen  |   |
+| 15 | 02.37  | 02.52  | Valg av leder av profil- og aviskomiteen  |   |
+| 15 | 02.52  | 03.07  | Valg av leder av trivselskomiteen  |   |
+| 10 | 03.07  | 03.17  | Valg av leder av valgkomite  |   |
 | Total tid: | |2 t 35 min|
+
 
 # 5 minutter til å ta bilde av det nye HS
 
 ### Medaljeutdeling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 03.17  | 03.32  | Medaljeutdeling  |   |
+| 15 | 03.22  | 03.37  | Medaljeutdeling  |   |
 | Total tid: | |15 min|
