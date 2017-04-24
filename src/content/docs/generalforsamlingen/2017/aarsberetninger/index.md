@@ -63,6 +63,7 @@ Arrangementer
 * Åre 19-22. januar - 148 påmeldte.  
 
 **Høst 2016**  
+
 * Eksamensfest 20. desember - Ingen påmelding.  
 * Adventure of Gløhaugen 20. november - 14 påmeldte.  
 * Julebord(komité) 17. november - 100 påmeldte.  
@@ -72,6 +73,7 @@ Arrangementer
 * Immball 10. september - 230 påmeldte.  
 
 **Statistikk**  
+
 Antall deltagere høst: 547 stk.  
 Antall deltagere vår: 255 stk.  
 Antall deltagere totalt: 802 stk.  
