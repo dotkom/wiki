@@ -45,6 +45,68 @@ title: "Årsberetninger 2017"
 
 ## Arrangementskomiteen
 
+Arrangementer
+------------------
+
+**Vår 2017**  
+
+* Eksamensfest 31. mai - Ingen påmelding  
+* 17. mai middag - Påmelding kommer  
+* Låvefest 06. april - Avlyst grunnet liten påmelding, flere datoer ble forsøkt.  
+* VorsNachfest 30. mars - 41 påmeldte.  
+* Klatring 26. mars - Ingen påmelding.  
+* Studenterhytta 24. mars - 30 påmeldte.  
+* Sushikurs 20. mars - 20 påmeldte.  
+* Reboot(komité) 10. mars - Ingen påmelding.  
+* X-fest 20. februar - Ingen påmelding.  
+* Vinter-OL 18. februar - 17 påmeldte.  
+* Åre 19-22. januar - 148 påmeldte.  
+
+**Høst 2016**  
+* Eksamensfest 20. desember - Ingen påmelding.  
+* Adventure of Gløhaugen 20. november - 14 påmeldte.  
+* Julebord(komité) 17. november - 100 påmeldte.  
+* OnlineCasino 04. november - 53 påmeldte.  
+* Bierfest 14. oktober - 100 påmeldte.  
+* Blåtur 23. september - 50 påmeldte.  
+* Immball 10. september - 230 påmeldte.  
+
+**Statistikk**  
+Antall deltagere høst: 547 stk.  
+Antall deltagere vår: 255 stk.  
+Antall deltagere totalt: 802 stk.  
+
+Antall arrangement vår: 10 stk.(eksklusiv låvefest).  
+Antall arrangement høst: 7 stk. 
+
+Antall arrangementer med andre linjeforeninger: 2 stk. 
+
+Antall alkoholarrangementer: 13 totalt. 5 høst, 8 vår.  
+Antall ikke-alkoholarrangementer: 4 totalt. 2 høst, 2 vår.  
+
+Antall nye arrangementer: 3 totalt. 1 høst, 2 vår.
+
+Opptak/medlemmer
+------------------
+* 7 nye medlemmer (6 førsteklassinger, 1 andreklassing)  
+* 3 permittert (2 pga utveksling, 1 pga ferdig med verv i Online)  
+
+Nodekomiteer
+------------------
+
+** Jubkom **  
+Gjennomført jubileum med stor suksess!  
+
+** VelKom **  
+Startet opp vår 2017.    
+Leder: Miriam Lillebo, nestleder Johannes Kvamme  
+12 medlemmer (inkl. fra bedKom, proKom)  
+
+Annet
+------------------
+* Skiftet og lært opp ny økonomiansvarlig.  
+* Vi har hatt teambuilding internt på høsten, og vi har hatt teambuilding med Abakus på våren.
+
 ## Bank- og økonomikomiteen
 
 * Ekskom sin økonomi er lagt under Online
