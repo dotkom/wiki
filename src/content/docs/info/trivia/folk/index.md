@@ -9,7 +9,7 @@ title: "Folk"
 * [Terje Rydland](https://online.ntnu.no/wiki/online/info/trivia/folk/terjerydland)
 * [Magnus Jahre](https://online.ntnu.no/wiki/online/info/trivia/folk/magnusjahre)
 * [Anders Christensen](https://online.ntnu.no/wiki/online/info/trivia/folk/anderschristensen)
-* [Åsmund Eldhuset](https://online.ntnu.no/wiki/online/info/trivia/folk/aasmundeldhuset)
+* [Åsmund Eldhuset (Æresmedlem av Online)](https://online.ntnu.no/wiki/online/info/trivia/folk/aasmundeldhuset)
 
 #### Nevneverdige Onlinere  
 
@@ -32,4 +32,4 @@ title: "Folk"
 #### Sladder 
 
 * [Sekkemannen](https://online.ntnu.no/wiki/online/info/trivia/folk/sekkemannen)
-* [Posemannen](https://online.ntnu.no/wiki/online/info/trivia/folk/posemannen) 
+* [Posemannen](https://online.ntnu.no/wiki/online/info/trivia/folk/posemannen)
