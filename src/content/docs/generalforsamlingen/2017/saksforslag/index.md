@@ -70,7 +70,7 @@ Vi ser at dette kunne vært et nyttig verktøy for å få tilbakemeldinger fra m
 
 ### Forslag 7 (Hovedstyret)
 
-Online skal spare minst 100.000 kr i indeksfond. Overskuddet fra fondet administreres av Hovedstyret etter søknader fra Onlines medlemmer.
+Online skal spare minst 100.000 kr i forvaltningsfond. Overskuddet fra fondet administreres av Hovedstyret etter søknader fra Onlines medlemmer.
 
 Hovedstyret skal utforme retningslinjer for søknader og utdeling av midler. Retningslinjene skal ut på høring blant medlemmene før retningslinjene blir vedtatt. Medlemmenes tilbakemeldinger skal tas til etterfølge.
 
@@ -78,7 +78,7 @@ _Hvorfor?_
 
 Den høyeste renten man kan få på en høyrentekonto i 2017 er mellom 1.7% og 1.8%. Regjeringen anslår at konsumprisindeksen i 2017 kommer til å være 2.0% [0]. Med 1.8% i rente taper vi i effekt penger. Fondsparing gir mulighet for større avkastning, men dette vil også medføre en høyere risiko enn høyrentekonto. 
 
-Indeksfond har generelt lav risiko og liten vedlikeholdskostnad. 
+Forvaltningsfond har generelt lav risiko og liten vedlikeholdskostnad. 
 
 [0] http://www.statsbudsjettet.no/Statsbudsjettet-2017/Statsbudsjettet-fra-A-til-A/Konsumprisindeksen/
 
