@@ -55,7 +55,7 @@ title: "Dagsorden 2017"
 | 5 | 17.51 | 17.56 | Årsberetning Velkomstkomiteen 2016  |   |
 | 5 | 17.56 | 18.01 | Årsberetning Datakameratene FK  |   |
 | 5 | 18.01 | 18.06 | Årsberetning Realfagskjellern  |   |
-| 5 | 18.06 | 18.11 | Årsberetning Casual Gaming  |   |
+| 5 | 18.06 | 18.11 | Årsberetning Casual Gaming  |  16:58 |
 | Total tid: | |1 t 26 min|
 
 # Pause 15 minutter
@@ -63,7 +63,7 @@ title: "Dagsorden 2017"
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 30 | 18.26  | 18.56  | Godkjenning av regnskap 2016 og budsjett 17/18  |   |
+| 30 | 18.26  | 18.56  | Godkjenning av regnskap 2016 og budsjett 17/18  |  17:02 |
 | Total tid: | |30 min|
 
 ### Saksforslag
