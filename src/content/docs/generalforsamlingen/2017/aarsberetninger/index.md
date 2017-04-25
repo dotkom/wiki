@@ -19,6 +19,7 @@ title: "Årsberetninger 2017"
 * Komitégensere: Det ble vedtatt at komitémedlemmer kan kjøpe seg komitégenser om designet går via prokom
 * Det er kjøpt kjøleskap som brus kan lagres i
 * Online har tatt initiativ til en årlig hyttetur med styrene i Abakus, Hybrida, Tihlde og Login, og håper dette skal bli en tradisjon for å øke samarbeidet. Alle disse linjeforeningsstyrene ble også invitert på immballet.
+* Login har skrytt av Online, og hvor flinke vi har vært til å inkludere dem
 * Snakket med IDI om muligheter for datasalene i 3. og 4. på P15, så de ikke blir stengt i eksamensperioden
 * Søkte IME om penger på vegne av linjeforeningen våren 2016, fikk støtte til trikom og alternative arrangementer under fadderukene
 * Tatt initiativ til En Psykt Vanlig Uke
