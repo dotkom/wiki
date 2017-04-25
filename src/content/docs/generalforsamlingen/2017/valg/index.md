@@ -17,7 +17,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 * *Leder:* Christoffer Lofsberg, **Didrik Pemmer Aalen** (benket)
 * *Nestleder:* **Hege Louise Borge** (benket)
-* *Bankom:*
+* *Bankom:* **Christoffer Skar Lofsberg** (benket)
 * *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken, Johannes Kvamme  
 * *Bedkom:* Emil Schrøder
 * *Dotkom:* Anders Larsen, Aslak Hollund
