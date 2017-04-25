@@ -114,7 +114,7 @@ title: "Dagsorden 2017"
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 20 | 00.42  | 01.02  | Valg av leder  |   |
+| 20 | 00.42  | 01.02  | Valg av leder  |  20.54 |
 | 20 | 01.02  | 00.22  | Valg av nestleder  |   |
 | 15 | 01.22  | 01.37  | Valg av leder av bank- og økonomikomiteen  |   |
 | 15 | 01.37  | 01.52  | Valg av leder av arrangementskomiteen  |   |
