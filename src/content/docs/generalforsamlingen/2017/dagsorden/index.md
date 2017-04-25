@@ -88,7 +88,7 @@ title: "Dagsorden 2017"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10 | 22.37 | 22.47 | Vedtektsforslag 1 v/Christoffer  |   |
+| 10 | 22.37 | 22.47 | Vedtektsforslag 1 v/Christoffer  |  19.50 |
 | 10 | 22.47 | 22.57 | Vedtektsforslag 2 v/Christoffer  |   |
 | 5  | 22.57 | 23.02 | Vedtektsforslag 3 v/Hovedstyret  |   |
 | 5  | 23.02 | 23.07 | Vedtektsforslag 4 v/Hovedstyret  |   |
