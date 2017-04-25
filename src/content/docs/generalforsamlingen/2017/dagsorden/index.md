@@ -79,7 +79,7 @@ title: "Dagsorden 2017"
 | 30 | 20.37 | 21.07 | saksforslag 7 v/Hovedstyret  | 18.49  |
 | 15 | 21.07 | 21.22 | saksforslag 8 v/Hovedstyret  |   |
 | 15 | 21.22 | 21.37 | saksforslag 9 v/Endre  | 19.15  |
-| 15 | 21.37 | 21.52 | saksforslag 10 v/Endre  |   |
+| 15 | 21.37 | 21.52 | saksforslag 10 v/Endre  |  19.21 |
 | 15 | 21.52 | 22.07 | saksforslag 11 v/Marius  |   |
 | Total tid: | |3 t 11 min|
 
