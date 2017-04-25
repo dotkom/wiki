@@ -123,7 +123,7 @@ title: "Dagsorden 2017"
 | 15 | 01.52  | 02.07  | Valg av leder av bedriftskomiteen  |  22.50 |
 | 15 | 02.07  | 02.22  | Valg av leder av drifts- og utviklingskomiteen  |   |
 | 15 | 02.22  | 02.37  | Valg av leder av fag- og kurskomiteen  | 23.09  |
-| 15 | 02.37  | 02.52  | Valg av leder av profil- og aviskomiteen  |   |
+| 15 | 02.37  | 02.52  | Valg av leder av profil- og aviskomiteen  | 23.19  |
 | 15 | 02.52  | 03.07  | Valg av leder av trivselskomiteen  |   |
 | 10 | 03.07  | 03.17  | Valg av leder av valgkomite  |   |
 | Total tid: | |2 t 35 min|
