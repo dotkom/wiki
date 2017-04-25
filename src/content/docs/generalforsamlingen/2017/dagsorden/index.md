@@ -76,7 +76,7 @@ title: "Dagsorden 2017"
 | 25 | 19.42 | 20.07 | saksforslag 4 v/Hovedstyret  | 18.24  |
 | 15 | 20.07 | 20.22 | saksforslag 5 v/Hovedstyret  | 18.41  |
 | 15 | 20.22 | 20.37 | saksforslag 6 v/Hovedstyret  |  18.44 |
-| 30 | 20.37 | 21.07 | saksforslag 7 v/Hovedstyret  |   |
+| 30 | 20.37 | 21.07 | saksforslag 7 v/Hovedstyret  | 18.49  |
 | 15 | 21.07 | 21.22 | saksforslag 8 v/Hovedstyret  |   |
 | 15 | 21.22 | 21.37 | saksforslag 9 v/Endre  |   |
 | 15 | 21.37 | 21.52 | saksforslag 10 v/Endre  |   |
