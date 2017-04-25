@@ -106,7 +106,7 @@ title: "Dagsorden 2017"
 ### Du vil ikke tro hva som skal skje nå
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10 | 00.17 | 00.27 |   |   |
+| 10 | 00.17 | 00.27 |   | 20.51  |
 | Total tid: | |10 min|
 
 # Pause 15 min
