@@ -252,7 +252,6 @@ title: "Dagsorden 2017"
                                                                  -     ^
 | 15 | 01.37  | 01.52  | Valg av leder av arrangementskomiteen  | 22.26  |
                                                                       ^^
-| 15 | 01.52  | 02.07  | Valg av leder av bedriftskomiteen  |   |
 | 15 | 01.52  | 02.07  | Valg av leder av bedriftskomiteen  |  22.50 |
                                                                +++++
 | 15 | 02.07  | 02.22  | Valg av leder av drifts- og utviklingskomiteen  |   |
