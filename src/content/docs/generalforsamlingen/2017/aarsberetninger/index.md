@@ -336,9 +336,10 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 * Medlemmer fra Online, Martin Bjerke, Sigurd Wie, Andreas F Eikeland, Petter Rostrup, (Marius Enerly går ut)
 * Har hatt totalt 8 arr + quizer
 * Flytter mest sannsynligvis til HK12 tidligst til jul
-* Inntil da organiserer Reddkjellerne gamle Moholt barnehage og kjelleren deler et område med smørekoppen
+* Inntil da organiserer Reddkjellerne gamle Moholt barnehage og kjelleren deler et område med smørekoppen. Det blir oppussing mot og i sommeren, så om du er interessert er det bare å ta kontakt! 
 * Har tatt kontakt med alle faddergruppene og funnet datoer for arr i fadderperioden. 
 * Trenger kassaapparat, ganske dyrt
+* Marius Enerly har gjort oss til organisasjon og søker nå etter sjenkebevilgning
 
 
 ## Casual Gaming
