@@ -253,14 +253,13 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 * Vi har for 2. gang gjennomført fadderuke for masterstudentene.
 * Utførte komitékickoff med etterfulgt fest.
 * Var med på å gjennomføre Reeboot.
-* Begynte å barinstorme om å samle Onlines historie.
+* Begynte å planlegge rundt å samle Onlines historie.
     * Nedprioritert grunnet arbeidsmengde.
 * Flere teambuildingskvelder og sosiale kvelder. Både alene og med Backup i Abakus.
 * Opplæring og kursing av hovedstyret for første gang.
 * Vært med på å starte tillitsvalgtordningen.
-* Er i gang med utmatrikuleringen som skal skje 9. juni.
-    * En del endringer i planleggingen grunnet fusjonen.
-* Seniorkom har vært involvert i hs hele året
+* Er i gang med utmatrikuleringen som skal skje 9. juni og fadderuken for masterstudenter.
+* Seniorkom har vært kontinuerligt involvert i hs
 
 
 ## Applikasjonskomiteen
