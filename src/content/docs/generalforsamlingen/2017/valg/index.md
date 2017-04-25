@@ -16,7 +16,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse er:**
 
 * *Leder:* Christoffer Lofsberg
-* *Nestleder:* Erik Wiker
+* *Nestleder:* 
 * *Bankom:*
 * *Arrkom:* Eivind Rydningen, Anzhelika Seliverstova, Edvard Gjessing Bakken, Johannes Kvamme  
 * *Bedkom:* Emil Schrøder
