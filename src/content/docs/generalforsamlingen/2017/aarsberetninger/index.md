@@ -332,7 +332,7 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 * Det er totalt 10 Onlinere som er aktive i Datakam, hvor alle har bidratt på både treninger og kamper.  
 
 ## Realfagskjelleren
-* Nye leder, nestleder og økonomiansvarlig: Andreas Eikeland (abakus), Anders noe (volvox), og Sigurd Wie (Online)
+* Nye leder, nestleder og økonomiansvarlig: Andreas Eikeland (abaline), Anders noe (volvox), og Sigurd Wie (Online)
 * Medlemmer fra Online, Martin Bjerke, Sigurd Wie, Andreas F Eikeland, Petter Rostrup, (Marius Enerly går ut)
 * Har hatt totalt 8 arr + quizer
 * Flytter mest sannsynligvis til HK12 tidligst til jul
