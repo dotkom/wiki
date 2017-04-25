@@ -73,7 +73,7 @@ title: "Dagsorden 2017"
 | 15 | 18.57 | 19.12 | saksforslag 1 v/Christoffer  |   |
 | 15 | 19.12 | 19.27 | saksforslag 2 v/Signe  | 18.10  |
 | 15 | 19.27 | 19.42 | saksforslag 3 v/Hovedstyret  |   |
-| 25 | 19.42 | 20.07 | saksforslag 4 v/Hovedstyret  |   |
+| 25 | 19.42 | 20.07 | saksforslag 4 v/Hovedstyret  | 18.24  |
 | 15 | 20.07 | 20.22 | saksforslag 5 v/Hovedstyret  |   |
 | 15 | 20.22 | 20.37 | saksforslag 6 v/Hovedstyret  |   |
 | 30 | 20.37 | 21.07 | saksforslag 7 v/Hovedstyret  |   |
