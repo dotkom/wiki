@@ -23,7 +23,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Dotkom:* Anders Larsen, **Aslak Hollund**
 * *Fagkom:* **Henrik Munkeberg**, Andreas Aursand (benket)
 * *Prokom:* Endre Ulberg, **Peter Rydberg**
-* *Trikom:* Fredrik Sørmo, Taran Ruge
+* *Trikom:* Fredrik Sørmo, **Taran Ruge**
 
 **Vennligst merk at:**
 
