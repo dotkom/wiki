@@ -229,7 +229,7 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 - Fordi vårt gamle trykkeri Indergaard og Svenil ble lagt ned, har vi vært på utkikk etter nytt trykkeri til både Offline og plakater. Midlertidig løsning for plakater har vært NTNU trykk, og Offline har vi trykket én gang hos Fagtrykk. Nå har vi fått en god avtale med, og bestemt oss for å satse på CopyCat til både Offline og plakater. 
 
 ### Offline:
-- Gitt ut 4 utgaver, to hvert semester
+- Gitt ut 3 utgaver, fjerde kommer ut snart
 - Vært med på Gullblekka for fjerde gang. Vi ble nominert til «Årets morsomste artikkel» og vant «Åpen klasse». Vi kom på andreplass på Gullblokka, som er folkeprisen.
 - Fått ut 11 artikler på OW4
 
