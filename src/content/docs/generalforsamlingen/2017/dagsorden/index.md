@@ -44,17 +44,17 @@ title: "Dagsorden 2017"
 | 5 | 16.56 | 17.01 | Årsberetning Arrangementskomiteen  | 16.37  |
 | 5 | 17.01 | 17.06 | Årsberetning Bedriftskomiteen  | 16.39  |
 | 5 | 17.06 | 17.11 | Årsberetning Drifts- og utviklingskomiteen  | 16.41  |
-| 5 | 17.11 | 17.16 | Årsberetning Fag- og kurskomiteen  |   |
-| 5 | 17.16 | 17.21 | Årsberetning Profil- og aviskomiteen  |   |
-| 5 | 17.21 | 17.26 | Årsberetning Trivselskomiteen  |   |
-| 5 | 17.26 | 17.31 | Årsberetning Seniorkomiteen  |   |
-| 5 | 17.31 | 17.36 | Årsberetning Applikasjonskomiteen  |   |
-| 5 | 17.36 | 17.41 | Årsberetning Ekskursjonskomiteen 2017  |   |
-| 5 | 17.41 | 17.46 | Årsberetning IT-ekskursjonen  |   |
-| 5 | 17.46 | 17.51 | Årsberetning Jubileumskomiteen 2016  |   |
-| 5 | 17.51 | 17.56 | Årsberetning Velkomstkomiteen 2016  |   |
-| 5 | 17.56 | 18.01 | Årsberetning Datakameratene FK  |   |
-| 5 | 18.01 | 18.06 | Årsberetning Realfagskjellern  |   |
+| 5 | 17.11 | 17.16 | Årsberetning Fag- og kurskomiteen  |  16.43 |
+| 5 | 17.16 | 17.21 | Årsberetning Profil- og aviskomiteen  | 16.44  |
+| 5 | 17.21 | 17.26 | Årsberetning Trivselskomiteen  |  16.46 |
+| 5 | 17.26 | 17.31 | Årsberetning Seniorkomiteen  |  16.47 |
+| 5 | 17.31 | 17.36 | Årsberetning Applikasjonskomiteen  |  16.49 |
+| 5 | 17.36 | 17.41 | Årsberetning Ekskursjonskomiteen 2017  |  16.50 |
+| 5 | 17.41 | 17.46 | Årsberetning IT-ekskursjonen  |  16.52 |
+| 5 | 17.46 | 17.51 | Årsberetning Jubileumskomiteen 2016  | 16.53  |
+| 5 | 17.51 | 17.56 | Årsberetning Velkomstkomiteen 2016  | 16.54  |
+| 5 | 17.56 | 18.01 | Årsberetning Datakameratene FK  |  16.55 |
+| 5 | 18.01 | 18.06 | Årsberetning Realfagskjellern  | 16.56  |
 | 5 | 18.06 | 18.11 | Årsberetning Casual Gaming  |  16:58 |
 | Total tid: | |1 t 26 min|
 
