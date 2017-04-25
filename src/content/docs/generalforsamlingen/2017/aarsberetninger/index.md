@@ -296,7 +296,7 @@ regnskapssytemet DataX og det gamle faktureringsprogrammet Conta Faktura
 
 ## IT-ekskursjonen
 
-* Tok opp 3 nye medlemmer våren 2015 fra tredje- og fjerde-klasse.
+* Tok opp 3 nye medlemmer våren 2016 fra tredje- og fjerde-klasse.
 * Totalt 5 aktive medlemmer som arrangerte turen.
 * 50 studenter var med på turen
 * Turen varte fra 30. august til 2. september
