@@ -24,13 +24,13 @@ title: "Dagsorden 2017"
 | 5 | 16.26 | 16.31 | Gjennomgang av tegnsetting  |   |
 | 5 | 16.31 | 16.36 | Gjennomgang av stemmesystem  |   |
 | 1 | 16.36 | 16.37 | Godkjenning av forretningsorden  |   |
-| 1 | 16.37 | 16.38 | Godkjenning av gjester  |   |
-| 1 | 16.38 | 16.39 | Godkjenning av talerett  |   |
-| 1 | 16.39 | 16.40 | Godkjenning av stemmeberettigede  |   |
-| 2 | 16.40 | 16.42 | Godkjenning av dagsorden  |   |
-| 1 | 16.42 | 16.43 | Godkjenning av referat fra 18. april 2016  |   |
-| 1 | 16.43 | 16.44 | Godkjenning av innkalling  |   |
-| 1 | 16.44 | 16.45 | Godkjenning av saksliste  |   |
+| 1 | 16.37 | 16.38 | Godkjenning av gjester  |  16.26 |
+| 1 | 16.38 | 16.39 | Godkjenning av talerett  |  16.28 |
+| 1 | 16.39 | 16.40 | Godkjenning av stemmeberettigede  |  16.29 |
+| 2 | 16.40 | 16.42 | Godkjenning av dagsorden  | 16.29  |
+| 1 | 16.42 | 16.43 | Godkjenning av referat fra 18. april 2016  | 16.30  |
+| 1 | 16.43 | 16.44 | Godkjenning av innkalling  |  16.30 |
+| 1 | 16.44 | 16.45 | Godkjenning av saksliste  |  16.30 |
 | Total tid: | |30 min|
 
 
@@ -38,12 +38,12 @@ title: "Dagsorden 2017"
 ### Årsberetninger
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1 | 16.45 | 16.46 | Forberedelse årsberetning | |
-| 5 | 16.46 | 16.51 | Årsberetning Hovedstyret  |   |
-| 5 | 16.51 | 16.56 | Årsberetning Bank- og økonomikomiteen  |   |
-| 5 | 16.56 | 17.01 | Årsberetning Arrangementskomiteen  |   |
-| 5 | 17.01 | 17.06 | Årsberetning Bedriftskomiteen  |   |
-| 5 | 17.06 | 17.11 | Årsberetning Drifts- og utviklingskomiteen  |   |
+| 1 | 16.45 | 16.46 | Forberedelse årsberetning | 16.33|
+| 5 | 16.46 | 16.51 | Årsberetning Hovedstyret  |  16.33 |
+| 5 | 16.51 | 16.56 | Årsberetning Bank- og økonomikomiteen  |  16.36 |
+| 5 | 16.56 | 17.01 | Årsberetning Arrangementskomiteen  | 16.37  |
+| 5 | 17.01 | 17.06 | Årsberetning Bedriftskomiteen  | 16.39  |
+| 5 | 17.06 | 17.11 | Årsberetning Drifts- og utviklingskomiteen  | 16.41  |
 | 5 | 17.11 | 17.16 | Årsberetning Fag- og kurskomiteen  |   |
 | 5 | 17.16 | 17.21 | Årsberetning Profil- og aviskomiteen  |   |
 | 5 | 17.21 | 17.26 | Årsberetning Trivselskomiteen  |   |
