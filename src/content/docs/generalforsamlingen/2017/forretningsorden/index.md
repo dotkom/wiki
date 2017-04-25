@@ -20,6 +20,8 @@ Ved starten av generalforsamlingen vedtar generalforsamlingen å gi alle medlemm
 
 Alle deltakere blir gitt et deltakernummer som må bæres under generalforsamlingen. Når en deltaker forlater salen blir nummeret levert inn til tellekorpset. Når deltakeren returnerer blir det samme deltakernummeret levert ut igjen.
 
+Gjester har kun talerett.
+
 ### 2.1 Deltakere som kommer for sent
 Medlemmer som kommer for sent til generalforsamlingen, og ikke har meldt ifra til Hovedstyret i forkant, skal ved ankomst oppgi grunn for at de kom for sent. Generalforsamlingen vedtar om medlemmet skal få stemmerett under generalforsamlingen.
 
