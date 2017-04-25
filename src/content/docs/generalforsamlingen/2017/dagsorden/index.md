@@ -95,7 +95,7 @@ title: "Dagsorden 2017"
 | 5  | 23.07 | 23.12 | Vedtektsforslag 5 v/Hovedstyret  |  20.04 |
 | 5  | 23.12 | 23.17 | Vedtektsforslag 6 v/Hovedstyret  |  20.07 |
 | 5  | 23.17 | 23.22 | Vedtektsforslag 7 v/Hovedstyret  |  20.10 |
-| 5  | 23.22 | 23.27 | Vedtektsforslag 8 v/Hovedstyret  |   |
+| 5  | 23.22 | 23.27 | Vedtektsforslag 8 v/Hovedstyret  | 20.12  |
 | 5  | 23.27 | 23.32 | Vedtektsforslag 9 v/Hovedstyret  |   |
 | 15 | 23.32 | 23.47 | Vedtektsforslag 10 v/Endre  |   |
 | 10 | 23.47 | 23.57 | Vedtektsforslag 11 v/Endre  |   |
