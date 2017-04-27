@@ -20,7 +20,8 @@ TriKom består av følgende stillinger:
 * Økonomiansvarlig for triKom
 * Kontorvaktansvarlig
 * Kjøpsansvarlig
-* 2 arrangementsansvarlige
+* Blesteansvarlig
+* Sosialansvarlig
 
 
 TriKoms leder velges på Generalforsamlingen. Alle triKoms øvrige stillinger velges etter opptaket på høsten.    
