@@ -3,8 +3,7 @@ title: "Søke om drikking på kontoret"
 ---
 
 Hvis det skal søkes om drikking på kontoret så kan dere sende mail til
-adgangskontrollen@adm.ntnu.no. Husk å klarere med triKom,
-trikom@online.ntnu.no, at kontoret er ledig på dagen og tidspunktet.
+ trikom@online.ntnu.no der det begrunnes hvorfor, dato og klokkeslett og hvem som skal være edruvakt(med nr).
 
 **Vi forventer at man rydder etter seg på kontoret etter et slik arrangement.**
 
@@ -20,13 +19,3 @@ bygningen som skyldes arrangementet blir fakturert søker.**
 NTNU sine vektere må følges.**  
 **5) Dere må ta hensyn til annen skolerelatert aktivitet i bygningen.
 (støy etc..)**
-
-Mal for søking:
----------------
-
-Hei
-
-Vi har tenkt til å drikke alkohol på kontoret til Online den (insert
-dato) fra (startTid) til (sluttTid)
-
-Edruvakt vil være (navn)
