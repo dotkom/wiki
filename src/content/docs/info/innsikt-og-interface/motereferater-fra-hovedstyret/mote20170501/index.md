@@ -22,7 +22,7 @@ Offentlig referat fra forrige møte ligger ikke ute, ellers godkjent
 #### Arrkom, med velkom og jubkom:  
 Eksamensfest 31. Mai.
 
-17. mai middag. Vil samarbeide med trikom om 17. mai arrangementene. 
+Middag 17. mai. Vil samarbeide med trikom om 17. mai arrangementene. 
 
 #### Bankom:  
 Hadde møte i går, det gikk bra. Ny nestleder: Margit.
@@ -125,7 +125,7 @@ Aslak snakker med datatilsynet for sikkerhets skyld.
 ## 009 Forespørsler som har kommet på e-post (5 min) 
 Avslutningssermoni: bleste for dette på face (Didrik fikser)
 
-Si ifra at ting blir borte fra it’s learning 15. Juli, last ned alt man vil ha **(finnes skript for å laste ned alt)** blestes for etter hver
+Si ifra at ting blir borte fra it’s learning 15. Juli, last ned alt man vil ha - blestes for etter hver
 
 Unni: infoskriv til nye studenter. Leder skriver hilsen.
 
@@ -148,7 +148,7 @@ FB: månedens trivligste (i morgen), saker fra Korea(onsdag), avslutningssermoni
 
 ## 011 Eventuelt (10 min)
 - Safen (Christoffer)
-Vi må bytte kode. Ønsker at bankom skal få tilgang, de som trenger det får tilgang. **Må ha en liste over hvem som har tilgang, bytte en gang i semesteret.**
+Vi må bytte kode. Ønsker at bankom skal få tilgang, de som trenger det får tilgang. 
 
 - Noe kult til stand (Christoffer) 
  Folk kan undersøke til neste gang.
@@ -181,4 +181,4 @@ Taran svarer de med kontortilnga
 
 Hege skal sende ut liste som folk kan skrive på hva de skal ha med på teambuilding.
 
-Loffen: bytte kode på safen. **Slackbot: skriver man safe får man frem koden.**
+Loffen: bytte kode på safen.
