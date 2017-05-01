@@ -3,7 +3,9 @@ title: "Retningslinjer til kontoret"
 ---
 
 ###Nach
-Det er ikke lov til å arrangere nach eller fest på kontoret uten og å søkt om det først
+Det er ikke lov til å arrangere nach eller fest på kontoret uten og å ha [søkt om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/)
+
+###Praktisk
 De som har kontortilgang har ansvar for dette: 
 Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lignende vasker man det opp etter seg. Oppvaskmiddel og børste skal finnes ved vasken.
 
