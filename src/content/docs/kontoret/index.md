@@ -28,7 +28,7 @@ Dotkom har utviklet et eget kiosksystem til bruk på kontoret. Dette kan onliner
 
 ##Tilgang til kontoret
 
-Alle online medlemmer kan søke om å få tilgang til kontoret. For å gjøre dette les gjerne [denne artikkelen]((https://online.ntnu.no/wiki/online/kontortilgang) som forteller litt mer om hva som kreves av en/ei som vil få tilgang til kontoret og send søknad til hovedstyret@online.ntnu.no.
+Alle online medlemmer kan søke om å få tilgang til kontoret. For å gjøre dette les gjerne [denne artikkelen](https://online.ntnu.no/wiki/online/kontortilgang) som forteller litt mer om hva som kreves av en/ei som vil få tilgang til kontoret og send søknad til hovedstyret@online.ntnu.no.
 
 ## Annet
 
