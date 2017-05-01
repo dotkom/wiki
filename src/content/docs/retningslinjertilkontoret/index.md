@@ -17,10 +17,7 @@ Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lig
 Renholder kommer innom kontoret for å tømme søppel og vaske tirsdager og torsdager, utenom disse dagene er det vårt eget ansvar å tømme søppel og vaske når vi søler noe. **Søppeldunker står nede i kjelleren, så det er bare å gå ned med søpla når den begynner å bli full. Helst før den er for full.**
 
 ###Mistet kontortilgang?
-Av og til blir adgangskontrollen ved NTNU litt overivrige og fjerner tilgangen til å åpne/stenge kontoret. Dersom dette skjer, send en mail til trikom@online.ntnu.no med følgende informasjon:
-
-- Navn
-- Kortnummer på baksiden av kortet (EM-nummer, eller 8 siffer nede i venstre hjørne)
+Av og til blir adgangskontrollen ved NTNU litt overivrige og fjerner tilgangen til å åpne/stenge kontoret. Dersom dette skjer, send en mail til trikom@online.ntnu.no med navnet ditt.
 
 ###Forlate kontoret?
 Om du er den siste med kontortilgang som forlater kontoret må du stenge det. Da må alle som ikke har tilgang ut og du må skru på alarmen.
