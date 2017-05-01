@@ -6,6 +6,8 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2017-05-01](mote20170501)
+- [2017-04-24](mote20170424) - HoveTHstyrets siste møte-møte
 - [2017-04-03](mote20170403) - Hovedstyrets siste-møte-før-påske
 - [2017-03-27](20170327-) - Hovedstyrets Denne-Uka-Reiser-Ekskursjonen-Møte
 - [2017-03-20](20170320-) - HOVEDSTYRETS DU-VIL-IKKE-TRO-HVA-HS-GJORDE-PÅ-ABAKUS'-JUBILEUM-MØTE
