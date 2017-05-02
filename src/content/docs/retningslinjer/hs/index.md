@@ -35,7 +35,7 @@ Hovedstyret har ansvar for foreningens daglige drift. Dette inkluderer blant ann
 
 #### (3) Kontakt med instituttet
 
-Hovedstyret er linjeforeningens talerør mot instituttet (IDI), fakultetet (IME) samt universitetet forøvrig, og skal jobbe mot tett kontakt og samarbeid. Det oppfordres til å invitere sittende ITR (instituttillitsrepresentant) på deler av Hovedstyrets møter (statuspunktene) for å forenkle kommunikasjonen. 
+Hovedstyret er linjeforeningens talerør mot instituttet (IDI), fakultetet (IME) samt universitetet forøvrig, og skal jobbe mot tett kontakt og samarbeid. Det oppfordres til å invitere sittende ITV (instituttillitsvalgt) på deler av Hovedstyrets møter (statuspunktene) for å forenkle kommunikasjonen. 
 
 #### (4) Økonomi
 
