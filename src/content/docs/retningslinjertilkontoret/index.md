@@ -8,7 +8,7 @@ Alle som har tilgang til Online-kontoret har et ansvar for å følge disse retni
 
 Nachspiel og fest
 ------------
-Det er ikke lov til å arrangere nach eller fest på kontoret uten og å ha [søkt om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
+Det er ikke lov til å arrangere nach eller fest på kontoret uten og å ha [fått innvilget søknad om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
 
 ##Praktisk
 ###Rydd etter deg
