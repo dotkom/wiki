@@ -6,9 +6,9 @@ Ansvar
 ------------
 Alle som har tilgang til Online-kontoret har et ansvar for å følge disse retningslinjene. Kontortilgangen vil fjernes om de ikke følges.
 
-Nachspiel og fest
+Vors, fest og nachspiel
 ------------
-Det er ikke lov til å arrangere nach eller fest på kontoret uten og å ha [fått innvilget søknad om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
+Det er ikke lov til å arrangere vors, fest eller nach på kontoret uten og å ha [fått innvilget søknad om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
 
 ##Praktisk
 ###Rydd etter deg
@@ -19,7 +19,7 @@ Renholder kommer innom kontoret for å tømme søppel og vaske tirsdager og tors
 ###Mistet kontortilgang?
 Av og til blir adgangskontrollen ved NTNU litt overivrige og fjerner tilgangen til å åpne/stenge kontoret. Dersom dette skjer, send en mail til trikom@online.ntnu.no med navnet ditt.
 
-###Forlate kontoret?
+###Åpne og lukke kontoret
 Om du er den siste med kontortilgang som forlater kontoret må du stenge det. Da må alle som ikke har tilgang ut og du må skru på alarmen.
 
 Det er viktig å skru på alarmen, ellers vil kontoret åpnes automatisk kl 10 påfølgende hverdag. 
