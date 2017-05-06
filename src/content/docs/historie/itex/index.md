@@ -21,5 +21,6 @@ Komiteen består for øyeblikket av 5 medlemmer
 
 |År||Leder|      Medlemmer      |
 |---|---|---|---|---|---|
+|2017|Hege Louise Borge|Elise Fehn Olsen|Christoffer Skar Loftsberg|Silje Sævig|Jie Li|
 |2016|Thomas Mathisen|Hege Louise Borge|Elise Fehn Olsen|Ingrid Vold|Thor Håkon Bredesen|
 |2015|Espen Hellerud|Pia Lindkjølen|Kari Frida Skjold|Thomas Mathisen|Thor Håkon Bredesen|
