@@ -22,8 +22,7 @@ Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart.
 * [Budsjett 2017/2018](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
 
 # Referat fra årets generalforsamling
-Referat fra årets generalforsamling vil bli publisert etter generalforsamlingen.
-   
+Referat fra generalforsamlingen 2017 finner du her: [attachment:405]    
 
 # Informasjon
 
