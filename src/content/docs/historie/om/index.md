@@ -324,7 +324,7 @@ Skal ligge her en plass: Nils Fredriksen, Knut Stølen,
 |1987h-1988h|Ole A. Brevik|Leiv Arild Andenes||
 |1986h-1987h|Ole A. Brevik|Leiv Arild Andenes||
 
-Se forøvrig referatet fra [[Årsmøtet 1987]].
+Se forøvrig referatet fra [Årsmøtet 1987](https://online.ntnu.no/wiki/online/generalforsamlingen/arsmotet1987/).
 
 |År|Formann|Sekretær|Styremedlem|Styremedlem|Styremedlem|
 |---|---|---|---|---|---|
