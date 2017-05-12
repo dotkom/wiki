@@ -246,8 +246,9 @@ kaffedrikking.
 
 |År|Leder|Nestleder|Arrkom|Bankom|bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
 |---|---|---|---|---|---|---|---|---|---|---|
-|2016v-2017v| Thor Håkon Bredesen |Erik Wiker| Sander Arnesen|Kristoffer Hajem| Didrik Pemmer Aalen|Håkon Solbjørn|Kristiane Westgård|Andrea Bach|Martin Bjerke|Ingrid Myrann (ikke valgt på genfors)|
 |2017v-2018v| Didrik Pemmer Aalen |Hege Louise Borger| Edvard Gjessing Bakken|Christoffer Lofsberg| Emil Schrøder|Aslak Hollund|Henrik Munkeberg|Peter Rydberg|Taran Ruge|Erik Wiker (ikke valgt på genfors)|
+|2016v-2017v| Thor Håkon Bredesen |Erik Wiker| Sander Arnesen|Kristoffer Hajem| Didrik Pemmer Aalen|Håkon Solbjørn|Kristiane Westgård|Andrea Bach|Martin Bjerke|Ingrid Myrann (ikke valgt på genfors)|
+
 
 |År|Leder|Nestleder|arrKom|banKom|bedKom|dotKom|fagKom|proKom|triKom|
 |---|---|---|---|---|---|---|---|---|---|
