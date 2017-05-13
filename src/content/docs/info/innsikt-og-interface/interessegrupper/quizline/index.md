@@ -9,7 +9,7 @@ Nåværende medlemmer
 
 Under er en liste over de medlemmene gruppa har.
 
-- **Quizling:** Didrik aAaaaaaaaalen
+- **Quizling:** Didrik Aalen
 - **Quizpostansvarlig og nestleder:** Aslak Hollund
 - **PR-Ansvarlig:** Agnete Djupvik
 - **Quizulent:** Sigurd Oxaas Wie
