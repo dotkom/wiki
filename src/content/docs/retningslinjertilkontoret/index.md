@@ -2,16 +2,16 @@
 title: "Retningslinjer til kontoret"
 ---
 
-# Ansvar
+## Ansvar
 
 Alle som har tilgang til Online-kontoret har et ansvar for å følge disse retningslinjene. Kontortilgangen vil fjernes dersom de ikke følges.
  
-# Vors, fest og nachspiel
+## Vors, fest og nachspiel
 
 
 Deter ikke lov til å arrangere vors, fest eller nach på kontoret uten å ha [fått innvilget søknad om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
 
-# Åpne og lukke kontoret
+## Åpne og lukke kontoret
 
 Når du forlater kontoret må du forsikre deg om at minst én av de som blir igjen har kontortilgang. Om du er den siste med kontortilgang som drar, må alle som er på kontoret ut, og du må låse kontoret.
  
@@ -20,11 +20,11 @@ Det er viktig å skru på alarmen, ellers vil kontoret åpnes automatisk kl 10 p
 Skru av alarmen: A + kort + kode
 Skru på alarmen: B + kort + kode
 
-# Ta vare på kontoret
+## Ta vare på kontoret
 
 Den som ødelegger eller stjeler noe på kontoret er selv økonomisk ansvarlig.
  
-# Rydd etter deg
+## Rydd etter deg
 
 Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lignende vasker man det opp etter seg. Oppvaskmiddel og børste skal finnes ved vasken.
  
