@@ -13,6 +13,7 @@ God lesing!
 
 Redaktører:
 
+- 2017-2018: Andrea Bach
 - 2016-2017: Vebjørn Sletta
 - 2015-2016: Anne-Marie Samuelsen
 - 2014-2015: Thor Håkon Bredesen
