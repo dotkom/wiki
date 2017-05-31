@@ -2,7 +2,6 @@
 title: "Interessegrupper"
 ---
 
-# Interessegrupper
 Hvordan starte en interessegruppe?
 -----------------------------
 **Dersom du har en interesse for noe er det fritt frem for alle Onlinere å starte sin egen interessegruppe!**
