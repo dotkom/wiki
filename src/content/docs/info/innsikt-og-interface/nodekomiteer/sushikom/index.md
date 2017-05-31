@@ -2,7 +2,7 @@
 title: "Stipendsushi"
 ---
 
-Online Stipendsushi, er en interessegruppe for alle onlinere som liker sushi. Rundt den 15. hver måned arrangeres det felles tur til et spisested i byen som serverer sushi. All kommunikasjon foregår i facebook-gruppen til komiteen.
+Online Stipendsushi er en interessegruppe for alle onlinere som liker sushi. Rundt den 15. hver måned arrangeres det felles tur til et spisested i byen som serverer sushi. All kommunikasjon foregår i facebook-gruppen til komiteen.
 
 Facebook-gruppe: [Online Stipendsushi](https://www.facebook.com/groups/394422394075947/?fref=ts)
 
