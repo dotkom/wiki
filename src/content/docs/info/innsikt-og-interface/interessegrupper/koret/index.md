@@ -15,3 +15,6 @@ Hvis du vil være med er det bare å møte opp.
 
 ### Facebookgruppe
 https://www.facebook.com/groups/1489847091313317/
+
+### Kontakt
+Ta gjerne kontakt på [csharp@online.ntnu.no](mailto:csharp@online.ntnu.no)
