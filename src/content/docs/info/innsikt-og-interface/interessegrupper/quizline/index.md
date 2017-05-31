@@ -19,4 +19,4 @@ Under er en liste over de medlemmene gruppa har.
 
 Historie
 --------
-Mistillitsforslag ble rettet mot Tord Standnes mens han enda var hovedgooglist. Han ble demotert til barsjef og August Solvang overtar hans verv. Det blir påpekt at han da har to verv, men August mener han har kapasiteten som er nødvendig.
+Mistillitsforslag ble rettet mot Tord Standnes mens han enda var hovedgooglist. Han ble demotert til barsjef og August Solvang overtar hans verv. Det blir påpekt at han da har to verv, men August mener han har kapasiteten som er nødvendig. Han vil eventuelt ta færre fag for å få kabalen til å gå opp.
