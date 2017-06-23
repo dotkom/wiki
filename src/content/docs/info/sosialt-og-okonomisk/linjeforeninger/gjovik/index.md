@@ -25,10 +25,10 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
-|[Darling](http://darling.no)| |Mediefag||||||
-|[Ing:a](http://inga-hig.no/)| |Teknologifag||||||
-|[Login](http://higlog.no)| |Informatikk||||||
-|[RIK](mailto:rik@hig.no)| |Økonomi, ledelse og logistikk||||||
+|[Darling](org.ntnu.no/darling2016)| |Design- og mediefag||||[Page](https://www.facebook.com/darlingntnu/)||
+|[INGa](http://inga-hig.no/)| |Teknologifag||||[Page](https://www.facebook.com/inga.hig/)||
+|[Login](http://higlog.no)| |IT||||[Page](https://www.facebook.com/higlog(||
+|[RIK](mailto:rik@hig.no)| |Økonomi, ledelse og logistikk||||[Page](https://www.facebook.com/ntnu.rik)||
 
 
 ## Masterforeninger
@@ -139,4 +139,4 @@ Tilhørende wikisider
 
 ### Utlån, utleie
 
-Ting som kan leies mellom foreninger. 
+Ting som kan leies mellom foreninger.
