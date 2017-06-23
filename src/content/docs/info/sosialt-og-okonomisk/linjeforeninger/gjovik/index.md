@@ -27,7 +27,7 @@ Tilhørende wikisider
 |---|---|---|---|---|---|---|---|
 |[Darling](org.ntnu.no/darling2016)| |Design- og mediefag||||[Page](https://www.facebook.com/darlingntnu/)||
 |[INGa](http://inga-hig.no/)| |Teknologifag||||[Page](https://www.facebook.com/inga.hig/)||
-|[Login](http://higlog.no)| |IT||||[Page](https://www.facebook.com/higlog(||
+|[Login](http://higlog.no)| |IT||||[Page](https://www.facebook.com/higlog)||
 |[RIK](mailto:rik@hig.no)| |Økonomi, ledelse og logistikk||||[Page](https://www.facebook.com/ntnu.rik)||
 
 
