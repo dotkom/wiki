@@ -5,47 +5,47 @@ title: "Ditt liv som Onliner"
 «Kan du raskt forklare meg alt det viktigste i min hverdag som Onliner?»
 ------------------------------------------------------------------------
 
-###### Arrkom: arrKom@online.ntnu.no
+###### Arrkom: arrkom@online.ntnu.no
   - Tidlig hver høst er det immatrikuleringsball, alle er velkomne!
   - Utpå hver høst er det blåtur, bli med på buss til en tilfeldig plass.
   - Tidlig hver vår er det Åretur, plassene går fort når påmeldingen åpner.
-  - Fredagen etter at studielånet kommer (den 15. hver måned) er det studielånspils på kjellern.
     
-###### BanKom: banKom@online.ntnu.no
+###### Bankom: bankom@online.ntnu.no
  - Kommer ikke til å påvirke din hverdag før du er komitémedlem.
 
-###### BedKom: bedKom@online.ntnu.no
-- Organiserer en eller flere bedpres eller bedseminar i uken hvor du får anledningen til å møte mange forskjellige bedrifter.
+###### Bedkom: bedkom@online.ntnu.no
+- Organiserer en eller flere bedriftspresentasjoner i uken hvor du får anledningen til å møte mange forskjellige bedrifter.
 
-###### DotKom: dotKom@online.ntnu.no
-- Send mail til dotKom om du har featurerequests eller problemer
+###### Dotkom: dotkom@online.ntnu.no
+- Send mail til dotkom om du har featurerequests eller problemer
         med noen av våre tekniske løsninger.
 
-###### FagKom: fagKom@online.ntnu.no
+###### Fagkom: fagkom@online.ntnu.no
 - Organsiserer kurs i samarbeid med bedrifter. Bedriftene kommer til NTNU for å lære bort det som er det kuleste i arbeidslivet, akkurat nå. De organiserer også eksamenskurs når den tid nærmer seg.
-- En gang i semesteret avholdes også lightning talks, en koselig kveld hvor alle som vil kan holde en lyntale (på 10-15 min) om det de har lyst til.
+- En gang i året avholdes også lightning talks, en koselig kveld hvor alle som vil kan holde en lyntale (på 10-15 min) om det de har lyst til.
 
-###### JubKom: jubKom@online.ntnu.no
+###### Jubkom: jubkom@online.ntnu.no
 - Holder Onlinejubileum hvert femte år slik at alle som tar et
         5-årig studieløp får være med på et jubileum.
 
-###### ProKom: proKom@online.ntnu.no
+###### Prokom: prokom@online.ntnu.no
 - Gir ut tidsskriftet Offline som du kan kose deg med to ganger i semesteret.
 - Lager og henter opp plakater overalt slik at du får med deg hva som skjer uansett hvor du går. Se etter Onlinelogoen.
 
-###### TriKom: trikom@online.ntnu.no
+###### Trikom: trikom@online.ntnu.no
 - Onlinekontoret er åpent for alle som vil ha godt selskap og
         gratis kaffe, informatiker eller ikke, alle er velkomne.
-- Kontorets kjernetid er ca. 9-15, men kontoret er ofte åpent
+- Kontorets kjernetid er 10-16, men kontoret er ofte åpent
         utenfor disse tidene også.
 - I begynnelsen og slutten av semesteret er åpningstidene mer
         tilfeldige.
-###### VelKom: velKom@online.ntnu.no
+
+###### Velkom: velkom@online.ntnu.no
 - Holder fadderuker for deg når du er fersk informatiker.
 
-###### EksKom: ekskom@online.ntnu.no
+###### Ekskom: ekskom@online.ntnu.no
 - Arrangerer utenlandsekskursjon for alle 3.klassinger. Dette er noe alle bør benytte anledningen til å få med seg. 
-- Arrangerer TechTalks på våren for å samle inn penger, slik at ekskursjonen blir billigere for studentene. Dette er en dag, åpen for alle studenter på NTNU, hvor bedrifter kommer for å holde talks og foredrag. 
+- Arrangerer Tech Talks på våren for å samle inn penger, slik at ekskursjonen blir billigere for studentene. Dette er en dag, åpen for alle studenter på NTNU, hvor bedrifter kommer for å holde talks og foredrag. 
 
 «Kjapt, hva er bedpres, bedkurs og slikt?»
 ------------------------------------------
