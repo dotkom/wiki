@@ -43,7 +43,7 @@ Tilhørende wikisider
 | [IVRig](http://org.ntnu.no/ivriglinjeforening/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911689871) | Voksnes læring og rådgivningsvitenskap | | [Page](https://www.facebook.com/ivriglinjeforening/?fref=ts) | ivrig.linjeforening@gmail.com |
 | [Det Gyldne Snitt](http://ntnukatharsis.wordpress.com/) (tidl. Katharsis) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | post.detgyldnesnitt@gmail.com |
 | [Kultura](www.kulturalinjeforening.no ) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911761157) | Kulturminneforvaltning | Bygg 6 nivå 4, rom 6430C | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
-| [Leviathan](https://www.leviathanntnu.com//) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998131715) | Statsvitenskap | | [Page](https://www.fb.com/linjeforeningenleviathan/), [Person](https://www.fb.com/thomashobbesleviathan) | leviathan.ntnu@gmail.com |
+| [Leviathan](https://www.leviathanntnu.com//) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998131715) | Statsvitenskap | Rom 5424C, bygg 5, nivå 4 | [Page](https://www.fb.com/linjeforeningenleviathan/), [Person](https://www.fb.com/thomashobbesleviathan) | leviathan.ntnu@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
 | [Los Elegidos](http://org.ntnu.no/loselegidos/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990359016)| Spansk | 7-508 (bygg 7, nivå 5) | [Group](https://www.facebook.com/groups/438026476235637/) | loselegidoslinjeforening@gmail.com |
 | [Lydmurerlosjen](http://org.ntnu.no/lydmurerlosjen/) | | Musikkteknologi | | [Group](http://fb.com/groups/39534575405/) | |
