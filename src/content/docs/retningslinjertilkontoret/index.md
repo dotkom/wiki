@@ -23,6 +23,8 @@ Skru på alarmen: B + kort + kode
 ## Ta vare på kontoret
 
 Den som ødelegger eller stjeler noe på kontoret er selv økonomisk ansvarlig.
+
+Det er ikke lov til å henge opp plakater o. l. på veggene uten tillatelse fra trivselskomiteen.
  
 ## Rydd etter deg
 
