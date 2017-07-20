@@ -25,7 +25,7 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
-|[Darling](org.ntnu.no/darling2016)| |Design- og mediefag| | | |[Page](https://www.facebook.com/darlingntnu/)||
+|[Darling](http://org.ntnu.no/darling2016/)| |Design- og mediefag| | | |[Page](https://www.facebook.com/darlingntnu/)||
 [FRESK](https://www.facebook.com/linjeforeningenfresk/)| |Helsefag| | | |[Page](https://www.facebook.com/linjeforeningenfresk/)||
 |[INGa](http://inga-hig.no/)| |Teknologifag| | | |[Page](https://www.facebook.com/inga.hig/)||
 |[Login](http://higlog.no)| |IT| | | |[Page](https://www.facebook.com/higlog)||
