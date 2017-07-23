@@ -16,7 +16,7 @@ I navigasjonsmenyen til venstre trykker du på Medlemskap. Her fyller du inn med
 
 Obs: du må ha lagt inn stud-mailen (som slutter på @stud.ntnu.no) i profilen for å kunne sende inn medlemssøknad.
 
-Medlemssøknadene behandles manuelt, så de blir godkjent så fort noen i hovedstyret har tid til å ordne det og har dokumentasjon på at du går på informatikk.
+Medlemssøknadene behandles manuelt, så de blir godkjent så fort noen i Hovedstyret har tid til å ordne det og har dokumentasjon på at du går på informatikk.
 
 Nå er du klar til å melde seg på arrangementer i regi av Online!
 
