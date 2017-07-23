@@ -4,13 +4,15 @@ title: "Guide for ny bruker"
 
 ### Hvordan lage bruker og søke medlemskap
 
+For å kunne melde deg på online sine arrangementer på du ha en bruker.
+
 - Gå inn på https://online.ntnu.no/auth/register/ og fyll inn skjema. 
 - Gå inn på mailen du får tilsendt og verifiser kontoen (husk å sjekke spam om du ikke finner mailen). 
 - Gå inn på Min side som du finner ved å trykke på person-ikonet ved siden av brukernavnet ditt i headeren på nettsiden. 
 
 [image:414]
 
-I navigasjonsmenyen til venstre trykker du på Medlemskap. Her fyller du inn med din masterstudieretning og sender inn søknad. 
+I navigasjonsmenyen til venstre trykker du på Medlemskap. Her fyller du inn med din studieretning og sender inn søknad. 
 
 [image:415]
 
