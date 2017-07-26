@@ -217,6 +217,7 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Epostlister:** [Online](online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
 -   **Fotograf til galla:** [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=31)
+- **Kamerautstyr**: [Nabla](https://nabla.no/kamerautstyr/)
 
 ### Søke om sjenkebevilling til arrangementer
 
