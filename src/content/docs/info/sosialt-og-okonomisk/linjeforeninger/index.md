@@ -103,6 +103,8 @@ Arrangementer der linjeforeningene inviterer hverandre
     linjeredaksjonene
 -   A/F Smørekoppen holder **badekarpadling** på Nidelven i september
 -   Janus linjeforening lager **Indøkrevyen** hver vår.
+-  Nabla lager **Nablarevyen** hvert år.
+- Spanskrøret og Timini lager **Naborevyen** hvert år.
 
 ## Ressurser
 
