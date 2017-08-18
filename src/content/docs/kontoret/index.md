@@ -13,7 +13,7 @@ Kontoret fyller rom 303 i [Høgskoleringen 3](http://maps.google.com/maps?f=q&so
 Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent i semesteret grunnet eksamenslesing eller at kontorvakter ikke er satt opp enda. Det er i flittig bruk uansett, så det er nok noen innom i løpet av dagen uansett tid på året.
 
 ## Kjøleskapene
-På kontoret har vi pr. dags dato to kjøleskap. Det til høyre er det mulig å oppbevare mat i, men det må merkes med navn ellers kan hvem som helst forsyne seg av den. Kjøleskapet til venstre er stortsett fylt med kioskvarer som kjøpes inn av triKom for videre salg til studentene. 
+På kontoret har vi pr. dags dato to kjøleskap. Det til venstre er det mulig å oppbevare mat i, men det må merkes med navn ellers kan hvem som helst forsyne seg av den. Kjøleskapet til høyre er stortsett fylt med kioskvarer som kjøpes inn av triKom for videre salg til studentene. 
 
 ## Kaffetrakteren
 
@@ -24,7 +24,7 @@ For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fy
 
 ##Nibble(kiosksystemet)
 
-Dotkom har utviklet et eget kiosksystem til bruk på kontoret. Dette kan onlinere bruke for å kjøpe varene som tilbys på kontoret. For å legge inn penger, enten legg penger i det rødeskrinet i en av kjøleskapene og legg til penger manuelt etter å skannet kortet, eller logg inn på [profilen din på online weben, så inn på saldo, så legge inn penger der](https://online.ntnu.no/profile/saldo/).
+Dotkom har utviklet et eget kiosksystem til bruk på kontoret. Dette kan onlinere bruke for å kjøpe varene som tilbys på kontoret. For å legge inn penger, enten legg penger i det røde skrinet og legg til penger manuelt etter å skannet kortet, eller logg inn på [profilen din på online weben, så inn på saldo, så legge inn penger der](https://online.ntnu.no/profile/saldo/).
 
 ##Tilgang til kontoret
 
