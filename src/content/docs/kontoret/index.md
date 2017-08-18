@@ -36,7 +36,7 @@ Det står en mikrobølgeovn fremme som er til fritt bruk.
 
 Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne til møter eller lignende, så lenge det står igjen en til andre kaffetørste mennesker på kontoret.
 
-Kaffe, te og annet som ikke står oppført på prislisten på kjøleskapet er å betrakte som gratis goder til alle.
+Kaffe, te og annet som ikke står oppført på prislisten på Nibble er å betrakte som gratis goder til alle.
 
 Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lignende vasker man det opp etter seg. Oppvaskmiddel og børste skal finnes ved vasken.
 
