@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2017-08-13](mote20170813)
+- [2017-05-08](mote20170508)
 - [2017-05-01](mote20170501)
 - [2017-04-24](mote20170424) - HoveTHstyrets siste møte-møte
 - [2017-04-03](mote20170403) - Hovedstyrets siste-møte-før-påske
