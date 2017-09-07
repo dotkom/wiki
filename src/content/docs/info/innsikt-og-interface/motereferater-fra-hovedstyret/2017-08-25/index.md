@@ -1,5 +1,5 @@
 ---
-title: "2017-08-25"
+title: "MOTE 20170825"
 ---
 
 **Møtetidspunkt:** 25. august 12.15 (S22)
