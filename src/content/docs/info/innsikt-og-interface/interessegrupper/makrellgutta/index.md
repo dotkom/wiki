@@ -15,7 +15,7 @@ Under er en liste over de medlemmene gruppa har.
 [image:371 align:right]
     Vår hymn
 
-- **Leder:** Marius Thingwall
+- **Leder:** ~Marius Thingwall~ Ellen Bakksjø
 - **Nestleder:** Fredrik "Rulle-fred" B. Tørnvall
 - **Fiskeriminister:** Kristoffer Andreas Breiland "Fishboy" Dalby
 - **Tomatminister:** Andrea Nornes
