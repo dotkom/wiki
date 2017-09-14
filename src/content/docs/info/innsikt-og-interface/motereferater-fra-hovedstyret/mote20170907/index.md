@@ -196,7 +196,7 @@ Datamuseet: Vi har fått tilgang.
 
 ## 070 Eventuelt (10 min)
 
-        Vi kan ta det på neste møte.
+Vi kan ta det på neste møte.
 
 ## 071 Møteevaluering/Diggepunkt (5 min)
 
