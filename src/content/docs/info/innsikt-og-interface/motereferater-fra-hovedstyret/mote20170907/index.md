@@ -45,7 +45,6 @@ title: "Møte 07.09.17"
 #### Fagkom, med ekskom:
 
   Ekskom er i gang med å skaffe nye folk siden 2 sluttet.
-  Edvard må be Simen ta kontakt med potensielle kandidater direkte.
 
   De nye har fått faddere.
 
