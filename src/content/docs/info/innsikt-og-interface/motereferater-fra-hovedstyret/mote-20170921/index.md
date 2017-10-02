@@ -214,12 +214,6 @@ Emil og Didrik har forelesning, så det går ikke med en ekstra time på torsdag
 
 Forslag: et ekstra møte uka med mer diskusjoner.
 
-
-
-## 105 Gjennomgang av kompileringen (boldes) (10 min)
-
-Snakkes om på middag.
-
 ## 106 Sit kurs
 
 Møteledelse: Mange vil, tar det for de som vil
