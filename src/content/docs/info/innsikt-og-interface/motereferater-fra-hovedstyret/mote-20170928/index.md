@@ -114,7 +114,8 @@ Jobber med å få mer plass. Andre fakulteter virker ikke interessert og vårt i
 ## 121 Teambuilding
 - Strawpoll. Didrik lager! Hege og Didrik lager agenda.
 
-## 122 Adobe-lisenser Koster 1500 pr pers. Får nå dekket 50% opptil 8000 kr for hele komiteen. Har for øyeblikket ikke nok penger på budsjett, men med økte priser kan dette kanskje ordnes. Alle i prokom trenger deler av pakken, worst case 15+ personer. Kontakt Adobe og hør om vi kan få en deilig deal. Alternative programmer er ikke helt av samme kvalitet.
+## 122 Adobe-lisenser 
+Koster 1500 pr pers. Får nå dekket 50% opptil 8000 kr for hele komiteen. Har for øyeblikket ikke nok penger på budsjett, men med økte priser kan dette kanskje ordnes. Alle i prokom trenger deler av pakken, worst case 15+ personer. Kontakt Adobe og hør om vi kan få en deilig deal. Alternative programmer er ikke helt av samme kvalitet.
 
 ## 123 Offentlig møtereferat
 - Loffen har lagt merke til at offentlig møtereferat ikke ligger ute. Det må ordnes 
