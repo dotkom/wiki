@@ -120,10 +120,10 @@ Sak fra Håkon Solbjørg:
 
 Her er litt mer info for de som ønsker å sette seg inn i saken før møtet;
 
-Datatilsynets "TL;DR" om GDPR: (https://www.datatilsynet.no/regelverk-og-skjema/veiledere/hva-betyr/?id=6322)
-Datatilsynets sjekkliste: (https://www.datatilsynet.no/globalassets/global/regelverk-skjema/forordningen/punktliste-til-ny-forordning_web.pdf)
-Offisielt hjemmeside for GDPR: (http://www.eugdpr.org/)
-Dagens lov om behandling av personopplysninger: (https://lovdata.no/dokument/NL/lov/2000-04-14-31/KAPITTEL_1#§1)[https://lovdata.no/dokument/NL/lov/2000-04-14-31/KAPITTEL_1#§1]
+Datatilsynets "TL;DR" om GDPR: [https://www.datatilsynet.no/regelverk-og-skjema/veiledere/hva-betyr/?id=6322](TLDR)
+Datatilsynets sjekkliste: [https://www.datatilsynet.no/globalassets/global/regelverk-skjema/forordningen/punktliste-til-ny-forordning_web.pdf](sjekkliste)
+Offisielt hjemmeside for GDPR: [http://www.eugdpr.org/](GDPR)
+Dagens lov om behandling av personopplysninger: [https://lovdata.no/dokument/NL/lov/2000-04-14-31/KAPITTEL_1#§1](https://lovdata.no/dokument/NL/lov/2000-04-14-31/KAPITTEL_1#§1)
 
 Personvernsgreie som kommer neste år
 
