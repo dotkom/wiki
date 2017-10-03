@@ -106,7 +106,6 @@ Jobber med å få mer plass. Andre fakulteter virker ikke interessert og vårt i
 - Finne fast tidspunkt: Onsdag 16:00. 
 
 ## 119 Gjennomgang av kompileringen (boldes) (10 min)
-- Tas på workshop. Didrik orker ikke.
 
 ## 120 Sit kurs
 - Vi har fått mail. Sett av datoene som er sendt ut!
