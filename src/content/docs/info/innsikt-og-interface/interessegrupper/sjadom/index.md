@@ -7,8 +7,10 @@ Sjadom er den nyeste interessegruppen i Online og er til for å fremme spillet S
 Sjadom vil være en teknisk interressegruppe med fokus på Sjadam. Siden det alt har blitt utviklet en Sjadam AI, vil gruppens medlemmer ha anledning til å lage sine egne og kjempe mot hverandre. På de første samlingene vil spillet bli introdusert, og før sommeren vil det bli holdt en konkurranse hvor AI-ene kjemper mot hverandre.
  
 Styret består i dag av:
-- Leder: Anders Mølster Hopland
-- Nestleder: Brede Yabo Kristensen
-- Administrativ leder: Vegar Andreas Bergum
+
+- Leder: Anders Mølster Hopland 
+- Nestleder: Brede Yabo Kristensen 
+- Administrativ leder: Vegar Andreas Bergum 
+
  
 Link til regler: https://github.com/JonasTriki/sjadam-js
