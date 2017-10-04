@@ -20,3 +20,4 @@ Kravene som stilles er at det skal være en gruppering som åpner for at alle On
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
 - [Quizline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/quizline/)
+- [Sjadom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
