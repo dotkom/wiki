@@ -38,7 +38,7 @@ Gitt i vedtektene beskrevet over, så skal ekstraordinær generalforsamling kun 
 
 Det vil ble servert gratis pizza til alle oppmøtte!
 
-Hva: Ekstraordinær generalforsamling
+Hva: Ekstraordinær generalforsamling  
 Dato: 1. november  
 Klokken: 16:15  
 Sted: R8  
