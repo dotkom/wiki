@@ -1,5 +1,5 @@
 ---
-title: "Ekstraordnær generalforsamling 2017"
+title: "Ekstraordinær generalforsamling 2017"
 ---
 
 * [2017 Forretningsorden](/wiki/online/generalforsamlingen/ekstra2017/forretningsorden) - Forretningsorden
