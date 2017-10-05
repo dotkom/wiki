@@ -10,8 +10,8 @@ title: "Ekstraordnær generalforsamling 2017"
 
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [attachment:404]      
-Referat fra generalforsamlingen 2017 finner du her: [attachment:405]  
+Onlines vedtekter finner du her: [attachment:424]      
+Referat fra generalforsamlingen 2017 finner du her: [attachment:423]  
 
 # Informasjon
 
