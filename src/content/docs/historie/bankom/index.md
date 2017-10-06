@@ -46,7 +46,8 @@ På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra D
 
 |Semester|Leder|Nestleder|arrkom|bedkom|dotkom|ekskom|fagkom|HS|prokom|ITEX|trikom|velkom|jubkom|seniorkom|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|16/17|**Kristoffer Hajem**|Christoffer Lofsberg|Kasper Berg|Henrik Bossart|Katrine Jordheim|Margit Gåsø Schefte|Christoffer Lofsberg|---|Trine-Lise Helgesen|Thomas Mathisen|Christoffer Almankaas|Jakob Westermoen|Thor Håkon Bredesen|Marius Thingwall|
+|17/18|**Christoffer Lofsberg**|Margit Schefte|Marius Johansen|Adrian Hofseth|Dora Oline Eriksrud|Fride Skarseth|Christian Nyvoll|---|Simen Bjørkhaug|Mathias Müller|Martin Bjerke|August Solvang|---|Erik Wiker|
+|16/17|**Kristoffer Hajem**|Christoffer Lofsberg|Kasper Berg/Marius Johansen|Henrik Bossart/Adrian Hofseth|Katrine Jordheim/Dora Oline Eriksrud|Margit Gåsø Schefte|Christoffer Lofsberg|---|Trine-Lise Helgesen/Endre Ullberg|Thomas Mathisen/Hege Borge|Christoffer Almankaas/Martin Bjerke|Jakob Westermoen|Thor Håkon Bredesen|Marius Thingwall|
 |15/16|**Marius Thingwall**|Didrik Pemmer Aalen, Kristoffer Hajem|Edvard Sjøblom, Kasper Berg|Silje Sævig, Henrik Bossart|Kristoffer Dalby, Katrine Jordheim|N/A|Håkon Løvdal, Kristiane Westgård|---|Camilla Tran|Espen Hellerud, Thomas Mathisen|Kristoffer Hajem|Espen Meidell, Jakob Westermoen|Thor Håkon Bredesen|Kathrine Steffensen|
 |14/15|**Henning M. Wold**|Didrik Pemmer Aalen|Sondre Johan Widmark, Edvard Schreiner Sjøblom|Kristian Svoren, Silje Sævig|Kristoffer Dalby|N/A|Håkon Ødegård Løvdal|---|Jørn-Egil Jensen|N/A|Johan Slettvold, Kristoffer Hajem|Didrik Pemmer Aalen, Espen Meidell|N/A|N/A|
 |13/14|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|N/A|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|N/A|Johan Slettvold|Henning M. Wold|N/A|N/A|
