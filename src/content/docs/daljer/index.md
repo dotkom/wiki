@@ -54,6 +54,12 @@ Onlines 25års-dalje
     Online 25 år!
 Delt ut til deltagere på Onlines 25-årsjubileum, 12. november 2011. Daljen er en utstanset utgave av jubileumslogoen, designet av tidligere prokom-medlem Beate Hay. Logoen er en spesialutgave av den vanlige O-logoen til Online, og er pyntet med et lite bånd med "25" skrevet i binært. Daljen var på den tiden en av de første på Gløshaugen som var utstanset og ikke bare preget på en bakgrunn, og skilte seg med dette ut. Også produsert av Trofé.
 
+Onlines 30års-dalje
+==================
+TODO: Bilde
+
+Til Onlines 30-årsjubileum ble det selvsagt designet dalje. Designer var Carl Erik Friedemann. Daljen er jubileumslogen, en sirkuler variant av Online-O-en med lynet gjennom. Medaljen er i blankt gullpreg, med blå emalje i O-en. Medaljen henger i et blått, oransje og hvitt bånd, og skiller seg med dette fra de øvrige onlinedaljene som kun har blå og hvite bånd. Agraffen er preget med 00011110. 
+
 Redaktørdaljen
 ==================
 [image:286 align:right]
