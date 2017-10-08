@@ -58,7 +58,7 @@ Onlines 30års-dalje
 ==================
 TODO: Bilde
 
-Til Onlines 30-årsjubileum ble det selvsagt designet dalje. Designer var Carl Erik Friedemann. Daljen er jubileumslogen, en sirkuler variant av Online-O-en med lynet gjennom. Medaljen er i blankt gullpreg, med blå emalje i O-en. Medaljen henger i et blått, oransje og hvitt bånd, og skiller seg med dette fra de øvrige onlinedaljene som kun har blå og hvite bånd. Agraffen er preget med 00011110. 
+Til Onlines 30-årsjubileum ble det selvsagt designet dalje. Designer var Carl Erik Friedemann. Daljen er jubileumslogen, en sirkuler variant av Online-O-en med lynet gjennom. Medaljen er i blankt gullpreg, med blå emalje i O-en. Medaljen henger i et blått, oransje og hvitt bånd, og skiller seg med dette fra de øvrige onlinedaljene som kun har blå og hvite bånd. Agraffen er preget med 00011110. Medaljen ble produsert av Musette. 
 
 Redaktørdaljen
 ==================
