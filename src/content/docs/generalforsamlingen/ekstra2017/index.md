@@ -34,7 +34,7 @@ Gitt i vedtektene beskrevet over, så skal ekstraordinær generalforsamling kun 
 
 1. Opprettelse av Onlines fond
 2. Fremleggelse og godkjennelse av revidert budsjett for våren 2017.
-3. Opprettelse av og valg av den nye stillingen i Hovedstyret, PR-ansvarlig.
+3. Opprettelse av og valg av den nye stillingen i Hovedstyret, Kommunikasjonsansvarlig.
 
 Det vil ble servert gratis pizza til alle oppmøtte!
 
