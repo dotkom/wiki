@@ -1,0 +1,159 @@
+---
+title: "Møte 12.10.17"
+---
+
+**Møtetidspunkt:** 05. oktober 12.15 (R E4-107)
+
+**Servering og referering:** Edvard
+
+**Vinstraff:** 
+
+**Ølstraff:** 
+
+**Tilstede:** 
+
+**Mangler:** 
+
+## 142 Godkjenning av innkalling, servering og referat
+- godkjent
+
+## 143 Status for komiteene (30 min)  
+
+#### Arrkom, med velkom:   
+- dato er kanskje satt for immballet
+
+#### Bankom: 
+- ajour med regsnakpet fra våren. Har begynt å revidere regnskapet fra våren 
+- Ønsker status fra HSA, skal lage budsjett, så trenger pris.
+
+#### Bedkom, med ITEX:
+- ITEX, tatt inn nye folk, ny leder: Synne Byre, tatt opp 3.stk fra 3.klasse og 3.stk fra 4.klasse. Jens Omfjord en nestleder, Mathias er økoansvarlig, Økte deltakere til 80, vil ikke øke mer, skal ha møte bedkom bedeks neste uke, har ikke satt dato enda. 
+
+#### Dotkom:
+- Ting turer og går, tar kontakt med grades.no, skal ta over det, oppdaterte retningslinjer, må få det godkjent,
+
+#### Fagkom, med ekskom:
+- Ekskom: rutineting, tar kontakt med bedriffter, jobber med techtalks, 
+
+- Fagkom, bookingruppe er i gang, midtsemester på lørdag, ferdig med det meste av kurs,
+
+#### Prokom:
+- La ut Offline, snakket med dotkom om redesign av OW, bestemte oss for at Onlinegensere skal bli bestilt via Spreadshirt, er sikkert litt dyrere, men det er enklere, er noe vanskelig innenfor retningslinjene på hvordan det skal fungere. Kom fram til at vi bestiller "in bulk" og dropper Spreadshirt.
+
+#### Trikom:
+- møtte ikke
+
+#### Seniorkom:
+- Ting går som vanlig
+
+#### Leder og nestleder:
+- Leder: fokusert på skole, ingen status
+- NL: Noe samlok, men har hatt nok med andre ting.
+
+#### ITV:
+- møtte ikke
+
+#### Realfagskjelleren:
+- møtte ikke
+
+## 144 Interkom (10 min)
+- nada
+
+## 145 Samlokaliseringen
+- Har ikke skjedd noe, samme status som forrige gang. Vi ønsker at noen andre skal gjøre det, fordi ansvaret burde ikke ligge på oss.
+
+## 146 Ekstraordinær generalforsamling
+- Fått 1 pers som er int i HR stilling
+
+Refferenter: Peter fikser 6.stk til sammen.
+- Ordstyrer er fikset: Bendik er gira, quote Didrik: "Vi snærkler han". Innkalling skal bli sendt ut innen Onsdag kl 16:00. Alle burde be komiteen sin om å komme. Det blir gratis pizza. Muligens åpent dotkom møte for å teste stemmesystemet, ansvarsfordeling angående lapper til folk, trikomkiosken, printing, Loffen tar pizzabestilling, 
+
+- Rom: Aursand har booket R8 fra kl 16-20, han gir det til oss. Trenger ikke snakke med vaktene, er ingen som har booket det etter oss. Hege booker en time til. 
+
+Tellekorps: En fra Dotkom kommer, Edvard stiller også, Paraferer: vil ikke ha folk fra HS. Saker må ut innen 1.uke før. Neste møte blir åpent møte for å ta innspill, IKKE saker.
+
+- spørsmål om motstand mot PR ansvarlig, blir Online for stort? Skal fremme fond, Didrik er ikke for, avstemning for å fremme fond, ja vi fremmer. 
+- Vi må ha saksforslag inn, valg og slikt, vil bare velge halve fondstyret nå, Sure. Loffen lager forslag
+
+
+## 147 Semesterundersøkelse
+- Har ikke laget den. Didrik fikser den asap! 
+- IDI er usikre på hva de skal gjøre med drivhuset, 
+- sørge for at det ikke blir ALT for mye, kjøper premie :D 
+
+## 148 Retningslinjer
+- Bankom har ikke endre retningslinjene sine. 
+- punktet blir utsatt til neste uke.
+- Retningslinjer ved siden av vedtekter på wiki, ønsker 2 forskjellig versjoner. 
+
+## 149 Medarbeidersamtaler
+- Alle er ikke samtideig, ønsker å spre det litt ut.
+- Alle må begynne å tenke på det sine.
+
+
+## 150 Evaluering av prøveperiode med Smashfri (Hege)
+- Smashfree: veldig for å fortsett, har ikke fått noen tilbakemeldinger i det hele tatt. Merket at folk synes det er greit. Dette vil da fortsette på ubestemt tid. 
+
+## 151 Kaffe til femteklasse (Hege)
+- 5.klasse drikker kaffe på mastersalene. Vi bruker ikke halvparten av kaffebudsjettet. Vil gi kaffe på mastersalene. Mange andre en bare Online der som også da vil benytte seg av kaffetilbudet. Mastersalene er selv ansvarlig for å hente kaffe, ikke Trikom. Må ta det opp med Abakus og Thilde, pga deres studenter sitter der også. Veldig for at det skal bli gjort. Småting må bli gjort for at det skal skje. 
+
+- Det de trenger er kaffepulver og kopper, de har maskin. Kanskje spørre IDI først om de har lyst til å sponse, hvis ikke så spør vi Abakus om det er greit at vi setter Netlight kopper og kaffe på IT-vest.
+
+
+## 152 Mat til itex-workshop (Hege)
+- Refunderte mye penger, mye jobb, kalte inn til teambuilding, men det ble bare jobb. gikk 50k i +, skulle bare gå 20k. Vil bruke penger på mat for arbeidskveld. 1 gang i året. Ja, de skal få penger til mat.
+
+
+## 153 Artikkel til band (Hege)
+- Kommet med blest, men den er for lang for infomail, vil lage artikkel på web, linker heller til den på infomail, 
+
+## 154 Kontrakter (Christoffer)
+- Har lest litt på skatteregler og oppbevaringslover, alle kontrakter som er blitt laget de siste 3,5 år skal bli lagret. Vil samle alle kontrakter mellom flere linjeforeninger. Alle stemmer for. Loffen fikser. Lager en ny perm pr år. Vil ikke ha gamle, starter nå. e-kontrakter må bli printet ut. Alt skal bli lagt i hyllen slik at øko ansv tar det videre. 
+
+
+## 155 Boden på Moholt (Christoffer)
+- Den har ikke vært rørt på mange år. Må ryddes NÅ! det er en kontainer der. Samler folk og kaster ting. Betaler 300,- i måneden men vi bruker den ikke. Vi trenger den.
+
+## 156 Kompileringsgruppen (Taran)
+- tar det på neste møte
+
+## 157 Forespørsler som har kommet på e-post (5 min)
+- Emil svarer på stillingsutlysning
+- Per Morten må bli svartanngående hva vi ser for oss. 
+
+## 158 Ukens infomail og Facebook (5 min)
+- bleste ut om eksgenvors, svarer nei til volvox, 
+- Folk må skjerpe seg at ting er klart at ting er klart kl: 10 på tirsdager. 
+- Arrkom blester i dag, infor om genvors i morgen.
+
+## 159 Eventuelt (10 min)
+- Spreadshirt (prokom): Bankom vil spare penger, billigere å bestille en stor bunch, HS bestemte at Prokom skal komme med et anslag på pris og antall for hs, så skal det bli bestemt på et møte, ikke genvors.
+
+- interessegrupper:
+sjadam vil ikke ha hjelp fra oss, men tydeligvis går det greit. Ontap går dritbra. stipendsushi har forsvunnet, Hege inviterer folk til facebook gruppen, 
+
+- Sosial medlemmer:
+Folk med sosial medlemskap har meldt seg på kurs. Aslak skal informere t de mister tilgang til kurs og bedpres. 
+
+- fagartikler:
+bedrifter er ute etter å skrive fagartikler op ow. skal ikke promotere seg selv. Blitt diskutert tidligere, vet ikke om det skal bli betalt for. til hvilken pris isåfall? Vi vil gjennomføre dette. Bedkom tar seg av dette.
+
+- Velkomleder:
+Folk må sende til opptak@online.ntnu.no
+
+- Ansvarsområdet til PR ansvarlig: 
+Sørge for at vi er med på sosiale medier, bleste for kurs, arrangementer og bedpres, snakker ikke med media (leder er ansiktet til Online)! Tar kontakt med media angående positive ting som Online gjør. Legge en strategi for påmelding av kurs. Informasjon. Skal ikke blandes med Prokom.
+- bestemte oss for å kalle det kommunikasjonsansvarlig.
+ 
+- Tentativ dato til genvors: Mandag 5/3
+
+- Daljer:
+dalje for kompileringen? taes på neste møte. Didrik fant en HS dalje, men vi må bestille nye.
+
+-skapet på kontoret:
+Bjerke fikser. 
+
+## 160 Møteevaluering/Diggepunkt (5 min)
+- Digger effektiviteten, greit å tulle litt på slutten når vi har tid. Deilig å ha tid til eventuelt punkter på slutten. 
+
+## 161 Gjøremål
