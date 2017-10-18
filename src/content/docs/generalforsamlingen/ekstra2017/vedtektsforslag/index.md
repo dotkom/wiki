@@ -15,3 +15,8 @@ Vedtektsforslag under ekstraordinær generalforsamling kan kun stilles av de som
 Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtektene til linjeforeningen. Det innebærer at reglene som Hovedstyret og linjeforeningen følger blir endret. 
 
 [TOC]
+
+Forløpige forslag til vedtektsendringer ligger under:
+
+- [Vedtekter](https://docs.google.com/document/d/14sdbtvfqXO1fTqXj-3sJFm3ghsesY_X62W3RjrCo0ZE/edit?usp=sharing)
+- [Fondets vedtekter](https://docs.google.com/document/d/1Cqs4oXAN_MpZrJWtb6arAgndF0d6AKpaspis5Mvwo7U/edit?usp=sharing)
