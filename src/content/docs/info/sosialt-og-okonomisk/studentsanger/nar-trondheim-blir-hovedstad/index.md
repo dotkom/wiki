@@ -3,12 +3,12 @@ title: "Når Trondheim blir hovedstad!"
 ---
 
 Melodi
-------------------
+------
 _Battle Hymn of the Republic 
 _
 
-Tekst
-------------------
+Sangen
+------
 
 Vi skal synge halleluja, skolen vår er hundre år
 Mens vi krangler som om nitten nittiseks, det var i går 
