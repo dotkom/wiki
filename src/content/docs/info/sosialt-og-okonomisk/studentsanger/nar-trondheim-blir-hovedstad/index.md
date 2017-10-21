@@ -2,61 +2,44 @@
 title: "Når Trondheim blir hovedstad!"
 ---
 
-Info
-----
+### Melodi
+Battle Hymn of the Republic
 
-Mens man synger denne sangen tar man gjerne en serviett el.l. i hånden
-og bruker som “sel”. Den passer dermed godt på julebord, immball og
-lignende.
+### Tekst
 
-Denne sangen er en reaksjon på Norsk selfangst, og den internasjonale
-motstanden selfangsten møtte. Opphavet til sangen er ukjent, men den
-synges hvertfall i en del studentmiljøer.
-
-Melodi: He’s got the whole world in his hand
-
-Sangen
-------
+Vi skal synge halleluja, skolen vår er hundre år
+Mens vi krangler som om nitten nittiseks, det var i går 
+Vi skal synge halleluja, skolen vår er hundre år 
+Når Trondheim blir hovedstad  
 
 Tjue-tjue var en plan for å få mer tøs til Gløs
 Men den stoppa opp, for motstand gjorde rektor litt nervøs
 Vi skal ikke gi opp kampen for å flytte tøs til Gløs
 Når Trondheim blir hovedstad
 
-Vi slår hakapikken i den, i vår sel.  
-Vi slår hakapikken i den, i vår sel.  
-Vi slår hakapikken i den, i vår sel.  
-Vi slår hakapikken i vår sel.
+Syng Trondheim, Trondheim ut av NSO.
+Syng Trondheim, Trondheim ut av NSO.
+Syng Trondheim, Trondheim ut av NSO.
+Når Trondheim blir hovedstad.
 
-Refreng 2 (gjentas etter hvert vers videre):  
-Men selen lever, i vår hånd.  
-Men selen lever, i vår hånd.  
-Men selen lever, i vår hånd.
+I tjue-tjue gir vi siv.ing-grad i nordisk litt’ratur
+I tjue-tjue gir vi siv.ing-grad i nordisk litt’ratur
+I tjue-tjue gir vi siv.ing-grad i nordisk litt’ratur
+Når Trondheim blir hovedstad!
 
-Vi river loffene av den, med vår hånd x4
+Vi skal selge Under Dusken til en dopapirfabrikk
+Vi skal selge Under Dusken til en dopapirfabrikk
+Vi skal selge Under Dusken til en dopapirfabrikk
+Når Trondheim blir hovedstad!
 
-Refreng 2
+Syng Trondheim, Trondheim ut av NSO.
+Syng Trondheim, Trondheim ut av NSO.
+Syng Trondheim, Trondheim ut av NSO.
+Når Trondheim blir hovedstad. 
 
-Vi flår skinnet av den, med vår hånd x4
-
-Refreng 2
-
-Vi klemmer blodet ut av den, med vår hånd x4
-
-Refreng 2
-
-Vi røsker tarmene ut av den, med vår hånd x4
-
-Refreng 2
-
-Vi stikker øynene ut på den, med vår hånd x4
-
-Refreng 2
-
-Vi kjører speedbåt over den, på vår sel x4
-
-Refreng 2
-
-Carl Gustav gråter, for vår sel x4
-
-Refreng 2
+Vi skal drikke opp alt øl de har i Elgsetergate Èn..
+Vi skal rive hele Dragvoll for å bygge nanolab.
+Syng Trondheim, Trondheim ut av NSO...
+Vi skal sørge for at goretex blir et utdødd mat’rial.
+Vi skal gjeninnføre tafsekurs og konte alle mann...
+Syng Trondheim, Trondheim ut av NSO...
