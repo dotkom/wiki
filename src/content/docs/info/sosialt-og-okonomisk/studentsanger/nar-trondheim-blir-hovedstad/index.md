@@ -2,11 +2,6 @@
 title: "Når Trondheim blir hovedstad!"
 ---
 
-Melodi
-------
-_Battle Hymn of the Republic 
-_
-
 Sangen
 ------
 
