@@ -18,11 +18,10 @@ Melodi: He’s got the whole world in his hand
 Sangen
 ------
 
-Refreng 1:  
-Se selen lever, i vår hånd.  
-Se selen lever, i vår hånd.  
-Se selen lever, i vår hånd.  
-Se selen lever i vår hånd.
+Tjue-tjue var en plan for å få mer tøs til Gløs
+Men den stoppa opp, for motstand gjorde rektor litt nervøs
+Vi skal ikke gi opp kampen for å flytte tøs til Gløs
+Når Trondheim blir hovedstad
 
 Vi slår hakapikken i den, i vår sel.  
 Vi slår hakapikken i den, i vår sel.  
