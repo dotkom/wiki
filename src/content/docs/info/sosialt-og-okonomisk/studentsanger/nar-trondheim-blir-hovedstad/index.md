@@ -7,9 +7,9 @@ Battle Hymn of the Republic
 
 ### Tekst
 
-Vi skal synge halleluja, skolen vår er hundre år
-Mens vi krangler som om nitten nittiseks, det var i går 
-Vi skal synge halleluja, skolen vår er hundre år 
+Vi skal synge halleluja, skolen vår er hundre år  
+Mens vi krangler som om nitten nittiseks, det var i går  
+Vi skal synge halleluja, skolen vår er hundre år  
 Når Trondheim blir hovedstad  
 
 Tjue-tjue var en plan for å få mer tøs til Gløs
