@@ -11,3 +11,11 @@ title: "Kandidater til Kommunikasjonsansvarlig"
 Går vedtektsforslaget om Kommunikasjonsansvarlig i Hovedstyret gjennom, vil det foretas valg av denne stillingen. Følgende personer har uttrykt ønske om å stille til valg:
 
 **Kommunikasjonsansvarlig:**
+
+Går vedtektsforslaget om fond gjennom, vil det foretas valg av Fondstyret. Følgende personer har uttrykt ønske om å stille til valg:
+
+**Online-medlem:**  
+
+**Tidligere medlem av Hovedstyret:**  
+
+**Ridder:**
