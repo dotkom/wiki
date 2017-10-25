@@ -1,5 +1,5 @@
 ---
-title: "Kandidater til Kommunikasjonsansvarlig"
+title: "Kandidater"
 ---
 
 * [2017 Forretningsorden](/wiki/online/generalforsamlingen/ekstra2017/forretningsorden) - Forretningsorden
