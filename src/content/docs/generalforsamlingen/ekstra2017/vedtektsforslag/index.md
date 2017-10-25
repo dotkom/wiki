@@ -32,15 +32,9 @@ Hovedstyret består av:
 - Leder av Drifts- og utviklingskomiteen 
 - Leder av Fag- og kurskomiteen
 - Leder av Profil- og aviskomiteen
-- Leder av Trivselskomiteen 
-					
-					
-4.2.2 Bank- og økonomikomiteen
-					
-Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. 
-			
+- Leder av Trivselskomiteen 			
 
-**Til:**
+**Endres til:**
 
 4.1.1
 
@@ -56,6 +50,77 @@ Hovedstyret består av:
 - Leder av Profil- og aviskomiteen
 - Leder av Trivselskomiteen 
 
-4.2.2 Bank- og økonomikomiteen
+**Endres fra:**
+
+4.5.2 Verv i Hovedstyret  
 					
-Komiteens hovedoppgave er ̊a administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. **Komiteen ledes av økonomiansvarlig.**
+Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan returnere til denne ved endt engasjement i Hovedstyret:
+					
+- Leder
+- Nestleder
+- **Leder for bankom** 	
+
+**Endres til:**
+
+4.5.2 Verv i Hovedstyret  
+					
+Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan returnere til denne ved endt engasjement i Hovedstyret:
+					
+• Leder
+• Nestleder
+• **Økonomiansvarlig**	
+
+**Endres fra:**
+
+4.2.2 Bank- og økonomikomiteen  
+					
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. 
+
+**Endres til:** 
+
+4.2.2 Bank- og økonomikomiteen  
+					
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. **Komiteen ledes av økonomiansvarlig.** 
+
+
+**Endres fra:**
+	 		 		 	 	 							
+§6 Økonomi  
+					
+Hovedstyret skal forvalte foreningens økonomi etter de vedtak som er fattet av generalforsamlingen. Økonomiansvarlige kan ikke ta avgjørelser rundt fordeling eller forvaltning av budsjetterte midler til ulike prosjekter i regi av linjeforeningen, disse avgjørelsene tas av den spesifikke komiteen eller Hovedstyret.
+					
+Ikke-budsjetterte utgifter må godkjennes av Hovedstyret. Refundering av disse utgiftene vil kun forekomme dersom utgiften er godkjent.
+	 		 		 	 	 		
+...  							
+					
+§7 Oppløsning av linjeforeningen  
+					
+7.1 Vedtak  
+					
+Vedtak om linjeforeningens oppløsning treffes av ordinær generalforsamling med 3/4 flertall, og deretter 3/4 flertall ved ekstraordinær generalforsamling tre til seks m ̊aneder etter ordinær generalforsamling.
+					
+7.2 Midler  
+					
+Ved oppløsning skal midler som linjeforeningen disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-naturvitenskapelige universitet. Midlene skal øremerkes til studentaktiviteter. Generalforsamlingen kan ved kvalifisert flertall overføre midler til andre organisasjoner som jobber for studenter.
+				
+			
+	
+**Endres til:**  
+
+§6 Økonomi  
+6.1 Budsjetterte midler  
+					
+Hovedstyret skal forvalte foreningens økonomi etter de vedtak som er fattet av generalforsamlingen. Økonomiansvarlige kan ikke ta avgjørelser rundt fordeling eller forvaltning av budsjetterte midler til ulike prosjekter i regi av linjeforeningen, disse avgjørelsene tas av den spesifikke komiteen eller Hovedstyret.
+					
+Ikke-budsjetterte utgifter må godkjennes av Hovedstyret. Refundering av disse utgiftene vil kun forekomme dersom utgiften er godkjent.
+
+6.2 Fond  
+Onlines formue forvaltes av Onlines Fond. Onlines Fond er definert ved Onlines Fonds vedtekter som eksisterer som vedlegg til Onlines vedtekter. 
+
+6.2.1 Overføring av midler  
+Hovedstyret skal under Onlines generalforsamling legge frem forslag til et beløp som skal overføres  til fondet.
+
+...
+
+7.3 Onlines Fond   
+Ved oppløsning av Online, oppløses også Onlines Fond. Onlines Fonds midler fordeles da umiddelbart etter 7.2
