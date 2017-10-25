@@ -20,7 +20,8 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 **Bakgrunn**: Online har de siste årene gått i solide overskudd og etterhvert begynt å opparbeide seg en ganske stor pengebuffer. Det er per nå ikke noe stort rom for å gå mye utover budsjetterte midler til innkjøp som gagner foreningen, noe vi ønsker å gjøre noe med. Dette er ikke et investeringsfond, men et fond som skal forvalte en gitt pengebase forsvarlig, samtidig som pengene skal kunne komme online til gode for store investeringer. Vedtektene legges inn som et supplement til nåværende vedtekter og oppretter en _organisasjon i organisasjonen_. Per nå er dette kun en oppstart og tanken er at pengesøknader skal kunne komme etter ordinær generalforsamling der hvor regnskapet for 2017 blant annet legges frem. 
 
-Legge inn vedtekter for fond som finnes[på wikisiden her](/wiki/online/generalforsamlingen/ekstra2017/fondvedtekter) og endringene under.
+**Hva endres?**  
+Legge inn vedtekter for fond som finnes [på wikisiden her](/wiki/online/generalforsamlingen/ekstra2017/fondvedtekter) og endringene under.
 
 **Endres fra:**
 
