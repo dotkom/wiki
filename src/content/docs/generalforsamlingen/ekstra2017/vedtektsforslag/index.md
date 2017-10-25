@@ -68,9 +68,9 @@ Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlem
 					
 Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan returnere til denne ved endt engasjement i Hovedstyret:
 					
-• Leder
-• Nestleder
-• **Økonomiansvarlig**	
+- Leder
+- Nestleder
+- **Økonomiansvarlig**	
 
 **Endres fra:**
 
