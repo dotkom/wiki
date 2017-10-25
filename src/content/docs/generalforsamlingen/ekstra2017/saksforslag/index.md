@@ -24,4 +24,4 @@ Alle medlemmer av Online kan stille til vervet og stillingen vil ha alle rettigh
 
 ## Saksforslag 2 v/ Hovedstyret 
 
-Det velges kun halve Fondstyret ved denne generalforsamlingen. Resten av Fondstyret velges ved ordinær generalforsamling våren 2018. Det skal ikke innvilges noen pengesøknader hos fondet før etter ordinær generalforsamling for fondet. Endelig beløp som settes inn i fondet til å begynne med settes på ordinær generalforsamling.
+Hvis vedteksforslag 1 går gjennom, så velges kun halve Fondstyret ved denne generalforsamlingen. Resten av Fondstyret velges ved ordinær generalforsamling våren 2018. Det skal ikke innvilges noen pengesøknader hos fondet før etter ordinær generalforsamling for fondet. Endelig beløp som settes inn i fondet til å begynne med settes på ordinær generalforsamling.
