@@ -32,7 +32,7 @@ title: "Dagsorden"
 ### Budsjett
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 16.45  | 17.05  | Godkjenning av revidert budsjett vår 2018  |    |
+| 15 | 16.45  | 17.05  | Godkjenning av revidert budsjett vår 2018  |    
 | Total tid: | |20 min|
 
 # Pause 15 minutter
@@ -43,7 +43,6 @@ title: "Dagsorden"
 | 1   | 17.20 | 17.21 | Forberedelse saksforslag |  |
 | 15   | 17.21 | 17.36 | Saksforslag 1 v/ Hovedstyret |  |
 | 10   | 17.36 | 17.46 | Saksforslag 2 v/ Hovedstyret |  |
-
 | Total tid: | |26 min|
 
 # Pause 30 min med pizza
@@ -64,7 +63,6 @@ title: "Dagsorden"
 | 15 | 19.32  | 19.47  | Valg av onlinemedlem til Fondstyret  |  22.07 |
 | 15 | 19.47  | 20.02  | Valg av tidligere medlem av Hovedstyret til Fondstyret  |  22.16 |
 | 15 | 20.02  | 20.17  | Valg av ridder til Fondstyret  |  22.25 |
-
 | Total tid: | |1 t 1 min|
 
 # 5 minutter til å ta bilde av nyvalgte
