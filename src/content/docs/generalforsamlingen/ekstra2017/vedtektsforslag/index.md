@@ -16,7 +16,44 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 [TOC]
 
-Forløpige forslag til vedtektsendringer ligger under:
+## Forslag 1 v/ Hovedstyret
 
-- [Vedtekter](https://docs.google.com/document/d/14sdbtvfqXO1fTqXj-3sJFm3ghsesY_X62W3RjrCo0ZE/edit?usp=sharing)
-- [Fondets vedtekter](https://docs.google.com/document/d/1Cqs4oXAN_MpZrJWtb6arAgndF0d6AKpaspis5Mvwo7U/edit?usp=sharing)
+**Endres fra:**
+
+4.1.1
+
+Hovedstyret består av:  
+- Leder
+- Nestleder
+- Leder av Arrangementskomiteen
+- **Leder av Bank- og økonomikomiteen**
+- Leder av Bedriftskomiteen
+- Leder av Drifts- og utviklingskomiteen 
+- Leder av Fag- og kurskomiteen
+- Leder av Profil- og aviskomiteen
+- Leder av Trivselskomiteen 
+					
+					
+4.2.2 Bank- og økonomikomiteen
+					
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. 
+			
+
+**Til:**
+
+4.1.1
+
+Hovedstyret består av: 
+- Leder
+- Nestleder
+- **Økonomiansvarlig**
+- Leder av Arrangementskomiteen
+- Leder av Bedriftskomiteen
+- Leder av Drifts- og utviklingskomiteen 
+- Leder av Fag- og kurskomiteen
+- Leder av Profil- og aviskomiteen
+- Leder av Trivselskomiteen 
+
+4.2.2 Bank- og økonomikomiteen
+					
+Komiteens hovedoppgave er ̊a administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. **Komiteen ledes av økonomiansvarlig.**
