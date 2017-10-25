@@ -14,6 +14,8 @@ Går vedtektsforslaget om Kommunikasjonsansvarlig i Hovedstyret gjennom, vil det
 
 **Kommunikasjonsansvarlig:**
 
+- Marius Aune
+
 ### Fondstyret
 
 Går vedtektsforslaget om fond gjennom, vil det foretas valg av Fondstyret. Følgende personer har uttrykt ønske om å stille til valg:
