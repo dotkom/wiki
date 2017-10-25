@@ -60,7 +60,7 @@ title: "Dagsorden"
 |---|---|---|---|---|
 | 1 | 19.16  | 19.17  | Forberedelse til valg  |  |
 | 15 | 19.17  | 19.32  | Valg av kommunikasjonsansvarlig  |  |
-| 15 | 19.32  | 19.47  | Valg av onlinemedlem til Fondstyret  |  22.07 |
+| 15 | 19.32  | 19.47  | Valg av onlinemedlem til Fondstyret  |  |
 | 15 | 19.47  | 20.02  | Valg av tidligere medlem av Hovedstyret til Fondstyret  |  |
 | 15 | 20.02  | 20.17  | Valg av ridder til Fondstyret  |  |
 | Total tid: | |1 t 1 min|
