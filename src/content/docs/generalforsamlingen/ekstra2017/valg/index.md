@@ -8,9 +8,13 @@ title: "Kandidater"
 * [2017 Vedtektsforslag](/wiki/online/generalforsamlingen/ekstra2017/vedtektsforslag) - Foreslåtte endringer til vedtektene. 
 * [2017 Kandidater](/wiki/online/generalforsamlingen/ekstra2017/valg) - Er du klar for et eventuelt verv?
 
+### Hovedstyret
+
 Går vedtektsforslaget om Kommunikasjonsansvarlig i Hovedstyret gjennom, vil det foretas valg av denne stillingen. Følgende personer har uttrykt ønske om å stille til valg:
 
 **Kommunikasjonsansvarlig:**
+
+### Fondstyret
 
 Går vedtektsforslaget om fond gjennom, vil det foretas valg av Fondstyret. Følgende personer har uttrykt ønske om å stille til valg:
 
