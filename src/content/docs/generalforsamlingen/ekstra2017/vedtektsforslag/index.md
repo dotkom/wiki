@@ -18,6 +18,8 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ## Forslag 1 v/ Hovedstyret
 
+Legge inn vedtekter for fond som finnes [her](/wiki/online/generalforsamlingen/ekstra2017/fondvedtekter) og endringene under.
+
 **Endres fra:**
 
 4.1.1
