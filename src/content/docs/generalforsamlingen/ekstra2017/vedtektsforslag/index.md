@@ -23,6 +23,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 4.1.1
 
 Hovedstyret består av:  
+
 - Leder
 - Nestleder
 - Leder av Arrangementskomiteen
@@ -44,6 +45,7 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 4.1.1
 
 Hovedstyret består av: 
+
 - Leder
 - Nestleder
 - **Økonomiansvarlig**
