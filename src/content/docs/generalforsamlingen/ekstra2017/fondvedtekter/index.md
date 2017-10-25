@@ -1,5 +1,5 @@
 ---
-title: "Vedtekter for Online fond"
+title: "Vedtekter for Onlines Fond"
 ---
 
 * [2017 Forretningsorden](/wiki/online/generalforsamlingen/ekstra2017/forretningsorden) - Forretningsorden
