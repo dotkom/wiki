@@ -22,6 +22,8 @@ Går vedtektsforslaget om fond gjennom, vil det foretas valg av Fondstyret. Føl
 
 **Online-medlem:**  
 
+- Tord Standnes
+
 **Tidligere medlem av Hovedstyret:**  
 
 **Ridder:**
