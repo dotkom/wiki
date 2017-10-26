@@ -7,7 +7,7 @@ Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å
 ## Komiteenes retningslinjer
 Utover vedtektene har hver komite et sett med retningslinjer.
 
-- [Arrkom]()
+- [Arrkom](retningslinjer-arrkom)
 - [Bankom]()
 - [Bedkom]()
 - [Dotkom]()
