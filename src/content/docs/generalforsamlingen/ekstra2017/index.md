@@ -13,6 +13,11 @@ title: "Ekstraordinær generalforsamling 2017"
 Onlines vedtekter finner du her: [attachment:424]      
 Referat fra generalforsamlingen 2017 finner du her: [attachment:423]  
 
+# Budsjett
+
+- [Revidert budsjett V18](https://docs.google.com/spreadsheets/d/16bqSdyglFN0cR4ehhB-B3Ey4FTbv6JDlKsP9L29p9pk/edit?usp=sharing)
+- [Eksisterende budsjett H17/V18](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
+
 # Informasjon
 
 Hovedstyret kaller herved inn til ekstraordinær generalforsamling 1. november kl. 16:15 i auditorium R8. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. Formålet med generalforsamlingen er å behandle 3 store saker. 
