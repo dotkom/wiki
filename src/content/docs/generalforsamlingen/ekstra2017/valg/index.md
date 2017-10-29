@@ -15,6 +15,7 @@ Går vedtektsforslaget om Kommunikasjonsansvarlig i Hovedstyret gjennom, vil det
 **Kommunikasjonsansvarlig:**
 
 - Marius Aune
+- Tore Stensaker Tefre
 
 ### Fondstyret
 
