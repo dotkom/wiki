@@ -37,21 +37,21 @@ title: "Dagsorden"
 
 # Pause 15 minutter
 
-### Saksforslag
+### Saks- og vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1   | 17.20 | 17.21 | Forberedelse saksforslag |  |
-| 15   | 17.21 | 17.36 | Saksforslag 1 v/ Hovedstyret |  |
-| 10   | 17.36 | 17.46 | Saksforslag 2 v/ Hovedstyret |  |
-| Total tid: | |26 min|
+| 1   | 17.20 | 17.21 | Forberedelse saks- og vedtektsforslag |  |
+| 45 | 17.21 | 18.06 | Vedtektsforslag 1 v/Hovedstyret  |   |
+| Total tid: | |46 min|
 
 # Pause 30 min med pizza
 
-### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 45 | 18.16 | 19.01 | Vedtektsforslag 1 v/Hovedstyret  |   |
-| Total tid: | | 45 min|
+| 15   | 18.36 | 18.51 | Saksforslag 1 v/ Hovedstyret |  |
+| 10   | 18.51 | 19.01 | Saksforslag 2 v/ Hovedstyret |  |
+| Total tid: | |26 min|
+
 
 # Pause 15 min
 
