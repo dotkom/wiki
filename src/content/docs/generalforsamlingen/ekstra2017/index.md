@@ -54,7 +54,7 @@ Vel møtt!
 
 Hovedstyret ønsker å fremme forslag om å midlertidig utvide hovedstyret med en plass: en kommunikasjonsansvarlig.
 
-Skulle forslaget bli godkjent av generalforsamlingen ønsker vi å velge inn en kommunikasjonsansvarlig som vil sitte frem til ordinær generalforsamling i starten av mars. Stillingen vil delvis være en prøveordning for å se om dette er noe vi kunne tenke oss å legge frem som en mulighet for enten en permanent stilling i hovedstyret eller som en ny kjernekomité.
+Skulle forslaget bli godkjent av generalforsamlingen ønsker vi å velge inn en kommunikasjonsansvarlig som vil sitte frem til ordinær generalforsamling i starten av mars. Stillingen vil være en prøveordning for å se om dette er noe vi kunne tenke oss å legge frem som en mulighet for enten en permanent stilling i hovedstyret eller som en ny kjernekomité.
 
 Tanken går som følger: Sosiale medier har bare blitt mer og mer viktige i de siste årene. I online vet vi at sosiale medier er en av de viktigste kanalene vi har får å nå ut til våre medlemmer. Per i dag har vi ingen med spesiell kompetanse på dette feltet, selv om vi til tider merker at vi trenger det. Vi forestiller oss at en komite kunne arbeide ting som å utarbeide blestestrategier for å fylle kurs og bedriftspresentasjoner som av diverse grunner ikke fylles, håndtere våre sosiale media kontoer, jobbe for å vise linjeforeningen i et positivt lys ut til eksterne, da både potensielle søkere til informatikk og samfunnet generelt. Noen i komiteen kan ta mediahåndteringskurs og dermed opparbeide seg kompetanse til å bistå leder i saker der linjeforeningen må uttale seg til media. Og mye mer!
 
