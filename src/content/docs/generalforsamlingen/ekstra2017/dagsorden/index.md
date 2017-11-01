@@ -25,7 +25,7 @@ title: "Dagsorden"
 | 1 | 16.39 | 16.40 | Godkjenning av stemmeberettigede  |   |
 | 2 | 16.40 | 16.42 | Godkjenning av dagsorden  |  |
 | 1 | 16.42 | 16.44 | Godkjenning av innkalling  |   |
-| 1 | 16.44 | 16.45 | Godkjenning av saksliste  |  |
+| 1 | 16.44 | 16.45 | Godkjenning av saksliste  | 16:30 |
 | Total tid: | |30 min|
 
 
