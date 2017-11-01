@@ -14,10 +14,10 @@ Går vedtektsforslaget om Kommunikasjonsansvarlig i Hovedstyret gjennom, vil det
 
 **Kommunikasjonsansvarlig:**
 
+- Per Morten Solheim
 - Marius Aune
 - Tore Stensaker Tefre  
 - Stian Sørli
-- Per Morten Solheim
 
 ### Fondstyret
 
