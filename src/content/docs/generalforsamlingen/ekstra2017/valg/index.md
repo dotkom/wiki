@@ -28,6 +28,8 @@ Går vedtektsforslaget om fond gjennom, vil det foretas valg av Fondstyret. Føl
 
 **Tidligere medlem av Hovedstyret:**  
 
+- Sondre Johan Widmark
+
 **Ridder:**
 
 - Erlend Klakegg Bergheim
