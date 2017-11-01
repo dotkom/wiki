@@ -15,7 +15,7 @@ Går vedtektsforslaget om Kommunikasjonsansvarlig i Hovedstyret gjennom, vil det
 **Kommunikasjonsansvarlig:**
 
 - Per Morten Solheim
-- Marius Aune
+- **Marius Aune**
 - Tore Stensaker Tefre  
 - Stian Sørli
 
@@ -25,13 +25,14 @@ Går vedtektsforslaget om fond gjennom, vil det foretas valg av Fondstyret. Føl
 
 **Online-medlem:**  
 
-- Tord Standnes
+- **Tord Standnes**
+- Lars Føleide (stilte på generalforsamlingen) 
 
 **Tidligere medlem av Hovedstyret:**  
 
-- Sondre Johan Widmark
+- **Sondre Johan Widmark**
 
 **Ridder:**
 
 - Erlend Klakegg Bergheim
-- Henning Wold
+- **Henning Wold**
