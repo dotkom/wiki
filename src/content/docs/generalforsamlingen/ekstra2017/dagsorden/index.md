@@ -32,7 +32,7 @@ title: "Dagsorden"
 ### Budsjett
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 16.45  | 17.05  | Godkjenning av revidert budsjett vår 2018  |    
+| 15 | 16.45  | 17.05  | Godkjenning av revidert budsjett vår 2018 |16:41 |    
 | Total tid: | |20 min|
 
 # Pause 15 minutter
