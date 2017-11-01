@@ -48,7 +48,7 @@ title: "Dagsorden"
 
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15   | 18.36 | 18.51 | Saksforslag 1 v/ Hovedstyret |  |
+| 15   | 18.36 | 18.51 | Saksforslag 1 v/ Hovedstyret | 17:52 |
 | 10   | 18.51 | 19.01 | Saksforslag 2 v/ Hovedstyret |  |
 | Total tid: | |26 min|
 
