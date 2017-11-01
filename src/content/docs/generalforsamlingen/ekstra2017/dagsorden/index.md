@@ -40,7 +40,7 @@ title: "Dagsorden"
 ### Saks- og vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1   | 17.20 | 17.21 | Forberedelse saks- og vedtektsforslag |  |
+| 1   | 17.20 | 17.21 | Forberedelse saks- og vedtektsforslag | 16:49 |
 | 45 | 17.21 | 18.06 | Vedtektsforslag 1 v/Hovedstyret  |   |
 | Total tid: | |46 min|
 
