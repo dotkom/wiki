@@ -1,0 +1,170 @@
+---
+title: "2017-11-09"
+---
+
+**Møtetidspunkt:** 09. november 12.15 (R E4-107)
+
+**Servering og referering:** Aslak
+
+**Straff:**
+
+**Tilstede:** Didrik, Martin, Christoffer, Erik, Aslak, Emil, Henrik, Peter, Hege, Edvard
+
+**Mangler:** Taran
+
+## Innsjekk (12.15)
+[Hvordan har dere det?]
+
+## 208 Godkjenning av innkalling, servering og referat fra forrige uke (12.19)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+
+Godkjent, loffen skal legge ut sitt. Servering godkjent.
+
+## 209 Status for komiteene (12.20)
+[Her er det kun meningen at dere skal komme med status for komiteen deres. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+Ikke veldig mye å gjøre nå, mye av julebordet er gjort, noe skal gjøres på hyttetur.  
+Curling: er redd for at ikke mange kommer, fordi eksamensperiode. Er ikke krise hvis det bare er 15 stykker heller.  
+Åre turer og går.  
+Immballet blir nok lørdagen rundt 8-9-10 sept. forhåpentligvis.  
+
+#### Bankom:
+Det går, hadde møte på søndag. Godt i gang med revidering. Fått litt oversikt over hva vi har brukt. Har såvidt brukt av nye prosjekter.  
+
+
+#### Bedkom, med ITEX:
+Har opprettet interne retningslinjer for muligheter-mail og andre ting som bare har eksistert muntlig.  
+Har begynt å planlegge utenlandstur til neste år.  
+Begynt å se på techtalks. Venter nok med dette til etter bookingrunde.  
+Møte i linjesamarbeide forrige uke. De vil sende ut spørreundersøkelse til alle bedrifter med spørsmål om hvor mye de bruker på rekruttering o.l. Det er ikke populært i bedkom.  
+
+
+ITEX:  
+Begynt å få fly og hotelltilbud.  
+
+#### Dotkom:
+Hysj hysj julebordunderholdning.  
+Ellers går ting bra.  
+
+#### Fagkom, med ekskom:
+
+Kodekveld gikk bra, vi var rundt 40 pers.  
+
+Får forhåpentlivis fordelt bedrifter for kurs neste uke.  
+Har hatt teambuilding med abakus. Det var gøy.  
+
+#### Prokom:
+Mindre å gjøre nå, det er veldig greit.  
+Tenker på årboka. Ser på hvordan vi kan gjøre den mer inkluderende og få den til å se mindre ut som en komitegreie.  
+Prøvetrykk på offline forhåpentligvis neste uke.  
+
+#### Trikom:
+Trivlig med hyttetur.  
+Det kommer grøtfest.  
+
+#### Seniorkom:
+Ruller og går, har hatt lunsjmøte i dag.  
+
+
+#### Leder og nestleder:
+Didrik: Ikke mye.  
+Hege: EMIL sliter også med internasjonal seksjon, de har få personer på arrangementete sine.  
+
+#### ITV:
+
+#### Realfagskjelleren:
+Vi er blant de som gjør det best salgsmessig, i fadderperioden gjorde vi det best.  
+Kjellersjefen ønsker felles møte med alle linjene, det kommer spørsmål om dette før jul.  
+Det kommer også et spørsmål om Onlinere i kjellerstyret på julebord.  
+Det blir ikke noe paraplyorg, men det blir en samarbeidsorganissasjon.  
+Det blir felles leveranser, men legger inn bestilling sammen. Kan få veldig gode deals, fordi vi blir en av de største kundene i Trondheim.  
+Vi skal ha fast sjenkebevilgning, det krever flere prøver, det skal gå fint.  
+Opppussing skal også gjøres sammen. Håkon Espeland er byggansvarlig. Spørsmål rundt slikt kan sendes til kjellerstyret.  
+
+## 210 Interkom (12.50)
+[Her skal saker som angår tre eller flere komiteer]  
+Dotkom trenger feedback på systemene våre, fra bedkom+fagkom (og andre som bruker dem).
+
+
+## 212 Lang og tro tjenestedalje (13.10)
+[Har dere funnet ut hvem som skal ha daljen? Og har dere skrevet det inn på wikien? Didrik må vite hvor mange daljer som må med på julebordet]
+
+Alle: Skriv inn i wikien i pausen.  
+Alle har skrevet inn.  
+
+## Fem minutters pause klokken 13.00.
+[Flyttes (punktmessig) dersom vi er kommet lenger i sakslisten innen 13.00]
+
+## 213 Arbeidsområder og retningslinjer for kommunikasjonsansvarlig (13.15)
+[Vi setter av femten minutter til å diskutere arbeidsområde og retningslinjer for kommunikasjonsansvarlig. Vi trenger ikke komme til en endelig konklusjon i dag, men heller peke ut en retning vi ønsker for kommunikasjonsansvarlig.]
+
+Under er en del notater fra diskusjonen, det er ikke et komplett bilde av diskusjonen, men jeg fikk forhåpentligvis med de viktigste momentene. Saken blir også tatt opp neste uke.  
+
+Vi fokuserer på Marius sitt ansvar.  
+Mulige faste oppgaver: Instagram, facebook, snapchat(?), ha en oversikt over blesting.  
+Kanskje Marius som kan se på ny facebook gruppe, den er veldig vanskelig og få nye inn i den vi har nå. PGA NTNU community greiene. Kan bruke konkurransen for å få folk over på de nye gruppene.  
+Vi burde være flinkere til å bruke Online-pagen.  Marius påpeker at instagram nok er en viktigere kanal og få på beina en pagen.  
+Marius: Få ut en del poster på Instagram nå, så bleste det når det er litt mer fylde der.  
+Se på mulighet for å ha ukentlige bannere for hva som skjer.  
+
+Skal vi slutte å bleste selv, eller skal Marius gjøre det. Kan blesteansvarlige prate med Marius?  
+Marius må få seg totaloversikt, med kalender elns hvor han kan ha full oversikt. Så folk kan snakke med han og schedule tid.  
+Vi må se på andre ting enn facebook også. Infomailen er viktig, det kan han også ta. Kan dette bakes inn med facebookblestinga?
+
+Er det vanskelig å få til et strengere system med blesting og frister og slikt tidlig. Funker det?  
+Edvard, det går nok fint. Emil, dette høres veldig bra ut. Loffen, det kan bli vanskelig. Aslak, når vi har noen som følger opp så går det nok bra.
+
+Loffen: Arbeidsoppgave: Ha en god oversikt over alle tingene som skjer i linjeforningene.  
+Informere om hva hovedstyret gjør: f.eks. Samlokalisering.  
+Jobbe for mer artikler til OW. Kan ta over for nettredaktør på sikt kanskje, må snakke med prokom.  
+
+
+Marius legger frem et forslag neste uke rundt hans arbeidsoppgaver.
+
+## 215 Årboktema
+[Hvilket tema skal vi på i årboken i år? Målet for punktet er å bli enige om et tema.]  
+Vi diskuterer videre på slack.  
+
+## 216 Økonomi- og vedtektskveld
+[Vi burde se på mulige datoer for å ha økonomi- og vedtektskveld før neste generalforsamling]  
+
+Tentativ dato 18. Februar. Hege setter den i kalenderen.  
+Det blir mye å gjøre rundt revidering, spesielt siden Abakus har genfors nærmere oss, og vi har tidlig.  
+
+## 217 Forespørsler som har kommet på e-post (13.30)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evalurerer hva vi gjør med de.]
+
+Samlokalisering - kommunikasjon til studenter - Didrik stiller på dette møtet.
+Interessant fagdag for dere? - til bedkom/fagkom
+Eksamensboost 2017! - Vi slenger det på infomail
+
+## 218 Ukens infomail og Facebook (13.35)
+[Hvem poster hva, og når?]  
+Blesting for band, de trenger trommis - Vi poster nå og etter jul.  
+
+## 219 Eventuelt (13.40)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+- Prikker:  
+Står ikke noe i prikkereglementet om at du får prikk når du blir meldt av for ikke betaling.
+Dotkom må fikse sånn at man ikke får prikk når man blir avmeldt for ikke betaling.
+
+- Møte med rektor i morgen bør vi gå?:
+Hege har mulighet og kan gå hvis hun vil.
+
+
+## 220 Møteevaluering/Diggepunkt/Utsjekk (13.55)
+[Hva var bra og hva var dårlig? Alle må si minst en ting]  
+Bra bra bra, dårlig rom, bra utgangspunkt for retningslinjene til razzmatazz, bra diskusjoner, veldig dårlig rom, bra med diskusjoner rundt hackerspace.
+
+## Gjøremål
+[Her skal alle gjøremålene som kommer opp i løpet av møtet skrives ned, slik at det er enkelt å sjekke hva man må gjøre i etterkant av møtet. Referent har ansvar for å skrive inn her etter møtet.]
+
+- Emil og Edvard henter daljer sammen.  
+- Alle skal skrive hvem som skal ha LOTT  
+- Didrik skal hente LOTT daljer  
+- Hege setter tentativ dato for økonomi- og vedtektskveld.  
+- Marius bearbeider diskusjonen rundt retningslinjer og arbeidsoppgaver for kommunikasjonsansvarlig og legger det frem neste møte.
+- Didrik drar på møte om Samlokalisering - kommunikasjon til studenter, ref mail.
+- Noen TM poster om trommis til band.
+- Dotkom må fikse sånn at man ikke får prikk når man blir avmeldt for ikke betaling. Aslak lager Issue
