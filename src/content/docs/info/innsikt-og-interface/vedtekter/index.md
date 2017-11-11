@@ -4,8 +4,8 @@ title: "Vedtekter"
 
 Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å møte opp for å stemme over nye ledere for respektive komiteer, nestleder og leder, samt over nye saksforslag og vedtekter. Her finner dere gjeldende vedtekter:[attachment:404].
 
-## Komiteenes retningslinjer
-Utover vedtektene har hver komite et sett med retningslinjer.
+### Komiteenes retningslinjer
+Utover vedtektene har hver komite et sett med retningslinjer. De finnes [her](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/)
 
 ###Kjernekomiteer
 
