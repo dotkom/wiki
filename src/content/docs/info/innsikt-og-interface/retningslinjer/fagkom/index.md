@@ -11,12 +11,12 @@ Fag- og kurskomiteen skal jobbe aktivt for å stimulere studentenes faglige inte
 ### §2 Fag- og kurskomiteens sammensetning
 
 Komiteen består av:
-- Leder
-- Nestleder
-- Økonomiansvarlig
-- Ansvarlig for ekskursjonskomiteen
-- Tillitsvalgt
-- Ordinære medlemmer
+- Leder  
+- Nestleder  
+- Økonomiansvarlig  
+- Ansvarlig for ekskursjonskomiteen  
+- Tillitsvalgt  
+- Ordinære medlemmer  
 
 Leder velges på Generalforsamlingen. Alle stillinger bortsett fra leder er internstillinger. Disse velges innad i komiteen i løpet av høstsemesteret, bortsett fra ansvarlig for ekskursjonskomiteen som velges når ekskursjonskomiteen opprettes på vårsemesteret. Andre oppgaver delegeres ved behov. 
 
