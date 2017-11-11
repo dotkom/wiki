@@ -1,5 +1,5 @@
 ---
-title: "Fag- og kurskomiteen"
+title: "Fag- og kurskomiteens retningslinjer"
 ---
 
 Dette er retningslinjene for Fag- og kurskomiteen, heretter kalt fagKom.
