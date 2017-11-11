@@ -1,5 +1,5 @@
 ---
-title: "Retningslinjer for Seniorkomiteen"
+title: "Seniorkomiteens retningslinjer"
 ---
 
 Seniorkomiteen
