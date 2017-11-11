@@ -1,4 +1,4 @@
 ---
-title: "Arrangementskomiteen"
+title: "Arrangementskomiteens retningslinjer"
 ---
 
