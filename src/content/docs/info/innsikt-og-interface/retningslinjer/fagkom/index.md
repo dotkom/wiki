@@ -28,14 +28,14 @@ I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter 
 Fagkom skal jobbe aktivt for å engasjere bedrifter til å holde fagrelaterte arrangementer.
 
 #### (2) Booking av bedriftsrelaterte arrangementer
-Fagkom skal i samarbeid med bedriftskomiteen (heretter kalt bedKom) etterstrebe å booke arrangementer med bedrifter påfølgende semester. 
+Fagkom skal i samarbeid med bedriftskomiteen (heretter kalt bedkom) etterstrebe å booke arrangementer med bedrifter påfølgende semester. 
 
 #### (3) Eksamensforelesninger
 Fagkom skal etterstrebe at det blir arrangert repetisjonsforelesninger hvert semester i emner som regnes som vanskelige, da særlig for grunnleggende 1. klasse-emner. 
 
 #### (4) Oslotur
 
-Fagkom skal sammen med bedKom etterstrebe å gjennomføre oslotur for å opprettholde/knytte kontakt med næringslivet en gang i semesteret. 
+Fagkom skal sammen med bedkom etterstrebe å gjennomføre oslotur for å opprettholde/knytte kontakt med næringslivet en gang i semesteret. 
 
 #### (5) Abakus
 
