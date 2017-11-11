@@ -10,7 +10,7 @@ Fag- og kurskomiteen skal jobbe aktivt for å stimulere studentenes faglige inte
 
 ### §2 Fag- og kurskomiteens sammensetning
 
-Komiteen består av:
+Komiteen består av:  
 - Leder  
 - Nestleder  
 - Økonomiansvarlig  
