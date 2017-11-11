@@ -19,7 +19,6 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
 ### Nodekomiteer
 
-- [Applikasjonskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/appkom/)
 - [Ekskursjonskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/ekskom/)
 - [Informatikernes IT-ekskursjon](/wiki/online/info/innsikt-og-interface/retningslinjer/itex/)
 - [Jubileumskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/jubkom/)
