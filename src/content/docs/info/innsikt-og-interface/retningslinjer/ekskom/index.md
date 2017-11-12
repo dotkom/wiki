@@ -9,15 +9,15 @@ Ekskursjonskomiteen skal planlegge og gjennomføre ekskursjonen for studenter ve
 
 ###§2 Ekskursjonskomiteens sammensetning
 Komiteen består av:
-- Leder
-- Nestleder
-- Økonomiansvarlig
-- Kulturell ansvarlig
-- Faglig
-- TechTalks-ansvarlige
-- Reisebyråkontakter
-- Dugnadsansvarlig
-- Bedriftskontakt
+- Leder  
+- Nestleder  
+- Økonomiansvarlig  
+- Kulturell ansvarlig  
+- Faglig  
+- TechTalks-ansvarlige  
+- Reisebyråkontakter  
+- Dugnadsansvarlig  
+- Bedriftskontakt  
 
 Leder og nestleder velges av forrige års eksKom ut ifra en søknadsprosess. De andre ansvarsområdene velges innad i komiteen når den er dannet.    
 
