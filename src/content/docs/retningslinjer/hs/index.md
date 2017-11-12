@@ -2,6 +2,8 @@
 title: "Hovedstyrets retningslinjer"
 ---
 
+**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](/wiki/online/info/innsikt-og-interface/retningslinjer/).**
+
 ### §1 Hovedstyrets formål
 
 Hovedstyret skal drive linjeforeningen på en måte som best gagner alle medlemmer. Hovedstyret skal være generalforsamlingens stemme gjennom året og handle med det som mål. 
