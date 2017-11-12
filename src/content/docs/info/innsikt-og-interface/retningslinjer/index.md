@@ -4,7 +4,7 @@ title: "Retningslinjer"
 
 Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
-- [Hovedstyret](/wiki/online/info/innsikt-og-interface/retningslinjer/)
+- [Hovedstyret](/wiki/online/info/innsikt-og-interface/retningslinjer/hs/)
 
 ### Kjernekomiteer
 
