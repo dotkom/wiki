@@ -2,6 +2,8 @@
 title: "Retningslinjer Dotkom"
 ---
 
+**Disse vedtektene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her][/wiki/online/info/innsikt-og-interface/retningslinjer/).**
+
 ### §1 Drifts- og utviklingskomiteens formål
 
 Dotkom skal tilrettelegge for en fornuftig og effektiv bruk av IT i Onlines arbeidsprosesser. 
