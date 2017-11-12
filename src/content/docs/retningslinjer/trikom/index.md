@@ -5,6 +5,8 @@ title: "Retningslinjer triKom"
 Trivselskomiteen
 ===========
 
+**Disse retningslinjene blir ikke lenger vedlikeholdt, oppdatert versjon finnes [her](/wiki/online/info/innsikt-og-interface/retningslinjer/trikom/).
+
 ### §1 Trivselskomiteens formål
 
 TriKom skal arbeide for økt trivsel blant informatikere i hverdagen.
