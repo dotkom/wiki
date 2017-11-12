@@ -1,5 +1,5 @@
 ---
-title: "Jubkoms retninglinjer"
+title: "Jubkoms retningslinjer"
 ---
 
 ### §1 Komiteens formål  
