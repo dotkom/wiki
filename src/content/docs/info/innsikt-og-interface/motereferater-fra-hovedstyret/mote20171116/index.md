@@ -66,28 +66,31 @@ title: "MØTE 16.11.17"
 ## 226 Nye daljer (13.15)
 [Hege ønsker en diskusjon rundt det om å gi alle Onlinere en dalje kan øke følelsen av inkludering. Burde også nodekomiteer ha sin egen dalje?] 
 
-## 227 Innspill fra salen (13.25)
+## 227 Retningslinjer til facebook-gruppen
+[Hvordan vi håndterer facebook-gruppen har i stor grad blitt overført muntlig. Aslak ønsker at vi sammen finner frem til regler for blesting. Han er spesielt interessert i å høre bedkom og fagkom sine synspunkter. Videre ønsker han en diskusjon rundt eventuelle unntak eller corner-cases. Målet er at kommunikasjonsansvarlig skal få en god base med input for å kunne legge frem et forslag til retningslinjer som vi kan vedta på et senere møte.]
+
+## 228 Innspill fra salen (13.25)
 [Her er det mulig for de som kommer å komme med innspill eller spørsmål ut over det som allerede har vært diskutert.]
 
-## 228 Hackerspace (13.30)
+## 229 Hackerspace (13.30)
 [Oppfølging av denne saken fra forrige gang og hva som har skjedd siden sist. Vi ønsker sammen med Abakus å sørge for et godt og sunt samarbeid med Hackerspace.]
 
-## 229 Semesterundersøkelse (13.35)
+## 230 Semesterundersøkelse (13.35)
 [Vi bruker ikke mye tid på denne på møtet, men det er viktig at de som skal ha informasjonen får det som gjelder dem. Dette gjelder de forskjellige komiteene, IDI angående Drivhuset og KiD angående praksis. Det samme gjelder kommende velkom og evt kompileringsgruppe.]
 
-## 230 Sosialt (13.38)
+## 231 Sosialt (13.38)
 [Vi skal ha sosialkveld med Abakus neste mandag. Når blir internsosialisering?]
 
-## 231 Forespørsler som har kommet på e-post (13.40) 
+## 232 Forespørsler som har kommet på e-post (13.40) 
 [Her går vi gjennom e-poster vi har fått siden forrige møte og evalurerer hva vi gjør med de.]
 
-## 232 Ukens infomail og Facebook (13.44)  
+## 233 Ukens infomail og Facebook (13.44)  
 [Hvem poster hva, og når?] 
 
-## 233 Eventuelt (13.45)
+## 234 Eventuelt (13.45)
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet]
 
-## 234 Møteevaluering/Diggepunkt (13.55)
+## 235 Møteevaluering/Diggepunkt (13.55)
 [Hva var bra og hva var dårlig? Alle må si minst en ting] 
 
 ## Gjøremål
