@@ -5,7 +5,8 @@ title: "RETNINGSLINJER FOR KOMMUNIKASJONSANSVARLIG"
 # §1 Kommunikasjonsansvarligs formål
 Kommunikasjonsansvarliges hovedoppgave er å synliggjøre bredden av aktiviteter i Online, ukentlig sende informasjonsmail, samt koordinere blesting på tvers av komiteer. Vervet er midlertidig, og et prøveprosjekt for hva en eventuelt kommunikasjonskomité skal ha ansvar for.
 ## §2 Kommunikasjonsansvarliges ansvarsområder
-####3.1 Blesting Kommunikasjonsansvarlig skal i samarbeid med blesteansvarlige i andre komiteer organisere blestingen av arrangementer og annen informasjon til Facebook og Instagram. Gjennom en blestekalender skal promoteringen av arrangementer planlegges i god tid.
+####3.1 Blesting 
+Kommunikasjonsansvarlig skal i samarbeid med blesteansvarlige i andre komiteer organisere blestingen av arrangementer og annen informasjon til Facebook og Instagram. Gjennom en blestekalender skal promoteringen av arrangementer planlegges i god tid.
 ####3.2 Informasjonsmail
 Kommunikasjonsansvarlig skal hver tirsdag klokken 12:00 sende ut informasjonsmail med kommende arrangementer og generell informasjon som er fint hvor hver enkelt onliner å få med seg.
 ####3.3 Listemail
