@@ -72,8 +72,6 @@ title: "MØTE 16.11.17"
 ## 228 Innspill fra salen (13.25)
 [Her er det mulig for de som kommer å komme med innspill eller spørsmål ut over det som allerede har vært diskutert.]
 
-## 229 Hackerspace (13.30)
-[Oppfølging av denne saken fra forrige gang og hva som har skjedd siden sist. Vi ønsker sammen med Abakus å sørge for et godt og sunt samarbeid med Hackerspace.]
 
 ## 230 Semesterundersøkelse (13.35)
 [Vi bruker ikke mye tid på denne på møtet, men det er viktig at de som skal ha informasjonen får det som gjelder dem. Dette gjelder de forskjellige komiteene, IDI angående Drivhuset og KiD angående praksis. Det samme gjelder kommende velkom og evt kompileringsgruppe.]
