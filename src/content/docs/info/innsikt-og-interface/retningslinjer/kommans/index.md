@@ -2,7 +2,7 @@
 title: "RETNINGSLINJER FOR KOMMUNIKASJONSANSVARLIG"
 ---
 
-# §1 Kommunikasjonsansvarligs formål
+# §1 Kommunikasjonsansvarliges formål
 Kommunikasjonsansvarliges hovedoppgave er å synliggjøre bredden av aktiviteter i Online, ukentlig sende informasjonsmail, samt koordinere blesting på tvers av komiteer. Vervet er midlertidig, og et prøveprosjekt for hva en eventuelt kommunikasjonskomité skal ha ansvar for.
 ## §2 Kommunikasjonsansvarliges ansvarsområder
 ####3.1 Blesting 
