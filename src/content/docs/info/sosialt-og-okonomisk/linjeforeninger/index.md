@@ -215,7 +215,7 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Diverse:**
     -   [A/F Smørekoppen](http://www.smorekoppen.no): Motorsager, diverse verktøy, tau og
         fendere.
--   **Grill:** [A/F Smørekoppen](http://www.smorekoppen.no), [BSF](http://bergstud.no), [Online](online.ntnu.no), [Omega](http://omega.ntnu.no)
+-   **Grill:** [A/F Smørekoppen](http://www.smorekoppen.no), [BSF](http://bergstud.no), [Online](http://online.ntnu.no), [Omega](http://omega.ntnu.no)
 -   **Hytter:** [BSF](http://bergstud.no), [Janus](http://org.ntnu.no/janus)
 -   **Epostlister:** [Online](http://online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
