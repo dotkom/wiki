@@ -217,7 +217,7 @@ Arrangementer der linjeforeningene inviterer hverandre
         fendere.
 -   **Grill:** [A/F Smørekoppen](http://www.smorekoppen.no), [BSF](http://bergstud.no), [Online](online.ntnu.no), [Omega](http://omega.ntnu.no)
 -   **Hytter:** [BSF](http://bergstud.no), [Janus](http://org.ntnu.no/janus)
--   **Epostlister:** [Online](online.ntnu.no)
+-   **Epostlister:** [Online](http://online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
 -   **Fotograf til galla:** [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=31)
 - **Kamerautstyr**: [Nabla](https://nabla.no/kamerautstyr/)
