@@ -17,6 +17,7 @@ Tilhørende wikisider
 * Du er her: [Linjeforeninger på Kalvskinnet](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
 * [Linjeforeninger i Ålesund](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
 * [Linjeforeninger på Gjøvik](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
+* [Andre linjeforeninger ved NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/andre/)
 * [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
 * [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
 * [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
