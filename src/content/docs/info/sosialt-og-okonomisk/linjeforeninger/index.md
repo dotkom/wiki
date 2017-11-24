@@ -50,6 +50,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Omega](http://omega.ntnu.no) (1919) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=890384692) | El og Kyb | Styrebånd (hvit/sort) | [Gamle elektro](http://use.mazemap.com/#&v=1&dest=86&desttype=poi) | [OmBul](http://omega.ntnu.no/ombul/) | [Page](http://fb.com/SctOmegaBroderskab), [Group](http://fb.com/groups/omega.ntnu/) | |
 | [Online](https://online.ntnu.no) (1985) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992548045) | Informatikk | Styrebånd (hvit, oransj og mørkeblå) | [P15](http://use.mazemap.com/#&v=1&dest=6220&desttype=poi) | [Offline](http://online.ntnu.no/offline) | [Page](http://fb.com/LinjeforeningenOnline) | |
 | [Placebo](http://mfplacebo.no) (1976) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991025456) | Medisin | Styrebånd, sløyfer (rød/hvit) | [MTFS, Studsalen](http://use.mazemap.com/?&v=1&campusid=3&desttype=poi&dest=64826) | [Nocebo](http://mfplacebo.no/hjem/nocebo/) | [Page](http://fb.com/pages/MF-Placebo/132226684043)| |
+| [Signifikant](http://org.ntnu.no/signifikant) |  | Forsker (medisin) | Styrebånd (hvitt og kongeblått) |  |  |  [Group](http://fb.com/groups/2735131351/) |  |
 | [Spanskrøret](http://spanskrøret.no) (2004) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=988621625) | RealfagsLektor | Styrebånd (grågrønt med sølvkant over hvitt), spanskrør | [Kjemi sydfløy](http://s.mazemap.com/1fH68BL) | [Vitnemålet](http://spanskroret.no/vitnemalet/) | [Page](http://fb.com/Spanskroret), [Group](http://fb.com/groups/2247443234) | [Boksalg](http://fb.com/groups/143817362375932/) |
 | [Timini](http://timini.no) (2006) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990373418) | NanoTek | Styrebånd (tynne turkise med sølvlenke) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7596&desttype=poi) | inTimini | [Page](http://fb.com/TiminiNTNU) | |
 | [Volvox & Alkymisten](http://volvox.no) (1961) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992357002) | Kjemi, Biologi, BioTek | Styrebånd (grønn med gullkant) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7594&desttype=poi) | Nukleotidende | [Page](http://fb.com/volvoxogalkymisten) | [Boksalg](http://fb.com/groups/462966773725320) |
@@ -65,7 +66,6 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet | [Page](https://www.facebook.com/pokayokeNTNU/) | | |
 |[Projeksjon](http://projeksjon.no) (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk|[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)||
 |[ProMan](http://www.mscproman.com/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|[Group](https://www.facebook.com/groups/MScProMan/)|
-|[Signifikant](http://org.ntnu.no/signifikant) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991616470)|Forsker (medisin)|[Group](http://fb.com/groups/2735131351/)||
 |[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen|[Group](http://fb.com/groups/2362192638/)||
 |[Soma](http://somantnu.blogspot.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Medisin|[Page](http://fb.com/SOMANTNU), [Group](http://fb.com/groups/159591847413555/)||
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi|[Group](http://fb.com/groups/104245099606755/)||
@@ -255,10 +255,10 @@ man fant fort ut at **dette forumet hadde et uant potensiale som
 kontaktledd mellom alle linjeforeningene**. Ansvar ble fordelt på de
 forskjellige linjeforeningene slik:
 
-- [Emil][] og [Smørekoppen][] har ansvaret for å kalle inn til møter.  
-- [HC][], med [Omega][] som vara, har ansvaret for å ta med ølfond.  
+- [Emil][] og [Smørekoppen][] har ansvaret for å kalle inn til møter.
+- [HC][], med [Omega][] som vara, har ansvaret for å ta med ølfond.
 - [Online][] har ansvaret for epostlisten og for å kalle inn til
-linjeledergrøt/linjelederpizza hver fredag i Hangaren/Kjelhuset.  
+linjeledergrøt/linjelederpizza hver fredag i Hangaren/Kjelhuset.
 - [Abakus][] har ansvaret for å kalle inn til linjelederpils på
 Mikrobryggeriet/Daglighallen.
 
@@ -268,7 +268,7 @@ Nesten alle Gløshaugens linjeforeninger har kontorlokaler. Disse har
 varierende aktivitetsnivå, alt fra én time i uken til fullt hus til alle
 døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
-tilbake til oss på kontakt@online.ntnu.no    
+tilbake til oss på kontakt@online.ntnu.no
 
 [image:184 align:left]
     Gløshaugenkartet
