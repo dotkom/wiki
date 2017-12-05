@@ -41,6 +41,7 @@ tvingende nødvendig.
 Dokumenter
 ----------
 
+-   [Generalforsamling 2018] (/wiki/online/generalforsamlingen/2018)
 -   [Ekstraordinær generalforsamling 2017](/wiki/online/generalforsamlingen/ekstra2017)
 -   [Generalforsamlingen 2017](/wiki/online/generalforsamlingen/2017)
 -   [Generalforsamlingen 2016](/wiki/online/generalforsamlingen/2016)
