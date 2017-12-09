@@ -63,6 +63,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 |År   | Medlemmer |
 | --- | --------- |
+|2015 - 2016| **Sondre Johan Widmark(L)**,  Ingrid Skar(N), Edvard Sjøblom(Ø), Leif Marius Sethne Reppen, Sander Arnesen, Eirik Kaldahl, Fredrik Anthonisen, Edvard Bakken, Silje Marie Tyrihjell, May Helen Storvik, Resotharan Kanagaratnam, Kasper Klæboe Berg|
 |2014 - 2015| **Marius Thingwall(L)**,  Marthe Sofie Øynes(N), Sondre Johann Widmark(Ø),  Leif Marius Sethne Reppen,  Tale Prestmo, Edvard Sjøblom(Ø), Sander Arnesen, Ingrid Skar, Eirik Kaldahl, Fredrik Anthonisen|
 |2013 - 2014| **Marius Thingwall(L)**,  Tale Prestmo(N),  Ivar Flakstad(Ø),  Marte J. Sæther,  Ingrid Kittelsen,  Marthe Sofie Øynes,  Ragnhild Seim, Caroline Odden,  Sondre Johann Widmark(Ø),  Gaute Lunde,  Leif Marius Sethne Reppen,  Thea Lerfaldet,  John H. Kolstad(Permitert),  Jim Frode Hoff(Permitert)|
 |2012-2013|Marte J. Sæther,  Ingrid Kittelsen,  John H. Kolstad(NH),  Jim Frode Hoff (Ø),  Joakim Aune (permittert september 2011),  Anja S. Rønning,  Marius Thingwall(NV),  Mathilde Ø. Oftedal(permittert august 2012),  Juni Angelfoss,  Tale Prestmo,  Marthe Øynes,  Ivar Flakstad,  **Martin A. Midtsund(L)**,  Ragnhild Seim|
