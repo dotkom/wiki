@@ -41,7 +41,8 @@ Underholdning på immballet
 
 Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen for arrangementskomiteen var nødt til å holde et underholdningsinnslag på immballet. Godtroende som han var; stod han med bursdagskrone på scenen og sang "Never gonna give you up" av Rick Astley. Siden da har det vært en tradisjon at lederen for arrkom er nødt til underholde på immballet. 
 
-* 2016 - 
+* 2017 - **Edvard Gjessing Bakken** danset til Rick Astley sin sang "Never gonna give you up" med Heidi Brække, Miriam Lillebo og Anzhelika Seliverstova" 
+* 2016 - **Sander Arnesen** danset til backstreet boys sin sang "Everybody" med Kasper Kæboe Berg, Edvard Gjessing Bakken og Sondre Widmark.
 * 2015 - **Sondre Widmark** danser til det ukrainske bidraget til MGP i 2007: "Dancing Lasha Tumbai" med Leif, Ingrid, Didrik og Silje som backupdansere. Alle iført paljettkjoler og glitter.  
 * 2014 - **Marius Thingwall** danser "All the single ladies" sammen med backup-dansere Leif og Sondre, iført strømper og hotpants.
 * 2013 - **Marius Thingwall** synger pokemonsangen, akkompagnert av Ivar på djembe og Thor Håkon på Kazoo.
