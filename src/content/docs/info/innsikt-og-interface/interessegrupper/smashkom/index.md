@@ -9,7 +9,7 @@ Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt 
 Nåværende medlemmer og stillinger
 ---------------------------------
 
-Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktober 2016 12:27:45).
+Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (18. desember 2017 19.23.15).
 
 - **Leder:** Fride "Kirby" S
 -  Kristiane "Toon Link" A. W.
