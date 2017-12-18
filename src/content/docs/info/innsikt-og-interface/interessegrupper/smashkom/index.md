@@ -11,11 +11,16 @@ Nåværende medlemmer og stillinger
 
 Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (17. oktober 2016 12:27:45).
 
-- **Leder:** Thomas "Supersmash" G.
-- **Nestleder:** Fredrik "Laz0o0or" B.
-- **Ape:** Håkon "Ape" G.
--  Fride "Kirby" S
+- **Leder:** Fride "Kirby" S
 -  Kristiane "Toon Link" A. W.
+
+Tidligere medlemmer og hedersgjester
+------------------------------------
+
+- **Tidl. Leder:** Thomas "Supersmash" G.
+- **Tidl. Nestleder:** Fredrik "Laz0o0or" B.
+- **Tidl. Ape:** Håkon "Ape" G.
+
 -  Kristian "Kristiane" E.
 
 Retningslinjer
