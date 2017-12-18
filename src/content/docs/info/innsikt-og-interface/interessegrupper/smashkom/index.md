@@ -20,7 +20,6 @@ Tidligere medlemmer og hedersgjester
 - **Tidl. Leder:** Thomas "Supersmash" G.
 - **Tidl. Nestleder:** Fredrik "Laz0o0or" B.
 - **Tidl. Ape:** Håkon "Ape" G.
-
 -  Kristian "Kristiane" E.
 
 Retningslinjer
