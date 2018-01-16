@@ -9,3 +9,38 @@ title: "Årsberetninger 2018"
 * [2018 Saksforslag](/wiki/online/generalforsamlingen/genfors2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2018 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2018 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret?
+
+
+[TOC]
+
+## Hovedstyret
+
+## Arrangementskomiteen
+
+## Bank- og økonomikomiteen
+
+## Bedriftskomiteen
+
+## Drifts- og utviklingskomiteen
+
+## Fag- og kurskomiteen
+
+## Profil- og aviskomiteen
+
+## Trivselskomiteen
+
+## Seniorkomiteen
+
+## Applikasjonskomiteen
+
+## Ekskursjonskomiteen 2018
+
+## IT-ekskursjonen
+
+## Velkomstkomiteen 2017
+
+## Datakameratene FK
+
+## Realfagskjelleren
+
+## Casual Gaming
