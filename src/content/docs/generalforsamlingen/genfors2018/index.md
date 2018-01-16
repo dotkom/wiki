@@ -34,7 +34,7 @@ Om du har en sak du vil at Hovedstyret for perioden 18/19 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld]() 18. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2018/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2018/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. Det blir gratis pizza til alle som møter opp.
 
