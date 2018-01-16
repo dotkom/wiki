@@ -35,7 +35,7 @@ Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på g
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2018/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
-Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden.
+Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. Det blir gratis pizza til alle som møter opp.
 
 Hva: Onlines generalforsamling  
 Dato: 05. mars  
