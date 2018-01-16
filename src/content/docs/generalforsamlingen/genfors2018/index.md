@@ -2,7 +2,7 @@
 title: "Generalforsamlingen 2018"
 ---
 
-* [2018 Forside](/wiki/online/generalforsamlingen/genfors2018)  
+* [2018 Forside](/wiki/online/generalforsamlingen/genfors2018)   - Forside
 * [2018 Forretningsorden](/wiki/online/generalforsamlingen/genfors2018/forretningsorden) - Forretningsorden
 * [2018 Dagsorden](/wiki/online/generalforsamlingen/genfors2018/dagsorden) - Dagsorden for generalforsamlingen
 * [2018 Årsberetninger](/wiki/online/generalforsamlingen/genfors2018/aarsberetninger) - Årsberetninger
