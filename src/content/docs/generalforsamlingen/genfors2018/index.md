@@ -12,8 +12,8 @@ title: "Generalforsamlingen 2018"
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter finner du her: [attachment:390]    
-Referat fra generalforsamlingen 2017 finner du [her](https://docs.google.com/document/d/1bdfl_0JeUXOgTTfzSxqy810MSbr3JGKxOWVLt_Lry7M/edit?usp=sharing).
-Referat fra ekstraordinær generalforsamling 2017 finner du [her]().
+Referat fra generalforsamlingen 2017 finner du [her](attachment:454).
+Referat fra ekstraordinær generalforsamling 2017 finner du [her](457).
 
 # Regnskap 2017 og budsjett 18/19
 
