@@ -40,7 +40,7 @@ Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført fel
 
 Hva: Onlines generalforsamling  
 Dato: 05. mars  
-Klokken: 15.15  
+Klokken: 16.15  
 Sted: R9  
 
 Vel møtt!
