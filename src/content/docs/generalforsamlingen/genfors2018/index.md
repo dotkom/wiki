@@ -12,7 +12,7 @@ title: "Generalforsamlingen 2018"
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter finner du her: [attachment:455].  
-Onlines fonds vedtekter finner du her: [attachment: 456].      
+Onlines fonds vedtekter finner du her: [attachment:456].      
 Referat fra generalforsamlingen 2017 finner du her: [attachment:454].  
 Referat fra ekstraordinær generalforsamling 2017 finner du her: [attachment:457].  
 
