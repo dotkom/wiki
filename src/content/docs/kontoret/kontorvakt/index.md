@@ -14,7 +14,7 @@ Dersom du ikke møter til kontorvakt risikerer du å få vinstraff, eller andre 
 
 **Etasjeansvarlig**:
 
-Når man er kontorvakt på Onlinekontoret har man ansvaret for brann og evakuering i HELE 3. Etasje.
+Når man er kontorvakt på Onlinekontoret har man ansvaret for brann og evakuering i HELE 5. Etasje.
 En veldig viktig jobb vi er pålagt å gjøre! Sørg for at du som kontorvakt er kjent med rømningsplan for P15.
 Refleksvesten man skal ta på seg ved en brannalarm henger på veggen ved vasken.
 Følg rømningsplanen som henger rundt omkring i bygget.
