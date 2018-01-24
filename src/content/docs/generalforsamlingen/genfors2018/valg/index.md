@@ -8,7 +8,7 @@ title: "Kandidater 2018"
 * [2018 Årsberetninger](/wiki/online/generalforsamlingen/genfors2018/aarsberetninger) - Årsberetninger
 * [2018 Saksforslag](/wiki/online/generalforsamlingen/genfors2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2018 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2018 Kandidater](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret?
+* [2018 Kandidater](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
