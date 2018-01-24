@@ -49,7 +49,8 @@ Her følges kapittel 3 paragraf 6 i Onlines vedtekter.
 
 Når det er flere kandidater til ett verv skal kandidatene som ikke presenterer seg vente i et annet rom enn der generalforsamlingen gjennomføres. Kandiater som venter plikter å ikke lytte på de andre kandidatenes presentasjon.
 
-Til kandidater som stiller til leder og nestleder gis det anledning til å stille tre spørsmål fra salen. Til andre kandidater gis det anledning til å stille to spørsmål fra salen.
+Til kandidater som stiller til leder og nestleder gis det anledning til å stille fire spørsmål fra salen. Til andre kandidater gis det anledning til å stille tre spørsmål fra salen. Ved flere kandidater, står kandidatene på rekke, rullerer på hvem som svarer først og svarer på samme spørsmål
+
 
 ## 4 Forhandlinger
 
@@ -78,7 +79,7 @@ Under følger reguleringer som ikke er beskrevet i seksjonene over.
 Det skal føres referat av minst to (2) under generalforsamlingen. Diskusjoner, argumenter, orienteringer og resultat fra valg skal føres ned. Der generalforsamlingen har foretatt et valg skal stemmefordelingen føres ned, med unntak av personvalg.
 
 #### 4.2.2 Sette strek
-Ordstyrer foreslår å sette strek for en debatt når dette synes nødvendig for å gjennomføre debatten innenfor vedtatte tidsramme. Generalforsamlingen vedtar å sette strek med alminnelig flertall. Vedtak om å oppheve eller på annen måte bryte vedtatte tidsrammer forutsetter kvalifisert flertall.
+Ordstyrer kan velge å sette strek for en debatt når dette synes nødvendig for å gjennomføre debatten innenfor vedtatte tidsramme. Vedtak om å oppheve eller på annen måte bryte vedtatte tidsrammer forutsetter kvalifisert flertall.
 
 #### 4.2.3 Stryke talelisten
 Ordstyrer kan velge å stryke resten av talelisten uten at de som er oppført får ordet til debatten. Generalforsamlingen kan overstyre avgjørelsen ved alminnelig flertall.
