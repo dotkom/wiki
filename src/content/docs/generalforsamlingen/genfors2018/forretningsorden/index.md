@@ -8,7 +8,7 @@ title: "Forretningsorden 2018"
 * [2018 Årsberetninger](/wiki/online/generalforsamlingen/genfors2018/aarsberetninger) - Årsberetninger
 * [2018 Saksforslag](/wiki/online/generalforsamlingen/genfors2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2018 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2018 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret?
+* [2018 Kandidater](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## 1 Generalforsamlingen
 Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og velge nytt Hovedstyre.
