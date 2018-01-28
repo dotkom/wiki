@@ -157,3 +157,16 @@ title: "Møte 26.01.18"
     * det er et godt tegn at mange av de eldre i styret er for reformen. 
 
  * (Forslag: daljer til ikke-komitémedlemmer)
+
+## 267 Ukens infomail og Facebook (13.40)  
+ * Taran poster om Storlien i dag 
+ * Taran om seriefrokost på lørdag
+ * Henrik poster om IBM på søndag 
+ * Peter poster om Drikk og skriv på mandag
+
+## 268 Eventuelt (13.45)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+## 269 Møteevaluering/Diggepunkt (13.55)
+ * Generelt et bra møte, gode diskusjoner
+ * godt å se at alle er med på diskusjoner
