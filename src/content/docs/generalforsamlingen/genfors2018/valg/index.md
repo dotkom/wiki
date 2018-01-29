@@ -17,7 +17,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:*   Aslak Hollund
-* *Nestleder:*  
+* *Nestleder:*  Christoffer Lofsberg
 * *Økonomiansvarlig:*  
 * *Arrkom:*  
 * *Bedkom:*  
