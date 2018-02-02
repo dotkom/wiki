@@ -2,9 +2,17 @@
 title: "Realfagskjelleren"
 ---
 
-I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin egen kjeller på moholt, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
+Realfagskjelleren er Online's egen kjeller, som den deler med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Foreløpig befinner den seg på Prestegårdveien 14 også kjent som gamle Moholt Barnehage.
 
-Senere lot vi [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no) inn i varmen og skiftet navn til Realfagskjelleren.
+# Historie
+
+I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin egen kjeller på Moholt i Herman Kragsvei 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
+
+Senere ble [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no) sluppet inn i varmen og navnet på kjelleren ble Realfagskjelleren
+
+Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedreinger. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen.
+
+I august 2017 ble kjellerne gitt midlertidige lokaler i gamle Moholt Barnehage fram til de skulle åpnes igjen. 
 
 ## Kontakt
 
