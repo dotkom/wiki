@@ -8,7 +8,9 @@ Senere lot vi [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.s
 
 ## Kontakt
 
-Kjellerstyret nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
+Kjellerstyret kan nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
+
+Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres]https://www.facebook.com/Realfagskjelleren/)
 
 
 ## Onlinere i Kjellerstyret
