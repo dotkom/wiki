@@ -2,40 +2,38 @@
 title: "Realfagskjelleren"
 ---
 
-I 2000 fikk Online og [Volvox & Alkymisten](http://org.ntnu.no/volvox) tildelt sin egen kjeller på moholt, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
+I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin egen kjeller på moholt, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
 
-Senere lot vi [Delta](http://org.ntnu.no/delta) og [Spanskrøret](http://www.spanskroret.no) inn i varmen og skiftet navn til Realfagskjelleren.
+Senere lot vi [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no) inn i varmen og skiftet navn til Realfagskjelleren.
 
 ## Kontakt
 
 Kjellerstyret nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
-
-Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:realfagskjellern-opptak@list.stud.ntnu.no)
 
 
 ## Onlinere i Kjellerstyret
 
 ###2017/2018
 
-* Martin Bjerke
-* Petter Rostrup
-* Marius Enerly
+* Martin Bjerke (Kjellerkontakt)
 * Andreas F. Eikeland (Kjellersjef)
-* Sigurd Oxaas Wie (Økonomiansvarlig)
+* Sigurd Oxaas Wie (Økonomisjef)
+* Eigil Hjelmstad
+* Sander Lindberg
 
 ### 2016/2017
 
 * Martin Bjerke
-* Petter Rostrup
-* Marius Enerly (Økonomiansvarlig)
+* Petter Rostrup (Kjellerkontakt)
+* Marius Enerly (Økonomisjef)
 * Andreas F. Eikeland
 * Sigurd Oxaas Wie
 
 ### 2015/2016
 
 * Martin Bjerke (Kjellersjef)
-* Petter Rostrup (Nest leder)
-* Marius Enerly
+* Petter Rostrup (Barsjef)
+* Marius Enerly (Kjellerkontakt)
 * Trine-Lise Helgesen
 * Andreas F. Eikeland
 
@@ -59,33 +57,45 @@ Opptakssøknader sendes til [realfagskjellern-opptak@list.stud.ntnu.no](mailto:r
 
 * Håvard Slettevold
 * John Hanssen Kolstad
-* Jim Frode Hoff
-* Aina  Elisabeth Thunestveit
+* Aina  Elisabeth Thunestveit (Økonomisjef)
+* Jim Frode Hoff (Kjellersjef)
+* Sverre Johann Bjørke
 
 ### 2011/2012
 
+* Lorents Gravås
 * Håvard Slettevold
 * John Hanssen Kolstad
+* Elling Overaa (Barsjef)
+* Aina  Elisabeth Thunestveit (Økonomisjef)
 * Jim Frode Hoff
 
 ### 2010/2011
 
-* Juni Angelfos
+* Juni Angelfos (Barsjef)
 * Lorents Gravås
 * Håvard Slettvold
 * John Kolstad
 * Trond Martin Nyhus
 * Elling Overaa
 * Jenny Rønningen
+* Aina  Elisabeth Thunestveit
 
 ### 2009/2010
 
-* Juni Angelfos
+* Juni Angelfos (Kjellersjef)
 * Lorents Gravås
+* Håvard Slettvold
+* John Hanssen Kolstad
+* Trond Martin Nyhus
+* Elling Overaa (Barsjef)
+* Jenny Rønningen
+* Aina  Elisabeth Thunestveit
 
 ### 2008/2009
 
 * Juni Angelfos
+* Elling Overaa
 
 
 ## Bergingsregler for kjellerne
