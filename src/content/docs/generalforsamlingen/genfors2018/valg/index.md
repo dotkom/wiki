@@ -23,7 +23,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Bedkom:*  
 * *Dotkom:*  
 * *Fagkom:*  
-* *Prokom:*  
+* *Prokom:*  Sebastian Ellefsen
 * *Trikom:*  
 
 **De som har meldt interesse til Fondstyret er:**
