@@ -26,7 +26,7 @@ Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart.
 
 # Informasjon
 
-Generalforsamlingen 2018 finner sted mandag 05. mars klokken 15.15 i auditorium R9. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen 2018 finner sted mandag 05. mars klokken 16.15 i auditorium R9. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 18/19 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
