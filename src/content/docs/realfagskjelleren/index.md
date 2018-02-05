@@ -2,7 +2,15 @@
 title: "Realfagskjelleren"
 ---
 
-Realfagskjelleren er Online's egen kjeller, som den deler med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Foreløpig befinner den seg på Prestegårdveien 14 også kjent som gamle Moholt Barnehage.
+Realfagskjelleren er Online's egen kjeller, som vi deler med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Foreløpig befinner den seg på Prestegårdveien 14 også kjent som gamle Moholt Barnehage.
+
+
+## Kontakt
+
+Kjellerstyret kan nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
+
+Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
+
 
 # Historie
 
@@ -10,15 +18,9 @@ I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin e
 
 Senere ble [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no) sluppet inn i varmen og navnet på kjelleren ble Realfagskjelleren
 
-Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedreinger. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen.
+Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen.
 
-I august 2017 ble kjellerne gitt midlertidige lokaler i gamle Moholt Barnehage fram til de skulle åpnes igjen. 
-
-## Kontakt
-
-Kjellerstyret kan nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
-
-Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
+August 2017 fikk kjellerne midlertidige lokaler i gamle Moholt Barnehage fram til de skulle åpnes igjen. 
 
 
 ## Onlinere i Kjellerstyret
