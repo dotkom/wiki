@@ -1,0 +1,110 @@
+---
+title: "Møte 02.02"
+---
+
+**Møtetidspunkt:** 12.15 (rom R20)
+
+**Servering og referering:** Didrik og Edvard
+
+**Straff:**  
+
+**Tilstede:** Aslak, Marius, Didrik, Peter, Taran, Henrik, Edvard, Erik, Margit, Ingrid Evensen
+
+**Mangler:** Christoffer, Emil, Hege, 
+
+## Innsjekk (12.15)
+
+## 270 Godkjenning av innkalling, servering og referat fra forrige uke (12.19)
+* Godkjent
+
+## 271 Status for komiteene (12.20)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+* Ting er ganske banket inn i stein, nytt bachelor avslutning arrangement begynner å bli planlagt.
+
+#### Bankom: 
+* Reviderer og budsjetterer
+
+#### Bedkom, med ITEX:
+* Bestemt deltakere til Oslo tur, dato blir satt senere, sett på gjennomføring, prøver å unngå missforståelser.
+
+itex- Forslag til bedrifter og timeplan er lagt frem
+#### Dotkom:
+* satt i gang to prosjekter, begynner å ombygge events-siden, omarbeide opptak til online til ett bedre og komplett opptakssystem.
+* Overtatt grades.no, oppdatert info, ingen logo eller refferering til dotkom sitt eierskap, 
+* Åpnet online wiki for redigering til alle som har en online bruker
+
+
+#### Fagkom, med ekskom:
+* ekskom er 99% done med Tech Talks, faglig uke snart ferdig, alle har betalt alt.
+* fagkom, nestleder: Edvard Bø, tillitsvalgt, Kaja Lundgård, booking og oslotur personer er valgt.
+
+#### Prokom:  
+* Tech Talks, masse jobb, årboka, fire medlemmer i gullblekka, ligger litt bak, tillitsvalgt: Charlotte
+* Drikk og skriv gikk veldig bra 
+* Brekking av offline nå til helgen
+
+#### Trikom:  
+* Ser på varer, sjokomelk, storlien ble avlyst ingen som ville ta gratisbussen, første seriefrokost gjennomført, budsjett er fikset, brannvakt i 5.etg?? sjekker det, har hatt sosial kveld i går.
+
+#### Seniorkom: 
+* Nils kontaktet om utmatrikulering, møte med studkontakt, Seniorkom arrangerer utmatrikulering for 5.klasse, får kanskje støtte økonomisk av IDI, dato 8.Juni, kl: 14-15:15, julebord på kvelden, Widmark endret Reboot dato til 22.feb, kanskje en 
+* Kanskje en ny oppdatering av e-post og annet som folk har glemt. litt andre konkurranser en beer-pong, mario-kart, rage-cage etc. Hajem er ansvarlig for interessegrupper og kontakter, vors med backup før kryssfest, 
+
+#### Kommunikasjonsansvarlig:
+* Ingen klager på infomailen, møte om fremtiden om komiteen, 
+
+#### Leder og nestleder: 
+* Leder: svart på maaaaasse mail
+* Hege har forsvunnet i Polen
+
+#### ITV:
+* møte om samlok: flyttedatoer ikke noe nytt, Ntnu eindom er vanskelig, men de snakker med noen andre som er vanskelig, IE har sagt være så snill, får ikke lov, eindom vil gjøre det selv men har ikke tid fordi de driver med samlok, wut?
+* Utsette utflyning til etter eksamen er positivt, går forhåpentligvis igjennom. 
+* Får vi hele A2? kanskje, ombygging på det ene rommet, støy, kanskje ikke optimalt? Beste er å flytte til A4? Ingen prat om at A4 blir ferdig i tide.
+* Mer på ball med info, sender ut info oftere
+* Bygger i 3.etg, prøver å holde støy dempet- til kl 16:00, bråker i helger, e-post om varsel om støy innenfor arbeidstid, verste løsning er at de leier lokaler,  må finne riktig person å klage til
+* trenger 325 plasser (3 og 4.etg på P15), høy pri på å få et bygg med så mange plasser,
+* Klage til media hvis vi blir flyttet mitt i eksamensperioden, 
+* skaffe masterplasser, ntnu-eindom har ikke tid til å hjelpe oss med ting vi kan gjøre selv, planlegging og venting, en gang i 2030 kanskje. 
+* ntnu-eindom vil ikke gi vann til studentene,  
+
+#### RFK:
+- ekstra ord genfors: nytt styre, skal søke om skjenkebevilgning, styret sitter til april, Rolf Klokkerengen, Håkon Espeland, Sigurd Wie
+
+* viktig at vi sender en rep til møtet deres, Marius Aune drar
+
+## 272 Interkom (12.45) 
+* bestilling av plakater, komiteen betaler selv, bestille færre plakater, 8 plakater maks, 
+* Ingen plakater på do, prøv å opprettholde en profesjonell standard.
+
+## Prokom exp
+* Tenker på en komite som eksponerer Onlines fremtid og fortid, ting som skjer og har skjedd, skriver om arrangementer, fikser masse digg info etter arrangementer slik at folk som ikke prater med de som har vært der, får vite hvordan de er
+* Oppdaterer OW, wiki, etc
+* tenkte å starte med en arbeidsgruppe som har disse oppgavene for å se om det blir en komité etter ett år. 
+
+Den røde tråden forsvinner litt
+
+* Dra redaksjonen mer ut av Prokom, men er ikke populært. Tanken er å gjøre en tredeling. Prokom står for produksjon, Redaksjonen står for Offline, foto fra exp, 
+*De som er med på arrangementene og dokumenterer, får et lite avslag for den jobben de gjør. 
+* Prater om at Prokom har for mye å gjøre pga plakater. Det er det eneste de gjør nå.
+* Kan høre om folk får lyst til å gå på arrangementer pga plakater. Kanskje vi kan kutte ned på det. 
+* Komiteene kan henge opp plakater selv? avstemning: flertall, ALLE KOMITEER MÅ HENGE OPP PLAKATER SELV!
+
+* Det blir laget en arbeidsgruppe bare for å ta bilder på arrangementer. Det har ikke blitt bestemt noe. Det er bare noen som tar bilder++ og gir de til Online.
+
+## 273 Generalforsamlingen (12.50)
+* Blir laget en workshop kveld
+
+## Fem minutters pause klokken 13.00.
+[Flyttes (punktmessig) dersom vi er kommet lenger i sakslisten innen 13.00]
+
+## 277 Møteevaluering/Diggepunkt (13.55)
+* litt rotete møte pga dårlig forberedelse, men bra møte, 
+* bra møte, diskuterte prokom
+
+
+## Gjøremål
+ - Svare på mail
+ - Marius må svare at han kan dra på RFK møtet
