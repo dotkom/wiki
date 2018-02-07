@@ -21,7 +21,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Økonomiansvarlig:*  
 * *Arrkom:*  
 * *Bedkom:*  
-* *Dotkom:*  
+* *Dotkom:*  Jakob Westermoen
 * *Fagkom:*  
 * *Prokom:*  Sebastian Ellefsen
 * *Trikom:*  
