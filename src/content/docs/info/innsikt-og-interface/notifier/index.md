@@ -9,7 +9,7 @@ Online Notifier er en extension til Chrome og Opera. Den gir deg kontortilgjenge
 
 Kildekoden for Notifier ligger på GitHub:
 
-* [github.com/appkom/notifier](https://github.com/appkom/notifier/) - Kildekoden for hele Notifier, samt liste over alle bidragsytere
+* [github.com/dotkom/notifier](https://github.com/dotkom/notifier/) - Kildekoden for hele Notifier, samt liste over alle bidragsytere
 
 ### Opprinnelse
 
