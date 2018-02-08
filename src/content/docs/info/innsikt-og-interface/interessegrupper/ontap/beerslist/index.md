@@ -2,7 +2,7 @@
 title: "beers[]"
 ---
 
-For å være et offisielt Ontap øl må man fylle tre krav. 
+For å være et offisielt Ontap øl må man fylle fire krav. 
 
 
 1. Minst en person fra Ontap må ha vært med på bryggeprosessen
