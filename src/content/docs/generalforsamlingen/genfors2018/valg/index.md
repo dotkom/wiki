@@ -29,7 +29,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse til Fondstyret er:**
 
 * *Onlinemedlem:*
-* *Tidligere hovedstyremedlem:* Kristoffer Hajem
+* *Tidligere hovedstyremedlem:* Kristoffer Hajem, Christoffer Skar Lofsberg
 * *Ridder:*
 
 **Vennligst merk at:**
