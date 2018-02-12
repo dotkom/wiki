@@ -23,7 +23,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Bedkom:*  
 * *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
 * *Fagkom:*  
-* *Prokom:*  Sebastian Ellefsen
+* *Prokom:*  Sebastian Ellefsen, Hanne Brynildsrud
 * *Trikom:*  Pål-Edward Larsen 
 
 **De som har meldt interesse til Fondstyret er:**
