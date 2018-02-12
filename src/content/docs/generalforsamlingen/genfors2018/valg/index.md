@@ -17,7 +17,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:*   Aslak Hollund
-* *Nestleder:* Martin Bjerke
+* *Nestleder:* Martin Bjerke, Henrik Liodden
 * *Økonomiansvarlig:*  
 * *Arrkom:*  
 * *Bedkom:*  
