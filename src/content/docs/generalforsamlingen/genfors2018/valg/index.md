@@ -18,7 +18,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 * *Leder:*   Aslak Hollund
 * *Nestleder:* Martin Bjerke
-* *Økonomiansvarlig:*  
+* *Økonomiansvarlig:*  Christoffer Skar Lofsberg
 * *Arrkom:*  
 * *Bedkom:*  
 * *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
@@ -29,7 +29,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse til Fondstyret er:**
 
 * *Onlinemedlem:*
-* *Tidligere hovedstyremedlem:* Kristoffer Hajem, Christoffer Skar Lofsberg
+* *Tidligere hovedstyremedlem:* Kristoffer Hajem
 * *Ridder:*
 
 **Vennligst merk at:**
