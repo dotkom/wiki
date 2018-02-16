@@ -1,5 +1,5 @@
 ---
-title: "Økonomi- og vedktetskvelden"
+title: "Økonomi- og vedtektskvelden"
 ---
 
 I forkant av Onlines generalforsamling arrangerer Hovedstyret en økonomi- og vedtektskveld der budsjett- og vedtektsforslag kan diskuteres, før de skal presenteres for generalforsamlingen. Dette er en rolig måte å få tilbakemeldinger på forslagene, mens det fortsatt er tid igjen til votering.
