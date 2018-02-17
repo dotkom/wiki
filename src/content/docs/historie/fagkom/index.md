@@ -15,7 +15,7 @@ linjeforeninges vedtekter på generalforsamlingen i 2006. Det hadde også
 tidligere vært snakk om en fagkomité, men ideen hadde blitt droppet
 siden aktiviteten ble antatt å være for liten.
 
-About
+Om
 -----
 
 Fag- og kurskomiteen tilbyr kunnskap om ny og spennende teknologi,
