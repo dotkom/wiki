@@ -49,9 +49,9 @@ Mange grupper i Online legger ekstra tid og innsats i arbeidet sitt ved å gjenn
 
 Vi vil sette 10 000 i potten hvert år, som man kan søke til Hovedstyret om dersom man mener at deltakerne på workshopen fortjener det. 
 
-# Forslag 5 - Online setter over 250 000 kr til Online-fond
+# Forslag 5 - Online setter over 250 000 kr til Onlines fond
 
-Online har gått godt i noen år nå og samlet opp litt penger på bok. Vi ønsker å ha litt på bok til driftmidler og derfor ønsker vi å starte opp fondet med 250 000 kr. Det har allerede stått 100000 på sparing i et år, så det vil kun bli 150 000 kr til som settes over i effekt.
+Online har gått godt i noen år nå og samlet opp litt penger på bok. Vi ønsker å ha litt på bok til driftmidler og derfor ønsker vi å starte opp fondet med 250 000 kr. Det har allerede stått 100 000 kr på sparing i et år, så det vil kun bli 150 000 kr til som settes over i effekt.
 
 # Forslag 6 - Endring av dagsorden, dersom vedtektsforslag 1 går gjennom.
 
