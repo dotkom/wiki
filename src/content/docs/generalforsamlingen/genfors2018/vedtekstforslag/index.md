@@ -99,7 +99,7 @@ Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlem
 Dersom et komitémedlem blir valgt til et hovedstyreverv kan medlemmet få permisjon fra sin komité, og kan fritt returnere til denne ved endt engasjement i Hovedstyret.
 
 Tilhørende saksforslag:
-Dersom forslag 2 går gjennom: 
+Dersom vedtektsforslag 2 går gjennom: 
 Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere. Fra og med neste år gjennomfører man valg av komitéledere internt i kjernekomiteen.
 
 # Forslag 2 - Ekskursjonskomiteen ut av Online (Hovedstyret)
@@ -121,7 +121,7 @@ _Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da On
 
 # Forslag 4 - Kjernekomitéledere kan stille til Fondstyret
 
-**Dersom forslag 1 går igjennom**  
+**Dersom vedtektsforslag 1 går igjennom**  
 
 _Hvorfor? Det å være en kjernekomitéleder er et enormt verv som bør likestilles med et verv i Hovedstyret når vi velger kandidater til Fondstyret. Et medlem av Hovedstyret er et medlem av komiteen av "daglig drift", mens en kjernekomitéleder også leder en komité med ett enormt ansvar_
 
@@ -154,7 +154,7 @@ I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det ind
 
 _Hvorfor? Vi har begrenset sittende Hovedstyre. Når det er samme stilling, så bør også kjernekomitéledere begrenses. Det er uheldig om en i en posisjon som ofte kan komme til å søke om midler fra fondet også sitter der selv._
 
-**Dersom forslag 1, 3 og 4 går igjennom**
+**Dersom vedtektsforslag 1, 3 og 4 går igjennom**
 
 **Onlines fond sine vedtedkter §4.3**
 
