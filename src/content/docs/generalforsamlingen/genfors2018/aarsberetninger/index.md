@@ -46,17 +46,17 @@ title: "Årsberetninger 2018"
 - Tok opp 7 nye medlemmer
 
 ### OW4
-* Totalt 85877 linjer kode, 7297 linjer med kommentarer fordelt over 741 filer (per 13.04.2017)
-* Har passert 7000 commits på OW4, samt over 270 tags/releases.
+- //Totalt 85877 linjer kode, 7297 linjer med kommentarer fordelt over 741 filer (per 13.04.2017)
+- //Har passert 7000 commits på OW4, samt over 270 tags/releases.
 - Over 50 releases det siste året.
-* 108 nye issues siste året, 69 av dem er nå lukket.
+- //108 nye issues siste året, 69 av dem er nå lukket.
 - 112 PRs siste året, 104 av dem er nå lukket.
 - Laget ny interessegruppeside, kontaktside
 - Har åpnet wikien for redigering for alle med onlinebruker, og i den sammenheng fått bedre monitorering av wikien. 
 
 
 ### Andre prosjekter
-* Regme (nytt oppmøteregistreringssystem):
+* //Regme (nytt oppmøteregistreringssystem):
     - 350 commits siste året.
     - Skrevet i React.JS mot API-et til OW4.
 - Ferdigstilt stemmesystemet til generalforsamlingen.
@@ -66,12 +66,12 @@ title: "Årsberetninger 2018"
 
 
 ### Drift
-* Har startet å se mer mot skyen for kritiske ting ettersom det virker som NTNU ikke bryr seg så veldig om lokale servere. Har planer om å satse i større grad fra høsten av.
-* Kommer til å fortsette å drifte ting lokalt, som f.eks. filområder, mindre viktige tjenester og ha muligheten for å leke og lære litt om drift av servere på serverne som ikke drifter kritiske ting (slik som i dag).
+- //Har startet å se mer mot skyen for kritiske ting ettersom det virker som NTNU ikke bryr seg så veldig om lokale servere. Har planer om å satse i større grad fra høsten av.
+- //Kommer til å fortsette å drifte ting lokalt, som f.eks. filområder, mindre viktige tjenester og ha muligheten for å leke og lære litt om drift av servere på serverne som ikke drifter kritiske ting (slik som i dag).
 
 ### E-post
-* Gått over fra Postfix og Sympa til G Suite (tidl. Google Apps). Alle komitemedlemmer har nå en egen Google-konto i *@online.ntnu.no-domenet, som all komiteepost kommer på.
-* Gikk overraskende greit, men krevde en god del jobb. Fortsatt et par småting som gjenstår, men som ikke haster. Enda.
+- //Gått over fra Postfix og Sympa til G Suite (tidl. Google Apps). Alle komitemedlemmer har nå en egen Google-konto i *@online.ntnu.no-domenet, som all komiteepost kommer på.
+- //Gikk overraskende greit, men krevde en god del jobb. Fortsatt et par småting som gjenstår, men som ikke haster. Enda.
 
 ## Fag- og kurskomiteen
 
