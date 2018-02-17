@@ -111,7 +111,7 @@ Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere
 
 # Forslag 3 - Avtroppende hovedstyre kan stille til Fondstyret 
 
-__Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da Online sine vedtekter av 3.6 sier at et hovedstyremedlem sitter inntil endt generalforsamling. Dette går imot mye av hensikten til stillingen__  
+_Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da Online sine vedtekter av 3.6 sier at et hovedstyremedlem sitter inntil endt generalforsamling. Dette går imot mye av hensikten til stillingen_  
 
 **Onlines fond sine vedtedkter §4.3**
 
