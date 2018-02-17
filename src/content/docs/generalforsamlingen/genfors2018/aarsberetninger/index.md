@@ -20,6 +20,28 @@ title: "Årsberetninger 2018"
 
 ## Bedriftskomiteen
 
+* Har tatt opp åtte medlemmer, derav fire er førsteklassinger, to andreklassinger og to fjerdeklassinger. Vi er totalt 18 nå, med to i permisjon. 
+* Vært på Oslotur to ganger sammen med fagkom, og besøkt tilsammen 17 bedrifter.
+* Vi har hatt teambuilding med fagkom både på høstsemestert.
+* 75 karrieremuligheter.
+* 5 muligheter-e-poster sendt ut.
+* Bookingrunden gjennomført begge semestre.
+* Signert ny hovedsamarbeidsavtale med Knowit.
+
+### Høstsemesteret 2017
+
+* Skaffet én gullsponsor og tre sølvsponsorer til fadderperioden.
+* To bedriftsarrangementer i fadderperioden.
+* Ti bedriftspresentasjoner.
+* Tre KID-arrangementer. Ett i fadderperioden for førsteklasse og to i løpet av semesteret.
+* Skaffet syv sponsorer til TechTalks
+
+### Vårsemesteret 2018
+* Gjennomført seks bedriftspresentasjoner. Derav ett start up arrangement, med 5 startups.
+* Skal gjennomføre seks arrangementer til i løpet av semesteret.
+* Gjennomført ett KID-arrangementer og har ett til i April.
+
+
 ## Drifts- og utviklingskomiteen
 
 ## Fag- og kurskomiteen
