@@ -55,5 +55,5 @@ Online har gått godt i noen år nå og samlet opp litt penger på bok. Vi ønsk
 
 # Forslag 6 - Endring av dagsorden, dersom vedtektsforslag 1 går gjennom.
 
-Dersom forslag 2 går gjennom: 
+Dersom vedtektsforslag 1 går gjennom: 
 Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere. Fra og med neste år gjennomfører man valg av komitéledere internt i kjernekomiteen.
