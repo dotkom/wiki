@@ -32,6 +32,25 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Tidligere hovedstyremedlem:* Kristoffer Hajem
 * *Ridder:*
 
+**Dersom vedtektsforslag 1 går gjennom vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til disse vervene er:**  
+
+* *Leder:*   Aslak Hollund  
+* *Nestleder:* Martin Bjerke, Henrik Liodden  
+* *Økonomiansvarlig:*  
+* *Arrangementsansvarlig*:  
+* *Teknisk ansvarlig*:  
+* *Internansvarlig*: Christoffer Lofsberg  
+
+Komitéledere:
+
+* *Arrkom:* Johannes Kvamme
+* *Bankom:* 
+* *Bedkom:*  Adrian Thompson
+* *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
+* *Fagkom:*  
+* *Prokom:*  Sebastian Ellefsen, Hanne Brynildsrud
+* *Trikom:*  Pål-Edward Larsen 
+
 **Vennligst merk at:**
 
 * Denne listen vil *oppdateres kontinuerlig* frem til generalforsamlingen ettersom folk bestemmer og ombestemmer seg.
