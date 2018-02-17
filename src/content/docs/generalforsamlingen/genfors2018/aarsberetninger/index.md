@@ -21,6 +21,7 @@ title: "Årsberetninger 2018"
 ## Bedriftskomiteen
 
 * Har tatt opp åtte medlemmer, derav fire er førsteklassinger, to andreklassinger og to fjerdeklassinger. Vi er totalt 18 nå, med to i permisjon. 
+* Har kontakt med 105 bedrifter.
 * Vært på Oslotur to ganger sammen med fagkom, og besøkt tilsammen 17 bedrifter.
 * Vi har hatt teambuilding med fagkom både på høstsemestert.
 * 75 karrieremuligheter.
