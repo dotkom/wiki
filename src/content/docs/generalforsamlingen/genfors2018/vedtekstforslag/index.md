@@ -188,7 +188,7 @@ Dersom leder og/eller nestleder av linjeforeningen blir fraværende i den grad a
 **Med:**  
 Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.  
   
-## Forslag 8 - Spesifisere hva som gjøres om Onlines Fond legges ned etter Online.  
+## Forslag 8 - Spesifisere hva som gjøres om Onlines Fond legges ned etter Online (Johannes Kvamme).  
   
 _Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines vedtekter §7.3. Onlines fonds vedtekter §8.2 spesifiseres at midlene fra fondet står uberørt i 3 år og deretter overføres til Online. Dette er altså problematisk om fondets oppløsning kommer av Onlines oppløsning._
 
