@@ -18,7 +18,7 @@ title: "Dagsorden 2018"
 | 10  | 19.55  | 20.05 | Vedtektsforslag 7 v/Christoffer Lofsberg| |
 | 10  |  |  | Pause | 19:27|
 | 10  | 20.05  | 20.15 | Saksforslag 1 v/Hovedstyret |   |
-| 10  | 20.15  | 20.25 | Saksforslag 2 v/Hovedstyret |   |
+| 10  | 20.15  | 20.25 | Saksforslag 2 v/Hovedstyret |  19:58 |
 | 10  | 20.25  | 20.35 | Saksforslag 3 v/Hovedstyret |   |
 | 10  | 20.35  | 20.45 | Pause | | 
 | 10  | 20.45  | 20.55 | Saksforslag 4 v/Hovedstyret |   |
