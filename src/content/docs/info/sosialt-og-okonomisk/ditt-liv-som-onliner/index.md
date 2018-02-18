@@ -5,6 +5,11 @@ title: "Ditt liv som Onliner"
 «Kan du raskt forklare meg alt det viktigste i min hverdag som Onliner?»
 ------------------------------------------------------------------------
 
+
+
+«Hvem er komiteene og hva gjør de for meg?»
+------------------------------------------------------------------------
+
 ###### Arrkom: arrkom@online.ntnu.no
   - Tidlig hver høst er det immatrikuleringsball, alle er velkomne!
   - Utpå hver høst er det blåtur, bli med på buss til en tilfeldig plass.
