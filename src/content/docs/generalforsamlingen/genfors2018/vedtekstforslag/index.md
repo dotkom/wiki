@@ -75,8 +75,10 @@ Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for 
 **Med: ** Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarlig. Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret. Komiteens leder velges internt i komiteen minst to uker før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom generalforsamlingen ikke godkjenner en kandidat til ledervervet skal det avholdes valg av komitéleder etter §3.
 
 **§4.2.2**
+
 **Erstatt: **
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene. Komiteens navn forkortes bankom. Komiteen ledes av økonomiansvarlig.
+
 **Med: **
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene samt økonomiansvarlig i Hovedstyret. Komiteens navn forkortes bankom.
 
