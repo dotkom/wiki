@@ -217,8 +217,7 @@ midler til andre organisasjoner som jobber for studenter.
 **Med:**  
 Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
 oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen uten
-at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for infor-
-matikk. Om Online er oppløst ved dette tidspunkt skal midler som fondet disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-
+at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for informatikk. Om Online er oppløst ved dette tidspunkt skal midler som fondet disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-
 naturvitenskaplige universitet. Midlene skal øremerkes til studentaktiviteter.  
 Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
 midler til andre organisasjoner som jobber for studenter.
