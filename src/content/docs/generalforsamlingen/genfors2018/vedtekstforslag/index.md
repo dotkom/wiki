@@ -16,7 +16,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 [TOC]
 
-# Forslag 1 - Komiteledere ut av Hovedstyret (Agnete Djupvik)
+## Forslag 1 - Komiteledere ut av Hovedstyret (Agnete Djupvik)
 
 **§1.2.1**
 
@@ -106,14 +106,14 @@ Tilhørende saksforslag:
 Dersom vedtektsforslag 2 går gjennom: 
 Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere. Fra og med neste år gjennomfører man valg av komitéledere internt i kjernekomiteen.
 
-# Forslag 2 - Ekskursjonskomiteen ut av Online (Hovedstyret)
+## Forslag 2 - Ekskursjonskomiteen ut av Online (Hovedstyret)
 **§4.3.3**
 
 **Erstatt:** Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom.
 
 **Med:** Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
 
-# Forslag 3 - Avtroppende hovedstyre kan stille til Fondstyret 
+## Forslag 3 - Avtroppende hovedstyre kan stille til Fondstyret 
 
 _Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da Online sine vedtekter av 3.6 sier at et hovedstyremedlem sitter inntil endt generalforsamling. Dette går imot mye av hensikten til stillingen_  
 
@@ -123,7 +123,7 @@ _Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da On
 
 **Med:** En kandidat til valg kan ikke være valgt til medlem av Onlines Hovedstyre. Avtroppende Hovedstyre kan stille til valg.
 
-# Forslag 4 - Kjernekomitéledere kan stille til Fondstyret
+## Forslag 4 - Kjernekomitéledere kan stille til Fondstyret
 
 **Dersom vedtektsforslag 1 går igjennom**  
 
@@ -154,7 +154,7 @@ I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det ind
 I oddetallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre lager-medlem 1, tidligere medlem fra Onlines Hovedstyre eller komitélederkollegiet 1, og Onlinemedlem 1.  
 I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre lager-medlem 2, tidligere medlem fra Onlines Hovedstyre eller komitélederkollegiet 2, og Onlinemedlem 2.
 
-# Forslag 5 - Sittende kjernekomitéledere kan ikke stille til fondstyret
+## Forslag 5 - Sittende kjernekomitéledere kan ikke stille til fondstyret
 
 _Hvorfor? Vi har begrenset sittende Hovedstyre. Når det er samme stilling, så bør også kjernekomitéledere begrenses. Det er uheldig om en i en posisjon som ofte kan komme til å søke om midler fra fondet også sitter der selv._
 
@@ -166,7 +166,7 @@ _Hvorfor? Vi har begrenset sittende Hovedstyre. Når det er samme stilling, så 
 
 **Med:** En kandidat til valg kan ikke være valgt til medlem av Onlines Hovedstyre eller leder av en kjernekomité. Avtroppende Hovedstyre og kjernekomitéledere kan stille til valg.
 
-# Forslag 6 - Rette opp feil i referanse til paragraf i fondets vedtekter
+## Forslag 6 - Rette opp feil i referanse til paragraf i fondets vedtekter
 
 _Hvorfor? Det er en glipp fra når vedtektene ble laget. Siden endringen er meningsbærende etter hvilken paragraf den referer til, så tas det opp som forslag her og ikke redaksjonell endring_
 
