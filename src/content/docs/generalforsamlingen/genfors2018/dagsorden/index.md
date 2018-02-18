@@ -58,7 +58,7 @@ title: "Dagsorden 2018"
 | 5 | 18.01 | 18.06 | Årsberetning Casual Gaming  |   |
 | Total tid: | |1 t 21 min|
 
-# Pause 15 minutter
+## Pause 15 minutter
 
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
@@ -74,7 +74,7 @@ title: "Dagsorden 2018"
 | 1   | 18.51 | 18.52 | Forberedelse saksforslag |  |
 | Total tid: | |1 min|
 
-# Pause 30 min med pizza
+## Pause 30 min med pizza
 
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
@@ -82,7 +82,7 @@ title: "Dagsorden 2018"
 | 1   | 18.52 | 18.53 | Forberedelse saksforslag |  |
 | Total tid: | |1min|
 
-# Pause 15 min
+## Pause 15 min
 
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
@@ -100,7 +100,7 @@ title: "Dagsorden 2018"
 | Total tid: | |2 t 35 min|
 
 
-# 5 minutter til å ta bilde av det nye HS
+## 5 minutter til å ta bilde av det nye HS
 
 ### Medaljeutdeling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
