@@ -39,12 +39,12 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Økonomiansvarlig:*  
 * *Arrangementsansvarlig*:  
 * *Teknisk ansvarlig*:  
-* *Internansvarlig*: Christoffer Lofsberg  
+* *Internansvarlig*:  
 
 Komitéledere:
 
 * *Arrkom:* Johannes Kvamme
-* *Bankom:* 
+* *Bankom:* Christoffer Lofsberg
 * *Bedkom:*  Adrian Thompson
 * *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
 * *Fagkom:*  
