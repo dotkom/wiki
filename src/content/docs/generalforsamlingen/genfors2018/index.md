@@ -11,20 +11,20 @@ title: "Generalforsamlingen 2018"
 * [2018 Kandidater](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 
-# Onlines vedtekter og referat fra forrige generalforsamling 
+## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter finner du her: [attachment:455].  
 Onlines fonds vedtekter finner du her: [attachment:456].      
 Referat fra generalforsamlingen 2017 finner du her: [attachment:454].  
 Referat fra ekstraordinær generalforsamling 2017 finner du her: [attachment:457].  
 
-# Regnskap 2017 og budsjett 18/19
+## Regnskap 2017 og budsjett 18/19
 
 Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart.
 
-# Referat fra årets generalforsamling
+## Referat fra årets generalforsamling
  
 
-# Informasjon
+## Informasjon
 
 Generalforsamlingen 2018 finner sted mandag 05. mars klokken 16.15 i auditorium R9. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
