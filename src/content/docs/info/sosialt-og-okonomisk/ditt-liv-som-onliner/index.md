@@ -79,7 +79,7 @@ title: "Ditt liv som Onliner"
 -   Stortsett hver uke blir det sendt ut en infomail til alle Onlinere
     med informasjon om hva som skjer den kommende uken.
     -   Får du ikke infomail? Send epost til dotkom@online.ntnu.no
--   Følg med på [Informatikk - Online](https://www.facebook.com/groups/1547182375336132/) siden, der blir det blestet for det meste av arrangementer.
+-   Følg med på [Informatikk - Online](https://www.facebook.com/groups/1547182375336132/) gruppen på facebook, der blir det blestet for det meste av arrangementer.
 
 «Hva er en prikk? Hvordan vet jeg om jeg har fått en?»
 ------------------------------------------------------
