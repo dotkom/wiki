@@ -190,7 +190,7 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
   
 ## Forslag 8 - Korrigere motsigelser i Onlines vedtekter og Online fonds vedtekter ved oppløsning (Johannes Kvamme)  
   
-_Hvorfor? Onlines vedtekter §7.3 sier at fondets midler skal fordeles på samme måte som Onlines midler, mens Online fonds vedtekt 8.2 spesifiserer en annen fordeling av midler._  
+_Hvorfor? Onlines vedtekter §7.3 sier at fondets midler skal fordeles på samme måte som Onlines midler, mens Online fonds vedtekter 8.2 spesifiserer en annen fordeling av midler._  
   
 **§7.3 Onlines Fond**  
   
