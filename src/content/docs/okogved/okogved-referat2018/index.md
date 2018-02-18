@@ -168,8 +168,6 @@ Velkommen
 
 * Jubkom:
 
-    * 28505 i pluss!
-
     * 1716 kr i kjøp av restlageret av jubileumsøl
 
 * Velkom:
@@ -186,9 +184,6 @@ Velkommen
 
         * Særlig arrangementer, siden utesteder ble brukt mye
 
-* Total:
-
-    * Uten ekskom gikk vi kr 211 752 i pluss!
 
 ### Budsjett v/Christoffer Lofsberg
 
