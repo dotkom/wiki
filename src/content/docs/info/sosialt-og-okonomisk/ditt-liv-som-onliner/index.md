@@ -10,6 +10,33 @@ title: "Ditt liv som Onliner"
 - Online arrangerer masse forskjellige arrangementer! Du kan lese om de som kommer fremover på [online.ntnu.no](https://online.ntnu.no/).
 
 
+«Hvordan kan jeg få med meg informasjon om alt som skjer?»
+----------------------------------------------------------
+-   [Online.ntnu.no](https://online.ntnu.no/) er hovedportalen for alt som skjer i Online, skjekk innom regelmessig!
+-   Stortsett hver uke blir det sendt ut en infomail til alle Onlinere
+    med informasjon om hva som skjer den kommende uken.
+    -   Får du ikke infomail? Send epost til dotkom@online.ntnu.no
+-   Følg med på [Informatikk - Online](https://www.facebook.com/groups/1547182375336132/) gruppen på facebook, der blir det blestet for det meste av arrangementer.
+
+«Kjapt, hva er bedpres, bedkurs og slikt?»
+------------------------------------------
+
+-   **Bedpres:** Bedriftspresentasjon. Presentasjon på 45 minutter.
+    Middag på restaurant betalt av bedriften. Mulighet for intervjuer.
+-   **Bedkurs:** Bedriftskurs. Varer i 1-3 timer. Middag på Gløshaugen
+    (bestilt pizza) eller på restaurant, betalt av bedriften.
+-   **Bedseminar:** Samme som bedkurs, bare lengre. Kan vare over flere
+    dager over en periode.
+-   **Alle disse…**
+    -   …er som regel åpne for 3. klasse og oppover, men når
+        arrangementet nærmer seg kan det åpne seg plasser for andre- og
+        førsteklassinger.
+    -   …har påmelding kl 12:00 én uke før.
+    -   …kan fylles opp veldig fort, så det gjelder å sitte klar med
+        trigger-finger når påmeldingen åpner.
+    -   …starter kl 17 på angitt dag med mindre annet er oppgitt.
+
+
 «Hvem er komiteene og hva gjør de for meg?»
 ------------------------------------------------------------------------
 
@@ -55,31 +82,6 @@ title: "Ditt liv som Onliner"
 - Arrangerer utenlandsekskursjon for alle 3.klassinger. Dette er noe alle bør benytte anledningen til å få med seg. 
 - Arrangerer Tech Talks på våren for å samle inn penger, slik at ekskursjonen blir billigere for studentene. Dette er en dag, åpen for alle studenter på NTNU, hvor bedrifter kommer for å holde talks og foredrag. 
 
-«Kjapt, hva er bedpres, bedkurs og slikt?»
-------------------------------------------
-
--   **Bedpres:** Bedriftspresentasjon. Presentasjon på 45 minutter.
-    Middag på restaurant betalt av bedriften. Mulighet for intervjuer.
--   **Bedkurs:** Bedriftskurs. Varer i 1-3 timer. Middag på Gløshaugen
-    (bestilt pizza) eller på restaurant, betalt av bedriften.
--   **Bedseminar:** Samme som bedkurs, bare lengre. Kan vare over flere
-    dager over en periode.
--   **Alle disse…**
-    -   …er som regel åpne for 3. klasse og oppover, men når
-        arrangementet nærmer seg kan det åpne seg plasser for andre- og
-        førsteklassinger.
-    -   …har påmelding kl 12:00 én uke før.
-    -   …kan fylles opp veldig fort, så det gjelder å sitte klar med
-        trigger-finger når påmeldingen åpner.
-    -   …starter kl 17 på angitt dag med mindre annet er oppgitt.
-
-«Hvordan kan jeg få med meg informasjon om alt som skjer?»
-----------------------------------------------------------
--   [Online.ntnu.no](https://online.ntnu.no/) er hovedportalen for alt som skjer i Online, skjekk innom regelmessig!
--   Stortsett hver uke blir det sendt ut en infomail til alle Onlinere
-    med informasjon om hva som skjer den kommende uken.
-    -   Får du ikke infomail? Send epost til dotkom@online.ntnu.no
--   Følg med på [Informatikk - Online](https://www.facebook.com/groups/1547182375336132/) gruppen på facebook, der blir det blestet for det meste av arrangementer.
 
 «Hva er en prikk? Hvordan vet jeg om jeg har fått en?»
 ------------------------------------------------------
