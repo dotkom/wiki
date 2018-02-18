@@ -22,5 +22,5 @@ title: "Dagsorden 2018"
 | 10  | 20.25  | 20.35 | Saksforslag 3 v/Hovedstyret |  20:10 |
 | 10  | 20.35  | 20.45 | Pause | utgår | 
 | 10  | 20.45  | 20.55 | Saksforslag 4 v/Hovedstyret |  20:13 |
-| 10  | 20.55  | 21.05 | Saksforslag 5 v/Hovedstyret |   |
-| 10  | 21.05  | 21.15 | Saksforslag 6 v/Agnete Djupvik |   |
+| 10  | 20.55  | 21.05 | Saksforslag 5 v/Hovedstyret |  20:16 |
+| 10  | 21.05  | 21.15 | Saksforslag 6 v/Agnete Djupvik |  20:16 |
