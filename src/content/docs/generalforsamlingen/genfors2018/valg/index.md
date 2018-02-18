@@ -36,7 +36,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 * *Leder:*   Aslak Hollund  
 * *Nestleder:* Martin Bjerke, Henrik Liodden  
-* *Økonomiansvarlig:*  
+* *Økonomiansvarlig:* Christian Nyvoll
 * *Arrangementsansvarlig*:  
 * *Teknisk ansvarlig*:  
 * *Internansvarlig*:  
