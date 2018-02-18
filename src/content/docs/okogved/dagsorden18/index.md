@@ -6,7 +6,7 @@ title: "Dagsorden 2018"
 |---|---|---|---|---|
 | 5 | 17.15  | 17.20 | Velkomst v/Didrik Pemmer Aalen |  17:18 |
 | 30  | 17.20  | 17.50 | Gjennomgang regnskap v/Christoffer Lofsberg  | 17:19  |
-| 30  | 17.50  | 18.20  | Gjennomgang budsjett  v/Christoffer Lofsberg |   |
+| 30  | 17.50  | 18.20  | Gjennomgang budsjett  v/Christoffer Lofsberg | 17:45?  |
 | 10  | 18.20  | 18.30 | Pause  |   |
 | 30  | 18.30  | 19.00 | Vedtektsforslag 1 v/Agnete Djupvik | |
 | 5  | 19.00  | 19.05 | Vedtektsforslag 2 v/Hovedstyret | |
