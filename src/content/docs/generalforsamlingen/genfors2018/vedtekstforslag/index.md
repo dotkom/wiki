@@ -175,3 +175,15 @@ _Hvorfor? Det er en glipp fra når vedtektene ble laget. Siden endringen er meni
 **Erstatt:** Fondstyret skal velges på generalforsamlingen, på samme måte som medlemmer til Onlines Hovedstyre som beskrevet i Onlines vedtekter SKRIV INN PARAGRAF HER, med unntak av følgende:
 
 **Med:** Fondstyret skal velges på generalforsamlingen, på samme måte som medlemmer til Onlines Hovedstyre som beskrevet i Onlines vedtekter av 3.6, med unntak av følgende:
+
+## Forslag 7 - Frafall av økonomiansvarlig (Christoffer Lofsberg)
+
+_Hvorfor? Økonomiansvarlig er så viktig verv at det bør kalles inn til ekstraordinær generalforsamling ved frafall. Det er direkte ulovlig for en organisasjon i Norge å ikke ha kontroll på økonomien, og det bør være generalforsamlingen som velger ut personen som har kontroll på dette_
+
+**4.1.2 Fravær av hovedstyremedlem**  
+
+**Erstatt:**  
+Dersom leder og/eller nestleder av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+
+**Med:**  
+Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
