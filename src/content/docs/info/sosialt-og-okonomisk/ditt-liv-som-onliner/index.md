@@ -18,15 +18,13 @@ title: "Ditt liv som Onliner"
     -   Får du ikke infomail? Send epost til dotkom@online.ntnu.no
 -   Følg med på [Informatikk - Online](https://www.facebook.com/groups/1547182375336132/) gruppen på facebook, der blir det blestet for det meste av arrangementer.
 
-«Kjapt, hva er bedpres, bedkurs og slikt?»
+«Kjapt, hva er bedpres, kurs og slikt?»
 ------------------------------------------
 
 -   **Bedpres:** Bedriftspresentasjon. Presentasjon på 45 minutter.
     Middag på restaurant betalt av bedriften. Mulighet for intervjuer.
--   **Bedkurs:** Bedriftskurs. Varer i 1-3 timer. Middag på Gløshaugen
+-   **Kurs:** Bedriftskurs. Varer i 1-3 timer. Middag på Gløshaugen
     eller på restaurant, betalt av bedriften.
--   **Bedseminar:** Samme som bedkurs, bare lengre. Kan vare over flere
-    dager over en periode.
 -   **Alle disse…**
     -   …er som regel åpne for 3. klasse og oppover, men når
         arrangementet nærmer seg kan det åpne seg plasser for andre- og
