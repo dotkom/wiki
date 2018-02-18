@@ -190,7 +190,7 @@ Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir frav�
   
 ## Forslag 8 - Korrigere motsigelser i Onlines vedtekter og Online fonds vedtekter ved oppløsning (Johannes Kvamme).  
   
-_Hvorfor? Onlines vedtekt §7.3 sier at fondets midler skal fordeles på samme måte som Onlines midler, mens Online fonds vedtekt 8.2 spesifiserer en annen fordeling av midler._  
+_Hvorfor? Onlines vedtekter §7.3 sier at fondets midler skal fordeles på samme måte som Onlines midler, mens Online fonds vedtekt 8.2 spesifiserer en annen fordeling av midler._  
   
 **§7.3 Onlines Fond**  
   
@@ -205,7 +205,7 @@ Onlines Fonds midler fordeles da etter Onlines Fonds vedtekter, ved §8.2
   
 _Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines vedtekter §7.3. Onlines fonds vedtekter §8.2 spesifiseres at midlene fra fondet står uberørt i 3 år og deretter overføres til Online. Dette er altså problematisk om fondets oppløsning kommer av Onlines oppløsning._
 
-**Online fonds vedtekter §8.2**  
+**Online fonds vedtekter §8.2 - Midler**  
 
 **Erstatt:**  
 Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
