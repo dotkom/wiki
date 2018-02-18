@@ -17,7 +17,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:*   Aslak Hollund
-* *Nestleder:* Martin Bjerke, Henrik Liodden
+* *Nestleder:* Henrik Liodden
 * *Økonomiansvarlig:*  Christoffer Skar Lofsberg
 * *Arrkom:* Johannes Kvamme  
 * *Bedkom:*  Adrian Thompson
@@ -35,7 +35,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **Dersom vedtektsforslag 1 går gjennom vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til disse vervene er:**  
 
 * *Leder:*   Aslak Hollund  
-* *Nestleder:* Martin Bjerke, Henrik Liodden  
+* *Nestleder:* Henrik Liodden  
 * *Økonomiansvarlig:* Christian Nyvoll
 * *Arrangementsansvarlig*:  
 * *Teknisk ansvarlig*:  
