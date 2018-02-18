@@ -106,10 +106,6 @@ Velkommen
 
     * Ekskom har gått veldig mye i minus på papiret
 
-        * 400000 i minus
-
-        * 600000 i pluss året før
-
     * Skal jevnes ut neste år - er et nullprosjekt
 
 * Fagkom:
