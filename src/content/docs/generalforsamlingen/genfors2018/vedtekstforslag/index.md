@@ -186,4 +186,26 @@ _Hvorfor? Økonomiansvarlig er så viktig verv at det bør kalles inn til ekstra
 Dersom leder og/eller nestleder av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
 
 **Med:**  
-Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.  
+  
+## Forslag 8 - Spesifisere hva som gjøres om Onlines Fond legges ned etter Online.  
+  
+_Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines vedtekter §7.3. Onlines fonds vedtekter §8.2 spesifiseres at midlene fra fondet står uberørt i 3 år og deretter overføres til Online. Dette er altså problematisk om fondets oppløsning kommer av Onlines oppløsning._
+
+**Online fonds vedtekter §8.2**  
+
+**Erstatt:**  
+Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
+oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen uten
+at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for infor-
+matikk. Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
+midler til andre organisasjoner som jobber for studenter.
+
+**Med:**
+Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
+oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen uten
+at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for infor-
+matikk. Om Online er oppløst ved dette tidspunkt skal midler som fondet disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-
+naturvitenskaplige universitet. Midlene skal øremerkes til studentaktiviteter.  
+Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
+midler til andre organisasjoner som jobber for studenter.
