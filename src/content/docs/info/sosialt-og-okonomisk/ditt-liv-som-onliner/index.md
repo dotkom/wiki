@@ -5,6 +5,9 @@ title: "Ditt liv som Onliner"
 «Kan du raskt forklare meg alt det viktigste i min hverdag som Onliner?»
 ------------------------------------------------------------------------
 
+- Om du studerer informatikk er du en Onliner, og vi er hyggelige mennesker ikke nøl med å si hei!
+- Onlinekontoret er vår sosiale oase, her kan du alltid komme for en kopp kaffe eller en hyggelig prat.
+- Online arrangerer masse forskjellige arrangementer! Du kan lese om de som kommer fremover på [online.ntnu.no](https://online.ntnu.no/).
 
 
 «Hvem er komiteene og hva gjør de for meg?»
