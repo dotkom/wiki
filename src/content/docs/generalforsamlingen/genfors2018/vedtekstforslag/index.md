@@ -203,7 +203,8 @@ Onlines Fonds midler fordeles da etter Onlines Fonds vedtekter, ved §8.2
 
 ## Forslag 9 - Spesifisere hva som gjøres om Onlines Fond legges ned etter Online (Johannes Kvamme)  
   
-_Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines vedtekter §7.3. Onlines fonds vedtekter §8.2 spesifiseres at midlene fra fondet står uberørt i 3 år og deretter overføres til Online. Dette er altså problematisk om fondets oppløsning kommer av Onlines oppløsning._
+_Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines vedtekter §7.3. Onlines fonds vedtekter §8.2 spesifiseres at midlene fra fondet står uberørt i 3 år og deretter overføres til Online. Dette er altså problematisk om fondets oppløsning kommer av Onlines oppløsning.
+Scenario: Fondet legges ned. Året etter legges Online ned. Pengene sitter dermed i limbo._
 
 **Online fonds vedtekter §8.2 - Midler**  
 
@@ -216,7 +217,6 @@ midler til andre organisasjoner som jobber for studenter.
 **Med:**  
 Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
 oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen uten
-at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for informatikk. Om Online er oppløst ved dette tidspunkt skal midler som fondet disponerer overføres som gave til Institutt for datateknologi og informatikk (IDI) ved Norges teknisk-
-naturvitenskaplige universitet. Midlene skal øremerkes til studentaktiviteter.  
+at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for informatikk. Om Online oppløses i dette tidsrommet skal midler som fondet disponerer overføres i henhold til Onlines vedtekter §7.2.  
 Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
 midler til andre organisasjoner som jobber for studenter.
