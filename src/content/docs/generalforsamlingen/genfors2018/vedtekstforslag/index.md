@@ -214,7 +214,7 @@ at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for
 matikk. Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
 midler til andre organisasjoner som jobber for studenter.
 
-**Med:**
+**Med:**  
 Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
 oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen uten
 at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for infor-
