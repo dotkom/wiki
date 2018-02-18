@@ -24,7 +24,7 @@ title: "Ditt liv som Onliner"
 -   **Bedpres:** Bedriftspresentasjon. Presentasjon på 45 minutter.
     Middag på restaurant betalt av bedriften. Mulighet for intervjuer.
 -   **Bedkurs:** Bedriftskurs. Varer i 1-3 timer. Middag på Gløshaugen
-    (bestilt pizza) eller på restaurant, betalt av bedriften.
+    eller på restaurant, betalt av bedriften.
 -   **Bedseminar:** Samme som bedkurs, bare lengre. Kan vare over flere
     dager over en periode.
 -   **Alle disse…**
