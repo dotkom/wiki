@@ -210,8 +210,7 @@ _Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines
 **Erstatt:**  
 Ved oppløsning skal midler som fondet disponerer stå uberørt i tre år, dette for å
 oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen uten
-at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for infor-
-matikk. Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
+at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for informatikk. Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
 midler til andre organisasjoner som jobber for studenter.
 
 **Med:**  
