@@ -47,7 +47,7 @@ Tradisjonene fra komitéjulebordet skal overføres til en vårfest eller lignend
 
 Mange grupper i Online legger ekstra tid og innsats i arbeidet sitt ved å gjennomføre arbeidskvelder og workshops som varer i mange timer. Vi ønsker å senke terskelen for å gjøre disse arbeidskveldene mer motiverende ved å åpne for søknader til pizza under arbeidsperioden.
 
-Vi vil sette 10 000 i potten hvert år, som man kan søke til Hovedstyret om dersom man mener at deltakerne på workshopen fortjener det. 
+Vi vil sette 10 000 i potten hvert semester, som man kan søke til Hovedstyret om dersom man mener at deltakerne på workshopen fortjener det. 
 
 ## Forslag 5 - Online setter over 250 000 kr til Onlines fond (Hovedstyret)
 
