@@ -64,6 +64,7 @@ Hovedstyret består av:
 **§4.1.3**
 
 **Erstatt: ** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett (1) semester med unntak av leder av bank- og økonomikomiteen. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.”
+
 **Med: ** Sløyfe hele avsnittet
 
 **§4.2 Kjernekomiteer**
