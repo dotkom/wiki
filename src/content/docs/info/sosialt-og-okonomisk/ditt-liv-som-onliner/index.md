@@ -67,10 +67,11 @@ title: "Ditt liv som Onliner"
 
 «Hvordan kan jeg få med meg informasjon om alt som skjer?»
 ----------------------------------------------------------
-
+-   [Online.ntnu.no](https://online.ntnu.no/) er hovedportalen for alt som skjer i Online, skjekk innom regelmessig!
 -   Stortsett hver uke blir det sendt ut en infomail til alle Onlinere
     med informasjon om hva som skjer den kommende uken.
-    -   Trøbbel med innlogging? Send mail til dotkom@online.ntnu.no
+    -   Får du ikke infomail? Send epost til dotkom@online.ntnu.no
+-   Følg med på [Informatikk - Online](https://www.facebook.com/groups/1547182375336132/) siden, der blir det blestet for det meste av arrangementer.
 
 «Hva er en prikk? Hvordan vet jeg om jeg har fått en?»
 ------------------------------------------------------
