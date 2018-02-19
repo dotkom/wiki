@@ -16,6 +16,8 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 [TOC]
 
+# Forslag til Onlines vedtekter
+
 ## Forslag 1 - Komiteledere ut av Hovedstyret (Agnete Djupvik)
 
 **§1.2.1**
@@ -113,7 +115,9 @@ Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere
 
 **Med:** Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
 
-## Forslag 3 - Avtroppende hovedstyre kan stille til Fondstyret (Christoffer Lofsberg)
+# Forslag til Onlines fonds vedtekter
+
+## Forslag 1 - Avtroppende hovedstyre kan stille til Fondstyret (Christoffer Lofsberg)
 
 _Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da Online sine vedtekter av 3.6 sier at et hovedstyremedlem sitter inntil endt generalforsamling. Dette går imot mye av hensikten til stillingen_  
 
@@ -123,7 +127,7 @@ _Hvorfor? Per nå kan ikke avtroppende hovedstyre stille til valg i fondet da On
 
 **Med:** En kandidat til valg kan ikke være valgt til medlem av Onlines Hovedstyre. Avtroppende Hovedstyre kan stille til valg.
 
-## Forslag 4 - Kjernekomitéledere kan stille til Fondstyret (Christoffer Lofsberg)
+## Forslag 2 - Kjernekomitéledere kan stille til Fondstyret (Christoffer Lofsberg)
 
 **Dersom vedtektsforslag 1 går igjennom**  
 
@@ -154,7 +158,7 @@ I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det ind
 I oddetallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre lager-medlem 1, tidligere medlem fra Onlines Hovedstyre eller komitélederkollegiet 1, og Onlinemedlem 1.  
 I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre lager-medlem 2, tidligere medlem fra Onlines Hovedstyre eller komitélederkollegiet 2, og Onlinemedlem 2.
 
-## Forslag 5 - Sittende kjernekomitéledere kan ikke stille til fondstyret (Christoffer Lofsberg)
+## Forslag 3 - Sittende kjernekomitéledere kan ikke stille til fondstyret (Christoffer Lofsberg)
 
 _Hvorfor? Vi har begrenset sittende Hovedstyre. Når det er samme stilling, så bør også kjernekomitéledere begrenses. Det er uheldig om en i en posisjon som ofte kan komme til å søke om midler fra fondet også sitter der selv._
 
@@ -166,7 +170,7 @@ _Hvorfor? Vi har begrenset sittende Hovedstyre. Når det er samme stilling, så 
 
 **Med:** En kandidat til valg kan ikke være valgt til medlem av Onlines Hovedstyre eller leder av en kjernekomité. Avtroppende Hovedstyre og kjernekomitéledere kan stille til valg.
 
-## Forslag 6 - Rette opp feil i referanse til paragraf i fondets vedtekter (Christoffer Lofsberg)
+## Forslag 4 - Rette opp feil i referanse til paragraf i fondets vedtekter (Christoffer Lofsberg)
 
 _Hvorfor? Det er en glipp fra når vedtektene ble laget. Siden endringen er meningsbærende etter hvilken paragraf den referer til, så tas det opp som forslag her og ikke redaksjonell endring_
 
@@ -176,7 +180,7 @@ _Hvorfor? Det er en glipp fra når vedtektene ble laget. Siden endringen er meni
 
 **Med:** Fondstyret skal velges på generalforsamlingen, på samme måte som medlemmer til Onlines Hovedstyre som beskrevet i Onlines vedtekter av 3.6, med unntak av følgende:
 
-## Forslag 7 - Frafall av økonomiansvarlig (Christoffer Lofsberg)
+## Forslag 5 - Frafall av økonomiansvarlig (Christoffer Lofsberg)
 
 _Hvorfor? Økonomiansvarlig er så viktig verv at det bør kalles inn til ekstraordinær generalforsamling ved frafall. Det er direkte ulovlig for en organisasjon i Norge å ikke ha kontroll på økonomien, og det bør være generalforsamlingen som velger ut personen som har kontroll på dette_
 
@@ -188,7 +192,7 @@ Dersom leder og/eller nestleder av linjeforeningen blir fraværende i den grad a
 **Med:**  
 Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.  
   
-## Forslag 8 - Korrigere motsigelser i Onlines vedtekter og Online fonds vedtekter ved oppløsning (Johannes Kvamme)  
+## Forslag 6 - Korrigere motsigelser i Onlines vedtekter og Online fonds vedtekter ved oppløsning (Johannes Kvamme)  
   
 _Hvorfor? Onlines vedtekter §7.3 sier at fondets midler skal fordeles på samme måte som Onlines midler, mens Online fonds vedtekter 8.2 spesifiserer en annen fordeling av midler._  
   
@@ -201,7 +205,7 @@ da umiddelbart etter 7.2.
 **Med:**  
 Onlines Fonds midler fordeles da etter Onlines Fonds vedtekter, ved §8.2  
 
-## Forslag 9 - Spesifisere hva som gjøres om Onlines Fond legges ned etter Online (Johannes Kvamme)  
+## Forslag 7 - Spesifisere hva som gjøres om Onlines Fond legges ned etter Online (Johannes Kvamme)  
   
 _Hvorfor? Dersom Online legges ned legges også fondet ned i henhold til Onlines vedtekter §7.3. Onlines fonds vedtekter §8.2 spesifiseres at midlene fra fondet står uberørt i 3 år og deretter overføres til Online. Dette er altså problematisk om fondets oppløsning kommer av Onlines oppløsning.
 Scenario: Fondet legges ned. Året etter legges Online ned. Pengene sitter dermed i limbo._
