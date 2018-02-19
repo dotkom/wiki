@@ -57,3 +57,5 @@ Online har gått godt i noen år nå og samlet opp litt penger på bok. Vi ønsk
 
 Dersom vedtektsforslag 1 går gjennom: 
 Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere. Fra og med neste år gjennomfører man valg av komitéledere internt i kjernekomiteen.
+
+[Endret dagsorden](/wiki/online/generalforsamlingen/genfors2018/nydagsorden)
