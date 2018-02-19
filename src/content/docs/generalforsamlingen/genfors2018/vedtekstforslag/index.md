@@ -245,7 +245,7 @@ Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud f
 **4.3.4 Informatikernes IT-ekskursjon**  
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.  
 
-**4.4 Andre grupper tilknyttet Online** 
+**4.4 Andre grupper tilknyttet Online**  
 **4.4.1 Casual gaming**  
 Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.  
 **4.4.2 Realfagskjelleren**  
