@@ -75,6 +75,29 @@ title: "Årsberetninger 2018"
 
 ## Fag- og kurskomiteen
 
+Tok opp syv nye, fem førsteklassinger, en tredje og en fjerde. 
+Byttet nestleder i april 2017 og i februar 2018. Edvard Bø er nåværende
+Har hatt et bra samarbeid med bedkom og fagkom Abakus, og hatt 2 sosialkvelder med hver av de (Gjenstår to dette semesteret)
+Dratt på oslotur 2. ganger med bedkom
+Fulgt opp ekskursjonskomiteen
+
+Høsten 2017
+Hadde ny-på-informatikk-kurs i fadderuka
+Gjennomført 8 kurs i samarbeid med bedrifter
+To eksamenskurs og en midtsemesterforelesning sammen med fagkom Abakus
+Holdte eget ITGK-kickstart kurs
+Gjennomført bookingrunden
+Arrangert kodekveld i samarbeid med trikom
+Arrangert kodekveld etter eksamensforelesning i ITGK
+
+Våren 2018
+Booking av  bedrifter for neste semester sammen med bedkom skjer i dette øyeblikk
+Gjennomfører 10 kurs i samarbeid med bedrifter, hvorav tre var kursserie
+Gjennomfører Lightning talks sammen med instituttet, Abakus og Tihlde
+Skal ha en midtsemesterforelesning med Abakus
+Skal ha 3 eksamenskurs, to av de i samarbeid med fagkom Abakus
+Skal arrangere fotokurs
+
 ## Profil- og aviskomiteen
 
 ## Trivselskomiteen
