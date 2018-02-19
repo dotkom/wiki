@@ -16,123 +16,125 @@ title: "Dagsorden 2018"
 ### Administrativt
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 16.15 | 16.20 | Velkommen v/leder | |
-| 1 | 16.20 | 16.21 | Valg av ordstyrer  | |
-| 1 | 16.21 | 16.22 | Valg av referenter | |
-| 2 | 16.22 | 16.24 | Valg av tellekorps  | |
-| 2 | 16.24 | 16.26 | Valg av paraferer  | |
-| 5 | 16.26 | 16.31 | Gjennomgang av tegnsetting  | |
-| 5 | 16.31 | 16.36 | Gjennomgang av stemmesystem  | |
-| 1 | 16.36 | 16.37 | Godkjenning av forretningsorden  | |
-| 1 | 16.37 | 16.38 | Godkjenning av gjester  | |
-| 1 | 16.38 | 16.39 | Godkjenning av talerett  | |
-| 1 | 16.39 | 16.40 | Godkjenning av stemmeberettigede  | |
-| 2 | 16.40 | 16.42 | Godkjenning av dagsorden  | |
-| 0.5 | 16.42 | 16.43 | Godkjenning av referat fra 25. april 2017  | |
-| 0.5 | 16.42 | 16.43 | Godkjenning av referat fra 01. april 2018  | |
-| 1 | 16.43 | 16.44 | Godkjenning av innkalling  | |
-| 1 | 16.44 | 16.45 | Godkjenning av saksliste  | |
-| Total tid: | |30 min|
+| 2 | 16.15 | 16.17 | Velkommen v/leder | |
+| 0.5 | 16.17 | 16.17 | Valg av ordstyrer  | |
+| 1 | 16.17 | 16.18 | Valg av referenter | |
+| 0.5 | 16.18 | 16.18 | Valg av tellekorps  | |
+| 0.5 | 16.18 | 16.19 | Valg av paraferer  | |
+| 5 | 16.19 | 16.24 | Gjennomgang av tegnsetting  | |
+| 0.5 | 16.24 | 16.24 | Gjennomgang av stemmesystem  | |
+| 1 | 16.24 | 16.25 | Godkjenning av forretningsorden  | |
+| 0.5 | 16.25 | 16.25 | Godkjenning av gjester  | |
+| 0.5 | 16.25 | 16.26 | Godkjenning av talerett  | |
+| 0.5 | 16.26 | 16.26 | Godkjenning av stemmeberettigede  | |
+| 0.5 | 16.26 | 16.27 | Godkjenning av dagsorden  | |
+| 0.5 | 16.27 | 16.27 | Godkjenning av referat fra 25. april 2017  | |
+| 0.5 | 16.27 | 16.28 | Godkjenning av referat fra 01. april 2018  | |
+| 1 | 16.28 | 16.29 | Godkjenning av innkalling  | |
+| 1 | 16.29 | 16.30 | Godkjenning av saksliste  | |
+| Total tid: | |15 min|
 
 
 
 ### Årsberetninger
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 16.46 | 16.51 | Årsberetning Hovedstyret  |   |
-| 5 | 16.51 | 16.56 | Årsberetning Bank- og økonomikomiteen  |  |
-| 5 | 16.56 | 17.01 | Årsberetning Arrangementskomiteen  |   |
-| 5 | 17.01 | 17.06 | Årsberetning Bedriftskomiteen  |   |
-| 5 | 17.06 | 17.11 | Årsberetning Drifts- og utviklingskomiteen  |   |
-| 5 | 17.11 | 17.16 | Årsberetning Fag- og kurskomiteen  |   |
-| 5 | 17.16 | 17.21 | Årsberetning Profil- og aviskomiteen  |   |
-| 5 | 17.21 | 17.26 | Årsberetning Trivselskomiteen  |   |
-| 5 | 17.26 | 17.31 | Årsberetning Seniorkomiteen  |   |
-| 5 | 17.31 | 17.36 | Årsberetning Applikasjonskomiteen  |   |
-| 5 | 17.36 | 17.41 | Årsberetning Ekskursjonskomiteen 2018  |   |
-| 5 | 17.41 | 17.46 | Årsberetning IT-ekskursjonen  |   |
-| 5 | 17.46 | 17.51 | Årsberetning Velkomstkomiteen 2017  |   |
-| 5 | 17.51 | 17.56 | Årsberetning Datakameratene FK  |    |
-| 5 | 17.56 | 18.01 | Årsberetning Realfagskjellern  |   |
-| 5 | 18.01 | 18.06 | Årsberetning Casual Gaming  |   |
-| Total tid: | |1 t 21 min|
+| 4 | 16.30 | 16.34 | Årsberetning Hovedstyret  |   |
+| 2 | 16.34 | 16.36 | Årsberetning Bank- og økonomikomiteen  |  |
+| 2 | 16.36 | 16.38 | Årsberetning Arrangementskomiteen  |   |
+| 2 | 16.38 | 16.40 | Årsberetning Bedriftskomiteen  |   |
+| 2 | 16.40 | 16.42 | Årsberetning Drifts- og utviklingskomiteen  |   |
+| 2 | 16.42 | 16.44 | Årsberetning Fag- og kurskomiteen  |   |
+| 2 | 16.44 | 16.46 | Årsberetning Profil- og aviskomiteen  |   |
+| 2 | 16.46 | 16.48 | Årsberetning Trivselskomiteen  |   |
+| 2 | 16.48 | 16.50 | Årsberetning Seniorkomiteen  |   |
+| 2 | 16.50 | 16.52 | Årsberetning Applikasjonskomiteen  |   |
+| 2 | 16.52 | 16.54 | Årsberetning Ekskursjonskomiteen 2018  |   |
+| 2 | 16.54 | 16.56 | Årsberetning IT-ekskursjonen  |   |
+| 2 | 16.56 | 16.58 | Årsberetning Velkomstkomiteen 2017  |   |
+| 2 | 16.58 | 17.00 | Årsberetning Datakameratene FK  |    |
+| 2 | 17.00 | 17.02 | Årsberetning Realfagskjellern  |   |
+| 3 | 17.02 | 17.05 | Årsberetning Casual Gaming  |   |
+| Total tid: | |25 min|
 
 ## Pause 15 minutter
 
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 18.21  | 18.51  | Godkjenning av regnskap 2017  |  |
-| 15 | 18.21  | 18.51  | Godkjenning av budsjett 18/19  |  |
+| 15 | 17.20  | 17.50  | Godkjenning av regnskap 2017  |  |
+| 15 | 17.20  | 17.50  | Godkjenning av budsjett 18/19  |  |
 | Total tid: | |30 min|
 
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15   | 18.51 | 18.52 | Saksforslag 1 |  |
-| 15   | 18.51 | 18.52 | Saksforslag 2 |  |
-| 15   | 18.51 | 18.52 | Saksforslag 3 |  |
-| 15   | 18.51 | 18.52 | Saksforslag 4 |  |
-| 15   | 18.51 | 18.52 | Saksforslag 5 |  |
-| 15   | 18.51 | 18.52 | Saksforslag 6 |  |
-| Total tid: | |1 min|
+| 20   | 17.50 | 18.10 | Saksforslag 1 v/Hovedstyret |  |
+| 20   | 18.10 | 18.30 | Saksforslag 2 v/Hovedstyret |  |
+| 15   | 18.30 | 18.45 | Saksforslag 3 v/Hovedstyret|  |
+| 15   | 18.45 | 19.00 | Saksforslag 4 v/Hovedstyret|  |
+| 10   | 19.00 | 19.10 | Saksforslag 5 v/Hovedstyret|  |
+|  5   | 19.10 | 19.15 | Saksforslag 6 v/Agnete Djupvik|  |
+| Total tid: | | 1 t 25 min|
 
 ## Pause 30 min med pizza
 
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 20   | 18.52 | 18.53 | Vedtektsforslag 1 |  |
-| 15   | 18.52 | 18.53 | Vedtektsforslag 2 |  |
-| Total tid: | |1min|
+| 30   | 19.45 | 20.15 | Vedtektsforslag 1 v/Agnete Djupvik |  |
+| 10   | 20.15 | 20.25 | Vedtektsforslag 2 v/Hovedstyret |  |
+| 5   | 20.25 | 20.30 | Vedtektsforslag 3 v/Hovedstyret |  |
 
-## Pause 15 min
+| Total tid: | |45 min|
+
+## Pause 10 min
 
 ## Fondets generalforsamling
 
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10   | 18.52 | 18.53 | Vedtektsforslag 1 |  |
-| 10   | 18.52 | 18.53 | Vedtektsforslag 2 |  |
-| 10   | 18.52 | 18.53 | Vedtektsforslag 3 |  |
-| 10   | 18.52 | 18.53 | Vedtektsforslag 4 |  |
-| 10   | 18.52 | 18.53 | Vedtektsforslag 5 |  |
-| 10   | 18.52 | 18.53 | Vedtektsforslag 6 |  |
-| 10   | 18.52 | 18.53 | Vedtektsforslag 7 |  |
-| Total tid: | |1min|
+| 7   | 20.40 | 20.47 | Vedtektsforslag 1 |  |
+| 7   | 20.47 | 20.54 | Vedtektsforslag 2 |  |
+| 7   | 20.54 | 21.03 | Vedtektsforslag 3 |  |
+| 7   | 21.03 | 21.10 | Vedtektsforslag 4 |  |
+| 7   | 21.10 | 21.17 | Vedtektsforslag 5 |  |
+| 7   | 21.17 | 21.24 | Vedtektsforslag 6 |  |
+| 7   | 21.24 | 21.31 | Vedtektsforslag 7 |  |
+| Total tid: | | 51 min |
 
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10   | 18.52 | 18.53 | Valg av Onlinemedlem |  |
-| 10   | 18.52 | 18.53 | Valg av tidligere hovedstyremedlem |  |
-| 10   | 18.52 | 18.53 | Valg av ridder|  |
-| Total tid: | |1min|
-
-## Pause 15 min
+| 10   | 21.31 | 21.41 | Valg av Onlinemedlem |  |
+| 10   | 21.41 | 21.51 | Valg av tidligere hovedstyremedlem |  |
+| 10   | 21.51 | 22.01 | Valg av ridder|  |
+| Total tid: | | 30 min |
 
 ### Du vil ikke tro hva som skal skje nå
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10 | 00.17 | 00.27 |   |   |
+| 10 | 22.01 | 22.11 |   |   |
 | Total tid: | |10 min|
+
+## Pause 15 min
 
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 20 | 00.42  | 01.02  | Valg av leder  |   |
-| 20 | 01.02  | 00.22  | Valg av nestleder  |   |
-| 15 | 01.22  | 01.37  | Valg av leder av bank- og økonomikomiteen  |   |
-| 15 | 01.37  | 01.52  | Valg av leder av arrangementskomiteen  |   |
-| 15 | 01.52  | 02.07  | Valg av leder av bedriftskomiteen  |   |
-| 15 | 02.07  | 02.22  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 15 | 02.22  | 02.37  | Valg av leder av fag- og kurskomiteen  |   |
-| 15 | 02.37  | 02.52  | Valg av leder av profil- og aviskomiteen  |   |
-| 15 | 02.52  | 03.07  | Valg av leder av trivselskomiteen  |   |
-| 10 | 03.07  | 03.17  | Valg av leder av valgkomite  |   |
-| Total tid: | |2 t 35 min|
+| 10 | 22.26  | 22.36  | Valg av leder  |   |
+| 10 | 22.36  | 22.46  | Valg av nestleder  |   |
+|  7 | 22.46  | 22.53  | Valg av leder av bank- og økonomikomiteen  |   |
+|  7 | 22.53  | 23.00  | Valg av leder av arrangementskomiteen  |   |
+|  7 | 23.00  | 23.07  | Valg av leder av bedriftskomiteen  |   |
+| 7 | 23.07  | 23.14  | Valg av leder av drifts- og utviklingskomiteen  |   |
+| 7 | 23.14  | 23.21  | Valg av leder av fag- og kurskomiteen  |   |
+| 7 | 23.28  | 23.35  | Valg av leder av profil- og aviskomiteen  |   |
+| 7 | 23.42  | 23.49  | Valg av leder av trivselskomiteen  |   |
+| 7 | 23.49  | 23.56  | Valg av leder av valgkomite  |   |
+| Total tid: | |1 t 26 min|
 
 
 ## 5 minutter til å ta bilde av det nye HS
@@ -140,5 +142,5 @@ title: "Dagsorden 2018"
 ### Medaljeutdeling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 03.22  | 03.37  | Medaljeutdeling  |   |
+| 15 | 01.01  | 01.16  | Medaljeutdeling  |   |
 | Total tid: | |15 min|
