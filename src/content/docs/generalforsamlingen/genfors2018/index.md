@@ -9,6 +9,7 @@ title: "Generalforsamlingen 2018"
 * [2018 Saksforslag](/wiki/online/generalforsamlingen/genfors2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2018 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2018 Kandidater](/wiki/online/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [Onlines fond generalforsamling 2018](/wiki/online/generalforsamling/onlinefondgenfors2018) - Onlines fonds generalforsamling, som foregår parallelt med Onlines generalforsamling.
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
