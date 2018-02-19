@@ -130,8 +130,6 @@ title: "Endret dagsorden etter vedtektsforslag 1"
 | 7  | 22.53  | 23.00  | Valg av arrangementsansvarlig |  |
 | 7  | 23.00  | 23.07  | Valg av internansvarlig |   |
 | 7  | 23.07  | 23.14  | Valg av teknisk ansvarlig |   |
-
-
 |  7 | 23.14  | 23.21  | Valg av leder av bank- og økonomikomiteen  |   |
 |  7 | 23.21  | 23.28  | Valg av leder av arrangementskomiteen  |   |
 |  7 | 23.28  | 23.35  | Valg av leder av bedriftskomiteen  |   |
