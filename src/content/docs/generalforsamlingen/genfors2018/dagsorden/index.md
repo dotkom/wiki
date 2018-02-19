@@ -92,7 +92,7 @@ title: "Dagsorden 2018"
 
 ## Pause 15 min
 
-## Onlines fond
+### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 1   | 18.52 | 18.53 | Forberedelse saksforslag |  |
