@@ -55,4 +55,4 @@ Komitéledere:
 
 * Denne listen vil *oppdateres kontinuerlig* frem til generalforsamlingen ettersom folk bestemmer og ombestemmer seg.
 * *Du trenger ikke stå på listen* for å stille til et verv i Hovedstyret, det vil fremdeles være åpent for benkeforslag på generalforsamlingen.
-* Du må ha *hatt et verv i en kjernekomité i Online* i minst ett semester for å kunne bli valgt inn i Hovedstyret på generalforsamlingen.
+* Du må ha *hatt et verv i en kjernekomité i Online* i minst ett semester for å kunne bli valgt inn i Hovedstyret på generalforsamlingen. Dette gjelder ikke, dersom vedtektsforslag 1 får gjennom.
