@@ -107,6 +107,12 @@ title: "Dagsorden 2018"
 
 ## Pause 15 min
 
+### Du vil ikke tro hva som skal skje nå
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 10 | 00.17 | 00.27 |   |   |
+| Total tid: | |10 min|
+
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
