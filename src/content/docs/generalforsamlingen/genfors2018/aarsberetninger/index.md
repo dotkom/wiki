@@ -82,6 +82,7 @@ title: "Årsberetninger 2018"
 - Fulgt opp ekskursjonskomiteen
 
 Høsten 2017:
+
 - Hadde ny-på-informatikk-kurs i fadderuka
 - Gjennomført 8 kurs i samarbeid med bedrifter
 - To eksamenskurs og en midtsemesterforelesning sammen med fagkom Abakus
@@ -91,6 +92,7 @@ Høsten 2017:
 - Gjennomført bookingrunden
 
 Våren 2018:
+
 - Booking av  bedrifter for neste semester sammen med bedkom skjer i dette øyeblikk
 - Gjennomfører 10 kurs i samarbeid med bedrifter, hvorav tre var kursserie
 - Gjennomfører Lightning talks sammen med instituttet, Abakus og Tihlde
