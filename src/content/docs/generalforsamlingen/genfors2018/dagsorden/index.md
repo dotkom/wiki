@@ -72,6 +72,11 @@ title: "Dagsorden 2018"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 1   | 18.51 | 18.52 | Forberedelse saksforslag |  |
+| 2   | 18.51 | 18.52 | Forberedelse saksforslag |  |
+| 3   | 18.51 | 18.52 | Forberedelse saksforslag |  |
+| 4   | 18.51 | 18.52 | Forberedelse saksforslag |  |
+| 5   | 18.51 | 18.52 | Forberedelse saksforslag |  |
+| 6   | 18.51 | 18.52 | Forberedelse saksforslag |  |
 | Total tid: | |1 min|
 
 ## Pause 30 min med pizza
@@ -80,7 +85,19 @@ title: "Dagsorden 2018"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 1   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 2   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 3   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 4   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 5   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 6   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 7   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 8   | 18.52 | 18.53 | Forberedelse saksforslag |  |
+| 9   | 18.52 | 18.53 | Forberedelse saksforslag |  |
 | Total tid: | |1min|
+
+## Pause 15 min
+
+### Onlines fond
 
 ## Pause 15 min
 
