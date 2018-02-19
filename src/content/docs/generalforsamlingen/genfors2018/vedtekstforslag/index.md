@@ -49,7 +49,7 @@ Den ordinære generalforsamlingen skal behandle  årsmelding, innsendte saker, v
 * Leder av Drifts- og utviklingskomiteen 
 * Leder av Fag- og kurskomiteen 
 * Leder av Profil- og aviskomiteen 
-* Leder av Trivselskomiteen”
+* Leder av Trivselskomiteen  
 
 **Med: **
 
@@ -114,6 +114,33 @@ Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere
 **Erstatt:** Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom.
 
 **Med:** Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
+
+## Forslag 3 - Spesifisere hvilke grupper som er Nodekomiteer. (Hovedstyret)
+
+**Erstatt**:  
+
+**4.3.4 Redaksjonen**  
+Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under kapittel 5, er ikke medlemmer av linjeforeningen.  
+**4.3.5 Informatikernes IT-ekskursjon**  
+Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.  
+**4.3.6 Casual gaming**  
+Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.  
+**4.3.7 Realfagskjelleren**  
+Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen.  
+
+
+**Med**:  
+
+**4.3.4 Informatikernes IT-ekskursjon**  
+Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.  
+
+**4.4 Andre grupper tilknyttet Online**  
+**4.4.1 Casual gaming**  
+Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.  
+**4.4.2 Realfagskjelleren**  
+Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen.  
+**4.4.3 Redaksjonen**  
+Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under kapittel 5, er ikke medlemmer av linjeforeningen.
 
 # Forslag til Onlines fonds vedtekter
 
@@ -224,31 +251,3 @@ oppfordre til gjenopptak av fondet. Dersom det går tre år etter oppløsningen 
 at fondet blir gjenopptatt, tilfaller fondets midler Online, linjeforeningen for informatikk. Om Online oppløses i dette tidsrommet skal midler som fondet disponerer overføres i henhold til Onlines vedtekter §7.2.  
 Onlines generalforsamling kan ved kvalifisert flertall umiddelbart overføre
 midler til andre organisasjoner som jobber for studenter.
-
-
-## Forslag 8 - Spesifisere hvilke grupper som er Nodekomiteer. (Aslak Hollund)
-
-**Erstatt**:  
-
-**4.3.4 Redaksjonen**  
-Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under kapittel 5, er ikke medlemmer av linjeforeningen.  
-**4.3.5 Informatikernes IT-ekskursjon**  
-Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.  
-**4.3.6 Casual gaming**  
-Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.  
-**4.3.7 Realfagskjelleren**  
-Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen.  
-
-
-**Med**:  
-
-**4.3.4 Informatikernes IT-ekskursjon**  
-Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.  
-
-**4.4 Andre grupper tilknyttet Online**  
-**4.4.1 Casual gaming**  
-Komiteens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.  
-**4.4.2 Realfagskjelleren**  
-Realfagskjellerens hovedoppgave er å opprettholde et sosialt lavterskeltilbud for studentene ved Volvox & Alkymisten, Delta, Spanskrøret og Online. Realfagskjelleren er frittstående fra linjeforeningen.  
-**4.4.3 Redaksjonen**  
-Komiteens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under kapittel 5, er ikke medlemmer av linjeforeningen.
