@@ -46,7 +46,7 @@ Komitéledere:
 * *Arrkom:* Johannes Kvamme
 * *Bankom:* Christoffer Lofsberg
 * *Bedkom:*  Adrian Thompson
-* *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
+* *Dotkom:* Ole Anders Stokker
 * *Fagkom:*  
 * *Prokom:*  Sebastian Ellefsen, Hanne Brynildsrud
 * *Trikom:*  Pål-Edward Larsen 
