@@ -39,7 +39,6 @@ title: "Dagsorden 2018"
 ### Årsberetninger
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1 | 16.45 | 16.46 | Forberedelse årsberetning |  |
 | 5 | 16.46 | 16.51 | Årsberetning Hovedstyret  |   |
 | 5 | 16.51 | 16.56 | Årsberetning Bank- og økonomikomiteen  |  |
 | 5 | 16.56 | 17.01 | Årsberetning Arrangementskomiteen  |   |
@@ -71,7 +70,6 @@ title: "Dagsorden 2018"
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1   | 18.51 | 18.52 | Forberedelse saksforslag |  |
 | 15   | 18.51 | 18.52 | Saksforslag 1 |  |
 | 15   | 18.51 | 18.52 | Saksforslag 2 |  |
 | 15   | 18.51 | 18.52 | Saksforslag 3 |  |
@@ -85,7 +83,6 @@ title: "Dagsorden 2018"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1   | 18.52 | 18.53 | Forberedelse saksforslag |  |
 | 20   | 18.52 | 18.53 | Vedtektsforslag 1 |  |
 | 15   | 18.52 | 18.53 | Vedtektsforslag 2 |  |
 | Total tid: | |1min|
@@ -95,7 +92,6 @@ title: "Dagsorden 2018"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 1   | 18.52 | 18.53 | Forberedelse saksforslag |  |
 | 10   | 18.52 | 18.53 | Vedtektsforslag 1 |  |
 | 10   | 18.52 | 18.53 | Vedtektsforslag 2 |  |
 | 10   | 18.52 | 18.53 | Vedtektsforslag 3 |  |
