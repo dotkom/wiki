@@ -89,7 +89,9 @@ title: "Dagsorden 2018"
 
 ## Pause 15 min
 
-### Vedtektsforslag
+## Fondets generalforsamling
+
+### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 10   | 18.52 | 18.53 | Vedtektsforslag 1 |  |
@@ -99,6 +101,14 @@ title: "Dagsorden 2018"
 | 10   | 18.52 | 18.53 | Vedtektsforslag 5 |  |
 | 10   | 18.52 | 18.53 | Vedtektsforslag 6 |  |
 | 10   | 18.52 | 18.53 | Vedtektsforslag 7 |  |
+| Total tid: | |1min|
+
+### Valg for fondet
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 10   | 18.52 | 18.53 | Valg av Onlinemedlem |  |
+| 10   | 18.52 | 18.53 | Valg av tidligere hovedstyremedlem |  |
+| 10   | 18.52 | 18.53 | Valg av ridder|  |
 | Total tid: | |1min|
 
 ## Pause 15 min
