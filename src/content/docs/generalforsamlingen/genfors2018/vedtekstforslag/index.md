@@ -98,7 +98,7 @@ Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlem
 
 * Leder 
 * Nestleder 
-* Økonomiansvarlig”
+* Økonomiansvarlig  
 
 **Med: ** 
 
@@ -115,7 +115,7 @@ Endre dagsorden slik at det velges Hovedstyre i forkant av valg av komitéledere
 
 **Med:** Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
 
-## Forslag 3 - Spesifisere hvilke grupper som er Nodekomiteer. (Hovedstyret)
+## Forslag 3 - Spesifisere hvilke grupper som er Nodekomiteer (Hovedstyret)
 
 **Erstatt**:  
 
