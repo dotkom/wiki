@@ -142,5 +142,5 @@ title: "Dagsorden 2018"
 ### Medaljeutdeling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 01.01  | 01.16  | Medaljeutdeling  |   |
+| 15 | 00.01  | 00.16  | Medaljeutdeling  |   |
 | Total tid: | |15 min|
