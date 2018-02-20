@@ -126,6 +126,40 @@ Våren 2018:
 
 ## Profil- og aviskomiteen
 
+- Tok opp ti medlemmer etter sommeren
+- Fire medlemmer sluttet, flere i permisjon
+- Byttet økonomiansvarlig to ganger ila året
+- Hatt medarbeidersamtaler på høsten
+
+### Grafisk:
+- Ga ut årboka før sommeren i fjor, solgte 49 stykker (i følge webshop)
+    - Jobber på årets utgave
+    - Tatt bilde av alle komiteene + nodekomiteer
+- Produserte profileringsmateriell for TechTalks
+    - Skjorter
+    - Flyers
+    - Bannere
+    - Plakater
+- Jobber med velkom for å lage profileringsmateriell til fadderukene
+- Gjennomført mindre produksjonsbestillinger
+- Så langt 52 bestillinger gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
+
+### Offline:
+- Gitt ut 3 utgaver, fjerde kommer i løpet av våren
+- Nytt grafisk design på Offlineutgavene fra sommeren av
+- Distribuert Offline til linjerforeninger/abonnenter
+- Er godt i gang med planlegging av Gullblekka 2018, sikter på å holde arrangementet før påske
+
+### Samarbeid med Abakus: 
+- Samarbeidet med PR om enkelte kurs/bedriftspresentasjoner og arrangementer
+- Samarbeidet med PR om bildetagning på hverandres immatrikuleringsball
+- Planlegger sosiale kvelder med både PR og readme på våren
+
+### Annet:
+- Samarbeidet med trikom om utgivelse av Månedens Triveligste på OW
+- Holdt CV-fotografering på høsten, med hjelp av Endre Ulberg
+- Bestilt ekstra pins og daljer som vi gikk tom for
+
 ## Trivselskomiteen
 
 ## Seniorkomiteen
