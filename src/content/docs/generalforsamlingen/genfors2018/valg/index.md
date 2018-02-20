@@ -22,7 +22,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Arrkom:* Johannes Kvamme  
 * *Bedkom:*  Adrian Thompson
 * *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
-* *Fagkom:*  
+* *Fagkom:*  Andreas Aursand
 * *Prokom:*  Sebastian Ellefsen, Hanne Brynildsrud
 * *Trikom:*  Pål-Edward Larsen 
 
@@ -47,7 +47,7 @@ Komitéledere:
 * *Bankom:* Christoffer Lofsberg
 * *Bedkom:*  Adrian Thompson
 * *Dotkom:* Ole Anders Stokker
-* *Fagkom:*  
+* *Fagkom:*  Andreas Aursand
 * *Prokom:*  Sebastian Ellefsen, Hanne Brynildsrud
 * *Trikom:*  Pål-Edward Larsen 
 
