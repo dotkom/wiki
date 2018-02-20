@@ -13,6 +13,30 @@ title: "Årsberetninger 2018"
 [TOC]
 
 ## Hovedstyret
+* Vi har åpnet for at alle Onlinemedlemmer kan søke om kontortilgang.
+* Sendt ut spørreundersøkelse etter fadderukene og immballet.
+* Det har blitt avholdt fire åpne Hovedstyremøter, der totalt 10 forskjellige onlinere har møtt opp.
+* Online har endelig fått sitt eget band.
+* Risikoanalyse av kompileringen har for første gang blitt gjennomført.
+* Byttet bod fra IT-vest til IT-syd, som deles med to-tre andre foreninger.
+* Vi har gjennomført ekstraordinær generalforsamling, der det ble bestemt at vi skulle ha en prøveordning med en kommunikasjonsansvarlig i Hovedstyret, og Onlines fond ble opprettet.
+* Prøveordningen med en kommunikasjonsansvarlig er blitt gjennomført, og vi har ikke sett de resultatene vi ønsket å se. Vi kommer derfor ikke til å fremme et nytt forslag om å ta kommunikasjonsansvarlig inn i Hovedstyret permanent. I stedenfor er det en sjanse for at eksponeringsgruppen blir opprettet i stedenfor (På samme måte som med progruppa for noen år siden).
+* Søkt IDI om støtte for 2018, og fått innvilget 60.000,-. De har vi fordelt på følgende vis:
+     * (Kommer snart)
+* Seniorkom har tatt over 
+* Støttet StartIT og datakameratene. Støtten til datakameratene har økt med 2000,- for å kunne leie bane til trening og kamp.
+* Leder og nestleder av velkom 2018 er satt, og hjulpet i gang med opptak av flere medlemmer.
+* Leder og nestleder av ekskom 2019 ble valgt på infomøte om ekskursjonen for andreklasse.
+* Inngått avtale med ITDagene om eksklusivitet.
+* Fortsatt initiativet til den årlige hytteturen med styrene i Abakus, Tihlde, Login og Hybrida. Denne gangen med hjelp av Abakus.
+* Startet en ny informatikkgruppe, som ligger utenfor NTNU-gruppen. Dette gjør det enklere for alle onlinere å melde seg inn i gruppen.
+* Jobbet mye for å få samlokaliseringen til å bli best mulig for informatikk og Online. Vi har fått mye hjelp av Endre Ulberg og Martin Bjerke til dette.
+    * Vi har flyttet kontoret en gang, og det må nok flyttes nok en gang ila semesteret. 
+    * Informatikk og Datateknologi flytter til A-blokken i realfagsbygget til høsten, også kommer IDI Kalvskinnet etter i 2019/2020.
+* Vi har innført en time med Smashfri på kontoret, og fikk gode tilbakemeldinger på dette. Usikker på om det fortsatt opprettholdes.
+* Bestemt at det nå skal avholdes avslutningsfest for tredjeklasse, slik at de som gir seg etter bachelor også får en verdig avslutning.
+* Vi endret julekortbildet fra å være et bilde av kun Hovedstyret, til at de som ville kunne være med. Det var rundt 80-90 som valgte å bli med.
+* Realfagskjelleren blir nå invitert til hvert Hovedstyremøte, for å legge til rette for bedre samarbeid med Realfagskjelleren.
 
 ## Arrangementskomiteen
 
