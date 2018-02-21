@@ -6,7 +6,7 @@ Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og d
 
 ## Beliggenhet
 
-Kontoret fyller rom 303 i [Høgskoleringen 3](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=h%C3%B8gskoleringen+3&aq=&sll=63.418013,10.406225&sspn=0.002048,0.007923&ie=UTF8&hq=&hnear=H%C3%B8gskoleringen+3,+7034+Trondheim,+S%C3%B8r-Tr%C3%B8ndelag,+Norway&ll=63.4184,10.405898&spn=0.00819,0.031693&z=16) på Gløshaugen. 
+Kontoret fyller rom 503 i [Høgskoleringen 3](http://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=h%C3%B8gskoleringen+3&aq=&sll=63.418013,10.406225&sspn=0.002048,0.007923&ie=UTF8&hq=&hnear=H%C3%B8gskoleringen+3,+7034+Trondheim,+S%C3%B8r-Tr%C3%B8ndelag,+Norway&ll=63.4184,10.405898&spn=0.00819,0.031693&z=16) på Gløshaugen. 
 
 ## Åpningstider
 
