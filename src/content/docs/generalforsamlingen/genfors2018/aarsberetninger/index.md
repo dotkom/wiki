@@ -199,6 +199,14 @@ Våren 2018:
 - Laget etterskriv til ekskom19 for de forskjellige ansvarsområdene. 
 
 ## IT-ekskursjonen
+- Tok opp 3 medlemmer våren 2017 og 6 medlemmer høsten 2017.
+- Totalt 5 aktive medlemmer som arrangerte turen.
+- 70 studenter var med på turen
+- Turen varte fra 29. august til 1. september
+- 9 Bedrifter ble besøkt, hvorav 2 av dem var ikke-konsulentbedrifter
+- Flyreise, transport til og fra bedrifter og flyplass, og 3 netters hotellopphold ble dekket av bedriftene.
+- Opprettet et samarbeid med erfaringsoverføring mellom Bedex (Abakus) og ITEX for å bedre begge turene.
+- Fikk ITEX inn i produktarket til Online og bookingrunden til bedkom og fagkom slik at bedriftene kan melde interesse.
 
 ## Velkomstkomiteen 2017
 
