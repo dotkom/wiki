@@ -22,7 +22,10 @@ title: "Årsberetninger 2018"
 * Vi har gjennomført ekstraordinær generalforsamling, der det ble bestemt at vi skulle ha en prøveordning med en kommunikasjonsansvarlig i Hovedstyret, og Onlines fond ble opprettet.
 * Prøveordningen med en kommunikasjonsansvarlig er blitt gjennomført, og vi har ikke sett de resultatene vi ønsket å se. Vi kommer derfor ikke til å fremme et nytt forslag om å ta kommunikasjonsansvarlig inn i Hovedstyret permanent. I stedenfor er det en sjanse for at eksponeringsgruppen blir opprettet i stedenfor (På samme måte som med progruppa for noen år siden).
 * Søkt IDI om støtte for 2018, og fått innvilget 60.000,-. De har vi fordelt på følgende vis:
-     * (Kommer snart)
+     * 20.000 til Onlines band
+     * 20.000 til immatrikuleringsballet
+     * 10.000 til kontoret (For å holde standaren oppe når vi flytter)
+     * 10.000 til masterfadderuker
 * Seniorkom har tatt over 
 * Støttet StartIT og datakameratene. Støtten til datakameratene har økt med 2000,- for å kunne leie bane til trening og kamp.
 * Leder og nestleder av velkom 2018 er satt, og hjulpet i gang med opptak av flere medlemmer.
