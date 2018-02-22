@@ -164,8 +164,6 @@ Våren 2018:
 
 ## Seniorkomiteen
 
-## Applikasjonskomiteen
-
 ## Ekskursjonskomiteen 2018
 
 ### Turen
