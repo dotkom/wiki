@@ -168,6 +168,24 @@ Våren 2018:
 
 ## Ekskursjonskomiteen 2018
 
+### Turen
+- Planlagt tur til Seoul i Sør-Korea(+ Japan og Thailand) 18. mars - 2. april
+- 49 informatikere på tur
+- Fem dager med bedrift- og universitetsbesøk. 
+- Fri uke hvor deltakerne deler seg opp i tre land(Sør-Korea, Thailand og Japan).
+
+### Økonomi
+- Arrangert dugnader for å samle inn midler til turen, både privat og gjennom IDI.
+- Arrangert Tech Talks 5. februar 2018 med suksess. Hadde 7 sponsorer. 
+- Alt overskudd føres tilbake til deltakerne. 
+
+### Administrativt
+- 8 medlemmer med ulike ansvarsområder
+- Samarbeidet med IDI om turen.
+- Startet opp ekskom19 ved valg av leder og nestleder.
+- Hjulpet ekskom19 i gang.
+- Laget etterskriv til ekskom19 for de forskjellige ansvarsområdene. 
+
 ## IT-ekskursjonen
 
 ## Velkomstkomiteen 2017
