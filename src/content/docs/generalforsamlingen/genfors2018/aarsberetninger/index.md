@@ -45,6 +45,17 @@ title: "Årsberetninger 2018"
 
 ## Bank- og økonomikomiteen
 
+- Har innført uavhengig nestleder som ikke har ansvar for egen komité
+- Laget ny kontoplan
+- Gått over til digital regnskapsføring fra 2018
+- Nye rutiner i komiteen
+- Ført og revidert regnskap 2017
+- Satt opp revidert budsjett for v18
+- Satt opp budsjett for h18/v19
+- Fått nye medlemmer fra flere komiteer
+- Nye rutiner på innbetalinger og fakturering
+- Vært på regnskapskurs og mva-kurs
+
 ## Bedriftskomiteen
 
 * Har tatt opp åtte medlemmer, derav fire er førsteklassinger, to andreklassinger og to fjerdeklassinger. Vi er totalt 18 nå, med to i permisjon. 
