@@ -48,16 +48,15 @@ title: "Dagsorden 2018"
 | 2 | 16.44 | 16.46 | Årsberetning Profil- og aviskomiteen  |   |
 | 2 | 16.46 | 16.48 | Årsberetning Trivselskomiteen  |   |
 | 2 | 16.48 | 16.50 | Årsberetning Seniorkomiteen  |   |
-| 2 | 16.50 | 16.52 | Årsberetning Applikasjonskomiteen  |   |
-| 2 | 16.52 | 16.54 | Årsberetning Ekskursjonskomiteen 2018  |   |
-| 2 | 16.54 | 16.56 | Årsberetning IT-ekskursjonen  |   |
-| 2 | 16.56 | 16.58 | Årsberetning Velkomstkomiteen 2017  |   |
-| 2 | 16.58 | 17.00 | Årsberetning Datakameratene FK  |    |
-| 2 | 17.00 | 17.02 | Årsberetning Realfagskjellern  |   |
-| 3 | 17.02 | 17.05 | Årsberetning Casual Gaming  |   |
-| Total tid: | |25 min|
+| 2 | 16.50 | 16.52 | Årsberetning Ekskursjonskomiteen 2018  |   |
+| 2 | 16.52 | 16.54 | Årsberetning IT-ekskursjonen  |   |
+| 2 | 16.54 | 16.56 | Årsberetning Velkomstkomiteen 2017  |   |
+| 2 | 16.56 | 16.58 | Årsberetning Datakameratene FK  |    |
+| 2 | 16.58 | 17.00 | Årsberetning Realfagskjellern  |   |
+| 2 | 17.00 | 17.02 | Årsberetning Casual Gaming  |   |
+| Total tid: | |22 min|
 
-## Pause 15 minutter
+## Pause 18 minutter
 
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
