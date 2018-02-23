@@ -213,5 +213,18 @@ Våren 2018:
 ## Datakameratene FK
 
 ## Realfagskjelleren
+-        Tok opp to medlemmer ifra Online til kjellerstyret, Sander Lindberg og Eigil Hjelmstad
+
+-        Med økonomisk støtte fra linjeforeningene fikk vi kjøpt et kassaapparat som vi nå eier. Dette er et av kravene so trengs for å kunne åpne kjellerne ordentlig igjen
+
+-        I løpet av dette året har vi holdt arrangementer i Gamle Moholt Barnehage i regi av Reddkjellerne, dette har fungert veldig bra, og vi er fornøyde over å ha hatt den muligheten. Vi er også den kjelleren som har hatt mest åpent og Reddkjellerne er svært fornøyde med den jobben vi har gjort.
+
+-        Samarbeidet med Delta, Spanskrøret og Volvox & Alkymisten fortsetter å fungere bra og kommer til fortsette
+
+-        Vi har hatt ekstraordinært årsmøte og valgt Leder, Nestleder og Økonomiansvarlig for neste år. Rolf Klokkerengen (Spanskrøret), Håkon Espeland (Volvox & Alkymisten) og Sigurd Oxaas Wie (Online).
+
+-        Vi vil motta nøkkelen til den nye kjelleren (HK 12), 15. Mars. Vi driver og planlegge oppussing (maling, bygge nye benker, bar!) Denne oppussingen kommer til å være åpen og alle er velkommen til være med hvis de ønsker, så bare ta kontakt.
+
+-        Forhåpentligvis kan vi har en ordentlig åpning etter påske slik at kjelleren kan fortsette og være det lavterskeltilbudet den har vært tidligere.
 
 ## Casual Gaming
