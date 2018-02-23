@@ -180,14 +180,16 @@ Våren 2018:
 
  - Tatt opp 8 personer gjennom året
  - Utnevnt nestleder
- - Byttet økonomiansvarlig to ganger. 
+ - Byttet økonomiansvarlig to ganger
 
  Vår/høst 2017
+
  - Arrangert utmatrikulering
  - Arrangert masterfadderuke i samarbeid med velkom
  - Arrangert komitekickoff
 
  Vår 2018
+
  - Tatt over ansvaret for interessegrupper
  - Arrangert reboot i samarbeid med arrkom
  - Begynt arbeid på neste utmatrikulering
