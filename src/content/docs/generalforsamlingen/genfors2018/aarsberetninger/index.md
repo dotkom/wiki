@@ -43,6 +43,68 @@ title: "Årsberetninger 2018"
 
 ## Arrangementskomiteen
 
+
+**Vår 2018**  
+
+* Låvefest ingen dato satt - påmelding kommer
+* paintball ingen dato satt - påmelding kommer
+
+* utmatrikulering (bachelor) 6. juni - påmelding kommer
+* Eksamensfest 31. mai - Ingen påmelding
+* 17.mai middag - Påmelding kommer  
+* Høyt & Lavt  15. april - påmelding kommer
+* Studenterhytta 16. mars - påmelding kommer  
+* trampolinepark 13.mars - påmelding kommer
+* Klatring 11. mars - Ingen påmelding. 
+* VorsNachfest 02. mars (Ikke riktig dato) - påmelding kommer. 
+
+* Reboot(komité) 22. februar - Ingen påmelding.    
+* Vinter-OL 17. februar - 13 påmeldte.  
+* X-fest 12. februar - Ingen påmelding.
+* Åre 14-18. januar - 178 påmeldte.  
+
+**Høst 2017**  
+
+* Eksamensfest 14. desember - Ingen påmelding.    
+* Curling 22. november - 23 påmeldte
+* Julebord(komité) 14. november - 100 påmeldte. 
+* Scavenger hunt 13.oktober - 4 deltakere 
+* Blåtur 22. september - 56 påmeldte.  
+* Immball 9. september - 250 påmeldte.  
+
+**Statistikk**  
+
+Antall registrerte deltagere høst: 433 stk.  
+Antall registrerte deltagere vår:  191 stk.  
+Antall registrerte deltagere totalt: 624 stk.  
+
+Antall arrangement høst: 6 stk.  
+Antall arrangement vår: 4 stk. Potensielt 14 stk.
+
+Antall arrangementer med andre linjeforeninger: 2 stk. Potensielt 3 stk. 
+
+Antall alkoholarrangementer: 13 totalt. 4 vår, 4 potensielt 9 vår.  
+Antall ikke-alkoholarrangementer: 7 totalt. 2 høst, potensielt 5 vår.  
+
+Antall nye arrangementer: 5 totalt. 2 høst, 3 vår.
+
+Opptak/medlemmer
+------------------
+* 6 nye medlemmer (5 førsteklassinger, 1 andreklassing)  
+* 3 permittert (1 pga jobb, 1 pga overgang til seniorkom, 1 pga ferdig med verv)  
+
+Nodekomiteer
+------------------
+
+** Jubkom **  
+--   
+
+** VelKom **  
+Startet opp vår 2018.    
+Leder: Charlotte Söderström, nestleder: Thomas Iversen Ramm. 
+opptak pågår.  
+
+
 ## Bank- og økonomikomiteen
 
 - Har innført uavhengig nestleder som ikke har ansvar for egen komité
