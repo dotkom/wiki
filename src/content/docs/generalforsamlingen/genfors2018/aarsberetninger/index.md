@@ -97,7 +97,7 @@ Nodekomiteer
 ------------------
 
 ** Jubkom **  
---   
+------------------   
 
 ** VelKom **  
 Startet opp vår 2018.    
