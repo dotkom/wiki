@@ -176,6 +176,54 @@ Våren 2018:
 
 ## Trivselskomiteen
 
+### Arrangementer
+
+#### Vår 2017
+* Eurovision
+* Frokost på 17. mai.
+* Eksamensgrilling
+
+#### Høst 2017
+* Seriefrokost med Black Mirror (11)
+* Fotballkamp på kontoret
+* Overnattingstur i Estenstadmarka
+* Code in the dark
+* Juleverksted
+* Julegrøtfest
+* Secret Santa
+* Premiere på Star Wars
+
+#### Vinter 2018
+* Seriefrokoster (4 hittil)
+* Forsøk på handletur til Storlien
+#### Fremover
+* Seriefrokost
+* Filmkvelder
+* Kinopremierer i eksamensperioden
+* Frokost på 17. mai
+* Eurovision
+* Turer
+* ++
+
+### Kontordrift
+* Pusset opp kontoret i 3. etasje før fadderukene i august. 
+* Flyttet kontoret opp til 5. etasje i januar.
+* Ny kaffetrakter er kjøpt inn.
+* Smashpause midt på dagen, for triveligere lunsj.
+* Te er nå en del av kaffeavtalen med Netlight.
+* Innført flere, litt sunnere alternativer i kiosken.
+
+### Medlemmer
+
+Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
+
+### Annet 
+
+* Kjøpt andel i Trondheim Bilkollektiv.
+* Delt ut tittelen "Månedens triveligste" for å oppmuntre til god kultur på kontoret.
+* Har gitt 36 medlemmer kontortilgang (etter vedtak på forrige ordinære genfors)
+
+
 ## Seniorkomiteen
 
  - Tatt opp 8 personer gjennom året
