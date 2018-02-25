@@ -58,6 +58,7 @@ title: "Årsberetninger 2018"
 * Gitt fem personer diplom for særdeles utmerkelse.
 * Nominert 18 personer til riddere.
 * Gjennomført kompilering av ca 100 medlemmer.
+* Gitt ut sosialt medlemskap til 14 personer som tar informatikkfag og skal bytte til informatikk.
 
 
 
