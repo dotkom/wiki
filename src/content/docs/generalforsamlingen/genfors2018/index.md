@@ -20,8 +20,8 @@ Referat fra ekstraordinær generalforsamling 2017 finner du her: [attachment:457
 
 ## Regnskap 2017 og budsjett 18/19
 
-[Regnskap 2017](https://docs.google.com/spreadsheets/d/1mUJOuJjMbXFp45g5Srob9HztrfIHFNxj1TpLq4gaA50/edit?usp=sharing)
-[Budsjetter 18/19](https://docs.google.com/spreadsheets/d/1wY1QyZkdb_clf4aUz1KP11pRvQeCV99cuxLE-cVSGdI/edit?usp=sharing)
+- [Regnskap 2017](https://docs.google.com/spreadsheets/d/1mUJOuJjMbXFp45g5Srob9HztrfIHFNxj1TpLq4gaA50/edit?usp=sharing)
+- [Budsjetter 18/19](https://docs.google.com/spreadsheets/d/1wY1QyZkdb_clf4aUz1KP11pRvQeCV99cuxLE-cVSGdI/edit?usp=sharing)
 
 ## Referat fra årets generalforsamling
  
