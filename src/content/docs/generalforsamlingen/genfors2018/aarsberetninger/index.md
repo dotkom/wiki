@@ -335,6 +335,10 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
 - Fikk ITEX inn i produktarket til Online og bookingrunden til bedkom og fagkom slik at bedriftene kan melde interesse.
 
 ## Velkomstkomiteen 2017
+- Velkom besto av 13 medlemmer, inkludert leder og nestleder.  
+- Alle som søkte fikk tilbud om å være med.  
+- Vi hadde en fra prokom som sto for t-skjorter, brosjyrer og annet profilmateriale. Vi hadde også en fra bedkom, som tok ansvar for sponsorer.  
+- Vi hadde 16 faddergrupper, som besto av ca 7-10 fadderbarn, og 3-4 faddere. Dette fungerte godt, og økte mulighetene for sammenslåing av flere faddergrupper til ulike anledninger.   
 
 ## Datakameratene FK
 
