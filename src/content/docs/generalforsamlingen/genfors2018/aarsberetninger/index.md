@@ -143,34 +143,33 @@ opptak pågår.
 - Tok opp 7 nye medlemmer
 
 ### OW4
-- //Totalt 85877 linjer kode, 7297 linjer med kommentarer fordelt over 741 filer (per 13.04.2017)
-- //Har passert 7000 commits på OW4, samt over 270 tags/releases.
-- Over 50 releases det siste året.
-- //108 nye issues siste året, 69 av dem er nå lukket.
+- Har passert 7000 commits på OW4, samt over 270 tags/releases.
+- Har hatt over 50 releases det siste året.
+- 30 nye issues siste året, 24 av dem er nå lukket.
 - 112 PRs siste året, 104 av dem er nå lukket.
-- Laget ny interessegruppeside, kontaktside
-- Har åpnet wikien for redigering for alle med onlinebruker, og i den sammenheng fått bedre monitorering av wikien. 
+- Laget ny interessegruppeside, kontaktside og karriereside
+- Har åpnet wikien for redigering for alle med onlinebruker, og i den sammenheng fått bedre monitorering av wikien.
+- Har åpnet påmeldinglistene på sosiale arrangementer.
 
 
 ### Andre prosjekter
-* //Regme (nytt oppmøteregistreringssystem):
-    - 350 commits siste året.
-    - Skrevet i React.JS mot API-et til OW4.
-- Ferdigstilt stemmesystemet til generalforsamlingen.
-- Tatt over driften av grades.no
+- Har ferdigstilt stemmesystemet til generalforsamlingen.
+- Har utviklet komitésøknadsapplikasjonen opptak.online.
 - Startet 2 nye prosjekter, events og soknad.online
-
+    - Events ser på hvordan vi surfacer arrangementer på onlinewebben.
+    - soknad.online skal gjøre opptak.online til en portal for alle søknader i Online.  
+- Gjennoppstartet utviklingen på NotiWall, Notifire og NotiWire. 
+- Nibble
+    - Utviklet Nibble2 med React og Node.js
+    - Kjøpt ny maskin til systemet.
+- Utvilket backupsystemet Loft
 
 
 ### Drift
+- Tatt over driften av grades.no
 - Begynt å kjøre mindre tjenester i skyen, f.eks. grades.no.
 - Fått nytt subnet til serverne som er på gløshaugen, men ikke byttet over ennå.
 - Fått nye foreninger inn på serverrommet. Først Hackerspace, så muligens Tihlde og Elektra.
-
-
-### E-post
-- //Gått over fra Postfix og Sympa til G Suite (tidl. Google Apps). Alle komitemedlemmer har nå en egen Google-konto i *@online.ntnu.no-domenet, som all komiteepost kommer på.
-- //Gikk overraskende greit, men krevde en god del jobb. Fortsatt et par småting som gjenstår, men som ikke haster. Enda.
 
 ## Fag- og kurskomiteen
 
