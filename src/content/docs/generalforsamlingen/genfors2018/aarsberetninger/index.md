@@ -163,7 +163,6 @@ opptak pågår.
 
 
 ### Drift
-- Tatt over driften av grades.no.
 - Begynt å kjøre mindre tjenester i skyen, f.eks. grades.no.
 - Fått nytt subnet til serverne som er på gløshaugen, men ikke byttet over ennå.
 - Fått nye foreninger inn på serverrommet. Først Hackerspace, så muligens Tihlde og Elektra.
