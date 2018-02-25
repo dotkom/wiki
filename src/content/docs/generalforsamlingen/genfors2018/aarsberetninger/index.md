@@ -21,25 +21,45 @@ title: "Årsberetninger 2018"
 * Byttet bod fra IT-vest til IT-syd, som deles med to-tre andre foreninger.
 * Vi har gjennomført ekstraordinær generalforsamling, der det ble bestemt at vi skulle ha en prøveordning med en kommunikasjonsansvarlig i Hovedstyret, og Onlines fond ble opprettet.
 * Prøveordningen med en kommunikasjonsansvarlig er blitt gjennomført, og vi har ikke sett de resultatene vi ønsket å se. Vi kommer derfor ikke til å fremme et nytt forslag om å ta kommunikasjonsansvarlig inn i Hovedstyret permanent. I stedenfor er det en sjanse for at eksponeringsgruppen blir opprettet i stedenfor (På samme måte som med progruppa for noen år siden).
+* Innført gratis kaffe på alle mastersalene til IDI som en utvidet del av avtalen med kaffesponsor.
+* Gjennomført kurs i ledelse og arbeidsmiljø og møteledelse og møtefasilitering for alle i styret ledere av nodekomiteer og noen nestledere i samarbeid med Sit.
+* Gjennomført kurs for alle tillitsvalgte i samarbeid med Sit.
+* Bedret kommunikasjonen med Hackerspace og hvilke retningslinjer som skal gjelde.
+* Forbedret forholdet til Tihlde og Login. Hjulpet Tihlde med erfaringer og tips for at de skal kunne ekspandere og bli bedre.
+* Opprettet tre nye interessegrupper: Sjadam, Sjampismandag og Traveline
 * Søkt IDI om støtte for 2018, og fått innvilget 60.000,-. De har vi fordelt på følgende vis:
      * 20.000 til Onlines band
      * 20.000 til immatrikuleringsballet
      * 10.000 til kontoret (For å holde standaren oppe når vi flytter)
      * 10.000 til masterfadderuker
-* Seniorkom har tatt over 
+* Seniorkom har tatt over ansvaret for interessegrupper
 * Støttet StartIT og datakameratene. Støtten til datakameratene har økt med 2000,- for å kunne leie bane til trening og kamp.
 * Leder og nestleder av velkom 2018 er satt, og hjulpet i gang med opptak av flere medlemmer.
 * Leder og nestleder av ekskom 2019 ble valgt på infomøte om ekskursjonen for andreklasse.
 * Inngått avtale med ITDagene om eksklusivitet.
 * Fortsatt initiativet til den årlige hytteturen med styrene i Abakus, Tihlde, Login og Hybrida. Denne gangen med hjelp av Abakus.
 * Startet en ny informatikkgruppe, som ligger utenfor NTNU-gruppen. Dette gjør det enklere for alle onlinere å melde seg inn i gruppen.
-* Jobbet mye for å få samlokaliseringen til å bli best mulig for informatikk og Online. Vi har fått mye hjelp av Endre Ulberg og Martin Bjerke til dette.
+* Jobbet mye for å få samlokaliseringen til å bli best mulig for informatikk og Online. Vi har fått mye hjelp av Endre Ulberg og Martin Bjerke til dette (Blant annet har vi hatt mange møter med Abakus og Tihlde, skrevet et skriv til ledelsen om situasjonen og forslag til løsninger, hatt møte med Dekanen, møtt rektor og andre sentrale personer).
     * Vi har flyttet kontoret en gang, og det må nok flyttes nok en gang ila semesteret. 
     * Informatikk og Datateknologi flytter til A-blokken i realfagsbygget til høsten, også kommer IDI Kalvskinnet etter i 2019/2020.
-* Vi har innført en time med Smashfri på kontoret, og fikk gode tilbakemeldinger på dette. Usikker på om det fortsatt opprettholdes.
+* Vi har innført en time med Smashfri på kontoret, og fikk gode tilbakemeldinger på dette.
 * Bestemt at det nå skal avholdes avslutningsfest for tredjeklasse, slik at de som gir seg etter bachelor også får en verdig avslutning.
 * Vi endret julekortbildet fra å være et bilde av kun Hovedstyret, til at de som ville kunne være med. Det var rundt 80-90 som valgte å bli med.
 * Realfagskjelleren blir nå invitert til hvert Hovedstyremøte, for å legge til rette for bedre samarbeid med Realfagskjelleren.
+* ITV har også blitt invitert til hvert Hovedstyremøte
+* Gjennomført økonomi- og vedtektskveld og workshop for å diskutere saker som angår Online.
+* Sendt ut infomail ukentlig.
+* Stått på stands på Teknologidagen, Teknologicampen, Kom-i-gang dagen, og for internasjonale studenter.
+* Representert Online på IDIs semestermøter.
+* Gjennomført julekalender med spørsmål hver dag og julenøtter hver søndag.
+* Gjennomført Movemberinnsamling.
+* Delte ut pepperkaker på de store eksamenene før jul og godteri på de store eksamenen før sommeren.
+* Åpnet opp for at alle komitemedlemmer kan representere Online på andre linjeforeningers immatrikuleringsball når ikke HS kan.
+* Gitt fem personer diplom for særdeles utmerkelse.
+* Nominert 18 personer til riddere.
+* Gjennomført kompilering av ca 100 medlemmer.
+
+
 
 ## Arrangementskomiteen
 
