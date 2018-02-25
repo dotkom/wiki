@@ -125,11 +125,13 @@ opptak pågår.
 * 5 muligheter-e-poster sendt ut.
 * Bookingrunden gjennomført begge semestre.
 * Signert ny hovedsamarbeidsavtale med Knowit.
+* Te er inkludert i kaffeavtalen.
 
 ### Høstsemesteret 2017
 
 * Skaffet én gullsponsor og tre sølvsponsorer til fadderperioden.
 * To bedriftsarrangementer for 1. klasse i fadderperioden.
+* Fire bedrifter var med på rebusen.
 * Ti bedriftspresentasjoner.
 * Tre KID-arrangementer. Ett i fadderperioden for førsteklasse og to i løpet av semesteret.
 * Skaffet syv sponsorer til TechTalks
