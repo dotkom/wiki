@@ -52,9 +52,10 @@ title: "Årsberetninger 2018"
 * Støttet StartIT og datakameratene. Støtten til datakameratene har økt med 2000,- for å kunne leie bane til trening og kamp.
 
 ### Samlokalisering
-* Jobbet mye for å få samlokaliseringen til å bli best mulig for informatikk og Online. Vi har fått mye hjelp av Endre Ulberg og Martin Bjerke til dette (Blant annet har vi hatt mange møter med Abakus og Tihlde, skrevet et skriv til ledelsen om situasjonen og forslag til løsninger, hatt møte med Dekanen, møtt rektor og andre sentrale personer).
+* Jobbet mye for å få samlokaliseringen til å bli best mulig for informatikk og Online. Vi har fått mye hjelp av Endre Ulberg og Martin Bjerke til dette.
     * Vi har flyttet kontoret en gang, og det må nok flyttes nok en gang ila semesteret. 
     * Informatikk og Datateknologi flytter til A-blokken i realfagsbygget til høsten, også kommer IDI Kalvskinnet etter i 2019/2020.
+* Vi har hatt mange møter med Abakus og Tihlde, skrevet et skriv til ledelsen om situasjonen og forslag til løsninger, hatt møte med Dekanen, møtt rektor og andre sentrale personer.
 
 ### Komiteer og interessegrupper
 * Seniorkom har tatt over ansvaret for interessegrupper
