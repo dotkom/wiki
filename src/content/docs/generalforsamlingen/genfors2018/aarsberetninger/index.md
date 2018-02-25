@@ -88,18 +88,15 @@ Antall ikke-alkoholarrangementer: 7 totalt. 2 høst, potensielt 5 vår.
 
 Antall nye arrangementer: 5 totalt. 2 høst, 3 vår.
 
-Opptak/medlemmer
-------------------
+### Opptak/medlemmer
+
 * 6 nye medlemmer (5 førsteklassinger, 1 andreklassing)  
 * 3 permittert (1 pga jobb, 1 pga overgang til seniorkom, 1 pga ferdig med verv)  
 
-Nodekomiteer
-------------------
-
-** Jubkom **  
-------------------   
-
-** VelKom **  
+### Nodekomiteer
+  
+#### Velkomstkomiteen
+ 
 Startet opp vår 2018.    
 Leder: Charlotte Söderström, nestleder: Thomas Iversen Ramm. 
 opptak pågår.  
@@ -354,3 +351,12 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
 -        Forhåpentligvis kan vi har en ordentlig åpning etter påske slik at kjelleren kan fortsette og være det lavterskeltilbudet den har vært tidligere.
 
 ## Casual Gaming
+* Arrangert tre LAN, to på høsten og ett på våren
+     * To av dem var åpne kun for studenter (studLAN)
+     * Ett var åpent for allmennheten (trøndeLAN)
+* Vi har hatt 254 betalende medlemmer.
+* Arrangert tre konsoll- og brettspillkvelder, hvor to av disse i samarbeid med Trondheim Smash.
+* Valgt nytt styre, 12. Februar, hvor tre stillinger holdes av medlemmer i Online:
+    * Leder: Mathias Flått
+    * Coord: Per Morten Solheim
+    * Tech: Vestein Dahl
