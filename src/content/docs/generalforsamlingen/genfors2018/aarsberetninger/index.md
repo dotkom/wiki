@@ -163,8 +163,11 @@ opptak pågår.
 
 
 ### Drift
-- //Har startet å se mer mot skyen for kritiske ting ettersom det virker som NTNU ikke bryr seg så veldig om lokale servere. Har planer om å satse i større grad fra høsten av.
-- //Kommer til å fortsette å drifte ting lokalt, som f.eks. filområder, mindre viktige tjenester og ha muligheten for å leke og lære litt om drift av servere på serverne som ikke drifter kritiske ting (slik som i dag).
+- Tatt over driften av grades.no.
+- Begynt å kjøre mindre tjenester i skyen, f.eks. grades.no.
+- Fått nytt subnet til serverne som er på gløshaugen, men ikke byttet over ennå.
+- Fått nye foreninger inn på serverrommet. Først Hackerspace, så muligens Tihlde og Elektra.
+
 
 ### E-post
 - //Gått over fra Postfix og Sympa til G Suite (tidl. Google Apps). Alle komitemedlemmer har nå en egen Google-konto i *@online.ntnu.no-domenet, som all komiteepost kommer på.
