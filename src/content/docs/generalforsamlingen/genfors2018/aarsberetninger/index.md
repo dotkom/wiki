@@ -338,7 +338,16 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
 - Velkom besto av 13 medlemmer, inkludert leder og nestleder.  
 - Alle som søkte fikk tilbud om å være med.  
 - Vi hadde en fra prokom som sto for t-skjorter, brosjyrer og annet profilmateriale. Vi hadde også en fra bedkom, som tok ansvar for sponsorer.  
-- Vi hadde 16 faddergrupper, som besto av ca 7-10 fadderbarn, og 3-4 faddere. Dette fungerte godt, og økte mulighetene for sammenslåing av flere faddergrupper til ulike anledninger.   
+- Vi hadde 16 faddergrupper, som besto av ca 7-10 fadderbarn, og 3-4 faddere. Dette fungerte godt, og økte mulighetene for sammenslåing av flere faddergrupper til ulike anledninger.  
+- Det var også 4 masterfaddergrupper, som seniorkom hadde ansvaret for. De hadde noen arrangementer på egenhånd, men deltok på en god del av det vi planla.  
+- Inviterte Lykkepromillen for å ha kurs for fadderne på infomøtet, det var nyttig. Hadde også fadder-kickoff på Fjordgata samme kveld, kun fadderne.  
+- Arrangerte grilling for fadderbarna dagen før immatrikulering, noe vi syntes fungerte godt. Fadderbarna fikk møtt hverandre og fadderne, og det var bra oppmøte.  
+- Videreførte edrufadderopplegget fra året før, noe som fungerte bra. Hadde alternative opplegg på Pirbadet, Arena Trondheim og kino. Litt variasjon i oppmøte, men Arena Trondheim hadde veldig bra oppmøte.  
+- Innførte komitéspeeddating, noe som resulterte i rekordstort antall søkere til komité. Fungerte utmerket!  
+- Innførte kontaktpersonsystem, slik at alle faddergrupper hadde mulighet til å kontakte noen i velkom dersom det skulle være noe. Ble brukt i liten grad, men synes det var en fin mulighet for fadderbarna å ha.  
+- Arrangerte fellesfest med Abakus, det fungerte også godt.  
+- Brukte i år også blå bånd som alle informatikere som deltok på arrangement fikk, slik at de ble sluppet inn på utestedene.  
+ 
 
 ## Datakameratene FK
 
