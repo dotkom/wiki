@@ -160,7 +160,7 @@ opptak pågår.
 - Startet 2 nye prosjekter, events og soknad.online
     - Events ser på hvordan vi surfacer arrangementer på onlinewebben.
     - soknad.online skal gjøre opptak.online til en portal for alle søknader i Online.  
-- Gjennoppstartet utviklingen på NotiWall, Notifire og NotiWire. 
+- Gjennoppstartet utviklingen på NotiWall, Notifier og NotiWire. 
 - Nibble
     - Utviklet Nibble2 med React og Node.js
     - Kjøpt ny maskin til systemet.
