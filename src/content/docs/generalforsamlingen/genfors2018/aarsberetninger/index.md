@@ -384,6 +384,12 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
  
 
 ## Datakameratene FK
+*Spiller fortsatt i studentligaen (TSFF), og ligger etter høstsesongen på 5. plass med 7 seire, 1 uavgjort og 3 tap. Det er bare 4 poeng opp til 1. plass, altså meget tett i toppen av tabellen.
+* Vi er en fast spillergruppe på ca 15-20 spillere som møter opp på treninger og kamper, og ca 50 spillere totalt som har møtt opp på treninger eller kamper så langt i sesongen.
+* Trener hovedsaklig i Dødens Dal pga pris og nærhet til Gløshaugen, men pga UKA ble det i høst arrangert flere treninger på lerkendal kunstgress. 
+* I høst hadde vi 1-2 treninger i uka, samt en kamp. 
+* Datakameratene FK har opplevd å få økte kostnader det siste året i forbindelse med baneleie til treninger, og avgift til TSFF. Vi er derfor veldig takknemlige for at vi har fått på plass ny avtale med Online om økt økonomisk støtte.
+* Det er totalt ca 10 Onlinere som er aktive i Datakameratene FK, og det er god plass til flere. 
 
 ## Realfagskjelleren
 -        Tok opp to medlemmer ifra Online til kjellerstyret, Sander Lindberg og Eigil Hjelmstad
