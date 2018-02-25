@@ -120,7 +120,7 @@ opptak pågår.
 * Har tatt opp åtte medlemmer, derav fire er førsteklassinger, to andreklassinger og to fjerdeklassinger. Vi er totalt 18 nå, med to i permisjon. 
 * Har kontakt med 105 bedrifter.
 * Vært på Oslotur to ganger sammen med fagkom, og besøkt tilsammen 17 bedrifter.
-* Vi har hatt teambuilding med fagkom både på høstsemestert.
+* Vi har hatt teambuilding med fagkom både på høstsemestert og vårsemesteret.
 * 75 karrieremuligheter.
 * 5 muligheter-e-poster sendt ut.
 * Bookingrunden gjennomført begge semestre.
@@ -129,7 +129,7 @@ opptak pågår.
 ### Høstsemesteret 2017
 
 * Skaffet én gullsponsor og tre sølvsponsorer til fadderperioden.
-* To bedriftsarrangementer i fadderperioden.
+* To bedriftsarrangementer for 1. klasse i fadderperioden.
 * Ti bedriftspresentasjoner.
 * Tre KID-arrangementer. Ett i fadderperioden for førsteklasse og to i løpet av semesteret.
 * Skaffet syv sponsorer til TechTalks
