@@ -158,6 +158,8 @@ opptak pågår.
 * Bookingrunden gjennomført begge semestre.
 * Signert ny hovedsamarbeidsavtale med Knowit.
 * Te er inkludert i kaffeavtalen.
+* Ordnet sponsede premier i julekalenderen.
+* Hadde 2 bedrifter som delte ut godsaker(Softis/Goodiebag) på sal. 
 
 ### Høstsemesteret 2017
 
