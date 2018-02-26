@@ -147,6 +147,7 @@ opptak pågår.
 - Nye rutiner på innbetalinger og fakturering
 - Vært på regnskapskurs og mva-kurs
 - Begynt med EHF-fakturering
+- Ser på bruk av prosjekter i fiken for bedre oversikt
 
 ## Bedriftskomiteen
 
