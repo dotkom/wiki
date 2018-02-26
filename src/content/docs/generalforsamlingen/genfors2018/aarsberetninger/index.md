@@ -384,7 +384,7 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
  
 
 ## Datakameratene FK
-*Spiller fortsatt i studentligaen (TSFF), og ligger etter høstsesongen på 5. plass med 7 seire, 1 uavgjort og 3 tap. Det er bare 4 poeng opp til 1. plass, altså meget tett i toppen av tabellen.
+* Spiller fortsatt i studentligaen (TSFF), og ligger etter høstsesongen på 5. plass med 7 seire, 1 uavgjort og 3 tap. Det er bare 4 poeng opp til 1. plass, altså meget tett i toppen av tabellen.
 * Vi er en fast spillergruppe på ca 15-20 spillere som møter opp på treninger og kamper, og ca 50 spillere totalt som har møtt opp på treninger eller kamper så langt i sesongen.
 * Trener hovedsaklig i Dødens Dal pga pris og nærhet til Gløshaugen, men pga UKA ble det i høst arrangert flere treninger på lerkendal kunstgress. 
 * I høst hadde vi 1-2 treninger i uka, samt en kamp. 
@@ -392,19 +392,13 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
 * Det er totalt ca 10 Onlinere som er aktive i Datakameratene FK, og det er god plass til flere. 
 
 ## Realfagskjelleren
--        Tok opp to medlemmer ifra Online til kjellerstyret, Sander Lindberg og Eigil Hjelmstad
-
--        Med økonomisk støtte fra linjeforeningene fikk vi kjøpt et kassaapparat som vi nå eier. Dette er et av kravene so trengs for å kunne åpne kjellerne ordentlig igjen
-
--        I løpet av dette året har vi holdt arrangementer i Gamle Moholt Barnehage i regi av Reddkjellerne, dette har fungert veldig bra, og vi er fornøyde over å ha hatt den muligheten. Vi er også den kjelleren som har hatt mest åpent og Reddkjellerne er svært fornøyde med den jobben vi har gjort.
-
--        Samarbeidet med Delta, Spanskrøret og Volvox & Alkymisten fortsetter å fungere bra og kommer til fortsette
-
--        Vi har hatt ekstraordinært årsmøte og valgt Leder, Nestleder og Økonomiansvarlig for neste år. Rolf Klokkerengen (Spanskrøret), Håkon Espeland (Volvox & Alkymisten) og Sigurd Oxaas Wie (Online).
-
--        Vi vil motta nøkkelen til den nye kjelleren (HK 12), 15. Mars. Vi driver og planlegge oppussing (maling, bygge nye benker, bar!) Denne oppussingen kommer til å være åpen og alle er velkommen til være med hvis de ønsker, så bare ta kontakt.
-
--        Forhåpentligvis kan vi har en ordentlig åpning etter påske slik at kjelleren kan fortsette og være det lavterskeltilbudet den har vært tidligere.
+* Tok opp to medlemmer ifra Online til kjellerstyret, Sander Lindberg og Eigil 
+* Med økonomisk støtte fra linjeforeningene fikk vi kjøpt et kassaapparat som vi nå eier. Dette er et av kravene so trengs for å kunne åpne kjellerne ordentlig igjen
+* I løpet av dette året har vi holdt arrangementer i Gamle Moholt Barnehage i regi av Reddkjellerne, dette har fungert veldig bra, og vi er fornøyde over å ha hatt den muligheten. Vi er også den kjelleren som har hatt mest åpent og Reddkjellerne er svært fornøyde med den jobben vi har 
+*Samarbeidet med Delta, Spanskrøret og Volvox & Alkymisten fortsetter å fungere bra og kommer til fortsette
+* Vi har hatt ekstraordinært årsmøte og valgt Leder, Nestleder og Økonomiansvarlig for neste år. Rolf Klokkerengen (Spanskrøret), Håkon Espeland (Volvox & Alkymisten) og Sigurd Oxaas Wie (
+* Vi vil motta nøkkelen til den nye kjelleren (HK 12), 15. Mars. Vi driver og planlegge oppussing (maling, bygge nye benker, bar!) Denne oppussingen kommer til å være åpen og alle er velkommen til være med hvis de ønsker, så bare ta 
+* Forhåpentligvis kan vi har en ordentlig åpning etter påske slik at kjelleren kan fortsette og være det lavterskeltilbudet den har vært tidligere.
 
 ## Casual Gaming
 * Arrangert tre LAN, to på høsten og ett på våren
