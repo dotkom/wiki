@@ -36,7 +36,7 @@ På [[generalforsamlingen 2011]], etter en *særdeles* vellykket
 prøveperiode, ble “Profil- og aviskomiteen” (proKom) slått fast i
 vedtektene med påfølgende applaus fra salen.
 
-ProKoms arbeid
+Prokoms arbeid
 ---------------
 
 Profil- og aviskomiteens hovedoppgave er å sikre kvalitet på
