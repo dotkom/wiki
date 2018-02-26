@@ -196,7 +196,7 @@ opptak pågår.
     - soknad.online skal gjøre opptak.online til en portal for alle søknader i Online.  
 - Gjennoppstartet utviklingen på NotiWall, Notifier og NotiWire. 
 - Nibble
-    - Utviklet Nibble2 med React og Node.js
+    - Utviklet Nibble2 med React
     - Kjøpt ny maskin til systemet.
 - Utvilket backupsystemet Loft
 
