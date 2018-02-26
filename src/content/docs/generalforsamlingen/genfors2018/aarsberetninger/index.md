@@ -393,7 +393,7 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
 * Det er totalt ca 10 Onlinere som er aktive i Datakameratene FK, og det er god plass til flere. 
 
 ## Realfagskjelleren
-* Tok opp to medlemmer ifra Online til kjellerstyret, Sander Lindberg og Eigil 
+* Tok opp to medlemmer ifra Online til kjellerstyret, Sander Lindberg og Eigil Hjelmstad
 * Med økonomisk støtte fra linjeforeningene fikk vi kjøpt et kassaapparat som vi nå eier. Dette er et av kravene so trengs for å kunne åpne kjellerne ordentlig igjen
 * I løpet av dette året har vi holdt arrangementer i Gamle Moholt Barnehage i regi av Reddkjellerne, dette har fungert veldig bra, og vi er fornøyde over å ha hatt den muligheten. Vi er også den kjelleren som har hatt mest åpent og Reddkjellerne er svært fornøyde med den jobben vi har 
 *Samarbeidet med Delta, Spanskrøret og Volvox & Alkymisten fortsetter å fungere bra og kommer til fortsette
