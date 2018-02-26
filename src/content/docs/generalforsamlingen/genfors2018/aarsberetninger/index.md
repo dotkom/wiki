@@ -146,6 +146,7 @@ opptak pågår.
 - Fått nye medlemmer fra flere komiteer
 - Nye rutiner på innbetalinger og fakturering
 - Vært på regnskapskurs og mva-kurs
+- Begynt med EHF-fakturering
 
 ## Bedriftskomiteen
 
