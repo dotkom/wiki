@@ -84,11 +84,14 @@ title: "Dagsorden 2018"
 |---|---|---|---|---|
 | 30   | 19.45 | 20.15 | Vedtektsforslag 1 v/Agnete Djupvik |  |
 | 10   | 20.15 | 20.25 | Vedtektsforslag 2 v/Hovedstyret |  |
-| 5   | 20.25 | 20.30 | Vedtektsforslag 3 v/Hovedstyret |  |
+| 5   | 20.25 | 20.30 | Vedtektsforslag 3 v/Christoffer Lofsberg |  |
+| 5   | 20.30 | 20.35 | Vedtektsforslag 4 v/Hovedstyret |  |
 
-| Total tid: | |45 min|
 
-## Pause 10 min
+
+| Total tid: | |50 min|
+
+## Pause 5 min
 
 ## Fondets generalforsamling
 
