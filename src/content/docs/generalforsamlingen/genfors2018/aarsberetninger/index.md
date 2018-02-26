@@ -273,7 +273,6 @@ Våren 2018:
 - Bestilt ekstra pins og daljer som vi gikk tom for
 
 ## Trivselskomiteen
-
 ### Arrangementer
 
 #### Vår 2017
@@ -294,6 +293,7 @@ Våren 2018:
 #### Vinter 2018
 * Seriefrokoster (4 hittil)
 * Forsøk på handletur til Storlien
+* Valentines
 #### Fremover
 * Seriefrokost
 * Filmkvelder
@@ -320,7 +320,6 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
 * Kjøpt andel i Trondheim Bilkollektiv.
 * Delt ut tittelen "Månedens triveligste" for å oppmuntre til god kultur på kontoret.
 * Har gitt 36 medlemmer kontortilgang (etter vedtak på forrige ordinære genfors)
-
 
 ## Seniorkomiteen
 
