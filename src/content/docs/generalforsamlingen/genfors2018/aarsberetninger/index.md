@@ -69,7 +69,7 @@ title: "Årsberetninger 2018"
 * Delte ut pepperkaker på de store eksamenene før jul og godteri på de store eksamenen før sommeren.
 * Bestemt at det nå skal avholdes avslutningsfest for tredjeklasse, slik at de som gir seg etter bachelor også får en verdig avslutning.
 * Vi endret julekortbildet fra å være et bilde av kun Hovedstyret, til at de som ville kunne være med. Det var rundt 80-90 som valgte å bli med.
-* Vi har innført en time med Smashfri på kontoret, og fikk gode tilbakemeldinger på dette.
+* Vi har innført en time med Smashfri på kontoret, og fått gode tilbakemeldinger på dette.
 * Vi har åpnet for at alle Onlinemedlemmer kan søke om kontortilgang.
 * Innført gratis kaffe på alle mastersalene til IDI som en utvidet del av avtalen med kaffesponsor.
 
