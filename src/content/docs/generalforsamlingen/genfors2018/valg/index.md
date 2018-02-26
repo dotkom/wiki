@@ -35,7 +35,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 **Dersom vedtektsforslag 1 går gjennom vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til disse vervene er:**  
 
 * *Leder:*   Aslak Hollund  
-* *Nestleder:* Henrik Liodden  
+* *Nestleder:* 
 * *Økonomiansvarlig:* Christian Nyvoll
 * *Arrangementsansvarlig*: Marius Johan Holm Johansen, Thomas Iversen Ramm
 * *Teknisk ansvarlig*:  
