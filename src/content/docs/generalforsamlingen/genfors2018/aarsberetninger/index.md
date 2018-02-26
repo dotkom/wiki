@@ -339,6 +339,20 @@ Tok opp 6 nye. 5 pensjonert. Er nå 11 medlemmer.
  - Arrangert reboot i samarbeid med arrkom
  - Begynt arbeid på neste utmatrikulering
 
+## Kommunikasjonsansvarlig
+
+Høst 2017
+
+ - Tatt over hovedansvar for Onlines Instagramkonto
+ - Tatt over ansvaret for ukentlig informasjonsmail
+ - Tatt over ansvaret for koordinering av blesting på Facebook
+
+Vår 2018
+
+ - Hatt møter angående ny eventuell "kommunikasjonskomité"
+ - Konkludert i samarbeid med hovedstyret at en ny komité ikke er nødvendig i førsteomgang, men at en interessegruppe kan opprettes for å ta ansvar for mye av det som var tenkt til komiteen. 
+ 
+
 ## Ekskursjonskomiteen 2018
 
 ### Turen
