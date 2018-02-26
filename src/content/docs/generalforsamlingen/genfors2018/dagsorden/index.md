@@ -128,7 +128,7 @@ title: "Dagsorden 2018"
 |---|---|---|---|---|
 | 10 | 22.26  | 22.36  | Valg av leder  |   |
 | 10 | 22.36  | 22.46  | Valg av nestleder  |   |
-|  7 | 22.46  | 22.53  | Valg av leder av økonomiansvarlig  |   |
+|  7 | 22.46  | 22.53  | Valg av økonomiansvarlig  |   |
 |  7 | 22.53  | 23.00  | Valg av leder av arrangementskomiteen  |   |
 |  7 | 23.00  | 23.07  | Valg av leder av bedriftskomiteen  |   |
 | 7 | 23.07  | 23.14  | Valg av leder av drifts- og utviklingskomiteen  |   |
