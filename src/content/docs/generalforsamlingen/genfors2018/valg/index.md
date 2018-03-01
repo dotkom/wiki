@@ -19,7 +19,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Leder:*   Aslak Hollund
 * *Nestleder:* Henrik Liodden
 * *Økonomiansvarlig:* 
-* *Arrkom:* Johannes Kvamme, Thomas Iversen Ramm, Marius Sjøberg (skype)  
+* *Arrkom:* Johannes Kvamme, Thomas Iversen Ramm
 * *Bedkom:*  Adrian Thompson
 * *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
 * *Fagkom:*  Andreas Aursand
