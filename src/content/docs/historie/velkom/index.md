@@ -72,13 +72,13 @@ et akutt HMS-tiltak mot såre tær hos kvinnelige informatikere.
 Medlemmer
 ---------
 
-|År|Leder|Økonomiansvarlig|    Medlemmer    |
+|År|Leder|Økonomiansvarlig|    Medlemmer    |||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
-|*2016*|*Fride Skarseth*| Jakob Westermoen | Oscar Conrad | Ingrid Medalen | Maria Rønning | Mathias Strupstad |Kristiane Westgård | Caroline Odden | Marius Aarsnes | Lars Vattøy | Henrik Bossart | Håkon Haldall |
-|*2015*|*Andreas Norstein*|
-|*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Marius Thingwall|Magnus Buvarp|
-|*2013* |*Tri M. Nguyen* | Marius Krakeli | Henning Moberg Wold|Aina Elisabeth Thunestveit | Marius Thingwall | Marthe Sofie Øynes |Sverre Johann Bjørke|Tale Prestmo|Vilde Kristine Grav|
-|*2012*|*Terje Mikalsen*|Ragnhild Seim|Even Ødegaard|Even Østvold|Henning Moberg Wold|Ingeborg Ødegård Oftedal|Jonathan Laschet|Jørgen Rugelsjøen Wikdahl|Per Øyvind Kanestrøm|
+|*2016*|*Fride Skarseth*| Jakob Westermoen | Oscar Conrad | Ingrid Medalen | Maria Rønning | Mathias Strupstad |Kristiane Westgård | Caroline Odden | Marius Aarsnes | Lars Vattøy | Henrik Bossart | Håkon Haldall |||
+|*2015*|*Andreas Norstein*|||||||||||||
+|*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Marius Thingwall|Magnus Buvarp||||||
+|*2013* |*Tri M. Nguyen* | Marius Krakeli | Henning Moberg Wold|Aina Elisabeth Thunestveit | Marius Thingwall | Marthe Sofie Øynes |Sverre Johann Bjørke|Tale Prestmo|Vilde Kristine Grav||||||
+|*2012*|*Terje Mikalsen*|Ragnhild Seim|Even Ødegaard|Even Østvold|Henning Moberg Wold|Ingeborg Ødegård Oftedal|Jonathan Laschet|Jørgen Rugelsjøen Wikdahl|Per Øyvind Kanestrøm||||||
 |*2011*|*Juni Angelfoss*|Magnus German Hove|Lorents Gravås|Mathilde Oftedal|Sigurd Stølen Lund|Even Lislebø|Magnus Kongshem|Magnus B. Line|Hanne Gunby|Eirin Haneseth|John Hanssen Kolstad|David Storjord|Christian Peter|Håvard Slettvold|
-|*2010*|*Kristian Laskemoen*|Ada Jordal|Anja S. Rønning|Astrid Kløve-Graue|Dag Olav Prestegarden|Håvard Slettvold|Jenny Rønningen|Joakim Aune|Juni Angelfoss|Lorents Gravås|Mathilde Ø. Oftedal|Sondre Frisvold|Michael Johansen|
-|*2009*|*Alexander Bjerkan*|Lorents Gravås|Anja S. Rønning|Jenny Rønningen|John Kolstad|Mathias Moen|Ingrid Kittelsen|Sondre Frisvold|Håkon Guldbransen|Hanne Oustad|Michael Johansen|Maria Møller|Alexander Perry|Håvard Slettvol|
+|*2010*|*Kristian Laskemoen*|Ada Jordal|Anja S. Rønning|Astrid Kløve-Graue|Dag Olav Prestegarden|Håvard Slettvold|Jenny Rønningen|Joakim Aune|Juni Angelfoss|Lorents Gravås|Mathilde Ø. Oftedal|Sondre Frisvold|Michael Johansen||
+|*2009*|*Alexander Bjerkan*|Lorents Gravås|Anja S. Rønning|Jenny Rønningen|John Kolstad|Mathias Moen|Ingrid Kittelsen|Sondre Frisvold|Håkon Guldbransen|Hanne Oustad|Michael Johansen|Maria Møller|Alexander Perry|Håvard Slettvold|
