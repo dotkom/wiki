@@ -378,10 +378,10 @@ Vår 2018
 - Totalt 5 aktive medlemmer som arrangerte turen.
 - 70 studenter var med på turen
 - Turen varte fra 29. august til 1. september
-- 9 Bedrifter ble besøkt, hvorav 2 av dem var ikke-konsulentbedrifter
+- 9 Bedrifter ble besøkt, hvorav 3 av dem var ikke-konsulentbedrifter
 - Flyreise, transport til og fra bedrifter og flyplass, og 3 netters hotellopphold ble dekket av bedriftene.
 - Opprettet et samarbeid med erfaringsoverføring mellom Bedex (Abakus) og ITEX for å bedre begge turene.
-- Fikk ITEX inn i produktarket til Online og bookingrunden til bedkom og fagkom slik at bedriftene kan melde interesse.
+- Fikk ITEX inn i produktarket til Online og bookingrunden til bedkom og fagkom slik at bedriftene kan melde interesse og får bedre informasjon.
 
 ## Velkomstkomiteen 2017
 - Velkom besto av 13 medlemmer, inkludert leder og nestleder.  
