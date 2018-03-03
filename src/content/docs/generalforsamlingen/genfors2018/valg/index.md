@@ -39,7 +39,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 * *Økonomiansvarlig:* Christian Nyvoll
 * *Arrangementsansvarlig*: Marius Johan Holm Johansen, Thomas Iversen Ramm
 * *Teknisk ansvarlig*:  
-* *Internansvarlig:* Trine-Lise Helgesen  
+* *Internansvarlig:* Trine-Lise Helgesen, Mathias S. Müller 
 
 Komitéledere:
 
