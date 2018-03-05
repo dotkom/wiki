@@ -42,7 +42,7 @@ title: "Dagsorden 2018"
 | 4 | 16.30 | 16.34 | Årsberetning Hovedstyret  |   |
 | 2 | 16.34 | 16.36 | Årsberetning Bank- og økonomikomiteen  |  |
 | 2 | 16.36 | 16.38 | Årsberetning Arrangementskomiteen  |   |
-| 2 | 16.38 | 16.40 | Årsberetning Bedriftskomiteen  |   |
+| 2 | 16.38 | 16.40 | Årsberetning Bedriftskomiteen  | 16:46  |
 | 2 | 16.40 | 16.42 | Årsberetning Drifts- og utviklingskomiteen  |   |
 | 2 | 16.42 | 16.44 | Årsberetning Fag- og kurskomiteen  |   |
 | 2 | 16.44 | 16.46 | Årsberetning Profil- og aviskomiteen  |   |
