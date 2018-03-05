@@ -30,7 +30,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 * *Onlinemedlem:* Sigurd Wie
 * *Tidligere hovedstyremedlem:* Kristoffer Hajem, Taran Ruge  
-* *Ridder:*
+* *Ridder:* Sverre Johann Bjørke
 
 **Dersom vedtektsforslag 1 går gjennom vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til disse vervene er:**  
 
