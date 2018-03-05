@@ -24,7 +24,8 @@ Referat fra ekstraordinær generalforsamling 2017 finner du her: [attachment:457
 - [Budsjetter 18/19](https://docs.google.com/spreadsheets/d/1wY1QyZkdb_clf4aUz1KP11pRvQeCV99cuxLE-cVSGdI/edit?usp=sharing)
 
 ## Referat fra årets generalforsamling
- 
+
+Live referat: https://docs.google.com/document/d/13MOmxW9A373fJ9KteBANMOjiPMbY8xXSUBmNuRTo5sY/edit# 
 
 ## Informasjon
 
