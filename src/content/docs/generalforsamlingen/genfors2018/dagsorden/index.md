@@ -61,7 +61,7 @@ title: "Dagsorden 2018"
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 17.20  | 17.50  | Godkjenning av regnskap 2017  |  |
+| 15 | 17.20  | 17.50  | Godkjenning av regnskap 2017  | 17:26 |
 | 15 | 17.20  | 17.50  | Godkjenning av budsjett 18/19  |  |
 | Total tid: | |30 min|
 
