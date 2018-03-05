@@ -46,3 +46,9 @@ Klokken: 16.15
 Sted: R9  
 
 Vel møtt!
+
+## Link til stemmesystem
+
+[https://genfors.online.ntnu.no/](https://genfors.online.ntnu.no/)
+
+Du må være tilstede for å ha stemmerett og kunne bli stemmeberettiget.
