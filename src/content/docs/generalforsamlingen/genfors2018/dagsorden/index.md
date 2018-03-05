@@ -69,7 +69,7 @@ title: "Dagsorden 2018"
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 20   | 17.50 | 18.10 | Saksforslag 1 v/Hovedstyret |  |
+| 20   | 17.50 | 18.10 | Saksforslag 1 v/Hovedstyret | 18:04 |
 | 20   | 18.10 | 18.30 | Saksforslag 2 v/Hovedstyret |  |
 | 15   | 18.30 | 18.45 | Saksforslag 3 v/Hovedstyret|  |
 | 15   | 18.45 | 19.00 | Saksforslag 4 v/Hovedstyret|  |
