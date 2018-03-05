@@ -73,7 +73,7 @@ title: "Dagsorden 2018"
 | 20   | 18.10 | 18.30 | Saksforslag 2 v/Hovedstyret | 18:17 |
 | 15   | 18.30 | 18.45 | Saksforslag 3 v/Hovedstyret|  |
 | 15   | 18.45 | 19.00 | Saksforslag 4 v/Hovedstyret|  |
-| 10   | 19.00 | 19.10 | Saksforslag 5 v/Hovedstyret|  |
+| 10   | 19.00 | 19.10 | Saksforslag 5 v/Hovedstyret| 18:43 |
 |  5   | 19.10 | 19.15 | Saksforslag 6 v/Agnete Djupvik|  |
 | Total tid: | | 1 t 25 min|
 
