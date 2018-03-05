@@ -102,7 +102,7 @@ title: "Dagsorden 2018"
 | 7   | 20.47 | 20.54 | Vedtektsforslag 2 |  |
 | 7   | 20.54 | 21.03 | Vedtektsforslag 3 |  |
 | 7   | 21.03 | 21.10 | Vedtektsforslag 4 |  |
-| 7   | 21.10 | 21.17 | Vedtektsforslag 5 |  |
+| 7   | 21.10 | 21.17 | Vedtektsforslag 5 | 21:34 |
 | 7   | 21.17 | 21.24 | Vedtektsforslag 6 |  |
 | 7   | 21.24 | 21.31 | Vedtektsforslag 7 |  |
 | Total tid: | | 51 min |
