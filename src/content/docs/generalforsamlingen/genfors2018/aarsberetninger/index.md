@@ -88,7 +88,7 @@ title: "Årsberetninger 2018"
 * Studenterhytta 16. mars - påmelding kommer  
 * trampolinepark 13.mars - påmelding kommer
 * Klatring 11. mars - Ingen påmelding. 
-* VorsNachfest 02. mars (Ikke riktig dato) - påmelding kommer. 
+* VorsNachfest 02. mars - Ingen påmelding. 
 
 * Reboot(komité) 22. februar - Ingen påmelding.    
 * Vinter-OL 17. februar - 13 påmeldte.  
