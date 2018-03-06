@@ -16,21 +16,21 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder:*   Aslak Hollund
-* *Nestleder:* Henrik Liodden, Christoffer Lofsberg
-* *Økonomiansvarlig:* Christian Nyvoll
-* *Arrkom:* Johannes Kvamme, Thomas Iversen Ramm
-* *Bedkom:*  Adrian Thompson
-* *Dotkom:*  Jakob Westermoen, Ole Anders Stokker
-* *Fagkom:*  Andreas Aursand
-* *Prokom:*  Sebastian Ellefsen, Hanne Brynildsrud
-* *Trikom:*  Pål-Edward Larsen 
+* *Leder:*   **Aslak Hollund**
+* *Nestleder:* Henrik Liodden, **Christoffer Lofsberg**
+* *Økonomiansvarlig:* **Christian Nyvoll**
+* *Arrkom:* **Johannes Kvamme**, Thomas Iversen Ramm
+* *Bedkom:*  **Adrian Thompson**, Lars Gjelstad (benket)
+* *Dotkom:*  **Jakob Westermoen**, Ole Anders Stokker
+* *Fagkom:*  **Andreas Aursand**
+* *Prokom:*  Sebastian Ellefsen, **Hanne Brynildsrud**
+* *Trikom:*  **Pål-Edward Larsen **
 
 **De som har meldt interesse til Fondstyret er:**
 
-* *Onlinemedlem:* Sigurd Wie
-* *Tidligere hovedstyremedlem:* Kristoffer Hajem, Taran Ruge  
-* *Ridder:* Sverre Johann Bjørke
+* *Onlinemedlem:* **Sigurd Wie**
+* *Tidligere hovedstyremedlem:* Kristoffer Hajem, **Taran Ruge**  
+* *Ridder:* **Sverre Johann Bjørke**
 
 **Dersom vedtektsforslag 1 går gjennom vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til disse vervene er:**  
 
