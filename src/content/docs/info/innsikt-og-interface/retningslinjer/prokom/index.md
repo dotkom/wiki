@@ -34,7 +34,7 @@ Alle stillinger bortsett fra leder velges internt i komiteen. Andre internverv v
 Komiteen har ansvar for Onlines profileringsmateriell. Komiteen har ansvaret for linjeforeningens grafiske profil, og skal gjøre denne tilgjengelig for hele linjeforeningen. Denne profilen skal være gjennomgående i profileringsarbeidet linjeforeningen gjør.    
 
 #### 3.3 Produksjon
-Komiteen bruker i hovedsak Indergaard og Svenil som trykkeri for trykksaker som for eksempel plakater og Offline.  
+Komiteen bruker i hovedsak CopyCat som trykkeri for trykksaker som for eksempel plakater og Offline.  
 Komiteen har ansvar for å produsere profileringsmateriell for Online, og å distribuere det produserte materiellet. Dette innebærer altså at komiteen ikke har ansvar for å distribuere materiell som er produsert av eksterne aktører.  
 Etter at en oppgave er delegert til et medlem, er det naturlig at dette medlemmet står for den videre kommunikasjonen med oppdragsgiver. Medlemmet har ansvar for at plakaten sendes til trykk, og skal selv hente eller delegere ansvar for henting og oppheng videre.
 Komiteens medlemmer står ansvarlig for å utføre de oppgaver de har blitt tildelt innen gitt frist. Hvis et medlem av redaksjonen ikke leverer etter avtale til avtalt frist, vil dette medføre full øl/vinstraff. Avtalt frist kan utsettes inntil 48 timer før dens utløp. Når en frist er satt uten klokkeslett vil dette si 07:00 morgenen etter. 
