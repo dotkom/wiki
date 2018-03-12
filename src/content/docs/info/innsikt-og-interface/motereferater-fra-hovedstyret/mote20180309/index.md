@@ -43,7 +43,7 @@ Arrkom:
 - Vors/nach var bra
 - Studenterhytta: Problemer med påmelding. Fakturert for minimum 60 pers, redusert til 40 plasser
 - Låvefest: Samarbeid med tihlde. Ser etter lokale. Dato er satt. De stiller med band.
-- Klatring/trampoline: Trampoline er fullt. Gøy at folk melder seg på edruarrangementer! Vi har tre instruktører på
+- Klatring/trampoline: Trampoline er fullt. Gøy at folk melder seg på edruarrangementer! Vi har tre instruktører på eventet
 
 Velkom:
 
