@@ -27,6 +27,7 @@ For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønske
 
 ### Onlinelogo
 
+Online logoen benytter seg av fonten URW Linear Wide UltraBold Oblique.
 
 * [attachment:124] - Onlinelogo, blå uten gradient.
 * [attachment:127] - Onlinelogo, hvit uten gradient.
