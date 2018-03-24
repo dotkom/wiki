@@ -28,7 +28,7 @@ Komiteen består for øyeblikket av 14 engasjerte studenter.
 
 | År    | Leder           | Nestleder         | Medlemmer       |                |                  |                      |                     |               |              |              |            |                      |
 |-------|-----------------|-------------------|-----------------|----------------|------------------|----------------------|---------------------|---------------|--------------|--------------|------------|----------------------|
-| 2018v |  | Sondre Widmark    | Agnete Djupvik   | Camilla Tran | Ellen Bakksjø | Endre Ulberg | Hege Borge | Henrik Munkeberg | Kristoffer Hajem | Margit Schjefte | Nils Herde | Sigve Skaugvoll | Trine-Lise Helgesen|
+| 2018v |Erik Wiker| Sondre Widmark    | Agnete Djupvik   | Camilla Tran | Ellen Bakksjø | Endre Ulberg | Hege Borge | Henrik Munkeberg | Kristoffer Hajem | Margit Schjefte | Nils Herde | Sigve Skaugvoll | Trine-Lise Helgesen|
 | 2017h | Erik Wiker | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Kathrine Løfqvist | Per Øyvind Kanestrøm | Marius Thingwall | Sverre Bjørke | Tale Prestmo | Marthe Øynes | Signe Elise Livgard |
 | 2017v | Ingrid Myrann | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Kathrine Løfqvist | Per Øyvind Kanestrøm | Marius Thingwall | Sverre Bjørke | Tale Prestmo | Marthe Øynes | Signe Elise Livgard |
 | 2016h | Ingrid Myrann | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Kathrine Løfqvist | Per Øyvind Kanestrøm | Marius Thingwall | Sverre Bjørke | Tale Prestmo | Marthe Øynes | Signe Elise Livgard |                      |
