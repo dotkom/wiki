@@ -20,6 +20,9 @@ Komiteen består for øyeblikket av 10 engasjerte studenter.
 
 | År    | Leder           | Nestleder         | Medlemmer       |                |                  |                      |                     |               |              |              |            |                      |
 |-------|-----------------|-------------------|-----------------|----------------|------------------|----------------------|---------------------|---------------|--------------|--------------|------------|----------------------|
+| 2018v | Endre Ulberg | Sondre Widmark    | Agnete Djupvik   | Camilla Tran | Ellen Bakksjø | Erik Wiker | Hege Borge | Henrik Munkeberg | Kristoffer Hajem | Margit Schjefte | Nils Herde | Sigve Skaugvoll | Trine-Lise Helgesen|
+| 2017h | Ingrid Myrann | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Kathrine Løfqvist | Per Øyvind Kanestrøm | Marius Thingwall | Sverre Bjørke | Tale Prestmo | Marthe Øynes | Signe Elise Livgard |
+| 2017v | Ingrid Myrann | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Kathrine Løfqvist | Per Øyvind Kanestrøm | Marius Thingwall | Sverre Bjørke | Tale Prestmo | Marthe Øynes | Signe Elise Livgard |
 | 2016h | Ingrid Myrann | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Kathrine Løfqvist | Per Øyvind Kanestrøm | Marius Thingwall | Sverre Bjørke | Tale Prestmo | Marthe Øynes | Signe Elise Livgard |                      |
 | 2016v | Magnus Kongshem | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Aina Thunestveit | Per Øyvind Kanestrøm | Kathrine Steffensen | Sverre Bjørke | Tale Prestmo (permitert) | Marthe Øynes |    Truls Mørk (Permitert)        |                      |
 | 2015h | Magnus Kongshem | Caroline Odden    | Ingrid Myrann   | Caroline Odden | Aina Thunestveit | Per Øyvind Kanestrøm | Kathrine Steffensen | Sverre Bjørke | Tale Prestmo | Marthe Øynes |Truls Mørk (Permitert) |                      |
