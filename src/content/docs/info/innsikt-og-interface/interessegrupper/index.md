@@ -22,3 +22,4 @@ Kravene som stilles er at det skal være en gruppering som åpner for at alle On
 - [Quizline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/quizline/)
 - [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
 - [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
+- [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
