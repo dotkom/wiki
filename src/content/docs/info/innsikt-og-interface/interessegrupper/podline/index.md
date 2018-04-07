@@ -8,7 +8,7 @@ _to be continued......._
 
 
 [image:481]
-    Konting er lættis
+  ** _ Konting er lættis_**
 
 
 
