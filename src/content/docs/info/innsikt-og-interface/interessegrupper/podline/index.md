@@ -7,8 +7,8 @@ _to be continued......._
 
 
 
-[image:481]
-  ** _ Konting er lættis_**
+
+[image:481 size:large]
 
 
 
