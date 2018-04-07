@@ -6,8 +6,9 @@ to be continued.......
 
 
 
-[image:id align:right size:orig]
-    caption indented by 4 spaces
+[image:481 size:large]
+
+
 
 
 
