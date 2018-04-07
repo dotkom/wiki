@@ -6,7 +6,11 @@ _to be continued......._
 
 
 
-[image:481 size:large]
+
+[image:481]
+    Konting er lættis
+
+
 
 
 
