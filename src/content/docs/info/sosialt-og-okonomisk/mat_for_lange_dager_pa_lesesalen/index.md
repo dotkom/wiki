@@ -99,7 +99,7 @@ Telefon: 73 53 02 02
 - Lørdag og søndag: 12:00 - 22:00   
 
 #### Pizzabakeren   
-Ligger ved Samfundet, Klostergaten 21. Leverer etter klokken tre.   
+Ligger ved Samfundet, Singsakerbakken 2D . Leverer etter klokken fire.   
 Telefon: 73 52 66 66    
 [Meny](https://www.pizzabakeren.no/pizzameny)    
 Åpningstider:    
