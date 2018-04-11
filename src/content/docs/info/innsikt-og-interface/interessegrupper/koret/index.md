@@ -15,9 +15,13 @@ Hvis du vil være med er det bare å møte opp.
 
 ### Styre
 Korkonge: Kristoffer Hajem
+
 Økonomioberst: Martin Stenmann Westergaards
+
 Konsertkorporal: Kristoffer Hajem
+
 Sosialsersjant: Jack Syvertsen
+
 Propagandaminister: Martin Bjerke
 
 ### Facebookgruppe
