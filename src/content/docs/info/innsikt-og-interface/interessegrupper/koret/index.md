@@ -13,6 +13,13 @@ I tillegg har C# flere sosiale sammenkomster, slik som blant annet Singstarkveld
 Vår 2018 er øvinger til vanlig tirsdag 20:15-22:15 i EL2.
 Hvis du vil være med er det bare å møte opp.
 
+### Styre
+Korkonge: Kristoffer Hajem
+Økonomioberst: Martin Stenmann Westergaards
+Konsertkorporal: Kristoffer Hajem
+Sosialsersjant: Jack Syvertsen
+Propagandaminister: Martin Bjerke
+
 ### Facebookgruppe
 https://www.facebook.com/groups/1489847091313317/
 
