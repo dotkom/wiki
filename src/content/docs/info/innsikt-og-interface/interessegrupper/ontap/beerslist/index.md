@@ -24,4 +24,4 @@ i|Navn|Brygger(e)|Tappedato|Stil|Oppskrift|Etikett
 5| B | Aslak Hollund | | Blonde Ale | [Brygg Selv](https://www.bryggselv.no/blogg/blonde-ale//) | |
 6| Darkweb | Aslak Hollund | TBD | Black IPA | [Brygg Selv](https://www.bryggselv.no/blogg/svartediket/) | |
 7| Oregonian Winter | Aslak Hollund, Audun Torgersen | | Wheat APA | [Norbrygg](https://forum.norbrygg.no/threads/voss-bryggeri-oregonian.23938/) | |
-8| Bokkemon | Kristoffer Hajem, Martin Stenmann Westergaard og Sigurd Øines | 12.04.2018 | Dobbelbokk | [Brewer's Friend] (https://www.brewersfriend.com/homebrew/recipe/view/105424/bakke-brygg-doppelbock-20-l) | |
+8| Bokkemon | Kristoffer Hajem, Martin Stenmann Westergaard og Sigurd Øines | 12.04.2018 | Dobbelbokk | [Brewers Friend] (https://www.brewersfriend.com/homebrew/recipe/view/105424/bakke-brygg-doppelbock-20-l) | |
