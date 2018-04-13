@@ -25,9 +25,9 @@ Utbetaling skjer ved å sende inn **et samlet** [kvitteringsskjema](https://onli
 Kvitteringsskjemaet sendes til [kvittering@online.ntnu.no](mailto:kvittering@online.ntnu.no) med **emnefeltet**:
 [HS] [Onlinepotten] “eventuell enkel beskrivelse”. 
 Kvitteringsskjemaet skal følge retningslinjene som er spesifisert [her](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer) og må i tillegg inneholde følgende:
-- **Komité:** Hovedstyret
-- **Anledning:** [Onlinepotten] “Anledningen det gjelder”
-- **Beløp:** Så mye av den tildelte støtten som ble brukt, opp til hele beløpet.
-- **Kommentar:** Liste over deltakere
+- **Komité:** Hovedstyret  
+- **Anledning:** [Onlinepotten] “Anledningen det gjelder”  
+- **Beløp:** Så mye av den tildelte støtten som ble brukt, opp til hele beløpet.  
+- **Kommentar:** Liste over deltakere  
 
 Se eksempel på kvitteringsskjema for Onlinepotten her: [attachment:488]
