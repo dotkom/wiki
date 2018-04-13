@@ -30,4 +30,4 @@ Kvitteringsskjemaet skal følge retningslinjene som er spesifisert [her](https:/
 - **Beløp:** Så mye av den tildelte støtten som ble brukt, opp til hele beløpet.
 - **Kommentar:** Liste over deltakere
 
-Se eksempel på kvitteringsskjema for Onlinepotten [her](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/).
+Se eksempel på kvitteringsskjema for Onlinepotten her: [attachment:488]
