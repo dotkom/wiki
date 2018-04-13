@@ -23,7 +23,8 @@ Hvis du eller dere har fått tildelt støtte fra Onlinepotten skal workshoppen/a
 Utbetaling skjer ved å sende inn **et samlet** [kvitteringsskjema](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer) for hele eller så mye som er brukt av den tildelte summen. Eventuelle kostnader over den tildelte summen må dekkes av deltakerne selv. Merk at man kun får støtte for det antallet personer som faktisk deltar.
 
 Kvitteringsskjemaet sendes til [kvittering@online.ntnu.no](mailto:kvittering@online.ntnu.no) med **emnefeltet**:
-[HS] [Onlinepotten] “eventuell enkel beskrivelse”. 
+[HS] [Onlinepotten] “eventuell enkel beskrivelse”.  
+
 Kvitteringsskjemaet skal følge retningslinjene som er spesifisert [her](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer) og må i tillegg inneholde følgende:  
 - **Komité:** Hovedstyret  
 - **Anledning:** [Onlinepotten] “Anledningen det gjelder”  
