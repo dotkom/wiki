@@ -31,7 +31,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Søke om drikking på kontoret](/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/) - Det er lov å drikke alokohol på Onlinekontoret så lenge noen har søkt om det
 - Ekstern: [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"} - Oversikt over alle vaffeldager og møter på kontoret
 - [Gullblekka](/wiki/online/gullblekka/) - Prisutdeling for linjeredaksjonene på Gløshaugen
-- [Skjemaer](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer/) Kvitteringsskjema og andre hvis du har lagt ut for Online
+- [Skjemaer](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer/) - Kvitteringsskjema og andre hvis du har lagt ut for Online
 
 ### [Trivia](/wiki/online/info/trivia/)
 
@@ -57,7 +57,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Slik lager du bruker på Onlineweb](/wiki/online/slik_lager_du_bruker_pa_onlineweb/) - Det er helt sant
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
-- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
+- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
 
 
 
