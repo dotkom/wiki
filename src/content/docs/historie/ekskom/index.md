@@ -10,8 +10,9 @@ Ekskursjonskomiteen ble forsøkt opprettet for første gang i 2012. Det gikk ikk
 
 Onlines tredje eksursjon ble gjennomført påsken 2016 og turen gikk da tilbake til Asia og Japan. 
 
-I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasasjon. Den fjerde ekskursjonen ble gjennomført påsken 2017 og turen vil gikk til Seoul i Sør-Korea.
-Ekskursjonen i 2018 vil også gå til Sør-Korea.
+I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasasjon. Den femte ekskursjonen ble gjennomført påsken 2018 og turen vil gikk til Seoul i Sør-Korea.
+
+
 #### Medlemmer
 
 L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
