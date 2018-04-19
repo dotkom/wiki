@@ -33,19 +33,14 @@ For øyeblikket er kjellerene fordelt slikt:
 
 |Nummer |Linjeforening(er)|
 |---|---|
-|5|Omega|
-|10|Berg|
-|11|Dragvoll|
-|15|Delta, Spanskrøret, Volvox & Alkymisten og Online|
-|18|Nabla|
-|19|Smørekoppen|
-|20|Høiskolens Chemikerforening|
-|21|Timini|
-|23|Abakus|
-|24|Internasjonal|
-|29|EMIL|
-|33|Hybrida og Psykolosjen|
-|43|Janus|
+|5|Omega og Psykolosjen|
+|10|Berg, Hybridia og Timini|
+|12|Delta, Spanskrøret, Volvox & Alkymisten og Online (Realfagskjelleren)|
+|14|Abakus (Labamba)|
+|18|Nabla, Chemie og Janus|
+|20|Emil og Smørekoppen|
+|27|Dykkergruppen og NTNUI|
+|53|Dragvoll|
 
 *Moholt alle*
 
