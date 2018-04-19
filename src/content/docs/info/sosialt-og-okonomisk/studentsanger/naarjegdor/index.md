@@ -47,7 +47,7 @@ intet privatkonsum har vært større,
 minst et værtshus må man stenge når jeg dør.
 
 Det blir ingen prestetale når jeg dør,  
-det blir ingen prestetalen år jeg dør,  
+det blir ingen prestetale når jeg dør,  
 jeg skal minnes ved et beger  
 som en gammel skjørtejeger,  
 det blir ingen prestetale når jeg dør.
