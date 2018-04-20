@@ -12,6 +12,7 @@ title: "Skjemaer"
 
 ## Kvitteringsskjema
 
+- Last ned [attachment:344] og åpne det i et PDF-visningsprogram (ikke skriv ut)
 - Alle de hvite rutene fylles ut (Bankkort er kun om du har brukt et av Online sine kort)
 - Alle kvitteringer må legges med (helst i en og samme PDF-fil) 
 - Signaturen nederst må være synlig
@@ -20,7 +21,7 @@ title: "Skjemaer"
 
 Vi setter veldig stor pris på synlige kvitteringer, enten skannet med en dedikert skanner, eller skanner-apper til telefon (f.eks. [CamScanner](https://www.camscanner.com/) eller [Genius Scan](https://www.thegrizzlylabs.com/genius-scan/), begge til både Android og iOS).
 
-For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velger fra menylinjen: Rediger --> Sett inn --> Side fra fil
+For å få kvitteringer i samme PDF-fil som skjemaet åpner du PDFen, og velger fra menylinjen: Rediger --> Sett inn --> Side fra fil
 
 ### LaTeX
 
