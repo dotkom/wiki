@@ -16,7 +16,7 @@ Hvis du vil være med er det bare å møte opp.
 ### Styre
 Korkonge: Kristoffer Hajem
 
-Økonomioberst: Martin Stenmann Westergaards
+Økonomioberst: Martin Stenmann Westergaard
 
 Konsertkorporal: Kristoffer Hajem
 
