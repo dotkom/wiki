@@ -7,4 +7,4 @@ Her kommer info om Onlines bryggelag Ontap. Hvis du vil engasjere deg, bli med i
 Her er alle Ontaps øl: [beers[]](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/beerslist/)
 
 ### Kontakt
-Hvis du ønsker kontakt med oss, send gjerne en mail til [ontap@online.ntnu.no](ontap@online.ntnu.no)
+Hvis du ønsker kontakt med oss, send gjerne en mail til [ontap@online.ntnu.no](mailto:ontap@online.ntnu.no)
