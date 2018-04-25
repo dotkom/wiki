@@ -25,4 +25,4 @@ i|Navn|Brygger(e)|Tappedato|Stil|Oppskrift|Etikett
 6| Darkweb | Aslak Hollund | TBD | Black IPA | [Brygg Selv](https://www.bryggselv.no/blogg/svartediket/) | |
 7| Oregonian Winter | Aslak Hollund, Audun Torgersen | | Wheat APA | [Norbrygg](https://forum.norbrygg.no/threads/voss-bryggeri-oregonian.23938/) | |
 8| Hvete 1337 | Ontap bryggekurs | | Hveteøl | |[attachment:486] |
-9| Bokkemon | Kristoffer Hajem, Martin Stenmann Westergaard, Sigurd Øines og Morten Falstad | 12.04.2018 | Dobbelbokk | [Brewers Friend](https://www.brewersfriend.com/homebrew/recipe/view/105424/bakke-brygg-doppelbock-20-l) | |
+9| Bokkemon | Kristoffer Hajem, Martin Stenmann Westergaard, Sigurd Øines og Morten Falstad | 12.04.2018 | Dobbelbokk | [Brewers Friend](https://www.brewersfriend.com/homebrew/recipe/view/105424/bakke-brygg-doppelbock-20-l) | [attachment:490] |
