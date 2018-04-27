@@ -12,7 +12,9 @@ _to be continued......._
 
 
 
-
+<div>
+<embed src="http://www.123spill.no/media/mujaffa_3juni_2003.swf" width="600px" height="600px">
+</div>
 
 
 Kontakt:
