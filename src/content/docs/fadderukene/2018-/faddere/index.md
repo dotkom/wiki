@@ -2,6 +2,8 @@
 title: "Faddergrupper"
 ---
 
+Spørsmål eller kommentarer rettes til [charlotte.soderstrom@online.ntnu.no](mailto:charlotte.soderstrom@online.ntnu.no) eller [thomas.ramm@online.ntnu.no](mailto:thomas.ramm@online.ntnu.no)  
+
 |  Gruppe | Medlem 1 | Medlem 2 | Medlem 3 | Medlem 4 | Medlem 5 |
 |  ------ | ------ | ------ | ------ | ------ | ------ |
 |  **B1** | [Birgitte Swensson](https://online.ntnu.no/profile/view/birgitbs/) | [Charlotte Söderström](https://online.ntnu.no/profile/view/cmrisbak/) | [Siri Granheim](https://online.ntnu.no/profile/view/siriframboise/) | [Vilde Almestad](https://online.ntnu.no/profile/view/vildealm/) |  |
