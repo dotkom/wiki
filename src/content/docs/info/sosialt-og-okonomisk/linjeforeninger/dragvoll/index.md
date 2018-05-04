@@ -39,7 +39,7 @@ Tilhørende wikisider
 | [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com | [serEØS](https://eurekalf.wordpress.com/linjeforeningsmagasinet-sereos/)
 | Fauréningen | | Musikkvitenskap | 2-426 (bygg 2, nivå 4) | [Group](http://fb.com/groups/586235868057291/) | faureningen@gmail.com |
 | [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
-| [Gengangere](http://www.gengangere.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Group](http://fb.com/groups/gengangere/) | gengangere@list.stud.ntnu.no |
+| [Gengangere]( https://www.facebook.com/linjeforeningengangere/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Group](http://fb.com/groups/gengangere/) | linjeforeningen.gengangere@gmail.com |
 | [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
 | [IVRig](http://org.ntnu.no/ivriglinjeforening/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911689871) | Voksnes læring og rådgivningsvitenskap | | [Page](https://www.facebook.com/ivriglinjeforening/?fref=ts) | ivrig.linjeforening@gmail.com |
 | [Det Gyldne Snitt](http://ntnukatharsis.wordpress.com/) (tidl. Katharsis) | | Kunsthistorie | | [Group](http://fb.com/groups/119903818113496/) | post.detgyldnesnitt@gmail.com |
