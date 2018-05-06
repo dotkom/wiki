@@ -58,6 +58,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
 - [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
+- [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
 
 
 
