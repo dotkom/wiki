@@ -8,4 +8,4 @@ Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å
 Her finner dere gjeldende vedtekter for Onlines fond: [attachment:464]	.
 
 ### Komiteenes retningslinjer
-Utover vedtektene har hver komite et sett med retningslinjer. De finnes [her](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/).
+Utover vedtektene har hver komité et sett med retningslinjer. De finnes [her](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/).
