@@ -72,10 +72,10 @@ etter hvert velkjente after ski-bandet [Pink Hink][].
 
 Medlemmer
 ---------------
-|Milepæl|Leder|      Medlemmer      |
-|---|---| ---|---|---|---|---|---|
+|Milepæl|Leder|Medlemmer|||||||
+|---|---|---|---|---|---|---|---|---|
 |30 år|*Marthe Øynes*|Sverre Bjørke|Kathrine Steffensen|Caroline Odden|Silje Riseng|Thor Håkon Bredesen|Nils Herde|
-|25 år|*Mathilde Oftedal*|Ingrid Kittelsen|Håvard S. Slettvold|Elling Overaa|Dag O. Prestegarden|John H. Kolstad||
+|25 år|*Mathilde Oftedal*|Ingrid Kittelsen|Håvard S. Slettvold|Elling Overaa|Dag O. Prestegarden|John H. Kolstad|||
 |Oppstart|*Trond M. Nyhus*|Steinar Hagen|Magnus Romnes|Hanne C. Lund|Ingrid Kittelsen|Håvard S. Slettvold|Elling Overaa|
 
   [Pink Hink]: http://pinkhink.se/
