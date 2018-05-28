@@ -20,7 +20,7 @@ Senere ble [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.span
 
 Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. Illøpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
 
-16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye kjellerlokaler i Herman Krags Veg 12. 
+Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
 
 
 ## Onlinere i Kjellerstyret
