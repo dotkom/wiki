@@ -2,7 +2,7 @@
 title: "Realfagskjelleren"
 ---
 
-Realfagskjelleren er Online's egen kjeller, som vi deler med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Foreløpig befinner den seg på Prestegårdveien 14 også kjent som gamle Moholt Barnehage.
+Realfagskjelleren er Online's egen kjeller, som vi deler med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Kjelleren befinner seg i Herman Krags Veg 12.
 
 
 ## Kontakt
@@ -14,13 +14,13 @@ Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https
 
 # Historie
 
-I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin egen kjeller på Moholt i Herman Kragsvei 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
+I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
 
 Senere ble [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no) sluppet inn i varmen og navnet på kjelleren ble Realfagskjelleren
 
-Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen.
+Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. Illøpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
 
-August 2017 fikk kjellerne midlertidige lokaler i gamle Moholt Barnehage fram til de skulle åpnes igjen. 
+16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye kjellerlokaler i Herman Krags Veg 12. 
 
 
 ## Onlinere i Kjellerstyret
@@ -59,10 +59,10 @@ August 2017 fikk kjellerne midlertidige lokaler i gamle Moholt Barnehage fram ti
 
 ### 2013/2014
 
-* Aina Elisabeth Thunestveit (Kjellersjef)
-* Sverre Johann Bjørke
 * Håvard Slettevold
 * John Hanssen Kolstad
+* Aina Elisabeth Thunestveit (Kjellersjef)
+* Sverre Johann Bjørke
 * Jim Frode Hoff
 
 ### 2012/2013
@@ -87,7 +87,7 @@ August 2017 fikk kjellerne midlertidige lokaler i gamle Moholt Barnehage fram ti
 * Juni Angelfos (Barsjef)
 * Lorents Gravås
 * Håvard Slettvold
-* John Kolstad
+* John Hanssen Kolstad
 * Trond Martin Nyhus
 * Elling Overaa
 * Jenny Rønningen
