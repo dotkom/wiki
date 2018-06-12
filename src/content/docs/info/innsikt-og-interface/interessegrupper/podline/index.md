@@ -22,6 +22,8 @@ _PS: Hver gang en slem feedback blir submited til oss, så dør en hundevalp av 
 
 Episodene våre er tilgjengelig for alle! De ligger ute på Souncloud, men du finner oss også på «Apple Podcast» appen. Finner du oss fortsatt ikke, anbefaler vi deg å skaffe deg en ny mobil. Kast den mursteinen.
 
+<canvas id="game" style="background-color: #353535;" width="512" height="256"></canvas>
+
 The clique:
 ----------
 - Alis
