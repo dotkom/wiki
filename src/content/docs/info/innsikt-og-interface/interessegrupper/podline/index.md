@@ -8,7 +8,7 @@ title: "Podline"
 I det herrens år 2018 midt i mars kom fire gode venner sammen og snakket om noe de hadde på hjertet. Ideen hadde hengt i luften i en stund og var noe som tidligere hadde blitt tatt opp, men med en tullete tone. Men etter masse babbling og noen par drikker inn, så blåste vi liv inn i denne ideen.
 
 
-Vi ønsket å lage en podkast! Ikke hvilket som helst, men den beste podkasten som har kommet ut av gløss sine vegger. Med en god dose latskap og lite kreativitet kom vi fram til navnet Podline, som slår sammen **pod**kast og on**line** (fuckings genius). Samme vil vi hver andre fredag komme med episoder til alle som ønsker å høre på køddet vi har å tilby. Vi er teknisk sett venner on the web som du alltid kan høre på uansett hvor du er!
+Vi ønsket å lage en podkast! Ikke hvilket som helst, men den beste podkasten som har kommet ut av gløss sine vegger. Med en god dose latskap og lite kreativitet kom vi fram til navnet PodLine, som slår sammen **pod**kast og on**line** (fuckings genius). Samme vil vi hver andre fredag komme med episoder til alle som ønsker å høre på køddet vi har å tilby. Vi er teknisk sett venner on the web som du alltid kan høre på uansett hvor du er!
 
 I tillegg ønsker vi at denne podkasten også skal være interaktivt! Uten dere så vil vi aldri komme på toppen av podkastlisten :'( .  Vi ta gjerne imot morsome historier som du ønsker at vi skal ta med på "podden". 
 Feel free my dude: [Send inn en morsomt historie](https://docs.google.com/forms/d/1iOb3UeUEtp-xBCcA--lwtbh549h0sDbOnueaCSO0Px0/)
