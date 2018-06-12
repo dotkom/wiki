@@ -2,20 +2,29 @@
 title: "Podline"
 ---
 
-_to be continued......._
+[image:506 align:left size:small]
 
 
-
-[image:481 size:large]
-
+I det herrens år 2018 midt i mars kom fire gode venner sammen og snakket om noe de hadde på hjertet. Ideen hadde hengt i luften i en stund og var noe som tidligere hadde blitt tatt opp, men med en tullete tone. Men etter masse babbling og noen par drikker inn, s¨å blåste vi liv inn i denne ideen.
 
 
+Vi ønsket å lage en podkast! Ikke hvilket som helst, men den beste podkasten som har kommet ut av gløss sine vegger. Med en god dose latskap og lite kreativitet kom vi fram til navnet Podline, som slår sammen **pod**kast og on**line** (fuckings genius). Samme vil vi hver andre fredag komme med episoder til alle som ønsker å høre på køddet vi har å tilby. Vi er teknisk sett venner on the web som du alltid kan høre på uansett hvor du er!
+
+I tillegg ønsker vi at denne podkasten også skal være interaktivt! Vi ønsker derfor at dere skal være med på å få oss på toppen av podkastlisten. Følg oss på Face eller gi oss tilbakemeldinger.
+Vi elsker feedback(vi blir alle litt harde av det)!  Så har du noe du ønsker å formidle til oss er det bare å skrive det her:
+https://docs.google.com/forms/d/1mlgV0sONmpItr8L1EN65HLpsoAckdzEobJyiVFS40M4/edit
+
+(PS: Hver gang en slem feedback blir submited til oss, så dør en hundevalp av ebola)
+
+Episodene våre er tilgjengelig for alle! De ligger ute på Souncloud, men du finner oss også på «Apple Podcast» appen. Finner du oss fortsatt ikke, anbefaler vi deg å skaffe deg en ny mobil. Kast den mursteinen.
 
 
-<div>
-<embed src="http://www.123spill.no/media/mujaffa_3juni_2003.swf" width="600px" height="600px">
-</div>
-
+The clique:
+----------
+- Alis
+- Anniken
+- Tania
+- Thomas
 
 Kontakt:
 ------------------
