@@ -29,7 +29,7 @@ The clique:
 - Tania
 - Thomas
 
-Kontakt:
+Du finner oss her:
 ------------------
 **ITUNES**: https://itunes.apple.com/no/podcast/podline/id1363625979
 
