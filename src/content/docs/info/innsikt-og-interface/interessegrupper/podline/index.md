@@ -18,7 +18,7 @@ Følg oss på Face så du får med deg det nyeste fra oss. Der kan det hende at 
 Noe annet som også får oss harde er feedback! Så har du noe du ønsker å formidle til oss er det bare å skrive det her:
 [Feedback](https://docs.google.com/forms/d/1mlgV0sONmpItr8L1EN65HLpsoAckdzEobJyiVFS40M4/)
 
-(PS: Hver gang en slem feedback blir submited til oss, så dør en hundevalp av ebola)
+_PS: Hver gang en slem feedback blir submited til oss, så dør en hundevalp av ebola_
 
 Episodene våre er tilgjengelig for alle! De ligger ute på Souncloud, men du finner oss også på «Apple Podcast» appen. Finner du oss fortsatt ikke, anbefaler vi deg å skaffe deg en ny mobil. Kast den mursteinen.
 
@@ -28,6 +28,8 @@ The clique:
 - Anniken
 - Tania
 - Thomas
+
+
 
 Du finner oss her:
 ------------------
