@@ -10,7 +10,8 @@ I det herrens år 2018 midt i mars kom fire gode venner sammen og snakket om noe
 
 Vi ønsket å lage en podkast! Ikke hvilket som helst, men den beste podkasten som har kommet ut av gløss sine vegger. Med en god dose latskap og lite kreativitet kom vi fram til navnet PodLine, som slår sammen **pod**kast og on**line** (fuckings genius). Sammen vil vi hver andre fredag komme med episoder til alle som ønsker å høre på det køddet vi har å tilby. Vi er teknisk sett venner on the web som du alltid kan høre på uansett hvor du er!
 
-I tillegg ønsker vi at denne podkasten også skal være interaktivt! Uten dere så vil vi aldri komme på toppen av podkastlisten :'( .  Vi ta gjerne imot morsome historier som du ønsker at vi skal ta med på "podden". 
+I tillegg ønsker vi at denne podkasten også skal være interaktivt! Uten dere så vil vi aldri komme på toppen av podkastlisten :'(
+Vi tar gjerne imot morsome historier som du ønsker at vi skal ta med på "podden". 
 Feel free my dude: [Send inn en morsomt historie](https://docs.google.com/forms/d/1iOb3UeUEtp-xBCcA--lwtbh549h0sDbOnueaCSO0Px0/)
 
 
