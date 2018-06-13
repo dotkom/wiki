@@ -12,10 +12,10 @@ Alle Onlines medlemmer kan søke Onlines fond om penger. Søknaden skal være ve
 Søknaden er kun gyldig dersom det søkes om mellom 10 000 kr og 100 000 kr.
 
 Dette skal være med i søknaden:
-* Beskriv av dere selv
-* Hva midlene skal brukes til
-* Hvordan midlene går onlinere til gode
-* Aktivitetsplan
-*Budsjett
+- Beskriv av dere selv
+- Hva midlene skal brukes til
+- Hvordan midlene går onlinere til gode
+- Aktivitetsplan
+- Budsjett
 
 Søknader sendes til: fond@online.ntnu.no
