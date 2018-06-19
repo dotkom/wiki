@@ -12,7 +12,9 @@ Onlines tredje eksursjon ble gjennomført påsken 2016 og turen gikk da tilbake 
 
 I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasasjon. Den femte ekskursjonen ble gjennomført påsken 2018 og turen vil gikk til Seoul i Sør-Korea.
 
-I 2018 ble ekskom tatt ut av Online og oppretter igjen sin egen orginasajon som jobber tett med Online.
+2018 ble ekskom tatt ut av Online og oppretter igjen sin egen orginasajon som jobber tett med Online.
+
+Den sjette turen til Online er planlagt til å gå til Kina, Nanjing og Bejing.
 
 #### Medlemmer
 
