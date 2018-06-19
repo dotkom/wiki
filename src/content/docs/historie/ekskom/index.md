@@ -22,8 +22,27 @@ L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
 
 |År|Reisemål|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2017-2018|Sør-Korea|Simen Blikeng (L)|Edvard Bakken (NL)|Fride Skarseth (Ø)|Lars Aders|Maria Rønning|Embrik Einang|Petter Lohne|Magnus Guttormsen|
-|2016-2017|Sør-Korea|Christoffer S. Lofsberg (L)|Camilla Tran (NL)|Margit Schefte (Ø)|Dag Frode Solberg|Hung Thieu|Jie Li|Martin Bjerke|Oddrun Petursdottir|Quang-Tam Huynh|Rebekka Alvsvåg|Stian Jørgensrud|
-|2015-2016|Japan|Ingrid Vold (L)|Hanna Sollie Storaker (NL)|Camilla Tøftum Ranner (Ø)|Håkon Solbjørg|Iselin Bjørnsgaard Erikssen|My Thao Nguyen|Uyen Dan Nguyen|Petter Rostrup|Sondre Sæterli Hjetland|Nikolai Hegelstad|Eirik Vikanes|Lars Henrik Søreide Grytten|
-|2014-2015|USA|Truls Mørk Pettersen (L)|Tale Prestmo (NL)|Fredrik Berg|Håkon Løvdal|Kristoffer Dalby (Ø)|Petter Ekern|Jørgen Sirhaug|Kristian Volden|Sondre Dyvik
-|2013-2014|Kina|Per Øyvind Kanestrøm (L)|Ragnhild Seim (Kun med de første månedene)|Pia Lindkjølen|Christian Strand Young|Kathrine Steffensen|Anders Malmo|Vegar Lerpold|Øyvind Hellenes|Rikard Eide|Are Sjøberg
+
+2018-2019, Kina
+
+  - Petter Rein (L) | Morten Falstad (NL) | Sigurd Melsom (Ø) | Lars Kåre Syversen | Therese Federl | Ebba Fingarsen |
+
+2017-2018, Sør-Korea
+
+  - Simen Blikeng (L) | Edvard Bakken (NL) | Fride Skarseth (Ø) | Lars Aders | Maria Rønning | Embrik Einang | Petter Lohne | Magnus Guttormsen |
+
+2016-2017, Sør-Korea
+
+  - Christoffer S. Lofsberg (L) | Camilla Tran (NL) | Margit Schefte (Ø) | Dag Frode Solberg | Hung Thieu | Jie Li | Martin Bjerke | Oddrun Petursdottir | Quang-Tam Huynh | Rebekka Alvsvåg | Stian Jørgensrud |
+
+2015-2016, Japan
+
+  - Ingrid Vold (L) | Hanna Sollie Storaker (NL) | Camilla Tøftum Ranner (Ø) | Håkon Solbjørg | Iselin Bjørnsgaard Erikssen | My Thao Nguyen | Uyen Dan Nguyen | Petter Rostrup | Sondre Sæterli Hjetland | Nikolai Hegelstad | Eirik Vikanes | Lars Henrik Søreide Grytten |
+
+2014-2015, USA
+
+  - Truls Mørk Pettersen (L) | Tale Prestmo (NL) | Fredrik Berg | Håkon Løvdal | Kristoffer Dalby (Ø) | Petter Ekern | Jørgen Sirhaug | Kristian Volden | Sondre Dyvik |
+
+2013-2014, Kina
+
+  - Per Øyvind Kanestrøm (L) | Ragnhild Seim (Kun med de første månedene) | Pia Lindkjølen | Christian Strand Young | Kathrine Steffensen | Anders Malmo | Vegar Lerpold | Øyvind Hellenes | Rikard Eide | Are Sjøberg |
