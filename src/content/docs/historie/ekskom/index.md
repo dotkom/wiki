@@ -16,6 +16,8 @@ I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasa
 
 Den sjette turen til Online er planlagt til å gå til Kina, Nanjing og Bejing.
 
+
+
 #### Medlemmer
 
 L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
