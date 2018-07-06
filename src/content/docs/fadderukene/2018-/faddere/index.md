@@ -1,5 +1,5 @@
 ---
-title: "Faddergrupper"
+title: "Faddere"
 ---
 
 Spørsmål eller kommentarer rettes til [charlotte.soderstrom@online.ntnu.no](mailto:charlotte.soderstrom@online.ntnu.no) eller [thomas.ramm@online.ntnu.no](mailto:thomas.ramm@online.ntnu.no)  
