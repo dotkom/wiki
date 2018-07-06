@@ -9,7 +9,7 @@ Foreløpig oppmøte-plan
 
 Planen er ikke endelig og kan bli endret.
 
-**Gruppe**  | **Tidspunkt**
+Gruppe  | Tidspunkt
 ------------- | -------------
 M1  | 13:00
 M2  | 13:00
