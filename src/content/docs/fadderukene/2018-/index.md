@@ -27,5 +27,6 @@ Akutt hjelp
 - Brannvesen 📞 **110**
 
 Hvis det ikke haster kontaktes:
+
 - Politiet 📞 **02800**  
 - Legevakt 📞 **116117**
