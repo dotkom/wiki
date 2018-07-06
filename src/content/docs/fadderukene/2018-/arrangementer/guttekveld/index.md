@@ -2,7 +2,7 @@
 title: "Guttekveld"
 ---
 
-Plasseringer for de ulike versene kommer ca. 24 timer før.
+Plasseringer for de ulike vorsene kommer ca. 24 timer før.
 
 Bydel  | Kontaktperson  | Mobil  | Adresse
 ------------- | ------------- | ------------- | -------------
