@@ -14,8 +14,9 @@ Informasjonskanal for fadderukene 2018
 ### Uforventede hendelser
 Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
 
-- Leder, velkom; [Charlotte Söderström](https://online.ntnu.no/profile/view/cmrisbak/)  
-- Nestleder, velkom; [Thomas Iversen Ramm](https://online.ntnu.no/profile/view/ramm/)  
+- [Charlotte Söderström](https://online.ntnu.no/profile/view/cmrisbak/) (leder, velkom)  
+- [Thomas Iversen Ramm](https://online.ntnu.no/profile/view/ramm/) (nestleder, velkom)  
+
 Det er helt innafor å ringe oss 24/7 ved behov.  
 
 Akutt hjelp
