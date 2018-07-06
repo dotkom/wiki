@@ -18,12 +18,13 @@ Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
 - Nestleder, velkom; [Thomas Iversen Ramm](https://online.ntnu.no/profile/view/ramm/)  
 Det er helt innafor å ringe oss 24/7 ved behov.  
 
-Ved akutt behov for hjelp kontaktes:
+Akutt hjelp
+------------------------------------
 
 - Politiet 📞 **112**  
 - Ambulanse 📞 **113**  
 - Brannvesen 📞 **110**
 
-
-
-[test](tel:90752242)
+Hvis det ikke haster kontaktes:
+- Politiet 📞 **02800**  
+- Legevakt 📞 **116117**
