@@ -12,3 +12,5 @@ Tirsdag 14/08  | 11:50 - 13:00  | Immatrikulering  |  [Gløshaugen, den store pl
   | 14:00 - 15:00  | Info fra hovedstyret + pizza  |  
   | 16:00 - 21:00  | Vors med faddergruppa  |  
   | 21:00 - 02:00  | Immfest @ Samfundet  |
+
+Resten lastes opp når det er klart.
