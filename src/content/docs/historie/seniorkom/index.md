@@ -21,7 +21,8 @@ Komiteen består for øyeblikket av 14 engasjerte studenter.
 
 | År           | Leder            | Nestleder        | Medlemmer| Medlemmer| Medlemmer| Medlemmer| Medlemmer| Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|
 |--------------|------------------|------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| 2018         | Endre Ulberg | Sondre Widmark |Agnete Djupvik|Camilla Tran|Ellen Bakksjø|Erik Wiker|Hege Borge|Henrik Munkeberg|Kristoffer Hajem|Margit Schjefte|Nils Herde|Sigve Skaugvoll|Trine-Lise Helgesen|          |          |          |          |
+| 2018h         | Endre Ulberg |Agnete Djupvik|Camilla Tran|Erik Wiker|Henrik Munkeberg|Kristoffer Hajem|Martin Bjerke|Trine-Lise Helgesen          |          |          |
+| 2018v         | Endre Ulberg | Sondre Widmark |Agnete Djupvik|Camilla Tran|Ellen Bakksjø|Erik Wiker|Hege Borge|Henrik Munkeberg|Kristoffer Hajem|Margit Schjefte|Nils Herde|Sigve Skaugvoll|Trine-Lise Helgesen| Martin Bjerke         |          |          |          |
 
 
 
