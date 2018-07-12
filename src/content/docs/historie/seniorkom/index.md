@@ -12,6 +12,9 @@ Arbeidsoppgaver/annet engasjement komiteen har er:
 * Fadderuke for masterstudenter
 * Komitekickoff
 * En backup til sin respektive komitee
+* Intro kurs til masteroppgave
+* Tillitsvalgtseminar
+
 
 Medlemmer
 ---------
