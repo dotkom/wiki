@@ -9,8 +9,8 @@ Dersom du av ulike årsaker trenger å komme i kontakt med en arrangør, kan du 
 |  ------ | ------ | ------ |
 |  [Charlotte Söderström](https://online.ntnu.no/profile/view/cmrisbak/) | **Leder** | Alle |
 |  [Thomas Iversen Ramm](https://online.ntnu.no/profile/view/ramm/) | **Nestleder** | Alle |
-|  [Simon Hagen Strand](https://online.ntnu.no/profile/view/kakedrage/) | **Masteransvarlig** | Master |
 |  [Siri Granheim](https://online.ntnu.no/profile/view/siriframboise/) | **Økonomi** | Alle |
+|  [Simon Hagen Strand](https://online.ntnu.no/profile/view/kakedrage/) | **Masteransvarlig** | Master |
 |  [Alis Wiken Wilson](https://online.ntnu.no/profile/view/alisww/) |  | Bachelor |
 |  [Anniken Syvertsen](https://online.ntnu.no/profile/view/annikers/) |  | Bachelor |
 |  [Elias Bjørnstad Vågan](https://online.ntnu.no/profile/view/eliasbv/) |  | Bachelor |
