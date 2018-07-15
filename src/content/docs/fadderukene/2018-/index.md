@@ -8,8 +8,8 @@ Informasjonskanal for fadderukene 2018
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2018-/faddere/)  
 * [For faddere](https://online.ntnu.no/wiki/online/fadderukene/2018-/fadder/) (kun faddere har tilgang) 
 * [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
-* [Program - Bachelor](https://online.ntnu.no/wiki/online/fadderukene/2018-/program-bachelor)    
-* [Program - Master](https://online.ntnu.no/wiki/online/fadderukene/2018-/program-master)  
+* [Program - Bachelor](https://online.ntnu.no/splash/)    
+* [Program - Master](https://online.ntnu.no/splash/)  
 * [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2018-/velkom)
 
 ### Uforventede hendelser
