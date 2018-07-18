@@ -31,6 +31,7 @@ Tilhørende wikisider
 |[Opalus Polypus](mailto:opaluspolypus@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916904223)|Instituttet for biologiske fag| | | |[Facebookside](https://www.facebook.com/opaluspolypus/)| |
 |Sekstanten|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917687404)|Nautikk| | | |[Facebookside](https://www.facebook.com/Sekstanten)||
 |[Galleonen](mailto:galleonen@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916807341)|Shipping Management| | | | [Facebookside](https://www.facebook.com/galleonen)| |
+|Myokard|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918639586)|Institutt for helsevitenskap| | | | [Facebookside](https://www.facebook.com/SFMyokard/)| |
 
 ## Masterforeninger
 
