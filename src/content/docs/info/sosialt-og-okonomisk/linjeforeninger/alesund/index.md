@@ -26,10 +26,11 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Avis|Facebook|Boksalg|
 |---|---|---|---|---|---|---|---|
-|[Aqua Ålesund](mailto:aqua.aalesund@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Vann- og Miljøteknikk| | | | [Facebookside](https://www.facebook.com/AquaAlesund)| |
-|Sekstanten|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917687404)|Nautikk| | | |[Facebookside](https://www.facebook.com/Sekstanten/?fref=ts)||
-|Galleonen|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916807341)|Shipping Management| | | | [Facebookside](https://www.facebook.com/galleonen)| |
-
+|[Aqua Tecta](mailto:aqua.tecta.ntnu@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Byggingeniør og Vann- og Miljøteknikk| | | | [Facebookside](https://www.facebook.com/AquaAlesund)| |
+|[Epsilon](mailto:epsilon.linjeforening@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=919989696)|Data, Automasjon og Elkraft| | | | [Facebookside](https://www.facebook.com/EpsilonAalesund/)| |
+|[Opalus Polypus](mailto:opaluspolypus@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916904223)|Instituttet for biologiske fag| | | |[Facebookside](https://www.facebook.com/opaluspolypus/)| |
+|Sekstanten|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917687404)|Nautikk| | | |[Facebookside](https://www.facebook.com/Sekstanten)||
+|[Galleonen](mailto:galleonen@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916807341)|Shipping Management| | | | [Facebookside](https://www.facebook.com/galleonen)| |
 
 ## Masterforeninger
 
