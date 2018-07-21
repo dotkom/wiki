@@ -19,8 +19,7 @@ Spørsmål eller kommentarer rettes til [charlotte.soderstrom@online.ntnu.no](ma
 |  **B11** | [Anniken Syvertsen](https://online.ntnu.no/profile/view/annikers/) | [Hanne Brynildsrud](https://online.ntnu.no/profile/view/hannbry/) | [Tania Holst](https://online.ntnu.no/profile/view/taniarh/) |  |  |  |
 |  **B12** | [Katarina Gjendem Murphy](https://online.ntnu.no/profile/view/katarina/) | [Nina Duong](https://online.ntnu.no/profile/view/ninadu/) | [Silje Førde Villandseie](https://online.ntnu.no/profile/view/siljefv/) | [Silje Marie Savland Moksnes](https://online.ntnu.no/profile/view/siljemariemoksnes/) |  |  |
 |  **M1** | [Erlend Gjelsvik](https://online.ntnu.no/profile/view/erlendgj/) | [Simon Hagen Strand](https://online.ntnu.no/profile/view/kakedrage/) |  |  |  |  |
-|  **M2** | [Andreas Aursand](https://online.ntnu.no/profile/view/aaursand/) | [Claus Bugge](https://online.ntnu.no/profile/view/clausbugge/) |  |  |  |  |
-|  **M3** | [Lars Møster](https://online.ntnu.no/profile/view/elgeneinar/) | [Magnus Warvik](https://online.ntnu.no/profile/view/warvik/) |  |  |  |  |
+|  **M2** | [Andreas Aursand](https://online.ntnu.no/profile/view/aaursand/) | [Claus Bugge](https://online.ntnu.no/profile/view/clausbugge/) | [Lars Møster](https://online.ntnu.no/profile/view/elgeneinar/) |  |  |  |  |
 |  **M4** | [Camilla Tran](https://online.ntnu.no/profile/view/camlo/) | [Christoffer Lofsberg](https://online.ntnu.no/profile/view/chrlofs/) | [Erik Wiker](https://online.ntnu.no/profile/view/erikwik/) | [Martin Bjerke](https://online.ntnu.no/profile/view/bjerke/) |  |  |
 |  **M5** | [Ingrid Evensen](https://online.ntnu.no/profile/view/ingriev/) | [Jens Omfjord](https://online.ntnu.no/profile/view/jomfjord/) | [Rein Holte-Berg](https://online.ntnu.no/profile/view/xtoptip/) |  |  |  |
 |  **M6** | [Ingvild Gravem](https://online.ntnu.no/profile/view/ingvildlg/) | [Synne Byre](https://online.ntnu.no/profile/view/synnebyre/) |  |  |  |  |
