@@ -3,7 +3,7 @@ title: "Søke om drikking på kontoret"
 ---
 
 Hvis det skal søkes om drikking på kontoret så kan dere sende mail til
- trikom@online.ntnu.no hvor man skal legge med søknadsskjema man finner på [denne linken](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Leie+av+lokaler+og+utstillingsboder).
+ trikom@online.ntnu.no hvor man skal legge med søknadsskjema man finner på [denne linken](https://innsida.ntnu.no/c/wiki/get_page_attachment?p_l_id=22780&nodeId=24647&title=Lån+av+lokaler&fileName=søknadskjema%20NY.pdf).
 Skjemaet skal inneholde at det er et fest/party arrangement, at det holdes på realfagsbygget, en kort beskrivelse av arrangementet, antall deltakere, dato, start- og sluttklokkeslett, kontaktperson (som er edru ansvarlig), vedkommendes telefonnummer, og at man har lest og forstått regler for bruk av areal. Ikke kryss av at det skal være alkoholservering da en kun drikker medbrakt alkohol. Husk også å lese reglene under.
 
 **Vi forventer at man rydder etter seg på kontoret etter et slik arrangement.**
