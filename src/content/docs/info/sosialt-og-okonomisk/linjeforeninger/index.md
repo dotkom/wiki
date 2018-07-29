@@ -205,7 +205,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
 -   **Musikere:**
     -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/),
-        [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
+        [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/the-lubricators/)
     -   Storband: [Emil](http://emilweb.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.no/)
     -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
@@ -219,7 +219,7 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Hytter:** [BSF](http://bergstud.no), [Janus](http://org.ntnu.no/janus)
 -   **Epostlister:** [Online](http://online.ntnu.no)
 -   **Veteranbil til galla, med sjåfør:** [A/F Smørekoppen](http://www.smorekoppen.no)
--   **Fotograf til galla:** [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=31)
+-   **Fotograf til galla:** [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/nettbutikk/?category=Tjenester)
 - **Kamerautstyr**: [Nabla](https://nabla.no/kamerautstyr/)
 
 ### Søke om sjenkebevilling til arrangementer
