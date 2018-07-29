@@ -40,8 +40,8 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [BSF](http://bergstud.no) (1914) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993555738) | Geologi, PetTek og MatTek | Bergmannsdrakten | [Berg](http://use.mazemap.com/#&v=1&dest=38251&desttype=poi) | Bergmanden | [Page](http://fb.com/bergstud), [Person](http://fb.com/bergstuderendes.forening) | [Boksalg](http://fb.com/groups/369041746482558/) |
 | [De Høylegerte](http://www.dehoylegerte.no/) (2000) |  | Materialteknologi |  | [Berg]() |  | [Page](https://www.facebook.com/dehoylegerte/) | |
 | [Delta](http://www.deltahouse.no) (1974) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996510352) | Matte, Fysikk, Statistikk | Styrebånd (grønn/sølv med sølvstripe i midten) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7591&desttype=poi) | Δt | [Page](http://fb.com/DeltaNTNU) | |
-| [Emil](http://emilweb.no) (1998) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991212736) | Energi og miljø | Styrebånd (grønn med gullkant), hatt | [Gamle elektro](http://use.mazemap.com/#&v=1&dest=103&desttype=poi) | [Vannmagasinet](http://emilweb.no/avis-arkiv/) | [Page](http://fb.com/emilface) | |
-| [HC](http://www.chemie.no) (1915) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990833761) | IndKjemi og BioTek | Styrebånd (gul/sort) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7588&desttype=poi) | Sugepumpen | [Page](http://fb.com/HoiskolensChemikerforening) | [Boksalg](http://fb.com/groups/420596124675473/) |
+| [Emil](http://emilweb.no) (1998) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991212736) | Energi og miljø | Styrebånd (grønn med gullkant), hatt | [Gamle elektro](http://use.mazemap.com/#&v=1&dest=103&desttype=poi) | Vannmagasinet | [Page](http://fb.com/emilface) | |
+| [HC](http://www.chemie.no) (1915) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990833761) | IndKjemi og BioTek | Styrebånd (gul/sort) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7588&desttype=poi) | Sugepumpen | [Page](http://fb.com/HoiskolensChemikerforening) | [Boksalg](https://www.facebook.com/groups/420596124675473/about/) |
 | [H.M. Aarhønen](http://aarhonen.no) (1913) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=890497292) | Bygg | Styrebånd (lilla/hvit/grønn) | [Byggteknisk](http://use.mazemap.com/#&v=1&dest=38031&desttype=poi) | Spikers Kårner | [Page](http://fb.com/Aarhonen) | |
 | [Hybrida](http://hybrida.no) (2003) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992407263) | IngVit og IKT | Styrebånd (rutete grønn/blå), kilt | [Gamle kjemi](http://use.mazemap.com/#&v=1&dest=7945&desttype=poi) | [Update^k](http://www.hybrida.ntnu.no/hybridaweb/Hybrida/Internavis/) | [Page](http://fb.com/hybrida) | [Boksalg](http://fb.com/groups/285067151615782/) |
 | [Janus](http://januslinjeforening.no) (1986) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992305126) | Indøk | Styrebånd (marineblått/hvitt, burgunderrødt bånd for tidligere medlemmer), styredaljer | [Kjelhuset](http://use.mazemap.com/#&v=1&dest=34697&desttype=poi) | JanuScript | [Page](http://fb.com/januslinjeforening) | [Boksalg](http://fb.com/groups/126833490754473/) |
@@ -61,11 +61,11 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |Masterforening|BrReg|Linje|Facebook|Avis|
 |---|---|---|---|---|
 |[BioM](http://org.ntnu.no/biom)||Biologi|[Page](http://fb.com/pages/BioM/211739618885287)||
-|[Bunnsolid](http://www.bunnsolidmsc.no/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=814470172)|Undervannsteknologi|||
-|[LAKS](http://org.ntnu.no/laks) (inaktiv nettside, se FB)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi|[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)||
-|[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/?page_id=108)|
+|Bunnsolid|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=814470172)|Undervannsteknologi|||
+|LAKS|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi|[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)||
+|[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/tidligere-hippodailies-2)|
 | Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet | [Page](https://www.facebook.com/pokayokeNTNU/) | | |
-|[Projeksjon](http://projeksjon.no) (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk|[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)||
+|Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk|[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)||
 |[ProMan](http://www.mscproman.com/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|[Group](https://www.facebook.com/groups/MScProMan/)|
 |[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen|[Group](http://fb.com/groups/2362192638/)||
 |[Soma](http://somantnu.blogspot.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Medisin|[Page](http://fb.com/SOMANTNU), [Group](http://fb.com/groups/159591847413555/)||
@@ -201,13 +201,13 @@ Arrangementer der linjeforeningene inviterer hverandre
 ### Utlån, utleie
 
 -   **Lyd og lys:**
-    -   Begge: [H.M. Aarhønen](http://www.aarhonen.ntnu.no/?q=node/158), [HC](http://www.hc.ntnu.no)
+    -   Begge: [H.M. Aarhønen](http://aarhonen.no/utleie/), [HC](http://www.hc.ntnu.no)
     -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/)
+    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/),
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
     -   Storband: [Emil](http://emilweb.no)
-    -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.ntnu.no/)
+    -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.no/)
     -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
     -   Korps: [BSF](http://bergstud.no)
     -   Orkester: [Mannhullet](http://mannhullet.no), [Omega](http://omega.ntnu.no)
