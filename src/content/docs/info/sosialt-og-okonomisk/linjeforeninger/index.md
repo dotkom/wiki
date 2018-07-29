@@ -114,9 +114,9 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Kulturstyret**, SiT ved Kulturstyret deler ut 1.000.000 i året
     -   Les mer på [sit.no/forening/støtte-til-foreninger](https://www.sit.no/forening/st%C3%B8tte-til-foreninger)
     -   På høsten tildeles midler til oppstartsprosjekter (ny
-        linjeforening, nytt band, ny webside, osv)
+        linjeforening, nytt band, ny webside, osv.)
     -   På våren tildeles midler til drift (videreføring, vedlikehold,
-        osv), det er her brorparten av midlene deles ut
+        osv.), det er her brorparten av midlene deles ut
 -   **Prosjektmidler**, Studenttinget deler ut opptil 45.000 i året til
     nyoppstartede prosjekter
     -   Les mer på [www.studenttinget.no/prosjektmidler](http://www.studenttinget.no/prosjektmidler)
