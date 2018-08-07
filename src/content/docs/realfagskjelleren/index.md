@@ -7,7 +7,7 @@ Realfagskjelleren er Online's egen kjeller, som vi deler med [Volvox & Alkymiste
 
 ## Kontakt
 
-Kjellerstyret kan nåes på [realfagskjellern-styre@list.stud.ntnu.no](mailto:realfagskjellern-styre@list.stud.ntnu.no)
+Kjellerstyret kan nåes på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no)
 
 Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
 
