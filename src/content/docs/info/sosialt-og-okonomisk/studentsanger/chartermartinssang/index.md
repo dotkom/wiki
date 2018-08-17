@@ -2,7 +2,7 @@
 title: "CharterMartins Vise"
 ---
 
-Åh Heeeeeei og h3333333i og håååå
+Åh Hei og hei og hå
 
 Se til venstre og hils,
 Ja ta en slurk av din pils!
