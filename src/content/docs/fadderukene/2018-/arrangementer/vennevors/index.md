@@ -6,7 +6,7 @@ Steder for de ulike versene publiseres her senest 24 timer før. Møt opp presis
 
 Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse
 ------------- | ------------- | ------------- | ------------- | -------------
-B1  |   |   |   | 
+B1👎🏻  |   |   |   | 
 B2  | 3  |   |   | 
 B3  |   | Sander Haga (Online)  | 97127010  | Adresse kommer i løpet av kvelden
 B4  | 5  | Morten Falstad (Online)  | 92815046  | [Teknobyen](https://www.google.no/maps/place/Teknobyen+studentboliger/@63.4162935,10.3964375,17z/data=!3m1!4b1!4m5!3m4!1s0x466d3194dadc73a1:0x801d592f9bc78d39!8m2!3d63.4162911!4d10.3986263)
