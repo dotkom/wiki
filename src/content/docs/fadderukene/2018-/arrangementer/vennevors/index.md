@@ -9,7 +9,7 @@ Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse
 B1  |   |   |    | 
 B2  |   |   |    | 
 B3  |   |   |    | 
-B4  |   |   |    | 
+B4  | 5  |   |    | 
 B5  |   |   |    | 
 B6  |   |   |    | 
 B7  |   |   |    | 
