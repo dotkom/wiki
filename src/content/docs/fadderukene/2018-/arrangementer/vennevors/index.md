@@ -6,15 +6,15 @@ Steder for de ulike versene publiseres her senest 24 timer før. Møt opp presis
 
 Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse
 ------------- | ------------- | ------------- | ------------- | -------------
-B1  |   |   |    | 
-B2  | 3  |   |    | 
-B3  |   |   |    | 
-B4  | 5  |   |    | 
-B5  |   |   |    | 
-B6  |   |   |    | 
-B7  |   |   |    | 
-B8  |   |   |    | 
-B9  |   |   |    | 
-B10  | 4  |   |    | 
-B11  |   |   |    | 
-B12  |   |   |    |
+B1  |   |   |   | 
+B2  | 3  |   |   | 
+B3  |   |   |   | 
+B4  | 5  |   |   | 
+B5  |   |   |   | 
+B6  | 9  | Sander Lindberg  | 98815561   | 
+B7  |   |   |   | 
+B8  |   |   |   | 
+B9  |   |   |   | 
+B10  | 4  |   |   | 
+B11  |   |   |   | 
+B12  |   |   |   |
