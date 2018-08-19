@@ -17,4 +17,4 @@ B8  |   | Peter Rydberg (Online)  |  47948135 | [Moholt allmenning 8, 4 etasje](
 B9  |   |   |   | 
 B10  | 4  | Sanja Prodanovic (PSI)  | 91359503  | [Moholt Allmenning 8, 3. etasje](https://www.google.no/maps/place/Moholt+Allmenning+8,+7050+Trondheim/@63.411392,10.4309013,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31c9f2a40e37:0xf2e422dcc54aee18!8m2!3d63.4113896!4d10.43309)
 B11  |   | Tania??? (Online)  |   | 
-B12  |   | Nina med liten gruppe?  |   |
+B12  |   | Nina med liten gruppe? (Online)  |   |
