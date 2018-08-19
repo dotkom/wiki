@@ -7,7 +7,7 @@ Steder for de ulike versene publiseres her senest 24 timer før. Møt opp presis
 Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse
 ------------- | ------------- | ------------- | ------------- | -------------
 B1  |   |   |    | 
-B2  |   |   |    | 
+B2  | 3  |   |    | 
 B3  |   |   |    | 
 B4  | 5  |   |    | 
 B5  |   |   |    | 
