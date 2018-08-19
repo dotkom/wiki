@@ -6,8 +6,8 @@ Steder for de ulike versene publiseres her senest 24 timer før. Møt opp presis
 
 Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse
 ------------- | ------------- | ------------- | ------------- | -------------
-B1👎🏻  |   |   |   | (Osloveien 44B)[https://www.google.no/maps/place/Osloveien+44B,+7018+Trondheim/@63.4233847,10.3714341,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31895e4313ed:0x6a64d88122fedde0!8m2!3d63.4233823!4d10.3736228)
-B2  | 3  |   |   | 
+B1  |   |   |  | 
+B2  | 3  | Erik Le Blanc (PSI)  | 93490365  | [Osloveien 44B](https://www.google.no/maps/place/Osloveien+44B,+7018+Trondheim/@63.4233847,10.3714341,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31895e4313ed:0x6a64d88122fedde0!8m2!3d63.4233823!4d10.3736228)
 B3  |   | Sander Haga (Online)  | 97127010  | Adresse kommer i løpet av kvelden
 B4  | 5  | Morten Falstad (Online)  | 92815046  | [Teknobyen](https://www.google.no/maps/place/Teknobyen+studentboliger/@63.4162935,10.3964375,17z/data=!3m1!4b1!4m5!3m4!1s0x466d3194dadc73a1:0x801d592f9bc78d39!8m2!3d63.4162911!4d10.3986263)
 B5  | 5  | Bendik Brunvoll (Online)  | 41407850  | [Teknobyen](https://www.google.no/maps/place/Teknobyen+studentboliger/@63.4162935,10.3964375,17z/data=!3m1!4b1!4m5!3m4!1s0x466d3194dadc73a1:0x801d592f9bc78d39!8m2!3d63.4162911!4d10.3986263)
