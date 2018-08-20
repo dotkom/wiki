@@ -7,7 +7,7 @@ Ta kontakt med de dere skal vorse med. Avtal diverse direkte med dem. Kontaktper
 
 Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse
 ------------- | ------------- | ------------- | ------------- | -------------
-B1  | 8???  | Jakob Andersen (PSI)  | 93480251  | [Løkkegata 1](https://www.google.no/maps/place/Løkkegata+1,+7018+Trondheim/@63.4282609,10.3671282,17z/data=!3m1!4b1!4m5!3m4!1s0x466d318816d0d2cf:0xc5b88ead9458e13d!8m2!3d63.4282585!4d10.3693168)
+B1  | 7  | Jakob Andersen (PSI)  | 93480251  | [Løkkegata 1](https://www.google.no/maps/place/Løkkegata+1,+7018+Trondheim/@63.4282609,10.3671282,17z/data=!3m1!4b1!4m5!3m4!1s0x466d318816d0d2cf:0xc5b88ead9458e13d!8m2!3d63.4282585!4d10.3693168)
 B2  | 3  | Erik Le Blanc (PSI)  | 93490365  | [Osloveien 44B](https://www.google.no/maps/place/Osloveien+44B,+7018+Trondheim/@63.4233847,10.3714341,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31895e4313ed:0x6a64d88122fedde0!8m2!3d63.4233823!4d10.3736228)
 B3  |   | Kasper Maagerø Svendsen (Online)  | 41329018  | [Odd Brochmanns veg 41](https://www.google.no/maps/place/Odd+Brochmanns+veg+41,+7030+Trondheim/@63.4142169,10.4148294,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31b8a1a0e647:0x81286cd99ac59ba!8m2!3d63.4142145!4d10.4170181)
 B4  | 5  | Morten Falstad (Online)  | 92815046  | [Teknobyen](https://www.google.no/maps/place/Teknobyen+studentboliger/@63.4162935,10.3964375,17z/data=!3m1!4b1!4m5!3m4!1s0x466d3194dadc73a1:0x801d592f9bc78d39!8m2!3d63.4162911!4d10.3986263) (felles med B5)
