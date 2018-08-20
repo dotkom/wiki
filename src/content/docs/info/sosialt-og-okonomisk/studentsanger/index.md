@@ -144,6 +144,5 @@ Dikt
 
 -   [Ved et studenterjubilæum](/wiki/online/info/sosialt-og-okonomisk/studentsanger/studenterjubileum)
 -   [Studentersange](/wiki/online/info/sosialt-og-okonomisk/studentsanger/studentersange)
--   [Studentersang](/wiki/online/info/sosialt-og-okonomisk/studentsanger/studentersang)
-
--   [CharterMartins-sang](/wiki/online/info/sosialt-og-okonomisk/studentsanger/chartermartinssang)
+-   [Studentersang](/wiki/online/info/sosialt-og-okonomisk/studentsanger/studentersang)  
+-   [CharterMartins-vise](/wiki/online/info/sosialt-og-okonomisk/studentsanger/chartermartinssang)
