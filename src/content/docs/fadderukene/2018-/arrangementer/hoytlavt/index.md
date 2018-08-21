@@ -4,27 +4,12 @@ title: "Høyt og lavt"
 
 På grunn av begrenset kapasitet i klatreparken må faddergruppene møte til ulike tider. Se under for å sjekke oppmøtetider for din faddergruppe.
 
-Foreløpig oppmøte-plan
+Endelig oppmøte-plan
 ------------------
-
-Planen er ikke endelig og kan bli endret.
 
 Gruppe  | Oppmøte  | Sluttidspunkt
 ------------- | ------------- | -------------
-M5  | 13:00  | 16:00
-M4  | 13:15  | 16:15
-M3  | 13:30  | 16:30
-M2  | 13:45  | 16:45
-M1  | 14:00  | 17:00
-B7  | 14:30  | 17:30
-B12  | 14:45  | 17:45
-B8  | 15:00  | 18:00
-B4  | 15:15  | 18:15
-B5  | 15:30  | 18:30
-B11  | 15:45  | 18:45
-B2  | 16:00  | 19:00
-B1  | 16:15  | 19:15
-B10  | 16:30  | 19:30
-B6  | 16:45  | 19:45
-B9  | 17:00  | 20:00
-B3  | 17:15  | 20:15
+Master  | 13:00  | 16:00
+B1, B2, B10, B11, B12  | 16:20  | 19:20
+B4, B6, B9,    | 16:40  | 19:40
+B3, B4, B5, B8  | 17:00  | 20:00
