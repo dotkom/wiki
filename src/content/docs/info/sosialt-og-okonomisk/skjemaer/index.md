@@ -23,6 +23,9 @@ Vi setter veldig stor pris på synlige kvitteringer, enten skannet med en dedike
 
 For å få kvitteringer i samme PDF-fil som skjemaet åpner du PDFen, og velger fra menylinjen: Rediger --> Sett inn --> Side fra fil
 
+### Slå sammen signatur, utfylt kvitteringsskjema og kvitteringer
+Dette 100% legite [scriptet](https://pastebin.com/adNzpTxb) legger sammen kvitteringer, utfylt kvitteringsskjema og signatur til en bestemt fil.
+
 ### LaTeX
 
 Dersom man ikke har en PDF-klient som er så glad i å merge PDF-filer så kan man enkelt gjøre det i LaTeX også:
