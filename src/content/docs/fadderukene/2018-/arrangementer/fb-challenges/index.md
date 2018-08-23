@@ -24,4 +24,19 @@ I forbindelse med Facebook-festen har vi laget en rekke utfordringer og morsomme
 2. publisering (utestedet ca. 23:30)
 ------------------ 
 
-- Kommer når folk er ute på utestedet (ca. 23:30).
+
+- Bli Facebook-venn med en fadder som ikke er din egen  
+- Like profilbildet til en av motsatt kjønn  
+- Sende en melding på messenger og spørre om personen vil møte deg i baren (må være en du ikke har hilst på før #stalker (i kveld er den helt innafor!))  
+- Legg til en fra en annen faddergruppe på Snapchat  
+- Ta en selfie med en fadder av motsatt kjønn og legg ut på My story med tekst @amazingfadder (eller eventuelt en annen Online-bruker)  
+- Ring en person på messenger for å fortelle at vedkomne ser bra ut  
+- Gi en klem til en arrangør du har lagt merke til  
+- Skriv hilsen, navn og telefonnumemr på T-skjorta til en av motsatt kjønn  
+- Selfie til @amazingfadder med en fra velkom  
+- Ring en person på messenger og spørre om dere skal møtes på dansegulvet  
+- Spør en person av motsatt kjønn om vedkomne vil spise nattmat med deg  
+- Sett deg på fanget til en tilfeldig person og start en samtale  
+- Send 5 kr med Vipps til 95522757 (hun vet ikke at det står her)  
+- Gi uoppfordret massasje til en person du ikke kjenner så godt på fire fine  
+- Spør om å få se undertøyet til en annen person
