@@ -21,7 +21,7 @@ I forbindelse med Facebook-festen har vi laget en rekke utfordringer og morsomme
 - Tegn en tegning på en annen sin T-skjorte  
 
 
-2. publisering (utestedet ca. 23:00)
+2. publisering (utestedet ca. 23:30)
 ------------------ 
 
-- Kommer når folk er ute på utestedet (ca. 22:30-23:00).
+- Kommer når folk er ute på utestedet (ca. 23:30).
