@@ -19,7 +19,7 @@ Post  | Beskrivelse
 8  | Vannkrig
 
 ### Tidsskjema
-Gruppe  | Start (post)  | Tautrekking  | Bumperballs  | Såpefotball
+Gruppe  | Start (post)  | Tautrekking (post 3)  | Bumperballs (post 5)  | Såpefotball (post 6)
 ------------- | ------------- | ------------- | ------------- | -------------
 B1 og B12  | 1  | 14:00   | 15:00   | 15:30
 B2 og B11  | 2  | 13:30   | 14:30   | 15:00
