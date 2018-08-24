@@ -2,7 +2,7 @@
 title: "Onlinelekene 2018"
 ---
 
-Hver post varer i 30 min
+Hver post varer i 30 minutter. [Områdekart finnes her](https://drive.google.com/open?id=1PjjBbpnqoDaX6vEfdtEbUUkevlCP2pk_&usp=sharing)
 
 Gruppe  | Start (post)  | Tautrekking  | Bumperballs  | Såpefotball
 ------------- | ------------- | ------------- | ------------- | -------------
