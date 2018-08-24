@@ -2,7 +2,7 @@
 title: "Onlinelekene 2018"
 ---
 
-Hver post varer i 30 minutter. [Områdekart finnes her](https://drive.google.com/open?id=1PjjBbpnqoDaX6vEfdtEbUUkevlCP2pk_&usp=sharing)
+Hver post varer i 30 minutter. Områdekart finnes [digitalt](https://drive.google.com/open?id=1PjjBbpnqoDaX6vEfdtEbUUkevlCP2pk_&usp=sharing) eller som [PDF](https://online.ntnu.no/wiki/online/fadderukene/2018-/arrangementer/onlinelekene/_plugin/attachments/download/516/)
 
 Gruppe  | Start (post)  | Tautrekking  | Bumperballs  | Såpefotball
 ------------- | ------------- | ------------- | ------------- | -------------
