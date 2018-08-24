@@ -6,7 +6,7 @@ Hver post varer i 30 min
 
 Gruppe  | Start (post)  | Tautrekking  | Bumperballs  | Såpefotball
 ------------- | ------------- | ------------- | ------------- | -------------
-B1 og B12  | 1  |    |    | 
+B1 og B12  | 1  | 14:00   | 15:00   | 15:30
 B2 og B11  | 2  |    |    | 
 B3 og B10  | 3  |    |    | 
 B4 og B9 | 4  |    |    | 
