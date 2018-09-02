@@ -10,7 +10,7 @@ Kontoret fyller rom A4-137 i 4. etg på A-blokka i [Realfagbygget](https://www.g
 
 ## Åpningstider
 
-Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent i semesteret grunnet eksamenslesing eller at kontorvakter ikke er satt opp enda. Det er i flittig bruk uansett, så det er nok noen innom i løpet av dagen uansett tid på året.
+Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent i semesteret grunnet eksamenslesing eller at kontorvakter ikke er satt opp enda. Det er i flittig bruk uansett, så det er nok noen innom i løpet av dagen uansett tid på året. I noen helger og kvelder er kanskje kontoret booket til ymse workshops og lignende, oversikt over disse bookingene [ligger her](https://calendar.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe%2FOslo).
 
 ## Kjøleskapene
 På kontoret har vi pr. dags dato to kjøleskap. Det til venstre er det mulig å oppbevare mat i, men det må merkes med navn ellers kan hvem som helst forsyne seg av den. Kjøleskapet til høyre er stortsett fylt med kioskvarer som kjøpes inn av triKom for videre salg til studentene. 
