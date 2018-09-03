@@ -22,7 +22,7 @@ Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de sk
 
 Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12.
 
-Kjelleren åpnet igjen i fadderukene 2018, og den 31. August var den store Premiereåpningen for den nye kjelleren.
+Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store Premiereåpningen for den nye kjelleren.
 
 
 ## Onlinere i Kjellerstyret
