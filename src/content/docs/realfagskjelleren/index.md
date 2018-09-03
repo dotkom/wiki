@@ -20,7 +20,9 @@ Senere ble [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.span
 
 Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. Illøpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
 
-Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
+Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12.
+
+Kjelleren åpnet igjen i fadderukene 2018, og den 31. August var den store Premiereåpningen for den nye kjelleren.
 
 
 ## Onlinere i Kjellerstyret
@@ -29,7 +31,7 @@ Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lok
 
 * Martin Bjerke (Kjellerkontakt)
 * Andreas F. Eikeland (Kjellersjef)
-* Sigurd Oxaas Wie (Økonomisjef)
+* Sigurd Oxaas Wie (Økonomiansvarlig)
 * Eigil Hjelmstad
 * Sander Lindberg
 
@@ -37,14 +39,14 @@ Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lok
 
 * Martin Bjerke
 * Petter Rostrup (Kjellerkontakt)
-* Marius Enerly (Økonomisjef)
+* Marius Enerly (Økonomiansvarlig)
 * Andreas F. Eikeland
 * Sigurd Oxaas Wie
 
 ### 2015/2016
 
 * Martin Bjerke (Kjellersjef)
-* Petter Rostrup (Barsjef)
+* Petter Rostrup (Nestleder)
 * Marius Enerly (Kjellerkontakt)
 * Trine-Lise Helgesen
 * Andreas F. Eikeland
@@ -69,7 +71,7 @@ Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lok
 
 * Håvard Slettevold
 * John Hanssen Kolstad
-* Aina  Elisabeth Thunestveit (Økonomisjef)
+* Aina  Elisabeth Thunestveit (Økonomiansvarlig)
 * Jim Frode Hoff (Kjellersjef)
 * Sverre Johann Bjørke
 
@@ -79,12 +81,12 @@ Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lok
 * Håvard Slettevold
 * John Hanssen Kolstad
 * Elling Overaa (Barsjef)
-* Aina  Elisabeth Thunestveit (Økonomisjef)
+* Aina  Elisabeth Thunestveit (Økonomiansvarlig)
 * Jim Frode Hoff
 
 ### 2010/2011
 
-* Juni Angelfos (Barsjef)
+* Juni Angelfos (Nestleder)
 * Lorents Gravås
 * Håvard Slettvold
 * John Hanssen Kolstad
@@ -100,7 +102,7 @@ Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lok
 * Håvard Slettvold
 * John Hanssen Kolstad
 * Trond Martin Nyhus
-* Elling Overaa (Barsjef)
+* Elling Overaa (Nestleder)
 * Jenny Rønningen
 * Aina  Elisabeth Thunestveit
 
