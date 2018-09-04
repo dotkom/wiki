@@ -1,0 +1,201 @@
+---
+title: "2018-09-04"
+---
+
+**Møtetidspunkt:** 14.15
+
+**Sted:** 054
+
+**Servering:** Adrian
+
+**Referering:** Andreas
+
+**Vinstraff:** Aslak x 2 (Sen innkalling og sen på møtet)
+
+**Ølstraff:** Jakob (For sent ute med referat offentlig)
+
+**Tilstede:** Christoffer, Hanne, Sander, Jakob, August, Adrian, Pål, Johannes, Endre, Andreas
+
+**Mangler:** Christian (Jobbintervju)
+
+## Gjøremål
+[Her skal alle gjøremålene som kommer opp i løpet av møtet skrives ned, slik at det er enkelt å sjekke hva man må gjøre i etterkant av møtet. Referent har ansvar for å skrive inn her etter møtet.]
+
+Loffen - skriver mail om broderskapet.
+Endre - ser på Copyright strikes
+Pål og Jakob - skal finne en rosa perm som har alle taushetskontraktene til komiteene.
+Pål -  må fikse svarmail til Thilde.
+Alle som har mulighet -  møter på fredag og fikser brev til studenter til immballet.  
+Endre, og andre som kan - skal sitte å dele ut daljer til folk som vil ha i morgen på kontoret, mellom 13 og 16.
+
+
+## Innsjekk (08:15 - 4 min)
+[Hvordan har dere det?]  
+
+Christoffer:  Syk og overarbeidet, men ellers bra
+Hanne:  mye å gjøre
+Sander:  Trøtt
+Jakob:  Var syk, ble frisk. Skal til frankrike
+August:  All good in the hood
+Adrian:  Tok listingløpet, ble frist. Var syk
+Pål:  Er syk, har vært syk, skal være syk. skylder på nach
+Johannes:   Begynner å bli frisk. litt overarbeidet
+Endre:  Litt overarbeidet, men er frisk, OG TRENER!
+Andreas:  Begynner å bli frisk
+Aslak:  Ganske syk og overarbeidet
+
+## 111 Godkjenning av innkalling, servering og referat fra forrige uke (08:19 - 1 min)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+Sen innkalling. Godkjent servering.
+
+## 112 Status for komiteene (08:20 - 20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+
+Arrkom: Arrangert volleyball. Var gøy for de som var der, ålreit oppmøte, 40 stk. Immball nærmer seg. Har søkt om rom for styrevors på gløshaugen, da det ikke har vært noe annet alternativ i Trondheim. Har tatt  5 opp nye og første møte med de er på torsdag.
+
+Velkom: Skal lage erfaringsskriv i kveld (Tirsdag), sammendrag for fadderukene kommer neste uke
+
+#### Bankom:
+
+Hadde workshop på søndag. Driver å reviderer økonomien for våren 2018.
+
+#### Bedkom, med ITEX:
+
+Første bedriftpresentasjon i går, bra oppmøte, Skatteetaten var fornøyde. Har tatt opp 5 nye. Litt uheldig med bussen, som var bestilt en time for tidlig. Bedriften vil ikke belastes for de ekstra kostnadene dette medfører.
+
+ITEX: Har hatt ITEX i forrige uke. Gikk veldig bra. Alle bedriftene var fornøyde med opplegget.
+
+#### Dotkom:
+
+Har hatt opptak, tatt opp 6 nye. Første møte på Onsdag.
+
+#### Fagkom, med ekskom:
+
+Fagkom: Driver tidlig planlegging av kurs. Første arrangement er ikke før i slutten av september. Har tatt opp 5 nye.
+
+Ekskom: Har hatt 2 avbestillinger. Planlegger å starte kontakt med bedkom angående Tech Talks. Driver fortsatt med headhunting til komiteen.
+
+#### Prokom:
+
+Har hatt opptak, 7 nye. Første møte på fredag. Korktavlene som skal være på A4 kommer i morgen. Har sendt inn immball-programet til trykk. Flere plakatbestillinger har kommet inn.
+
+#### Trikom:
+
+Har hatt opptak. Tatt opp 6 nye. Hadde arrangement med arrkom, gikk bra. Har en del mat igjen fra volleyball, vil bruke dette opp på en grilling i løpet av September. Første møte på Torsdag.
+
+#### Seniorkom:
+
+Tatt opp 5, og får muligens 3 til. Skal ha ny nestleder, Andrea stiller muligens, og skal se om andre er interessert. Kickoff arrangeres neste uke.
+
+#### Leder og nestleder:
+
+Nestleder: Har drevet med komitéopptak. Begynt å planlegge kompilering. Skal avholde kurs på kickoff om hvordan det er å være komitémedlem.
+
+Leder: Møte på Mandag med linjeledere angående #Metoo Akademia. Anngår "hookeforbudet" i fadderukene. Skal lunche med V&A og Delta for å prate om endring i opptak på master.
+
+Hadde en liten knekk, så kjørte igjennom backlog og videresendte oppgaver til Seniorkom for å få litt avlastning.
+
+
+
+#### ITV:
+
+Mail fra Martin:
+
+- Tord Stamnes og Ingrid Evensen er blitt innstilt som PTV'er
+- IDI har fått en ny ansatt, Linda Vinter, som skal styre med samlokalisering. Hun skal først og fremst ordne med flyttingen av kalvskinnet, men fram til jul skal hun jobbe med å fikse a-blokka. Jeg, Anna(ITV for data) og Endre(?) skal møte henne i morgen og snakke om hva som mangler, derav masse info til neste uke
+- ITVene har begynt å se på hvordan det kan bli lettere å dra på utveksling for IDI studentene
+- Jeg har etterspurt å få et lager på realfagbygget
+- Guru tjenesten skal se på å skaffe infoskjermer til a-blokka og jeg har gitt kontaktinfoen til online og abakus til Alf(sjefen for Guru) så han kan ta kontakt angående å få et kravspek til hvordan systemet burde funke. Tok ikke dette selv, da jeg tenker det er mer prokom/dotkom sitt bord da jeg ser for meg at det er som de vil ha mest med det fremtidige systemet å gjøre. Det kommer nok til å ta litt tid å ordne dette, men ballen ruller så det kommer.
+- Endre har fikset tilganger til A-blokka, så om dere hører om noen som ikke har tilgang må disse ta kontakt med byggsikkring selv
+
+
+#### RFK:
+
+Knallbra åpning. Fullt etter 1 time. fullt resten av kvelden. Skal ta opp nye innen fredag. Skal kun holde fredagsåpent ut September, så se det ann resten av semesteret.
+
+#### Samlokaliseringsrepresentant:
+
+Ventilasjonsoppdatering: Blitt fortalt at det er skrudd på, men dette stemmer mest sannsynlig ikke. Kan hende at vi begynner å sende avviksmeldinger til bygg-avdelignen. Avviksmeldinger blir nevnt i en facebookpost sammen med annen info fra samlokalisering som kommer i løpet av uken.
+
+Christoffer var på befaring med nyansatte i går. Nyansatt Hadde ikke mye erfaring fra NTNU, men var gira på å fikse problemer og feil. Det skal også bli frosting på vinduene til mastersalene.
+
+## 113 Interkom (08:40 - 10 min)
+[Her skal saker som angår tre eller flere komiteer]
+
+Infomail: Det står desidert lite på den. Folk må begynne å legge inn arrangementer.
+
+
+## 114 Nye komitemedlemmer (08:50 - 10 min)(Loffen)
+[Ting som må huskes, ting som må fikses.]
+
+ - Aktivere Online sin e-post ved å generere en egen online-mail.
+ - Signere taushetskontrakt. Dette er veldig viktig! Få de til å signere asap. Tips: Skriv ut til møtet og få de til å signere der. Legg den i en egen perm på kontoret, rosa perm. Pål og Jakob skal finne den.  
+ - La de komme godt inn i arbeidet. Ikke gi de meningsløse oppgaver.
+ - Komitédaljer skal ikke gies ut før julebordet nærmer seg.
+ - Fortell dem at de er heldige som har kommet med, og ikke snakke negativt rundt dem selv. Det er kandidater som ikke kom med.
+ - Pass på at de kommer på komitékickoff. 15. September
+ - Informer de om vinstraff.
+ - Legg de inn på grupper på dashboard, oppdater chunken på OW.
+ - Ikke snakk dritt om andre komiteer.
+
+
+## 115 Komitéopptak (08:55 - 5 min) (Adrian
+[Noen ord fra Adrian]
+
+Angående hvem man sender som intervjuer:  
+  intervjuere skal holde en samtale, ikke stille spørsmål. Man kan gå glipp av mange gode kandidater om man stirrer konstant ned i referingsnotater og fremstår som ikke tilstedeværende på intervjuer. Skriv gjerne ned dette i et erfaringsskriv til neste komitéledere. Det har også vært tilfeller der faddere har "coachet" fadderbarn til å søke spesifikke komiteer, som de kanskje ikke ellers ville ha valgt.
+
+4 personer er for mye per intervju. Bankom er enig, da de ikke følte at de bidro til intervjuet på noen måte da de satt der.
+Muligens ha noe intervjutrening til neste runde. Spørre HSP? God idé.
+Antall intervjuere per komité. bestem selv etter følelsen.
+
+Loffen har gjort en kjempejobb angående organisering av opptaket. Kudos til han!
+
+## Pause (09:00 - 5 min)
+[Flyttes punktvis nedover om klokken ikke er blitt 09:00]
+
+## 116 Representasjon av Online på Immatrikuleringsball (09:10 - 10 min)
+[Vi går igjennom hvilke immball folk vil på.]
+
+ - Thilde:  
+   - Vi fikser påmelding dit (Aslak, Andreas, August og Endre representerer), Gjøremål: Pål tar på seg oppgaven å fikse påmelding.
+ - Broderskapet:
+   - 14.09. Ingen melder seg umiddelbart, Sender ut mail til nestledere.
+
+
+## 117 Forespørsler som har kommet på e-post (09:20 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]
+
+- UBC kommer til NTNU:  
+  Universitet som har foredrag om utveksling. Er på dagtid på en onsdag. Vi dropper det.
+  (Vi burde ha en spam-kanal hvor vi kan ha spam som er relevant for våre studenter. Lage egen kanal for "Reklame" på Slack?)
+- Your Vimeo video has been removed for copyright infringement:  
+  Fått Copyright infringement. Fikk den 16. Juni, tok tid da det var ferie. Ble bumpet flere ganger. Noen i dotkom så på den, men hadde ikke tid. sendte det til HS. Trenger å "dispute claim" for å utfordre. Det er 2 disputes som må håndteres.   
+  (Gjøremål: Endre tar det på seg)  
+
+- [Kontakt] Hans Engstad har kontaktet dere gjennom online.ntnu.no:  
+   Har problemer med å endre medlemskap til informatikk-medlemskap. Noen må fikse dette i admin. (Gjøremål: Jakob tar på seg oppgaven)
+
+## 118 Eventuelt (09:30 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+ - Velkomstmail og utdeling av brev:  
+   Hva gjør vi med brevet? Dette må ut til studenter. Vi må printe og legge ut dette på plassene til Immballet. (Alle bortsett fra Andreas, Johannes og Christoffer kan stille på fredag. Hanne printer brevet, Adrian fikser konvolutter, Møtes kl. 14 på fredag.)
+ - De nye daljene:  
+   Vil gjøre det tilgjengelig for alle som vil ha de før immballet. Loffen og Hanne melder seg. Nodekomitedalje for de som er der nå trenger ikke betale. Kompileringsdaljen pushes ut på webshoppen. Endre organiserer utdeling av daljer i morgen (Onsdag)
+ - Blesting om kompilering:  
+   Vi møter 09:50, blesting skjer 09:55.
+ - Infoskjerm på A4:  
+   Infoskjerm er litt uavklart, da dette skal være en egen bacheloroppgave til våren, mens andre også jobber med det. Vi kontakter Guru for å få klart opp saken. Jakob kontakter Guru.
+
+ - Innsending av saker:  
+   Vi må huske på å sende inn saker til møte.
+
+
+## 119 Møteevaluering/Diggepunkt
+[Hva var bra og hva var dårlig? Alle må si minst en ting]
+
+ Tidlig møte, deilig møte, Happy, Glad for at vi er ferdig møte, litt mange eventuelt-saker.
