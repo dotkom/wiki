@@ -1,0 +1,252 @@
+---
+title: "Møte 2018-08-26"
+---
+
+**Møtetidspunkt:** 14.15
+
+**Sted:** R91
+
+**Servering:** Christian
+
+**Referering:** Jakob
+
+**Vinstraff:** 
+
+**Ølstraff:** Adrian
+
+**Tilstede:** Adrian, Christian, Christoffer, Aslak, Bjerke, Sigurd, Hanne, Andreas, Jakob, Pål, Johannes, Endre, Sander
+
+**Mangler:**
+
+## Gjøremål
+[Her skal alle gjøremålene som kommer opp i løpet av møtet skrives ned, slik at det er enkelt å sjekke hva man må gjøre i etterkant av møtet. Referent har ansvar for å skrive inn her etter møtet.] 
+
+Loffen - sende mail til andre i online om repping på immball
+
+Loffen - booke auditorium til kompilering så aslak kan ha intro tale
+
+Loffen - svare på mail: Bytte klasse på OW
+
+Johannes - svare på mail: Fwd: Blesting av PodLine
+
+Christian - svare på mail: [Onlinepotten] Bankom revisjon- og wikiworkshop
+
+Aslak - svare på mail: [gloshaugen] Evaluering av Kom-i-gang-dagen 2018, [Komitekickoff] - Topics -> møte edition
+
+## 100 Kakepunkt (14:40 - 5 min)
+Kake woooop.
+
+NAM NAM, den kaken var god!
+
+## Innsjekk (14:15 - 4 min)
+[Hvordan har dere det?]
+
+## 101 Godkjenning av innkalling, servering og referat fra forrige uke (14:19 - 1 min)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+Godkjent  
+
+## 102 Status for komiteene (14:20 - 20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+
+Arrkom:  Holder på å gjøre klar til immball, det meste er bankers. Det har vært litt stress med betalingsfrist, men det er fikset nå. Jobber med å finne styrevorslokale.
+
+Velkom: Har arrangert bra fadderuker!
+
+#### Bankom: 
+
+Jobbet med oversikt over representasjon på immball osv. Lagt inn div immball i kalenderen og betalt for immballet Bjerke og de skal på. 
+
+#### Bedkom, med ITEX: 
+
+Ting går bra, Skatteetaten påmelding i morgen, ellers begynner ting å komme i gang og det blir ganske hardt kjør fremover med mye bedpress.
+
+ITEX: ITEX begynner å bli klare, spent på logistikk med to fly.
+
+#### Dotkom: 
+
+Ting suser og går. Har hatt første møte og fått en opptakskomité på beina. Det merkes at det er færre folk enn før.
+
+#### Fagkom, med ekskom:
+
+Fagkom: Ting går fremover, første kurs holdes 25. sept med capgemini. Har tatt ansvar for å få påmelding til IT-dagene på gang, vi har 50 plasser i første omgang.
+
+Ekskom: fått svar på kontakten, ett par svar ang den, litt intern headhunting til opptak til neste år
+
+#### Prokom:
+
+Har hatt første møte og prøvd å få en opptakskomité på beina. Ikke fått noe status på daljene fra Peter. Har ellers prøvd å rekruttere folk til prokom i fadderukene.
+
+#### Trikom:
+
+Vært stressende i fadderukene. Holder på å planlegge volleyballturnering og de andre arrangementene dette semesteret. Skal handle inn ganske snart, men mangler innkjøpsans atm. Endre har fikset nøkkel til boden.
+
+#### Seniorkom:
+
+Ellen er tilbake i seniorkom etter permisjon. Har mottat søknad for støtte til ølbryggerkurs. Har første møte i morgen.
+
+#### Leder og nestleder:
+
+Nestleder: Ikke gjort så mye.
+Driver med komitéopptak.
+
+Leder: Jobbet med opplegget etter Fire Fine
+LL: Medier under fadderukene. 
+
+Lite krisemøte når avis kontaktet linjer om når opptaket deres var. LL rådførte seg så med SIT hvor det ble klart at mediene kan komme uansett. Dette førte til en diskusjon om hvorfor man har opptak, som kan gies som svar til mediene.
+
+LL: Høringssvar 
+
+Masteropptak
+Bovim og Roger i positive til endring av dette
+
+Areale for fest
+Tar dette opp videre på neste LL
+
+#### ITV:
+
+A-blokka: Tilganger er fikset, men det mangler tilgang til døra inn til 4-etasjen, dørnummeret på døra er ikke det samme som i systemet til vakt og service.
+Setter kjernetid mellom 08-18 hvor alle har tilgang pga ITGK og slike fag, utenom kjernetid er det Abakus og Online som har tilgang i A-blokka.
+Korktavler og infoskjerm jobbes med, status på ethernet på kontoret er ukjent, samme med kopimaskin osv.
+
+
+Ledergruppemøte: IDI må kvittes med 4 mill før jul. De skal få opp infoskjerm, og kanskje pimpe opp A-blokka med nye stoler, bedre pulter på mastersal osv.
+Det jobbes med å kjøre sammen strukturen på alle linjene under IDI, emner skal samkjøres på tvers av campus, som kan få virking for oss på sikt.
+
+IDI jobber med å rekrutere PhD studenter.
+
+Instiller Tord og Ingrid Evensen PTV
+
+
+#### RFK:
+
+VI HAR ÅPNET! *applaus*
+
+Har solgt ut nesten alt de kjøpte inn ila fadderuka, helt supert!
+
+
+#### Samlokaliseringsrepresentant:
+
+Se ITV, haha
+
+
+## 103 Interkom (14:45 - 10 min)
+[Her skal saker som angår tre eller flere komiteer]
+
+Bed, Tri, Ban: Kjøleskap og koppespons
+
+Bedkom er ganske negative til kjøleskapsponsor, blir dumt mot HSP. Når det kommer til kopper er det lite kult å rydde opp alt dette.
+Syns ikke vi skal spørre om så mye spons, alt for mange logoer.
+Bedre at folk har med personlig kopp, så tar folk ansvar for sitt eget.
+
+
+Bed, Dot, Ban: Cloud-sponsor
+
+Det utrykkes skepsis til cloud-spons, om det blir en fast kostnad kan det taes opp til budsjettendring på genfors.
+
+
+## 104 Forslag fra Tretteberg (14:55 - 10 min)
+[Bjerkis har greier]
+
+Møte i morgen om endring av MIT.
+Agenda her går ut på redusering av poeng for masteren, til 30 poeng pluss et forstudie på 15 poeng.
+
+Det har også vært snakket om å få to typer masteroppgaver, forskning og proffesjon, men det blir ikke tatt i denne runden.
+
+
+Det kommer også endringer i emner:
+
+Semester 2: Plab fjernes, MMI dyttes inn der.
+
+Semester 3: Teknikk-delen fra PU blir plassert i Prosjekt 1, PU og Prosjekt 1 blir med det mer forskjellige fag enn de er i dag, data skal også ha mulighet til å ha prosjekt 1.
+
+Semester 4: Plab 2 flyttes til våren, skal bli mer IoT-fag drevet av AI-gruppen, få restriksjoner her, BIT kan også be om dette faget.
+
+Diskusjon rundt emne endringer:
+Skummelt å gi så mange valgfag i 2. klasse, da mange av valgfagene bygger på det du har i 2. klasse.
+Muligheter for å gjøre Progsik til et 2. klasse fag?
+
+
+## Pause (15:05 - 5 min)
+[Flyttes punktvis nedover om klokken ikke er blitt 15:05]
+
+## 105 Vårt ansvar for holdninger i Online (15:10 - 10 min)
+[Dette angår personsaken som vi hadde i løpet av fadderuka]
+
+Velkom fikk til tider mye hate pga separeringen av bachelor og master. Det har vært mye prating i våre chatter om dette og våre holdinger til dette sprer seg.
+Vi må huske å stole på medarbeidere og at de gjør gode valg basert på det som blir best. så vi burde styre unn pissprat om andre komiteer osv.
+Itilegg må vi ta den kjipe jobben som er å slå ned på det når andre snakker om det.
+
+
+## 106 Representasjon av Online på Immatrikuleringsball (15:20 - 15 min) 
+[Vi går igjennom hvilke immball folk vil på og snakker litt om representasjon og hvordan vi håndterer det.]
+
+Påmeld av andre styrer ligger på rundt 35.
+
+
+Vi er nesten ikke meldt på noen immball. En av de største relasjonsbyggerne vi har. 
+Tok en gjennomgang om hvem som skal hvor, og fikk meldt på en del.
+
+Vi skal sende ut mail om noen i Online har lyst til å representere oss hos Smørekoppen, Berg eller Mannhullet.
+
+
+## 107 Forespørsler som har kommet på e-post (15:35 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]
+
+- [AMU/Samlokalisering] Status fra møte 22.08
+	Vi gjør ingen ting
+
+- [gloshaugen] Studentkampen Arrangement på facebook
+	Vi gjør ingen ting
+
+- [gloshaugen] Foreningskurs Høst -18
+	Vi gjør ingen ting
+
+- Bytte klasse på OW
+	Loffen svarer på denne
+
+- Fwd: Blesting av PodLine
+	Vi setter dette til den "letteste" moden være, til kan flyttes: Johannes svarer på dette
+
+- [gloshaugen] Evaluering av Kom-i-gang-dagen 2018
+	Aslak svarer på denne
+
+- [Onlinepotten] Bankom revisjon- og wikiworkshop
+	Vedtatt, Nyvoll svarer
+
+- [Komitekickoff] - Topics -> møte edition
+	Kurs i holdninger osv, Økonomikurs (hvordan føre kvitteringsskjema osv), Hvordan sende mail, Hva forventer vi av et komitemedlem, standard kursene (kaffe /v trikom osv.)
+	Aslak svarer
+
+
+## 108 Komitéopptak (15:45 - 15 min) 
+[Loffen: "Jeg skal bruke en halvtime"]
+
+Gjennomgang av intervjurunden: 
+
+- Alle i opptakskomiteene i de forkjsllige komiteene legges inn i trello osv.
+- Generelle holdninger på intervju, still relevante spørsmål osv.
+- Ta bilde av alle personene, da blir det mye lettere å kjøre allokering etterpå.
+- Bruk 10 min pausen mellom vært intervju på å få ned feelingen av personen.
+- Tenk sammensetning på klassetrinn i komiteen, mtp generasjonsskifte.
+- Fortell på intervju til de som har søkt kjelleren at kjelleren kommer til å ha eget intervju.
+- De får svar senest 9. sept.
+
+Diskusjon rundt opptaket:
+
+Skal vi sende ut liste over alle som har søkt til komiteene?
+Vi må ha tillit til komiteene, så dette går bra, men merk at det er veldig sensitivt, ikke ta dette på mail.
+
+Christian vil veldig gjerne at hver komite har kontroll på økans i komiteen mtp motivasjon og om vedkommende fortsetter, og har dette i bakhodet i opptaksprosessen.
+
+
+## 109 Eventuelt (16:00 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+Kan vi få table of content i referatene? ja takk!
+
+
+## 110 Møteevaluering/Diggepunkt
+[Hva var bra og hva var dårlig? Alle må si minst en ting]
