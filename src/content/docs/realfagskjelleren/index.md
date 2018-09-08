@@ -87,7 +87,7 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 * Lorents Gravås
 * Håvard Slettevold
 * John Hanssen Kolstad
-* Elling Overaa (Barsjef)
+* Elling Overaa (Nestleder)
 * Aina  Elisabeth Thunestveit (Økonomiansvarlig)
 * Jim Frode Hoff
 
