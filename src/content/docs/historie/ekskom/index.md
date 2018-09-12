@@ -12,7 +12,7 @@ Onlines tredje eksursjon ble gjennomført påsken 2016 og turen gikk da tilbake 
 
 I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasasjon. Den femte ekskursjonen ble gjennomført påsken 2018 og turen vil gikk til Seoul i Sør-Korea.
 
-2018 ble ekskom tatt ut av Online og oppretter igjen sin egen organisasjon som jobber tett med Online. Navnet på den nye organisasjonen er Ekskursjonkomiteen Online. Samarbeidet med Online fortsetter som før og ekskom vil ha kontakter fra bedkom, prokom og fagkom blant medlemmene sine for å ha et bedre samarbeid mellom alle komitene.
+**2018** ble ekskom tatt ut av Online og oppretter igjen sin egen organisasjon som jobber tett med Online. Navnet på den nye organisasjonen er Ekskursjonkomiteen Online. Samarbeidet med Online fortsetter som før og ekskom vil ha kontakter fra bedkom, prokom og fagkom blant medlemmene sine for å ha et bedre samarbeid mellom alle komitene.
 
 Den sjette turen til Online er planlagt til å gå til Kina. Der vi vil besøke Suzhou, Nanjing og Bejing i den faglige uken. Vi vil besøke Nanjing University, Feifanuniv og Huawei Nanjing R&D Center. Også vil vi besøke Tsinghua University i Beijing samt Face++ og Microsoft Research Centre.
 
