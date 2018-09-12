@@ -15,7 +15,9 @@ I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasa
 2018 ble ekskom tatt ut av Online og oppretter igjen sin egen organisasjon som jobber tett med Online. Navnet på den nye organisasjonen er Ekskursjonkomiteen Online. 
 
 Den sjette turen til Online er planlagt til å gå til Kina. Der vi vil besøke Suzhou, Nanjing og Bejing i den faglige uken. Vi vil besøke Nanjing University, Feifanuniv og Huawei Nanjing R&D Center. Også vil vi besøke Tsinghua University i Beijing samt Face++ og Microsoft Research Centre.
+
 Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise til Gulin, Yangshuo, Shenzhen og til slutt Hong Kong.
+
 2018 ble det også inngått et samarbeid med IPIT der formålet er å fremme akademisk og kulturelt læring. Det er også et mål at flere skal søke utveksling til Kina. 
 
 
