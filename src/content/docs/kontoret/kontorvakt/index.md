@@ -32,6 +32,7 @@ Om kontoret ikke er ryddig, faller dette ansvaret på kontorvakten. Ved endt kon
 - Rydding av kontoret betyr at man skal holde et lite øye med folk og si fra dersom de ikke rydder opp etter seg. Hvis noen nekter å rydde etter seg selv, send mail til kontorsjef@online.ntnu.no så tar kontorsjefen dette opp med vedkommende.
 - Kontorvakten er også ansvarlig for generell rengjøring på kontoret. Dette innebærer å vaske opp boller, bestikk og lignende som ligger igjen, og rengjøre microen om denne er skitten. Oppvaskmiddel og børste skal finnes ved vasken. 
 - Om gjenstander (inkludert microen) viser seg problematisk å holde rent, vil de bli fjernet.
+- Har du siste kontorvakt for dagen er det også din jobb å lukke døren til kontoret, så lenge det ikke sitter noen andre der. Sitter det folk på kontoret trenger du ikke å lukke døren.
 
 
 ##Praktisk informasjon
