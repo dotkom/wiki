@@ -1,5 +1,5 @@
 ---
-title: "Kontorvakt - under konstruksjon"
+title: "Kontorvakt"
 ---
 
 ##Ansvar og oppgaver
