@@ -27,9 +27,11 @@ Etter at kaffen er ferdigtraktet skal den tas med til kontoret, kaffekannen skal
 
 Som kontorvakt har man også ansvaret for kontoret. Dette innebærer å holde kontoret ryddig og presentabelt.
 
+****
 Har du første kontorvakt for dagen er det din jobb å ta kopper og lignende ut av oppvaskmaskinen, og plassere de i skapet over kaffetrakteren. 
 
 Har du siste kontorvakt for dagen blir det din jobb å sette på oppvaskmaskinen. Oppvaskpulver/tabletter skal ligge ved oppvaskmaskinen. Det er også din jobb å lukke døren til kontoret når du går, så lenge det ikke sitter noen andre der. Sitter det folk på kontoret trenger du ikke å lukke døren.
+****
 
 Om kontoret ikke er ryddig, faller dette ansvaret på kontorvakten. Ved endt kontorvakt skal det ikke finnes søppel, flasker, pappkopper eller lignende på kontoret. 
 
