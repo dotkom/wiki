@@ -7,18 +7,8 @@ Nåværende gjengmedlemmer
 
 
 - **Leder:** Emil Schrøder
-- **Nestleder:** Simen Blikeng
-- **Trener:** Henrik Sørensen
-- **Stikkballansvarlig:** Kristiane Westgård
-- **Håndballansvarlig:** Fride Skarseth
-- **Kiteansvarlig:** Tørres Lande
-- **HLS-Ansvarlig:** Petter Dybdal
-- **Squashansvarlig:** Øystein Hammersland
-- **Økonomiansvarlig:** Magnus Peter Langeland
-- **Skøyteansvarlig:** Christian Nyvoll
-- **Snowboardansvarlig:** Lasse Drevland
-
-
+- **Økonomiansvarlig:** Kaja Sofie Lundgaard, Christoffer Skar Lofsberg
+- **Arrangører:** Send mail til xsport@online.ntnu.no for å hjelpe
 
 
 Retningslinjer
