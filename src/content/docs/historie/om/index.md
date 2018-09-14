@@ -244,9 +244,13 @@ kaffedrikking.
 
 ## Hovedstyrer
 
+|År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
+|---|---|---|---|---|---|---|---|---|---|---|
+|2018v-2019v| Aslak Hollund |Christoffer Lofsberg|Christian Nyvoll|Johannes Kvamme| Adrian Thompson|Jakob Westermoen|Andreas Aursand|Hanne Brynildsrud|Pål-Edward Larsen|Endre Ulberg (ikke valgt på genfors)|
+
 |År|Leder|Nestleder|Arrkom|Bankom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
 |---|---|---|---|---|---|---|---|---|---|---|
-|2017v-2018v| Didrik Pemmer Aalen |Hege Louise Borger| Edvard Gjessing Bakken|Christoffer Lofsberg| Emil Schrøder|Aslak Hollund|Henrik Munkeberg|Peter Rydberg|Taran Ruge|Erik Wiker (ikke valgt på genfors)|
+|2017v-2018v| Didrik Pemmer Aalen |Hege Louise Borge| Edvard Gjessing Bakken|Christoffer Lofsberg| Emil Schrøder|Aslak Hollund|Henrik Munkeberg|Peter Rydberg|Taran Ruge|Erik Wiker (ikke valgt på genfors)|
 |2016v-2017v| Thor Håkon Bredesen |Erik Wiker| Sander Arnesen|Kristoffer Hajem| Didrik Pemmer Aalen|Håkon Solbjørn|Kristiane Westgård|Andrea Bach|Martin Bjerke|Ingrid Myrann (ikke valgt på genfors)|
 |2015v-2016v| Pia Lindkjølen |Thor Håkon Bredesen| Sondre Widmark|Marius Thingwall| Kristian Svoren|Nils Herde|Christoffer Skar Lofsberg|Agnete Djupvik|Sondre Auestad|Magnus Kongshem (ikke valgt på genfors)|
 
