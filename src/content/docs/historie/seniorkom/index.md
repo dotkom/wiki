@@ -22,10 +22,10 @@ Medlemmer
 Komiteen består for øyeblikket av 14 engasjerte studenter.
 
 
-| År           | Leder            | Nestleder        | Medlemmer| Medlemmer| Medlemmer| Medlemmer| Medlemmer| Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|
+| År           | Leder            | Nestleder        | Økonomiansvarlig| Medlemmer| Medlemmer| Medlemmer| Medlemmer| Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|
 |--------------|------------------|------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|
-| 2018h         | Endre Ulberg ||Agnete Djupvik|Camilla Tran|Erik Wiker|Henrik Munkeberg|Kristoffer Hajem|Martin Bjerke|Trine-Lise Helgesen          |          |          |
-| 2018v         | Endre Ulberg | Sondre Widmark |Agnete Djupvik|Camilla Tran|Ellen Bakksjø|Erik Wiker|Hege Borge|Henrik Munkeberg|Kristoffer Hajem|Margit Schjefte|Nils Herde|Sigve Skaugvoll|Trine-Lise Helgesen| Martin Bjerke         |          |          |          |
+| 2018h         | Endre Ulberg |Jens Omfjord|Martin Bjerke|Andrea Bach|Carlo Morte|Christoffer Almankaas|Edvard Gjessing Bakken|Edvard Sjøblom|Ellen Bakksjø |Emil Petter Schrøder|Erik Wiker|Henrik Tobias Liodden|Ingrid Medalen|Kristoffer Hajem|Trine-Lise Helgesen|
+| 2018v         | Endre Ulberg | Sondre Widmark |Martin Bjerke |Agnete Djupvik|Camilla Tran|Ellen Bakksjø|Erik Wiker|Hege Borge|Henrik Munkeberg|Kristoffer Hajem|Margit Schjefte|Nils Herde|Sigve Skaugvoll|Trine-Lise Helgesen|         |          |          |          |
 
 
 
