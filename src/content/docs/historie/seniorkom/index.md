@@ -19,7 +19,7 @@ Arbeidsoppgaver/annet engasjement komiteen har er:
 Medlemmer
 ---------
 
-Komiteen består for øyeblikket av 14 engasjerte studenter.
+Komiteen består for øyeblikket av 15 engasjerte studenter.
 
 
 | År           | Leder            | Nestleder        | Økonomiansvarlig| Medlemmer| Medlemmer| Medlemmer| Medlemmer| Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|Medlemmer|
