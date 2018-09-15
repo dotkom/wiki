@@ -306,5 +306,14 @@ tilbake til oss på kontakt@online.ntnu.no
   [akan.no/../]: http://www.akan.no/publisher/publisher.asp?id=57&tekstid=611
   [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement]: https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement
 
+<!--
+Til deg som skal rette disse bildene senere. Legg merke til at disse to ligger som vedlegg til artikkelen. Disse endres ved å trykke på `vedlegg` tabben øverst på siden.
+
+Bildet som vises ved siden av disse lenkene i artikkelen er *ikke* automatisk generert fra disse. Det ligger for seg selv som et `bilde`, med en egen lenke et par paragrafer opp i artikkelen.
+Bilder er noe annet enn ved legg, og endres ved å trykke på `Bilder` på høyre side.
+
+- Ole Anders Stokker, 15.09.2018
+-->
+
 * [attachment:520] (selve kartet)
 * [attachment:521] (photoshopfila)
