@@ -271,7 +271,7 @@ døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
 tilbake til oss på kontakt@online.ntnu.no
 
-[image:520 align:left]
+[image:518 align:left]
     Gløshaugenkartet
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601
