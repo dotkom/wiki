@@ -66,6 +66,5 @@ Resten
   
 Historie
 --------
-
-
-Makrellgutta anno 16/17
+  Makrellgutta anno 16/17
+[image:522 align:left]
