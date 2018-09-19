@@ -153,6 +153,14 @@ Arrangementer der linjeforeningene inviterer hverandre
         studenter med funksjonsnedsettelse kan delta
     -   Foreningen/organisasjonen må være Brønnøysundsregistrert
     -   Kontakt tilrettelegging@adm.ntnu.no
+-   **Velferdstinget** i Gjøvik, Ålesund og Trondheim deler ut 500.000,- i året. 
+    -   Formålet med Velferdstingets sponsormidler er å bygge opp 
+        under studentfrivillighet og virksomheter i Gjøvik, Ålesund 
+        og Trondheim som sikrer langsiktig engasjement. 
+    -   Frivillige foreninger/organisasjoner som er åpne for alle 
+        studenter med formål om å bidra til positivt studentmiljøet 
+        i sin respektive by kan søke.
+    -   Mer informasjon kan bli funnet her [attachment:523].
 
 ### Tjene penger
 
