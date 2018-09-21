@@ -27,7 +27,7 @@ kurs/workshops.
 Medlemmer
 ---------
 
-Komiteen består for øyeblikket av 18 (derav 2 permiterte) engasjerte studenter.
+Komiteen består for øyeblikket av 20 engasjerte studenter.
 
 |År|Leder|Medlemmer||||||||||||||||||||||||
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
