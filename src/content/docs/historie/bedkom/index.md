@@ -29,9 +29,9 @@ Medlemmer
 
 Komiteen består for øyeblikket av 18 (derav 2 permiterte) engasjerte studenter.
 
-|År|Leder|Medlemmer||||||||||||||||||||||
----|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2018v|Emil Schrøder|Ingrid Medalen|Steffen Lorang Ekeberg|Birgitte Swensson|Lars Gjelstad|Rein Holte-Berg|Adrian Hofseth|Ingrid Evensen|Adrian Thompson|Kaja Løvsjø Solberg|Oscar Conrad|Adrian Flatner|Astrid Vik|Marius Aarsnes|Katarina Gjendem Murphy|Luka Grujic|Didrik Pemmer Aalen|Hege Louise Borge||||||||||||
+|År|Leder|Medlemmer||||||||||||||||||||||||
+---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|2018v|Adrian Thompson|Ingrid Medalen|Luka Gruji|Birgitte Swensson|Lars Gjelstad|Rein Holte-Berg|Adrian Hofseth|Ingrid Evensen|Emil Schrøder|Kaja Løvsjø Solberg|Oscar Conrad|Adrian Flatner|Astrid Vik|Marius Aarsnes|Katarina Gjendem Murphy|Erling Wisløff|Sigrun Nummedal|Sunniva Røshol|Marcus Schrøder|Kristoffer Nyvoll||||||||||
 |2017h|Emil Schrøder|Ingrid Medalen|Steffen Lorang Ekeberg|Birgitte Swensson|Lars Gjelstad|Rein Holte-Berg|Adrian Hofseth|Ingrid Evensen|Adrian Thompson|Kaja Løvsjø Solberg|Oscar Conrad|Adrian Flatner|Astrid Vik|Marius Aarsnes|Katarina Gjendem Murphy|Luka Grujic|Didrik Pemmer Aalen|Hege Louise Borge||||||||||||
 |2017v|Didrik Pemmer Aalen|Silje Sævig|Jim Tørlen|Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Oscar Conrad|Didrik Pemmer Aalen|Henrik Bossart|Ingrid Medalen|Astrid Vik|Adrian Hofseth|Lars Gjelstad|Steffen Lorang Ekeberg|Marius Aarsnes||||||||||||||||
 |2016h|Didrik Pemmer Aalen|Per Øyvind Kanestrøm|Silje Sævig|Jim Tørlen|Martine Gran|Hege Louise Borge|Emil Schrøder|Kristian Svoren|Oscar Conrad|Didrik Pemmer Aalen|Henrik Bossart|Kathrine Løfqvist|Ingrid Medalen|Astrid Vik|Adrian Hofseth|Lars Gjelstad|Steffen Lorang Ekeberg|Marius Aarsnes||||||||||||
