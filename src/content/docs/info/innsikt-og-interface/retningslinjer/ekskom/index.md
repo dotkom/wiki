@@ -9,6 +9,7 @@ Ekskursjonskomiteen skal planlegge og gjennomføre ekskursjonen for studenter ve
 
 ###§2 Ekskursjonskomiteens sammensetning
 Komiteen består av:
+
 - Leder  
 - Nestleder  
 - Økonomiansvarlig  
