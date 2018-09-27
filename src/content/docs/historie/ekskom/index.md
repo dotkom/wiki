@@ -32,7 +32,7 @@ L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
 
 2018-2019, Kina
 
-  - **Petter Rein (L)** | Morten Falstad (NL) | Sigurd Melsom (Ø) | Lars Kåre Syversen | Therese Federl | Ebba Fingarsen |
+  - **Petter Rein (L)** | Morten Falstad (NL) | Sigurd Melsom (Ø) | Lars Kåre Syversen | Therese Federl | Ebba Fingarsen | Tore Stensaker Tefre | Helle Van Den Broek | Minh Ha Do | Kim Duong |
 
 2017-2018, Sør-Korea
 
