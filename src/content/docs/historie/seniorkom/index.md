@@ -9,7 +9,6 @@ Vårt virke
 Arbeidsoppgaver/annet engasjement komiteen har er:  
 
 * Utmatrikulering
-* Fadderuke for masterstudenter
 * Komitekickoff
 * En backup til sin respektive komitee
 * Intro kurs til masteroppgave
