@@ -24,3 +24,9 @@ Facebookgruppe
 --------------
 
 ### [Facebook](https://www.facebook.com/groups/onlinexsport)
+
+
+Kontakt
+--------------
+
+x-sport@online.ntnu.no
