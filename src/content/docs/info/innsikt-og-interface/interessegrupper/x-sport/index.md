@@ -20,13 +20,10 @@ Hovedoppgaven til interessegruppen er å få samlet mennesker for å spille squa
 Dvs. sporter/idretter der man gjerne trenger å være flere for å kunne drive med. 
 Vi skal etterstrebe å ha et arrangement hver måned.
 
-Facebookgruppe
---------------
-
-### [Facebook](https://www.facebook.com/groups/onlinexsport)
-
 
 Kontakt
 --------------
 
 **E-post**: x-sport@online.ntnu.no
+
+[Facebook](https://www.facebook.com/groups/onlinexsport)
