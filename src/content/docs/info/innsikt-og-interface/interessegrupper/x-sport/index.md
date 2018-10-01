@@ -29,4 +29,4 @@ Facebookgruppe
 Kontakt
 --------------
 
-x-sport@online.ntnu.no
+**E-post**: x-sport@online.ntnu.no
