@@ -27,7 +27,7 @@ Vi setter veldig stor pris på synlige kvitteringer, enten skannet med en dedike
 
 For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velger fra menylinjen: Rediger --> Sett inn --> Side fra fil
 
-## Nåværende interessegrupper
+## Aktive interessegrupper
 
 
 - [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
