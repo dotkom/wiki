@@ -2,14 +2,14 @@
 title: "Comitato Di Pizza"
 ---
 
-** Informasjon
+## Informasjon
 
 Pizza er smud
 
-** Medlemmer
+## Medlemmer
 
 _kommer snart_
 
-** Kontakt
+## Kontakt
 
 _kommer snart_
