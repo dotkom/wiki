@@ -39,7 +39,7 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
 - [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
-- [ComitatoDiPizza] (https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
+
 
 ## Tidligere interessegrupper
 
