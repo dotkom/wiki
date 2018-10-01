@@ -30,7 +30,7 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 ## Nåværende interessegrupper
 
 
-- [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/) - [Facebook-gruppe](https://www.facebook.com/groups/394422394075947/)
+- [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
 - [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
