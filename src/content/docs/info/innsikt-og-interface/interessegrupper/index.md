@@ -38,11 +38,11 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
 - [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
+- [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 
 ## Tidligere interessegrupper
 
 - [Cachekom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/)
 - Kobkom - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
-- [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
