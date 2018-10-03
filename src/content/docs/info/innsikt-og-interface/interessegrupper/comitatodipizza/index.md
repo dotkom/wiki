@@ -4,12 +4,15 @@ title: "Comitato Di Pizza"
 
 ## Informasjon
 
-Pizza er smud
+Er du interessert i å lage autentisk italiensk (eller annen) pizza fra scratch? 
+Da er dette interessegruppen for deg!
+
+Vi kommer til å møtes hver - annenhver måned og lage pizza sammen!
 
 ## Medlemmer
 
-_kommer snart_
+Tor Berre
 
 ## Kontakt
 
-_kommer snart_
+tor.berre@online.ntnu.no
