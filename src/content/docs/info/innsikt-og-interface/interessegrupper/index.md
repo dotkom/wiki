@@ -30,12 +30,10 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 ## Aktive interessegrupper
 
 
-- [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
 - [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
 - [Quizline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/quizline/)
-- [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
 - [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
 - [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
@@ -47,3 +45,5 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - Kobkom - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
+- [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
+- [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
