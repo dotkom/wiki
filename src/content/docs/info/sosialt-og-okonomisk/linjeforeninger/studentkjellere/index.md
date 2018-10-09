@@ -33,7 +33,7 @@ For øyeblikket er kjellerene fordelt slikt:
 
 |Nummer |Linjeforening(er)|
 |---|---|
-|5|Omega og Psykolosjen|
+|5|Omega og Psykolosjen (Kielderen)|
 |10|Berg, Hybridia og Timini|
 |12|Delta, Spanskrøret, Volvox & Alkymisten og Online (Realfagskjelleren)|
 |14|Abakus (Labamba)|
