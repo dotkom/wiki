@@ -20,9 +20,14 @@ Korkonge: Kristoffer Hajem
 
 Konsertkorporal: Kristoffer Hajem
 
+
 Sosialsersjant: Jack Syvertsen
 
 Propagandaminister: Martin Bjerke
+
+### Historie (WIP)
+Første øving fant sted 17.02.2014
+
 
 ### Facebookgruppe
 https://www.facebook.com/groups/1489847091313317/
