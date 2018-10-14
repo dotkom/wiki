@@ -217,25 +217,6 @@ Godkjent med akklamasjon
 
 
 
-
-
-
-Samarbeide:
-
-Johannes tar denne
-
-
-Vi trenger hjelp av Online til å bygge de beste studentboligene:
-
-Loffen svarer
-
-
-[gloshaugen] Fwd: Invitasjon til Arkitektstudentenes Broderskabes 105-årsjubileum
-
-
-[gloshaugen] Linjeforeningsfilm og sladder
-
-
 Bod HK38
 
 
@@ -256,7 +237,7 @@ Vi snakker om å være åpne, vi har ikke hatt åpent møte ennå, vi burde kans
 
 Spørreundersøkelse, positive, og vi burde gå gjennom fjorårets og Abakus sin fra i fjor.
 
-Vi har fire ubehandlede søknader.  
+
 
 
 
