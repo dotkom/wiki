@@ -4,7 +4,7 @@ title: "Karrieredager"
 
 ### Velkommen til **www.karrieredager.info**
 
-Tilhørende info
+Tilhørende info*
 
 * Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
 * Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
