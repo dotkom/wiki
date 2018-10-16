@@ -103,24 +103,24 @@ Folk bytter masse på kontorvakter, folk klager på smashpauser, det kom lite va
 Idi betaler så gratis mat, vi må kjøpe mer stuff til kontoret, vi har nesten gått tom for penger, kaffemskinen er ødelagt, vi skal ha wikiworkshop og skal ha hyttetur med Abakus, og har fått kjøleskap og fryser.
 
 
-Seniorkom:
+####Seniorkom:
 Seniorkom har startet opp med prosjekter.
 
 Sannsynligvis begynner vi på prosjekter om å engasjere seg i Online( muligheter for de som ikke blir med i komité), Wiki-Cleanup og oppdatering av Nibble/varelagringssystemet
 
-Leder og nestleder:
+####Leder og nestleder:
 Leder:
 
 K2K, prøvd å få invitert til XYZ (Xfactor for Gløs), prøvde å få plasser hos Omega, bra LL møte før det, Har skrevet styreord.
 
-Nestleder:
-ITV:
+####Nestleder:
+####ITV:
 Samtaler med IDI og IE om å finne tiltak for å få hele A2, A3 og A4.
 
-RFK:
+####RFK:
 Hadde åpent på fredag, har sendt mail om de kan kaste ting fra boden vår. Holder steng på fredag.
 
-Samlokaliseringsrepresentant:
+####Samlokaliseringsrepresentant:
 Det er foreslått å fremkynne samlokaliseringen. Det er litt kritisk med ITVer + Endre jobber med det.
 
 ## 164 Interkom (08:40 - 10 min):
