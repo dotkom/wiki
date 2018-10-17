@@ -59,18 +59,18 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 
 ## Masterforeninger
 
-|Masterforening|BrReg|Linje|Facebook|Avis|Kontor|
-|---|---|---|---|---|---|
-|[BioM](http://org.ntnu.no/biom)||Biologi|[Page](http://fb.com/pages/BioM/211739618885287)|||
-|Bunnsolid|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=814470172)|Undervannsteknologi||||
-|LAKS|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi|[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)|||
-|[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging|[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/tidligere-hippodailies-2)||
-| Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet | [Page](https://www.facebook.com/pokayokeNTNU/) | | ||
-|Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk|[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)|||
-|[ProMan](http://www.mscproman.com/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|[Group](https://www.facebook.com/groups/MScProMan/)||Rom 346, Sentralbygg 2|
-|[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen|[Group](http://fb.com/groups/2362192638/)|||
-|[Soma](http://somantnu.blogspot.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Medisin|[Page](http://fb.com/SOMANTNU), [Group](http://fb.com/groups/159591847413555/)|||
-|[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi|[Group](http://fb.com/groups/104245099606755/)|||
+|Masterforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Facebook|Avis|Kontor|
+|---|---|---|---|---|---|---|
+|[BioM](http://org.ntnu.no/biom)||Biologi||[Page](http://fb.com/pages/BioM/211739618885287)|||
+|Bunnsolid|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=814470172)|Undervannsteknologi|||||
+|LAKS|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi||[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)|||
+|[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging||[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/tidligere-hippodailies-2)||
+| Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet || [Page](https://www.facebook.com/pokayokeNTNU/) | | ||
+|Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk||[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)|||
+|[ProMan](http://www.mscproman.com/) (est. 2010)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|Styrebånd (vinrødt med kremfarget kant)|[Group](https://www.facebook.com/groups/MScProMan/)||Rom 346, Sentralbygg 2|
+|[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen||[Group](http://fb.com/groups/2362192638/)|||
+|[Soma](http://somantnu.blogspot.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Medisin||[Page](http://fb.com/SOMANTNU), [Group](http://fb.com/groups/159591847413555/)|||
+|[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
 
 ## Doktorgradsforeninger
 
