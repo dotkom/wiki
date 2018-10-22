@@ -32,4 +32,4 @@ triKom og linjeforeningen.
 2015-2016|Sondre Auestad (L), Erik Wiker (N), Kristoffer Hajem(Ø), David Storjord, Christoffer Almankaas, Ellen Bakksjø, Katarina Andersen, Martin Bjerke, Thayanan Tharmapalan
 2016-2017|Martin Bjerke (L), Ellen Bakksjø (N), Christoffer Almankaas (Ø), David Storjord, Thayanan Tharmapalan, Taran Ruge, Fredrik Sørmo, Håvard Tollefsen, Sigve Skaugvoll, Sondre Strande Dahl
 2017-2018|Taran Ruge (L), Fredrik Sørmø(N), Martin Bjerke (Ø), Thayanan Tharmapalan, Christoffer Almankaas, Fredrik Sørmo, Sondre Strande Dahl, Silje Moksnes, Sander Haga, Ola Holde, Kasper Maagerø Svendsen, Ingvild Gravem, Pål Edward Larsen, Jonas Jevnaker Aas
-2018-2019|Pål Larsen (L), Kasper Svendsen (N), Ingvild Gravem (Ø)
+2018-2019|Pål Larsen (L), Kasper Svendsen (N), Ingvild Gravem (Ø), Jon-Inge Heggstad (Ø), Emil Ommundsen, Erik Skår, Maiken Astri Hatten, Malin Holte, Martin Bjerke, Morten Trøen Skandsen, Ola Holde, Sander Haga, Silje Marie Savland Moksnes
