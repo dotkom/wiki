@@ -8,7 +8,7 @@ Historie
 Trivselskomiteen ble startet høsten 2011, og vedtatt som komité på
 genfors 2012. 
 I året 2012-2013 pusset triKom opp hele kontoret med blant annet ny sofakrok, kjøkkenhjørne, stort konferansebord og nye hyller til komitémedlemmer. 
-I 2018 ble Onlines lokaler flyttet fra P15 til Realfagsbygget A4. På grunn av samlokaliseringen var kontoret en liten periode i løpet av våren på Tyholt, men etter sommeren sto kontoret klart. 
+I 2018 ble Onlines lokaler flyttet fra P15 til Realfagsbygget A4. På grunn av samlokaliseringen var kontoret på Tyholt i løpet av våren, men etter sommeren sto kontoret klart. 
 
 Trikom til daglig
 -----------------
