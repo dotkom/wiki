@@ -10,7 +10,9 @@ Vi møtes en gang i måneden og lager (og spiser!!) digg pizza!
 
 ## Medlemmer
 
-Tor Berre
+Tor Berre - Capo generale, lunga vita
+
+Torjus Iveland - Phonemaster generali
 
 ## Kontakt
 
