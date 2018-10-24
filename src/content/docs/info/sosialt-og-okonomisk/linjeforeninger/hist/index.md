@@ -32,7 +32,7 @@ Tilhørende wikisider
 | [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
 | [Nutrix](http://nutrix.hist.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | nutrix@nutrix.hist.no | [Page](http://fb.com/pages/Nutrix/297838347011022) |
 | [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Handelshøyskolen i Trondheim | | post@sftoh.no | |
-| Tekno-Tunga | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | | [Page](http://fb.com/TeknoTunga) |
+| Cibus | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | Sverresgate 14|Cibus.mattek@gmail.com| [Page](https://www.facebook.com/cibusmattek/) |
 | [TIHLDE](http://www.tihlde.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Elektronisk databehandling (EDB) | AITeL ^1^ | hs@tihlde.org | |
 | [Tim & Shænko](http://bygging.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | | styret@bygging.no | [Group](http://fb.com/groups/220828851361570/) |
 
