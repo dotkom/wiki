@@ -91,7 +91,7 @@ er disse serverne aktive:
 -   Draug (infoskjerm)
 -   Highland (puppetmaster)
 -   Kahlua (primary DNS)
--   Moonhsine (Bygg)
+-   Moonshine (Bygg)
 
 Andre bokser hos oss:
 
