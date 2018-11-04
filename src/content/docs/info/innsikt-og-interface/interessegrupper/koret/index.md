@@ -33,4 +33,4 @@ Første øving fant sted 17.02.2014
 https://www.facebook.com/groups/1489847091313317/
 
 ### Kontakt
-Ta gjerne kontakt på [csharp@online.ntnu.no](mailto:csharp@online.ntnu.no)
+Ta gjerne kontakt på [csharp@online.ntnu.no](mailto:csharp@online.ntnu.no) .
