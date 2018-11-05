@@ -2,7 +2,7 @@
 title: "Ditt liv som Onliner"
 ---
 
-«Kan du raskt forklare meg alt det viktigste i min hverdag som Onliner?»
+«Kan du raskt forklare meg alt det viktigste i min hverdag som Onliner? »
 ------------------------------------------------------------------------
 
 - Om du studerer informatikk er du en Onliner, og vi er hyggelige mennesker ikke nøl med å si hei!
