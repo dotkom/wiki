@@ -1,0 +1,234 @@
+---
+title: "Møte 2018-11-06"
+---
+
+**Møtetidspunkt:** 08.15
+
+**Sted:** 054
+
+**Servering:** Christian
+
+**Referering:** Adrian
+
+**Vinstraff:**
+
+**Ølstraff:**
+
+**Til stede:** 
+Aslak, Loffen, Hanne, Sander, Endre, Pål, Christian, Adrian, Jakob, Aursand
+
+**Mangler:**
+Johannes
+
+- - -
+
+[TOC]
+
+- - -
+
+## Gjøremål
+
+- [ ]  Datakameratene: Endre hører med jentelaget for å finne ut hvor mange fra informatikk som spiller der.
+- [ ]  Datakameratene: Aslak svarer Frikk om at vi gjerne vil ha en kontaktperson som går informatikk.
+- [ ] Styrefest: Aslak og loffen sjekker ut vors-muligheter
+- [ ] Styrefest: Alle må skaffe turtleneck
+- [ ] Styrefest: Aslak snakker med Hajem om å låne briller fra C-sharp.
+- [ ] IT-Styre-Hyttetur: Aursand er med å arrangere, Sander er med(!!), Johannes(?)
+- [ ] Koppekrise: Pål poster på Facebook
+- [ ] Eksponeringsgruppa: Endre fikser mail til de som søkte ekspo under komtièopptaket
+- [ ] Velkom: Loffen snakker med Johannes om opptak
+- [ ] Loff til loffen: Christian booker time.
+- [ ] Pokerbord: Sander hører med Johannes
+
+
+## Innsjekk (08:15 - 4 min)  
+
+## 205 Godkjenning av innkalling, servering og referat fra forrige uke (08:19 - 1 min)  
+Godkjent.
+
+## 206 Status for komiteene (08:20 - 20 min)
+#### Arrkom, med velkom:  
+Arrkom:
+Johannes is gon
+
+Velkom:  
+
+#### Bankom:
+Ikke skjedd så mye, venter på at arrkom skal få orden på regnskapet slik at de kan se om alle andre har gjort det riktig.
+
+
+
+#### Bedkom, med ITEX:
+Bedkom:  
+
+
+
+ITEX:  
+Fått inn 6 søknader, skal behandle de
+
+#### Dotkom:
+Hatt hackathon, blitt gjort mye bra progging fra alle deler av verden. 
+Hatt et strengt møte forrige onsdag, arbeidsflowen har vært litt for flytende. Strammer inn hvordan prosjekter blir gjort. Virker positivt hittil.
+
+#### Fagkom, med ekskom:
+Fagkom:  
+Fordelt kurs, hatt kurs med itera, kurs i kveld og i morgen - litt labert oppmøte. 
+
+En som har permitert seg midlertidig pga sykdom.
+
+Ekskom:  
+Synes det var kult hvordan kjemidagene gjorde det. Skal ta kontakt med noen og finne ut muligheter.
+
+#### Prokom:  
+Tok opp arbeidsmengde i komiteen forrige møte. Vil ta opp to nye i komiteen til neste semester. 
+
+Hatt brekkehelg så neste offline kommer snart
+
+#### Trikom:  
+Mangler kopper. Det blir brukt mye kopper. Trikom vil at folk skal ta med egne kopper.
+
+#### Seniorkom:  
+
+Fått inn to søknader på penger til interessegrupper.
+
+
+#### Leder og nestleder:  
+Leder:  
+Gjort en hel haug. Husker ikke alt.
+
+Maila en del med TechSoup, slack-pro virker RIP :(
+
+Har skrevet styreord.
+
+Progga masse med dotkom.
+
+Nestleder:  
+Titta litt på kompilering, prøver å finne folk som vil være med. 
+
+Gjort en del studentkontaktgreier
+
+#### ITV:  
+Alt interessant ble sendt på mail.
+
+Kan hende vi får 30 nye masterplasser fordelt på de forskjellige retningene.
+
+#### RFK:
+Nest siste åpning nå på fredag. Planlegger å ha en dugnadskveld for å fikse ting som ikke er helt ferdig enda fra flytting til ny kjeller.
+
+#### Samlokaliseringsrepresentant
+
+Får vite neste mandag om de framskynder flyttingen av Kalvskinnet opp til A-blokka. 
+
+## 207 Interkom (08:40 - 10 min)
+
+Aslak - OW - Vil få inn alle arrangementer som er planlagt for neste semester på OW før semesterslutt. 
+
+Aslak - Prikkstatus - Dette er persondata og skal ikke ut.
+
+
+## Pause (09:00 - 5 min)
+[Flyttes punktvis nedover om klokken ikke er blitt 09:00]
+
+## 208 Datakameratene (10 min)
+[Per nå er det en informatiker som er med regelmessig hos datakameratene. Laget har såvidt blitt blestet og inntrykket til Loffen er at ytterst få vet om dem. Hva kan vi gjøre for å få opp interessen? Vi betaler trossalt 6000 i spons hvert år til dem]
+
+Ca 20 stykk fra informatikk. 
+
+Loffen føler vi trenger et bedre samarbeid med datakam, blitt neglisjert i ganske mange år siden de har hatt en stor overvekt av abakuler. 
+
+Loffen vil gjerne ha en statusrapport en gang i semesteret. 
+
+Hva med om de blester en/to gang(er) i semesteret med at de har trening?
+
+
+## 209 LOTT-Dalje (10 min)
+[Skal vi ha LOTT på julebord eller på vårballet?]
+
+Loffen - Ble flyttet til julebord fordi det tok lang tid å dele ut på immball. Man fikk dalja på påbegynt tredjeår. Det var en som sluttet etter h*n fikk dalja, noe som fører til at man egentlig ikke åpnar lang og tro status. Hvis den blir flyttet til vårfest får man ikke brukt dalja før man er ferdig på informatikk.
+
+Aslak - Generalforsamlingen bestemte at alt av komitetradisjoner skulle flyttes til vårfest. Det er veldig kjapt å flytte tilbake til julebord når vi ikke har prøvd det på vårfest enda.
+
+Adrian - Enig i at vi bør prøve å ha det på vårfest ihvertfall i et år.
+
+Loffen - Synes det er synd at man ikke får dalja før man får brukt den.
+
+Aslak - Kan eventuelt flytte den et år fram senere igjen. 
+
+Vi går for å prøve å ha det på vårfest i et år minst og så se på om vi skal flytte det et år fram slik at man får den fjerde semesteret i komite.
+
+## 210 Kaffeprat (5 min)
+[Hva er status?]
+
+Støtte fra IDI er RIP :(
+
+Pål fikser noe bord, helst av metall.
+
+Pål og Johannes hørte med en tilfeldig elektriker i etasjen som sa at strøm mest sannsynlig ikke er noe problem.
+
+
+## 211 Styrefest (5 min) 
+[Hva må fikses, er folk ready?]
+
+ Det skjer 15. November, vi skal på polet 13. November, etter møtet(?) finner ut av det. 
+
+Endre har ADA julebord samme dagen som festen, satser på å gå på begge.
+
+Vi skal vorse med halve Nutrix, Jakob/Aslak/Skjemaet har noen kontakter vi kan snakke med angående hvor vi skal vorse. Aslak kan kanskje ha vors hos seg, men helst et større sted.
+
+
+## 212 IT-Hytte-Tur (10 min)  
+[Vi må planlegge IT-Hytte-Tur]
+
+Det blir en tradisjon hvis vi mekker det igjen. Inviterer NTNU IT-styrene, leide en leirskole forrige gang. 
+
+Aslak vil at vi skal brygge vin igjen.
+
+RFK blir med?
+
+
+Vi må begynne å kalle inn til det snart. Vi går sammen med Abakus og bestemmer en dato sammen. 
+
+
+
+## 213 Velkomleder/nestleder
+[It's time]
+
+Vi tenker på mulige kandidater og tar det på neste møte.
+
+
+## 214 X-sport vil ha $$$ (5 min) 
+[X-sport har søkt om 7000 til surfetur. Dette er 70% av seniorkom sitt interessegruppebudsjett. Dette går ut over andre interessegrupper om det blir vedtatt. What to do!]
+
+Loffen - Bedre å støtte opp under andre X-sport arrangementer. Dette gjør ikke prisen for å bli med så mye lavere enn fra før. Det kommer på 6-7k per pers, da er ikke 300kr i spons per pers så mye. 
+
+Aslak - Foreslår å svare med kul ide og heller sponse andre arrangementer de har. 
+
+^ Vi går for dette.
+
+
+
+## 215 Forespørsler som har kommet på e-post (09:25 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.] 
+
+
+Utvidet budsjettpost for interessegrupper v/ Seniorkom:
+ Seniorkom vil utvide med 2000kr, slik at de kan støtte interessegrupper som søker, nå som de har bevilget alt.
+
+Vi stemmer om å utvide og bevilger 2000kr. 
+
+## 216 Eventuelt (09:50 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+
+
+Aslak - Poste på Facebook om at det er koppekrise, og at folk bør ta med egne kopper.
+
+Vi må sende mail til de som søkte om eksponeringsgruppa under opptaket
+
+Loff til Loffen:
+Christian - Dette er en HS sak. 
+
+Loffen skal gjøre det snart. Hanne blir overrasket siden hun ikke har hørt om dette før. 
+
+
+## 217 Møteevaluering/Diggepunkt
+Rotete, men gøy
