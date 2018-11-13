@@ -7,9 +7,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat  
 
-- [2018-11-06](mote20181106)
-- [2018-10-30](mote20181030)
-- [2018-10-23](mote20181023)
+- [2018-11-06](mote20181106)  
+- [2018-10-30](mote20181030)  
+- [2018-10-23](mote20181023)  
 - [2018-10-16](mote20181016)  
 - [2018-10-09](mote20181009)
 - [2018-10-02](mote20181002_1)  
