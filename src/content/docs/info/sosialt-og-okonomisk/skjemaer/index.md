@@ -15,6 +15,7 @@ title: "Skjemaer"
 - Last ned [attachment:344] og åpne det i et PDF-visningsprogram (ikke skriv ut)
 - Alle de hvite rutene fylles ut (Bankkort er kun om du har brukt et av Online sine kort)
 - For teambuildinger eller lignende støtte må navn på alle deltakere oppføres i kommentarfeltet
+- Dato må inneholde årstall
 - Alle kvitteringer må legges med (helst i en og samme PDF-fil) 
 - Signaturen nederst må være synlig
 - Sendes på epost til [kvittering@online.ntnu.no](mailto:kvittering@online.ntnu.no) med komiteen det gjelder i []-klammer i emnefeltet (Eks: [Trikom] Kvittering for trivsel)
