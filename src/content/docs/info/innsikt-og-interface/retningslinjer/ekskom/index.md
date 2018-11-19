@@ -5,7 +5,7 @@ title: "Ekskursjonskomiteen"
 Dette er retningslinjene for Ekskursjonskomitéen, heretter kalt eksKom.
 
 ### §1 Ekskursjonskomiteens formål
-Ekskursjonskomiteen skal planlegge og gjennomføre ekskursjonen for studenter ved linjeforeningen Online som studerer 3.året eller høyere. 
+Ekskursjonskomiteen skal planlegge og gjennomføre ekskursjonen for studenter ved linjeforeningen Online som studerer 3.året eller høyere. Komiteen skal også ha kontorvakter for Online som Trikom bestemmer.
 
 ###§2 Ekskursjonskomiteens sammensetning
 Komiteen består av:
