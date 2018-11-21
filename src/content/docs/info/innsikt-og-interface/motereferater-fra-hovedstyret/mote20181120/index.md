@@ -1,0 +1,180 @@
+---
+title: "2018-11-20"
+---
+
+**Møtetidspunkt:** 08.15
+
+**Sted:** 054
+
+**Servering:** Jakob
+
+**Referering:** Hanne
+
+**Vinstraff:**Aslak
+
+**Ølstraff:**
+
+**Til stede:** 
+
+**Mangler:**
+
+- - -
+
+[TOC]
+
+- - -
+
+## Gjøremål
+- Christoffer, Aursand og Adrian tar lead på å ferdigstille samarbeidsavtalen over jula. Bør bli ferdig før vi gir oss.
+- Aslak tenker på komitéretningslinjer.
+- Hanne mekker diplomer til særskilt utmerkelse til torsdag.
+- Sommerjobbsak - Har svart på den første mailen, Jakob tar en titt på dette.
+- Adrian svarer på mail med Hurtigruten.
+- Aslak svarer på mailen til Øystein Hølland.
+-  Christian svarer bandet om Onlinepotten.
+- Adrian svarer Computas på mail om spons, vi ønsker at det skal være en nøytral organisasjon, vil ikke ha noe offisielt sponsorforhold. Eks. sommerjobbsaken.
+- Tilbud om stand på CGI Utility: Endre snakker med Bjerke.
+- Jakob svarer dotkom ang. barnebursdag.
+- Sander finner ut av hvor ofte det er behov for bilkollektivet.
+- Aslak skal høre internt i foreninga om det er folk som er interessert i å bidra med En Psykt Vanlig Uke
+
+**ALLE:**
+
+- Ser over erfaringsskrivet til velkom og kommenterer.
+- Får gjort et prisoverslag på det de vil søke støtte om fra IDI, gjerne med en kort beskrivende tekst. Sender mail til Unni innen onsdag. 
+
+
+## Innsjekk (08:15 - 2 min)  
+- Alle har det helt greit, folk er trøtte og slitne men det går bra.
+## 231 Godkjenning av innkalling, servering og referat fra forrige uke (08:17 - 1 min)  
+- Sen, men good.
+## 232 Gjøremål fra forrige gang (08:18 - 2 min)
+
+-  Alle komiteer: Alle må ta opp semesterundersøkelsen med sin komité 
+ - Pål: må få inn at det er julekortbildetakning på julegrøten.
+ - Alle: Tenke over nominasjoner til Særskilt utmerkelse.
+ - Alle: Diskutere hva vi vil ha av støtte til komiteer innen neste uke. 
+ - Christian: Sender "brev" til Stripe for å confirme loggin. 
+
+## 233 Status for komiteene (08:20 - 20 min)
+
+#### Arrkom, med velkom:  
+- Har hatt ølsmaking, det var gøy, likte at det var mange forskjellige folk der fra forskjellige trinn. 
+- Julebord på torsdag, det blir veldig bra, liten internkrise pga. ingen sprit over 20%. Fått bekreftet 200 personer. Curling åpner også på torsdag.
+- Siste møte igår.
+#### Velkom:
+- Fått erfaringsskrivet.
+#### Bankom:
+- Bare gjort prosjekter og hjulpet andre i bankom.
+#### Bedkom, med ITEX:
+- Har kontakta bedrifter for Tech Talks, begynt medarbeidersamtaler, siste møte på torsdag. 
+#### ITEX:
+- Har hatt opptak, prioritert folk som ikke er i komité.
+#### Dotkom:
+- Lansert betaversjon av nye frontend til OW. Kvelden på realfagskjelleren var en suksess. 
+- Ferdig med medarbeidersamtaler.
+#### Fagkom, med ekskom:
+- Siste møte på fredagen, også hatt siste kurs som gikk overraskende bra.
+- Bestemte oss for å aldri bruke Kjelhuset igjen, diskutert arrangementer som ikke er bedriftsrelatert.
+#### Ekskom
+- Sender ut mail om visum asap zulu.
+#### Prokom: 
+- Fått prøvetrykk på Offline.
+#### Trikom:  
+- Hatt 1/3 av medarbeidersamtale, tatt opp hva man vil bruke støtte til komiteen på.
+- Tomt for vanlig powerking igjen. Fylte opp fryseren, men den er nesten tom igjen.
+#### Seniorkom:  
+- Ekskom vil ha et eget budsjett, håper å få til det innen rimelig tid. Fan av hovedtillitsvalgt men har ikke kapasitet til å ha det.
+- Jobber med interessegruppene for at det skal bli bra.
+#### Leder og nestleder:  
+Nestleder:
+
+- Glemte infomailen på torsdag. Ingen savna den virka det som, ellers gjort lite på jobb så skrev vedtektsforslag istedet.
+
+- Forslagene:
+	- Budsjettet settes av bankom og godkjennes av HS.
+	- Prøveordningen med leder i bankom på fast basis.
+	- Legger til nye internasjonale Informatics.
+	- Interessegrupper faller over til seniorkom fra HS.
+
+Leder:
+
+- Jobbet mye med webdev, HS relatert har jeg snakka med ekskom. 
+- Funnet en studentrepresentant (Tor Berre). 
+- Ikke gjennomført medarbeidersamtale.
+#### ITV:  
+- Jeg har vært på dialogmøte mellom IDI og IE, der ble det snakket om IE's satningsområder (AI, autonomous systems, cyber security, IoT) og IE setter av penger til dette, så om Online gjør et eller annet innenfor noen av disse områdene er det mulig å søke om støtte til det. 
+- Kalvskinnet blir utsatt og flytte prosessen blir mye bedre denne gangen. De er også innstilt på at det ikke blir noe flytting hvis det viser seg å være umulig 
+-  IDI endrer så det er mulig å søke på alle masterrettningene, ikke bare 2 av de. 
+- Deep Learning blir et fag 
+- Plab1 blir lagt ned og erstattet i 1. første klasse med MMI, og der man tidligere hadde MMI får man et valgfag 
+- Data får et fag som ligner på våres prosjekt 1 i tillegg til at plab 2 blir endret til et IoT fag som vi også kan ta 
+- Jeg skal på seminar med IDI på mandag og tirsdag og skal da ha et lite foredrag med tittelen "IDI for studentene de neste årene" og jeg ønsker innspill på hva jeg kan prate om her.
+- Rammeopptaket til master: 2 måter å få flere plasser kortsiktig; Enten med å få flere penger til statsbudsjettet, eller få flyttet plasser fra andre femårige og toårige masterlinjer. Ikke usannsynlig å få flere plasser nå, men ingen garanti. På lang sikt bør plasser fra BIT flyttes over til MS IT.
+
+#### RFK:  
+- Tre åpninger siden sist. Alt har gått superbra, fikk solgt ut tap igår. Skal ha dugnadskveld på søndag.
+
+#### Samlokaliseringsrepresentant:  
+- Skal faktisk sjekke om det er plass før folk blir flyttet på. 
+## 234 Interkom (08:40 - 10 min)
+- Tar sakene på eventuelt.
+## 235 Erfaringsskriv velkom (10 min)
+[Vi snakket tidligere om at vi bør se igjennom og kanskje kommentere på velkoms erfaringsskriv etter noen hendelser i fadderukene.]
+
+- Hadde en prat i fadderukene om at det ble en del hendelser med mye ufortjent kritikk til velkom. Ville derfor se gjennom erfaringsskrivet.
+
+- Ble et feil signalement rundt bachelorfadderukene vs. masterfadderukene.
+
+- Oppfordre velkom (ihvertfall leder og nestleder) til å delta på SIT-kurs.
+
+## Pause (09:00 - 5 min)
+[Flyttes punktvis nedover om klokken ikke er blitt 09:00]
+
+## 237 Særskilt utmerkelse (09:20 - 15 min)
+[Hvem skal få særskilt utmerkelse på julebord?]
+
+## 238 Forespørsler som har kommet på e-post (09:50 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]
+
+- Støtte kalenderåret 2019, må søke innen 28.november.
+
+- Innvilger vi penger til Output? Litt tynt å søke penger til bandøving, bør se på retningslinjene til Onlinepotten. Vi kan avslå denne søknaden, potten er ikke der for å finansiere kontinuerlig virksomhet. Kan godkjenne søknaden, men må da si ifra om at man setter en presedens om å ikke søke flere ganger til samme øvingsopplegg. Kun en øvingshelg per arrangement?
+
+	- Meningen med potten var å gi til spesielle initiativer. Online skal sette pris på de som gjør arbeid relatert til Online.
+	- Er 10 000 i semesteret, vi dealer med det når det blir et problem, ikke noe problem å gi ut fra potten.
+	- Skal vi innvilge? **Vedtatt**.
+
+- Tilbud om stand på CGI Utility: Endre snakker med Bjerke.
+
+- Økonomisk støtte til barnebursdag: **Innvilget**.
+
+## 239 Eventuelt (10:00 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+
+#### Søke støtte fra IDI for 2019:
+- Ikke arrangementer som serverer alkohol med mindre det er høytidelige arrangementer eller jubileer. Alle må ta et kostnadsoverslag! Må holde det på et nivå der vi ikke tar helt av på hva vi søker om.
+
+- **Vil søke om:**
+- Prokom: Kanskje ting til offlineslipp?
+- Trikom: 17.mai-frokost, seriefrokost, kino neste semester, fortsette med frukt. Søke om midler til kontoret?
+- Dotkom: IoT-ting til kontoret (typ kaffemaskin og kontoret), infoskjermstøtte.
+- Arrkom: Immball, julebord, online lekene, trampolinepark, vårfest, høyt og lavt, curling, klatring og pirbadet.
+- Bedkom: Ingenting.
+- Fagkom: Har ikke diskutert det, tech talks og frokostseminar.
+- Bankom: Ingenting.
+- Seniorkom: Utmatrikulering, interessegruppepott?
+- Neste møte går vi gjennom det og setter opp. Alle må få opp en sum om det de vil søke støtte om, gjerne med en kort beskrivende tekst. Sender mail til Unni innen onsdag. 
+#### Trikoms bilkollektiv og kjeller:
+- Hvordan fungerer bilkollektiv, kan kjelleren joine? Christian vil ikke ha regningene på dette. Er mulig, men ikke ønsket. Koster nesten ingenting å være med i bilkollektivet. Betaler for å bruke bilen i tillegg til årsavgiften.
+- Vi bør ta mer eierskap til kjelleren, men kan ta eierskap på andre måter, synes ikke det er naturlig at vi skal viderefakturere fra bilkollektivet. 
+#### Vårfest:
+- Laget et utkast til vårfest. Blitt inspirert av abakus til å ha et helgeseminar med fest. Funnet et konferansesenter med plass til 70stk. Er snakk om 110 personer. For 90 pers blir det 50-60 000. Sett på hytter i nærheten som supplerer med senger. 
+
+- Skal være en takk for arbeidet som blir gjort i komité. Ønsker både å ha faglig opplegg og teambuilding. 
+- Har ikke sett på det økonomiske aspektet ved dette. Helst ingen egenandel, men per dags dato har vi ikke økonomi til dette. Om vi søker mange steder kan egenandelen antagelig bli ganske lav, forutsetter at vi har faglig innhold.
+- Kan søke fondet om et engangsbeløp med forutsetning om at det neste år er budsjettert inn.
+- Arbeidet starter ordentlig etter Åre. Sikter mot datoen i kalenderen.
+
+## 240 Møteevaluering/Diggepunkt
+- Litt rotete møte, noen synes det er hyggelig, andre ikke. Hadde satt pris på om flere av eventueltsakene ikke var eventueltsaker.
