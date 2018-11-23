@@ -17,7 +17,7 @@ På kontoret har vi pr. dags dato to kjøleskap. Det til venstre er det mulig å
 
 ## Kaffetrakteren
 
-Kaffe er gratis, det er bare (å lage!)[attachment:535] =)
+Kaffe er gratis, det er bare [attachment:535 title:"å lage!"] =)
 Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kanna, slik at andre kan se når kaffen ble laget.
 
 For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fylle vann til "2.2 l"-merket.
