@@ -29,3 +29,6 @@ Rekruttering foregår i hovedsak to ganger i året, på våren før seriestart o
 **Herrelaget:** datakameratene@gmail.com 
 
 **Kvinnelaget:** laglederdkj@abakus.no
+
+
+[attachment:537 title:"Foregående sesonger her."]
