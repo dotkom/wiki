@@ -5,8 +5,9 @@ title: "Møtereferater fra Hovedstyret"
 Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut møtereferatene sine her på den åpne wikien slik at alle som ønsker kan se hvilken retning Online er på vei. Med det vil det bli enklere for alle å komme med innspill og idéer til Hovedstyret. 
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
-#### Møtereferat
-- [2018-11-27](mote20181127)    
+#### Møtereferat  
+  
+- [2018-11-27](mote20181127)   
 - [2018-11-20](mote20181120)  
 - [2018-11-13](2018-11-13)    
 - [2018-11-06](mote20181106)  
