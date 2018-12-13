@@ -31,7 +31,9 @@ Søknader sendes til: fond@online.ntnu.no
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
 ------|-------|-------|--------|-------|-------|------
 11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:542 title:"Søknad pdf" size]
-13. des 2018 | 31. oktober 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [attachment:543 title:"Søknad pdf" size]
+13. desember 2018 | 31. oktober 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [attachment:543 title:"Søknad pdf" size]
+13. desember 2018 | 13. november 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [attachment:544 title:"Søknad pdf" size]
+
 
 ## Søknader 2018
 
@@ -44,3 +46,5 @@ Fondstyret var tilfreds med svaret på søknaden og innvilget 25 000 kr til Onli
 
 ### Kaffetrakter til Online kontoret
 Kaffetrakteren på Online kontoret har sluttet å fungere, og for å dekke onlineres tørst. Søkeren ble bedt om å utforske den foreslåtte kaffetrakterens levetid, garanti og reparasjonsmuligheter. Fondstyret var tilfreds med svaret de fikk og innvilget søknaden med beløpet 21 720 kr.
+
+### X-sport: Surfetur til Portugal
