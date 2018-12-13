@@ -30,7 +30,7 @@ Søknader sendes til: fond@online.ntnu.no
 
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
 ------|-------|-------|--------|-------|-------|------
-11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:524 title:"Søknad" size]
+11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:542 title:"Søknad" size]
 
 
 ## Søknader 2018
