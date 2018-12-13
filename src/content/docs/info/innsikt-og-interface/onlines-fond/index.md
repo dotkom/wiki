@@ -30,8 +30,8 @@ Søknader sendes til: fond@online.ntnu.no
 
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
 ------|-------|-------|--------|-------|-------|------
-11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:542 title:"Søknad" size]
-
+11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:542 title:"Søknad pdf" size]
+13. des 2018 | 31. oktober 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [attachment:543 title:"Søknad pdf" size]
 
 ## Søknader 2018
 
