@@ -25,3 +25,19 @@ Dette skal være med i søknaden:
 - Budsjett
 
 Søknader sendes til: fond@online.ntnu.no
+
+## Oversikt over godkjente søknader
+
+Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
+------|-------|-------|--------|-------|-------|------
+11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:524 title:"Søknad" size]
+
+
+## Søknader 2018
+
+### Onlines band, Output
+Den 17. april 2018 fikk Fondstyret en søknad om å innvilge 24 733 kr til Onlines nye linjeforeningsband, se [attachment:524 title:"vedlegg" size]. Vedlagt var også en kjøpsliste fra en leverandør med spesifikke instrumenter de ønsket kjøpe, derav det spesifikke beløpet. Fondstyret var fornøyd med søknaden, men ønsket litt mer utdypende svar på noen temaer:
+
+"Vi saknar ein del kontekst for søknaden, og litt tankar om korleis dette kjem den gjengse onliner til gode. I dette konkrete tilfellet skulle vi gjerne lest litt om bandet, kven de er og kva de spelar, kva de har av utstyr frå før, kva aktivitetsnivået ligg på og kva ambisjonsnivået framover er for framføringar og slike ting. Vidare lurar vi på kva de har tenkt rundt praktiske ting som plass til lagring av utstyr, og om de har søkt midlar nokon anna plass."
+
+Fondstyret var tilfreds med svaret på søknaden og innvilget 25 000 kr til Onlines nyoppstartede linjeforeningsband.
