@@ -31,14 +31,14 @@ Søknader sendes til: fond@online.ntnu.no
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
 ------|-------|-------|--------|-------|-------|------
 11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [attachment:542 title:"Søknad pdf" size]
-13. desember 2018 | 31. oktober 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [attachment:543 title:"Søknad pdf" size]
-13. desember 2018 | 13. november 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [attachment:544 title:"Søknad pdf" size]
+13. des 2018 | 31. okt 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [attachment:543 title:"Søknad pdf" size]
+13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [attachment:544 title:"Søknad pdf" size]
 
 
 ## Søknader 2018
 
 ### Onlines band, Output
-Den 17. april 2018 fikk Fondstyret en søknad om å innvilge 24 733 kr til Onlines nye linjeforeningsband, se [attachment:524 title:"vedlegg" size]. Vedlagt var også en kjøpsliste fra en leverandør med spesifikke instrumenter de ønsket kjøpe, derav det spesifikke beløpet. Fondstyret var fornøyd med søknaden, men ønsket litt mer utdypende svar på noen temaer:
+Den 17. april 2018 fikk Fondstyret en søknad om å innvilge 24 733 kr til Onlines nye linjeforeningsband, se [attachment:542 title:"vedlegg" size]. Vedlagt var også en kjøpsliste fra en leverandør med spesifikke instrumenter de ønsket kjøpe, derav det spesifikke beløpet. Fondstyret var fornøyd med søknaden, men ønsket litt mer utdypende svar på noen temaer:
 
 "Vi saknar ein del kontekst for søknaden, og litt tankar om korleis dette kjem den gjengse onliner til gode. I dette konkrete tilfellet skulle vi gjerne lest litt om bandet, kven de er og kva de spelar, kva de har av utstyr frå før, kva aktivitetsnivået ligg på og kva ambisjonsnivået framover er for framføringar og slike ting. Vidare lurar vi på kva de har tenkt rundt praktiske ting som plass til lagring av utstyr, og om de har søkt midlar nokon anna plass."
 
