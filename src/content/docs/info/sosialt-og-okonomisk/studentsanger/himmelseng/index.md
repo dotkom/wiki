@@ -112,10 +112,10 @@ jeg kokte hele skiten.
 
 --
 
-Jeg møtte en gang en gammel man
-som sa han tilbød Allah. 
-Jeg fortalte mannen fort
-at guden hans var jalla.
+Jeg møtte en gang en gammel man  
+som sa han tilbød Allah.  
+Jeg fortalte mannen fort  
+at guden hans var jalla.  
 
   
 _Ymse Bergjubileumsvers_
