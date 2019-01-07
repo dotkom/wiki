@@ -32,7 +32,7 @@ title: "Dagsorden 2019"
 | 1 | 16:28 | 16:29 | Godkjenning av innkalling  | |
 | 1 | 16:29 | 16:30 | Godkjenning av saksliste  | |
 | 10 | 16:30 | 16:40 | Registrering i stemmesystem  | |
-| Total tid: | |15 min|
+| Total tid: | |25 min|
 
 
 
