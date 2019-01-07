@@ -9,3 +9,5 @@ title: "Årsberetninger 2019"
 * [2019 Saksforslag](/wiki/online/generalforsamlingen/genfors2019/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2019 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2019/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2019 Kandidater](/wiki/online/generalforsamlingen/genfors2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+
+[TOC]
