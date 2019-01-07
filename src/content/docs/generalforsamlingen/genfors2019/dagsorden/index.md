@@ -69,7 +69,6 @@ title: "Dagsorden 2019"
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-
 | Total tid: | |x min|
 
 ## Pause 30 min med pizza
@@ -77,7 +76,6 @@ title: "Dagsorden 2019"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-
 | Total tid: | |x min|
 
 ## Pause 5 min
@@ -87,7 +85,6 @@ title: "Dagsorden 2019"
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-
 | Total tid: | | x min |
 
 ### Valg for fondet
