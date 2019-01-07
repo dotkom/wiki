@@ -109,6 +109,14 @@ Jeg satt på sal en fredagskveld,
 jeg følte meg litt sliten.  
 Øvinga den ble for lang,  
 jeg kokte hele skiten.  
+
+--
+
+Jeg møtte en gang en gammel man
+som sa han tilbød Allah. 
+Jeg fortalte mannen fort
+at guden hans var jalla.
+
   
 _Ymse Bergjubileumsvers_
 
@@ -214,4 +222,4 @@ men vi vil helst se fitta
 jeg trenger ingen himmelseng  
 en himmelseng med speil i  
 jeg trenger ikke speile meg  
-jeg vet hvor jeg er deilig  
+jeg vet hvor jeg er deilig
