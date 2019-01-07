@@ -17,3 +17,5 @@ Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post t
 Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gjøres umiddelbart (som endrer gjennomføringen av generalforsamlingen), eller noe du vil at Hovedstyret/komitémedlemmer skal jobbe med i løpet av året. Vær obs på at saksforslag ikke er det samme som vedtektsforslag.
 
 [TOC]
+
+# Forslag til Onlines vedtekter
