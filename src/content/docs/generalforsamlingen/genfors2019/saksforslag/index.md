@@ -18,4 +18,4 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 [TOC]
 
-# Forslag til Onlines vedtekter
+# Saksforslag
