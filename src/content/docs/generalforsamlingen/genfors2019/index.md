@@ -14,7 +14,7 @@ title: "Generalforsamlingen 2019"
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter finner du her:  
-Onlines fonds vedtekter finner du her: [attachment:549]  
+Onlines fonds vedtekter finner du her: [attachment:550]  
 Referat fra generalforsamlingen 2018 finner du her:  
 
 ## Regnskap 2018 og budsjett 19/20
