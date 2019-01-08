@@ -29,7 +29,7 @@ Om du har en sak du vil at Hovedstyret for perioden 19/20 skal fokusere på, og 
 
 Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen. Det vil si 25. februar 2019. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld]() 21. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
+Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](https://online.ntnu.no/wiki/online/okogved/) 21. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2019/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
