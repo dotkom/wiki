@@ -11,3 +11,33 @@ title: "Årsberetninger 2019"
 * [2019 Kandidater](/wiki/online/generalforsamlingen/genfors2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 [TOC]
+
+## Hovedstyret
+
+## Arrangementskomiteen
+
+## Bank- og økonomikomiteen
+
+## Bedriftskomiteen
+
+## Drifts- og utviklingskomiteen
+
+## Fag- og kurskomiteen
+
+## Profil- og aviskomiteen
+
+## Trivselskomiteen
+
+## Seniorkomiteen
+
+## Ekskursjonskomiteen 2019
+
+## IT-ekskursjonen
+
+## Velkomstkomiteen 2018
+
+## Datakameratene FK
+
+## Realfagskjelleren
+
+## Casual Gaming
