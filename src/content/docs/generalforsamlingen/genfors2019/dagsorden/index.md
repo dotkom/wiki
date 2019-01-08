@@ -82,6 +82,12 @@ title: "Dagsorden 2019"
 
 ## Fondets generalforsamling
 
+### Årsberetning for fondet
+
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| Total tid: | | x min |
+
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
