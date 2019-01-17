@@ -29,4 +29,4 @@ Tilhørende wikisider
 |---|---|---|---|---|---|---|
 |FYSIO Trondheim|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990687609)|Fysioterapi|Tungasletta 2|trondheimfysio@gmail.com|[Facebook](https://www.facebook.com/groups/140984746022725/)||
 |BARIS|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Barnevernspedagogikk||barisstyret@outlook.com|[Facebook](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/andre/www.facebook.com/linjeforeningenbaris), [Instagram](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/andre/www.instagram.com/linjeforeningenbaris)||
-|Socialis||Sosialt arbeid - sosionom||socialis.lf@gmail.com|||
+|Socialis||Sosialt arbeid - sosionom|Tungasletta 2|socialis.lf@gmail.com|[Facebook](https://www.facebook.com/Socialis.lf/), [Instagram](https://www.instagram.com/socialis.lf/)||
