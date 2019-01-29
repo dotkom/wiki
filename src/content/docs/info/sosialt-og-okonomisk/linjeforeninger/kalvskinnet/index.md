@@ -27,7 +27,6 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kontor|Epost|Facebook|Avis|
 |---|---|---|---|---|---|---|
-| [Elektra](https://elektra.io) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711) | Elektro | | styret@elektra.io | [Page](https://www.facebook.com/elektraNTNU/) | |
 | [Fraktur](http://www.fraktur.no) (St.Olav) | | Radiograf | | post@fraktur.no | |
 | [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | leder@kom.hist.no |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
 | [Logitas](http://www.logitas.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | styret@logitas.no | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
