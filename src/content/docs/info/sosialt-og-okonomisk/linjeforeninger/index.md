@@ -213,7 +213,8 @@ Arrangementer der linjeforeningene inviterer hverandre
 
 -   **Lyd og lys:**
     -   Begge: [H.M. Aarhønen](http://aarhonen.no/utleie/), [HC](http://www.hc.ntnu.no)
-    -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen](http://www.smorekoppen.no/index.php?special=groups&gid=60)
+    -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
+, [Elektra] (elektra.io)
 -   **Musikere:**
     -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/),
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/the-lubricators/)
@@ -293,6 +294,7 @@ tilbake til oss på kontakt@online.ntnu.no
   [Omega]: http://omega.ntnu.no
   [Online]: http://online.ntnu.no
   [Abakus]: http://abakus.no
+  [Elektra]: http://elektra.io
 
 
   [H.M. Aarhønen]: http://www.aarhonen.ntnu.no/?q=node/158
