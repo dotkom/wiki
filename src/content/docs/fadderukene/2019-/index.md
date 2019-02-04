@@ -1,0 +1,33 @@
+---
+title: "Fadderukene 2019"
+---
+
+Informasjonskanal for fadderukene 2019
+
+* [Arrangementer](https://online.ntnu.no/wiki/online/fadderukene/2019-/arrangementer/)  
+* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2019-/faddere/)  
+* [For faddere](https://online.ntnu.no/wiki/online/fadderukene/2019-/fadder/) (kun faddere har tilgang) 
+* [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
+* [Program - Bachelor](https://online.ntnu.no/splash/)    
+* [Program - Master](https://online.ntnu.no/splash/)  
+* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2019-/velkom)
+
+### Uforventede hendelser
+Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
+
+- [Øyvind Jalland Schjerven](https://online.ntnu.no/profile/view/yvindo/) (leder, velkom)  
+- [Carl Smestad](https://online.ntnu.no/profile/view/carlofholy/) (nestleder, velkom)  
+
+Det er helt innenfor å ringe oss 24/7 ved behov.  
+
+Akutt hjelp
+------------------------------------
+
+- Politiet 📞 **112**  
+- Ambulanse 📞 **113**  
+- Brannvesen 📞 **110**
+
+Hvis det ikke haster kontaktes:
+
+- Politiet 📞 **02800**  
+- Legevakt 📞 **116117**
