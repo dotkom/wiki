@@ -8,11 +8,8 @@ Dersom du av ulike årsaker trenger å komme i kontakt med en arrangør, kan du 
 |  Navn | Ansvar | Arrangør for |
 |  ------ | ------ | ------ |
 |  [Øyvind Jalland Schjerven](https://online.ntnu.no/profile/view/yvinco/) | **Leder** | Alle |
-
 |  [Carl Smestad](https://online.ntnu.no/profile/view/CarlOfHoly/) | **Nestleder** | Alle |
-
 |  [Johanne Tronstad]() | **Økonomi** | Alle |
-
 |  [Henrik Hørlück Berg]() |  | Bachelor |
 |  [Jørgen Sveberg]() |  | Bachelor |
 |  [Petter Charles Redfern]() |  | Bachelor |
