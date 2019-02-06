@@ -2,7 +2,7 @@
 title: "Questline"
 ---
 
-Questline, Online sin desidert beste interessegruppe, er for de som er interessert i Dungeons and Dragon (DnD/D&D). Vi arrangerer med irregulært tempo karakterbygge-sessions, one-shots, og kampanjer. Vi har også diverse utstyr til utlån.
+Questline, Online sin desidert beste interessegruppe, er for de som er interessert i Dungeons and Dragons (DnD/D&D). Vi arrangerer med irregulært tempo karakterbygge-sessions, one-shots, og kampanjer. Vi har også diverse utstyr til utlån.
 
 
 
