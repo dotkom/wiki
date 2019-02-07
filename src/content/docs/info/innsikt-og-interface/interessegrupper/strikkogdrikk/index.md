@@ -23,7 +23,7 @@ Om interessegruppen
 
 Under er en liste over medlemmer i gruppen.
 
-Leder: Ingvild Gravem
+Leder: Ingvild Gravem  
 Nestleder:  
 Strikkeinstruktør:   
 Drikkeinstruktør:   
