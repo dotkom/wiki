@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Dotkom:*  
 * *Fagkom:*  
 * *Prokom:*  
-* *Trikom:*  
+* *Trikom:*  Jon-Inge Heggstad
 
 **De som har meldt interesse til Fondstyret er:**
 
