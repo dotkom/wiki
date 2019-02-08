@@ -21,7 +21,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Leder:*
 * *Nestleder:* 
 * *Økonomiansvarlig:* 
-* *Arrkom:* 
+* *Arrkom:* Marius Johan Holm Johansen 
 * *Bedkom:*  
 * *Dotkom:*  
 * *Fagkom:*  
