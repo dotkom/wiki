@@ -20,13 +20,13 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:*
 * *Nestleder:* 
-* *Økonomiansvarlig:* 
+* *Økonomiansvarlig:* Thomas Iversen Ramm  
 * *Arrkom:* Marius Johan Holm Johansen 
 * *Bedkom:*  
 * *Dotkom:*  
 * *Fagkom:*  
 * *Prokom:*  
-* *Trikom:*  Jon-Inge Heggstad
+* *Trikom:* Jon-Inge Heggstad
 
 **De som har meldt interesse til Fondstyret er:**
 
