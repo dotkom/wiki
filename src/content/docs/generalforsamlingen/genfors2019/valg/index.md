@@ -23,7 +23,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig:* Thomas Iversen Ramm, Mathias Fossum  
 * *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
 * *Bedkom:*  
-* *Dotkom:* Monika Muzyk 
+* *Dotkom:* Monika Muzyk, Ole Anders Stokker
 * *Fagkom:*  
 * *Prokom:* Benedicte Helen Myrvoll 
 * *Trikom:* Jon-Inge Heggstad
