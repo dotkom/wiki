@@ -20,7 +20,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:*
 * *Nestleder:*
-* *Økonomiansvarlig:* Thomas Iversen Ramm  
+* *Økonomiansvarlig:* Thomas Iversen Ramm, Mathias Fossum  
 * *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
 * *Bedkom:*  
 * *Dotkom:*  
