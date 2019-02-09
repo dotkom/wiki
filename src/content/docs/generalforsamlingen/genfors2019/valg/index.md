@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Bedkom:*  
 * *Dotkom:*  
 * *Fagkom:*  
-* *Prokom:*  
+* *Prokom:* Benedicte Helen Myrvoll 
 * *Trikom:* Jon-Inge Heggstad
 
 **De som har meldt interesse til Fondstyret er:**
