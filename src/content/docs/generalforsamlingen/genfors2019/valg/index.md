@@ -19,7 +19,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:*
-* *Nestleder:* Pål Edward Larsen
+* *Nestleder:* Pål-Edward Larsen
 * *Økonomiansvarlig:* Thomas Iversen Ramm  
 * *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
 * *Bedkom:*  
