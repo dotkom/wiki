@@ -24,7 +24,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
 * *Bedkom:*  
 * *Dotkom:* Monika Muzyk, Ole Anders Stokker
-* *Fagkom:*  
+* *Fagkom:* Andreas Amundsen
 * *Prokom:* Benedicte Helen Myrvoll 
 * *Trikom:* Jon-Inge Heggstad
 
