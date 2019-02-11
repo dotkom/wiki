@@ -32,4 +32,4 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:*  
-* *Ridder:*
+* *Ridder:* Christoffer Skar Lofsberg
