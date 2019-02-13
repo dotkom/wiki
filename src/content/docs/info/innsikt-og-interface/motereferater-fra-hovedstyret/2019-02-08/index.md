@@ -142,26 +142,26 @@ Aslak
 ## 284 Komitégensere (09:05 - 5 min)
 [Fått forespørsel fra dotkom om de kan bestille opp komitégenser, tok det opp i prokom og vi er litt usikre på om vi kan/vil godkjenne det. Hva slags presedens ønsker vi å sette?]
 
-Hanne intorduserer : 
-- De har fått forespørsel for 2 uker siden av dotkom om prokom kan designe gensere de ville trykke opp. Hanne tenkte at det bør diskuteres om vi skal bestille opp komitégensere. 
+Hanne intorduserer:  
+- De har fått forespørsel for 2 uker siden av dotkom om prokom kan designe gensere de ville trykke opp. Hanne tenkte at det bør diskuteres om vi skal bestille opp komitégensere.  
 
-Diskusjon:
-- Det er en sittenede avgjøresle fra før, som vi kan overstyre. Hvordan skiller man online og komiteer. Gensere som dette er veldig vanlig, og det er ikke uvanlig å se slike grupperingsensere. Dette er greit, så fremt at det er noe de gjør på eget iniativ.
-- Det kan være dumt, blant annet for at det kan skape indre grupperinger, og vi har allerede en egen online-genser. 
-- Må vi da nekte bedkom å bestille flere gensere? Ja. 
-- Dette kan skape merkelige situasjoner da bedkom kan bruke sine gensere, men ikke andre komiteer. 
-- Det er ganske kult at folk lager egne ting med online-logo. Nye folk vil jo ha de eksisterende online-genserne. 
-- Det har ikke vært noe problem med at bedkom går rundt med sine gensere. - Åpner dette for annen merch? f.esk fagkom-caps/trikom?
-- Online-logoen er ikke trademarket, så det er i teorien fritt fram. 
-- Prokom må uansett se på design om det kommer sak. For prokom kan dette være mye arbeid, om det kommer masse mer forslag på design. 
-- Per nå er det en veldig lav rate på forslag av merch siden bedkom fikk sine gensere for 2 år siden. 
-- Kult å se at komiteer vil gå med noe de har laget selv. 
-- Vi ser at det kan tolkes som at det skapes grupperinger, noe dotkom ikke ønsker. Det er allerede noen grupperinger, med blåturer, hytteturer osv, som er en snakkis på saler. 
-- Genser er ikke den utelukkede faktoren i forhold til andre komitéaktiviteter som skjer, og de er vanligvis ikke et problem heller. 
-- Hvor mange gensere har vi solgt? 70 stk av 200. 
-- Om dette går gjennom så bør det gjøres ordentlig. Design og slikt kan resultere annerledes enn originalt tenkt. 
-- Det stemmes, og forslaget gokjennes. 
-- Dotkom får fortsette å designe og bestille gensere. 
+Diskusjon:  
+- Det er en sittenede avgjøresle fra før, som vi kan overstyre. Hvordan skiller man online og komiteer. Gensere som dette er veldig vanlig, og det er ikke uvanlig å se slike grupperingsensere. Dette er greit, så fremt at det er noe de gjør på eget iniativ.  
+- Det kan være dumt, blant annet for at det kan skape indre grupperinger, og vi har allerede en egen online-genser.  
+- Må vi da nekte bedkom å bestille flere gensere? Ja.  
+- Dette kan skape merkelige situasjoner da bedkom kan bruke sine gensere, men ikke andre komiteer.  
+- Det er ganske kult at folk lager egne ting med online-logo. Nye folk vil jo ha de eksisterende online-genserne.  
+- Det har ikke vært noe problem med at bedkom går rundt med sine gensere. - Åpner dette for annen merch? f.esk fagkom-caps/trikom?  
+- Online-logoen er ikke trademarket, så det er i teorien fritt fram.   
+- Prokom må uansett se på design om det kommer sak. For prokom kan dette være mye arbeid, om det kommer masse mer forslag på design.  
+- Per nå er det en veldig lav rate på forslag av merch siden bedkom fikk sine gensere for 2 år siden.  
+- Kult å se at komiteer vil gå med noe de har laget selv.  
+- Vi ser at det kan tolkes som at det skapes grupperinger, noe dotkom ikke ønsker. Det er allerede noen grupperinger, med blåturer, hytteturer osv, som er en snakkis på saler.  
+- Genser er ikke den utelukkede faktoren i forhold til andre komitéaktiviteter som skjer, og de er vanligvis ikke et problem heller.  
+- Hvor mange gensere har vi solgt? 70 stk av 200.  
+- Om dette går gjennom så bør det gjøres ordentlig. Design og slikt kan resultere annerledes enn originalt tenkt.  
+- Det stemmes, og forslaget gokjennes.  
+- Dotkom får fortsette å designe og bestille gensere.  
 
 
 ## 286 Vervgoder (09:10 - 10 min)
