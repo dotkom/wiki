@@ -35,7 +35,7 @@ Tilhørende wikisider
 | [Nutrix](http://nutrix.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | nutrixlinjeforening@gmail.com | [Page](http://fb.com/pages/Nutrix/297838347011022) |
 | [SALT](http://studentalt.no/)| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912414094) | Lærerutdanning | Campus Rotvoll, E122 | postmottak@studentalt.no | [Page](https://www.facebook.com/studentalt/) | |
 | [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Økonomi | | post@sftoh.no | |[Rustblekka](https://www.facebook.com/Rustblekka-Handelshøyskolen-i-Trondheim-472874276071068/)|
-| Tekno-Tunga | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | | [Page](http://fb.com/TeknoTunga) |
+| Cibus | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | Sverres gate 12 | Cibus.mattek@gmail.com | [Page](http://fb.com/TeknoTunga) |
 | [TIHLDE](http://www.tihlde.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Drift av datasystemer, IT-støttet bedriftsutvikling og IKT-basert samhandling | Sverres gate 14, rom 106 | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/) |
 | [Tim & Shænko](http://bygging.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Sverres gate 14, rom 205 | styret@bygging.no | [Group](http://fb.com/groups/220828851361570/) |
 
