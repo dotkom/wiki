@@ -29,7 +29,7 @@ title: "2019-02-08"
 - Loffen snakke med vaktmester.  
 - Prikkregelgruppa må begynne å se på prikkregler (glemt forrige uke)  
 - Lese dagsorden. (gjøres før workshopen ellers vinstraff)
-- Andreas svarer om vi kan få inn et punkt som sier at ITdagene dekker gebyret som oppstår på stripe.
+
 
 ## Innsjekk (08:15 - 2 min)  
 
