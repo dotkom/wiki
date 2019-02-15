@@ -21,7 +21,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Leder:* August Sollesnes Solvang
 * *Nestleder:* Pål-Edward Larsen
 * *Økonomiansvarlig:* Thomas Iversen Ramm, Mathias Fossum  
-* *Arrkom:* Marius Johan Holm Johansen, Alis Wilson, Erling Wisløff
+* *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
 * *Bedkom:*  
 * *Dotkom:* Monika Muzyk, Ole Anders Stokker
 * *Fagkom:* Andreas Amundsen
