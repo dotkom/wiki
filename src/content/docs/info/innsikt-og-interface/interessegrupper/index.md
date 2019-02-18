@@ -41,6 +41,8 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 - [Comitato Di Pizza](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
 - [Questline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/questline/)
+- [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
+
 
 ## Tidligere interessegrupper
 
