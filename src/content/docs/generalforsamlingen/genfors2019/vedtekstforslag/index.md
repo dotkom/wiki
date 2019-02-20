@@ -288,7 +288,7 @@ _Hvorfor? Nå står det at formuen forvaltes av fondet, men formue er definert s
 
 **Med:** Onlines Fond er definert ved Onlines Fonds vedtekter som eksisterer som vedlegg til Onlines vedtekter.
 
-# Forslag til Online fond's vedtekter
+# Forslag til Onlines fond's vedtekter
 
 ## Forslag 1 - Referent kan stille til valg (Hovedstyret)
 
