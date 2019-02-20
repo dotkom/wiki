@@ -122,7 +122,7 @@ _Hvorfor? Interessegrupper har allerede de facto vært hos seniorkomiteen en per
 
 ## Forslag 6 - Online idrettslag (Hovedstyret)
 
-_Hvorfor? Det å bidre til økt fysisk aktivitet er noe som ganger Online som en helhet. Det foreslås at en ny nodekomité opprettes som har ansvar for å sørge for nettopp dette. Her blir det et naturlig sted å samle alle idrettsgrupper vi har og det gir forhåpentligvis intensiv til å starte nye lavterskel grupper som løping, squash, osv..._
+_Hvorfor? Det å bidra til økt fysisk aktivitet er noe som ganger Online som en helhet. Det foreslås at en ny nodekomité opprettes som har ansvar for å sørge for nettopp dette. Her blir det et naturlig sted å samle alle idrettsgrupper vi har og det gir forhåpentligvis intensiv til å starte nye lavterskel grupper som løping, squash, osv..._
 
 **Legges til under 4.3**
 
