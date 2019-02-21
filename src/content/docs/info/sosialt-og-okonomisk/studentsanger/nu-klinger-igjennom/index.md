@@ -16,6 +16,8 @@ I følge en halvnaken Svein-Halvor Halvorsen (på en badstu ikke langt fra gråk
 
 ### **Sangen**
 
+**Noter:** [attachment:577]
+
 Nu klinger igjennom den gamle stad, påny en studentersang,  
 og alle mann alle i rekker og rad, svinger opp under begerklang!  
 Og mens borgerne våkner i køia og hører det glade "kang-kang",  
