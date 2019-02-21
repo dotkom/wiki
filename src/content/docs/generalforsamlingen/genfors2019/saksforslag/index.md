@@ -29,7 +29,8 @@ En omstrukturering av dette omfanget berører mange og det er derfor viktig at t
 
 Hovedstyret skal nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer, som frem til neste generalforsamling skal vurdere om en ny struktur vil gagne Online.  
 Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive medlemmer av Hovedstyret, komitémedlemmer og andre medlemmer for å iverta fellesskapets interesser.  
-Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.
+Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
+Resultatet av det gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.   
 
 ## Sak 2 - Endre hvordan paragraf 5.4 blir brukt i praksis (Aslak)
 Vi har nå en stund operert med sosiale medlemmer. Det er fulle medlemmer av Online, som ikke får mulighet til å dra på bedriftspresentasjoner eller bedriftskurs. Jeg ønsker å avslutte ordningen med sosiale medlemmer, til fordel for å heller innvilge fullt medlemskap. Det er allerede rom for det i vedtektene fra paragraf 5.4 men vi tar det opp som et saksforslag fordi vi ønsker å endre på et presedens som har blitt satt. 
