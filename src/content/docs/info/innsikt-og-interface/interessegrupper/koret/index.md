@@ -10,7 +10,7 @@ C# har flere konserter og opptredener hvert semester, som for eksempel julekonse
 I tillegg har C# flere sosiale sammenkomster, slik som blant annet Singstarkvelder, grilling, hytteturer og Korpils etter øvinger. 
 
 ### Øvinger
-Vår 2018 er øvinger til vanlig tirsdag 20:15-22:15 i EL2.
+Vår 2019 er øvinger til vanlig onsdager 16:15-18:00 i [A3-138] (https://goo.gl/Zjn75s) .
 Hvis du vil være med er det bare å møte opp.
 
 ### Styre
