@@ -9,8 +9,8 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 **Økonomi- og vedtektskvelden 2019 finner sted 21. februar kl. 17 i R8.**
 
 * [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden19)
-* [Budsjett]()
-* [Regnskap]()
+* [Budsjett](https://docs.google.com/spreadsheets/d/1I-4p_l02Y_ZThvSMCD9HRgu3ApbARie46-_FX-1mEBw/edit?usp=sharing)
+* [Regnskap](https://docs.google.com/spreadsheets/d/1BDvtP80nsKV5kvy6gEhzqtSGr50tb1bmXXgxjpXdTBU/edit?usp=sharing)
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag)
 * [Referat fra økonomi- og vedtektskvelden 2019](okogved-referat2019)
