@@ -20,7 +20,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag  
   
-## Sak 1 - Nedsette en gruppe for undersøkelse av organisasjonssruktur (Hovedstyret)  
+## Sak 1 - Nedsette en gruppe for undersøkelse av organisasjonssruktur (Johannes Kvamme)  
 
 Ved fjorårets generalforsamling ble det fremmet et forslag om å endre organisasjonsstrukturen til Online, med hovedfokus på Hovedstyret.  
 Dette grunnet meninger om at Hovedstyrets oppgaver som organ spriker i stor grad med ansvarsområdene og oppgavene til komitéledere.  
