@@ -11,6 +11,8 @@ Sangen er opprinnelig av Otto Nielsen, som studerte ved NTH. Først sett i _Litj
 
 ### **Sangen**
 
+**Noter:** [attachment:578]
+
 Livet er bra!  
 Livet er bra når man bare kan ha  
 det man må ha,  
@@ -40,4 +42,4 @@ Refreng:
 Å-------, en øl i handa  
 en øl i handa er bedre,  
 så mye, mye bedre  
-enn ti fulle lerker på taket .  
+enn ti fulle lerker på taket .
