@@ -230,9 +230,9 @@ _Hvorfor? Output er en etablert gruppering som ikke hører under nodekomité ell
 
 **Legges til under 4.4 Andre grupper tilknyttet Online**
 
-**4.4.X Output**
+**4.4.4 Output**
 
-Beskrivelse kommer
+Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt
 
 ## Forslag 16 - Bytte ut komité med gruppe under andre tilknytninger (Hovedstyret)
 
