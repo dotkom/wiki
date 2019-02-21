@@ -42,13 +42,13 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - [Comitato Di Pizza](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
 - [Questline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/questline/)
 - [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
+- [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 
 
 ## Tidligere interessegrupper
 
 - [Cachekom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/)
 - Kobkom - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
-- [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
 - [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
 - [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
