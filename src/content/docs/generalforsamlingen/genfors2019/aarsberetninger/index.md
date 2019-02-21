@@ -25,6 +25,34 @@ title: "Årsberetninger 2019"
 ## Fag- og kurskomiteen
 
 ## Profil- og aviskomiteen
+- Til sammen 9 medlemmer sluttet i løpet av året, inkludert noen få som tok permisjon
+- Tok opp syv nye medlemmer etter sommeren
+- Hatt suppleringsopptak på våren, tok opp 2 nye
+- Byttet økonomiansvarlig tre ganger i løpet av året
+- Hatt medarbeidersamtaler på høsten
+
+### Grafisk:
+- Produsert ny Planet Onlinegenser, solgt 69 av denne hittil.
+- Ga ut årboka etter sommeren i fjor, solgte 18 stykker (i følge webshop)
+    - I god gang med å få ut årets utgave før sommeren
+    - Tatt bilde av alle komiteene + nodekomiteer
+- Produsert profileringsmateriell for TechTalks
+- Jobbet med velkom for å lage profileringsmateriell til fadderukene.
+- Så langt 70 bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
+- Laget nye kompileringsdaljer og nodekomitédaljer, solgt 44 av kompileringsdaljene.
+
+### Offline:
+- Gitt ut 4 utgaver
+- Distribuert Offline til linjerforeninger/abonnenter
+- Er i gang med planlegging av Gullblekka 2018
+- Innført nytt distribusjonssystem av Offline på webshopen, solgt 4 abonnementer hittil.
+
+### Samarbeid med Abakus: 
+- Samarbeidet med PR om enkelte kurs/bedriftspresentasjoner og arrangementer
+- Samarbeidet med PR om bildetagning på hverandres immatrikuleringsball
+
+### Annet:
+- Holdt CV-fotografering på høsten, med hjelp av Endre Ulberg
 
 ## Trivselskomiteen
 
