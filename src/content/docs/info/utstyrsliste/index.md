@@ -27,6 +27,7 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Drikke roulette|A4-107|Arrkom|
 |Netlight profilmaterialle|A4-107|Fagkom/Bedkom|
 |Kamera, linser og utstyr|A4-107|Prokom|
+|Blitzer|A4-107|Prokom|
 |Blitzstativ (x2)|A4-107|Prokom|
 |TV|A4-107||
 |Onlines roll-up (x2)|A4-107|HS|
@@ -73,6 +74,11 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Champagne sabler (x2)|Kontoret|Online|
 |Megafon|Kontoret|Online|
 |Bord|Kontoret|Trikom|
+|Kjøkkenbenk (x6)|Kontoret|Trikom|
+|Kjøkkenbenk|Kontoret|Trikom|
+|Kamera, linser og utstyr|A4-107|Prokom|
 |Kontorstroler (x8)|Kontoret|Trikom|
 |Sofa (x2)|Kontoret|Trikom|
 |Kjøkkenutstyr|Kontoret|Trikom|
+|Trådløse ladere (x2)|Kontoret|Trikom|
+|Raspberry pi (x2)|Kontoret|Online|
