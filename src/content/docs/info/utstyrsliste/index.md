@@ -51,7 +51,64 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Strykejern|A4-107|Trikom|
 |PERLER!!!|A4-107|Trikom|
 |Panini grill|A4-107|Trikom|
-
+|Grill|K58|Trikom|
+|Propantanker (2x)|K58|Trikom|
+|Kjelker (x2)|K58|Arrkom|
+|Akebrett (x10)|K58|Arrkom|
+|Gensere (x5)|K58|Prokom|
+|Presening til onlinelekene/fadderuka (x2)|K58|Arrkom/Velkom|
+|Mange daljer|K58|Prokom/HS|
+|Gummibåter (x17)|K58|Velkom|
+|Historisk arkiv|K58|HS|
+|Regnskap|K58|Bankom/HS|
+|Dworek|K58|Dotkom|
+|Casino-/pokersett (x2)|K58|Arrkom|
+|Pokerduk (1 pose)|K58|Arrkom|
+|Kullposer (x2)|K58|Velkom|
+|Partytelt (x3)|K58|Velkom|
+|10-liters bøtter (x5)|K58|Ontap|
+|Gjæringskar|K58|Ontap|
+|Zalo (2x 5L)|K58|Velkom|
+|Hageslange (~10m)|K58|Velkom|
+|Prosjektor (VGA-utgang)|K58|Fagkom|
+|Elektrisk luftpumpe(x3)|K58|Velkom|
+|Online bannere (x4)|K58|HS|
+|Tau|K58|Arrkom|
+|Bed-/fagkom skjorter|K58|Bed/Fagkom|
+|17-mai banner|K58|HS|
+|Flaske børster|K58|Ontap|
+|Treplugger til slip-n-slide|K58|Arrkom|
+|Kløyvøks|K58|Trikom|
+|Turøks|K58|Trikom|
+|Lavo|K58|Trikom|
+|Presening|K58|Trikom|
+|Slegge|K58|HS|
+|Mobilt avtrekk|K58|Trikom|
+|Megafon|K58|Arrkom|
+|Tennisballer|K58|Arrkom|
+|Frisbe|K58|Arrkom|
+|Slack-line|K58|Arrkom|
+|Online banner|K58|HS|
+|Sprayer (gul/svart/gull)|K58|HS|
+|Baller (div)|K58|X-sport|
+|Vanngevær|K58|Velkom|
+|Link-kostyme|K58|Arrkom|
+|Sperrebånd (x2)|K58|Velkom|
+|Ymse søppelposer|K58|Velkom|
+|Stiftepistol|K58|Velkom|
+|Vannpumpe (x2)|K58|Velkom|
+|Kubbsett (x3)|K58|Velkom|
+|Balltre|K58|Velkom|
+|Volleyballsett (x2)|K58|Trikom|
+|Badebaseng|K58|Arrkom/Velkom|
+|Mange ballonger|K58|Velkom?|
+|Jævla mye tråd|K58|Velkom?|
+|Kompileringsgreier|K58|HS/Velkom|
+|Keychains|K58|Prokom|
+|Kaffekanne (5L)|K58|Trikom?|
+|Sekketralle / Sekkehjul|K58||
+|Ethernet kabler|K58|Dotkom|
+|Band : div|K58|Bandet|
 |Kjøleskap (x2)|Kontoret|Trikom|
 |Stumtjener|Kontoret|Trikom|
 |Kaffetrakter|Kontoret|Trikom|
