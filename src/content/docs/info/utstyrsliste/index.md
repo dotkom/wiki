@@ -3,7 +3,7 @@ title: "Oversikt over inventar"
 ---
 
 |Gjenstand|Ansvarlig komité|
-|||
+|---------|----------------|
 |||
 |||
 |||
