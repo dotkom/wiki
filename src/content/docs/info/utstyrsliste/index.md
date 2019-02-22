@@ -16,7 +16,7 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |PC-stasjonær|A4-107|Dotkom|
 |Skriver|A4-107|Bankom|
 |Makuleringsmaskin|A4-107|Bankom|
-|Julepynt & div|A4-107|Trikom|
+|Julepynt & div til juleverksted|A4-107|Trikom|
 |Glassvaser(x4)|A4-107|Bedkom|
 |Prosjektor|A4-107|Dotkom|
 |Kaffekanne 2L (x2)|A4-107|Trikom|
@@ -44,7 +44,15 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Forgreinere (x7)|A4-107|Fagkom/Bedkom|
 |Battery packs (x2)|A4-107|Fagkom|
 |Voice recorder|A4-107|Fagkom|
-|Dotkom boks (dere vet selv)|A4-107|Dotkom|
+|Dotkom boks (x2)|A4-107|Dotkom|
 |Bedkom boks|A4-107|Bedkom|
 |Pose med stearinlys|A4-107|???|
+|Strykejern|A4-107|Trikom|
+|PERLER!!!|A4-107|Trikom|
+|Panini grill|A4-107|Trikom|
+||A4-107||
+||A4-107||
+||A4-107||
+||A4-107||
+||A4-107||
 ||A4-107||
