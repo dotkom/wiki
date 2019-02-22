@@ -12,3 +12,4 @@ title: "Innsikt & Interface"
 - [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
 - [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
+- [Onlines utstyr] (/wiki/online/info/utstyrsliste) - Inventar som tilhører Online
