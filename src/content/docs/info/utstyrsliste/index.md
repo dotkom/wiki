@@ -5,7 +5,9 @@ title: "Oversikt over inventar"
 Dette er et forsøk på å skape en noenlunde komplett liste over Onlines inventar. Selv om alt dette er Onlines eiendeler skal det ansvarlige partiet kontaktes ved evt. lån av utstyr.
 
 |Gjenstand|Sted|Ansvarlig parti|
-|---------|:---|--------------:|
+|---------|----|---------------|
+
+
 |Fryseboks|A4-107||Trikom|
 |Kjøleskap|A4-107||Fagkom|
 |Gjæringskar(x3)|A4-107|Ontap|
