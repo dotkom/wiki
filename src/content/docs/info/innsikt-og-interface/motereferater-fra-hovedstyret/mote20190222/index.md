@@ -63,7 +63,7 @@ ITEX:
 #### Økonomiansvarlig, med bankom:  
 HS: 
 
-Bankkom:
+Bankom:
 
 #### ITV:  
 
