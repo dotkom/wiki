@@ -6,8 +6,6 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 
 |Gjenstand|Sted|Ansvarlig parti|
 |---------|----|---------------|
-
-
 |Fryseboks|A4-107||Trikom|
 |Kjøleskap|A4-107||Fagkom|
 |Gjæringskar(x3)|A4-107|Ontap|
