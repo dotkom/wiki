@@ -50,9 +50,29 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Strykejern|A4-107|Trikom|
 |PERLER!!!|A4-107|Trikom|
 |Panini grill|A4-107|Trikom|
-||A4-107||
-||A4-107||
-||A4-107||
-||A4-107||
-||A4-107||
-||A4-107||
+
+|Kjøleskap (x2)|Kontoret|Trikom|
+|Stumtjener|Kontoret|Trikom|
+|Kaffetrakter|Kontoret|Trikom|
+|Kaffekanne (5L & 2L)|Kontoret|Trikom|
+|Panini grill|Kontoret|Trikom|
+|Mikrobølgeovn|Kontoret|Trikom|
+|PC-stasjonær|Kontoret|Dotkom|
+|PC-skjerm (x3)|Kontoret|Dotkom|
+|Kontordildo|Kontoret|Online|
+|Mus & tastatur|Kontoret|Dotkom|
+|Kortleser RFID|Kontoret|Dotkom|
+|Sjakkbrett (x3)|Kontoret|Trikom|
+|Receiver|Kontoret|Trikom|
+|Høytaler (x2)|Kontoret|Trikom|
+|Nintendo Switch|Kontoret|Trikom|
+|Wii U|Kontoret|Trikom|
+|TV|Kontoret|Trikom|
+|Switch kontrollere (x6 pro controller, x4 joycons)|Kontoret|Trikom|
+|Wii U kontrollere (x7)|Kontoret|Trikom|
+|Champagne sabler (x2)|Kontoret|Online|
+|Megafon|Kontoret|Online|
+|Bord|Kontoret|Trikom|
+|Kontorstroler (x8)|Kontoret|Trikom|
+|Sofa (x2)|Kontoret|Trikom|
+|Kjøkkenutstyr|Kontoret|Trikom|
