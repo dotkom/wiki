@@ -19,7 +19,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:* August Sollesnes Solvang
-* *Nestleder:* Pål-Edward Larsen
+* *Nestleder:* Pål-Edward Larsen, Henrik Liodden
 * *Økonomiansvarlig:* Thomas Iversen Ramm, Mathias Fossum, Jon-Inge Heggstad, Kaja Sofie Lundgaard
 * *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
 * *Bedkom:* Sigrun Nummedal
