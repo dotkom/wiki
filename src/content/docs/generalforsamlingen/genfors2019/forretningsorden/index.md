@@ -50,7 +50,7 @@ Her følges kapittel 3 paragraf 6 i Onlines vedtekter.
 
 Når det er flere kandidater til ett verv skal kandidatene som ikke presenterer seg vente i et annet rom enn der generalforsamlingen gjennomføres. Kandiater som venter plikter å ikke lytte på de andre kandidatenes presentasjon.
 
-For valg for stillingene leder, nestleder og økonomiansvarlig får hver kandidat 3 minutter til appell før spørsmålsrunden starter. Her gis det rom for å stille spørsmål i 10 minutter ganger antall kandidater, med en begrensning på 30 minutter. Før endelig votering får hver kandidat 1 minutt til å holde en avslutningsappell.
+For valg til stillingene leder, nestleder og økonomiansvarlig får hver kandidat 3 minutter til appell før spørsmålsrunden starter. Her gis det rom for å stille spørsmål i 10 minutter ganger antall kandidater, med en begrensning på 30 minutter. Før endelig votering får hver kandidat 1 minutt til å holde en avslutningsappell.
   
 For valg til resterende verv får kandidatene 2 minutter til appell før spørsmålsrunden starter. Her gis det rom for å stille spørsmål i 5 minutter ganger antall kandidater, med en begrensning på 20 minutter. Deretter gjennomføres endelig votering. 
 
