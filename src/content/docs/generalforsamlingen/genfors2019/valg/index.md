@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Nestleder:* Pål-Edward Larsen, Henrik Liodden
 * *Økonomiansvarlig:* Thomas Iversen Ramm, Mathias Fossum, Jon-Inge Heggstad, Kaja Sofie Lundgaard
 * *Arrkom:* Marius Johan Holm Johansen, Alis Wilson
-* *Bedkom:* Sigrun Nummedal
+* *Bedkom:* Sigrun Nummedal, Erling Wisløff
 * *Dotkom:* Monika Muzyk, Ole Anders Stokker
 * *Fagkom:* Andreas Amundsen
 * *Prokom:* Benedicte Helen Myrvoll 
