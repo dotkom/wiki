@@ -50,7 +50,11 @@ Her følges kapittel 3 paragraf 6 i Onlines vedtekter.
 
 Når det er flere kandidater til ett verv skal kandidatene som ikke presenterer seg vente i et annet rom enn der generalforsamlingen gjennomføres. Kandiater som venter plikter å ikke lytte på de andre kandidatenes presentasjon.
 
-Til kandidater som stiller til leder og nestleder gis det anledning til å stille fire spørsmål fra salen. Til andre kandidater gis det anledning til å stille tre spørsmål fra salen. Ved flere kandidater, står kandidatene på rekke, rullerer på hvem som svarer først og svarer på samme spørsmål. Dersom det er alminnelig flertall for det, kan spørsmålsrunden utvides.
+For valg for stillingene leder, nestleder og økonomiansvarlig får hver kandidat 3 minutter til appell før spørsmålsrunden starter. Her gis det rom for å stille spørsmål i 10 minutter ganger antall kandidater, med en begrensning på 30 minutter. Før endelig votering får hver kandidat 1 minutt til å holde en avslutningsappell.
+  
+For valg til resterende verv får kandidatene 2 minutter til appell før spørsmålsrunden starter. Her gis det rom for å stille spørsmål i 5 minutter ganger antall kandidater, med en begrensning på 20 minutter. Deretter gjennomføres endelig votering. 
+
+Under spørsmålsrunde står alle kandidatene på rekke og alle har anledning til å svare på alle spørsmål. Kandidatene bytter på rekkefølgen for hvem som svarer ved hvert spørsmål. Ordstyrer velger startrekkefølgen før rulleringen starter. Ordstyrer kan sette strek under en spørsmålsrunde om det ikke er flere spørsmål fra salen. Dersom det er alminnelig flertall for det, kan spørsmålsrunden ved valg utvides.
 
 
 ## 4 Forhandlinger
