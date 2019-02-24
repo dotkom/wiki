@@ -56,6 +56,8 @@ For valg til resterende verv får kandidatene 2 minutter til appell før spørsm
 
 Under spørsmålsrunde står alle kandidatene på rekke og alle har anledning til å svare på alle spørsmål. Kandidatene bytter på rekkefølgen for hvem som svarer ved hvert spørsmål. Ordstyrer velger startrekkefølgen før rulleringen starter. Ordstyrer kan sette strek under en spørsmålsrunde om det ikke er flere spørsmål fra salen. Dersom det er alminnelig flertall for det, kan spørsmålsrunden ved valg utvides.
 
+Dersom en kandidat som stiller til valg ikke er til stede og det ikke er mulig for kandidaten å delta via videolink, kan kandidaten sende inn en skriftlig appell som leses opp av ordstyrer til forsamlingen.
+
 
 ## 4 Forhandlinger
 
