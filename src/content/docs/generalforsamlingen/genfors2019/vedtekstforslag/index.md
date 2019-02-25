@@ -46,7 +46,7 @@ _Hvorfor? I dag fastsettes budsjettet for høst/vår av generalforsamlingen hver
 
 Linjeforeningens budsjett for neste år settes av Bank- og økonomikomiteen på et årlig budsjettmøte i løpet av høstsemesteret. Dette skal deretter godkjennes av Hovedstyret. Budsjettet må være godkjent innen 1. desember for året som følger.
 
-Budsjettet skal være forsvarlig og det skal ikke med mindre sterke grunner taler for det budsjetteres med tap eller uten en ansvarlig sikkerhetsmargin.
+Budsjettet skal være forsvarlig og det skal ikke, med mindre sterke grunner taler for det, budsjetteres med tap eller uten en ansvarlig sikkerhetsmargin.
 
 **6.1.2 Revidering av budsjett**
 
@@ -142,7 +142,7 @@ _Hvorfor? Sånn som det er nå er det kun beskrevet under 3.4.2 Vedtekter at man
 
 **Følgende legges til nederst i kapittelet:** 
 
-Dersom en sak har bred støtte i salen kan ordstyrer forsøke å ta en sak opp til votering ved akklamasjon. Det skal gis rom for å uttrykke sin misnøye ved å vise tegn innen rimelig tid. Enhver stemmeberettiget person tilstede kan kreve at det gjennomføres en fullstendig avstemning. Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.
+Dersom en sak har bred støtte i salen kan ordstyrer forsøke å ta en sak opp til votering ved akklamasjon. Det skal gis rom for å uttrykke sin misnøye ved å vise tegn innen rimelig tid. Enhver stemmeberettiget person til stede kan kreve at det gjennomføres en fullstendig avstemning. Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.
 
 ## Forslag 8 - Referent kan stille til valg (Hovedstyret)
 
