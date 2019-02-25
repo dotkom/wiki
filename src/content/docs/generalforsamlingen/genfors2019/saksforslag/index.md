@@ -41,6 +41,6 @@ Videre så ønsker jeg at et krav skal være at man ikke skal ta i bruk andre li
 
 Tilbudet er også tiltenkt folk som ønsker å ta en aktiv del i miljøet i Online, men det er ikke nødvendigvis noe krav om verv e.l.
 
-## Sak 3 - Online setter over 50 000 til fondet
+## Sak 3 - Online setter over 50 000 til fondet (Hovedstyret)
 
 På bakgrunn av årets overskudd og i samråd med bank- og økonomikomiteen ønsker Hovedstyret å føre over 50 000 til fondet. Dette er et beløp som tilsvarer ca det som er brukt i 2018 og fondet vil derfor ikke øke i størrelse fra forrige generalforsamling. Beløpet er også vurdert med tanke på Onlines likvide midler.
