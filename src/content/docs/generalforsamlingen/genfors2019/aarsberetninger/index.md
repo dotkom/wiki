@@ -67,5 +67,9 @@ title: "Årsberetninger 2019"
 ## Datakameratene FK
 
 ## Realfagskjelleren
-
+- Vi har åpner kjellern!
+- Vi har tatt opp tre Onlinere: Vivi Svendsen, Nicolai Dalaaker og Ida Høyland.
+- Vi har også hatt genfors og valgt leder, nestleder og økonomiansvarlig: Sander Lindberg(Online), Pål-Anders Skari(Volvox) og Even Aslaksen(Delta) 
+- Har ellers hatt ukentlig fredagsåpent, men relativt bra oppmøte hver uke (dårlig oppmøte av Onlinere da)
+- Fått på plass drinker og shots + Kjeller Rulett v2! Og fått tak i Dahls på tapp
 ## Casual Gaming
