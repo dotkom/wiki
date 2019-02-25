@@ -161,15 +161,15 @@ _Hvorfor? Hovedstyret finner ingen god grunn til at referent ikke kan stille til
 - Ordstyrer  
 - Tellekorps 
 
-## Forslag 9 - Legg til nodekomité som kvalifisering til HS og fjern unntaket for økonomiansvarlig (Hovedstyret)
+## Forslag 9 - Fjern unntaket for økonomiansvarlig når det kommer til krav for valg (Hovedstyret)
 
-_Hvorfor? Nå er du nødt til å ha sittet i en kjernekomité i et semester for å stille til Hovedstyret. Mange informatikere har hatt mange verv i nodekomiteer og kjenner organisasjonen, men er ikke kvalifisert for å stille til styreverv. Fjerner også unntaket som gjelder for økonomiansvarlig, da valgkomiteen alltids kan godkjenne kandidater som ikke opprettholder kravene_
+_Hvorfor? Nå er det et krav om å ha innehatt verv i en kjernekomité i ett semester for å stille til stillinger i Hovedstyret. Det er derimot et unntak for leder av bank- og økonomikomiteen. Det foreslås at dette unntaket fjernes så det blir likt med andre verv. Om noen uten erfaring ønsker å stille kan alltids valgkomiteen godkjenne dette._
 
 **4.1.3 Krav til kandidater**
 
 **Erstatt:** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett (1) semester med unntak av leder av bank- og økonomikomiteen.
 
-**Med:** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester.
+**Med:** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett (1) semester.
 
 ## Forslag 10 - Bytte ut leder av bank- og økonomikomiteen med økonomiansvarlig (Hovedstyret)
 
@@ -185,7 +185,18 @@ _Hvorfor? Stillingen har byttet navn_
 
 **Erstatt:** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett (1) semester med unntak av økonomiansvarlig.
 
-## Forslag 11 - Endring av formålet til bedriftskomiteen (Hovedstyret)
+## Forslag 11 - Legg til nodekomité som kvalifisering til HS (Hovedstyret)
+
+_Hvorfor? Nå er du nødt til å ha sittet i en kjernekomité i et semester for å stille til Hovedstyret. Mange informatikere har hatt mange verv i nodekomiteer og kjenner organisasjonen, men er ikke kvalifisert for å stille til styreverv._
+
+**4.1.3 Krav til kandidater**
+
+**Erstatt:** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene i linjeforeningen i minst ett (1) semester med unntak av leder av bank- og økonomikomiteen.
+
+**Med:** Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester med med unntak av leder av bank- og økonomikomiteen.
+
+
+## Forslag 12 - Endring av formålet til bedriftskomiteen (Hovedstyret)
 
 _Hvorfor? Det trenger ikke vedtektsfestes at vi skal ha en Hovedsamarbeidsavtale. Dette gjør beskrivelsen av komiteen i tråd med resten av komiteene. Hovedsamarbeidsavtale er dessuten stavet Hovedsamarbeidssamtale_
 
@@ -196,7 +207,7 @@ _Hvorfor? Det trenger ikke vedtektsfestes at vi skal ha en Hovedsamarbeidsavtale
 **Med:** 
 Komiteens hovedoppgave er å være et bindeledd mellom linjeforeningens medlemmer og næringslivet. Komiteens navn forkortes bedkom.
 
-## Forslag 12 - Endring av beskrivelsen av seniorkomiteen (Hovedstyret)
+## Forslag 13 - Endring av beskrivelsen av seniorkomiteen (Hovedstyret)
 
 _Hvorfor? Seniorkomiteen har vokst og endret form de siste årene. Det er flere ganger seniorkomiteen ser behovet for å ta opp eldre informatikere som ikke tilfredstiller kravene satt for opptak. Siden det allerede står at de kan gi unntak i vedtektene er beskrivelsen av opptakskravene redundante og bør skrives om. Vi beholder uansett et avsnitt som sier at hovedsammensetningen bør bestå av medlemmer med minst 4 semester fartstid._
 
@@ -206,7 +217,7 @@ _Hvorfor? Seniorkomiteen har vokst og endret form de siste årene. Det er flere 
 
 **Med:** Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Seniorkomiteen velger selv sin leder. Leder av Seniorkomiteen har møte- og talerett i Hovedstyret. Komiteens navn forkortes seniorkom. 
 
-## Forslag 13 - Fjerne setning om nedleggelse av nodekomiteer (Hovedstyret)
+## Forslag 14 - Fjerne setning om nedleggelse av nodekomiteer (Hovedstyret)
 
 _Hvorfor? Denne setningen stammer fra tiden hvor interessegrupper het nodekomiteer. Nodekomiteene står i vedtektene og man må derfor uansett innom generalforsamlingen for å legge ned en komité_
 
@@ -216,7 +227,7 @@ _Hvorfor? Denne setningen stammer fra tiden hvor interessegrupper het nodekomite
 
 **Med:** En nodekomite er underlagt en av komiteene beskrevet i 4.2, eller direkte underlagt Hovedstyret, og plikter å holde den ansvarlige kjernekomiteen løpende oppdatert på sitt virke. 
 
-## Forslag 14 - Endring av definisjonen til velkomstkomiteen (Hovedstyret)
+## Forslag 15 - Endring av definisjonen til velkomstkomiteen (Hovedstyret)
 
 _Hvorfor? Vi lar ofte studenter som skal bytte til informatikk være med på fadderukene. Det er uansett redundant å skrive hvem fadderuka er for i vedtektene_
 
@@ -224,7 +235,7 @@ _Hvorfor? Vi lar ofte studenter som skal bytte til informatikk være med på fad
 
 **Med:** Komiteens hovedoppgave er å organisere fadderperiode for nye studenter. Komiteens navn forkortes velkom.
 
-## Forslag 15 - Legge til output (Hovedstyret)
+## Forslag 16 - Legge til output (Hovedstyret)
 
 _Hvorfor? Output er en etablert gruppering som ikke hører under nodekomité eller interessegruppe. Det er brukt mye penger på dem og de bør derfor skrives inn i vedtektene_
 
@@ -234,7 +245,7 @@ _Hvorfor? Output er en etablert gruppering som ikke hører under nodekomité ell
 
 Output er linjeforeningens band, hvis formål er å bistå som underholdning på linjeforeningens arrangementer og andre arrangementer der det er aktuelt
 
-## Forslag 16 - Bytte ut komité med gruppe under andre tilknytninger (Hovedstyret)
+## Forslag 17 - Bytte ut komité med gruppe under andre tilknytninger (Hovedstyret)
 
 _Hvorfor? Dette er ikke komiteer, men andre grupper_
 
@@ -258,7 +269,7 @@ Gruppens hovedoppgave er å gi ut linjeforeningens avis.
 
 Gruppens hovedoppgave er å organisere LAN. Casual Gaming opererer frittstående fra linjeforeningen.
 
-## Forslag 17 - Presisering av vervvarighet (Hovedstyret)
+## Forslag 18 - Presisering av vervvarighet (Hovedstyret)
 
 _Hvorfor? Nå står det ikke noe om hvordan vi definerer et semester. Kommer du inn midt i, så vet vi ikke hvor mange semestere du har vært her. Legger derfor til "Fra og med"_
 
@@ -268,7 +279,7 @@ _Hvorfor? Nå står det ikke noe om hvordan vi definerer et semester. Kommer du 
 
 **Med:** Et verv i linjeforeningen kan vare i inntil seks (6) semestre fra og med semesteret man ble tatt opp. Dersom man ønsker å være et aktivt komitemedlem etter disse seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online-vervet for to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller på de seks vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i seniorkomiteen.
 
-## Forslag 18 - Rette opp et hull i vedtektene som gir komiteene muligheten til å omdisponere budsjettet selv (Hovedstyret)
+## Forslag 19 - Rette opp et hull i vedtektene som gir komiteene muligheten til å omdisponere budsjettet selv (Hovedstyret)
 
 _Hvorfor? Sånn det står nå, så kan man tolke det som at komiteene selv kan omdisponere eget budsjett sånn som man vil. Dette er ikke meningen, da komiteen heller skal følge satt budsjett._
 
@@ -278,7 +289,7 @@ _Hvorfor? Sånn det står nå, så kan man tolke det som at komiteene selv kan o
 
 **Med:** Økonomiansvarlige sammen med sin komité har ansvaret for bruk av midler i henhold til sitt budsjett.
 
-## Forslag 19 - Fjerne at formuen forvaltes av fondet (Hovedstyret)
+## Forslag 20 - Fjerne at formuen forvaltes av fondet (Hovedstyret)
 
 _Hvorfor? Nå står det at formuen forvaltes av fondet, men formue er definert som alle midler. Fondet disponerer kun det som er satt av til seg_
 
