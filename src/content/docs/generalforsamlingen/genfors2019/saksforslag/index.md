@@ -32,14 +32,20 @@ Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive m
 Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
 Resultatet av det gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.   
 
-## Sak 2 - Endre hvordan paragraf 5.4 blir brukt i praksis (Aslak)
-Vi har nå en stund operert med sosiale medlemmer. Det er fulle medlemmer av Online, som ikke får mulighet til å dra på bedriftspresentasjoner eller bedriftskurs. Jeg ønsker å avslutte ordningen med sosiale medlemmer, til fordel for å heller innvilge fullt medlemskap. Det er allerede rom for det i vedtektene fra paragraf 5.4 men vi tar det opp som et saksforslag fordi vi ønsker å endre på et presedens som har blitt satt. 
+## Sak 2 - Endre hvordan paragraf 5.4 blir brukt i praksis (Aslak Hollund)
+**Bakgrunn:** Vi har nå operert en stund med sosiale medlemmer. Det er en ordning som hovedstyret innførte med hjemmel i paragraf 5.4. Ordningen fungerer slik at folk som tar over 50% av fagene BIT og MIT studenter tar, og som har som hensikt å bytte over til ett av våre studier kan søke om sosialt medlemskap. Sosialt medlemskap gir deg innpass på alle Onlines arrangementer som ikke er bedriftsrelaterte.
 
-En av grunnen til at vi kjørte sosiale medlemmer i stedet for fulle medlemmer, var at vi ikke ønsket å “selge” medlemmer som ikke kom til å gå ut med en grad fra MIT eller BIT. Jeg mener at så lenge et av kravene for å få innvilget medlemskap er at man tar mer eller mindre de fagene som våre grader består av så kan vi fortsatt selge de som personer med ekvivalent kompetanse. Dette er allerede en praksis andre linjeforeninger i vår situasjon opererer med. 
+Dette har definitivt hatt noen positive sider, siden det har gitt folk som ønsker å engasjere seg i Online muligheten til å gjøre det med en gang de kommer til byen, selv om de ikke enda har fått gjennomført et eventuelt studiebytte. Men det har noen negative sider også. For det første har det vært veldig vanskelig å gjennomføre i praksis. Det har vært vanskelig å få de tekniske systemene til å fungerer skikkelig, og det har vært vanskelig å håndheve restriksjonene. Men det viktigere problemet er at det har skapt ett visst kunstig skille mellom de som har tilgang på alle arrangementene våres og de som ikke får dra på bedpres og kurs. Jeg syns det er et skille Online godt kan klare seg uten. 
 
-Videre så ønsker jeg at et krav skal være at man ikke skal ta i bruk andre linjeforeningers tilbud. Her er tanken at, selv om jeg ikke tror det kommer til å skje, man ikke skal kunne bare bruke av to linjeforeningers ressurser. 
+Hovedgrunnen for at man la inn restriksjonen på bedriftsarrangementer, er slik at vi ikke skal “selge” Onlinere som ikke har får en grad fra BIT eller MIT når de går ut. Men jeg ser to store argumenter for at vi ikke trenger å bekymre oss fullt så mye for dette. For det første så selger vi i dag flere studenter som faktisk ikke ender med å få de gradene. Dette kan være folk som går ut i jobb før fullført grad, eller folk som bytter studie, men beholder studieretten på BIT og MIT (hvis du har studierett så har du per vedtektene rett på medlemskap i Online). Det andre argumentet mitt for at vi godt kan sløyfe restriksjonen er at det vi egentlig selger er kompetanse. Det er så stor valgfrihet i vår grad at den kompetansen vi går ut av BIT og MIT med ikke er en ekstremt definert pakke fra før av. Så lenge vi opprettholder en vurdering av fagene til de som søker medlemskap så kan vi selge disse medlemmene som ekvivalente. 
 
-Tilbudet er også tiltenkt folk som ønsker å ta en aktiv del i miljøet i Online, men det er ikke nødvendigvis noe krav om verv e.l.
+Jeg vil også påpeke at vi har tilfeller av folk som er ekstremt aktive i Online, og gir masse av seg selv. Som ønsker å være “fulle" medlemmer, men som ikke har muligheten til det i dagens ordning. Forslaget kommer heller ikke til å trenge noen endringer i vedtektene, siden det allerede er rom for ett slikt system.
+
+**Hva foreslås:** Ordningen med sosiale medlemmer skal avsluttes, til fordel for en ny ordning hvor folk som ikke går BIT eller MIT kan søke medlemskap i Online. Under følger et utkast til en instruks for en slik søknad, den trenger ikke følges ordrett og hovedstyret oppfordres til å gjøre en vurdering av innholdet, men å vektlegge generalforsamlingens ønsker. 
+
+Søknad om medlemskap i Online for studenter som ikke går studieretninger dekket i paragraf 5.1
+Studenter som ønsker å ta en aktiv del i miljøet i Online kan søke hovedstyret om medlemskap i Online. I et slikt tilfelle må de sende en søknadstekst til styret og inkludere hvilke fag de tar. Hovedstyret vil gjøre en vurdering om personen tar tilstrekkelig med fag til å anses som ekvivalent til en BIT eller MIT student. Det påpekes at fag som gir IT kompetanse vektlegges og at det ikke vil bli gitt tilgang til klassetrinn over første klasse om studenten ikke har tatt (bestått eller ikke bestått) de obligatoriske IT emnene som inngår i første og andre semester av BIT studie. 
+
 
 ## Sak 3 - Online setter over 50 000 til fondet (Hovedstyret)
 
