@@ -295,7 +295,7 @@ _Hvorfor? Nå står det at interessegruppene er alle grupper som ikke er kjernek
 **1.2.3 Interessegrupper**  
 **Erstatt:** I Online er en interessegruppe alle grupperinger som ikke er en kjernekomite eller nodekomite. Generalforsamlingen bestemmer hvorvidt en interessegruppe skal bli en nodekomite.
 
-**Med:** Interessegruppene er grupper med Onlinere som samles om en hobby eller interesse. Interessegruppene er åpne for alle Onlinere.
+**Med:** Interessegruppene er grupper med Onlinere som samles om en hobby eller interesse. 
 
 # Forslag til Onlines fond's vedtekter
 
