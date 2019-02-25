@@ -44,3 +44,11 @@ Tilbudet er også tiltenkt folk som ønsker å ta en aktiv del i miljøet i Onli
 ## Sak 3 - Online setter over 50 000 til fondet (Hovedstyret)
 
 På bakgrunn av årets overskudd og i samråd med bank- og økonomikomiteen ønsker Hovedstyret å føre over 50 000 til fondet. Dette er et beløp som tilsvarer ca det som er brukt i 2018 og fondet vil derfor ikke øke i størrelse fra forrige generalforsamling. Beløpet er også vurdert med tanke på Onlines likvide midler.
+
+## Sak 4 - Øke interessegruppepotten med 5000,- per semester (Endre Ulberg)
+
+*Hvis vedtektsendringsforslag 6 faller*
+
+Hvorfor: 
+
+Om seniorkom skal kunne sikre et godt og bredt utvalg av interessegrupper med mye aktivitet så vil det være behov for ytterligere 5000,- per semester. X-sport står for tidvis for 50% av søknadene og verdiene som blir delt ut. Om de skal fortsette å være en interessegruppe ivaretatt av Seniorkom så vil 15 000,- per semester fort kunne gjøre det krevende å ha nok til å oppretteholde aktivitetsnivået og ha rom for nye interessegrupper.
