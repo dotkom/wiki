@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Dotkom:* Monika Muzyk, Ole Anders Stokker
 * *Fagkom:* Andreas Amundsen
 * *Prokom:* Benedicte Helen Myrvoll 
-* *Trikom:* Jon-Inge Heggstad
+* *Trikom:* Jon-Inge Heggstad, Silje Marie Savland Moksnes
 
 **De som har meldt interesse til Fondstyret er:**
 
