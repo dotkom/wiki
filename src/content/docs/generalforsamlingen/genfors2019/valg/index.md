@@ -34,4 +34,4 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Tidligere hovedstyremedlem 1 (to årig):*  
 * *Ridder:* Christoffer Skar Lofsberg
 
-* *Tidligere hovedstyremedlem 2 (ett årig):*
+* *Tidligere hovedstyremedlem 2 (ett årig):* Aslak Hollund
