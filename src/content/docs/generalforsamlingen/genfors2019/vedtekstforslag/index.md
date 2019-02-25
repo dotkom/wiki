@@ -299,7 +299,7 @@ _Hvorfor? Nå står det at formuen forvaltes av fondet, men formue er definert s
 
 **Med:** Onlines Fond er definert ved Onlines Fonds vedtekter som eksisterer som vedlegg til Onlines vedtekter.
 
-## Forslag 20 - Rette opp i definisjonen av interessegrupper (Aslak Hollund)
+## Forslag 21 - Rette opp i definisjonen av interessegrupper (Aslak Hollund)
 
 _Hvorfor? Nå står det at interessegruppene er alle grupper som ikke er kjernekomite eller nodekomite. Dette stemmer ikke, da ville HS, og realfagkjelleren vært en interessegruppe_
 
