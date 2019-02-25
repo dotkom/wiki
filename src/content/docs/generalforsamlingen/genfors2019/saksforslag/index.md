@@ -40,3 +40,7 @@ En av grunnen til at vi kjørte sosiale medlemmer i stedet for fulle medlemmer, 
 Videre så ønsker jeg at et krav skal være at man ikke skal ta i bruk andre linjeforeningers tilbud. Her er tanken at, selv om jeg ikke tror det kommer til å skje, man ikke skal kunne bare bruke av to linjeforeningers ressurser. 
 
 Tilbudet er også tiltenkt folk som ønsker å ta en aktiv del i miljøet i Online, men det er ikke nødvendigvis noe krav om verv e.l.
+
+## Sak 3 - Online setter over 50 000 til fondet
+
+På bakgrunn av årets overskudd og i samråd med bank- og økonomikomiteen ønsker Hovedstyret å føre over 50 000 til fondet. Dette er et beløp som tilsvarer ca det som er brukt i 2018 og fondet vil derfor ikke øke i størrelse fra forrige generalforsamling. Beløpet er også vurdert med tanke på Onlines likvide midler.
