@@ -30,7 +30,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Fondstyret er:**
 
-* *Onlinemedlem:* 
+* *Onlinemedlem:* Endre Ulberg
 * *Tidligere hovedstyremedlem 1 (to årig):*  Agnete Djupvik
 * *Ridder:* Christoffer Skar Lofsberg
 
