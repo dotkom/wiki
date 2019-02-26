@@ -20,7 +20,7 @@ title: "Årsberetninger 2019"
 
 ## Bedriftskomiteen
 
-* Har tatt opp 5 medlemmer, derav 4 førsteklassinger og 1 fjerdeklassing. Totalt er vi nå 17 ordinære medlemmer og 2 medlemmer som fra seniorkomiteen.
+* Har tatt opp 5 medlemmer, derav 4 førsteklassinger og 1 fjerdeklassing. Totalt er vi nå 17 ordinære medlemmer og 2 medlemmer fra seniorkomiteen.
 * Har kontakt med ca 100 bedrifter.
 * Har hatt teambuilding med fagkom på høstsemesteret og felleshyttetur på vårsemesteret
 * Lagt ut 85 stillingsannonser
