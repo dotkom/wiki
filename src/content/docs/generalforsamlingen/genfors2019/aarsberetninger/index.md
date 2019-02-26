@@ -20,6 +20,10 @@ title: "Årsberetninger 2019"
 
 ## Bedriftskomiteen
 
+### Høstsemesteret 2018
+
+### Vårsemesteret 2019
+
 ## Drifts- og utviklingskomiteen
 
 ## Fag- og kurskomiteen
