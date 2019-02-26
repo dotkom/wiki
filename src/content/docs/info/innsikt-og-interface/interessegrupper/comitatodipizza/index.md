@@ -10,7 +10,8 @@ Vi møtes en gang i måneden og lager (og spiser!!) digg pizza!
 
 ## Medlemmer
 
-Tor Berre - Capo generale, lunga vita
+Tor Berre - Capo generale, lunga vita, el grande
+Henrik Hørlück Berg - Pizza Maestro
 
 ## Kontakt
 
