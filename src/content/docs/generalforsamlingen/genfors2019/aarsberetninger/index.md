@@ -20,9 +20,33 @@ title: "Årsberetninger 2019"
 
 ## Bedriftskomiteen
 
+* Har tatt opp 5 medlemmer, derav 4 førsteklassinger og 1 fjerdeklassing. Totalt er vi nå 17 ordinære medlemmer og 2 medlemmer som på papiret er i seniorkomiteen.
+* Har kontakt med ca 100 bedrifter.
+* Har hatt teambuilding med fagkom på høstsemesteret og felleshyttetur på vårsemesteret
+* Lagt ut 85 stillingsannonser
+* Sendt ut 7 mulighetermail
+* Gjennomført bookingrunde begge semestre
+* Signert hovedsamarbeidsavtale med Knowit for 2019
+* Signert kaffeavtale med Netlight for 2019
+* Signert LS avtale for 2019
+* Signert samarbeidsavtale med Abakus for 2019
+* Ordnet premier fra Knowit til Onlines julekalender
+* Fikset eksamensgodteri fra Knowit under eksamensperioden i høst
+* 
+
 ### Høstsemesteret 2018
+* Var på oslotur med fagkom hvor vi besøkte 8 bedrifter
+* Skaffet 2 Gullsponsorer og 2 sølvsponsorer til fadderukene.
+* To bedriftspresentasjoner for 1. klasse i fadderperioden
+* Tre bedrifter var med på rebusen
+* Arrangerte 15 bedriftspresentasjoner, derav et start-up arrangement med 5 startups
+* Arrangert tre KID arrangementer, 1 i fadderperioden for førsteklasse og to i løpet av semesteret
+* Skaffet seks sponsorer til TechTalks
 
 ### Vårsemesteret 2019
+* Gjennomført 7 bedriftspresentasjoner og har tre til dette semesteret
+* Gjennomført 1 KID arrangement og har et til senere i mars
+* 
 
 ## Drifts- og utviklingskomiteen
 
