@@ -12,8 +12,6 @@ Vi møtes en gang i måneden og lager (og spiser!!) digg pizza!
 
 Tor Berre - Capo generale, lunga vita
 
-Torjus Iveland - Phonemaster generali
-
 ## Kontakt
 
 tor.berre@online.ntnu.no
