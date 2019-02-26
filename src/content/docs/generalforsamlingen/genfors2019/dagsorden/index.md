@@ -54,9 +54,10 @@ title: "Dagsorden 2019"
 | 2 | 17:06 | 17:08 | Årsberetning Datakameratene FK  |    |
 | 2 | 17:08 | 17:10 | Årsberetning Realfagskjellern  |   |
 | 2 | 17:10 | 17:12 | Årsberetning Casual Gaming  |   |
-| Total tid: | |32 min|
+| 2 | 17:12 | 17:14 | Årsberetning Output  |   |
+| Total tid: | |34 min|
 
-## Pause 18 minutter
+## Pause 16 minutter
 
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
