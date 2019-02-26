@@ -30,8 +30,10 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Fondstyret er:**
 
-* *Onlinemedlem:*
+* *Onlinemedlem (kan ikke ha vært medlem av en kjernekomitè):*
 * *Tidligere hovedstyremedlem 1 (to årig):*  Agnete Djupvik
 * *Ridder:* Christoffer Skar Lofsberg
+
+På grunn av at et av fondstyrets medlemmer har trukket seg, blir det valg på enda en stilling:
 
 * *Tidligere hovedstyremedlem 2 (ett årig):* Aslak Hollund
