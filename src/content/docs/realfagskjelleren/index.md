@@ -28,8 +28,8 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 ## Onlinere i Kjellerstyret
 
 ###2018/2019
-* Sigurd Oxaas Wie (Økonomiansvarlig)
-* Sander Lindberg  (Kjellerkontakt)
+* Sigurd Oxaas Wie (Økonomisjef)
+* Sander Lindberg  (Barsjef)
 * Ida Høyland
 * Nicolai Dalaaker
 * Vivi Svendsen
@@ -38,7 +38,7 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 
 * Martin Bjerke (Kjellerkontakt)
 * Andreas F. Eikeland (Kjellersjef)
-* Sigurd Oxaas Wie (Økonomiansvarlig)
+* Sigurd Oxaas Wie (Økonomisjef)
 * Eigil Hjelmstad
 * Sander Lindberg
 
@@ -46,14 +46,14 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 
 * Martin Bjerke
 * Petter Rostrup (Kjellerkontakt)
-* Marius Enerly (Økonomiansvarlig)
+* Marius Enerly (Økonomisjef)
 * Andreas F. Eikeland
 * Sigurd Oxaas Wie
 
 ### 2015/2016
 
 * Martin Bjerke (Kjellersjef)
-* Petter Rostrup (Nestleder)
+* Petter Rostrup (Barsjef)
 * Marius Enerly (Kjellerkontakt)
 * Trine-Lise Helgesen
 * Andreas F. Eikeland
@@ -71,14 +71,14 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 * Håvard Slettevold
 * John Hanssen Kolstad
 * Aina Elisabeth Thunestveit (Kjellersjef)
-* Sverre Johann Bjørke
 * Jim Frode Hoff
+* Sverre Johann Bjørke
 
 ### 2012/2013
 
 * Håvard Slettevold
 * John Hanssen Kolstad
-* Aina  Elisabeth Thunestveit (Økonomiansvarlig)
+* Aina  Elisabeth Thunestveit (Økonomisjef)
 * Jim Frode Hoff (Kjellersjef)
 * Sverre Johann Bjørke
 
@@ -88,12 +88,12 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 * Håvard Slettevold
 * John Hanssen Kolstad
 * Elling Overaa (Nestleder)
-* Aina  Elisabeth Thunestveit (Økonomiansvarlig)
+* Aina  Elisabeth Thunestveit (Økonomisjef)
 * Jim Frode Hoff
 
 ### 2010/2011
 
-* Juni Angelfos (Nestleder)
+* Juni Angelfos (Barsjef)
 * Lorents Gravås
 * Håvard Slettvold
 * John Hanssen Kolstad
@@ -109,7 +109,7 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 * Håvard Slettvold
 * John Hanssen Kolstad
 * Trond Martin Nyhus
-* Elling Overaa (Nestleder)
+* Elling Overaa (Barsjef)
 * Jenny Rønningen
 * Aina  Elisabeth Thunestveit
 
