@@ -1,8 +1,8 @@
 ---
-title: "UgleKom"
+title: "Uglekom"
 ---
 
-UgleKom er en liten gruppe spesielt utvalgte individer. De har utmerket seg ved å sørge for at generalforsamlingen tar lang tid.
+Uglekom er en liten gruppe spesielt utvalgte individer. De har utmerket seg ved å sørge for at generalforsamlingen tar lang tid.
 
 ### Kjennetegn ved ugler:
 
