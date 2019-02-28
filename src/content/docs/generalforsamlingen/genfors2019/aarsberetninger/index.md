@@ -52,6 +52,28 @@ title: "Årsberetninger 2019"
 
 ## Fag- og kurskomiteen
 
+-	Tatt opp 5 nye medlemmer, 4 førsteklasse og 1 tredjeklasse
+-	Byttet nestleder i februar 2019, nåværende er Andreas Amundsen
+-	Hatt et godt samarbeid med abakus fagkom og bedkom. 1 sosialkveld med hver, 1 hyttetur med bedkom (planlegger også 1 gjenværende sosialkveld med Abakus fagkom)
+-	Dratt på Oslotur 1 gang med bedkom i høst, og planlegger 1 til i løpet av dette semesteret. 
+-	Fulgt opp ekskursjonskomiteen. 
+-	Planlegger også nytt arrangement: frokostseminar.  
+
+Høst 2018:
+
+-	Ny-på-informatikk-kurs i fadderukene. 
+-	8 kurs i samarbeid med bedrifter. Hvorav 1 samarbeidskurs med Abakus 
+-	2 Eksamenskurs sammen med fagkom Abakus 
+-	Bookingrunden med bedkom  
+
+Vår 2019:
+
+-	Booking av bedrifter for neste semester skjer nå  
+-	Lightning talks sammen med IDI, Abakus og Tihlde  
+-	Har hatt en midtsemesterforelesning sammen med Abakus. Skal ha ytterlige 2 eksamenskurs mot eksamensperioden  
+-	Skal planlegge frokostseminar. Planlagt til slutten av April  
+
+
 ## Profil- og aviskomiteen
 - Til sammen 9 medlemmer sluttet i løpet av året, inkludert noen få som tok permisjon
 - Tok opp syv nye medlemmer etter sommeren
