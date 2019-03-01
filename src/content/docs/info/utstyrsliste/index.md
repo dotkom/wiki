@@ -18,7 +18,7 @@ Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no
 |Prokom|prokom@online.ntnu.no|
 |Trikom|trikom@online.ntnu.no|
 |Velkom|velkom@online.ntnu.no|
-|||
+| | |
 |Bandet||
 |C#||
 |Ontap||
