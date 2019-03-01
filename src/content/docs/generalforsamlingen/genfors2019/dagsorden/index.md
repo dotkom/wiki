@@ -66,18 +66,47 @@ title: "Dagsorden 2019"
 | 15 | 17:45  | 18:00  | Godkjenning av budsjett 19/20  |  |
 | Total tid: | |30 min|
 
+## Pause 10 minutter
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| Total tid: | |x min|
+|20|18:10|18:30|Saksforslag 1 v/ Johannes Kvamme||
+|15|18:30|18:45|Saksforslag 2 v/ Hovedstyret||
+|20|18:45|19:05|Saksforslag 3 v/ Aslak Hollund||
+|15|19:05|19:20|Saksforslag 4 v/ Endre Ullberg||
+| Total tid: | |1 t 10 min|
 
-## Pause 30 min med pizza
+## Pause 40 min med pizza
 
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| Total tid: | |x min|
+|20|20:00|20:20|Vedtektsforslag 1 v/ Hovedstyret||
+|10|20:20|20:30|Vedtektsforslag 2 v/ Hovedstyret||
+|15|20:30|20:45|Vedtektsforslag 3 v/ Hovedstyret||
+|15|20:45|21:00|Vedtektsforslag 4 v/ Hovedstyret||
+|10|21:00|21:05|Pause 5 minutter||
+|15|21:05|21:20|Vedtektsforslag 5 v/ Hovedstyret||
+|15|21:20|21:35|Vedtektsforslag 6 v/ Hovedstyret||
+|10|21:35|21:45|Vedtektsforslag 7 v/ Hovedstyret||
+|15|21:45|22:00|Vedtektsforslag 8 v/ Hovedstyret||
+|10|22:00|22:05|Pause 5 minutter||
+|15|22:05|22:20|Vedtektsforslag 9 v/ Hovedstyret||
+|10|22:20|22:30|Vedtektsforslag 10 v/ Hovedstyret||
+|15|22:30|22:45|Vedtektsforslag 11 v/ Hovedstyret||
+|10|22:45|22:55|Vedtektsforslag 12 v/ Hovedstyret||
+|15|22:55|23:10|Vedtektsforslag 13 v/ Hovedstyret||
+|10|23:10|23:20|Vedtektsforslag 14 v/ Hovedstyret||
+|10|23:20|23:30|Vedtektsforslag 15 v/ Hovedstyret||
+|10|23:30|23:35|Pause 5 minutter||
+|10|23:35|23:45|Vedtektsforslag 16 v/ Hovedstyret||
+|10|23:45|23:55|Vedtektsforslag 17 v/ Hovedstyret||
+|10|23:55|00:05|Vedtektsforslag 18 v/ Hovedstyret||
+|15|00:05|00:20|Vedtektsforslag 19 v/ Hovedstyret||
+|10|00:20|00:30|Vedtektsforslag 20 v/ Hovedstyret||
+|10|00:30|00:40|Vedtektsforslag 21 v/ Aslak Hollund||
+| Total tid: | |3 t 40 min|
 
 ## Pause 5 min
 
@@ -87,37 +116,49 @@ title: "Dagsorden 2019"
 
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| Total tid: | | x min |
+|5|00:45|00:50|Årsberetning for fondet v/ Fondstyret||
+| Total tid: | | 5 min |
+
+### Saksforslag for fonet
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+|10|00:50|01:00|Saksforslag 1 v/ Hovedstyret||
+| Total tid: | | 10 min |
 
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| Total tid: | | x min |
+|10|01:00|01:10|Vedtektsforslag 1 v/ Hovedstyret||
+|15|01:10|01:25|Vedtektsforslag 2 v/ Hovedstyret||
+| Total tid: | | 25 min |
+
+## Pause 5 min
 
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10   | XX:XX | XX:XX | Valg av Onlinemedlem |  |
-| 10   | XX:XX | XX:XX | Valg av tidligere hovedstyremedlem |  |
-| 10   | XX:XX | XX:XX | Valg av ridder|  |
-| Total tid: | | 30 min |
+| 10   | 01:30 | 01:40 | Valg av Onlinemedlem |  |
+| 10   | 01:40 | 01:50 | Valg av tidligere hovedstyremedlem 1 |  |
+| 10   | 01:50 | 02:00 | Valg av tidligere hovedstyremedlem 2 |  |
+| 10   | 02:00 | 02:10 | Valg av ridder|  |
+| Total tid: | | 40 min |
 
-## Pause 15 min
+## Pause 10 min
 
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10 | XX:XX  | XX:XX  | Valg av leder  |   |
-| 10 | XX:XX  | XX:XX  | Valg av nestleder  |   |
-|  7 | XX:XX  | XX:XX  | Valg av økonomiansvarlig  |   |
-|  7 | XX:XX  | XX:XX  | Valg av leder av arrangementskomiteen  |  |
-|  7 | XX:XX  | XX:XX  | Valg av leder av bedriftskomiteen  |  |
-| 7 | XX:XX  | XX:XX  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 7 | XX:XX  | XX:XX  | Valg av leder av fag- og kurskomiteen  |  |
-| 7 | XX:XX  | XX:XX  | Valg av leder av profil- og aviskomiteen  |   |
-| 7 | XX:XX  | XX:XX  | Valg av leder av trivselskomiteen  |   |
-| 7 | XX:XX  | XX:XX  | Valg av valgkomite  |   |
-| Total tid: | |1 t 26 min|
+| 20 | 02:20  | 02:40  | Valg av leder  |   |
+| 20 | 02:40  | 02:50  | Valg av nestleder  |   |
+| 45 | 02:50  | 03:35  | Valg av økonomiansvarlig  |   |
+| 15 | 03:35  | 03:50  | Valg av leder av arrangementskomiteen  |  |
+| 15 | 03:50  | 04:05  | Valg av leder av bedriftskomiteen  |  |
+| 15 | 04:05  | 04:20  | Valg av leder av drifts- og utviklingskomiteen  |   |
+| 10 | 04:20  | 04:30  | Valg av leder av fag- og kurskomiteen  |  |
+| 10 | 04:30 | 04:40  | Valg av leder av profil- og aviskomiteen  |   |
+| 10 | 04:40  | 04:50  | Valg av leder av trivselskomiteen  |   |
+| 10 | 04:50  | 05:00  | Valg av valgkomite  |   |
+| Total tid: | |2 t 40 min|
 
 
 ## 5 minutter til å ta bilde av det nye HS
@@ -125,5 +166,5 @@ title: "Dagsorden 2019"
 ### Medaljeutdeling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | XX:XX  | XX:XX  | Medaljeutdeling  |   |
-| Total tid: | |15 min|
+| 5 | 05:05  | 05:10  | Medaljeutdeling  |   |
+| Total tid: | |5 min|
