@@ -22,17 +22,19 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
   
 ## Sak 1 - Nedsette en gruppe for undersøkelse av organisasjonsstruktur (Johannes Kvamme)  
 
-Ved fjorårets generalforsamling ble det fremmet et forslag om å endre organisasjonsstrukturen til Online, med hovedfokus på Hovedstyret.  
-Dette grunnet meninger om at Hovedstyrets oppgaver som organ spriker i stor grad med ansvarsområdene og oppgavene til komitéledere.  
+**Bakgrunn:** Ved fjorårets generalforsamling ble det fremmet et konkret forslag om å endre organisasjonsstrukturen til Online, med hovedfokus på Hovedstyret.  
+Dette grunnet meninger om at Hovedstyrets oppgaver som organ spriker i stor grad med ansvarsområdene og oppgavene til komitéledere.
 Problemstillingen eksisterer fremdeles.  
-En omstrukturering av dette omfanget berører mange og det er derfor viktig at tilstrekkende undersøkelser er utført før saken gjenvurderes.
+Ved ekstraordinær generalforsamling i 2017 fremmet Hovedstyret et strukturendringsforslag som innebar en ekstra stilling i Hovedstyret.
+En omstrukturering, uansett omfang, berører mange og det er derfor viktig at tilstrekkelige undersøkelser er utført før saken gjenvurderes.
+Ved årets generalforsamling fremmer Hovedstyret et strukturendringsforslag i ledelsesstrukturen hos bank- og økonomikomiteen, etter et vellykket utprøvingsår. 
 
-Hovedstyret skal nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer, som frem til neste generalforsamling skal vurdere  positive og negative sider ved en ny struktur.  
+**Hva foreslås:** Hovedstyret skal nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer, som frem til neste generalforsamling skal vurdere positive og negative sider ved en eventuell ny struktur.  
 Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive medlemmer av Hovedstyret, komitémedlemmer og andre medlemmer for å iverta fellesskapets interesser.  
 I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss.
 Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
 Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet.
-De 3 beste forslagene til ledelsesstruktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.   
+De 3 beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.   
 
 ## Sak 2 - Endre hvordan paragraf 5.4 blir brukt i praksis (Aslak Hollund)
 **Bakgrunn:** Vi har nå operert en stund med sosiale medlemmer. Det er en ordning som hovedstyret innførte med hjemmel i paragraf 5.4. Ordningen fungerer slik at folk som tar over 50% av fagene BIT og MIT studenter tar, og som har som hensikt å bytte over til ett av våre studier kan søke om sosialt medlemskap. Sosialt medlemskap gir deg innpass på alle Onlines arrangementer som ikke er bedriftsrelaterte.
