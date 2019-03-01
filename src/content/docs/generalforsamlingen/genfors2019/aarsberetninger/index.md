@@ -185,6 +185,66 @@ Vår 2019:
 
 ## Trivselskomiteen
 
+### Arrangementer  
+
+#### Vår 2018  
+- Seriefrokost - Planet Earth (10)
+- Kino - Avengers: Infinity War (Bedkom / Netcompany), 131/131 påmeldte
+- Tur til kobberdammen
+- 17 mai frokost
+- Grilling
+
+#### Høst 2018  
+- Seriefrokost - Cosmos (13)
+- Volleyballturnering med grilling (Arrkom), 23 påmeldte
+- Smashturnering
+- Telttur i bymarka
+- Gratis høstsuppe, 56/100 påmeldte
+- Kino - Fantastic Beats: The Crimes of Grindewald, 70/70 påmeldte
+Juleverksted
+- Julegrøtsfest, 100/100 påmeldte
+- Secret Santa, 7 påmeldte
+
+
+#### Vinter 2019  
+- Seriefrokost
+- Smashturnering
+- SuperBowl på kontoret
+- Skitur til grønlia
+
+#### Fremover  
+- Seriefrokost
+- 17 mai frokost
+- Grilling
+- Kino: Avengers Endgame (Bedkom / Netcompany)
+
+### Kontoret  
+- Flyttet fra 3. Etasje P15 til 5. Etasje P15
+- Flyttet fra 5. Etasje P15 til Tyholt
+- Flyttet fra Tyholt til A4 Realfagbygget
+- Ommøblert
+- Kjøpt ny kjøleskap
+- Flyttet alt av kaffe ut fra kontoret til vasken
+- Innført nye varer i kiosken
+- Kjøpt Nintendo Switch
+- Kjøpt Paninigrill
+- Kjøpt nye stoler
+- Økt frukt på kontoret fra 1 gang i uka til 3 (mandag, onsdag, fredag)
+- Skaffet ny kaffemaskin (HS kjøpt inn)
+- Kjøpt inn div utstyr
+
+### Medlemmer  
+- Avsluttet: 6
+- Semi-aktive: 2
+- Nye: 6, 5 første klassinger og 1 andre klassing
+- Er nå 11 medlemmer
+
+### Annet   
+- Anskaffet 2 boder i A4 (1 varelager bod, og komitebod)
+- Kjøpt 1 fryser
+- Starter med nye rutiner for kontoret og kaffemaskin
+
+
 ## Seniorkomiteen
 
 ## Ekskursjonskomiteen 2019
