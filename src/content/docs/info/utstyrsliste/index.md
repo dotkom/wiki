@@ -133,7 +133,7 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Bord|Kontoret|Trikom|
 |Kjøkkenbenk (x6)|Kontoret|Trikom|
 |Kjøkkenbenk|Kontoret|Trikom|
-|Kontorstroler (x8)|Kontoret|Trikom|
+|Kontorstoler (x8)|Kontoret|Trikom|
 |Sofa (x2)|Kontoret|Trikom|
 |Kjøkkenutstyr|Kontoret|Trikom|
 |Trådløse ladere (x2)|Kontoret|Trikom|
