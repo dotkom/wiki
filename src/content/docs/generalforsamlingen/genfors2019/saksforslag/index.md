@@ -60,3 +60,9 @@ På bakgrunn av årets overskudd og i samråd med bank- og økonomikomiteen øns
 Hvorfor: 
 
 Om seniorkom skal kunne sikre et godt og bredt utvalg av interessegrupper med mye aktivitet så vil det være behov for ytterligere 5000,- per semester. X-sport står for tidvis for 50% av søknadene og verdiene som blir delt ut. Om de skal fortsette å være en interessegruppe ivaretatt av Seniorkom så vil 15 000,- per semester fort kunne gjøre det krevende å ha nok til å oppretteholde aktivitetsnivået og ha rom for nye interessegrupper.
+
+# Saksforslag for Online Fond
+
+## Sak 1 - Stillingen tidligere hovedstyremedlem 2 velges på nytt for et år (Hovedstyret)
+
+Innehaver av vervet tidligere hovedstyremedlem 2 har trukket seg og det foretas derfor valg for å fylle stillingen for ett år.
