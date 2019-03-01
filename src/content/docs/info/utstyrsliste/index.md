@@ -76,9 +76,11 @@ Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no
 |Grill|K58|Trikom|
 |Propantanker (2x)|K58|Trikom|
 |Kjelker (x2)|K58|Arrkom|
-|Akebrett (x10)|K58|Arrkom|
+|Rumpeakebrett røde (x10)|K58|Arrkom|
+|Akematter blå (x8)|K58|Arrkom|
 |Gensere (x5)|K58|Prokom|
 |Presening til onlinelekene/fadderuka (x2)|K58|Arrkom/Velkom|
+|Presenning til såpefotball (20x10m)|K58|Arrkom|
 |Mange daljer|K58|Prokom/HS|
 |Gummibåter (x17)|K58|Velkom|
 |Historisk arkiv|K58|HS|
