@@ -90,8 +90,8 @@ Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no
 |Partytelt (x3)|K58|Velkom|
 |10-liters bøtter (x5)|K58|Ontap|
 |Gjæringskar|K58|Ontap|
-|Zalo (2x 5L)|K58|Velkom|
-|Hageslange (~10m)|K58|Velkom|
+|Zalo (2x 5L)|K58|Arrkom|
+|Hageslange (~10m)|K58|Arrkom|
 |Prosjektor (VGA-utgang)|K58|Fagkom|
 |Elektrisk luftpumpe(x3)|K58|Velkom|
 |Online bannere (x4)|K58|HS|
