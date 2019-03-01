@@ -2,7 +2,28 @@
 title: "Oversikt over inventar"
 ---
 
-Dette er et forsøk på å skape en noenlunde komplett liste over Onlines inventar. Selv om alt dette er Onlines eiendeler skal det ansvarlige partiet kontaktes ved evt. lån av utstyr.
+Dette er et forsøk på å skape en noenlunde komplett liste over Onlines inventar. Selv om alt dette er Onlines eiendeler skal det ansvarlige partiet kontaktes ved evt. lån av utstyr.   
+
+Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no  
+
+|Komité|Mail|
+|------|----|
+|Online|hovedstyret@online.ntnu.no|
+|Arrkom|arrkom@online.ntnu.no|
+|Bankom|bankom@online.ntnu.no|
+|Bedkom|bedkom@online.ntnu.no|
+|Dotkom|dotkom@online.ntnu.no|
+|HS / Hovedstyret|hovedstyret@online.ntnu.no|
+|Fagkom|fagkom@online.ntnu.no|
+|Prokom|prokom@online.ntnu.no|
+|Trikom|trikom@online.ntnu.no|
+|Velkom|velkom@online.ntnu.no|
+|Bandet||
+|C#||
+|Ontap||
+|Questline||
+|Strikk & Drikk||
+|X-Sport||
 
 |Gjenstand|Sted|Ansvarlig parti|
 |---------|----|---------------|
@@ -106,7 +127,7 @@ Dette er et forsøk på å skape en noenlunde komplett liste over Onlines invent
 |Kompileringsgreier|K58|HS/Velkom|
 |Keychains|K58|Prokom|
 |Kaffekanne (5L)|K58|Trikom?|
-|Sekketralle / Sekkehjul|K58||
+|Sekketralle / Sekkehjul|K58|Trikom|
 |Ethernet kabler|K58|Dotkom|
 |Band : div|K58|Bandet|
 |Kjøleskap (x2)|Kontoret|Trikom|
