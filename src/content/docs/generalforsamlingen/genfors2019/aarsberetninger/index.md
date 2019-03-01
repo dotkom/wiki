@@ -65,6 +65,24 @@ Opptak: 14 nye medlemmer.
 
 
 ## Bank- og økonomikomiteen
+- Innført prøveordning med nestleder som fungerende komiteleder
+- Gått over til digitale kvitteringskjemaer på egen epostliste
+- Satt opp automatisk import fra nettbank for alle kontoer/komiteer
+- Innført frister og rutiner for kontinuerlig regnskapsføring
+- Fullstendig tatt i bruk prosjekter i regnskapsprogrammet vårt, Fiken
+- Begynt på en oppdatering av wikien for å matche det digitale regnskapet
+- Gått over til å betale fakturaer via Fiken
+- Innført felles og ryddig system for lagring av regnskap i Drive
+- Fjernet kontanter fra kiosksystemet
+- Kontaktet leverandør(er) og fått bedre priser
+- Vært på regnskapskurs og momskurs
+- Fått nye økonomiansvarlige for flere av komiteene
+- Hatt tre sosiale arrangement/teambuildinger
+- Revidert vårsemesteteret etter sommeren
+- Revidert hele regnskapet på nyåret
+- Fullført og presentert regnskap for 2018
+- Satt opp budsjett for H19/V20
+- Spist veldig mye pizza
 
 ## Bedriftskomiteen
 
