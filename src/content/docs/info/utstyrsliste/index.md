@@ -13,11 +13,12 @@ Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no
 |Bankom|bankom@online.ntnu.no|
 |Bedkom|bedkom@online.ntnu.no|
 |Dotkom|dotkom@online.ntnu.no|
-|HS / Hovedstyret|hovedstyret@online.ntnu.no|
 |Fagkom|fagkom@online.ntnu.no|
+|HS / Hovedstyret|hovedstyret@online.ntnu.no|
 |Prokom|prokom@online.ntnu.no|
 |Trikom|trikom@online.ntnu.no|
 |Velkom|velkom@online.ntnu.no|
+|||
 |Bandet||
 |C#||
 |Ontap||
