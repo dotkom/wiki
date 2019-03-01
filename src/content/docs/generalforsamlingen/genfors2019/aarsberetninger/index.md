@@ -97,6 +97,37 @@ Opptak: 14 nye medlemmer.
 * 
 
 ## Drifts- og utviklingskomiteen
+- Tok opp 6 nye medlemmer i høst, 2 slutta.
+- Tok opp 2 nye medlemmer på suppleringsopptak i vår.
+
+### OW4
+- Har passert 7500 commits på OW4, ca 460 det siste året
+- Straks på 320 tags/releases, med ca 50 releases det siste året.
+- 30 nye issues siste året, 24 av dem er nå lukket.
+- 112 PRs siste året, 104 av dem er nå lukket.
+- Har helt ny frontend i Beta
+- Har en webapp for OW i Beta
+- Har åpnet påmeldinglistene på sosiale arrangementer.
+
+
+### Andre prosjekter
+- Har ferdigstilt stemmesystemet til generalforsamlingen.
+- Startet 2 nye prosjekter, GDPR/issue 1209 og ny landingpage, 
+    - GDPR (lillebror) ser på hvordan vi behandler persondata, og utforsker muligheten til å begynne på en mikroservice arkitektur, med dette som første modul.
+    - Issue 1209 ser på hvordan vi behandler komiteer i backend, og hvordan dette kan gjøres mer dynamisk mtp GDPR.
+    - Ny landingside (Fuzzy-train) er ment som en permanent splash, som kun kommer opp første gang du besøker OW. Det vil gjøre det lettere for bedrifter og nye studenter å finne relevant info. 
+- Ferdigstilt arbeid med Noti*, infoskjermene på kontoret. 
+- Utviklet Nibble3 med React.
+- Begynt med synlig utmerkelse for bidrag til repoene på github, i form av stickers.
+- Har holdt små lyntaler internt av relevante temaer for dotkom, som docker og git.
+
+
+### Drift
+- Kjøpt ny server
+- Fått gratis AWS fra techsoup
+- Begynt å se på serverless for mindre tjenester, f.eks. kvitteringskjema.
+- Begynt å se på mulighetene for bruk av kubernetes til tjenestene.
+
 
 ## Fag- og kurskomiteen
 
