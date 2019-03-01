@@ -14,7 +14,55 @@ title: "Årsberetninger 2019"
 
 ## Hovedstyret
 
-## Arrangementskomiteen
+## Arrangementskomiteen  
+###Vår 2019
+* Eksamensfest 6. Juni - Ingen påmelding
+* 17\. Mai-middag 17. Mai - Påmelding kommer
+* Klatring 6. Mai - Påmelding kommer
+* Onlinelekene/Vår-OL 27. April - Påmelding kommer
+* Pirbadet xx. April - Påmelding kommer
+* Paintball 8. April - Påmelding kommer
+* Temafest 15. Mars - Ingen påmelding
+* Låvefest 8. Mars - Påmelding pågår
+* X-fest 11. Februar - Ingen påmelding
+* Åre 10. Januar - 174/174 påmeldte
+
+###Høst 2018
+* Eksamensfest 20. Desember - Ingen påmelding
+* Curling 25. November - 23/25 påmeldte
+* Julebord 22. November - 205/205 påmeldte
+* Ølsmaking 13. November - 20/20 påmeldte
+* Online Casino 2. November - 58/60 påmeldte
+* Reverse Fadderfest 28. Oktober - 201/225 påmeldte
+* Bierfest 12. Oktober - 59/60 påmeldte
+* Blåtur 28. September - 61/62 påmeldte
+* Trampolinepark 16. September - 10/20 påmeldte
+* Immatrikuleringsball 8. September 263/264 påmeldte
+* Volleyballturnering 2. September - 23/75 påmeldte
+###Annet
+####Statistikk
+Antall registrerte deltagere høst: 923 stk.  
+Antall registrerte deltagere vår: 174 stk.  
+Antall registrerte deltagere totalt: 1097 stk.  
+Antall arrangement høst: 11 stk.  
+Antall arrangement vår: 10 stk.  
+Antall arrangementer med andre linjeforeninger: 4 stk.  
+Antall alkoholarrangementer: 13 totalt. 7 høst, 6 vår.  
+Antall ikke-alkoholarrangementer: 8 totalt. 4 høst, 4 vår.  
+Antall nye arrangementer: 5 totalt. 3 høst, 2 vår.  
+
+
+#### Opptak/medlemmer
+5 nye medlemmer (5 førsteklassinger, 1 andreklassing)  
+2 permittert (2. pga. jobb/studiefokus)  
+#### Nodekomiteer
+#####Velkomstkomiteen  
+Startet opp vår 2019.  
+Leder: Øyvind Schjerven  
+Nestleder: Carl Smestad  
+Opptak: 14 nye medlemmer.  
+
+
 
 ## Bank- og økonomikomiteen
 
