@@ -116,7 +116,7 @@ title: "Dagsorden 2019"
 |3|22:23|22:26|Årsberetning for fondet v/ Fondstyret||
 | Total tid: | | 3 min |
 
-### Saksforslag for fonet
+### Saksforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 |7|22:26|22:33|Saksforslag 1 v/ Hovedstyret||
