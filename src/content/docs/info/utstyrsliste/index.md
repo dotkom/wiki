@@ -19,7 +19,7 @@ Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no
 |Trikom|trikom@online.ntnu.no|
 |Velkom|velkom@online.ntnu.no|
 | | |
-|Bandet||
+|Bandet|band@online.ntnu.no|
 |C#||
 |Ontap||
 |Questline||
