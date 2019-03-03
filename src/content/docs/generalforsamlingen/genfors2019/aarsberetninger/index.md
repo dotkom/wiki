@@ -77,7 +77,7 @@ Opptak: 14 nye medlemmer.
 - Kontaktet leverandør(er) og fått bedre priser
 - Vært på regnskapskurs og momskurs
 - Fått nye økonomiansvarlige for flere av komiteene
-- Hatt tre sosiale arrangement/teambuildinger
+- Hatt fire sosiale arrangement/teambuildinger
 - Revidert vårsemesteteret etter sommeren
 - Revidert hele regnskapet på nyåret
 - Fullført og presentert regnskap for 2018
