@@ -185,14 +185,14 @@ Vår 2019:
     - Tatt bilde av alle komiteene + nodekomiteer
 - Produsert profileringsmateriell for TechTalks
 - Jobbet med velkom for å lage profileringsmateriell til fadderukene.
-- Så langt 70 bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
+- Så langt 72 bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
 - Laget nye kompileringsdaljer og nodekomitédaljer, solgt 44 av kompileringsdaljene.
 
 ### Offline:
 - Gitt ut 4 utgaver
-- Distribuert Offline til linjerforeninger/abonnenter
+- Distribuert Offline til linjeforeninger/abonnenter
 - Er i gang med planlegging av Gullblekka 2018
-- Innført nytt distribusjonssystem av Offline på webshopen, solgt 4 abonnementer hittil.
+- Innført nytt distribusjonssystem av Offline på webshopen, solgt 8 abonnementer hittil.
 
 ### Samarbeid med Abakus: 
 - Samarbeidet med PR om enkelte kurs/bedriftspresentasjoner og arrangementer
