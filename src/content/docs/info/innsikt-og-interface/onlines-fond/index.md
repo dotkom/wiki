@@ -8,7 +8,7 @@ Onlines fondstyre
 |År|Økonomiansvarlig Online|Ridder|Ridder|Tidligere HS|Tidligere HS|Onlinemedlem|Onlinemedlem|
 --|--|--|--|--|--|--|--|
 |2018|Christian Nyvoll|Henning Wold|Sverre Bjørke|Sondre Widmark|Taran Ruge|Tord Standnes|Sigurd Oxaas Wie
-|2017h|Christoffer Lofsberg|Henning Wold|n/a|Sondre Widmark|n/a|Tord Standnes|n/a|
+|2017|Christoffer Lofsberg|Henning Wold|n/a|Sondre Widmark|n/a|Tord Standnes|n/a|
 
 
 Søknad om støtte fra Onlines fond
@@ -48,3 +48,4 @@ Fondstyret var tilfreds med svaret på søknaden og innvilget 25 000 kr til Onli
 Kaffetrakteren på Online kontoret har sluttet å fungere, og for å dekke onlineres tørst. Søkeren ble bedt om å utforske den foreslåtte kaffetrakterens levetid, garanti og reparasjonsmuligheter. Fondstyret var tilfreds med svaret de fikk og innvilget søknaden med beløpet 21 720 kr.
 
 ### X-sport: Surfetur til Portugal
+Interessegruppen X-Sport søkte om å få støtte til sin Portugal surfetur, tanken bak støtten var å gjøre turen mer overkommelig for flere av Online sine medlemmer ¨være med. Etter diskusjon i fondstyret ble det enighet om gi en støtte på 500 kr per deltagende hode, opptil maksimalt 10 000 kr.
