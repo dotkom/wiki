@@ -283,3 +283,11 @@ Juleverksted
 ## Casual Gaming
 
 ## Output
+
+## Fondstyret
+- Opprettet offentlig wikipage
+- Laget oversikt over hvordan søke fondet
+- Laget oversikt over hva fondet har tildelt
+- Støttet trommesett til bandet
+- Støttet ny kaffetrakter
+- Støttet surfetur til Portugal
