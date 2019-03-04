@@ -43,8 +43,8 @@ title: "Årsberetninger 2019"
 * Gjennopprettet kontakt med søsterforeningen vår i Oslo, Cybernetisk Selskab
 * Representert Online på en rekke immatrikuleringsball, jubileum og revyer.
 * Vært med på å starte Forente IT Foreninger, et nasjonalt forum for IT-linjeforeninger
-  * Har delt og lært mye med de andre foreningene.
-  * Har stilt oss bak et tilltak om å sette begrensninger på sommerjobbutlysninger for å hindre at fristene blir for tidlige.
+    * Har delt og lært mye med de andre foreningene.
+    * Har stilt oss bak et tilltak om å sette begrensninger på sommerjobbutlysninger for å hindre at fristene blir for tidlige.
 
 ### Økonomi
 * Har arrangert to fordelingsmøter der linjeforeningen har fordelt ut støtte fra IDI og IE.
@@ -68,7 +68,7 @@ title: "Årsberetninger 2019"
     * Dette er en pågående sak og vi kommer til å følge opp tett med neste styret.
 * Jobbet for å få IDI til å utvide antall masterplasser på MIT (MSIT)
 * Deltatt på mange linjeledermøter
-  * Bidratt til flere høringssvar om campusprosjektet og nybygg på Samfundet
+    * Bidratt til flere høringssvar om campusprosjektet og nybygg på Samfundet
 * Representert Online på IDIs semestermøter.
 
 ### Komiteer og interessegrupper
@@ -78,11 +78,7 @@ title: "Årsberetninger 2019"
 ### Sosialt og kos
 * Gjennomført julekalender med spørsmål hver dag og julenøtter hver søndag.
 * Delte ut pepperkaker på et par store eksamenene før jul og godteri på et par store eksamener før sommeren.
-* Bestemt at det nå skal avholdes avslutningsfest for tredjeklasse, slik at de som gir seg etter bachelor også får en verdig avslutning.
-* Vi endret julekortbildet fra å være et bilde av kun Hovedstyret, til at de som ville kunne være med. Det var rundt 80-90 som valgte å bli med.
-* Vi har innført en time med Smashfri på kontoret, og fått gode tilbakemeldinger på dette.
-* Vi har åpnet for at alle Onlinemedlemmer kan søke om kontortilgang.
-* Innført gratis kaffe på alle mastersalene til IDI som en utvidet del av avtalen med kaffesponsor.
+* Laget og sendt ut julekort
 
 ## Arrangementskomiteen  
 ###Vår 2019
