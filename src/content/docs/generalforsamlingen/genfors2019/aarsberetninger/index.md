@@ -351,7 +351,8 @@ Vi er fortsatt midt i sesongen men vi er godt på vei med alle målene, og ved u
 Høsten 2018 etablerte vi også et 7er-lag for å kunne gi et breddetilbud til medlemmene våre. Dette medfører at vi har doblet antall medlemmer som får spille kamper ikledd Datakameratene-drakten og også dette laget har gjort det svært bra. Høstsesongen endte på 3.plass med 3 poeng opp til tabelltoppen.
 
 
-En oppsummering av hva vi er mest stolte av i 2018:  
+En oppsummering av hva vi er mest stolte av i 2018:
+
 - Holdt åpen trening som en del av fadderperioden til Abakus og Online, med 67 deltakere.  
 - Hatt den sterkeste sesongstarten på 5 år.
 - Opprettet 7er-lag.
