@@ -360,6 +360,20 @@ Administrativt
 ## IT-ekskursjonen
 
 ## Velkomstkomiteen 2018
+- Velkom besto av totalt 17 medlemmer inkludert leder og nestleder
+- Vi hadde en fra prokom som sto for t-skjorter, brosjyrer og annet profilmateriale. Vi hadde en ekstern fra bedkom, som hadde ansvar for sponsorer
+- Vi hadde 12 faddergrupper, som besto av ca 10-13 fadderbarn, og 3-6 faddere på hver gruppe. Å ha den størrelsen på faddergruppene gjorde at gruppene var fyldige på tross av eventuell frafall
+- Vi hadde tre masterstudenter i velkom som arrangerte masterfadderukene. På master sitt opplegg var det fem grupper med ca 2-4 faddere på hver gruppe. De arrangerte gokart, quiz, og barrunder, og ble ellers med på bachelor sitt fadderopplegg.
+- Vi inviterte lykkepromillen i år og for å ha kurs for fadderne på infomøtet, og deretter fadder-kickoff hos en fadder samme kveld
+- Vi videreførte kontaktpersonsystemet fra i fjor slik at alle faddergrupper hadde mulighet til å kontakte noen i velkom dersom det skulle være noe. Opplegget ble benyttet og vi syntes det var en fin mulighet for fadderbarna å ha
+- Vi arrangerte grilling for fadderbarna på kom-i-gang-dagen, noe vi syntes fungerte godt i år også. Fadderbarna fikk møtt hverandre og fadderne, og det var bra oppmøte
+- Faddergruppene hadde tilbud om å vorse på kontoret hver sin dag, dette ble benyttet av noen faddergrupper
+- Vi arrangerte discobowling, klatring på høyt-og-lavt, og Onlinelekene
+- Onlinlekene inneholdt vannsklie, bumperballs, såpefotball og mye mer, og det var god respons til arrangementet. Til dette arrangementet søkte vi om spons til SIT sin konkurranse hvor vi beskrev planene våre for opplegget, og vant 5000 i spons til arrangementet. De anbefalte at vi søker igjen til neste år også selv om vi vant.
+- Vi arrangerte armykro med PSI, linjeforeningen for psykologi og hadde fellesvors med de, dette fungerte bra
+- Vi hadde bli-kjent-fest og facebook-fest på Fire Fine og var veldig fornøyd med utestedet.
+- Siste dag arrangerte vi avslutningskos med bildeslideshow fra fadderukene og kåringer av fadderbarn og faddere, her var det veldig bra oppmøte.
+
 
 ## Datakameratene FK
 Året 2018 har vært preget av mange opp- og nedturer, og det siste halvåret har det vært flest av førstnevnte. Våren 2018 hadde vi en tung periode med blant annet poengtrekk for bruk av suspendert spiller, og sesongen 17/18 endte med en 9.plass. Uten poengtrekk hadde vi endt på en respektabel 6.plass. Vi har beveget oss i riktig retning sammenliknet med de foregående årene, og før sesongen 18/19 satte vi oss noen mål:
