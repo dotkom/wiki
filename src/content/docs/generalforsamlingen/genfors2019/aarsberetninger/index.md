@@ -215,6 +215,8 @@ Opptak: 14 nye medlemmer.
 
 ## Fag- og kurskomiteen
 
+Generelt
+
 -	Tatt opp 5 nye medlemmer, 4 førsteklasse og 1 tredjeklasse
 -	Byttet nestleder i februar 2019, nåværende er Andreas Amundsen
 -	Hatt et godt samarbeid med abakus fagkom og bedkom. 1 sosialkveld med hver, 1 hyttetur med bedkom (planlegger også 1 gjenværende sosialkveld med Abakus fagkom)
