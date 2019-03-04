@@ -362,7 +362,7 @@ Administrativt
 ## Velkomstkomiteen 2018
 - Velkom besto av totalt 17 medlemmer inkludert leder og nestleder
 - Vi hadde en fra prokom som sto for t-skjorter, brosjyrer og annet profilmateriale. Vi hadde en ekstern fra bedkom, som hadde ansvar for sponsorer
-- Vi hadde 12 faddergrupper, som besto av ca 10-13 fadderbarn, og 3-6 faddere på hver gruppe. Å ha den størrelsen på faddergruppene gjorde at gruppene var fyldige på tross av eventuell frafall
+- På bachelor sitt opplegg hadde vi 12 faddergrupper, som besto av ca 10-13 fadderbarn, og 3-6 faddere på hver gruppe. Å ha den størrelsen på faddergruppene gjorde at gruppene var fyldige på tross av eventuell frafall
 - Vi hadde tre masterstudenter i velkom som arrangerte masterfadderukene. På master sitt opplegg var det fem grupper med ca 2-4 faddere på hver gruppe. De arrangerte gokart, quiz, og barrunder, og ble ellers med på bachelor sitt fadderopplegg.
 - Vi inviterte lykkepromillen i år og for å ha kurs for fadderne på infomøtet, og deretter fadder-kickoff hos en fadder samme kveld
 - Vi videreførte kontaktpersonsystemet fra i fjor slik at alle faddergrupper hadde mulighet til å kontakte noen i velkom dersom det skulle være noe. Opplegget ble benyttet og vi syntes det var en fin mulighet for fadderbarna å ha
