@@ -333,6 +333,23 @@ Juleverksted
 
 ## Seniorkomiteen
 
+ - Tatt opp 15 personer gjennom året
+ - Utnevnt nestleder
+ - Utnevnt økonomiansvarlig
+
+ Vår/høst 2018
+
+ - Arrangert utmatrikulering
+ - Arrangert masterfadderuke i samarbeid med velkom
+ - Arrangert komitekickoff
+ - Arrangert kurs om masteroppgave
+ - Startet med prosjektarbeid
+
+ Vår 2019
+
+ - Arrangert reboot i samarbeid med arrkom
+ - Begynt arbeid på neste utmatrikulering
+
 ## Ekskursjonskomiteen 2019
 
 Turen  
