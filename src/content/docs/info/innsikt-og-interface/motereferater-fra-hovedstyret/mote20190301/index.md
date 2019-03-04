@@ -1,0 +1,199 @@
+---
+title: "Møte 2019.03.01"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** 054
+
+**Servering:** Jakob
+
+**Referering:** Christian
+
+**Vinstraff:** Aslak (sen møteinnkalling, igjen) 
+
+**Ølstraff:**
+
+**Til stede:** Nicolai, Christian, Eivind, Andreas, Jakob, Aslak, Endre, Hanne, Christoffer, Martin, Pål.
+
+**Mangler:** Johannes, Adrian
+
+- - -
+
+[TOC]
+
+- - -
+
+## Innsjekk (14:15 - 2 min)  
+
+## 317 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)  
+
+## 318 Gjøremål fra forrige gang (14:18 - 2 min)
+
+## 319 Status for komiteene (14:20 - 20 min)
+
+#### Arrkom, med velkom: 
+Bandet - det koster en del mer enn de estimerer. Lurer på om det burde være en egen post hos HS.  
+Låvefest er det neste som skjer, blir bra. 
+Temafest er good.  
+Hyttefest/vårseminaret skal finne lokale snart.  
+
+##### Velkom:
+
+#### Bedkom, med ITEX:  
+
+##### ITEX:
+
+#### Dotkom:  
+Turer og går. Jobber med ting. Minecraft server. minecraft.online.ntnu.no  
+
+- Nye serveren er på vei
+- Har begynt å se på AWS
+- GDPR begynner å bli satt opp
+- Implementasjon av ny landeside er påbegynt
+- Prokom sitt plakatbestillingssystem-regquest er snart ferdig
+- OWF går så det suser
+
+#### Fagkom, med ekskom:  
+Skal ha fellesmøte med bedkom snart.  
+Kursene har gått greit.  
+Har skrevet årsberetning.  
+
+##### Ekskom  
+Ekskom skal skrive årsberetning.  
+ 
+#### Prokom: 
+Kommet godt i gang med årboka. Håper å få den ut i April/Mai  
+Har bestilt flagg og beachflagg.  
+Hyttetur neste helg.  
+Snart ferdig med årsberetningen.  
+Fått de nye til å lage klistremerker.  
+
+#### Trikom:  
+De nye har fått tilgang til bodene.  
+Kontoret er blitt ryddet og ommøblert. 
+Vurderer å handle igjen snart.  
+Klare til generalforsamlingen.  
+
+#### Seniorkom:  
+Hadde en oppstartskveld for prosjekter. Gikk bra  
+Nettopp gjort seg ferdig med fordelingen av penger til interessegrupper. Må nok endre systemet der fremover  
+Vi som er i HS nå kan begynne å søke til seniorkom.  
+
+#### Leder og nestleder:  
+##### Nestleder:
+Norge ligger i tet med Russland og Finland.  
+Dagsorden er satt opp; vi er ferdige til 05. Det må fikses litt på.  
+Booka rom. Forbereder genfors  
+
+##### Leder:
+Laget utkast til OW4 Logo (klistremerker)  
+Svar på div mail  
+Var på Omega 100  
+Litt valgkom-arbeid  
+
+#### Økonomiansvarlig, med bankom:  
+##### HS: 
+- Hatt fordelingsmøte; Eget punkt
+- Representert på Abakus-revyen; Den var bra!
+
+##### Bankkom:
+- Har utlyst at August gir seg som leder uansett slik at folk må tenkte på om de vil ta over, eller hvem de vil ha som leder.
+- Hadde teambuilding/cavasøndag
+
+#### ITV:  
+
+#### Samlokaliseringsrepresentant:  
+
+#### RFK:  
+Kjelleren hadde bra oppmøte forrige fredag. Har hatt møte om fordelingsmøte for fadderukene.
+
+## 320 Interkom (14:40 - 10 min)  
+#### Årsberetninger
+Alle må legge ut innen mandag.
+
+#### Inventarliste/oversikt
+Den har blitt laget og det hadde vært fint om folk bruker den. Pål sender mail til komiteer med lit info.
+
+#### Svar på eposter
+Alle komiteer må svare på mail. Sett gjerne en som er anvarlig. Gi initiell svar om at mailen er mottatt.
+
+## 321 Kalvskinnet i A4 (14:50 - 10 min)
+[Vi fikk nylig beskjed om at dataing på kalvskinnet ser ut til å flytte inn i A4. Hva gjør vi med dette?]
+
+
+## Pause i 5 minutter kl 15:00
+
+## 322 Velkom - søke støtte til arrangementet med Tihlde (15:05 - 10 min)
+[Velkom ønsker å ha ett arrangement sammen med Tihlde og Abakus, men Tihlde er skeptiske grunnet økonomien. Velkom vil se på muligheten til å søke IDI utenom hva vi har fått nå og ønsker innspill.]
+
+## 323 Diskusjon om hva HS fremmer (15:15 - 10 min)
+[Vi bestemte forrige møte at vi skal videreføre diskusjonen om hvor mange som skal være enige for at vi fremmer noe som ‘Hovedstyret’ på generalforsamlingen]
+
+Skal man måtte "stå bak" en sak man ikke egentlig støtter siden flertallet ønsker det?  
+Vil unngå at noen føler de må reise seg å si at de er i mot forslaget (selv om man er i styret som fremmer det).
+
+Kjipt om en person som er veldig i mot skal måtte "stå for saken".
+
+Kvalifisert flertall vurderes og skal brukes for oss for denne generalforsamlingen.  
+
+Johannes skal presentere saken sin selv. (Ikke kvalifisert flertall for at HS skal fremme)  
+HS skal fremme saken om endring av budsjettering. (Kvalifisert flertall)  
+
+## 324 Final prep før genfors (15:25 - 10 min)
+[Genfors nærmer seg med stormskritt og vi må gjøre oss klare til å gjennomføre seansen og til å overlate roret til neste HS. Hvem gjør hva under genfors? Hvem presenterer hvilke forslag? Kjører vi vanlig møte med nytt HS fredag kl 14? Årsberetninger må inn og erfaringsskriv må lages]
+
+Genfors varer foreløpig til 05:05, så dette må vi endre på. Dette pga utrolig mange vedtektsforslag. En del vedtekstsforslag kan kuttes i tid, men vet ikke helt hvor vi skal kutte ellers. Christoffer skal kutte i tiden, men ikke spre at det varer så lenge foreløpig. Spre at det alltid står at det skal vare lenge, men har vært kort de siste årene.
+
+Dotkom kan prøve å fikse en til for tellekorpset, slik at en kan registrere ved inngang.  
+
+Aslak og Loffen tar de fleste saker der det ikke er naturlig at noen andre gjør det.  
+
+Arrkom fikser pizza. Må ringe på forhånd å si at det kommer en stor bestilling.  
+
+Prokom fikser nummerskilt.  
+
+Endre fikser stream.  
+
+Dotkom fikser stemmesystem.  
+
+Det første (nye)HS møtet blir til vanlig tid.  
+
+Erfaringsskrivet må være klart til genfors, på HS-wikien.  
+
+Loffen fikser viner til Bendik + hjelper. 400 totalt til gave til ordstyrere.  
+
+Aslak har ansvar for daljer.  
+
+Alle må ha med styrebåndene sine på genfors. Sjekk til neste møte. Stiller med styrebånd på neste møte.  
+
+## 325 Midler til studentsosiale tiltak (15:35 - 10 min)
+[Har hatt fordelingsmøte, vi bør gå gjennom fordelingen, diskutere og godkjenne]
+
+Kan hende det setter presedens og forventninger hos neste velkommer om å få like mye midler.  
+Fornøyde.  
+Christian sender ut informasjon til alle komiteer.  
+
+## 326 Forespørsler som har kommet på e-post (15:45 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]  
+
+Endre svarer Alf om Gurutjenstekontaktpunkt.  
+Aslak svarer på sommerjobb-doodlen.  
+
+#### En oppdatering fra Studentrådet
+Aslak skal svare.  
+Alle som synes det er relevant kan ta det opp i komiteen sin. Husk at alle søknader uansett må gjennom styret.  
+
+## 327 Eventuelt (15:55 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]    
+
+## 328 Møteevaluering/Diggepunkt
+Aslak digger oss alle.  
+Hanne digger at det er nest siste møte.  
+Eivind digger sin korte periode i HS.  
+Christoffer digger at han fikk se ski og er vemodig. Skal bli drita.  
+Pål digger at vi kontakter energidrikk-selskaper.  
+Andreas digger Pål sitt insj.  
+Jakob digger alt og alle. Digger at det var hans siste HS møte som dotkom-leder.  
+Endre digger at vi snart er ferdig.  
+Vi har snart vært i HS ett år!
