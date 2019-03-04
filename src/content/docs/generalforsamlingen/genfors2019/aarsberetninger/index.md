@@ -338,6 +338,28 @@ Juleverksted
 ## Velkomstkomiteen 2018
 
 ## Datakameratene FK
+Året 2018 har vært preget av mange opp- og nedturer, og det siste halvåret har det vært flest av førstnevnte. Våren 2018 hadde vi en tung periode med blant annet poengtrekk for bruk av suspendert spiller, og sesongen 17/18 endte med en 9.plass. Uten poengtrekk hadde vi endt på en respektabel 6.plass. Vi har beveget oss i riktig retning sammenliknet med de foregående årene, og før sesongen 18/19 satte vi oss noen mål:
+
+- Ha et arrangement i fadderperioden for å rekruttere nye spillere til laget.
+- Finne treningstider slik at alle har har minst én trening i uken som ikke kolliderer med forelesninger.
+- Fullføre ligaen 18/19 høyere på tabellen enn i 17/18.
+- Ha minst ett sosialt arrangement med laget både på høsten og på våren.
+- Opprette rutiner og et system for lagring av kampinfo (hvem som spiller, målscorere, assists, kort o.l.)
+
+Vi er fortsatt midt i sesongen men vi er godt på vei med alle målene, og ved utgangen av 2018 ligger Datakameratene på 2.plass, kun slått på målforskjell av BI. Det er opprettet gode rutiner for lagring av kampinfo og takke være gode treningstider og noe sosialt utenom er det en motivert vennegjeng som skal kjempe om ligatittelen våren 2019.
+
+Høsten 2018 etablerte vi også et 7er-lag for å kunne gi et breddetilbud til medlemmene våre. Dette medfører at vi har doblet antall medlemmer som får spille kamper ikledd Datakameratene-drakten og også dette laget har gjort det svært bra. Høstsesongen endte på 3.plass med 3 poeng opp til tabelltoppen.
+
+
+En oppsummering av hva vi er mest stolte av i 2018:  
+- Holdt åpen trening som en del av fadderperioden til Abakus og Online, med 67 deltakere.  
+- Hatt den sterkeste sesongstarten på 5 år.
+- Opprettet 7er-lag.
+- Kjøpt nye drakter.
+- Startet med kveldstreninger så flere har mulighet til å delta.
+- Styrket rutinene rundt lagring av kampinfo.
+
+
 
 ## Realfagskjelleren
 - Vi har åpner kjellern!
