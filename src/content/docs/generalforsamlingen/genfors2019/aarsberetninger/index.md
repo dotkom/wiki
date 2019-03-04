@@ -14,6 +14,76 @@ title: "Årsberetninger 2019"
 
 ## Hovedstyret
 
+### Generelt
+* Gitt seks personer diplom for særdeles utmerkelse.
+* Nominert 9 personer til riddere.
+* Gjennomført kompilering av ca 100 medlemmer.
+* Gitt ut sosialt medlemskap til 14 personer som tar informatikkfag og skal bytte til informatikk.
+* Gjennomført økonomi- og vedtektskveld og workshop for å diskutere saker som angår Online.
+* Det har blitt avholdt tre åpne Hovedstyremøter.
+* Har stått på stand på kom-i-gang-dagen og jentedagen.
+* Gjennomført risikoanalyse av kompileringen.
+* Gjennomført kurs i ledelse og arbeidsmiljø og møteledelse og møtefasilitering for alle i styret ledere av nodekomiteer og noen nestledere i samarbeid med Sit.
+* Gjennomført kurs for alle tillitsvalgte i samarbeid med Sit.
+* Har fikset ny kaffemaskin til A4
+* Har arrangert et blæstemøte der representanter fra alle komiteene var med å diskuterte blæstestrategi for Online.
+* Laget og administrert blestekalender for å få ned mengden innlegg på facebookgruppen.
+* Har arrangert to sommerfester i Oslo, en med søsterforeningen vår, og en med bare oss.
+* Har innført nodekomitedalje og kompileringsdalje, etter ønske fra generalforsamlingen.
+* Har forsøkt å danne en eksponeringsgruppe med varierende resultater
+
+### Samarbeid med andre
+* Inkludert Realfagskjelleren i komiteopptaket
+* Forbedret forholdet til Tihlde og Login. Hjulpet Tihlde med erfaringer og tips for at de skal kunne ekspandere og bli bedre.
+* Fortsatt initiativet til den årlige hytteturen med styrene i Abakus, Tihlde, Login og Hybrida (selv om Hybrida ikke kunne komme i år).
+* Realfagskjelleren blir invitert til hvert Hovedstyremøte, for å legge til rette for bedre samarbeid med Realfagskjelleren.
+* ITV har også blitt invitert til hvert Hovedstyremøte.
+* Stått på stand Kom-i-gang dagen.
+* Samarbeidet med UKA og de andre linjeforeningene om å gjennopplive UKEToget
+* Gjennopprettet kontakt med søsterforeningen vår i Oslo, Cybernetisk Selskab
+* Representert Online på en rekke immatrikuleringsball, jubileum og revyer.
+* Vært med på å starte Forente IT Foreninger, et nasjonalt forum for IT-linjeforeninger
+  * Har delt og lært mye med de andre foreningene.
+  * Har stilt oss bak et tilltak om å sette begrensninger på sommerjobbutlysninger for å hindre at fristene blir for tidlige.
+
+### Økonomi
+* Har arrangert to fordelingsmøter der linjeforeningen har fordelt ut støtte fra IDI og IE.
+    * Fordelingsmøte nummer en resulterte i denne fordelingen:
+        * 30 800 til velkom
+        * 23 000 til arrkom
+        * 17 500 til trikom
+    * Fordelingsmøte nummer to resulterte i denne fordelingen:
+        * 55 000 til arrkom
+        * 7 000 til dotkom
+        * 1 000 til prokom
+        * 12 000 til seniorkom
+        * 35 000 til trikom
+        * 40 500 til velkom
+
+### Studentpolitikk
+* Jobbet for at vår lille tur til Tyholt skulle bli så bra som mulig.
+* Jobbet for å sørge for at flyttingen til A4 ble så god som mulig.
+    * Her er det hovedsaklig å støtte opp rundt Bjerke og de andre studentrepresentantene i relevante utvalg.
+    * Men også utrolig mange møter og eposter.
+    * Dette er en pågående sak og vi kommer til å følge opp tett med neste styret.
+* Jobbet for å få IDI til å utvide antall masterplasser på MIT (MSIT)
+* Deltatt på mange linjeledermøter
+  * Bidratt til flere høringssvar om campusprosjektet og nybygg på Samfundet
+* Representert Online på IDIs semestermøter.
+
+### Komiteer og interessegrupper
+* Leder og nestleder av velkom 2018 er satt, og har hatt opptakk av medlemmer.
+* Leder og nestleder av ekskom 2019 ble valgt på infomøte om ekskursjonen for andreklasse. De har også startet å ta opp medlemmer.
+
+### Sosialt og kos
+* Gjennomført julekalender med spørsmål hver dag og julenøtter hver søndag.
+* Delte ut pepperkaker på et par store eksamenene før jul og godteri på et par store eksamener før sommeren.
+* Bestemt at det nå skal avholdes avslutningsfest for tredjeklasse, slik at de som gir seg etter bachelor også får en verdig avslutning.
+* Vi endret julekortbildet fra å være et bilde av kun Hovedstyret, til at de som ville kunne være med. Det var rundt 80-90 som valgte å bli med.
+* Vi har innført en time med Smashfri på kontoret, og fått gode tilbakemeldinger på dette.
+* Vi har åpnet for at alle Onlinemedlemmer kan søke om kontortilgang.
+* Innført gratis kaffe på alle mastersalene til IDI som en utvidet del av avtalen med kaffesponsor.
+
 ## Arrangementskomiteen  
 ###Vår 2019
 * Eksamensfest 6. Juni - Ingen påmelding
