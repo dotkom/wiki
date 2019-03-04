@@ -333,6 +333,28 @@ Juleverksted
 
 ## Ekskursjonskomiteen 2019
 
+Turen  
+
+- Planlagt tur til Suzhou, Nanjing, Beijing, Gulin, Yangshuo, Shenzhen, Hong-Kong i Kina. Der Nanjing og Beijing er byene for faglig  4. April - 22. April
+- 63 informatikere på tur
+- 4 dager med bedrift- og universitetsbesøk. 
+- Nanjing: Nanjing University, FEIFANUNIV og Huawei Nanjing R&D Center. Beijing: Tsinghua University, Face++ og Microsoft Asia Research Centre.
+- Fri uke hvor deltakerne deler seg opp i tre land(Japan, Vietnam, Thailand).  
+
+Økonomi  
+
+- Arrangert dugnader for å samle inn midler til turen, IDI hadde noe.
+- Arrangert Tech Talks 4. Februar 2019. Hadde 6 sponsorer.
+- Alt overskudd føres tilbake til deltakerne.
+
+Administrativt
+
+- 10 medlemmer med ulike ansvarsområder
+- Samarbeidet med IPIT om turen.
+- Startet opp Ekskom20 ved valg av leder og nestleder.
+- Hjulpet Ekskom20 i gang.
+- Kommet med forslag til Hovedstyret om hvordan Tech talks kan forbedres til neste år.
+
 ## IT-ekskursjonen
 
 ## Velkomstkomiteen 2018
