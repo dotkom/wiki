@@ -350,6 +350,24 @@ Juleverksted
 
 ## Output
 
+Vår 2018
+- Bandet ble opprettet, 4 medlemmer
+- Øvingslokale (SiT / IDI)
+- Søknad om støtte (IDI / Online / SiT / BandOrg(!))
+- Innkjøp X32, Trommesett, Teknisk, Transport
+- Opptak vokal, vokal, teknikk, keyboard
+
+Høst 2018
+- Opptreden Immball, Fadderuker, Julebord, (isfit)
+- Søknad om støtte (BandOrg)
+- Innkjøp PA-system
+
+Vår 2019
+- Søknad støtte (SiT)
+- Opptreden (Catch IDI, Låvefest, BOTB, ?)
+- Opptak og bursdag (!)
+
+
 ## Fondstyret
 - Opprettet offentlig wikipage
 - Laget oversikt over hvordan søke fondet
