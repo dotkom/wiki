@@ -347,7 +347,7 @@ Juleverksted
 
  Vår 2019
 
- - Arrangert reboot i samarbeid med arrkom
+ - Arrangert reboot
  - Begynt arbeid på neste utmatrikulering
 
 ## Ekskursjonskomiteen 2019
