@@ -426,6 +426,15 @@ En oppsummering av hva vi er mest stolte av i 2018:
 
 ## Casual Gaming
 
+I 2018 har vi bare arrangert ett LAN som var TrøndeLAN, vi har ikke fått til å arrangere studLAN grunnet flytting fra P15. 
+
+Vi har hatt i overkant av 200 betalende medlemmer, noe nedgang i
+forhold til i fjor, men det var forventet siden vi ikke arrangerte studLAN. 
+
+Vi har arrangert 7 konsoll og brettspillkvelder, samt en i fadderperioden. Vi har også fått leid et lite lager på stripa sammen med Trondheim Smash. 
+
+Årsmøte ble holdt 7. Mars og nytt styre tiltrer straks.
+
 ## Output
 
 Vår 2018
