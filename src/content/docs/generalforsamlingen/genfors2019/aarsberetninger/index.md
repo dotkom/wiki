@@ -375,6 +375,15 @@ Administrativt
 - Kommet med forslag til Hovedstyret om hvordan Tech talks kan forbedres til neste år.
 
 ## IT-ekskursjonen
+- Totalt 7 aktive medlemmer som arrangerte turen.
+- 80 studenter var med på turen.
+- Turen varte fra 28. til 31. august.
+- 8 Bedrifter ble besøkt, hvorav 3 av dem var ikke-konsulentbedrifter.
+- Flyreise, transport til og fra bedrifter og flyplass, og 3 netters hotellopphold ble dekket av bedriftene.
+- Fikk en del gode tilbakemeldinger som vil gjøre ITEX 2019 enda bedre.
+- Opprettholdt samarbeidet med erfaringsoverføring mellom Bedex (Abakus) og ITEX.
+- Klarte å redusere overskuddet sammenlignet med året før - vi er tross alt et nullprosjekt.
+- Tok opp 4 nye medlemmer høsten 2018.
 
 ## Velkomstkomiteen 2018
 - Velkom besto av totalt 17 medlemmer inkludert leder og nestleder
