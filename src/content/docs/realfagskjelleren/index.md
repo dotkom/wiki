@@ -29,7 +29,7 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 
 ###2018/2019
 * Sigurd Oxaas Wie (Økonomisjef)
-* Sander Lindberg  (Barsjef)
+* Sander Lindberg  (Kjellerkontakt)
 * Ida Høyland
 * Nicolai Dalaaker
 * Vivi Svendsen
