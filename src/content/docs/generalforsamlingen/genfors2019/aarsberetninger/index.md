@@ -427,7 +427,7 @@ En oppsummering av hva vi er mest stolte av i 2018:
 
 
 ## Realfagskjelleren
-- Vi har åpner kjellern!
+- Vi har åpnet kjellern!
 - Vi har tatt opp tre Onlinere: Vivi Svendsen, Nicolai Dalaaker og Ida Høyland.
 - Vi har også hatt genfors og valgt leder, nestleder og økonomiansvarlig: Sander Lindberg(Online), Pål-Anders Skari(Volvox) og Even Aslaksen(Delta) 
 - Har ellers hatt ukentlig fredagsåpent, men relativt bra oppmøte hver uke (dårlig oppmøte av Onlinere da)
