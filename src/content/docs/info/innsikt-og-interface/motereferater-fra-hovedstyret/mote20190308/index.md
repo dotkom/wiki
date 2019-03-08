@@ -171,26 +171,25 @@ Alle stemmeberettige stemte for.
 ## 338 Team Drive (15:35 5 min)
 [Akkurat nå eies flere sensitive dokumenter av utgåtte Onlinere, G Suite har en funksjon som bør fikse dette. Kan vi gå over til Team Drive?]
 
-A: Hvis vi skulle migrert til Team Drive, må vi kopiere innholdet fra hvert dokument manuelt?
-As: Finnes noen metoder Abakus har prøvd, men det er litt kronglete.
 
-K: Kan Team Drive ha mapper og undermapper, kinda som wikien?
-L: Ja
+A: Hvis vi skulle migrert til Team Drive, må vi kopiere innholdet fra hvert dokument manuelt?  
+As: Finnes noen metoder Abakus har prøvd, men det er litt kronglete.  
 
-Chr: Hva må til?
-L: Dotkom må fikse.
+K: Kan Team Drive ha mapper og undermapper, kinda som wikien?  
+L: Ja  
 
-Dette gjør vi.
+Chr: Hva må til?  
+L: Dotkom må fikse.  
 
-A: Hver leder tar med seg neste leder og gjør dette sammen.
+Dette gjør vi.  
 
-L: Bedkom og fagkom trenger en sammen
-Ole-Anders: De har en gruppe med begge.
+A: Hver leder tar med seg neste leder og gjør dette sammen.  
 
-As: Setter seg med Loffen og gjør dette.
+L: Bedkom og fagkom trenger en sammen.  
+As: Setter seg med Loffen og gjør dette.  
 
-Stemmer over migrering og at ingen komiteer lenger skal bruke privat drive:
-Vedtatt ved akklamasjon
+Stemmer over migrering og at ingen komiteer lenger skal bruke privat drive:  
+Vedtatt ved akklamasjon  
 
 ## 339 Final prep før genfors (15:40 - 5 min)
 [Genfors nærmer seg med stormskritt og vi må gjøre oss klare til å gjennomføre seansen og til å overlate roret til neste HS.]
