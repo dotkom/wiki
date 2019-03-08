@@ -132,20 +132,20 @@ Full før Barne-TV 6.April.
 
 ## 332 Interkom (14:40 - 10 min)  
 ### NFC-leser
-_arrkom, bedkom, dotkom_
-Hva er tanken?
-Dotkom forklarer at leseren er for at man skal kunne gjøre det samme på PC som mobil.
-Arrkom og Bedkom har begge lekt med tanken på en felles oppmøtetablet så man slipper ha med egne ting.
-Dotkom skal eksperimentere litt med denne leseren slik at vi kan finne det beste, tablet er ikke mutually exclusive mot oppmøtetablet. 
+_arrkom, bedkom, dotkom_  
+Hva er tanken?  
+Dotkom forklarer at leseren er for at man skal kunne gjøre det samme på PC som mobil.  
+Arrkom og Bedkom har begge lekt med tanken på en felles oppmøtetablet så man slipper ha med egne ting.  
+Dotkom skal eksperimentere litt med denne leseren slik at vi kan finne det beste, tablet er ikke mutually exclusive mot oppmøtetablet.   
 
 ### Tablet
-_arrkom, bedkom, fagkom_
-Egen sak, fortsetter fra NFC-leser-saken:
-Arrkom, bedkom (og kanskje fagkom) kunne tenkt seg tablet så vi slipper ha med oppmøte-PCer.
-Må i så fall se på ny RFID-leser som støtter tablet. Avventer å se på NFC så vi slipper ny RFID.
+_arrkom, bedkom, fagkom_  
+Egen sak, fortsetter fra NFC-leser-saken:  
+Arrkom, bedkom (og kanskje fagkom) kunne tenkt seg tablet så vi slipper ha med oppmøte-PCer.  
+Må i så fall se på ny RFID-leser som støtter tablet. Avventer å se på NFC så vi slipper ny RFID.  
 
 ### Vårfest
-_alle_
+_alle_  
 Alle komiteer, si ifra på et møte at det har kommet mail om vårfest <3
 
 
@@ -155,18 +155,18 @@ Alle komiteer, si ifra på et møte at det har kommet mail om vårfest <3
 
 
 ## 336 Semestermøtet (15:25 - 5 min) 
-[Loffen og Aslak skal på semestermøtet på mandag, er det noe de skal ta opp?]
- Se mail på hva som er meldt inn på forhånd.
-Aslak skal takke for samarbeidet.
+[Loffen og Aslak skal på semestermøtet på mandag, er det noe de skal ta opp?]  
+ Se mail på hva som er meldt inn på forhånd.  
+Aslak skal takke for samarbeidet.  
 
 ## 337 Onlinepotten (15:30 - 5min)
 [Onlinepotten sponser nå med maks 65kr, Adrian synes vi kan heve det]
-
-Ble brukt 4.4k av 10k forrige semester.
-Budsjettert 10k hver semester.
-Kan vi øke veiledende sum til 100kr?
-Chr: Potten blir da fortere tømt
-Alle stemmeberettige stemte for.
+  
+Ble brukt 4.4k av 10k forrige semester.  
+Budsjettert 10k hver semester.  
+Kan vi øke veiledende sum til 100kr?  
+Chr: Potten blir da fortere tømt  
+Alle stemmeberettige stemte for.  
 
 ## 338 Team Drive (15:35 5 min)
 [Akkurat nå eies flere sensitive dokumenter av utgåtte Onlinere, G Suite har en funksjon som bør fikse dette. Kan vi gå over til Team Drive?]
@@ -192,21 +192,22 @@ Stemmer over migrering og at ingen komiteer lenger skal bruke privat drive:
 Vedtatt ved akklamasjon  
 
 ## 339 Final prep før genfors (15:40 - 5 min)
-[Genfors nærmer seg med stormskritt og vi må gjøre oss klare til å gjennomføre seansen og til å overlate roret til neste HS.]
- - Dotkom har ansvar for å fikse 2 til tellekorps, 1 fra dotkom, 1 hvem-som-helst.
-    - Aursand melder seg frivillig!!! WHOOOPA!
- - Se toppen av HS for resten.
+[Genfors nærmer seg med stormskritt og vi må gjøre oss klare til å gjennomføre seansen og til å overlate roret til neste HS.]  
+  
+ - Dotkom har ansvar for å fikse 2 til tellekorps, 1 fra dotkom, 1 hvem-som-helst.  
+    - Aursand melder seg frivillig!!! WHOOOPA!  
+ - Se toppen av HS for resten.  
 
-Christian ønsker innspill på budsjettpresentasjonen.
-L: Totalsummen er vel det folk flest bryr seg om.
+Christian ønsker innspill på budsjettpresentasjonen.  
+L: Totalsummen er vel det folk flest bryr seg om.  
 
-Chr: Litt mer åpen for spørsmål på budsjett enn regnskap.
+Chr: Litt mer åpen for spørsmål på budsjett enn regnskap.  
 
-A: Tar Aslak og Loffen alle vedtektsforslagene?
-As: Ja, om ingen sier noe imot. Vi kommer til å slacke underveis og kan sprette opp fort.
+A: Tar Aslak og Loffen alle vedtektsforslagene?  
+As: Ja, om ingen sier noe imot. Vi kommer til å slacke underveis og kan sprette opp fort.  
 
-🍷Hvis ditt erfaringsskriv ikke er ute på HS-wiki før du er ferdig som leder
-🍷🍷Hvis det over, og ikke ute innen neste fredag 14:00
+🍷Hvis ditt erfaringsskriv ikke er ute på HS-wiki før du er ferdig som leder  
+🍷🍷Hvis det over, og ikke ute innen neste fredag 14:00  
 
 ## 340 Forespørsler som har kommet på e-post (15:45 - 10 min)
 [Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]  
