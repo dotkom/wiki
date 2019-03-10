@@ -19,7 +19,8 @@ Referat fra generalforsamlingen 2018 finner du her: [attachment:552]
 
 ## Regnskap 2018 og budsjett 19/20
 
-- Regnskap og budsjett kommer så fort det er klart
+- Regnskap: [https://s.ntnu.no/regnskap](https://s.ntnu.no/regnskap)
+- Budsjett: [https://s.ntnu.no/budsjettforslag](https://s.ntnu.no/budsjettforslag)
 
 ## Informasjon
 
