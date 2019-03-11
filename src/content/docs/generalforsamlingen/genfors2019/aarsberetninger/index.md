@@ -183,10 +183,10 @@ Opptak: 14 nye medlemmer.
 - Tok opp 2 nye medlemmer på suppleringsopptak i vår.
 
 ### OW4
-- Har passert 7500 commits på OW4, ca 460 det siste året
-- Straks på 320 tags/releases, med ca 50 releases det siste året.
-- 30 nye issues siste året, 24 av dem er nå lukket.
-- 112 PRs siste året, 104 av dem er nå lukket.
+- Har passert 7500 commits på OW4, ca 321 det siste året
+- Straks på 320 tags/releases, med ca 40 releases det siste året.
+- 50 nye issues siste året, 25 av dem er nå lukket.
+- 130 PRs siste året, 124 av dem er nå lukket.
 - Har helt ny frontend i Beta
 - Har en webapp for OW i Beta
 - Har åpnet påmeldinglistene på sosiale arrangementer.
