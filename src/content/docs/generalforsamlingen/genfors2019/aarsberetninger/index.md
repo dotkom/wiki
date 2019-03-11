@@ -152,7 +152,7 @@ Opptak: 14 nye medlemmer.
 
 ## Bedriftskomiteen
 
-* Har tatt opp 5 medlemmer, derav 4 førsteklassinger og 1 fjerdeklassing. Totalt er vi nå 17 ordinære medlemmer og 2 medlemmer fra seniorkomiteen.
+* Har tatt opp 5 medlemmer, derav 4 førsteklassinger og 1 fjerdeklassing. Totalt er vi nå 16 ordinære medlemmer og 2 medlemmer fra seniorkomiteen.
 * Har kontakt med ca 100 bedrifter.
 * Har hatt teambuilding med fagkom på høstsemesteret og felleshyttetur på vårsemesteret
 * Lagt ut 85 stillingsannonser
@@ -163,8 +163,7 @@ Opptak: 14 nye medlemmer.
 * Signert LS avtale for 2019
 * Signert samarbeidsavtale med Abakus for 2019
 * Ordnet premier fra Knowit til Onlines julekalender
-* Fikset eksamensgodteri fra Knowit under eksamensperioden i høst
-* 
+* Fikset eksamensgodteri fra Knowit under eksamensperioden i høst  
 
 ### Høstsemesteret 2018
 * Var på oslotur med fagkom hvor vi besøkte 8 bedrifter
@@ -176,9 +175,8 @@ Opptak: 14 nye medlemmer.
 * Skaffet seks sponsorer til TechTalks
 
 ### Vårsemesteret 2019
-* Gjennomført 7 bedriftspresentasjoner og har tre til dette semesteret
-* Gjennomført 1 KID arrangement og har et til senere i mars
-* 
+* Gjennomført 7 bedriftspresentasjoner
+* Gjennomført 1 KID arrangement
 
 ## Drifts- og utviklingskomiteen
 - Tok opp 6 nye medlemmer i høst, 2 slutta.
