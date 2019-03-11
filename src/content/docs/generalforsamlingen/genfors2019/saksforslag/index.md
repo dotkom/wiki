@@ -36,7 +36,11 @@ Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen
 Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet.
 De 3 beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.   
 
-## Sak 2 - Endre hvordan paragraf 5.4 blir brukt i praksis (Aslak Hollund)
+## Sak 2 - Online setter over 50 000 til fondet (Hovedstyret)
+
+På bakgrunn av årets overskudd og i samråd med bank- og økonomikomiteen ønsker Hovedstyret å føre over 50 000 til fondet. Dette er et beløp som tilsvarer ca det som er brukt i 2018 og fondet vil derfor ikke øke i størrelse fra forrige generalforsamling. Beløpet er også vurdert med tanke på Onlines likvide midler.
+
+## Sak 3 - Endre hvordan paragraf 5.4 blir brukt i praksis (Aslak Hollund)
 **Bakgrunn:** Vi har nå operert en stund med sosiale medlemmer. Det er en ordning som hovedstyret innførte med hjemmel i paragraf 5.4. Ordningen fungerer slik at folk som tar over 50% av fagene BIT og MIT studenter tar, og som har som hensikt å bytte over til ett av våre studier kan søke om sosialt medlemskap. Sosialt medlemskap gir deg innpass på alle Onlines arrangementer som ikke er bedriftsrelaterte.
 
 Dette har definitivt hatt noen positive sider, siden det har gitt folk som ønsker å engasjere seg i Online muligheten til å gjøre det med en gang de kommer til byen, selv om de ikke enda har fått gjennomført et eventuelt studiebytte. Men det har noen negative sider også. For det første har det vært veldig vanskelig å gjennomføre i praksis. Det har vært vanskelig å få de tekniske systemene til å fungerer skikkelig, og det har vært vanskelig å håndheve restriksjonene. Men det viktigere problemet er at det har skapt ett visst kunstig skille mellom de som har tilgang på alle arrangementene våres og de som ikke får dra på bedpres og kurs. Jeg syns det er et skille Online godt kan klare seg uten. 
@@ -51,9 +55,7 @@ Søknad om medlemskap i Online for studenter som ikke går studieretninger dekke
 Studenter som ønsker å ta en aktiv del i miljøet i Online kan søke hovedstyret om medlemskap i Online. I et slikt tilfelle må de sende en søknadstekst til styret og inkludere hvilke fag de tar. Hovedstyret vil gjøre en vurdering om personen tar tilstrekkelig med fag til å anses som ekvivalent til en BIT eller MIT student. Det påpekes at fag som gir IT kompetanse vektlegges og at det ikke vil bli gitt tilgang til klassetrinn over første klasse om studenten ikke har tatt (bestått eller ikke bestått) de obligatoriske IT emnene som inngår i første og andre semester av BIT studie. 
 
 
-## Sak 3 - Online setter over 50 000 til fondet (Hovedstyret)
 
-På bakgrunn av årets overskudd og i samråd med bank- og økonomikomiteen ønsker Hovedstyret å føre over 50 000 til fondet. Dette er et beløp som tilsvarer ca det som er brukt i 2018 og fondet vil derfor ikke øke i størrelse fra forrige generalforsamling. Beløpet er også vurdert med tanke på Onlines likvide midler.
 
 ## Sak 4 - Øke interessegruppepotten med 5000,- per semester (Endre Ulberg)
 
