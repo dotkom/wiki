@@ -13,6 +13,9 @@ I tillegg har C# flere sosiale sammenkomster, slik som blant annet Singstarkveld
 Vår 2019 er øvinger til vanlig onsdager 16:15-18:00 i [A3-138](https://goo.gl/Zjn75s) .
 Hvis du vil være med er det bare å møte opp.
 
+### Noter
+Lurer du på hva slags sanger vi synger og har sunget, eller bare leter etter tekst til en studentersang så kan du finne notene våre her: [Notedrive](https://drive.google.com/…/fol…/0B3tYcs5XWxlmb3VRNlRVa3NyTmc) .
+
 ### Styre
 Korkonge: Kristoffer Hajem
 
