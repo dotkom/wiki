@@ -5,10 +5,11 @@ title: "Onlines fond"
 Onlines fondstyre
 ==================
 
-|År|Økonomiansvarlig Online|Ridder|Ridder|Tidligere HS|Tidligere HS|Onlinemedlem|Onlinemedlem|
+|År|Økonomiansvarlig Online|Onlinemedlem 1|Onlinemedlem 2|Tidligere HS 1|Tidligere HS 2|Ridder 1|Ridder 2|
 --|--|--|--|--|--|--|--|
-|2018|Christian Nyvoll|Henning Wold|Sverre Bjørke|Sondre Widmark|Taran Ruge|Tord Standnes|Sigurd Oxaas Wie
-|2017|Christoffer Lofsberg|Henning Wold|n/a|Sondre Widmark|n/a|Tord Standnes|n/a|
+|2019|Kaja Sofie Lundgaard|Nicolai Andre Dalaaker|Sigurd Oxaas Wie|Christian Nyvoll|Martin Bjerke|Christoffer Skar Lofsberg|Sverre Bjørke|
+|2018|Christian Nyvoll|Tord Standnes|Sigurd Oxaas Wie|Sondre Widmark|Taran Ruge|Henning Wold|Sverre Bjørke|
+|2017|Christoffer Skar Lofsberg|Tord Standnes|n/a|Sondre Widmark|n/a|Henning Wold|n/a|
 
 
 Søknad om støtte fra Onlines fond
