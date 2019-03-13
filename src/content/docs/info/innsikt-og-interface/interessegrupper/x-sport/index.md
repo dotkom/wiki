@@ -8,10 +8,10 @@ Nåværende gjengmedlemmer
 
 - **Leder:** Emil Schrøder
 - **Økonomiansvarlig:** Kaja Sofie Lundgaard
-- **Arrangører:** Marcus Schrøder, Christoffer Skar Lofsberg
+- **Arrangører:** Marcus Schrøder, Christoffer Skar Lofsberg, Camilla Tran
 
 
-Send mail til x-sport@online.ntnu.no for å hjelpe
+Send mail til x-sport@online.ntnu.no hvis du ønsker å bidra!
 
 
 Retningslinjer
