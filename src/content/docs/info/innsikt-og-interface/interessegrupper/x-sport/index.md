@@ -30,6 +30,7 @@ Tidligere Arrangementer
 - Squash
 - Surfetur til Hoddevik
 - Surfetur til Portugal
+- Barnegym
 - CrossFit
 - Kickboksing
 
