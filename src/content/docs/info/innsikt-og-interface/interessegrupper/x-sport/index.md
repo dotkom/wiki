@@ -33,6 +33,7 @@ Tidligere Arrangementer
 - Barnegym
 - CrossFit
 - Kickboksing
+- Ju-Jitsu
 
 
 Kontakt
