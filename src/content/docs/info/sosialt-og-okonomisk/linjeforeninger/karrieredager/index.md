@@ -36,8 +36,7 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 |---|---|---|---|---|
 | [BM-dagen](http://www.bmdagen.no/) | [Næringslivsringen Bygg](http://www.bygg.ntnu.no/naringslivsringen/) og 3. klasse bygg | November | Realfagbygget | [Page](http://fb.com/BMdagen) |
 | [E&T-dagen](http://www.etdagen.no/) | 3. klasse elektronikk | Januar | Glassgården | [Page](http://fb.com/etdagen) |
-| [Energidagen](http://energikontakten.elkraft.ntnu.no/index.php?page=Energidagen) | [Energikontakten](http://energikontakten.elkraft.ntnu.no/) og 4. klasse emil | Oktober i partallsår | Glassgården | |
-| [Efiks](http://efiks.no/) | [Energikontakten](http://energikontakten.elkraft.ntnu.no/) og 4. klasse emil | Oktober i oddetallsår | Glassgården | |
+| [Energidagen](http://energikontakten.elkraft.ntnu.no/index.php?page=Energidagen) | [Energikontakten](http://energikontakten.elkraft.ntnu.no/) og 4. klasse emil | Oktober | Glassgården | |
 | [Eurekadagen](https://eurekalf.wordpress.com/) | [Eureka](https://eurekalf.wordpress.com/) | April | Realfagbygget | |
 | [IAESTEs Næringslivsdager](http://www.iaeste.no/nyweb/modules/content/index.php?id=93) | [IAESTE](http://iaeste.no) | Februar | Realfagbygget | [Page](http://fb.com/INTrondheim) |
 | [itDAGENE](http://itdagene.no) | [itDAGENE](http://itdagene.no) | September | Glassgården | [Page](http://fb.com/itDAGENE) |
