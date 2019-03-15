@@ -29,4 +29,4 @@ Associated wiki pages
 |[ISU](http://org.ntnu.no/isu/)||All|[Group](http://fb.com/groups/24432510336/)|isu-orga@list.stud.ntnu.no|
 |[Estiem](http://www.estiem.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=988970840)|Industrial economics|[Page](http://fb.com/LG.Trondheim)|estiem@org.ntnu.no|
 |[PPIT (Perhimpunan Pelajar Indonesia di Trondheim)](http://org.ntnu.no/ppitrondheim)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990767580)|All|[Page](https://www.facebook.com/ppitrondheim/)|ppit.norway@gmail.com|
-|[Pakistan Students Association(PSA),Trondheim ](http://org.ntnu.no/psa)||All| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918823220)|[Page](https://www.facebook.com/org.ntnu.no.psait/)|psatrondheim@gmail.com|
+|[Pakistan Students Association(PSA),Trondheim ](http://org.ntnu.no/psa)||All| [Page](https://www.facebook.com/org.ntnu.no.psait/)|psatrondheim@gmail.com| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918823220)|
