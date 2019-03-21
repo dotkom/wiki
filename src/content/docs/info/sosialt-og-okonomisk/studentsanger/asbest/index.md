@@ -19,10 +19,10 @@ Pass deg ikke kom for nær
 uten egna verneklær.
 
 Ref.  
-Asbest – ned i lungene  
+|: Asbest – ned i lungene  
 Asbest – belegg på tungene  
 Asbest – hele munne full  
-Asbest – tyter ut av hull.
+Asbest – tyter ut av hull. :|
 
 Inni auditoriene  
 så strykes det i ny og ne  
@@ -57,7 +57,7 @@ så er det noe jævla drit.
 Ref. modulert.  
 E B C\#m G\#m A E F\#m B  
 **For vi vil ha asbesten for oss sjøl**  
-- Her på haugen vår  
+Asbest - Her på haugen vår  
 Asbest – uti mange år  
 Asbest – det er best i test  
 Asbest – gir en kjempefest
