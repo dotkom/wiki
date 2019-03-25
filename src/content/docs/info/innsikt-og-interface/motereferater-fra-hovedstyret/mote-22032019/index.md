@@ -1,0 +1,422 @@
+---
+title: "Møte 22.03.2019"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** 054
+
+**Servering:** Nestleder
+
+**Referering:** Økonomiansvarlig 
+
+**Vinstraff:** 
+1 til August for sen møteinkalling 
+
+**Ølstraff:**
+
+**Til stede:** August, Aslak, Benedicte, Hanne, Mathias, Amundsen, Andreas, Kristoffer, Adrian, Nicolai, Loffen, Jakob, Endre, Morten, Johannes, Ole, Henrik, Alis, Kaja, Christian, Emil
+
+**Mangler:** Pål, Silje, Sigrun
+
+- - -
+
+[TOC]
+
+- - -
+
+## Gjøremål
+- Alle: 
+    - Svare på doodle om lunsj med abakus
+    - Nominere riddere
+- Alis: 
+    - Sette igang utvalg for å se på organisasjonsstruktur
+    - Bleste riddernominasjon på facebook
+    - Møte bandet
+- Endre: Skrive ferdig referat
+- Adrian: Signere referat
+- Loffen: 
+    - Signere referat
+    - Fikse BRREG
+- Ole: Lese gjennom gamle referat og godkjenne pull-requsts
+- Henrik: 
+    - Hjelpe til med genforsarbeid hvis det trengs
+    - Møte bandet
+- Aslak: Fikse BRREG
+- August: 
+    - Møte ekskom og intensjonsavtaler
+    - Svare "overgang til Online og fadderuke"-mail
+    - Svare på "lunsj med abakus og online"
+    - Svare på "riddernominasjon"-mailen
+- Amundsen: 
+    - Møte ekskom og intensjonsavtaler
+    - Bleste markedsundersøkelsen 2019 på korktavla
+- Jakob: Bleste studlan
+- Benedicte: Lage riddernominasjonsplakat
+
+## Innsjekk (14:15 - 2 min)  
+
+
+## 014 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)  
+
+
+## 015 Gjøremål fra forrige gang (14:18 - 2 min)
+- Alle: Gå gjennom ekskom-avtale og vurder hva dere vil ha med (Ligger på drive)  
+- Sigrun: Sender prikkreglene til bedkom og fagkom på mail, resten av aktuelle komiteer ser over og utformer sine egne.  
+- Henrik: Utlyse om opptak til OIL på fb  
+- Henrik: Sjekker opp betaling av FIF reise med Excited/Madelen  
+- Christian: Kommer innom neste fagkommøte og sier noe om økans-verv  
+- Henrik og Loffen: Bestiller kurs med SiT for nye styret  
+- Nye styret: Nye styre grubler på hva de gjør med takk til nestledere  
+- Nye styret: Blest for riddernominasjoner og lag deres liste  
+- Nye styret: Les over diskusjon angående korktavla  
+- Nye styret: Bestem hvem som kommer og si ifra at dere kommer på teknologidagene  
+- Kaja: Svarer på mail angående klovnesprinten  
+- Nye styret: Diskuterer hva dere gjør med kandidaten til NTNU-styret og svarer han  
+- Christian: Sjekker med kjelleren om de har fikset postadressen sin  
+- Sigrun: Poster på korktavla om miljøstreik  
+- Ole Anders: Svarer Morten angående kontoret  
+- Nye styret: Håndterer mailen fra Anzhelika.  
+- Ole Anders og Jakob: Dotkom kan bestemme om de vil sende ut info om at mailing-lister finnes
+- Aslak svarer studentrådet (todo fra forrige møte)
+
+## 016 Status for komiteene (14:20 - 20 min)
+
+#### Arrkom, med velkom: 
+- PSI fest i går, var en sukksess.
+- Vårfest til helgen, husk drikke. Ordner resten i kveld
+- Pirbadet neste uke, det blir gøy
+- Ny økans, det ble Thomas Ramm
+- Ny sosialansvarlige, Anders og Karen
+- Ny sjåfør, det ble Karen
+- Skal velge nestleder neste uke
+##### Velkom:
+- Program for fadderukene er lagt ut (på deres wiki) - så bra ut.
+- Fadderopptaket startet i går. Slutter 4. April
+
+#### Bedkom, med ITEX:  
+- En bedpress igjen, NAV IT - Alt klart.
+- Ny nestleder, Kristoffer Nyvoll!
+- Skal se over kalender for neste semester
+- Bookingrunden: Nye spennende bedrifter
+- Oppdatert sponsorpakken til fadderuka. Innfører et fadderukemagasin. Info til informatikere. 
+- Linjesamarbeidet avtale må signeres
+
+##### ITEX:
+- Mangler to bedrifter. To dagsbesøk. 
+- Skal innom Vipps
+- Påmedling for 5. klasse før semesterslutt
+
+#### Dotkom:  
+- Skjedd my øving til underholdning
+- Serveren er satt opp, skal begynne å avlaste fra de andre
+- Jobbet med begrensning av brukere. 
+- Jobber med sosiale ting og evt dotkom jub ( 15 år)
+- Intern samtale angående bruk av kontoret
+
+#### Fagkom, med ekskom:  
+- Fått ny nestleder, Johan. Christoffer fortsetter som økans
+- Mailansvarlig
+- Kurs med visma gikk bra
+- Eget slack workspace
+- Fått ansvarlig for Tech Talks
+
+##### Ekskom  
+- Erfaringsoverføring til nye ekskom.
+- Tips og triks, datoer og frister spesielt mtp bestilling av lokaler og kontrakt med IT-dagene
+- Gått over info til reisen til Kina. 
+- Begynt innsamling av nærmeste pårørende
+- Liste med reiseplan til IE/IDI
+- Levert ut Netlight merch
+
+#### Prokom: 
+- Satt igang neste offline. 
+- Lastet opp årbokssider, nesten helt ferdig
+- Peter har lagt ut artikkel om fadderopptaket
+- Fått ny nestleder, Julie
+- Ny økans, Ole Jakob
+
+
+
+#### Trikom: 
+- Vært/er på blåtur
+- Valgt Pål som innkjøpsansvarlig
+
+#### Seniorkom:  
+- Fikset alle årets titler til i morgen
+- Hatt erfaringsoverføring
+- Ny interessegruppe - maleklubben har fått støtte til å starte opp
+
+#### Leder og nestleder:  
+##### Nestleder:
+- Ganke oppsummert på todoen
+- Overtatt endel rettigheter fra Loffen
+
+
+
+##### Leder:
+- Vært på LL-møte:
+    - SIT og velferdstinget har startet noe som heter treningsløftet.
+    - Linjeforeningens sommerleker: Blir uka etter fadderuka. Man konkurrerer mot andre linjeforeninger med spennende aktiviteter/konkurranser.
+    - Startet opp ett HR-forum: Skal se på hvordan HR saker blir behandlet i en linjeforening. Skal hjelpe til ved vanskelige personsaker. 
+    - Det skal være fadderseminar 9. April - tidligere 14 pils og en pizza. Nå mer fokus på arrangementer. Thomas Ramm skal holde en talk om ett arragement vi hadde i fadderuka. Hvis andre ønsker å være med er det rom for det, trenger ikke være knyttet til velkom/fadderuka.
+
+- Valg til velferdstinget. Kan tenke på å finne noen som skal stille der. 
+- Prata med Alis, Emil og Mathias.
+- Takk for en super workshop! 
+- Var på megafylla på tirsdag aka Kontor-til-kontor
+- Var på hilserunde med Henrik og Aslak på torsdag
+- Har fått møteinnkalling til ett samlok-møte med Jan-Håvard Ryen og Krogstie
+
+
+#### Økonomiansvarlig, med bankom:  
+##### HS: 
+ - Hatt erfaringsoverføring
+ - Fikset ny periode med fastrenteinnskudd på sparekonto/fond
+ - Bestilt tilgang til nye admin, og fjerning av gamle
+ - Ordnet bestillingsskjema for nye kort, må signeres av nye ledere
+
+##### Bankom:
+ - Fått ny leder - Mathias
+ - Sosialkveld snart
+ - Vedlikeholde wiki på wikiworkshop
+ - Fordelt arbeidsoppgaver med økans
+ - Fått arvtager i prokom
+ - Arrkom og Fagkom også nye økanser
+
+#### ITV: 
+Ikke tilstede.
+
+#### Samlokaliseringsrepresentant:  
+Ikke tilstede.
+
+#### RFK:  
+- Hatt fredagsåpent
+- Internmøte og møte med SiT
+- Skal være åpen nesten hver dag hele fadderuka
+
+## 017 Interkom (14:40 - 10 min)
+#### Innafor å @channel for å få folk til å legge inn drikke til i morgen
+- Innafor
+#### Booket 9 bedpreser i stedet for 10
+- Det kommer flere - Bra!
+
+#### Temakveld med KID - dato fastsatt
+- Krasjet med ekskom-møte, dermed ikke så mange (3.klassinger) som kom
+- Skriv det inn i samarbeidsavtalen
+
+## 018 Blæstekalender (14:50 - 5 min)
+[Blæstekalenderen har fungert som et tiltakt for å organisere blæst og sørge for mindre opplevelse av spam dette året. Nå bør det diskuteres effekten av dette, og valg av ny blæstekalenderansvarlig om man viderefører kalenderen.]
+
+- Christian: Vet alle hvordan den fungerer?
+- Adrian: Burde det ikke være ansvar for flere, ikke bare en person? Kanskje sette flere til å være ansvarlig
+- Aslak: Ikke noe stress å sette opp for flere personer
+- August: Trenger ikke alltid være tilgjengelig. Hvis folk kommer sent så er det av og til for sent.
+- Johannes: Folk som ikke får svar vil overkjøre
+- Hanne: Når det har kommet inn innlegg som ikke skal være der har HS vært med på å ta dem ned.
+- Johannes: Det burde være flere, siden det er en del ansvar.
+- Henrik: Jeg kan ta ansvar for barnet mitt igjen <3
+- Benedicte: Kan hjelpe
+
+## 019 Bankom-leders rolle i HS (14:55 - 10 min)
+[August har hatt en samtale med Mathias og er veldig gira på å bidra i HS. Denne avgjørelsen er viktig siden den setter en presedens for alle bankom-ledere fremover.]
+
+- Christian: Grunn til at det ikke er sammen med Seniorkom?
+    - August: Ble tatt på to forskjellige møter. To forskjellige roller
+
+- Aslak: Prinsipielt så er det bra med hjelpen hvis Mathias er gira, men; Alle personer som sitter i styret har ansvar for en kjernedel av Online sin drift. Økans sitter allerede her og representerer Online sin økonomiske "arm". Nevner kommunikasjonsansvarlig som ett bra område/eksempel. Problemer med to personer som representerer samme område. 
+    - Loffen: Uenig med Aslak. Økans har ansvar for økonomien. Bankomleder har ansvar for Bankoms daglige drift. Han har rett til å være her og rett til å tale. 
+    - Christian: Hadde passet bedre inn på genfors. Nå bør vi følge de retningslinjene vi har nå
+    - Aslask: Har i noe problem med at bankom-leder har tilgang. Det som er viktig er om man anser personen som en som tar del i styrets retning/avgjørelser/ansvar.
+
+
+- August: Synes bankom-leder skal være på listen. Hvis vi har en ekstra person som ønsker å bidra, spesielt bankom, så bør hen få delta. Viktig at bankomleder da er villig til å ta det styrevervet som alle andre. 
+
+- Mathias: Vil representere de i bankom sin sak og at økansene der sin stemme skal bli hørt i HS. Ønsker å være med på alt, sosialt og møter fordi han synes det er kjempegøy. Kan og vil bidra like mye som de andre som er valgt på generalforsamling. 
+- Henrik: Møterett innebærer ikke møteplikt. Det er litt opp til oss å definere hvordan møterett skal fungere
+    - Aursand: Vi kan ikke nekte ham å møte hvis han vil.
+
+- Benedicte: Hvis han vil delta og være her, så synes jeg han burde få tilgang slik at han er oppdatert på hva som skjer.
+- Amundsen: Når han får høre om saker på møtet er det ulogisk at han ikke skal være på mailinglisten
+- Endre: Potensielt negativt; når det er flere i styret så skifter det dynamikken i gruppen som helhet. Ansvarfølelse blir annerledes. 
+- Emil: Hvis bankomleder skal være med nå blir det forventninger til neste leder. 
+    - Andreas: Samme som i seniorkom?
+    - Emil: Som regel gamle HS som vet hva de går til
+    - Benedicte: Må uansett definere dette hver gang en ny leder blir valgt. Veldig individuelt
+    - Christian: Vil fremlegge det som et potensielt todelt verv ved valg
+
+Avsteming:
+- For: 7
+- Mot: 1
+- Blankt: 1
+
+Vedtatt!
+
+## Pause i 5 minutter kl 15:05
+
+## 020 Faktura for avlyste kurs/bedpresser (15:10 - 5 min ) 
+[Vi har skrevet en profesjonell kontrakt og forsøker å ha profesjonelle forhold til bedrifter. Da er det helt profesjonelt å kreve inn kurs/bedpressgebyr slik det står at vi har dekning for i kontrakten. Det er også litt uheldig at en enkelt komite føler de kan ta denne avgjørelsen uten å ha konsultert økonomikomiteen eller hovedstyret da dette påvirker hele foreningens økonomi en god del]
+
+
+## 021 Nedsetting av utvalg for å se på organisasjonsstruktur (15:15 - 10 min)
+[Generalforsamlingen har vedtatt at det skal settes ned et utvalg som skal se på Online sin organisasjonsstruktur. Dette er noe som bør gjøres raskt. Hva skal kriteriene for dette utvalget være med og hvordan type mennesker ønsker HS her for å gjenspeile organisasjonen? Det bør også settes en opptaksramme]
+
+- August: Mener at HS burde utnevne en person som kan styre denne gruppa som kan sette noen retningslinjer og ha ansvar for opptak av resten.
+    - Alis: Er det ikke lurt å ha en som har vært før, og en som ikke har vært med i det hele tatt?
+        - August: Vi skal gi en person ansvaret og samarbeide med h*n. Representerer Online
+- Johannes: Om en i HS tar på seg ansvar for å kickstarte dette. Høre med folk som har vist interesse tdiligere, og ta det opp med HS hvordan prosessen ligger an.
+- Emil: Hadde vært aktuelt å få en fra gamle HS til å gjøre dette?
+    - Adrian: Dere stilte alle til valg etter saksforslaget. Dere bør finne ut hva dere skal gjøre
+- Benedicte: Trenger det å være en person? Kan vel godt være et opptak - vi utlyser at vi trenger "disse type menneskene"
+    - Johannes: Helt enig, en person i HS kan få ansvar for å skrive den
+    - August: Litt tivlsomt til at en utlysning vil gi noen respons
+    - Aslak: selv om det blir headhunta så bør man også utlyse
+
+- Loffen: Legg ut en google form hvor dere lyser ut om folk er interesserte i å delta kan melde seg.
+- Benedicte: Tror mange er interessert. Engasjerer mange. Blir nok ikke noe problem å finne folk. Må finne noen til å ta søknaden
+
+- Alis: Er det noen mal på hva de skal gjøre?
+    - August: Det står i saksforslaget, må utarbeides mer spesifikt. 
+
+- Henrik: To muligheter - finne en person som skal ta ansvar eller utlyse stillingen.
+    - Benedicte: Alle må skulle kunne melde seg, slik at vi unngår en med "en agenda".
+    - August: Noe om agenda
+    - Benedicte: Da blir det en gruppe istedenfor en enkeltperson
+    - Adrian: Viktig å få frem alle meninger fra Online. Blir dumt å utnevne noen her og nå/fra gamle HS
+
+- Jakob: Fra tidligere har HS vært ganske samstemte siden vi alle var del av komitee og tenkte ganske likt. Kan være lurt å lyse ut slik at vi kan finne potensielle ildsjeler som har lyst og komme med nytt perspektiv. Kan være bedre skikket.
+- Aursand: Like greit å få noen til å utlyse. Bedre enn at noen får ansvaret prakka på seg
+- Henrik: Gjøre litt samme som Online IL. 
+- Loffen: Høy terskel for folk å sende en søknad. Bruk heller Google form
+
+- August: Virker som om det er enighet om å lyse ut stillingen. Noen som vil ta ansvar for å lyse ut? 
+    - Alis does it!
+
+
+## 022 Post-genfors arbeid (15:25 - 5 min)
+[Det er en liten liste med arbeid som må bli gjort etter generalforsamlingen. Blant annet må vi skrive de nye vedtektene, referatet må bli renskrevet og paraferer må signere det.]
+
+- Endre: Referatet blir forhåpentligvis ferdig ila helgen.
+- Adrian og Loffen er paraferer.
+- Johannes: Pål har laget en Google Doc med masse redaksjonelle endringer.
+- Aslak: burde egentlig vedta dette så fort som mulig og publisere for Online når det er done.
+- August: Ole godkjenner og tar ansvar for å lese gjennom mot gamle referat. August skal ta ansvar for å skrive inn det nye.
+- Adrian: Frist for endring av vedtekter?
+
+- Aslask/Loffen: Kan ikke endre styre i BRREG før alt er i orden.
+
+- Henrik: Kan hjelpe til.
+- Loffen: Leder og en person eller hele styret må foreløpig signere. Leder alene eller to styremedlemmer er nye endringer som ikke er meldt inn til BRREG. Loffen og Aslak fikser.
+    - Aslak: Dere kan endre det. Dette er noe vi har blitt enige om.
+
+
+## 023 Intensjonsavtale med Ekskom ( 15:30 - 5 min )
+[Gamle HS har utarbeidet en intensjonsavtale med Ekskom, vi diskuterer hvem som skal ha et møte med de.]
+
+- Aslak: Lagt inn kommentar på vedlegget. Tydeligere om hvem som er komiteemedlemmer. Handler om de skal ta kontorvakt osv.
+
+- Johannes: Stusser litt over datoene. Spesielt utløpsdato som er før de skal avholde ekskursjonen.
+
+- August: Jeg kan møte med dem. Det har jeg godt av. Amundsen drar sammen med meg
+
+- Loffen: La dem også få se den og kommentere
+- Ole: Definere hva de faktisk har ansvar for i forhold til TechTalks
+    - August: Vil ikke låse det nå siden man ser på å endre det. Kanskje litt mer beskrivende.
+    - Ole: mente mer at det er noe, og ikke bare arrangere noe som heter tech talks. bør være mer detaljer om hva det er og at pengene går til turen.
+    - Andreas: Avbryter for oppklaring.
+
+- Henrik: Viktig at vi får tydeliggjort at de er komiteemedlemmer som alle andre i Online. Det betyr også at de må gjøre som andre komiteer, men samtidig at de kan få støtte og hjelp fra de andre komiteene.
+    - Amundsen: Kom en rant fra ekskom om at de var kontorvakt begge semestrene.
+    - Johannes: Det ligger under at de er sidestilt med andre komiteer, står at man skal kunne måtte være begge semestre
+    - Aslak: Nå er det endret på etter forrige rant. Vil ha et generelt dokument for retningslinjer for komiteemedlemmer
+
+
+- Adrian: Les igjennom! Ta ansvar for å skrive inn og komme med forslag. Få til ett bedre kontraktsforslag.
+
+
+## 024 Møte med Bandet ( 15:34 - 5 min )
+[ Det er på høy tid at HS har et møte med bandet og diskuterer hva Online kan forvente av bandet, og hva bandet kan forvente av Online]
+
+- Johannes: Det burde være åpent for HS å være med om de har lyst. 
+- Christian: Usiker på hvor mye det kom til å koste for Online sin del
+- Henrik: Det høres fornufig ut med møte. Snakke om hvordan det skal fungere fremover. Store tanker, mye kult, letsgo.
+    - August: Vil ikke være delaktig i saken. Føles ubehagelig. 
+- Alis: Kommer til å ta opp samarbeidet med arrkom. Har vært veldig tjenestegivende og stilt opp fro dem. Må bli enige om hva vi forventer av hverandre.
+- Loffen: Viktig å gå inn på møtet med god holdning
+    - August: bandet har samme holdning
+
+
+
+## 025 Forespørsler som har kommet på e-post (15:35 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]
+[Dere kan bruke filteret "after: 2019/03/8" for å få alle mail fra sist uke ^^" - Endre]
+
+- Pellerittet
+- [ IE fakultetet trenger en student i en ny arbeidsgruppe]
+    - Blitt svart
+- [gloshaugen] [linjeforeninger] StudLAN for NTNU studenter arr. Casual Gaming
+    - Få det ut. Jakob fikser
+- NTNU-styret kandidat
+    - Svart
+- PSI vårball
+- [Vårfest 2019] Info
+- Utkast til ekskom-kontrakt
+- General Lithium Survey
+- Vipps for mat i går
+    - Har alle vipset loffen penger? Mulig Silje
+- Overgang til Online og fadderuke
+    - Har svart på det. August kan sende mail direkte
+- Lunsj med Abakus og Online
+    - Folk må svare på doodle. August svarer på mailen
+- Invitasjon til fadderseminar og fadderkurs!
+    - Vi sender Øyvind og andre velkommere. Alis er også interessert
+- Post til Realfagskjelleren
+- Markedsundersøkelsen 2019
+    - Legge på korktavla. Kan noen ta ansvar. Amundsen fikser.
+- Karriereside
+- Nominasjoner
+    - Må begynne arbeid med å begynne å bleste. Prokom kan lage plakat. Benedicte tar ansvar for det. Bleste på facebook: Alis.
+    - Loffen: Oppforder alle i gamle og nye HS til å nominere.
+    - August svarer på mailen.
+- Fotograf
+    - Videresendt til prokom.
+- Stand på Teknologidagene 02. april
+    - August har svart.
+- En oppdatering fra Studentrådet
+    - Aslak har svart endelig
+
+
+
+## 026 Eventuelt (15:45 - 5 min)
+#### TechTalks
+Ole: Har lyst til å arbeide litt mer med å jobbbe med oppdatering av nettsiden.
+Aursand: Ja, det er diskutert.
+
+#### Velkom kontorvakt
+Velkom må ha kontorvakter.
+
+#### Kort til velkom
+- Henrik: Fair med kort, i fjor bestilite de veldig mye
+For: 9
+Mot: 0
+Blankt: 0
+
+Vedtatt!
+
+#### Kjelleren feil/ny epost
+- Delta har sendt mail på feil 
+- styret@realfagskjelleren.no
+
+#### Hvem skal få lang og tro dalje
+- Kan alle sende hvem som skal få ila kvelden
+- Betyr: Takk for 3 års arbeid: Får når du har vært ca 2.5 år slik at du får brukt den.
+- Ole: er det ikke en wiki-artikkel?
+    - Jo! Fyll inn der!
+- Kjelleren skal også få lang og tro dalje
+    - Sigurd har visst fått
+
+
+## 027 Møteevaluering/Diggepunkt
+
+
+Møte hevet 16:12
