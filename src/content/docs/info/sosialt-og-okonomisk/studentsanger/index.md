@@ -17,8 +17,7 @@ Studentsanger
 -   [Sommer på haugen](/wiki/online/info/sosialt-og-okonomisk/studentsanger/sommerpahaugen)
 -   [Liten jumbo](/wiki/online/info/sosialt-og-okonomisk/studentsanger/litenjumbo)
 -   [Lille Ronny](/wiki/online/info/sosialt-og-okonomisk/studentsanger/lilleronny)
--   [Ludøl til du dør]
-(/wiki/online/info/sosialt-og-okonomisk/studentsanger/ludoldor)
+-   [Ludøl til du dør](/wiki/online/info/sosialt-og-okonomisk/studentsanger/ldoltildudor)
 -   [Selen lever](/wiki/online/info/sosialt-og-okonomisk/studentsanger/selenlever)
 -   [Studentervisen](/wiki/online/info/sosialt-og-okonomisk/studentsanger/studentervisen)
 -   [Asbest](/wiki/online/info/sosialt-og-okonomisk/studentsanger/asbest)
