@@ -11,9 +11,9 @@ Kravene som stilles er at det skal være en gruppering som åpner for at alle On
 ## Hvordan søke om støtte til din interessegruppe?
 
 Du kan søke om økonomisk støtte til din interessegruppe ved å sende en mail til seniorkom@online.ntnu.no. 
-I mailen ønskes det at det skrives [Pengesøknad][Navn på interessegruppe] _Hva det søkes støtte til_, i emnefeltet. For å få støtte må det sendes inn søknad på forhånd, altså før pengene skal brukes, og det må legges frem et budjsett over hvor mye som trengs og til hva. Opplys også om antallet medlemmer i interessegruppen/som vil dra nytte av støtten. Alkohol støttes ikke
+I mailen ønskes det at det skrives [Pengesøknad][Navn på interessegruppe] _Hva det søkes støtte til_, i emnefeltet. For å få støtte må det sendes inn søknad på forhånd, altså før pengene skal brukes, og det må legges frem et budsjett over hvor mye som trengs og til hva. Opplys også om antallet medlemmer i interessegruppen/som vil dra nytte av støtten. Alkohol støttes ikke
 
-Seniorkom har i utgangspunktet 10.000kr å støtte interessegrupper med hvert semester. Det vil si at seniorkom tar en avgjørelse på hvorvidt det innvilges full eller delvis støtte. Andelen som støttes avhenger av hvor mange søknader som her kommet inn, altså hvor mye som er igjen av budsjettet, og hvor mange Onlinere som vil kunne dra nytte av støtten.
+Seniorkom har i utgangspunktet 15.000kr å støtte interessegrupper med hvert semester. Det vil si at seniorkom tar en avgjørelse på hvorvidt det innvilges full eller delvis støtte. Andelen som støttes avhenger av hvor mange søknader som her kommet inn, altså hvor mye som er igjen av budsjettet, og hvor mange Onlinere som vil kunne dra nytte av støtten.
 
 Støtten utbetales ved levert kvitteringsskjema som kan finnes her, etter innkjøp.
 
