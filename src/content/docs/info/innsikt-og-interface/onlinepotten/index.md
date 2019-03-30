@@ -2,6 +2,8 @@
 title: "Onlinepotten"
 ---
 
+[TOC]
+
 ## Onlinepotten
 Onlinepotten er en pott på 10.000kr hvert semester som fordeles av hovedstyret i Online. Den ble vedtatt på generalforsamlingen i 2018. Meningen med potten er å støtte Onlinere som ønsker å ha en “workshop” eller arbeidsperiode over minst 3 til 4 timer som bidrar til å forbedre Online som linjeforening. Dette kan for eksempel være støtte til pizza eller annen bespisning, men er ikke begrenset til dette.
 ### Søknadsform
