@@ -41,12 +41,11 @@ Våren 2016 tok daværende leder Marius Thingvall initiativ til å holde en egen
 
 På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. I DataX kunne man kunne nemlig bare være én person i systemet om gangen, i tillegg til at det var en generelt knotete system å bruke. Det nye systemet kunne derimot brukes av så mange man ville på en gang, samt at brukergrensesnittet var veldig moderne og intuitivt. Ettersom at det nye systemet ville koste en fast semesteravgift, måtte dette godkjennes av hovedstyret. Da saken ble tatt opp var det støtte for forslaget fra styret, og det nye systemet ble tatt i bruk for regnskapsåret 2016.
 
-2017
+I 2017 innførte bankom en prøveordning med en uavhengig nesleder som ikke har ansvar for egen komité. Dette var en sukess da bankom fikk et medlem som hadde fleksibiliteten til å hjelpe de andre i komiteen når det trengtes.
 
-2018
+Fra 2018 ble regnskapet til Online heldigitalt(takk gud) og lagret både på Fiken og på Google Drive og bankoms rutiner endret seg til å utnytte funksjonaliteten i Fiken. I tillegg ble prøveordningen fra 2017 med uavhengig nestleder vidreført til at nestleder ble fungerende komiteleder.
 
-2019
-
+Våren 2019 godtok generalforsamlingen at HS stillingen som leder av bank- og økonomikomiteen ble endret til økonomiansvarlig, og leder av bankom blir valgt internt i bankom. Leder av komiteen har møte og tale rett på hovedstyrets møter.
 
 ## Medlemmer
 
