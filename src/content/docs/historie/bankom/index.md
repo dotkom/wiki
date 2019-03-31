@@ -37,22 +37,29 @@ Våren 2015 var for bank- og økonomikomiteen, og spesielt dens leder, en påkje
 
 Høsten 2015 integrerte Online Stripe i sine systemer, noe som gjorde at betalinger for arrengement ble mye enklere enn før. Som følge trengte ikke arrkom lenger to økonomiansvarlige, og det har siden bare vært 1 som i de andre komiteene.
 
-Våren 2016 tok daværende leder Marius Thingvall initiativ til å holde en egen økonomikveld før generalforsamlingen, slik at man kunne diskutere budsjettene før genfors. På denne måten kunne det fortsatt komme inn innspill og gjøres endringer, ettersom at det er for sent på genfors. Dette var en suksess, og vil mest sansynlig gjentas i fremtiden. Samme semester ble ekskursjonskomiteen lagt under Online, som førte med seg at ekskom fikk en egen økonomiansvarlig i bankom.
+Våren 2016 tok daværende leder Marius Thingvall initiativ til å holde en egen økonomikveld før generalforsamlingen, slik at man kunne diskutere budsjettene før genfors. På denne måten kunne det fortsatt komme inn innspill og gjøres endringer, ettersom at det er for sent på genfors. Dette var en suksess, og har i ettertid blitt gjennomført hvert år. Samme semester ble ekskursjonskomiteen lagt under Online, som førte med seg at ekskom fikk en egen økonomiansvarlig i bankom.
 
-På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. I DataX man kunne nemlig bare være én person i systemet om gangen, i tillegg til at det var en generelt knotete system å bruke. Det nye systemet kunne derimot brukes av så mange man ville på en gang, samt at brukergrensesnittet var veldig moderne og intuitivt. Ettersom at det nye systemet ville koste en fast semesteravgift, måtte dette godkjennes av hovedstyret. Da saken ble tatt opp var det støtte for forslaget fra styret, og det nye systemet ble tatt i bruk for regnskapsåret 2016. 
+På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. I DataX kunne man kunne nemlig bare være én person i systemet om gangen, i tillegg til at det var en generelt knotete system å bruke. Det nye systemet kunne derimot brukes av så mange man ville på en gang, samt at brukergrensesnittet var veldig moderne og intuitivt. Ettersom at det nye systemet ville koste en fast semesteravgift, måtte dette godkjennes av hovedstyret. Da saken ble tatt opp var det støtte for forslaget fra styret, og det nye systemet ble tatt i bruk for regnskapsåret 2016.
+
+2017
+
+2018
+
+2019
 
 
 ## Medlemmer
 
-|Semester|Leder|Nestleder|arrkom|bedkom|dotkom|ekskom|fagkom|HS|prokom|ITEX|trikom|velkom|jubkom|seniorkom|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|18/19|**Christian Nyvoll**|August Solvang|Marius Johansen|Adrian Hofseth|Dora Oline Eriksrud|Fride Skarseth/ Sigurd Melsom|Kaja Sofie Lundgaard|---|Margit Schefte|Mathias Müller|Ingvild Gravem/ Pål Edward Larsen/ Jon-Inge Heggstad|Siri Granheim|---|Martin Bjerke|
-|17/18|**Christoffer Lofsberg**|Margit Schefte|Marius Johansen|Adrian Hofseth|Dora Oline Eriksrud|Fride Skarseth|Christian Nyvoll|---|Simen Bjørkhaug|Mathias Müller|Martin Bjerke|August Solvang|---|Erik Wiker|
-|16/17|**Kristoffer Hajem**|Christoffer Lofsberg|Kasper Berg/Marius Johansen|Henrik Bossart/Adrian Hofseth|Katrine Jordheim/Dora Oline Eriksrud|Margit Gåsø Schefte|Christoffer Lofsberg|---|Trine-Lise Helgesen/Endre Ullberg|Thomas Mathisen/Hege Borge|Christoffer Almankaas/Martin Bjerke|Jakob Westermoen|Thor Håkon Bredesen|Marius Thingwall|
-|15/16|**Marius Thingwall**|Didrik Pemmer Aalen, Kristoffer Hajem|Edvard Sjøblom, Kasper Berg|Silje Sævig, Henrik Bossart|Kristoffer Dalby, Katrine Jordheim|N/A|Håkon Løvdal, Kristiane Westgård|---|Camilla Tran|Espen Hellerud, Thomas Mathisen|Kristoffer Hajem|Espen Meidell, Jakob Westermoen|Thor Håkon Bredesen|Kathrine Steffensen|
-|14/15|**Henning M. Wold**|Didrik Pemmer Aalen|Sondre Johan Widmark, Edvard Schreiner Sjøblom|Kristian Svoren, Silje Sævig|Kristoffer Dalby|N/A|Håkon Ødegård Løvdal|---|Jørn-Egil Jensen|N/A|Johan Slettvold, Kristoffer Hajem|Didrik Pemmer Aalen, Espen Meidell|N/A|N/A|
-|13/14|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|N/A|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|N/A|Johan Slettvold|Henning M. Wold|N/A|N/A|
-|12/13|**Marius Krakeli**|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|N/A|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|N/A|Johan Slettevold|Ragnhild Seim|N/A|N/A|
-|11/12|**Ada Jordal**|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|N/A|Dag Erik Vikan|---|Rikard Eide|N/A|N/A|Magnus G. Hove|N/A|N/A|
-|10/11|**Even Østvold**|---|Ingrid Kittelsen, Magnus G. Hove(?)|Ada Jordal|---|N/A|Kristian Laskemoen|---|John-Erik Johansen|N/A|N/A|---|N/A|N/A|
-|09/10|**Michael Johansen**|---|Kristian Laskemoen|Ada Jordal|---|N/A|Even Østvold|---|N/A|N/A|N/A|---|N/A|N/A|
+|Semester|Økonomiansvarlig|Leder|Nestleder|arrkom|bedkom|dotkom|ekskom|fagkom|HS|prokom|ITEX|trikom|velkom|jubkom|seniorkom|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|19/20|**Kaja Sofie Lundgaard**|**Mathias Fossum**|Kjem snart|Marius Johansen|Luka Grujic|Jonathan Brooks|Sigurd Melsom|Christoffer Stensrud|---|Ole Jakob Brunstad|Mathias Müller|Jon-Inge Heggstad|Johanne Tronstad|---|Sigurd Oxaas Wie|
+|18/19|N/A|**Christian Nyvoll**|August Solvang|Marius Johansen|Adrian Hofseth/Luka Grujic|Dora Oline Eriksrud/Jonathan Brooks|Fride Skarseth/ Sigurd Melsom|Kaja Sofie Lundgaard|---|Margit Schefte|Mathias Müller|Ingvild Gravem/ Pål Edward Larsen/ Jon-Inge Heggstad|Siri Granheim|---|Martin Bjerke|
+|17/18|N/A|**Christoffer Lofsberg**|Margit Schefte|Marius Johansen|Adrian Hofseth|Dora Oline Eriksrud|Fride Skarseth|Christian Nyvoll|---|Simen Bjørkhaug|Mathias Müller|Martin Bjerke|August Solvang|---|Erik Wiker|
+|16/17|N/A|**Kristoffer Hajem**|Christoffer Lofsberg|Kasper Berg/Marius Johansen|Henrik Bossart/Adrian Hofseth|Katrine Jordheim/Dora Oline Eriksrud|Margit Gåsø Schefte|Christoffer Lofsberg|---|Trine-Lise Helgesen/Endre Ullberg|Thomas Mathisen/Hege Borge|Christoffer Almankaas/Martin Bjerke|Jakob Westermoen|Thor Håkon Bredesen|Marius Thingwall|
+|15/16|N/A|**Marius Thingwall**|Didrik Pemmer Aalen, Kristoffer Hajem|Edvard Sjøblom, Kasper Berg|Silje Sævig, Henrik Bossart|Kristoffer Dalby, Katrine Jordheim|N/A|Håkon Løvdal, Kristiane Westgård|---|Camilla Tran|Espen Hellerud, Thomas Mathisen|Kristoffer Hajem|Espen Meidell, Jakob Westermoen|Thor Håkon Bredesen|Kathrine Steffensen|
+|14/15|N/A|**Henning M. Wold**|Didrik Pemmer Aalen|Sondre Johan Widmark, Edvard Schreiner Sjøblom|Kristian Svoren, Silje Sævig|Kristoffer Dalby|N/A|Håkon Ødegård Løvdal|---|Jørn-Egil Jensen|N/A|Johan Slettvold, Kristoffer Hajem|Didrik Pemmer Aalen, Espen Meidell|N/A|N/A|
+|13/14|N/A|**Jim Frode Hoff**|---|Ivar Flakstad, Sondre Johan Widmark|Fredrik Tørnvall|Kristoffer Dalby|N/A|Truls Mørk Pettersen|Linn Vikre|Hallvard Jore Christensen|N/A|Johan Slettvold|Henning M. Wold|N/A|N/A|
+|12/13|N/A|**Marius Krakeli**|Markus Slemdal Andersen|Jim Frode Hoff, Ivar Flakstad|Markus Slemdal Andersen, Fredrik Tørnvall|Kristoffer Dalby|N/A|Nina Margrethe Smørsgård|---|Rikard Eide, Hallvard Jore Christensen|N/A|Johan Slettevold|Ragnhild Seim|N/A|N/A|
+|11/12|N/A|**Ada Jordal**|---|Ingrid Kittelsen|René Räisänen|Håvard Kindem, Helle Grimnes|N/A|Dag Erik Vikan|---|Rikard Eide|N/A|N/A|Magnus G. Hove|N/A|N/A|
+|10/11|N/A|**Even Østvold**|---|Ingrid Kittelsen, Magnus G. Hove(?)|Ada Jordal|---|N/A|Kristian Laskemoen|---|John-Erik Johansen|N/A|N/A|---|N/A|N/A|
+|09/10|N/A|**Michael Johansen**|---|Kristian Laskemoen|Ada Jordal|---|N/A|Even Østvold|---|N/A|N/A|N/A|---|N/A|N/A|
