@@ -34,6 +34,7 @@ Tidligere Arrangementer
 - CrossFit
 - Kickboksing
 - Ju-Jitsu
+- Poledance
 
 
 Kontakt
