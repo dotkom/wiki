@@ -40,7 +40,7 @@ Alle:
 August:  
 - lage liste over hvem som har ansvar hvilken uke i forhold til instagram og profilering . August glemte flere navn på lista. Rettes opp.OK  
 - svare prokom om at de kan søke om mer penger til pizza. Prokom har fått svar  
-- **Svarer Ankha anngående online-pin. Anhkha har ikke fått svar enda**  
+
 ## 042 Status for komiteene (10:20 - 20 min)
 
 #### Arrkom, med velkom: 
