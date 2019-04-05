@@ -93,8 +93,7 @@ Har revidert HS kontoen.
 - Full pågang. Kjempe salg. 
 - Quiz på fredag, med godt oppmøte
 - Vært på koietur
-## 043 Interkom (10:40 - 10 min)
-- Christian Nyvoll: Midlene fra IDI/IE kan omfordeles, nå som noen komiteer har hatt avlysninger.  
+## 043 Interkom (10:40 - 10 min) 
 - Ole Anders: Persondata kan ikke sendes til bedrifter før feks kurs. Henrik spør: Er det ikke mulig å spørre deltakerne på arrangementside på at informasjonen må deles. Ole Anders: Vi kan legge det som en checkbox.  
 ## 044 Hjelp! August skal på ferie! (10:50 - 10 min)
 - August: blir borte i 3,5 uker. Henrik tar over i Augusts fravær. Han kommer til å være lite tilgjengelig pga datatilsyn i Kina. Oppfordrer alle til å ta selvstendige valg. Ikke utsett saker til August kommer tilbake. Vi må videre selvom August er borte.  
