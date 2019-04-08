@@ -14,6 +14,8 @@ Robin Rognerud
 
 Vemund Eggemoen
 
+Emil Ommundsen
+
 ## Kontakt
 Fredrik Butler Wang
 fredriwb@stud.ntnu.no
