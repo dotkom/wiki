@@ -10,6 +10,10 @@ Fredrik Butler Wang
 
 Jonathan Brooks
 
+Robin Rognerud
+
+Vemund Eggemoen
+
 ## Kontakt
 Fredrik Butler Wang
 fredriwb@stud.ntnu.no
