@@ -14,6 +14,8 @@ Robin Rognerud
 
 Vemund Eggemoen
 
+Stefan Fongen
+
 Emil Ommundsen
 
 ## Kontakt
