@@ -7,6 +7,7 @@ PremLine er interessegruppen for deg som er litt glad i, kjempe glad i, eller re
 
 ## Medlemmer
 Fredrik Butler Wang
+Jonathan Brooks
 
 ## Kontakt
 Fredrik Butler Wang
