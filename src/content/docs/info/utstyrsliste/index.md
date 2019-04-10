@@ -162,4 +162,4 @@ Hvis det er noen andre spørsmål, send mail trikom@online.ntnu.no
 |Kjøkkenutstyr|Kontoret|Trikom|
 |Trådløse ladere (x2)|Kontoret|Trikom|
 |Raspberry pi (x2)|Kontoret|Online|
-|Førstehjelpsskriv|Kontoret|Online|
+|Førstehjelpsskrin|Kontoret|Online|
