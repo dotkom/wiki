@@ -107,8 +107,7 @@ Intet å berette
 [Diskusjon om riddernominasjoner. Utfall: Fordeling av ansvar for å skrive / avtale et tidspunkt å ha en liten felles workshop på det]
 - Henrik: Fått frist 10. mai av riddernomineentene  
 - Emil: Finnes det en oversikt over alle riddere?  
-- Ole Anders: beta OW har oversikt.    
-- Spørsmål vedrørende Endres nominasjon: Spørsmål rundt når han skal få den, dersom han skal over på master kan vi drøye litt. Det ser ut til at han er ferdig for denne gang etter bachelor.  
+- Ole Anders: beta OW har oversikt.     
 
 - Tiltak: Opprette dokument for skrive opp hver person. Vi hører med folk uttav HS for forslag til tekster. Mathias oppretter dokumenter på drive.
 
