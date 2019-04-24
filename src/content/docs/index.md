@@ -43,7 +43,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
 - [Lage ny bruker på Onlineweb](/wiki/online/info/trivia/ny_bruker)
-
+- [Hvordan endre wiki-sider](https://online.ntnu.no/wiki/online/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
 
 ### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
 
