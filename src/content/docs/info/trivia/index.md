@@ -9,3 +9,4 @@ title: "Trivia"
 - [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/)  
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
+- [Hvordan redigere wiki-sider](https://online.ntnu.no/wiki/online/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
