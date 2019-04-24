@@ -1,5 +1,5 @@
 ---
-title: "Hvordan endre wiki-sider på OW."
+title: "Hvordan endre wiki-sider på OW"
 ---
 
 For å gjøre endringer på wiki-sidene til online trenger man først en bruker. 
