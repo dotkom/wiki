@@ -54,7 +54,8 @@ Medlemmer
 ---------
 | År | Leder                   | Medlemmer |
 | --- | --- | --- |
-| 18/19 | **Hanne Brynildsrud** | Peter Rydberg, Carlo Morte, Håkon Halldal, Øystein Hammersland, Andrea Bach, Vebjørn Sletta, Carl Erik Friedemann, Catriona Tørklep, Marius Aune, Anniken Syvertsen, Thomas Alejandro Ramirez Fernandez, Jørgen Berg, Hanne Brynilsrud, Sebastian Ellefsen, Kent Are Torvik, Charlotte Söderström, Egil Uggerud |
+| 19/20 | **Benedicte Helen Myrvoll** | Peter Rydberg, Anniken Syvertsen, Thomas Alejandro Ramirez Fernandez, Hanne Brynildsrud, Sebastian Ellefsen, Egil Uggerud, Julie Holte Motland, Elias Vågan, Thomas Rankin, Phajsi Halvorsen, Ole Jacob Brunstad, Pål Andreas Morholmen|
+| 18/19 | **Hanne Brynildsrud** | Peter Rydberg, Håkon Halldal, Catriona Tørklep, Anniken Syvertsen, Thomas Alejandro Ramirez Fernandez, Sebastian Ellefsen, Egil Uggerud, Julie Holte Motland, Benedicte Helen Myrvoll, Elias Vågan, Thomas Rankin, Phajsi Halvorsen, Mathias Fossum, Ole Jacob Brunstad, Pål Andreas Morholmen|
 | 17/18 | **Peter Rydberg** | Carlo Morte, Håkon Halldal, Øystein Hammersland, Andrea Bach, Vebjørn Sletta, Carl Erik Friedemann, Catriona Tørklep, Marius Aune, Anniken Syvertsen, Thomas Alejandro Ramirez Fernandez, Jørgen Berg, Hanne Brynilsrud, Sebastian Ellefsen, Kent Are Torvik, Charlotte Söderström, Simen Bjørkhaug, Egil Uggerud |
 | 16/17 | **Andrea Bach** | Vebjørn Sletta, Baldur Kjelsvik, Trine-Lise Helgesen, Agnete Djupvik, Camilla Tran, Carlo Morte, Håkon Halldal, Øystein Hammersland, Carl Erik Friedemann, Catriona Tørklep, Endre Micael Austad Ulberg, Jonas Jevnaker Aas, Peter Rydberg, Sunniva Mathea Runde |
 | 15/16 | **Agnete Djupvik** | Signe Elise Livgard, Camilla Tran, Anne-Marie Samuelsen, Hanna Sollie Storaker, Stian Dysthe, Trine-Lise Helgesen, Carlo Morte, Rikard Eide, Aasne Naterstad, Håkon Halldal, Øystein Hammersland, Baldur Kjelsvik, Vebjørn Sletta, Andrea Bach |
