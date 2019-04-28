@@ -10,52 +10,42 @@ Bank- og økonomikomiteen skal til enhver tid ha det overordnede ansvaret for li
 
 Komiteen består av følgende, stemmeberettigede, medlemmer: 
 
+* Økonomiansvarlig for Online
 * Leder for komiteen
 * Nestleder
-* Økonomiansvarlige fra komiteer, og nodekomiteer med eget regnskap.
+* Økonomiansvarlige for kjernekomiteer
+* Økonomiansvarlige for nodekomiteer
+* Øvrige medlemmer
+
+Tidligere medlemmer fra bankom som har gått over til seniorkomiteen har møte- og talerett på bankom sine møter, men er ikke stemmeberettigede. Tidligere medlemmer som er gått over til seniorkomiteen skal kun ha bespisning på arbeidskvelder hvis de yter et pågående arbeid for komiteen på lik linje som komiteens aktive medlemmer.
 
 ### §3 Komiteens ansvarsområder
 
-##### (1) Daglig drift  
-Komiteen har ansvaret for linjeforeningens økonomi. Dette gjøres ved jevnlige møter.  Dette innebærer bilagsføring, og generelt økonomisk arbeid. Økonomiansvarlig i øvrige komiteer er ansvarlig for å utarbeide budsjett og føre regnskap for sin komite. Gjennom året skal disse holde sin komite og banKom oppdatert på den økonomiske situasjonen og gjøre det daglige økonomiarbeidet for sin komité.
+#### (1) Daglig drift  
+Komiteen har ansvaret for linjeforeningens økonomi. Dette gjøres ved jevnlige møter.  Dette innebærer bilagsføring, og generelt økonomisk arbeid. Økonomiansvarlige i komiteer er ansvarlig for å utarbeide budsjett og føre regnskap for sin komite. Gjennom året skal disse holde sin komite og bankom oppdatert på den økonomiske situasjonen og gjøre det daglige økonomiarbeidet for sin komité.
 
-Økonomiansvarlige kan ikke ta avgjørelser rundt fordeling eller forvaltning av
-budsjeterte midler til ulike prosjekter i regi av linjeforeningen, disse avgjørelsene tas av den spesifikke komité eller Hovedstyret.
+De økonomiansvarlige har hovedansvar for avgjørelser rundt bruk av sin komité sitt budsjett. Økonomiansvarlige kan ikke ta avgjørelser rundt endring eller omdisponering av budsjeterte midler til ulike prosjekter eller budsjettposter. Disse sakene skal avgjøres av Hovedstyret.
 
-##### (2) Regnskap
+
+
+#### (2) Regnskap
 Komiteen plikter å ha klart et regnskap for forrige regnskapsår, innen en måned før generalforsamlingen.
 
-##### (3) Budsjett
-Komiteen plikter å ha klart et budsjett for neste periode, innen en måned før generalforsamlingen. 
+#### (3) Budsjett
+Komiteen plikter å ha klart et budsjett for neste år, innen 1. desember. Budsjettet skal utarbeides i sammarbeid mellom alle komiteer og godkjennes av Hovedstyret. Det skal etterstrebes å holde en budsjettkveld hvor alle medlemmer av Online kan delta i diskusjoner rundt utformingen av neste års budsjett.
 
-##### (4) Sparing
+#### (4) Sparing
 Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring.
 
-##### (5) Erfaringsoverføring
-Det skal ved hjelp av de erfarne i komiteen holdes kurs i regnskapsføring, og "bankvett" hvert år. 
+#### (5) Erfaringsoverføring
+Det skal ved hjelp av de erfarne i komiteen sørges for at nye medlemmer får den opplæringen de trenger.
 
-##### (6) Forsikringer
-Så lenge det er økonomisk forsvarlig, skal komiteen passe på at  linjeforeningens eiendeler av tilstrekkelig verdi er forsikret. 
+#### (6) Forsikringer
+Komiteen skal passe på at  linjeforeningens eiendeler av betydelig verdi er vurdert forsikret. Hvis eiendeler bør forsikres skal komiteen underette Hovedstyret slik at de kan ta stilling til å muliggjøre dette ved en budsjettendring.
 
-##### (7) Utilgjengelighet av økonomiansvarlig og/eller bankom-leder.
-Om leder av banKom blir varig utilgjengelig, erklært uegnet ved mistillitsforslag i
-Hovedstyret, eller trer av, vil nestleder i banKom midlertidig ta over ansvaret for
-linjeforeningens økonomi. Hovedstyret plikter å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
+#### (7) Utilgjengelighet av komiteens leder.
+Om leder av bankom blir varig utilgjengelig eller trer av, vil nestleder i bankom midlertidig ta over ansvaret for komiteen.
 
-EDIT:
+### §4 Komiteens virke
 
-### §4 Utligjengelighet av økonomiansvarlig og/eller bankom-leder
-
-**§4-1 Definisjon**
-
-Utilgjengelighet defineres ved avtredelse, erklært uegnet ved mistillitsforslag i Hovedstyret, oppsigelse av Online medlemskap eller fraflytting fra Trondheim.
-
-**§4-2 Komite og Hovedstyrets handlingsplan**
-
-(1) Dersom bankom-leder er utliggjengelig som definert under §4-1, vil nestleder i bankom midlertidig ta over administrasjonsansvaret for komiteen. Bankom skal innstille ny leder ved første anledning slik at leder og nestledervervet til en hver tid er fylt. 
-
-(2) Dersom økonomiansvarlig er utilgjengelig som definert under §4-1, plikter Hovedstyret å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
-
-### §5 Komiteens virke
-
-Komiteen har ansvar for at linjeforeningens økonomi er sunn og bærekraftig.
+Komiteen har ansvar for at linjeforeningens økonomi er bærekraftig og forvaltet på en god måte.
