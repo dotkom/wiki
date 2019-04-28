@@ -37,10 +37,20 @@ Det skal ved hjelp av de erfarne i komiteen holdes kurs i regnskapsføring, og "
 #### (6) Forsikringer
 Så lenge det er økonomisk forsvarlig, skal komiteen passe på at  linjeforeningens eiendeler av tilstrekkelig verdi er forsikret. 
 
-#### (7) Utilgjengelighet av økonomiansvarlig.
+#### (7) Utilgjengelighet av økonomiansvarlig og/eller bankom-leder.
 Om leder av banKom blir varig utilgjengelig, erklært uegnet ved mistillitsforslag i
 Hovedstyret, eller trer av, vil nestleder i banKom midlertidig ta over ansvaret for
 linjeforeningens økonomi. Hovedstyret plikter å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
+
+EDIT:  
+
+**§3-7-1 Definisjoner**
+
+Utilgjengelighet defineres ved avtredelse, erklært uegnet ved mistillitsforslag i Hovedstyret eller varig utilgjengelighet.
+
+a) Dersom bankom-leder er utliggjengelig som definert under §3-7-1, vil nestleder i bankom midlertidig ta over administrasjonsansvaret for komiteen. Bankom skal innstille ny leder ved første anledning slik at leder og nestledervervet til en hver tid er fylt. 
+
+b) Dersom økonomiansvarlig er utilgjengelig som definert under §3-7-1, plikter Hovedstyret å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
 
 ### §4 Komiteens virke
 
