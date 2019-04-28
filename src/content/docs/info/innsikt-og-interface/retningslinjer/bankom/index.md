@@ -42,16 +42,18 @@ Om leder av banKom blir varig utilgjengelig, erklært uegnet ved mistillitsforsl
 Hovedstyret, eller trer av, vil nestleder i banKom midlertidig ta over ansvaret for
 linjeforeningens økonomi. Hovedstyret plikter å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
 
-EDIT:  
+### §4 Utligjengelighet av økonomiansvarlig og/eller bankom-leder
 
-**§3-7-1 Definisjoner**
+**§4-1 Definisjon**
 
-Utilgjengelighet defineres ved avtredelse, erklært uegnet ved mistillitsforslag i Hovedstyret eller varig utilgjengelighet.
+Utilgjengelighet defineres ved avtredelse, erklært uegnet ved mistillitsforslag i Hovedstyret, oppsigelse av Online medlemskap eller fraflytting fra Trondheim.
 
-a) Dersom bankom-leder er utliggjengelig som definert under §3-7-1, vil nestleder i bankom midlertidig ta over administrasjonsansvaret for komiteen. Bankom skal innstille ny leder ved første anledning slik at leder og nestledervervet til en hver tid er fylt. 
+**§4-2 Komite og Hovedstyrets handlingsplan**
 
-b) Dersom økonomiansvarlig er utilgjengelig som definert under §3-7-1, plikter Hovedstyret å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
+(1) Dersom bankom-leder er utliggjengelig som definert under §4-1, vil nestleder i bankom midlertidig ta over administrasjonsansvaret for komiteen. Bankom skal innstille ny leder ved første anledning slik at leder og nestledervervet til en hver tid er fylt. 
 
-### §4 Komiteens virke
+(2) Dersom økonomiansvarlig er utilgjengelig som definert under §4-1, plikter Hovedstyret å avklare hvem som tar over ansvaret for linjeforeningens økonomi innen 14 dager.
+
+### §5 Komiteens virke
 
 Komiteen har ansvar for at linjeforeningens økonomi er sunn og bærekraftig.
