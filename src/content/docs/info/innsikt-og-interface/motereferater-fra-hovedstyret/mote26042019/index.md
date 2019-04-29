@@ -204,8 +204,7 @@ Benedicte: Har vi noe promomateriale?
 Henrik: Vi kan høre med Abakus. Det som gjenstår er bare å organiserer og så må vi hente ting og tang.
 
 ## 074 FIF - Sommerjobbsaken(11:15 - 10 min )
-
-Henrik: Hans største bekymring er karrieredagene og IT-dagene som er tidlig på høsten. Her kan bedriftene få inn studenter forløpende. 
+ 
 
 Foreslått løsning: Fristen for å søke skal ikke være tidligere en første oktober. 
 
