@@ -10,7 +10,7 @@ title: "Skjemaer"
 
 [attachment:185]
 
-[attachment:632]
+[attachment:632 title:"Avtale for utleie av utstyr"]
 
 ## Kvitteringsskjema
 
