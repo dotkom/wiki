@@ -59,7 +59,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 * L - leder  
 * K - kjelleransvarlig  
 * N - nestleder  
-* Ø - Økonomiansvarlig  
+* Ø - økonomiansvarlig  
 * V - kun på vårparten  
 * H - kun på høstparten  
 
