@@ -29,12 +29,14 @@ ArrKom til daglig
 ArrKom er arrangementskomitéen til Online og har som hovedansvar å
 arrangere sosiale tilstelninger for informatikkstudenter.
 
-Online arrangerer både tradisjonsrike fester, som Blåturen, og mer
+Online arrangerer både tradisjonsrike fester, som Immatrikuleringsball, og mer
 uformelle fester i løpet av skoleåret. Dette er et tilbud til deg slik
 at du kan ha det moro og knytte nye kontakter innad i linjeforeningen.
 
 Utenom dette arrangerer arrKom også flere turer i løpet av året, da
-blant annet ski-tur til Åre i Sverige og oppdagelsesferd til Tallinn.
+blant annet blåtur og ski-tur til Åre i Sverige.
+
+
 
 Underholdning på immballet
 -----------------
@@ -64,6 +66,11 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 |År   | Medlemmer |
 | --- | --------- |
+|2018 - 2019| **Johannes Kvamme(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eskil Hognestad, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Alis Wilson, Karen Dahl Aarhus, Lars Strømholm, Kaspar Paus Græsdal(H)|
+|2017 - 2018| **Edvard Gjessing Bakken(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eirik Kaldahl, Edvard Sjøblom, Eskil Hognestad, Resotharan Kanagaratnam, Kasper Klæboe Berg, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Anzhelika Seliverstova, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Fride Vaagland(H)|
+|2016 - 2017| **Sander Arnesen(L)**, Kasper Klæboe Berg(N), Marius Johan Holm Johansen(Ø), Edvard Sjøblom, Eirik Kaldahl, Resotharan Kanagaratnam, Johannes Kvamme, Heidi Brække, Eskil Hognestad, Eivind Rydningen, Svenn Grønbeck, Sondre Johan Widmark, Ingrid Skar, Anzhelika Seliverstova, Edvard Gjessing Bakken|
+|2015 - 2016| **Sondre Johan Widmark(L)**,  Ingrid Skar(N), Edvard Sjøblom(Ø), Leif Marius Sethne Reppen, Sander Arnesen, Eirik Kaldahl, Fredrik Anthonisen, Edvard Bakken, Silje Marie Tyrihjell, May Helen Storvik, Resotharan Kanagaratnam, Kasper Klæboe Berg|
+|2014 - 2015| **Marius Thingwall(L)**,  Marthe Sofie Øynes(N), Sondre Johann Widmark(Ø),  Leif Marius Sethne Reppen,  Tale Prestmo, Edvard Sjøblom(Ø), Sander Arnesen, Ingrid Skar, Eirik Kaldahl, Fredrik Anthonisen|
 |2015 - 2016| **Sondre Johan Widmark(L)**,  Ingrid Skar(N), Edvard Sjøblom(Ø), Leif Marius Sethne Reppen, Sander Arnesen, Eirik Kaldahl, Fredrik Anthonisen, Edvard Bakken, Silje Marie Tyrihjell, May Helen Storvik, Resotharan Kanagaratnam, Kasper Klæboe Berg|
 |2014 - 2015| **Marius Thingwall(L)**,  Marthe Sofie Øynes(N), Sondre Johann Widmark(Ø),  Leif Marius Sethne Reppen,  Tale Prestmo, Edvard Sjøblom(Ø), Sander Arnesen, Ingrid Skar, Eirik Kaldahl, Fredrik Anthonisen|
 |2013 - 2014| **Marius Thingwall(L)**,  Tale Prestmo(N),  Ivar Flakstad(Ø),  Marte J. Sæther,  Ingrid Kittelsen,  Marthe Sofie Øynes,  Ragnhild Seim, Caroline Odden,  Sondre Johann Widmark(Ø),  Gaute Lunde,  Leif Marius Sethne Reppen,  Thea Lerfaldet,  John H. Kolstad(Permitert),  Jim Frode Hoff(Permitert)|
