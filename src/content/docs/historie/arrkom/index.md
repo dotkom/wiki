@@ -54,7 +54,8 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 ## Medlemmer
 
-(Tabellen er noe mangelfull) . 
+(Tabellen er noe mangelfull) 
+ 
 * L - leder  
 * K - kjelleransvarlig  
 * N - nestleder  
