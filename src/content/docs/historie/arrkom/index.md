@@ -73,13 +73,13 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 |2014 - 2015| **Marius Thingwall(L)**,  Marthe Sofie Øynes(N), Sondre Johann Widmark(Ø),  Leif Marius Sethne Reppen,  Tale Prestmo, Edvard Sjøblom(Ø), Sander Arnesen, Ingrid Skar, Eirik Kaldahl, Fredrik Anthonisen|
 |2013 - 2014| **Marius Thingwall(L)**,  Tale Prestmo(N),  Ivar Flakstad(Ø),  Marte J. Sæther,  Ingrid Kittelsen,  Marthe Sofie Øynes,  Ragnhild Seim, Caroline Odden,  Sondre Johann Widmark(Ø),  Gaute Lunde,  Leif Marius Sethne Reppen,  Thea Lerfaldet,  John H. Kolstad(Permitert),  Jim Frode Hoff(Permitert)|
 |2012 - 2013|Marte J. Sæther,  Ingrid Kittelsen,  John H. Kolstad(NH),  Jim Frode Hoff (Ø),  Joakim Aune (permittert september 2011),  Anja S. Rønning,  Marius Thingwall(NV),  Mathilde Ø. Oftedal(permittert august 2012),  Juni Angelfoss,  Tale Prestmo,  Marthe Øynes,  Ivar Flakstad,  **Martin A. Midtsund(L)**,  Ragnhild Seim|
-|2011 - 2012|Marte J. Sæther,  Ingrid Kittelsen (Ø),  John H. Kolstad,  Jim Frode Hoff,  Joakim Aune (permittert september 2011),  Anja S. Rønning,  Lars Tovsen,  Mathilde Ø. Oftedal,  **Juni Angelfoss (L)**,  Ketil Ellertsen,  Magnus G. Hove,  André Knudsen (permittert vår 2012),  Martin A. Midtsund,  Jonathan Brynjar Hårek Laschet|
-|2010 - 2011|Steinar Hagen,  Ingrid Kittelsen,  John H. Kolstad,  Jim Frode Hoff,  Joakim Aune,  Anja S. Rønning,  **Lars Tovsen (L)**,  Mathilde Ø. Oftedal,  Juni Angelfoss,  Ketil Ellertsen,  Magnus G. Hove|
+|2011 - 2012|**Juni Angelfoss (L)**,  Marte J. Sæther,  Ingrid Kittelsen (Ø),  John H. Kolstad,  Jim Frode Hoff,  Joakim Aune (permittert september 2011),  Anja S. Rønning,  Lars Tovsen,  Mathilde Ø. Oftedal,    Ketil Ellertsen,  Magnus G. Hove,  André Knudsen (permittert vår 2012),  Martin A. Midtsund,  Jonathan Brynjar Hårek Laschet|
+|2010 - 2011| **Lars Tovsen (L)**, Steinar Hagen,  Ingrid Kittelsen,  John H. Kolstad,  Jim Frode Hoff,  Joakim Aune,  Anja S. Rønning,  Mathilde Ø. Oftedal,  Juni Angelfoss,  Ketil Ellertsen,  Magnus G. Hove|
 |2009 - 2010|Steinar Hagen,  Ingrid Kittelsen,  John H. Kolstad,  Hanne Christine Lund,  Joakim Aune,  Anja S. Rønning, **Lars Tovsen (L)**, Mathilde Ø. Oftedal,  Juni Angelfoss,  Kristian Laskemoen|
-|2008 - 2009|Steinar Hagen, Linn Melby Meyer,  Elisabeth Solheim,  **Hanne Christine Lund (L)**,  Joakim Aune,  Anja S. Rønning,  Lars Tovsen,  Wenche Meland,  Juni Angelfoss,  Kristian Oftedal|
+|2008 - 2009|**Hanne Christine Lund (L)**,  Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim,   Joakim Aune,  Anja S. Rønning,  Lars Tovsen,  Wenche Meland,  Juni Angelfoss,  Kristian Oftedal|
 |2007 - 2008|Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim,  **Hanne Christine Lund (L)**,  Birgitte Fidjeland|
 |2006 - 2007|Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim,  **Mats A. Ringstad (L)**|
-|2005 - 2006|Steinar Hagen,  Cheung Yuen Wong,  **Anders Brujordet (L)**,  Mats A. Ringstad (N),  Silje Myran,  Kristel Bræin,  Elen Østerås|
+|2005 - 2006|**Anders Brujordet (L)**, Steinar Hagen,  Cheung Yuen Wong,  Mats A. Ringstad (N),  Silje Myran,  Kristel Bræin,  Elen Østerås|
 |2004 - 2005|** Mari Lie Hæreid (L)/ Steinar Hagen(L)**,  Jarl Erik Schmidt,  Trond Martin Nyhus,  Mats A. Ringstad|
 |2003 - 2004|**Erik Olne (festsjef)**|
 |2002 - 2003|**Erik Olne (festsjef)**,  Morten Svendsen (K),  Kristoffer Strømsvåg,  Fredrik Wisløff,  Rodrigo San Martin|
