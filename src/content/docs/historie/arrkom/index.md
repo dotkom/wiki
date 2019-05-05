@@ -77,7 +77,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 |2010 - 2011| **Lars Tovsen (L)**, Steinar Hagen,  Ingrid Kittelsen,  John H. Kolstad,  Jim Frode Hoff,  Joakim Aune,  Anja S. Rønning,  Mathilde Ø. Oftedal,  Juni Angelfoss,  Ketil Ellertsen,  Magnus G. Hove|
 |2009 - 2010|**Lars Tovsen (L)**, Steinar Hagen,  Ingrid Kittelsen,  John H. Kolstad,  Hanne Christine Lund,  Joakim Aune,  Anja S. Rønning, Mathilde Ø. Oftedal,  Juni Angelfoss,  Kristian Laskemoen|
 |2008 - 2009|**Hanne Christine Lund (L)**,  Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim,   Joakim Aune,  Anja S. Rønning,  Lars Tovsen,  Wenche Meland,  Juni Angelfoss,  Kristian Oftedal|
-|2007 - 2008|Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim,  **Hanne Christine Lund (L)**,  Birgitte Fidjeland|
+|2007 - 2008|**Hanne Christine Lund (L)**,  Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim,  Birgitte Fidjeland|
 |2006 - 2007|**Mats A. Ringstad (L)**, Steinar Hagen,  Linn Melby Meyer,  Elisabeth Solheim|
 |2005 - 2006|**Anders Brujordet (L)**, Steinar Hagen,  Cheung Yuen Wong,  Mats A. Ringstad (N),  Silje Myran,  Kristel Bræin,  Elen Østerås|
 |2004 - 2005|** Mari Lie Hæreid (L)/ Steinar Hagen(L)**,  Jarl Erik Schmidt,  Trond Martin Nyhus,  Mats A. Ringstad|
