@@ -281,8 +281,6 @@ Benedicte: Jeg sier kjør på og lag alle sammen nå. Prosjekter-posten skal st�
 
 Henrik: Starte med prototype eller kjøre på? 
 
-**Avstemning: 4 vil ha prorotype først, 4 vil lage alle med en gang.**
-
 Henrik bestemmer at vi prøver en prototype først. 
 
 Om vi må uansett kjøpe mye stoff kan vi kjøre på å lage alle.
