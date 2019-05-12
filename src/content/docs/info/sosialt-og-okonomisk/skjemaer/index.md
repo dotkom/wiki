@@ -18,7 +18,7 @@ title: "Skjemaer"
 - Alle de hvite rutene fylles ut (Bankkort er kun om du har brukt et av Online sine kort)
 - For teambuildinger eller lignende støtte må navn på alle deltakere oppføres i kommentarfeltet
 - Dato er dato for signert/innsendt skjema og må inneholde årstall
-- Alle kvitteringer må legges med (helst i en og samme PDF-fil)** Usikker på om du har en gyldig kvittering? Sjekk kravene [i Bokføringsloven §5-1-1](https://lovdata.no/forskrift/2004-12-01-1558/§5-1-1)**  
+- Alle kvitteringer må legges med (helst i en og samme PDF-fil)Det er viktig at kvitteringen din er gyldig slik at du kan få pengene tilbake raskest mulig. Ser du ord som "kvittering", "receipt", "faktura" eller "invoice" på bilaget ditt skal den være gyldig** Usikker på om du har en gyldig kvittering? Sjekk kravene [i Bokføringsloven §5-1-1](https://lovdata.no/forskrift/2004-12-01-1558/§5-1-1)**  
 - Signaturen nederst må være synlig
 - Sendes på epost til [kvittering@online.ntnu.no](mailto:kvittering@online.ntnu.no) med komiteen det gjelder i []-klammer i emnefeltet (Eks: [Trikom] Kvittering for trivsel)
 - Meld fra til økonomiansvarlig i din komité
