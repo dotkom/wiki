@@ -133,7 +133,7 @@ Kaja: Så fort folk får kortene sine må de si opp de gamle, gjøres via banken
 [ Vi har en del saker som ikke er helt ferdige enda. Vi burde lage en plan for hvordan vi skal få det ferdig før sommeren eller iallefall få oversikt på hva som må gjøres og hvem som tar ansvar for å følge det opp.]
 
 ### Kompileringen
-Henrik: Kompilering til høsten. HS har ansvar for at det gjennomføres. Må booke starwars guys. Sett på alternativer til rom. Mulig kompileringsansvarlig, 
+Henrik: Kompilering til høsten. HS har ansvar for at det gjennomføres. Sett på alternativer til rom. Mulig kompileringsansvarlig, 
 Henrik sammen med August finner ut arbeidsfordeling mellom HS og kompileringsansvarlig 
 
 ### Uketoget
