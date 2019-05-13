@@ -25,19 +25,19 @@ Tilhørende wikisider
 
 ## Linjeforeninger på NTNU Kalvskinnet (tidligere HiST)
 
-|Linjeforening|BrReg|Linje|Kontor|Epost|Facebook|Avis|
-|---|---|---|---|---|---|---|
-| [Fraktur](http://www.fraktur.no) (St.Olav) | | Radiograf | | post@fraktur.no | |
-| [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | leder@kom.hist.no |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
-| [Logitas](http://www.logitas.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | styret@logitas.no | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
-| [MiT](http://mit.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | Kjelleren, Maskinbygget i Sverresgate 10, rom nr. 034 | leder@mit.teknikersamfunn.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
-| [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
-| [Nutrix](http://nutrix.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | nutrixlinjeforening@gmail.com | [Page](http://fb.com/pages/Nutrix/297838347011022) |
-| [SALT](http://studentalt.no/)| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912414094) | Lærerutdanning | Campus Rotvoll, E122 | postmottak@studentalt.no | [Page](https://www.facebook.com/studentalt/) | |
-| [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Økonomi | | post@sftoh.no | |[Rustblekka](https://www.facebook.com/Rustblekka-Handelshøyskolen-i-Trondheim-472874276071068/)|
-| Cibus | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | Sverres gate 12 | Cibus.mattek@gmail.com | [Page](http://fb.com/TeknoTunga) |
-| [TIHLDE](http://www.tihlde.org) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Drift av datasystemer, IT-støttet bedriftsutvikling og IKT-basert samhandling | Sverres gate 14, rom 106 | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/) |
-| [Tim & Shænko](http://bygging.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Sverres gate 14, rom 205 | styret@bygging.no | [Group](http://fb.com/groups/220828851361570/) |
+|Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Epost|Facebook|Avis|
+|---|---|---|---|---|---|---|--|
+| [Fraktur](http://www.fraktur.no) (St.Olav) | | Radiograf | | | post@fraktur.no | |
+| [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | | leder@kom.hist.no |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
+| [Logitas](http://www.logitas.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | | styret@logitas.no | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
+| [MiT](http://mit.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | | Kjelleren, Maskinbygget i Sverresgate 10, rom nr. 034 | leder@mit.teknikersamfunn.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
+| [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
+| [Nutrix](http://nutrix.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | | | nutrixlinjeforening@gmail.com | [Page](http://fb.com/pages/Nutrix/297838347011022) |
+| [SALT](http://studentalt.no/)| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912414094) | Lærerutdanning | | Campus Rotvoll, E122 | postmottak@studentalt.no | [Page](https://www.facebook.com/studentalt/) | |
+| [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Økonomi | | | post@sftoh.no | |[Rustblekka](https://www.facebook.com/Rustblekka-Handelshøyskolen-i-Trondheim-472874276071068/)|
+| Cibus | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | Sverres gate 12 | Cibus.mattek@gmail.com | [Page](http://fb.com/TeknoTunga) |
+| [TIHLDE](http://www.tihlde.org) (1993) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Digital Forretningsutvikling, Digital Infrastruktur og Cybersikkerhet, og Digital Samhandling | Styrebånd (blå med sølvkant) | Sverres gate 14, rom 106 | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/), [Group](https://www.facebook.com/groups/507122389791558/) | Tøddel
+| [Tim & Shænko](http://bygging.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | | Sverres gate 14, rom 205 | styret@bygging.no | [Group](http://fb.com/groups/220828851361570/) |
 
 _1. = "Brygghuset" ved Leütenhaven/Trøndelag Teater_
 
