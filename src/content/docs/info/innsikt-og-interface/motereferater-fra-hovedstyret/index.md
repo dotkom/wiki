@@ -7,7 +7,6 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2019-05-06](mote06052019-kompilering-uketoget-og-sommerfest) 
-- [2019-05-06](mote06052019) 
 - [2019-04-26](mote26042019) 
 - [2019-04-08](mote04082019) 
 - [2019-04-01](mote01042019)
