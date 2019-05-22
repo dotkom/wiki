@@ -16,7 +16,7 @@ Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https
 
 I 2000 fikk Online og [Volvox & Alkymisten](http://www.volvox.no/) tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
 
-Senere i 2003 ble [Delta](https://www.deltahouse.no/) med og da Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen og navnet på Kjelleren ble Realfagskjelleren.
+Senere i 2003 ble [Delta](https://www.deltahouse.no/) med og navnet på kjelleren ble Realfagskjellern, da Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen.
 
 Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. Illøpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
 
