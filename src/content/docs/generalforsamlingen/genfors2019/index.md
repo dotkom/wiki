@@ -10,6 +10,11 @@ title: "Generalforsamlingen 2019"
 * [2019 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2019/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2019 Kandidater](/wiki/online/generalforsamlingen/genfors2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
+## Ferdige signerte dokumenter fra årets generalforsamling 
+Onlines vedtekter: [attachment:635]  
+Onlines fonds vedtekter: [attachment:637]  
+Referat: [attachment:636]
+
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
