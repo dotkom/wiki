@@ -20,8 +20,7 @@ Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise ti
 
 2018 ble det også inngått et samarbeid med IPIT der formålet er å fremme akademisk og kulturelt læring. Det er også et mål at flere skal søke utveksling til Kina. 
 
-
-
+Turen i 2020 vil gå til Sør-Korea. Byer og bedrifter er ikke bestemt for øyeblikket.
 
 #### Medlemmer
 
@@ -29,6 +28,10 @@ L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
 
 |År|Reisemål|Medlemmer|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|
+
+2019-2020, Sør-Korea
+
+  - **Liam Crouch (L)** | Nina Duong (NL) | Silje Villandseie (Ø) | Andreas Jonassen | Mathias Brekkan |
 
 2018-2019, Kina
 
