@@ -2,7 +2,7 @@
 title: "Forskjellen på datateknologi og informatikk"
 ---
 
-Ofte blir linjene Datateknologi (5 årig master) og Informatikk på NTNU Gløshaugen sammenliknet. Her er en liten tekst av Aslak Hollund som svar på dette spørsmålet fra en [reddit-tråd](https://www.reddit.com/r/ntnu/comments/cepyiq/bachelor_informatikk_kontra_master_datateknologi/eu4adz5/).
+Ofte blir linjene Datateknologi (5 årig master) og Informatikk (3 årig bachelor + 2 årig master) på NTNU Gløshaugen sammenliknet. Her er en liten tekst av Aslak Hollund som svar på dette spørsmålet fra en [reddit-tråd](https://www.reddit.com/r/ntnu/comments/cepyiq/bachelor_informatikk_kontra_master_datateknologi/eu4adz5/).
 
 Dette er en kort oppsummering og kan fint brukes som sammenlikningsgrunnlag for linjene. Avhengig av hvem du spør så kommer nok nyansene til å endre seg litt, men dette er et godt grunnlag.
 
