@@ -4,6 +4,8 @@ title: "Fadderukene 2019"
 
 Informasjonskanal for fadderukene 2019
 
+* OBS, denne siden er under konstruksjon og mer informasjon kommer! *
+
 * [Arrangementer](https://online.ntnu.no/wiki/online/fadderukene/2019-/arrangementer/)  
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2019-/faddere/)  
 * [For faddere](https://online.ntnu.no/wiki/online/fadderukene/2019-/fadder/) (kun faddere har tilgang) 
