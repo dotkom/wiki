@@ -22,4 +22,6 @@ Om du har hørt noe om fadderuka fra før, så er det sikkert at det er en stor 
 
 ### Bosted
 
-Hvis du ikke enda har funnet deg et sted å bo, er Studentsamskipnaden i Trondheim (SIT) et godt sted å starte. SiT har studenthybler over hele Trondheim og prioriterer de yngste studentene. Det er også mulighet til å finne seg noe privat, men man må være litt OBS på at alle utleiere ikke er så enkle å ha med å gjøre. Det er digg å bo i nærheten av Gløshaugen (Berg, Singsaker, Elgeseter, Lerkendal,
+Hvis du ikke enda har funnet deg et sted å bo, er Studentsamskipnaden i Trondheim (SIT) et godt sted å starte. SiT har studenthybler over hele Trondheim og prioriterer de yngste studentene. Det er også mulighet til å finne seg noe privat som ofte kan være bedre, men man må være litt OBS på at alle utleiere ikke er så enkle å ha med å gjøre.
+
+Hvis du lurer på noe mer, er det sikkert noen andre som også gjør det. Send gjerne spørsmål til hovedstyret@online.ntnu.no så skal vi oppdatere artikkelen.
