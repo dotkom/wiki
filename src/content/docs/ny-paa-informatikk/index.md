@@ -2,8 +2,6 @@
 title: "Ny på Informatikk"
 ---
 
-#Heisann! 
-
 Gratulerer med å skulle starte på informatikk ved NTNU. Denne artikkelen skal fortelle deg akkurat det du trenger å vite før du starter på NTNU. 
 
 ### Hva er Online? 
