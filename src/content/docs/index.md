@@ -18,7 +18,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Kompendier](/wiki/online/info/faglig/kompendier/) - Studentskapte kompendier til emner.
 
 ### [Sosialt & økonomisk](/wiki/online/info/sosialt-og-okonomisk/)
-
+- [Ny på informatikk] (/wiki/online/ny-paa-informatikk/)
 - [Ny student?](/wiki/online/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
 - [Onlines daljer](/wiki/online/daljer) - Oversikt over Online sine daljer
 - [Hvordan bære daljer](https://online.ntnu.no/wiki/online/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
