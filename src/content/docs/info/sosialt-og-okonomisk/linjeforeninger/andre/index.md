@@ -27,7 +27,7 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Campus|Kjennetegn ved styremedlemmer|Kontor|Avis|Sosiale medier|Boksalg|
 |---|---|---|---|---|---|---|---|---|
-|[BARIS](mailto:barisstyret@outlook.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Barnevernspedagogikk| Tunga | | | |[Facebookside](www.facebook.com/linjeforeningenbaris), [Instagram](www.instagram.com/linjeforeningenbaris) |
+|[BARIS](mailto:barisstyret@outlook.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Barnevernspedagogikk| Tunga | | | |[Facebookside](https://www.facebook.com/linjeforeningenbaris), [Instagram](https://www.instagram.com/linjeforeningenbaris) |
 
 
 ## Masterforeninger
