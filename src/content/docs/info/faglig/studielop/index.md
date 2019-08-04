@@ -10,4 +10,4 @@ Studieløpet ditt vil være avhengig av studiehåndboka det året du begynner p�
 For å se hvilket studieløp som er anbefalt og hvilke fag som gjelder for ditt bachelorstudie så kan du se [her](http://www.ntnu.no/studier/studieplan-realfag#programmeCode=BIT).
 
 ### Master
-For å se hvilke masterretninger som krever hvilke fagkombinasjoner og hvilke fag du må/bør ta under din tid som masterstudent bør du sjekke ut denne [siden](http://www.ntnu.no/studier/studieplan-realfag#programmeCode=MIT).
+For å se hvilke masterretninger som krever hvilke fagkombinasjoner og hvilke fag du må/bør ta under din tid som masterstudent bør du sjekke ut denne [siden](http://www.ntnu.no/studier/studieplan-realfag#programmeCode=MSIT).
