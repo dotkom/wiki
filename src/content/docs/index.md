@@ -24,7 +24,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Hvordan bære daljer](https://online.ntnu.no/wiki/online/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
 - [Ditt liv som Onliner](/wiki/online/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
 - [Mat for lange dager på lesesalen](/wiki/online/info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen/) - Her finner du oversikt over take away
-- [IRC](/wiki/online/info/sosialt-og-okonomisk/irc/) - Guide til å komme deg inn på Onlines chatterom, åpent for alle
 - [Lånekassen](/wiki/online/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
 - [Linjeforeninger](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/) - Kjekt å vite om linjeforeningene i Trondheim
 - [Studentsanger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/) - De tradisjonsrike sangene sunget av NTNU-studenter gjennom tidene!
@@ -38,8 +37,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
 - [Mailoppsett på mobil](/wiki/online/info/trivia/mailoppsett-pa-mobil/) - Sett opp @stud.ntnu.no -mailen din på mobiltelefonen din
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
-- [Scanner på kontoret](/wiki/online/info/trivia/scanner-pa-kontoret/) - Eller du kan laste ned appen DocScan
-- [Installasjon av IDI sine nettverksprintere på Windows 8](/wiki/online/info/trivia/nettverksprintere-win8/) - Ikke alltid like lett å sette opp
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
 - [Lage ny bruker på Onlineweb](/wiki/online/info/trivia/ny_bruker)
@@ -54,7 +51,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
 - [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
-- [Slik lager du bruker på Onlineweb](/wiki/online/slik_lager_du_bruker_pa_onlineweb/) - Det er helt sant
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
 - [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
