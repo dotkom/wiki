@@ -48,9 +48,10 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 | [Psykologidagen](http://psykolosjen.no/) | [Psykolosjen](http://psykolosjen.no/) | Mars | Dragvoll | [Page](http://fb.com/pages/Psykologidagen/274020162748907) |
 | [Realfagdagen](http://realfagdagen.no/) | [Volvox](http://www.volvox.no,) [Delta](http://org.ntnu.no/delta,) [Naturviterne](http://naturviterne.no) | Mars | Realfagbygget | |
 | [Rekrutteringsdagen](http://www.rekrutteringsdagen.no/¨)| 3. klasse kybernetikk | Februar | Glassgården | [Page](http://fb.com/pages/Rekrutteringsdagen/158466262823) |
+|[Tech talks](http://techtalks.no/)| Online | Februar | Realfagbygget |
 | [Teknodagen](http://smorekoppen.no/teknodagen/) | 3. klasse maskin | Februar |  Realfagbygget | [Page](http://fb.com/teknodagen) |
 | [VIVO](http://fb.com/VIVOkarrieredag) | [Volvox & Alkymisten](http://volvox.no) | Januar | Realfagbygget | [Page](http://fb.com/VIVOkarrieredag) |
-|[Tech talks](http://techtalks.no/)| Online | Februar |
+
 
 ## Bedriftsforeninger
 
