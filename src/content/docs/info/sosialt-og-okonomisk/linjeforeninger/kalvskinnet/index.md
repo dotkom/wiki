@@ -34,7 +34,7 @@ Tilhørende wikisider
 | [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
 | [SALT](https://www.saltntnu.no/)| [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912414094) | Lærerutdanning | Styrebånd (rødt med hvite kantstriper) | [BR1 066](http://bit.ly/2HrjOYG) | postmottak@studentalt.no | [Page](https://www.facebook.com/studentalt/) | |
 | [STØH](http://sftoh.no )| [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Økonomi | | | post@sftoh.no | |[Rustblekka](https://www.facebook.com/Rustblekka-Handelshøyskolen-i-Trondheim-472874276071068/)|
-| Cibus | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | Sverres gate 12 | Cibus.mattek@gmail.com | [Page](http://fb.com/TeknoTunga) |
+| Cibus | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998378125) | Matteknologi | | Sverres gate 12 | Cibus.mattek@gmail.com | [Page]https://www.facebook.com/cibusmattek/) |
 | [TIHLDE](http://www.tihlde.org) (1993) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Digital Forretningsutvikling, Digital Infrastruktur og Cybersikkerhet, og Digital Samhandling | Styrebånd (blå med sølvkant) | Sverres gate 14, rom 106 | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/), [Group](https://www.facebook.com/groups/507122389791558/) | Tøddel
 | [Tim & Shænko](http://bygging.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | | Sverres gate 14, rom 205 | styret@bygging.no | [Group](http://fb.com/groups/220828851361570/) |
 
