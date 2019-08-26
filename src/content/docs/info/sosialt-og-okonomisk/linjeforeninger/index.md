@@ -59,6 +59,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Timini](http://timini.no) (2006) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990373418) | NanoTek | Styrebånd (tynne turkise med sølvlenke) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7596&desttype=poi) | inTimini | [Page](http://fb.com/TiminiNTNU) | |
 | [Vivas](http://teknikersamfunn.no/vivas/) (2012) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=898893952) | Fornybar energi | Styrebånd (blå med hvit stripe) | [Strømningsteknisk](https://use.mazemap.com/#v=1&zlevel=-1&campusid=1&campuses=ntnu&left=10.4038033&right=10.4063782&top=63.4187048&bottom=63.4181419&sharepoitype=poi&sharepoi=35602) |  | [Page](https://www.facebook.com/VivasNTNU/) | |
 | [Volvox & Alkymisten](http://volvox.no) (1961) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992357002) | Kjemi, Biologi, BioTek | Styrebånd (grønn med gullkant) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7594&desttype=poi) | Nukleotidende | [Page](http://fb.com/volvoxogalkymisten) | [Boksalg](http://fb.com/groups/462966773725320) |
+| [Fraktur](www.facebook.com/frakturno/) (2009) | | Radiograf | | Olav Kyrres gate 9 | | [Page](www.facebook.com/frakturno/) | |
 
 ## Masterforeninger
 
