@@ -2,9 +2,7 @@
 title: "Vi vil ha flere…"
 ---
 
-En artig sang hvor annet hvert vers blir sunget av kvinner og menn. Vi hørte den først hos [Alf][] (arkitekt), en lystig kveld på Skiboli. Noen trivelige kvelder senere har vi fått  
-lappet sammen det vi kan fra diverse studenter. Sangen er tydelig vis sporadisk kjent i studentmiljøer over hele  
-skandinavia.
+En artig sang hvor annet hvert vers blir sunget av kvinner og menn. Vi hørte den først hos [Alf][] (arkitekt), en lystig kveld på Skiboli. Noen trivelige kvelder senere har vi fått lappet sammen det vi kan fra diverse studenter. Sangen er tydelig vis sporadisk kjent i studentmiljøer over hele skandinavia.
 
 \_Mel: [Milord\_][]
 
