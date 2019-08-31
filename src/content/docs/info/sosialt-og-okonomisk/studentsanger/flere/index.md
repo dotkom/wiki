@@ -2,11 +2,8 @@
 title: "Vi vil ha flere…"
 ---
 
-En artig sang hvor annet hvert vers blir sunget av kvinner  
-og menn. Vi hørte den først hos [Alf][] (arkitekt), en lystig  
-kveld på Skiboli. Noen trivelige kvelder senere har vi fått  
-lappet sammen det vi kan fra diverse studenter. Sangen er  
-tydelig vis sporadisk kjent i studentmiljøer over hele  
+En artig sang hvor annet hvert vers blir sunget av kvinner og menn. Vi hørte den først hos [Alf][] (arkitekt), en lystig kveld på Skiboli. Noen trivelige kvelder senere har vi fått  
+lappet sammen det vi kan fra diverse studenter. Sangen er tydelig vis sporadisk kjent i studentmiljøer over hele  
 skandinavia.
 
 \_Mel: [Milord\_][]
@@ -104,7 +101,7 @@ Og kom hit med ditt krus
 så skal du få min jus  
 og ikke syng din blues.  
 Du skal lev’ i sus og dus  
-kom hit og drikk min satt  
+kom hit og drikk min saft  
 så skal du få en kraft  
 som kun kan komme fra  
 et skikkelig mandig skaft.  
