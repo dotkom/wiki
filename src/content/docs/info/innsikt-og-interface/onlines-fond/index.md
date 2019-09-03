@@ -7,7 +7,7 @@ Onlines fondstyre
 
 |År|Økonomiansvarlig Online|Onlinemedlem 1|Onlinemedlem 2|Tidligere HS 1|Tidligere HS 2|Ridder 1|Ridder 2|
 --|--|--|--|--|--|--|--|
-|2019|Kaja Sofie Lundgaard|Nicolai Andre Dalaaker|Sigurd Oxaas Wie|Christian Nyvoll|Martin Bjerke|Christoffer Skar Lofsberg|Sverre Bjørke|
+|2019|Kaja Sofie Lundgaard|Nicolai Andre Dalaaker|Sigurd Oxaas Wie (Leder)|Christian Nyvoll|Martin Bjerke|Christoffer Skar Lofsberg|Sverre Bjørke|
 |2018|Christian Nyvoll|Tord Standnes|Sigurd Oxaas Wie|Sondre Widmark|Taran Ruge|Henning Wold|Sverre Bjørke|
 |2017|Christoffer Skar Lofsberg|Tord Standnes|n/a|Sondre Widmark|n/a|Henning Wold|n/a|
 
