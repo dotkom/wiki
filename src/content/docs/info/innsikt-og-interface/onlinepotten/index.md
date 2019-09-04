@@ -26,9 +26,10 @@ Det anbefales å søke om det antatte maksimale antall deltakere, så får man h
 ### Utbetaling av tildelt støtte
 Hvis du eller dere har fått tildelt støtte fra Onlinepotten skal workshoppen/arbeidet/arrangementet utføres som beskrevet i søknaden før man kan få refundert de tildelte pengene.
 
-Utbetaling skjer ved å fylle ut kvitteringsskjema på kvittering.online.ntnu.no for hele eller så mye som er brukt av den tildelte summen. Eventuelle kostnader over den tildelte summen må dekkes av deltakerne selv. Merk at man kun får støtte for det antallet personer som faktisk deltar.
+Utbetaling skjer ved å fylle ut kvitteringsskjema på kvittering.online.ntnu.no for hele eller så mye som er brukt av den tildelte summen. Eventuelle kostnader over den tildelte summen må dekkes av deltakerne selv. **Merk at man kun får støtte for det antallet personer som faktisk deltar.**
 
 **Ansvarlig enhet:** Hovedstyret  
-**Anledning:** Onlinepotten + formålet
+**Anledning:** Onlinepotten + formålet  
+**Kommentar:** Antall oppmøtte og annen relevant informasjon.  
 
 Send så skjemaet til bankom.
