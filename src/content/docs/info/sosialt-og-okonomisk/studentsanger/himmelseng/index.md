@@ -148,7 +148,7 @@ hun ville bli min kone,
 men jeg lurte'a ved alteret  
 og gifta'a bort til Jone!  
 
-_Kringlebotns Vers
+_Kringlebotns Vers_
 
 Jeg møtte engang ei nablajente,
 Ei som her Birgitte.
