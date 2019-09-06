@@ -148,6 +148,12 @@ hun ville bli min kone,
 men jeg lurte'a ved alteret  
 og gifta'a bort til Jone!  
 
+_Kringlebotns Vers
+
+Jeg møtte engang ei nablajente,
+Ei som her Birgitte.
+Hu fikk hjelp med øvinga,
+Og jeg fikk Nabla-fitte.
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
 
