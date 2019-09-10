@@ -28,6 +28,14 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 ## Onlinere i Kjellerstyret
 
 ###2018/2019
+* Sigurd Oxaas Wie
+* Sander Lindberg  (Kjellersjef)
+* Nicolai Dalaaker (Kjellerkontakt)
+* Emil Hjermstad
+* Marius Lerstein
+
+
+###2018/2019
 * Sigurd Oxaas Wie (Økonomisjef)
 * Sander Lindberg  (Kjellerkontakt)
 * Ida Høyland
