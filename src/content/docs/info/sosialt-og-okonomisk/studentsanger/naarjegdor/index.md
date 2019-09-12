@@ -55,13 +55,13 @@ det blir ingen prestetale når jeg dør.
 Du skal få min gamle sykkel når jeg dør,  
 du skal få min gamle sykkel når jeg dør,  
 for de siste kilo meter,  
-tar jeg tandem med St. Peter ,  
+tar jeg tandem med St. Peter,  
 du skal få min gamle sykkel når jeg dør.
 
-Jeg skal feste med St.Peter når jeg dør,  
-jeg skal feste med St.Peter når jeg dør,  
+Jeg skal feste med St. Peter når jeg dør,  
+jeg skal feste med St. Peter når jeg dør,  
 står jeg på som jeg pleier,  
 kommer han på ville veier,  
-jeg skal feste med St.Peter når jeg dør.
+jeg skal feste med St. Peter når jeg dør.
 
   [Aasmund Nordstoga - Det er meg det samma kor eg havne når eg daue]: http://www.youtube.com/watch?v=TmyzHq1AY2U
