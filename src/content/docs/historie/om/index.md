@@ -244,6 +244,10 @@ kaffedrikking.
 
 ## Hovedstyrer
 
+|År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|2019v-2020v| August Solvang |Henrik Liodden|Kaja Lundgaard|Alis Wilson|Sigrun Nummedal|Ole Anders Stokker|Andreas Amundsen|Benedicte Myrvoll|Silje Moksnes|Emil Schrøder (ikke valgt på genfors)|Mathias Fossum (ikke valgt på genfors)|
+
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
 |---|---|---|---|---|---|---|---|---|---|---|
 |2018v-2019v| Aslak Hollund |Christoffer Lofsberg|Christian Nyvoll|Johannes Kvamme| Adrian Thompson|Jakob Westermoen|Andreas Aursand|Hanne Brynildsrud|Pål-Edward Larsen|Endre Ulberg (ikke valgt på genfors)|
