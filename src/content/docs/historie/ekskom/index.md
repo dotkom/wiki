@@ -26,12 +26,9 @@ Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise ti
 
 L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
 
-|År|Reisemål|Medlemmer|
-|---|---|---|---|---|---|---|---|---|---|---|---|---|
+2019-2020, Sør-Korea, Japan
 
-2019-2020, Sør-Korea
-
-  - **Liam Crouch (L)** | Nina Duong (NL) | Silje Villandseie (Ø) | Andreas Jonassen | Mathias Brekkan |
+  - **Liam Svanåsbakken Crouch (L)** | Nina Duong (NL) | Silje Villandseie (Ø) | Andreas Jonassen | Mathias Brekkan |
 
 2018-2019, Kina
 
