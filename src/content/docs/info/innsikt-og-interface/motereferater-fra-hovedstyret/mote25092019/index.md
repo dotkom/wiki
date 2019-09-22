@@ -2,7 +2,7 @@
 title: "Møte"
 ---
 
-*Møtetidspunkt:** Onsdag, 14:15
+**Møtetidspunkt:** Onsdag, 14:15
 
 **Sted:** E4-107
 
@@ -28,11 +28,11 @@ title: "Møte"
 
 ## Innsjekk (14:15 - 2 min)
 
-## 155 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
+## 168 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
 
-## 156 Gjøremål fra forrige gang (14:18 - 2 min)
+## 169 Gjøremål fra forrige gang (14:18 - 2 min)
 
-## 157 Status for komiteene (14:20 - 20 min)
+## 170 Status for komiteene (14:20 - 20 min)
 
 #### Arrkom, med velkom:
 
@@ -68,17 +68,17 @@ title: "Møte"
 
 #### RFK:
 
-## 158 Interkom (14:40 - 10 min)
+## 171 Interkom (14:40 - 10 min)
 
-## 159 Sosiale Medier (14:50 - 10 min)
+## 172 Sosiale Medier (14:50 - 10 min)
 
 [Hovedstyret ser på nye måter å promotere, og har fått høre om en ting som heter sosiale medier. Hvordan skal vi bruke det ]
 
-## 123 Øke Teambuildingstøtten (15:00 - 10 min)
+## 173 Øke Teambuildingstøtten (15:00 - 10 min)
 
 [Online eksisterer på grunn av det arbeidet som komitemedlemmene legger ned. Det har kommet inn et forslag om å øke Teambuildingstøtten fra 100,- kr til 200,- per medlem. Denne avgjørelsen vil gjelde for budsjettet til neste semester]
 
-## 312 Åpent punkt (15:10 - 10 min)
+## 174 Åpent punkt (15:10 - 10 min)
 
 [Her er et åpent eventueltpunkt hvor gjester kan ta opp saker som ikke er sendt inn på forhånd]
 
