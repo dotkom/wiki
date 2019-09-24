@@ -7,13 +7,13 @@ Siden det er en del som gjerne ønsker å ha CVen sin på engelsk så har vi uta
 ### Engelske titler på grupperingene
 
 -   **Linjeforeningen Online:** Student organization, Online
--   **arrKom:** Social event committee
--   **banKom:** Banking and finance committee
--   **bedKom:** Business relations committee
--   **dotKom:** System development and administration committee
--   **fagKom:** Academic courses committee
--   **proKom:** Design and publication committee
--   **triKom:** Office management committee
+-   **Arrkom:** Social event committee
+-   **Bankom:** Banking and finance committee
+-   **Bedkom:** Business relations committee
+-   **Dotkom:** System development and administration committee
+-   **Fagkom:** Academic courses committee
+-   **Prokom:** Design and publication committee
+-   **Trikom:** Office management committee
 
 #### Leder
 
@@ -28,7 +28,7 @@ head**. Eks:
 
 -   Deputy head of the Banking and finance committee
 
-#### Komitemedlem
+#### Komitémedlem
 
 Ved referering til stillingen som et komitemedlem bruker man uttrykket
 **Member**. Eks:
@@ -42,4 +42,4 @@ Ved referering til stillingen som et komitemedlem bruker man uttrykket
     magazine Offline)
 -   **Redaksjon:** Editorial staff
 -   **Eldsterådet:** Council of elders
--   **pangKom:** Alumni
+-   **Pangkom:** Alumni
