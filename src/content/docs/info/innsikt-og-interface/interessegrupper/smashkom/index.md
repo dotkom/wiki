@@ -6,10 +6,9 @@ Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt 
 
 Å være medlem i gruppa er i grunn bare symbolsk, da alle får lov til å spille spillet, men dersom man ønsker sterkt å tre inn i rekkene i denne magiske gruppa er det selvfølgelig tillatt. Da kontakt med en av våres eksiterende medlemmer for evaluering og akseptanse. 
 
-Nåværende medlemmer og stillinger
----------------------------------
-
-Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (18. desember 2017 19.23.15).
+## Kontakt
+Henrik Liodden - henrik.liodden@online.ntnu.no
+Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
 
 
