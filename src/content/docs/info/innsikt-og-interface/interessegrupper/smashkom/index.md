@@ -13,10 +13,9 @@ Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (18. desem
 
 
 
-### Litt historiskk
+## Litt historiskk
 
-Tidligere medlemmer og hedersgjester
-------------------------------------
+### Tidligere medlemmer og hedersgjester
 - **Tidl. Leder:** Fride "Kirby" S
 - **Tidl. Leder:** Thomas "Supersmash" G.
 - **Tidl. Nestleder:** Fredrik "Laz0o0or" B.
@@ -25,8 +24,7 @@ Tidligere medlemmer og hedersgjester
 -  Kristiane "Toon Link" A. W.
 
 
-Historie
---------
+### Historie
 
 Gruppa ble hadde en spe begynnelse og ble påtenkt av de grunnleggende medlemmene da de kastet bort nærmere seks årsverk rundt eksamensperioden våren 2016. Det ble forfattet og sendt en søknad til Hovedstyret den 14. mai 2016 20:38:22. Søknaden kan dere se under i sin helhet.
 
