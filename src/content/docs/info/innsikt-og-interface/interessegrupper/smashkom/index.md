@@ -11,38 +11,19 @@ Nåværende medlemmer og stillinger
 
 Under er en liste over de medlemmene gruppa har i skrivende øyeblikk (18. desember 2017 19.23.15).
 
-- **Leder:** Fride "Kirby" S
--  Kristiane "Toon Link" A. W.
+
+
+### Litt historiskk
 
 Tidligere medlemmer og hedersgjester
 ------------------------------------
-
+- **Tidl. Leder:** Fride "Kirby" S
 - **Tidl. Leder:** Thomas "Supersmash" G.
 - **Tidl. Nestleder:** Fredrik "Laz0o0or" B.
 - **Tidl. Ape:** Håkon "Ape" G.
 -  Kristian "Kristiane" E.
+-  Kristiane "Toon Link" A. W.
 
-Retningslinjer
---------------
-
-### §1 Gruppens formål
-
-Være et sosialt samlingspunkt for Onlinere. Spille Super Smash Bros. Ofte. Masse. Hele tiden.
-
-### §2 Gruppens eksistens
-
-Komiteen eksisterer KUN i perioden hvor det er en Nintendo Wii U eller Nintendo 64 på kontoret med tilhøre Super Smash Bros. spill. Om konsollen, eller spillet, fjernes fra kontoret vil gruppa opphøre innen 69 dager, dersom det ikke blir erstattet med manglende konsoll eller spill. Gruppens eksistens er derfor betingelsesknyttet.
-
-### §3 Gruppens navn
-
-Gruppens omtaltes eksternt som Smashkom, og internt som Smakom.
-
-### §4 Gruppens sammensetning
-
-- Leder
-- Nestleder
-- Ape
-- Medlemmer
 
 Historie
 --------
