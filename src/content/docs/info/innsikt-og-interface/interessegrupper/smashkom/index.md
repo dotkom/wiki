@@ -4,15 +4,21 @@ title: "Smashkom"
 
 Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt siktet inn mot de som spiller spillet på kontoret på våres utlånte Wii U. Vi sikter mot det å lage et hyggelig miljø rundt bordet i nærheten av TVen med repeterende musikk, irriterende lyder, banning og roping.
 
-Å være medlem i gruppa er i grunn bare symbolsk, da alle får lov til å spille spillet, men dersom man ønsker sterkt å tre inn i rekkene i denne magiske gruppa er det selvfølgelig tillatt. Da kontakt med en av våres eksiterende medlemmer for evaluering og akseptanse. 
 
-## Kontakt
+
+# Kontakt
 Henrik Liodden - henrik.liodden@online.ntnu.no  
 Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
+# Hvor finner du smashkom?
 
+## Slack
+Her legges det ut videoer av freshe moves og generelt smashprat.
 
-## Litt historiskk
+## Smash Ranking System
+Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret. Sesongen 19/20 er ikke i gang enda og vil bli annonsert senere.
+
+# Litt historisk
 
 ### Tidligere medlemmer og hedersgjester
 - **Tidl. Leder:** Fride "Kirby" S
