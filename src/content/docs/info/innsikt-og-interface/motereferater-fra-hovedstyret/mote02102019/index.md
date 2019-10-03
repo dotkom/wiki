@@ -168,7 +168,7 @@ Konklusjon: Er opp til bedkom hvordan de gjør prosessen men er nok ikke en god 
 
 - Julie: me hentar ikke inn samtykke på en god måte. Skulle hatt samtykke på arrangment. Hva skal me gjøre med immballbildene?
 - Alis: Jeg sendte ut mail til alle påmeldte der de skulle sende mail til meg om det ikke var greit. Har ikke mailene til styrer og sånt. Styre os sånt er vant til det, så tenker at det går bra for dem. Og de andre skal si ifra om det ikke går bra.
-- Ole: Viss det skal gå etter reglene så er det ikke greit.Jeg ska ja til mailen slik det er akkurat nå. Bedre enn at bildene aldri kommer ut. Når det kommer til eksterne styrer så er det egentlig ikke greit. 
+- Ole: Viss det skal gå etter reglene så er det ikke greit. Jeg sa ja til mailen slik det er akkurat nå. Bedre enn at bildene aldri kommer ut. Når det kommer til eksterne styrer så er det egentlig ikke greit. 
 - Mathias: Vi har jo et offentlig verv.
 - Alis: Jeg lurte på om de kan fikses på ow.
 - Ole: Vi har diskutert rundt dette i dotkom. Det virker ikke som største tingen i verden, men vi må ha et system som er riktig og enkelt for brukeren å gjøre. Passe på at så mange som mulig godkjenner. 
