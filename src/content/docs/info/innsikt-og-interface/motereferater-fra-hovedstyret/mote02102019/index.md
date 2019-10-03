@@ -128,20 +128,8 @@ Kontrakt:
 ## Pause (16:05 - 5 min)
 
 ## 188 Komitémedlemmer som har vært i permisjon for lenge (16:10 - 5 min)
-[Dotkom har et komitémedlem som har vært på permisjon i 3 semestre som ønsker å komme tilbake. Han er abakule, men ikke tatt opp i komite. ]
 
-Han var med i doktom i halvt år ås reiste han i militæret. Fikk 1 år permisjon. Men nå har hatt bytta til komtek, første klasse. Han har trodd at han ikke hadde mulighet til å være med i Online. Han vil tilbake.
-
-- Henrik: Han virker som ein god ressurs. Seier ja.
-- Mathias: Viss du vil ha han med på laget så skal det gå.
-- Ole: God ressurs og mer kunnskap som er nyttig. Også sosialt. Sliter litt med engasjement hos tredjeklassinger.
-- August: Enig. Men burde gjøre et vedtektsforslag. 
-- Ole: HS kan gjøre unntak, men ikke si at folk kan permitere seg så lenge de vil.
-
-I mot: 0
-For: 9
-
-Konklusjon: HS kan se det an på tilfellet, men folk kan i utgangspunktet permitere seg mer en to semester.
+Konklusjon: HS kan se det an på tilfellet, men folk kan i utgangspunktet permitere seg mer en to semester fra en komite.
 
 ## 189 Endringer i gjennomførelse av ITEX (16:15 - 5 min)
 [Bedkom ønsker å ta en større del i ITEX]
