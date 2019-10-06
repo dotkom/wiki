@@ -10,7 +10,7 @@ Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt 
 Henrik Liodden - henrik.liodden@online.ntnu.no  
 Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
-# Hvor finner du smashkom?
+
 
 ## Slack
 Her legges det ut videoer av freshe moves og generelt smashprat.
@@ -18,7 +18,7 @@ Her legges det ut videoer av freshe moves og generelt smashprat.
 ## Smash Ranking System
 Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret. Sesongen 19/20 er ikke i gang enda og vil bli annonsert senere.
 
-# Litt historisk
+# Litt historie
 
 ### Tidligere medlemmer og hedersgjester
 - **Tidl. Leder:** Fride "Kirby" S
@@ -29,7 +29,7 @@ Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! H
 -  Kristiane "Toon Link" A. W.
 
 
-### Historie
+### Oppstarten
 
 Gruppa ble hadde en spe begynnelse og ble påtenkt av de grunnleggende medlemmene da de kastet bort nærmere seks årsverk rundt eksamensperioden våren 2016. Det ble forfattet og sendt en søknad til Hovedstyret den 14. mai 2016 20:38:22. Søknaden kan dere se under i sin helhet.
 
