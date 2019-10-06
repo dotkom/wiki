@@ -6,19 +6,19 @@ Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt 
 
 
 
-# Kontakt
+## Kontakt
 Henrik Liodden - henrik.liodden@online.ntnu.no  
 Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
 
 
-## #smashkom (Slack)
+### #smashkom (Slack)
 Her legges det ut videoer av freshe moves og generelt smashprat.
 
-## Smash Ranking System
+### Smash Ranking System
 Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret. Sesongen 19/20 er ikke i gang enda og vil bli annonsert senere.
 
-# Litt historie
+## Litt historie
 
 ### Tidligere medlemmer og hedersgjester
 - **Tidl. Leder:** Fride "Kirby" S
