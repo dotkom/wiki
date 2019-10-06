@@ -11,6 +11,7 @@ Henrik Liodden - henrik.liodden@online.ntnu.no
 Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
 
+## Hvor finner du smashkom?
 
 ### #smashkom (Slack)
 Her legges det ut videoer av freshe moves og generelt smashprat.
