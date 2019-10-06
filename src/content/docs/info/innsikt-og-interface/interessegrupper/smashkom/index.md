@@ -12,7 +12,7 @@ Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
 
 
-## Slack #smashkom
+## #smashkom (Slack)
 Her legges det ut videoer av freshe moves og generelt smashprat.
 
 ## Smash Ranking System
