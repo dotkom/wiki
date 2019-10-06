@@ -2,7 +2,7 @@
 title: "Smashkom"
 ---
 
-Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt siktet inn mot de som spiller spillet på kontoret på våres utlånte Wii U. Vi sikter mot det å lage et hyggelig miljø rundt bordet i nærheten av TVen med repeterende musikk, irriterende lyder, banning og roping.
+Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt siktet inn mot de som spiller spillet på kontoret på vår Nintendo Switch. Gruppens aktiviteter består av casual spilling, småprat og arrangerte turneringer.
 
 
 
