@@ -44,7 +44,8 @@ Medlemmer
 
 |År|Leder| Medlemmer |
 |----|---| -------- |
-|2018-2019|**Andreas Aaursand**||
+|2019-2020|**Andreas Amundsen**|Johan August Østbye, Christoffer Stensrud, Bjørn Spangelo, Joel Nicolaysen, Ingvild Løver Thon, Elise Stautland, Elise Telje, Per Håvard Skogli Holtet, André Schjøth, Synne Jenssen, Øyvind Schjerven|
+|2018-2019|**Andreas Aursand**||
 |2017-2018|**Henrik Munkeberg Liodden**|Thomas Wold, Christian Nyvoll, Andreas Aursand, Bjørn Spangelo, Brede Yabo Kristiansen, Claus Bugge, Edvard Mattias Bø, Håvard Hunshamar, Ingrid Asklund Larssen, Joel Nicolaysen, Kaja Sofie Lundgaard, Kristiane Alvarstein Westgård, Sondre Wold, Vilde Almestad|
 |2016-2017|**Kristiane Alvarstein Westgård**|Håkon Ødegård Løvdal, Fredrik Berg, Christina Hellenes Andresen, Christoffer Skar Lofsberg, Andreas Aursand, Christian Nyvoll, Thomas Wold, Henrik Tobias Munkeberg, Vilde Mariussen, Truls Mørk Pettersen, Sondre Wold, Håvard Hunshamar, Ingrid Asklund Larssen, Jacob Glad-Ørbak|
 |2015-2016|**Christoffer Skar Lofsberg**|Aina Elisabeth Thunestveit, Espen Hellerud, Håkon Ødegård Løvdal, Fredrik Berg, Jan Michael Olsen, Christina Hellenes Andresen, Andreas Aursand, Kristiane Alvarstein Westgård, Christian Nyvoll, Thomas Wold, Henrik Tobias Munkeberg, Vilde Mariussen, Truls Mørk Pettersen(Permittert), Trond Christer Leganger(Permittert), Pia Karlsen Lindkjølen(Permittert)|
