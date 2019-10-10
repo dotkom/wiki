@@ -11,6 +11,8 @@ Dette gjøres som regel gjennom å arrangere julekos på kontoret når nettene b
 
 Da blir det servert både pepperkaker, gløgg, appelsin, klementin og kanskje til og med [mandarin](https://www.nrk.no/livsstil/na-er-mandarinen-tilbake-1.13891961)🍊☕?
 
+Bli med i (slacken vår)[] for å bidra til og spre juleglede du også da vell!
+
 
 ### 🎄🤶🎅 Aktive nisser 🎅🤶🎄
 
@@ -19,3 +21,4 @@ Da blir det servert både pepperkaker, gløgg, appelsin, klementin og kanskje ti
 - Edvard Gjessing Bakken 🎅
 - Hanne Brynhildsrud 🤶
 - Johannes Kvamme 🎅
+- Helene Dyrli 🤶
