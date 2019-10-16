@@ -44,9 +44,9 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 
 ###2017/2018
 
-* Martin Bjerke (Kjellerkontakt)
+* Martin Bjerke (Kjellerkontakt Høst)
 * Andreas F. Eikeland (Kjellersjef)
-* Sigurd Oxaas Wie (Økonomisjef)
+* Sigurd Oxaas Wie (Økonomisjef/Kjellerkontakt Vår)
 * Eigil Hjelmstad
 * Sander Lindberg
 
