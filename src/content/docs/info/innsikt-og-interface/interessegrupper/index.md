@@ -43,6 +43,7 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Maleklubben](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/maleklubben/)
 - [Interessegruppen for folk som er glad i jul](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/interessegruppen-folk-som-er-glad-i-jul/)
+- [Henrik](/wiki/online/info/innsikt-og-interface/interessegrupper/henrik/)
 
 
 ## Tidligere interessegrupper
