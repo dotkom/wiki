@@ -353,33 +353,6 @@ Viktig at vi ikke viser en negativ attitude til det?
 
 Alis er med på det som representant.
 
-- Ole: hadde det vært en ide å få Thilde med på dildokastingen?
-  - August syntes det var en god idé (August fikser).
-
-## 204 Mail (16:45 - 10 min)
-
-- Dildokasting skjer neste onsdag (alle burde være med)
-
-- Mail om coaching 3. oktober fra innsikt hvis noen er interressert
-
-- Endring av prikkereglene:
-  - Ole syntes det er stress å se om prikkereglene kan fungere med koden.
-  Det er mange kompliserte regler for hvordan automatisk avmelding of slikt skal fungere. veldig mange forskjellige cases å ta hånd om.
-
-- Ole har lest igjennom mye av mailen fra Sit:
-  - Var bare satt fokus på gi de fra Dragvoll noe lignende det de går ifra, som ikke er så mye.
-  - August: det er en giga sak som kan være vanskli å sette seg inni 
-  - Ole: det virker som at det ville lage et SiT-bygg (der de er nå eller nede ved samf, eller et sted ved perleporten) Muligheter for mingling og arealer som ikke var spesifikt skole. Arealer studenter selv kan sette preg på.
-
-- Hvordan vi svarer på mail:
-  - Sigrun: det kan sendes en mail med "Sigrun tar denne".
-  - Alis: det kan evt. fordeles på Slack.
-  - August: vi kan teste det ut. Jeg skal snakke med henrik.
-
-## 205 Eventuelt (16:55 - 5 min)
-
-- Alis: Vi må være hardere straffing. kjipt at August får alle.
-  - August: Vinstraffer er memes og gøy. Ser helst at man har press fra Online og at folk insjer:)
 
 ## 206 Møteevaluering/diggepunkt
 
