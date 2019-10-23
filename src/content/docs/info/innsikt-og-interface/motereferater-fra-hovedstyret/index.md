@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2019-10-16](mote16102019)
+- [2019-10-09](mote-2019-10-09)
 - [2019-10-02](mote02102019)- prosjekter, kontrakt ekskom, endringer itex, GDPR, komitemedlemer permisjon
 - [2019-09-25](mote25092019)
 - [2019-09-18](mote18092019)
