@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2019-10-23](mote23102019)
 - [2019-10-16](mote16102019)
 - [2019-10-09](mote-2019-10-09)
 - [2019-10-02](mote02102019)- prosjekter, kontrakt ekskom, endringer itex, GDPR, komitemedlemer permisjon
