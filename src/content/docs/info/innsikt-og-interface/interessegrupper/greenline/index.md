@@ -21,7 +21,9 @@ Vi er i gang med å planlegge et månedlige plantelotteriet fra våren 2020, ute
 
 ### Kontakt
 Du kan finne oss på [#Greenline](https://app.slack.com/client/T03S8TX18/C03S8TX1L)
+
 Erling Wisløff - [erling.wisloff@online.ntnu.no](mailto:erling.wisloff@online.ntnu.no?subject=[Greenline])
+
 Luka Grujic - [luka.grujic@online.ntnu.no](mailto:luka.grujic@online.ntnu.no?subject=[Greenline])
 
 
