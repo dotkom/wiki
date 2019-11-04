@@ -8,7 +8,7 @@ Nåværende gjengmedlemmer
 
 - **Leder:** Emil Schrøder
 - **Økonomiansvarlig:** Kaja Sofie Lundgaard
-- **Arrangører:** Marcus Schrøder, Vemund Eggemoen & Elise Staut
+- **Arrangører:** Marcus Schrøder, Vemund Eggemoen & Elise Stautland
 
 Tidligere medlemmer: Christoffer Skar Lofsberg & Camilla Tran
 
