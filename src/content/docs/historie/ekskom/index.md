@@ -20,7 +20,7 @@ Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise ti
 
 2018 ble det også inngått et samarbeid med IPIT der formålet er å fremme akademisk og kulturelt læring. Det er også et mål at flere skal søke utveksling til Kina. 
 
-**Tur 2020:** Turen i 2020 vil gå til Sør-Korea og Japan. Byer og bedrifter er ikke bestemt for øyeblikket.
+**Tur 2020:** Turen i 2020 vil ha faglig uke i Seoul, Sør-Korea, og kulturell uke i Tokyo, Japan.
 
 #### Medlemmer
 
