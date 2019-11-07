@@ -82,7 +82,7 @@ bra
 - Skal ha brekkhelg, offline skal ut 15.november 
 - OKA idag. 
 -  Skal kjøpe batteri til kamera og magasinstativ.
--  Logo og merch driver på. 
+-  Merch driver på. 
 #### Trikom:
 - Har snakket om å gjøre kontoret grønnere og gjøre det rullestol-vennlig
 - Arrangert høstsuppe. ble fullt
