@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2019-11-06](mote06112019)
 - [2019-10-30](mote30102019)
 - [2019-10-23](mote23102019)
 - [2019-10-16](mote16102019)
