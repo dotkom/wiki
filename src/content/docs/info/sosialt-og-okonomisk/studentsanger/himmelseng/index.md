@@ -151,8 +151,8 @@ og gifta'a bort til Jone!
 _Kringlebotns Vers_
 
 Jeg møtte engang ei nablajente,
-Ei som her Birgitte.
-Hu fikk hjelp med øvinga,
+ei som her Birgitte.
+hu fikk hjelp med øvinga,
 Og jeg fikk Nabla-fitte.
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
