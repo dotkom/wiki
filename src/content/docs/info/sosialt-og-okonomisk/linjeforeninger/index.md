@@ -167,6 +167,11 @@ Arrangementer der linjeforeningene inviterer hverandre
         i sin respektive by kan søke.
     -   Mer informasjon kan bli funnet her [attachment:523].
 
+-   **Studentrådet IE** deler ut 150 000,- i året til prosjekter som gagner hovedsaklig studenter ved IE fakultetet. 
+    -   Mer informasjon kan bli funnet [her](https://ie.studentrad.no/2018/04/26/velferdsmidler/).
+
+
+
 ### Tjene penger
 
 -   **Bedpres**
@@ -216,15 +221,15 @@ Arrangementer der linjeforeningene inviterer hverandre
 -   **Lyd og lys:**
     -   Begge: [H.M. Aarhønen](http://aarhonen.no/utleie/), [HC](http://www.hc.ntnu.no)
     -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
-, [Elektra] (elektra.io)
+, [Elektra](http://elektra.io)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/),
+    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/the-lubricators/)
     -   Storband: [Emil](http://emilweb.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.no/)
     -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
     -   Korps: [BSF](http://bergstud.no)
-    -   Orkester: [Mannhullet](http://mannhullet.no), [Omega](http://omega.ntnu.no)
+    -   Orkester: [Mannhullet](http://mannhullet.no), [Omega](http://omega.ntnu.no), [Elektra](http://elektra.io)
     -   DJ: [Online](http://online.ntnu.no) [Omega](http://omega.ntnu.no)
 -   **Diverse:**
     -   [A/F Smørekoppen](http://www.smorekoppen.no): Motorsager, diverse verktøy, tau og
