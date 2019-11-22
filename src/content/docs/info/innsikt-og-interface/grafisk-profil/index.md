@@ -2,69 +2,83 @@
 title: "Grafisk profil"
 ---
 
-Her finnes Onlines grafiske profil i med vektorfiler. [Ta kontakt med prokom](mailto:prokom@online.ntnu.no) dersom du er usikker på hvordan du bruker filene.
+# Merkevare
+For at Online skal kunne fremme seg som en seriøs linjeforening med hensikt om å ta vare på sine studenter, gjelder det at organisasjonen gjenspeiler samme konsistens og profesjonalitet under sin egen profilering. Da bygges opp en uvurderlig merkevare som oppfattes daglig av Onlines medlemmer, NTNU, bedrifter og andre eksterne kontakter. Dette oppnås ved at alle synlige aspekter ved linjeforeningen er lett gjenkjennbare, tydelige i utforming og ellers pene å se på. De blå og oransje fargene skal brukes der det er hensiktsmessig og logoen skal komme tydelig frem både på trykk, nettsidene våre og andre sosiale medier. Om Online klarer å følge disse prinsippene i sin helhet, vil organisasjonen oppfattes som en profesjonell linjeforening med sterk tilstedeværelse.
 
-## Merkevaren Online
-Online har som mål å skape en bedre hverdag for sine studenter. Dette består av kontakt ut mot studentene, men også mot bedrifter, organisasjoner og NTNU ved institutt og fakultet. 
+# Logo og logobruk
+Logoen til Online er sterkt gjenkjennbar med sin blå farge og oransje lyn. Ikke bare finnes det en logo som staver ut ordet "Online", men det eksisterer også et eget "ikon" - en O - som ved enkelte anledninger kan benyttes på egen hånd. Det kan derfor noen ganger være vanskelig å vite når man skal bruke logoen, og hvilken type logo man skal bruke.
 
-Online skal gjenkjennes ved bruk av Online-logoen med lynet på. Sammen med den skal det følge grafisk materiale av gjennomgående høy kvalitet. Dette er primært prokom sitt ansvar, og dersom andre komiteer eller eksterne skal bruke Online sin profil bes de ta kontakt på [mail](mailto:prokom@online.ntnu.no).
+Onlinelogoen skal brukes i tilfeller hvor linjeforeningen som organisasjon har behov å identifisere seg selv og for å bygge opp sin merkevare. I kommunikasjon med bedrifter og aktører som linjeforeningen handler med, skal logoen brukes slik at Online skiller seg ut og enkelt kan identifiseres. Da er det gjerne naturlig at logoen brukes sammen med profilering fra andre samarbeidspartnere, på for eksempel trykkmateriale som t-skjorter, flyers og plakater. Logoen skal dessuten alltid være synlig på nettsidene våre, i for eksempel header og/eller footer.
 
-## Retningslinjer for bruk av logo
+Ikonet til Online brukes i sammenhenger hvor det er tydelig hva det hører til og kan "forkorte" hovedlogoen. Hvis ikonet brukes profesjonelt mot eksterne aktører, skal man aldri være usikker på om ikonet tilhører Online linjeforening. Da må konteksten være riktig. Ikonet kan derfor ikke _erstatte_ logoen, men heller tilføye valgfrihet i profileringen av Onlines merkevare. For eksempel vil det være naturlig å bruke ikonet som profilbilde på sosiale medier, da man gjerne ser navnet på linjeforeningen ved siden av bildet. Ikonet kan også benyttes som del av merch på stickers, gensere, og lignende.
 
-For at våre plakater skal gjenkjennes som Online så intuitivt som mulig ønsker Online at alt av plakater designes av prokom. Ved bedriftspresentasjoner og kurs hender det noen ganger at bedriftene likevel ønsker å lage plakat selv, og noen ganger trenger andre komitémedlemmer eller linjeforeninger å bruke logoen til samarbeidsprosjekter. Til disse tilfellene har vi her satt opp noen retningslinjer for bruk av Online-logoen:
+# Logohåndtering
+Profil- og aviskomiteen har hovedansvar for design av trykkmateriale og profilering, og lager derfor mesteparten av Onlines profilmateriale selv. Derfor er det foretrukket at større prosjekter som involverer design går gjennom prokom, enten som bestilling eller for veiledningens skyld. Andre linjeforeninger og bedrifter har derimot kanskje behov for å bruke Onlinelogoen selv. Om man ønsker eller har behov for å lage design på egen hånd, finnes det retningslinjer for logohåndtering under.
 
-* Bruk blå logo på hvit bakgrunn.
-* Bruk hvit logo på farget/mørk bakgrunn.
-* Ikke sett skygge bak logoen.
-* Ikke plassér logoen tett innpå andre logoer og grafiske elementer.
-* Hvis du skal sette logoen i et hjørne, ha _minst_ 2cm og helst lik avstand fra kantene på både x- og y-aksen.
-* Logoens proporsjoner skal bevares.  
-* Ikke bruk logo med gradient. Denne har vært i bruk før, men er nå tatt ut av profilen.
+## Plassering av logo
+Hovedreglene for plassering av logo er beskrevet under samt illustrert på de vedlagte bildene.
 
-## Grafikkfiler
+### Luft
+Logoen skal alltid ha nok luft rundt seg. Det betyr at den ikke skal stå for nærme andre grafiske elementer slik at den sliter med å skille seg ut. Om logoen står i et hjørne, skal den alltid ha luft under og ved siden av tilsvarende _halve_ diameteren til O'en i logoen. Se bildet for demonstrasjon.
 
-* **[attachment:122] - Samlepakke med alle logoer og komitesymboler, i vektor og bitmap.**
+[image:683 align:right size:large]
+    Logoplassering for bruk av hele logoen
 
-### Onlinelogo
+[image:684 align:right size:small]
+    Ikonplassering for bruk av ikon
 
-Logoen vår benytter seg av fonten URW Linear Wide UltraBold Oblique.
+### Andre grafiske elementer og logoer
+Prinsippene om luft gjelder også for sambruk av andre logoer. Pass på at logoene ikke står for tett på hverandre og respekter andre organisasjoners retningslinjer for bruk av logo.
 
-* [attachment:124] - Onlinelogo, blå uten gradient.
-* [attachment:127] - Onlinelogo, hvit uten gradient.
+### Proporsjoner
+Logoens proporsjoner skal alltid bevares. Det vil si at den ikke skal strekkes ut eller presses sammen, slik at den alltid ser lik ut hvor enn den brukes.
 
-### O-med-lyn-logo
+### Oppløsning
+Om logoen må gjøres stor, pass på at oppløsningen er god nok til at kantene forblir skarpe. Bruk .svg-versjonen (vektor) ved behov.
 
-* [attachment:129] - O-logo, blå uten gradient.
+## Endringer på logo
+Stilisering av logoen, dvs. endringer på designet for spesifikke formål, er tillatt under visse betingelser. Endringen skal ha et spesifikt formål som tilføyer ny mening til bruken av logoen. Hvis logoen skal endres, må det gjøres på en større skala og i samsvar med et tema eller en stil slik at det tydelig kommer frem _hvorfor_ den er endret. Endringer må gjøres respektfullt og følge øvrige retningslinjer på design, slik at man tydelig ser at dette er en stilisert versjon av logoen. Designet skal også stå i samsvar med Onlines kvalitet. Det er _ikke_ tillatt å gjøre mindre uhensiktsmessige endringer som å bytte farger, legge på skygge, småendre på utforming, flytte lynet, delvis dekke logoen, osv.
 
-### Komitésymboler
+# Fargebruk
+[image:685 align:right size:large]
+    Lovlig bruk av bakgrunnsfarger bak logo
 
-* [attachment:132] - Alle komitesymboler.
+[image:686 align:right size:large]
+    Ulovlig bruk av bakgrunnsfarger bak logo
 
-### Skrivebordsbakgrunn (jubileum 2011)
+## Bakgrunnsfarger
+Logoen alene er ikke det eneste som påvirker hvordan Online oppfattes. Fargevalg på både trykkmateriale og digital produksjon er viktig for at helheten skal komme tydelig frem. Først og fremst må logoen ha riktig kontrast mot bakgrunnen. Den blå logoen skal brukes mot hvit eller veldig lys bakgrunn. Er bakgrunnen svart, farget eller mørkegrå, skal den hvite benyttes. Kontrasten må være god nok over hele bakgrunnen, så her må det brukes skjønn. Vær også varsom på gradient bak logoen om kontrasten ikke er god hele veien. Bildene illustrerer hvordan logoen kan brukes.
 
-* [attachment:133]
-* [attachment:134]
-* [attachment:135]
-* [attachment:136]
+## Onlines fargeprofil
+Onlinelogoens offisielle fargeprofil finner du i tabellen under. Logoen bruker CMYK på fysisk trykk og RGB digitalt, dvs. på nettsider.
 
-## Fargeskjema
+|    Type   |       Blå      |    Oransje   |
+|:---------:|:--------------:|:------------:|
+|    CMYK   | 93, 58, 34, 21 | 0, 34, 71, 0 |
+| RGB (Hex) |     #0D5474    |    #F9B759   |
 
-PMS: Bruk biblioteket PANTONE solid to process EURO  
-Biblioteket finner du typisk i menyen til swatches-palletten i ID/IL/PS. (Add new swatch: Color Books: Pantone el.)
+I tillegg kan det være ønskelig å bruke andre nyanser av blå og oransje på f.eks. nettsider eller annet design. Blå brukes da hovedsaklig som primærfarge, mens oransje brukes sekundært. Pass også på at kontrastene mellom nyansene er gode nok. For å se en oversikt over hvilke kontraster og paletter som brukes av Onlines nettsider, kan du ta en titt på [Onlines designsystem](https://storybook.online.ntnu.no/?path=/docs/global-colors--primary).
 
-**Online-blå:**  
-PMS 2945 EC  
-CMYK: 96 65 7 1  
-RGB: 0 96 163  
-Hex: #0060A3  
+# Vedlegg
+Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste ned kits og enkeltstående bilder nedenfor.
 
-Alternativer til denne fargen hvis du ønsker en mørkere farge (til for eksempel Onlinesplashen osv):  
+## Kits
+### [attachment:677 title:"Logokit"] - Inneholder alle logoversjoner på .png og .svg-format
 
-* \#07244C
-* \#033A7F
+## PNG - enkeltbilder
+### [attachment:679 title:"Blå"] - logo
+### [attachment:680 title:"Blå"] - ikon
+### [attachment:681 title:"Hvit"] - logo
+### [attachment:682 title:"Hvit"] - ikon
 
-**Online-oransje:**  
-PMS: 143 EC  
-CMYK: 0 42 100 0  
-RGB: 250 162 27  
-Hex: #FAA21B
+## SVG - enkeltbilder
+### Blå* - logo
+### Blå* - ikon
+### Hvit* - logo
+### Hvit* - ikon
+
+## Annet
+### [attachment:678 title:"Komitésymboler"] - Inneholder alle komitésymboler på .svg-format
+
+# Henvendelser
+Spørsmål og henvendelser kan sendes til [profil- og aviskomiteen på mail](prokom@online.ntnu.no). Vi tar gjerne imot ris og ros, samt forslag til forbedringer!
