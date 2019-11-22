@@ -71,7 +71,10 @@ Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste 
 ### [attachment:681 title:"Hvit"] - logo
 ### [attachment:682 title:"Hvit"] - ikon
 
-## SVG - enkeltbilder
+## SVG - enkeltbilder 
+
+(Kommer når OW støtter nedlasting av .svg-filer. Alt ligger i logokit.)
+
 ### Blå* - logo
 ### Blå* - ikon
 ### Hvit* - logo
