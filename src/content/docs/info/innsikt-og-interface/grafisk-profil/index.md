@@ -19,7 +19,7 @@ Profil- og aviskomiteen har hovedansvar for design av trykkmateriale og profiler
 Hovedreglene for plassering av logo er beskrevet under samt illustrert på de vedlagte bildene.
 
 ### Luft
-Logoen skal alltid ha nok luft rundt seg. Det betyr at den ikke skal stå for nærme andre grafiske elementer slik at den sliter med å skille seg ut. Om logoen står i et hjørne, skal den alltid ha luft under og ved siden av tilsvarende _halve_ diameteren til O'en i logoen. Se bildet for demonstrasjon.
+Logoen skal alltid ha nok luft rundt seg. Det betyr at den ikke skal stå for nærme andre grafiske elementer slik at den sliter med å skille seg ut. Om logoen står i et hjørne, skal den alltid ha luft under og ved siden av tilsvarende _minst halve_ diameteren til O'en i logoen. Se bildet for demonstrasjon.
 
 [image:683 align:right size:large]
     Logoplassering for bruk av hele logoen
