@@ -16,6 +16,6 @@ Nåværende medlemmer:
 - Henrik Hegli
 - Henrik Moe Wæhre
 - Henrik Viken Lied
-- Liam 'Henrik' Crough
+- Liam 'Henrik' Crouch
 - Alexander 'Henrik' Andersen
 - Lars Erik 'Henrik' Vassbotn
