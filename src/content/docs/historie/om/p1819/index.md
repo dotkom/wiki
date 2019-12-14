@@ -26,3 +26,4 @@ title: "Perioden 2018 - 2019"
   - Budsjetteringsmakt flyttes fra genfors til HS for å lettere kunne følge regnskapsåret. 
   - Online IL opprettes som nodekomite under HS!
   - Bankom endrer struktur slik at bankom leder og økans i Online er to separerte stillinger.
+  - Det skal opprettes en arbeidsgruppe som skal undersøke alternativer til organisasjonsstrukturen til Online.
