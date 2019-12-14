@@ -22,3 +22,7 @@ title: "Perioden 2018 - 2019"
 - Begynt arbeidet med endring av techtalks formatet. 
 - Laget en inventarliste for boden. 
 - Opprettet Output, Onlines linjeband! 🎸
+- Under generalforsamlingen skjer som vanlig flere endringer:
+  - Budsjetteringsmakt flyttes fra genfors til HS for å lettere kunne følge regnskapsåret. 
+  - Online IL opprettes som nodekomite under HS!
+  - Bankom endrer struktur slik at bankom leder og økans i Online er to separerte stillinger.
