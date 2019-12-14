@@ -18,6 +18,7 @@ title: "Perioden 1718"
 - Wikien blir åpnet for redigering for alle med Online-bruker. Noen kritiske sider er låst for redigering. 
 - Julekortet ble byttet fra bilde av HS til fellesbilde av Onlinere tatt etter julegrøtspising. 
 - IDI arrangerer julebord for alle studenter og ansatte, det er veldig skøy.
+- Sosialt medlemskap blir innført. 
 - Online flytter midlertidig fra 3. etg i P15 til 5. etg i P15. 
 - Studiemiljøstudentene blir opprettet. De skal jobbe for IDI med å forbedre studiemiljøet. 
 - Vi går over til digitalt regnskapssystem. 
