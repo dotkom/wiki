@@ -242,7 +242,7 @@ kaffedrikking.
 
 ### [2012/2013](/wiki/online/historie/om/1213)
 
-### [2017/2018](/wiki/online/historie/om/1718)
+### [2017/2018](/wiki/online/historie/om/p1718)
 
 ## Hovedstyrer
 
