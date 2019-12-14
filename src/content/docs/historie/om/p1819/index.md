@@ -1,0 +1,24 @@
+---
+title: "Perioden 2018 - 2019"
+---
+
+- Blestekalender blir opprettet.
+- Arbeid med å starte en eksponeringsgruppe startes. 
+- Vi kartlegger bruken vår av auditorium for et prosjekt i linjelederforumet.
+- Har vært på flere FIF møter og det viktigste resultatet er at man ikke lenger annonserer for sommerjobber som har frist før 1. oktober, i et forsøk på å påvirke trenden som har vært her i det siste. 
+- Boden på Moholt blir lånt ut til kjelleren.
+- Signaturfrist blir gitt til leder alene eller to styremedlemmer i felleskap.
+- Online flytter til A4 i realfagbygget! Med unntak av noe rot gikk prossessen veldig bra, og vi har fått det veldig bra i nye lokaler. 
+- Vi har vært på sommerfest med CYB i Oslo. I tillegg til vanlig sommerfest med Online selvsagt. 
+- Kjelleren er gjenåpnet 🎉
+- Vi har skjerpet oss i forholdet til CYB i Oslo og har representert på deres 50 års jubileum. 
+- UKE-sjef vil gjennopplive UKE-toget og Online er hypet og skal gå. 
+- Opprettet #korktavla på slack. 
+- Vi har mekka super smud ny kaffemaskin med innlagt vann!
+- Vi har automatisk drikketillatelsesskript. 
+- Skrevet samarbeidsavtale med ekskom. 
+- Sluttet med topquoting i epost. 
+- Oppdatert prikkreglene. 
+- Begynt arbeidet med endring av techtalks formatet. 
+- Laget en inventarliste for boden. 
+- Opprettet Output, Onlines linjeband! 🎸
