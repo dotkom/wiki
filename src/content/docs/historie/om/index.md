@@ -242,6 +242,8 @@ kaffedrikking.
 
 ### [2012/2013](/wiki/online/historie/om/1213)
 
+### [2017/2018](/wiki/online/historie/om/1718)
+
 ## Hovedstyrer
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
