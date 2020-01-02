@@ -54,8 +54,9 @@ Onlinelogoens offisielle fargeprofil finner du i tabellen under. Logoen bruker C
 
 |    Type   |       Blå      |    Oransje   |
 |:---------:|:--------------:|:------------:|
-|    CMYK   | 93, 58, 34, 21 | 0, 34, 71, 0 |
-| RGB (Hex) |     #0D5474    |    #F9B759   |
+|     CMYK    | 93, 58, 34, 21 |  0, 34, 71, 0   |
+|  RGB (Hex)  |     #0D5474    |     #F9B759     |
+| Pantone PMS | PANTONE 308 CP | PANTONE 1365 CP |
 
 I tillegg kan det være ønskelig å bruke andre nyanser av blå og oransje på f\.eks. nettsider eller annet design. Blå brukes da hovedsaklig som primærfarge, mens oransje brukes sekundært. Pass også på at kontrastene mellom nyansene er gode nok. For å se en oversikt over hvilke kontraster og paletter som brukes av Onlines nettsider, kan du ta en titt på [Onlines designsystem](https://storybook.online.ntnu.no/?path=/docs/global-colors--primary).
 
