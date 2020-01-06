@@ -107,14 +107,13 @@ title: "Dagsorden 2020"
 
 ## Pause 5 min
 
-### Valg for fondet (ikke oppdatert)
+### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 10   | 22:50 | 23:00 | Valg av Onlinemedlem |  |
-| 10   | 23:00 | 23:10 | Valg av tidligere hovedstyremedlem 1 |  |
-| 10   | 23:10 | 23:20 | Valg av tidligere hovedstyremedlem 2 |  |
-| 10   | 23:30 | 23:40 | Valg av ridder|  |
-| Total tid: | | 40 min |
+| 10   | 23:00 | 23:10 | Valg av tidligere hovedstyremedlem |  |
+| 10   | 23:10 | 23:20 | Valg av ridder|  |
+| Total tid: | | 30 min |
 
 ## Pause 10 min
 
