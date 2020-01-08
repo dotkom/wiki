@@ -1,0 +1,136 @@
+---
+title: "Møte"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** Elektro B113
+
+**Servering:** Ingen, ble så sen beskjed
+
+**1. Referent:** Alis
+
+**2. Referent:** Kaja
+
+**Vinstraff:** Emil (forsov seg til HSP-slipp)
+
+**Ølstraff:**
+
+**Til stede:** August, Benny, Ole, Sigrun, Silje, Andreas, Alis, Kaja, Emil, Mathias
+
+**Mangler:** Henrik
+
+**TODO:**
+
+---
+
+[TOC]
+
+---
+
+## Innsjekk (14:15 - 2 min)
+
+## 261 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
+
+Godkjent.  
+
+## 262 Status for komiteene (14:20 - 15 min)
+
+#### Arrkom, med velkom:
+- skjer masse
+- Åre, ventelisten tar plassene til sykdom
+- Komitee-seminar. Hver enkelt komite på fredagen. Arrangerer selv. Kan bruke teambuldingsstøtten. 12-16 på lørdag med Bekk. Middag og buss til hemmelig lok
+- Inflytningsfesten blir syk. Tacobuffet på fredag og tidenes trash-party på A4.
+- Skuddårsfest med Tihlde
+
+##### Velkom: 
+- Startet intervju-prosessen etter Åre. De har god kontroll. Alis stiller om nødvendig
+
+#### Bedkom, med ITEX:
+- Suppleringsopptak ble åpnet i dag, har laget et google-form. Åpent til neste mandag. Vil prøve å få det ferdig til blåtur. 
+- HSP-lansering. Gikk bra. Blir bra samarbeid. Profileringsmateriale er bestilt
+
+##### ITEX:
+- Under diskusjon, mer info nesteuke. 
+
+#### Dotkom:
+- Har ikke skjedd noe egentlig. 
+- Fikk mail fra IDI angående grades.no. Der har du muligheten til å legge til tags. Folk har lagt til støtende og slemme tags. IDI er ikke veldig fornøyd med det. Vi har valgt å fjerne visning av tags. Håper det vil løse problemet.
+
+#### Fagkom, med ekskom:
+- Skjedd veldig lite. 
+- Prata litt med Google om kurs, og tenker å dra med Abakus. 
+
+##### Ekskom
+
+#### Prokom:
+- Ikke skjedd noe. Laget litt profileringsmateriell med Bekk-logo. 
+- Dotkom-daljer skal fikses
+
+#### Trikom:
+- Har ikke skjedd mye her heller
+- Fått ny grill med lokk
+
+#### Seniorkom:
+- Skjer ikke mye. Edvard har jobbet med utmatrikuleringen. Prøver å få noen andre til å ta det siden han skal utmatrikuleres selv.
+
+#### Nestleder:
+
+#### Leder:
+- Noen ville ha A-blokka i mai men det så ut som at ordna seg. 
+- Har delt ut julekort
+
+#### Økonomiansvarlig:
+- Hadde ekstraordinert bankommøte over skype. 
+- Tenker å teste ut nye rutiner. 
+
+#### Bankom: 
+
+#### ITV:
+
+#### RFK:
+
+## 263 Interkom (14:35 - 10 min)
+- Alis: Siste jeg vil dere skal bidra med for at komitéseminar skal bli bra:
+    - Fredag burde en organisere et lite opplegg. Vi vil ikke spamme med mer mail.
+    - Har noen på lørdag mulighet til å hoste middag for gruppen deres på 8 pers. Mellom workshop og fest. Trenger 10 hybler, har 5. 
+    - Dere får et oppdrag på fredagen. Alle skal lage sin egen underholdning. Alt funker.
+
+## 264 IDI har ørkemerket alle midler støtte 2020( 14:45 - 10 min)
+[IDI har øremerket alle pengene som skulle ha blitt fordelt på fordelingsmøtet.]
+- IDI sine penger er øremerket
+- Nøyktige summer er satt i båser. De må brukes opp ellers må vi tilbakebetale. 
+- Hører med Abakus hvordan de har fått det. 
+
+## 265 Organisasjonsstruktur prøveperiode (14:55 - 10 min)
+[Vi må finne ut hvordan vi skal gå fram for å teste ut ny org.struktur]
+
+- Tanken var å teste ut denne splitten før genvors. 
+- Sigrun har meldt seg frivillig og diskutert det med Bedkom. Kristoffer har også ekstremt lyst til å teste ut HS. Det kunne vært en mulighet til genvors å fortsatt som leder hvis arbeidsmengden er grei. 
+- August: problemet er at Sigrun er valgt av genvors, men ser ikke på det som et problem siden det bare er en mnd. Tenker vi kjører på med det fra et tidspunkt. 
+- Sigrun: kan snakke litt mer med bedkom om det, men tror de fleste har godvilje til kristoffer. 
+
+
+## Pause (5 min)
+
+## 266 Møtetid (15:10 - 5 min)
+[Passer denne møtetiden for folk eller må vi finne en annen.]
+- Mange har ikke valgt fag enda
+- Ole: Jeg blir sliten av å ha samme dag som arbeidskveld
+- August: Ikke mandag og fredag fordi mange er borte de dagene
+- Konklusjon: Vi venter
+
+## 267 Sosialt (15:15 - 5 min)
+[Skal vi gjøre noe sammen, jeg er gira.]
+- Jaa!
+- Langrenn?
+- Kan vi fjerne noe?
+- Vi sikter oss inn på ukedag
+- Mathias lager doodle
+
+
+## 268 Eventuelt (15:20 - 5 min)
+- Emil: Pass på å fylle inn bilder på OW
+    - Ole: Abakus har pleid å ha påkrevd bilde på arrangementene og da ble det mye bilder med teksten "fest".
+    - Benny: Bestill bilder fra prokom. Og gjerne si at det ikke er en plakat med bilde til OW
+- Benedicte: Årbok-bilde-tema ble utsatt 1 uke. Tar bilder i slutten av februar
