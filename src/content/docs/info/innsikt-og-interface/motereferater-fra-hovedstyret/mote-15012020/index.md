@@ -1,0 +1,215 @@
+---
+title: "Møte 15.01.2020"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** R92
+
+**Servering:** Emil 
+
+**1. Referent:** Kaja
+
+**2. Referent:** Mathias
+
+**Vinstraff:** 
+
+**Ølstraff:**
+
+**Til stede:** Andreas, Silje, Sigrun, Benedicte, Alis, August, Mathias Fossum, Kaja Lundgaard, Emil Schrøder, Henrik Liodden, Nicolai Dalaaker  
+
+**Mangler:** 
+
+**TODO:**
+
+- Emil: fikser stream
+
+---
+
+[TOC]
+
+---
+
+## Innsjekk (14:15 - 2 min)
+
+## 270 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
+
+Godkjent.
+
+## 271 Gjøremål fra forrige gang(14:18 - 2 min)
+- Svar på sosialkveld-Doodle.
+
+## 272 Status for komiteene (14:20 - 15 min)
+
+#### Arrkom, med velkom:
+- Åre gikk greit. Endel støyklager
+- befaring i går til komitesemianar
+- innflytningsfesten har fått godkjenning av NTNU. Mangler kommunen og politiet
+- Tihlde er med på skuddårsfesten 
+
+##### Velkom:
+- Startet opptak.
+- Foreslår å ha et møte med ledelsen av velkom, Alis og August
+
+#### Bedkom, med ITEX:
+- Det burde ordne seg med bedrifter til TechTalks
+- opptak nå. Håper å få med nye på komiteseminar
+- ting faller på plass med ny HSP. Fått rollup og greier
+##### ITEX:
+- Mathias Muller kommer å snakke om forrige ITEX, for å starte opp ny arbeidsgruppe for årets ITEX.
+#### Dotkom:
+- Mange fagkyndige forlater dotkom ved semesterslutt. Det medfører at vi må lære opp de andre
+
+#### Fagkom, med ekskom:
+- Lite har skjedd. Litt underbemannet, men ikke kritisk
+##### Ekskom
+
+#### Prokom:
+- Lite har skjedd. Tech Talks profilering er i gang
+- årbok-tema må inn ila fredag
+
+#### Trikom:
+- Kontorvakt oppsettet er sendt ut. Eksom utestår, venter på tilbakemelding.
+- Et frafall av medlemmene dette semesteret.
+#### Seniorkom:
+- Ikke skjedd noe
+#### Nestleder:
+- Jobber med genfors. Wikien er opp å stå.
+- Sender ut infomail. Gidder ikke ta med arrangementer som er fulle. Gjør manuell filtrering.
+- Hyttetur med IT-styrene. Vanskelig å få til. Heller gå for en fest på kjellerne. Krever mindre planlegging og kanskje flere som kommer.
+#### Leder:
+- Gjort litt snacks <3
+#### Økonomiansvarlig:
+- Litt snacks!
+#### Bankom:
+- Økonomipresentasjon på komiteseminaret
+
+#### ITV:
+- Jon ikke tilstede
+#### RFK:
+- Åpnet igjen. 
+- Startet suppeleringsopptak
+- starter planlegging av jubileum i 2021
+
+## 273 Interkom (14:35 - 10 min)
+- Svar på doodle
+- Noen som har ledig hybel til lørdag? Hør med komiteen
+
+## 274 Organisasjonsstruktur prøveperiode (14:45 - 10 min)
+
+[Vi må finne ut hvordan vi skal gå fram for å teste ut ny org.struktur]
+
+- August: lest gjennom vedtektene for å undersøke om nestleder bedkom kan ta over for leder i en periode for å teste hvordan en slik org.str vil fungere.
+- Sigrun: fortsetter jeg i styret og ikke leder så ville jeg vært litt leder uansett.
+- August: Dato?
+- Sigrun: Når som helst.
+- August: overlevering på søndag evt? Inn på mailinglisten og greier
+- Blir nok ikke noe vedtektsforslag på genfors. De har ikke fått nok info, men kan stemme over å fortsette arbeidet
+- August: Blir mest realistisk om Sigrun blir stengt ut av alt. 
+- Henrik: Kan sette et filter så hun har tilgang om hun må, men ikke bør lese det. Skru av varsler på slack
+- Stemming (går det greit at nestleder tar over HS vervet i fravær av leder bedkom 19. jan til 9. feb ?)
+
+- HS stemte enstemmig :)
+
+
+## 275 Genfors 2020 ( 14:55 - 10 min)
+
+[Ting vi må gjøre før genfors]
+
+[
+- Vi må ha en workshop i nærmeste fremtid hvor vi lager saksforslag til genfors
+- Vi må ha 3 referenter
+- vi må ha 2 paraferer
+- Vi må ordne stream
+- Alle må begynne på årsberetninger 
+- hvilke andre grupper må vi tipse
+]
+
+- August: Vi må sette dato for økonomi og vedtektskveld. Pleier å være 2 uker før. 
+- MYYE diskusjon fram og tilbake
+- Setter datoen til tirsdag 11. februar
+- Trenger en workshop før det.
+    - Blir 3. februar
+- Må skaffe 3 referenter
+    - Kan endre litt referat-måten. At man ikke skriver alt som ble sagt men mer stemmeantall og utfall.
+- August: Noen som vil være referent?
+- HS: stillhet tjaa..
+- Trenger paraferer.
+    - Kan spørre i komiteene
+- Mathias: Kan dele opp refereringsjobben. Kan bytte etterhvert
+- Sigrun: Feks en referent per time.
+- August: Kan prokom fikse stream?
+- Kan søke penger til streamkom
+- Emil: Jeg fikser stream jeg:))
+
+- August: Årsberetninger per komitee.
+    - Kok det
+- August: 
+- Benny: må også skrive erfaringsskriv.
+    - August: det kan gjøres senere. Haster ikke
+
+## Pause (15:05 - 5 min)
+
+## 276 Hva gjør vi med de internasjonale studentene (15:10 - 15 min)
+
+[ Jeg har blitt kontaktet av internasjonale studenter som har lyst å engasjere seg i Online, hva gjør vi med det.]
+
+- August har fått en ny venn
+- En fyr fra Iran vil gjerne engasjere seg i Online. Sender 3 meldinger om dagen
+- Vi har fått internasjonal master om det er derfor noe vi må ta stilling til. Vil gjerne holde språket i komiteene på norsk. Kan evt starte en egen utlendingskomite
+- Delta utenriks har en egen komite for internasjonale studenter.
+- Mathias: Vi må innse at vi må gjøre mer. Er så mye forventninger. Hadde ønsket at vi kunne kjøre mer vårt eget løp. Det med utenlandske i velkom kan være lurt
+- Benedicte: bedre å fokusere på de som skal være her over lenger tid enn utvekkslingsstudenter som skal være her et halvt år
+- Alis: Jeg synes ikke utlendingskomiteen var en dum idé. 
+- Benny: Slått oss sammen med Abakus og fått en større gruppe. 
+    - August: tror ikke Abakus har internasjonale studenter
+
+- Andreas: hvis målet er å få dem inn i Online er løsningen da å stue dem bort i et hjørne?
+    - August: Det blir en måte å få dem inn i miljøet, som en inngangsport for mottagelse av internasjonale studenter. 
+- Alis: snakket med Klara i dag. Går an å snakke med dem om hva de ønsker. Hun har veldig lyst til å bo med nordmenn neste år for å lære seg norsk. Vi burde samarbeide med dem for å få dem inn i miljøet.
+-  August: Det handler om at vi trenger en ressurs som kan ta støten. Oppstartskostnaden kommer til å bli stor.
+- Benny: gått an å sende denne iranske fyren til velkom? Tatt litt ansvar for masterfadderukene? Lager et godt grunnlag
+- Alis: alle arrangementer har vært på norsk før. Gjør det vanskelig om alle møter skal være på engelsk
+    - Benny: Jeg mente at det int. stud. ikke trenger å møte på hvert eneste møte, men har sitt ansvarsområde.
+- Andreas: kan innvolvere dem i nodekomiteer? Lavere terskel og enklere å få dem inn. 
+    - August: beste blir å høre med velkom-leder og nestleder om de har lyst til å ta dem inn. Kan ta det som et prøveprosjekt og evt videreutvikle det til et utenriks-prosjekt
+- Emil: stort sett bare master og vi har slitt med å få folk til å ta de fadderukene. De kan arrangere sitt så det blir litt separert. Kan gjerne være fler enn to.
+- August: Alis tar møte med velkom og snakker med dem. Hører om de er gira. Må også finne noen norsk mastere som vil være med. Tenker større på sikt (slenger det til neste hs<3)
+- Henrik: (referent skjønte ikke hva han mente)
+
+
+## 277 Jubkom (15:25 - 5min)
+
+[Vi må finne jubkom-leder og nestleder. Hvem vil ta ansvaret og vet dere om noen som kan være interesserte]
+
+- August: Noen som vil ta ansvar?
+    - Emil: må det være hs? Folk er gira på å bidra men går ut til høsten
+- Ole: har hatt samme tanker.
+- August: dette arbeidet foregår over en periode på 2 år. 
+- Ole: vil delta i arbeidet. Vi kan finne en leder og nestleder. 
+- Sigrun: Hva inneholder jubileumet?
+    - Ole: har bare vært med på ett. Høsten 2016. Det var en hel uke med forskjellige arrangementer. jub-bedpres med HSP. Gikk mot stor galla i slutten av uka. 
+    - Emil: spiste kake i bodegaen
+- Ole: må invitere de som er ferdige også
+- Henrik: vi feirer 35 men blir 36. 
+- August: Vi er 0-indeksert
+
+
+
+## 278 Eventuelt (15:30 - 5 min)
+- August: møtetid 12-14 eller 14-16?
+    - Henrik: La meg presisere at dette er en meningsmåling.
+    - Alis: "Jeg synes 12-14 er dårlig"
+    - 12-14: 7 stemmer
+    - Vi går for den
+- Alis: Hvem skal ha lang å tro? Når skal den deles ut?
+- Alis: du kan delta med vann men det blir hardfylla
+- Alis: Hva som helst er godkjent til underholdning
+- Alis: trenger edruvakt. Sigrun?
+
+- Nicolai: Kan RFK være med på frivillighetsfesten?
+    - Alis: Selvfølgelig, åpnet for det nå!
+
+## 279 Møtekritikk
+
+- Møtet runder opp 15:45
