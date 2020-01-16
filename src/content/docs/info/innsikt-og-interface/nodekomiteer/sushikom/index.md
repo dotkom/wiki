@@ -12,7 +12,7 @@ Retningslinjer
 Være et sosialt samlingspunkt for Onlinere. Hver gang vi får stipend arrangeres det felles tur til en restaurant der de serverer sushi, aller helst buffet.
 
 #### §2 Komiteens sammensetning
-* Hovedperson utad (Leder)
+* Hovedperson utad (Leder): [Emma Blix](https://online.ntnu.no/profile/view/emmablix/)
 * Eventuelt andre stillinger
 
 #### §3 Komiteens ansvarsområder
