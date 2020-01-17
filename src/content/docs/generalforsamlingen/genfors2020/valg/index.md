@@ -24,7 +24,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Arrkom:* 
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* 
-* *Fagkom:* 
+* *Fagkom:* Øyvind Jalland Schjerven  
 * *Prokom:* Henrik Giil Liisberg
 * *Trikom:* 
 
