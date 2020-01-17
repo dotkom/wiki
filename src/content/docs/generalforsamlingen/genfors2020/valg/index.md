@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Dotkom:* 
 * *Fagkom:* Øyvind Jalland Schjerven  
 * *Prokom:* Henrik Giil Liisberg
-* *Trikom:* 
+* *Trikom:* Thea Karin Fladby
 
 **De som har meldt interesse til Fondstyret er:**
 
