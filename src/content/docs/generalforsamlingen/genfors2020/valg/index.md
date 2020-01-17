@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* 
 * *Fagkom:* 
-* *Prokom:* 
+* *Prokom:* Henrik Giil Liisberg
 * *Trikom:* 
 
 **De som har meldt interesse til Fondstyret er:**
