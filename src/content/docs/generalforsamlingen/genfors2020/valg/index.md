@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Nestleder:* 
 * *Økonomiansvarlig:* 
 * *Arrkom:* 
-* *Bedkom:* 
+* *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* 
 * *Fagkom:* 
 * *Prokom:* 
