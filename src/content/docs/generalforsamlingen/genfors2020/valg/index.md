@@ -20,7 +20,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:* Henrik Liodden
 * *Nestleder:* 
-* *Økonomiansvarlig:* 
+* *Økonomiansvarlig:* Christoffer Stensrud
 * *Arrkom:* 
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* Petter Charles Stellberg Redferen,
