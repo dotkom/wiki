@@ -6,7 +6,7 @@ Dette er retningslinjene for IT-ekskursjonen, heretter kalt itex.
 
 ### §1 It-ekskursjonens formål
 
-Itex skal arrangere årlig ekskursjon til Oslo for å besøke bedrifter, med hensikt for å skape kontakt mellom studenter og næringslivet.
+Itex skal arrangere årlig ekskursjon til Oslo for å besøke bedrifter, med hensikt for å skape kontakt mellom studenter og næringslivet.  
 
 ### §2 It-ekskursjonens sammensetning
 
@@ -19,7 +19,7 @@ Komiteen består av:
 
 Alle stillinger velges innad i komiteen.
 
-I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer. 
+I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer.  
 
 ### §3 It-ekskursjonens ansvarsområder
 
@@ -27,7 +27,7 @@ I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter 
 Itex skal bestille hotell, fly og transport til og fra bedrifter på turen.
 
 #### (2) Booking av bedriftsbesøk
-Itex skal booke bedrifter som Online kan besøke under turen. Pengene vi får for besøk skal dekke alle utgifter for turen.
+Itex skal booke bedrifter som Online kan besøke under turen. Pengene vi får for besøk skal dekke alle utgifter for turen.  
 
 
 ### §4 IT-ekskursjonens virke
