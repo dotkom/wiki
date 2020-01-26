@@ -19,7 +19,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:* Henrik Liodden
-* *Nestleder:* Sigurd Oxaas Wie
+* *Nestleder:* Sigurd Oxaas Wie, Mathias Fossum
 * *Økonomiansvarlig:* Christoffer Stensrud
 * *Arrkom:* 
 * *Bedkom:* Kristoffer Nyvoll
