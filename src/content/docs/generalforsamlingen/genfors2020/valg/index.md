@@ -21,7 +21,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Leder:* Mathias Fossum
 * *Nestleder:* Sigurd Oxaas Wie, Øyvind Jalland Schjerven  
 * *Økonomiansvarlig:* Christoffer Stensrud
-* *Arrkom:* 
+* *Arrkom:* Sindre Langaard
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* Petter Charles Stellberg Redfern, Monika Muzyk
 * *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye
