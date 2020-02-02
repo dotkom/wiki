@@ -23,7 +23,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig:* Christoffer Stensrud
 * *Arrkom:* 
 * *Bedkom:* Kristoffer Nyvoll
-* *Dotkom:* Petter Charles Stellberg Redfern,
+* *Dotkom:* Petter Charles Stellberg Redfern, Monika Muzyk
 * *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye
 * *Prokom:* Henrik Giil Liisberg
 * *Trikom:* Thea Karin Fladby
