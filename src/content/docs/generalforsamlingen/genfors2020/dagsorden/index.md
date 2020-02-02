@@ -30,7 +30,7 @@ title: "Dagsorden 2020"
 | 0.5 | 16:25 | 16:26 | Godkjenning av talerett  | |
 | 0.5 | 16:26 | 16:26 | Godkjenning av stemmeberettigede  | |
 | 0.5 | 16:26 | 16:27 | Godkjenning av dagsorden  | |
-| 1 | 16:27 | 16:27 | Godkjenning av referat fra 05. mars 2018  | |
+| 1 | 16:27 | 16:27 | Godkjenning av referat fra 11. mars 2019  | |
 | 1 | 16:28 | 16:29 | Godkjenning av innkalling  | |
 | 1 | 16:29 | 16:30 | Godkjenning av saksliste  | |
 | 10 | 16:30 | 16:40 | Registrering i stemmesystem  | |
