@@ -36,7 +36,7 @@ Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt bel�
 13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [attachment:544 title:"Søknad pdf" size]
 26. mai 2019 | 4. april 2019 | Linjeforeningen Online v/ arrkom | Lydanlegg for sosiale arrangementer | 8700 kr | 18 392 kr | 
 2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | 
-
+30. September 2019 | 24. Oktober 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr |
 
 
 ## Søknader 2018
@@ -53,3 +53,12 @@ Kaffetrakteren på Online kontoret har sluttet å fungere, og for å dekke onlin
 
 ### X-sport: Surfetur til Portugal
 Interessegruppen X-Sport søkte om å få støtte til sin Portugal surfetur, tanken bak støtten var å gjøre turen mer overkommelig for flere av Online sine medlemmer ¨være med. Etter diskusjon i fondstyret ble det enighet om gi en støtte på 500 kr per deltagende hode, opptil maksimalt 10 000 kr.
+
+### Arrkom: 2 stk Soundboks + sele
+Arrkom søke om å få støtte til å kjøpe inn 2 stk soundboks + seler til de. Tanken var å garantere alle Onlinere musikk på sine arrangementer og skape god stemning. Etter en litt lengre periode diskusjon som ble noenlunde utsatt ble fondstyret enig om å gi støtte til 1 stk soundboks + seler
+
+### UKEtog flåte bygging:
+Det ble søkt om støtte til materialer til bygging av flåte til UKEtoget, siden det var kort frist måtte søknaden behandles raskt. Etter en rask diskusjon på Slack og på mail ble fondet enig om å gi støtten
+
+### Online IL: Støtte
+Online IL søkte om å få støtte til å leie haller og kjøpe inn utstyr de kunne bruke. Fondstyret brukte litt lengre tid på å diskutere om de skulle støtte de med så mye penger. De ble tilslutt enige om å gi de pengene for mer langsiktig bruk en bare fram til Jul som det stod i den originale søknaden
