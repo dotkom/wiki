@@ -30,6 +30,6 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Fondstyret er:**
 
-* *Onlinemedlem (kan ikke ha vært medlem av en kjernekomitè):* 
+* *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* 
 * *Ridder:*
