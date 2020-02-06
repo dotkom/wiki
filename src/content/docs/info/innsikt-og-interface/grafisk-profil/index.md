@@ -84,5 +84,8 @@ Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste 
 ## Annet
 ### [attachment:678 title:"Komitésymboler"] - Inneholder alle komitésymboler på .svg-format
 
+## Presentasjonsmal
+Online har også en relativt enkel presentasjonsmal som kan brukes når noen i linjeforeningen skal holde en presentasjon internt eller til eksterne. Denne kan du finne på Drive, i form av Google Presentation og PowerPoint. [Klikk her for å se dem og laste dem ned](https://drive.google.com/drive/folders/1KqW6iIgtJVHzGW9jis0J_rgGx-Tkkb-1?usp=sharing). Si ifra om du gjerne skulle ha lagt til eller endret noe på malen!
+
 # Henvendelser
 Spørsmål og henvendelser kan sendes til [profil- og aviskomiteen på mail](prokom@online.ntnu.no). Vi tar gjerne imot ris og ros, samt forslag til forbedringer!
