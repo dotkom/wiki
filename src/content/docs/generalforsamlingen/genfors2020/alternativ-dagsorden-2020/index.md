@@ -117,7 +117,7 @@ title: "Alternativ Dagsorden 2020"
 
 ## Pause 10 min
 
-### Valg
+### Godkjenning av komitéledere
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 5 | 23:30  | 23:35  | Godkjenning av leder av arrangementskomiteen  |  |
