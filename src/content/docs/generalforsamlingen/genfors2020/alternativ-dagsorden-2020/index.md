@@ -120,6 +120,17 @@ title: "Alternativ Dagsorden 2020"
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
+| 5 | 23:30  | 23:35  | Godkjenning av leder av arrangementskomiteen  |  |
+| 5 | 23:35  | 23:40  | Godkjenning av leder av bedriftskomiteen  |  |
+| 5 | 23:40  | 23:45  | Godkjenning av leder av drifts- og utviklingskomiteen  |   |
+| 5 | 23:45  | 23:50  | Godkjenning av leder av fag- og kurskomiteen  |  |
+| 5 | 23:50 | 23:55  | Godkjenning av leder av profil- og aviskomiteen  |   |
+| 5 | 23:55  | 00:00  | Godkjenning av leder av trivselskomiteen  |   |
+| Total tid: | |0 t 30 min|
+
+### Valg
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
 | 15 | 23:50  | 00:05  | Valg av leder  |   |
 | 15 | 00:05  | 00:20  | Valg av nestleder  |   |
 | 35 | 00:20  | 00:55  | Valg av økonomiansvarlig  |   |
