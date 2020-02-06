@@ -86,6 +86,7 @@ Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste 
 
 ## Presentasjonsmal
 Online har også en relativt enkel presentasjonsmal som kan brukes når noen i linjeforeningen skal holde en presentasjon internt eller til eksterne. Denne kan du finne på Drive, i form av Google Presentation og PowerPoint. Hvis du vil bruke den som Theme i Google Drive, kan du følge disse stegene:
+
  * Legg til malen i din egen Drive
  * Opprett ny presentasjon
  * Gå til 'Themes'
