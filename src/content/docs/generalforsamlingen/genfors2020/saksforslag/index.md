@@ -25,6 +25,21 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 **Bakgrunn:** Da Online IL ble opprettet ble det underlagt Hovedstyret. Nå som nodekomiteen har eksistert et år mener vi det er på tide å legge komiteen under en kjernekomité. Online IL samarbeider mest med arrkom og de har noe tilsvarende arbeidsoppgaver. [Trikom har også blitt vurdert og vi ønsker en diskusjon på dette på vedtektskveld]
 
 **Hva foreslås:** Online IL legges under arrkom
+
+## Sak 2 - Fullt medlemskap for relevante masterretninger (August & Benedicte)
+
+Bakgrunn: 
+
+I høst fikk Hovedstyret inn søknader om fullt medlemskap fra to som hadde begynt på en annen masterretning enn MSIT. De hadde begge fullført Bacheloren sin i informatikk sammen med oss, men valgte henholdsvis å begynne på Entreprenørskolen og Digital samhandling.
+
+Hovedstyret følte ikke at vi hadde hjemmel til å gi de fullt medlemskap på bakgrunn av saksforslaget som falt på generalforsamlingen i fjor, og valgte å innvilge sosialt medlemskap til begge to.
+
+
+Forslag:
+
+Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få status som 3. klassing på Onlineweb. 
+
+
   
 
 # Saksforslag for Online Fond
