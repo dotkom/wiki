@@ -20,7 +20,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag 
 
-## Sak 1 - Online IL legges under arrkom (Hovedstyret)
+## Sak 1 - Online IL legges under arrkom (Henrik Liodden og Kaja Lundgaard)
 
 **Bakgrunn:** Da Online IL ble opprettet ble det underlagt Hovedstyret. Nå som nodekomiteen har eksistert et år mener vi det er på tide å legge komiteen under en kjernekomité. Online IL samarbeider mest med arrkom og de har noe tilsvarende arbeidsoppgaver. [Trikom har også blitt vurdert og vi ønsker en diskusjon på dette på vedtektskveld]
 
