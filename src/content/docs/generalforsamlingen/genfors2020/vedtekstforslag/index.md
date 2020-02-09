@@ -54,7 +54,8 @@ I §3.4.1 styrke “, med unntak av vedtektsendringer”
  
 
 ### Skrive om 3.4.1
-Det er mange vedtak som ikke er “saker”
+#### Begrunnelse
+Det er mange vedtak som ikke er “saker”.
 
 #### Endring
 I §3.4.1 endre fra 
@@ -143,11 +144,11 @@ Til:
 #### Begrunnelse
 Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene.
 
-### Strykning
+#### Strykning
 I §3 stryke: 
 “Hovedstyret kan i etterkant av Generalforsamlingen gjøre redaksjonelle endringer i vedtektene.” 
 
-### Tillegg
+#### Tillegg
 I §3.4.2 legge til:
 “Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”
 
@@ -162,6 +163,7 @@ I §3.1 endre:
 “Fullstendig saksliste med vedtektsendringer”
 Til:
 “Fullstendig saksliste med forslag til vedtektsendringer”
+
 ### Organisering til konstituering
 #### Begrunnelse
 Ordlyden her er litt rar, pluss §3.3 burde hete konstituering.
