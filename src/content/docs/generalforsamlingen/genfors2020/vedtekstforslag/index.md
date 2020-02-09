@@ -242,7 +242,7 @@ Endre §5 til §3 og oppdatere påfølgende paragrafnummer.
 
 ### Legge til §X Andre styringsdokumenter
 #### Begrunnelse
-Vi har i Online et sett med andre viktige styringsdokumenter, de burde også reguleres i vedtektene. Paragrafen er foreslått til å legges mot slutten av vedtektene, fordi den er mindre viktig enn mye annet. Oppløsning bør fortsatt være den siste paragrafen, og fordi økonomiparagrafet har noen komplekse sammenhenger med dette paragrafet mener jeg det er greier at de fortsatt ligger rett ved siden av hverandre. 
+Vi har i Online et sett med andre viktige styringsdokumenter, de burde også reguleres i vedtektene. Paragrafen er foreslått til å legges mot slutten av vedtektene, fordi den er mindre viktig enn mye annet. Oppløsning bør fortsatt være den siste paragrafen, og fordi økonomiparagrafet har noen komplekse sammenhenger med denne paragrafen mener jeg det er greier at de fortsatt ligger rett ved siden av hverandre. 
 
 #### Tillegg
 Legge til §X før paragrafen om Økonomi:
@@ -254,11 +254,12 @@ Alle styringsdokumenter i Online er underlagt vedtektene.
 Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent. 
 
 §X.2 Retningslinjer for komiteene
-Kjernekomiteene, samt nodekomiteene har alle et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret. 
+Hver kjernekomité og nodekomité sitt eget sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret. 
 
 #### Strykning
 I §4.2 stryke: 
 “Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret.“
+
 
 
 
