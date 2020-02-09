@@ -17,7 +17,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 [TOC]
 
 # Forslag til Onlines vedtekter
-### Opprette §0 Definisjoner
+### Opprette §0 Definisjoner (Aslak)
 
 #### Begrunnelse
 Det er veldig vanlig, og oversiktlig å ha et definisjonsparagraf i starten av vedtektene. Det gjør også at vi 0-indekserer vedtektene våres, som er en objektivt god ting. 
@@ -37,14 +37,14 @@ For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 
 
 Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming. 
 
-### Stryke overflødig linje i §3.4
+### Stryke overflødig linje i §3.4 (Aslak)
 #### Begrunnelse
 Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5
 
 #### Stryking
 I §3.5 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”
 
-### Stryke overflødig tekst i 3.4.1
+### Stryke overflødig tekst i 3.4.1 (Aslak)
 #### Begrunnelse
 Denne linjen er overflødig da det blir definert i neste punkt. 
 
@@ -53,7 +53,7 @@ I §3.4.1 styrke “, med unntak av vedtektsendringer”
 
  
 
-### Skrive om 3.4.1
+### Skrive om 3.4.1 (Aslak)
 #### Begrunnelse
 Det er mange vedtak som ikke er “saker”.
 
@@ -63,7 +63,7 @@ I §3.4.1 endre fra
 Til 
 “Alle vedtak på generalforsamlingen fattes med”
 
-### Oppdatere flertallsformer
+### Oppdatere flertallsformer (Aslak)
 Gitt at definisjonerparagrafen går igjennom.
 
 #### Begrunnelse
@@ -81,14 +81,14 @@ Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede stemmer f
 Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede stemmer for.
 
 
-### Kutte grupperinger fra §1
+### Kutte grupperinger fra §1 (Aslak)
 #### Begrunnelse
 Grupperinger i linjeforeningen er definert i §4. 
 
 #### Strykning
 Stryke §1.2
 
-### Organisasjonens navn
+### Organisasjonens navn (Aslak)
 #### Begrunnelse
 Navn-paragrafen vår er unødvendig kompleks. 
 
@@ -100,7 +100,7 @@ Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes O
 
 (evt §1.1, hvis ikke forrige går igjennom)
 
-### Mistillit
+### Mistillit (Aslak)
 #### Begrunnelse
 Det er noen litt rare formuleringer i mistillitsparagrafen vår, la oss rydde opp. 
 
@@ -111,7 +111,7 @@ I §4.7 endre
 Til 
 “Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.”
 
-### Fjerne dobbeltdefinering av rettigheter
+### Fjerne dobbeltdefinering av rettigheter (Aslak)
 #### Begrunnelse
 Disse rettighetene er dekket i §3.5
 
@@ -121,7 +121,7 @@ I §5.2 endre:
 Til: 
 “Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen.”
 
-### Kvalifisert ¾ flertall
+### Kvalifisert ¾ flertall (Aslak)
 #### Begrunnelse
 Vi har ikke definert ¾ flertall, la oss bruke en definert form.
 #### Endring
@@ -130,7 +130,7 @@ I §7.1 endre:
 Til:
 “kvalifisert ¾ flertall, og deretter kvalifisert ¾ flertall”
 
-### Kvalifisert ⅔ flertall i Midler
+### Kvalifisert ⅔ flertall i Midler (Aslak)
 #### Begrunnelse
 Når vi endret flertallsformene (om vi gjorde det) endret vi betydning i et tilfelle. Midler, denne retter opp i det. 
 
@@ -140,7 +140,7 @@ I §7.2 endre:
 Til: 
 “⅔ kvalifisert flertall”
 
-### Flytte redaksjonell fullmakt
+### Flytte redaksjonell fullmakt (Aslak)
 #### Begrunnelse
 Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene.
 
@@ -152,19 +152,19 @@ I §3 stryke:
 I §3.4.2 legge til:
 “Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”
 
-### Stryke overflødig del av §3
+### Stryke overflødig del av §3 (Aslak)
 #### Strykning
 I §3 stryke:
 “Og er uavhengig av gjeldende hovedstyrevedtak.
 
-### Forslag til vedtektsendringer
+### Forslag til vedtektsendringer (Aslak)
 #### Endring
 I §3.1 endre:
 “Fullstendig saksliste med vedtektsendringer”
 Til:
 “Fullstendig saksliste med forslag til vedtektsendringer”
 
-### Organisering til konstituering
+### Organisering til konstituering (Aslak)
 #### Begrunnelse
 Ordlyden her er litt rar, pluss §3.3 burde hete konstituering.
 
@@ -175,7 +175,7 @@ I §3.3 endre:
 Til:
 Ved konstituering av generalforsamlingen skal disse rollene fylles:”
 
-### Fjerne setning om at tellekorps skal sitte i salen
+### Fjerne setning om at tellekorps skal sitte i salen (Aslak)
 #### Begrunnelse
 Siden telling av stemmer nå gjøres digitalt er denne setningen overflødig.
 
@@ -184,7 +184,7 @@ I §3.6 stryke:
 “Ved opptelling av hemmelig valg skal tellekorps sitte i salen”
 
 
-### Oppdatering av valgregelement
+### Oppdatering av valgregelement (Aslak)
 #### Begrunnelse
 Valgseksjonen bør oppdateres til å følge definisjonen, og vi rydder opp litt i samme runde. Det var blant annet vanskelig å forstå om blanke stemmer er tellende eller ikke. Denne endringer forandrer ingenting av hvordan vi faktisk gjør valget, det bare skriver ting på en mer ryddig og oversiktlig måte. 
 
@@ -202,7 +202,7 @@ Til:
 
 Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater. “
 
-### Innstillt til innehar
+### Innstillt til innehar (Aslak)
 #### Begrunnelse
 Vi bryr oss ikke om hvem som er innstilt, vi bryr oss om hvem som faktisk har vervet. Plus litt muntlig språk som vi tar i samme slengen. 
 #### Endring
@@ -211,7 +211,7 @@ I §3.6.1 endre:
 Til: 
 “Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.”
 
-### Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret. 
+### Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret.  (Aslak)
 #### Begrunnelse
 Vi skriver at nodekomiteer kan være underlagt hovedstyret, men bare at de skal rapportere til kjernekomiteer. 
 
@@ -221,7 +221,7 @@ I § 4.3 endre:
 Til: 
 “den ansvarlige kjernekomiteen, eller hovedstyret, løpende oppdatert”
 
-### Flytte valg av valgkomité
+### Flytte valg av valgkomité (Aslak)
 #### Begrunnelse
 Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted. 
 
@@ -235,14 +235,14 @@ Til:
 I §3.3 stryke:
 “Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling. 
 
-### Flytte medlemskapsparagraf
+### Flytte medlemskapsparagraf (Aslak)
 #### Begrunnelse
 Konseptet medlemmer blir referert til hele tiden, for å øke lesbarheten bør vi flytte paragrafen frem. 
  
 #### Endring
 Endre §5 til §3 og oppdatere påfølgende paragrafnummer.
 
-### Legge til §X Andre styringsdokumenter
+### Legge til §X Andre styringsdokumenter (Aslak)
 #### Begrunnelse
 Vi har i Online et sett med andre viktige styringsdokumenter, de burde også reguleres i vedtektene. Paragrafen er foreslått til å legges mot slutten av vedtektene, fordi den er mindre viktig enn mye annet. Oppløsning bør fortsatt være den siste paragrafen, og fordi økonomiparagrafet har noen komplekse sammenhenger med denne paragrafen mener jeg det er greier at de fortsatt ligger rett ved siden av hverandre. 
 
