@@ -265,13 +265,16 @@ I §4.2 stryke:
 
 ## Forslag 23: Splittelse av det to-delte vervet (AUO)
 
-### Begrunnelse
+### Bakgrunn
 
 Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur (AUO) har det siste semesteret sett på ulike problemstillinger som berører Online, samt hvorvidt organisasjonsstrukturendringer, uansett størrelse, kan bidra positivt på dette problemet.
 
 Et av områdene AUO så på var en tendens til at Hovedstyremedlemmer blir overarbeidet og i ulik grad utbrent. AUO har undersøkt med nåværende HS og utprøvd et tiltak i tre (3) uker, hvor arbeidsområder tilknyttet HS og selve komiteen ble splittet. Som tiltak foreslår AUO en splittelse av vervene Hovedstyremedlem og komitéleder.
 
 ### §3 Generalforsamlingen
+
+**Begrunnelse**
+Som originalt foreslått av Agnete Djupvik i 2018, så legger vi til godkjenning av komitéledere som en del av generalforsamlingens oppgaver. Dette har som mål å gi generalforsamlingen en lett måte å avvise en komitélederkandidat hvis de ser behovet for å overstyre komiteens valg.
 
 **Erstatt**
 Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
@@ -284,6 +287,9 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 ### §4.1 Hovedstyret
 
 #### §4.1.1 Hovedstyrets sammensetning
+
+**Begrunnelse**
+Styremedlem legges til som en stillingstittel, og er den personen som representerer en komité i Hovedstyret, samtidig som de representerer Hovedstyret i den gitte komiteen. Komitéleder forblir som en tittel innad i hver komité.
 
 **Erstatt:**
 
@@ -304,6 +310,9 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 
 #### §4.1.2 Fravær av Hovedstyremedlem
 
+**Begrunnelse**
+Nestleder blir omdøpt til "vara" for å passe bedre med tittelen styremedlem.
+
 **Erstatt**
 Dersom en komitéleder blir fraværende er det komitélederens nestleder som tar over komitélederens plikter, oppgaver og rettigheter. Dersom en nestleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
@@ -311,6 +320,11 @@ Dersom en komitéleder blir fraværende er det komitélederens nestleder som tar
 Dersom en _komité sitt styremedlem_ blir fraværende er det _styremedlemmets vara_ som tar over _styremedlemmets_ plikter, oppgaver og rettigheter. Dersom en _vara_ ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
 ### §4.2 Kjernekomiteer
+
+**Begrunnelse**
+Styremedlemmer er enda en del av sin komité. Dette kreves for at de skal kunne ha oversikt i komiteen de er valgt til å representere. Viktig å notere her at kjernekomiteen har _minimum_ en vara. Om leder og styremedlem ønsker å ha hver sin vara, eller om det kan være samme person, er opp til hver komité.
+
+Hver komité velger sin leder før generalforsamlingen, men vi legger ingen føringer på nøyaktig når. Det er komiteen sitt ansvar å stille med sin egen leder på generalforsamlingen. Hvis de ikke kommer fram til en kandidat så blir en leder valgt for dem på generalforsamlingen, som er i praksis det samme som dagens løsning.
 
 **Erstatt**
 Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarlig
@@ -323,11 +337,15 @@ _Komiteens leder velges internt i komiteen før generalforsamlingen avholdes, og
 
 #### §4.2.2 Bank- og økonomikomiteen
 
+**Begrunnelse** Bankom er et unntak fra dagens løsning, og denne endringen forsikrer at de forblir et unntak. Praksis burde da være den samme som i dag.
+
 **Erstatt** Bank- og økonomikomiteen velger selv sin leder.
 
 **Med** Bank- og økonomikomiteen velger _og godkjenner sin leder selv_.
  
 #### §4.2.8 Seniorkomiteen
+
+**Begrunnelse** Seniorkom er også et unntak fra dagens løsning, og denne endringen forsikrer at de forblir et unntak. Praksis burde da være den samme som i dag.
 
 **Erstatt** Seniorkomiteen velger selv sin leder.
 
