@@ -40,7 +40,7 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder:* Henrik Liodden, Pål-Edward Larsen
+* *Leder:* Henrik Liodden, Pål-Edward Larsen, Mathias Fossum
 * *Nestleder:*
 * *Økonomiansvarlig:* Christoffer Stensrud
 * *Styremedlem fra arrkom:*
