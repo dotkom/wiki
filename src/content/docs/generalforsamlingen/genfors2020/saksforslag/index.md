@@ -75,6 +75,11 @@ Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive m
 I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss. Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
 Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De 3 beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
 
-  
+## Sak 6 - Fjerne kontorvakter (Silje Marie S. Moksnes)
+**Begrunnelse*
+Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. Kontoret er rotete til tross for at kontorvakten er til stede. 
+ 
+**Endring*
+Tradisjonelle kontorvakter fjernes og trivselskomiteen utarbeider en ny ordning
 
 # Saksforslag for Online Fond
