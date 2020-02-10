@@ -24,7 +24,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Arrkom:* Sindre Langaard
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* Petter Charles Stellberg Redfern, Monika Muzyk, Henrik Hørlück Berg
-* *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye
+* *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye, Elise Rabassa Stautland
 * *Prokom:* Henrik Giil Liisberg
 * *Trikom:* Thea Karin Fladby, Jørgen Nummedal Sveberg, Erik Skår
 
