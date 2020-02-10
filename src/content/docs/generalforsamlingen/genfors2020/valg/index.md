@@ -46,7 +46,7 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:* Kristoffer Nyvoll
 * *Styremedlem fra fagkom:* Johan August Østbye
-* *Styremedlem fra dotkom:* Henrik Hørlück Berg
+* *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
 * *Styremedlem fra prokom:* Henrik Giil Liisberg
 * *Styremedlem fra trikom:* Erik Skår
 
