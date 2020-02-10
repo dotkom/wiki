@@ -67,31 +67,31 @@ Vår 2020:
 
 ## Profil- og aviskomiteen
 
-3 personer har tatt permisjon i løpet av året, 1 person har sluttet i vervet.
-Tok opp 5 nye medlemmer etter sommeren hvorav en falt fra tidlig.
-Byttet økonomiansvarlig to ganger i løpet av året
-Hatt medarbeidersamtaler på høsten
-Grafisk:
-Produsert ny logo til linjeforeningen.
-Produsert og bestilt nytt profileringsmateriale med den nye logoen på.
-Bestilt stickers med den nye logoen som selges på nibble.
-Satt i gang en intern merch-gruppe som arbeider med å få produsert ny Online-merch.
-Ga ut årboka rett etter sommeren i fjor, solgte 31 stykk. (i følge webshop)
-Har satt i gang arbeidet med årets utgave.
-Tatt bilde av alle komiteene + nodekomiteer
-Har hatt salg på linjeforeningsgenseren og solgte om lag 50 stk.
-Produsert profileringsmateriell for TechTalks
-Så langt 100 bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
-Bestilt opp nye lang og tro daljer.
-Hjulpet velkom med produksjon av profileringsmateriale.
-Offline:
-Gitt ut 4 utgaver
-Distribuert Offline til linjeforeninger/abonnenter 
-Samarbeid med Abakus:
-Samarbeidet med PR om enkelte kurs/bedriftspresentasjoner og arrangementer
-Annet:
-Holdt CV-fotografering på høsten, med hjelp av Endre Ulberg
-Arrangert 4 Drikk og kronikk.
+- 3 personer har tatt permisjon i løpet av året, 1 person har sluttet - i vervet.
+- Tok opp 5 nye medlemmer etter sommeren hvorav en falt fra tidlig.
+- Byttet økonomiansvarlig to ganger i løpet av året
+- Hatt medarbeidersamtaler på høsten
+### Grafisk:
+- Produsert ny logo til linjeforeningen.
+- Produsert og bestilt nytt profileringsmateriale med den nye logoen på.
+- Bestilt stickers med den nye logoen som selges på nibble.
+- Satt i gang en intern merch-gruppe som arbeider med å få produsert ny Online-merch.
+- Ga ut årboka rett etter sommeren i fjor, solgte 31 stykk. (i følge webshop)
+- Har satt i gang arbeidet med årets utgave.
+- Tatt bilde av alle komiteene + nodekomiteer
+- Har hatt salg på linjeforeningsgenseren og solgte om lag 50 stk.
+- Produsert profileringsmateriell for TechTalks
+- Så langt 100 bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
+- Bestilt opp nye lang og tro daljer.
+- Hjulpet velkom med produksjon av profileringsmateriale.
+### Offline:
+- Gitt ut 4 utgaver
+- Distribuert Offline til linjeforeninger/abonnenter 
+### Samarbeid med Abakus:
+- Samarbeidet med PR om enkelte kurs/bedriftspresentasjoner og arrangementer
+### Annet:
+- Holdt CV-fotografering på høsten, med hjelp av Endre Ulberg
+- Arrangert 4 Drikk og kronikk.
 
 ## Trivselskomiteen
 
