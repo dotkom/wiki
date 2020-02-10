@@ -41,6 +41,40 @@ Hovedstyret følte ikke at vi hadde hjemmel til å gi de fullt medlemskap på ba
 Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få status som 3. klassing på Onlineweb. 
 
 
+## Sak 3 - Endring av dagsorden dersom vedtektsforslag 23 går gjennom (AUO)
+
+**Bakgrunn:**
+Dersom rollene deles i to skal generalforsamlingen godkjenne komiteenes ledere. Dette er komiteene informert om og har stilt kandidater til.
+
+**Forslag:**
+Godkjenning av komitéledere legges inn i dagsorden. Dette vil foregå slik:
+
+- Komiteens valg av komitéleder holder en 2-minutter pitch.
+- Generalforsamlingen bestemmer om kandidaten kan vedtas ved akklamasjon eller om det skal gå til votering.
+- Om det gås til votering vil det stemmes over kandidaten eller ingen.
+- Om ingen blir valgt vil generalforsamlingen gå over til benking av kandidater.
+- Det går deretter over til standard valgprosess blant benkede kandidater.
+
+[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
+
+## Sak 4 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+
+**Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake". Dette prosjektet slet med opptak direkte etter generalforsamlingen 2019, og kan derfor være noe hovedstyret selv kan ha som arbeidsområde, så er det opp til dem hvorvidt de delegerer arbeidet til en egen gruppe.
+
+**Forslag:** Hovedstyret skal ha fokus på å se hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
+
+## Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+
+**Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake".
+
+**Forslag:**
+
+Hovedstyret skal nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer, som skal ha fokus på hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
+Gruppen skal frem til neste generalforsamling vurdere positive og negative sider ved en eventuell ny struktur.  
+Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive medlemmer av Hovedstyret, komitémedlemmer og andre medlemmer for å iverta fellesskapets interesser.  
+I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss. Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
+Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De 3 beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
+
   
 
 # Saksforslag for Online Fond
