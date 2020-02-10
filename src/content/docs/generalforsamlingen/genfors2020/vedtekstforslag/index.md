@@ -293,20 +293,21 @@ Styremedlem legges til som en stillingstittel, og er den personen som represente
 
 **Erstatt:**
 
-• Leder av Arrangementskomiteen
-• Leder av Bedriftskomiteen
-• Leder av Drifts- og utviklingskomiteen
-• Leder av Fag- og kurskomiteen
-• Leder av Profil- og aviskomiteen
-• Leder av Trivselskomiteen
+- Leder av Arrangementskomiteen
+- Leder av Bedriftskomiteen
+- Leder av Drifts- og utviklingskomiteen
+- Leder av Fag- og kurskomiteen
+- Leder av Profil- og aviskomiteen
+- Leder av Trivselskomiteen
 
 **Med:**
-• _Styremedlem fra_ Arrangementskomiteen
-• _Styremedlem fra_ Bedriftskomiteen
-• _Styremedlem fra_ Drifts- og utviklingskomiteen
-• _Styremedlem fra_ Fag- og kurskomiteen
-• _Styremedlem fra_ Profil- og aviskomiteen
-• _Styremedlem fra_ Trivselskomiteen
+
+- _Styremedlem fra_ Arrangementskomiteen
+- _Styremedlem fra_ Bedriftskomiteen
+- _Styremedlem fra_ Drifts- og utviklingskomiteen
+- _Styremedlem fra_ Fag- og kurskomiteen
+- _Styremedlem fra_ Profil- og aviskomiteen
+- _Styremedlem fra_ Trivselskomiteen
 
 #### §4.1.2 Fravær av Hovedstyremedlem
 
