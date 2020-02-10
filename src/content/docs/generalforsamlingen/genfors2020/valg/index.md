@@ -33,30 +33,3 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* 
 * *Ridder:*
-
-## Vedtektsforslag 23
-
-Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil komitélederrollen bli delt inn i styremedlem og komitéleder. Styremedlemmet stiller enda på generalforsamlingen, men de er altså **ikke** leder av komiteen sin.
-
-**De som har meldt interesse til Hovedstyret er:**
-
-* *Leder:* Henrik Liodden, Pål-Edward Larsen, Mathias Fossum, Benedicte Helen Myrvoll
-* *Nestleder:*
-* *Økonomiansvarlig:* Christoffer Stensrud
-* *Styremedlem fra arrkom:*
-* *Styremedlem fra bedkom:* Kristoffer Nyvoll
-* *Styremedlem fra fagkom:* Johan August Østbye, André Schjøth
-* *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
-* *Styremedlem fra prokom:* Henrik Giil Liisberg
-* *Styremedlem fra trikom:* Erik Skår, Thea Karin Fladby 
-
-Før generalforsamlingen vil da også kjernekomiteene ha internt valg i hver komité. Kandidaten som blir valgt må bli godkjent på generalforsamlingen. Hvis kandidaten blir avvist av generalforsamlingen holdes det et normalt valg der generalforsamlingen kan benke kandidater.
-
-**De som har blitt valgt som kandidat til komitélederverv er:**
-
-* *Arrkomleder:*
-* *Bedkomleder:*
-* *Dotkomleder:*
-* *Fagkomleder:*
-* *Prokomleder:*
-* *Trikomleder:*
