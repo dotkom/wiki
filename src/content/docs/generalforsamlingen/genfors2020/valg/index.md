@@ -43,20 +43,20 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 * *Leder:*
 * *Nestleder:*
 * *Økonomiansvarlig:*
-* *Arrkom:*
-* *Bedkom:*
-* *Dotkom:*
-* *Fagkom:*
-* *Prokom:*
-* *Trikom:*
+* *Styremedlem fra arrkom:*
+* *Styremedlem fra bedkom:*
+* *Styremedlem fra dotkom:*
+* *Styremedlem fra fagkom:*
+* *Styremedlem fra prokom:*
+* *Styremedlem fra trikom:*
 
 Før generalforsamlingen vil da også kjernekomiteene ha internt valg i hver komité. Kandidaten som blir valgt må bli godkjent på generalforsamlingen. Hvis kandidaten blir avvist av generalforsamlingen holdes det et normalt valg der generalforsamlingen kan benke kandidater.
 
 **De som har blitt valgt som kandidat til komitélederverv er:**
 
-* *Arrkom:*
-* *Bedkom:*
-* *Dotkom:*
-* *Fagkom:*
-* *Prokom:*
-* *Trikom:*
+* *Arrkomleder:*
+* *Bedkomleder:*
+* *Dotkomleder:*
+* *Fagkomleder:*
+* *Prokomleder:*
+* *Trikomleder:*
