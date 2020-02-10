@@ -42,7 +42,7 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 
 * *Leder:*
 * *Nestleder:*
-* *Økonomiansvarlig:*
+* *Økonomiansvarlig:* Christoffer Stensrud
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:* Kristoffer Nyvoll
 * *Styremedlem fra fagkom:* Johan August Østbye
