@@ -382,7 +382,7 @@ Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "
 
 Har sett litt over igjen, her er et forslag til formatet på vedtektsforslaget:
 
-Forslag 26 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
+## Forslag 26 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
 
 *Hvorfor? Sikre bedre erfaringsoverføring og gjennomføring. Komiteens virke er direkte knyttet til Itex, og er allerede mye involvert i bedriftskontakten. Det er viktig at Linjeforeningen Online har et profesjonelt ansikt utad, ettersom bedriftskontakt er kilden til mesteparten av våre inntekter*
 
