@@ -363,5 +363,11 @@ _Komiteens leder velges internt i komiteen før generalforsamlingen avholdes, og
 
 **Med** Seniorkomiteen velger _og godkjenner sin leder selv_.
 
+## Forslag 21: Fjerne kontorvakter (Silje Marie S. Moksnes)
+### Begrunnelse
+Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring
+ 
+### Endring
+Tradisjonelle kontorvakter fjernes og trivselskomiteen utarbeider en ny ordning
 
 # Forslag til Onlines fond's vedtekter
