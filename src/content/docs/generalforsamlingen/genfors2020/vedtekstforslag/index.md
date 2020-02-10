@@ -379,4 +379,15 @@ Hvis det forrige forslaget faller, så burde man passe på at medlemmer av Valgk
 ### Endring
 Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret."
 
+
+Har sett litt over igjen, her er et forslag til formatet på vedtektsforslaget:
+
+Forslag 26 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
+
+*Hvorfor? Sikre bedre erfaringsoverføring og gjennomføring. Komiteens virke er direkte knyttet til Itex, og er allerede mye involvert i bedriftskontakten. Det er viktig at Linjeforeningen Online har et profesjonelt ansikt utad, ettersom bedriftskontakt er kilden til mesteparten av våre inntekter*
+
+**Fjern dette punktet**:
+4.3.4 Informatikeres IT-ekskursjon
+
+
 # Forslag til Onlines fond's vedtekter
