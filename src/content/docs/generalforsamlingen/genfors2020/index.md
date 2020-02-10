@@ -29,7 +29,7 @@ Referat fra generalforsamlingen 2019 finner du her:
 
 ## Informasjon
 
-Generalforsamlingen 2020 finner sted mandag 2. mars klokken 16:15 i auditorium R7. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen 2020 finner sted mandag 2. mars klokken 16:30 i auditorium R7. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 20/21 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
