@@ -282,6 +282,17 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 **Med**
 Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, _godkjenning av komitéledere,_ valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
 
+#### Alternativ vedtektsendring
+
+**Begrunnelse**
+Vi har forberedt en vedtektsendring for det tilfellet der vedtektsendring 20 blir vedtatt. Endringen vår til teksten er nøyaktig den samme, den er bare lagt inn i den (potensielt) modifiserte teksten fremfor den gamle.
+
+**Erstatt**
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av ny valgkomité.
+
+**Med**
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, _godkjenning av komitéledere,_ valg av nytt hovedstyre og valg av ny valgkomité.
+
 
 
 ### §4.1 Hovedstyret
