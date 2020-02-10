@@ -33,3 +33,30 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* 
 * *Ridder:*
+
+## Vedtektsforslag 23
+
+Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil komitélederrollen bli delt inn i styremedlem og komitéleder. Styremedlemmet stiller enda på generalforsamlingen, men de er altså **ikke** leder av komiteen sin.
+
+**De som har meldt interesse til Hovedstyret er:**
+
+* *Leder:*
+* *Nestleder:*
+* *Økonomiansvarlig:*
+* *Arrkom:*
+* *Bedkom:*
+* *Dotkom:*
+* *Fagkom:*
+* *Prokom:*
+* *Trikom:*
+
+Før generalforsamlingen vil da også kjernekomiteene ha internt valg i hver komité. Kandidaten som blir valgt må bli godkjent på generalforsamlingen. Hvis kandidaten blir avvist av generalforsamlingen holdes det et normalt valg der generalforsamlingen kan benke kandidater.
+
+**De som har blitt valgt som kandidat til komitélederverv er:**
+
+* *Arrkom:*
+* *Bedkom:*
+* *Dotkom:*
+* *Fagkom:*
+* *Prokom:*
+* *Trikom:*
