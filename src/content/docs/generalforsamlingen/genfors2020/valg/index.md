@@ -44,7 +44,7 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 * *Nestleder:*
 * *Økonomiansvarlig:*
 * *Styremedlem fra arrkom:*
-* *Styremedlem fra bedkom:*
+* *Styremedlem fra bedkom:* Kristoffer Nyvoll
 * *Styremedlem fra dotkom:*
 * *Styremedlem fra dotkom:* Henrik Hørlück Berg
 * *Styremedlem fra fagkom:*
