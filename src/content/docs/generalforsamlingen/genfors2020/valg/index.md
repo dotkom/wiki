@@ -47,7 +47,7 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 * *Styremedlem fra bedkom:*
 * *Styremedlem fra dotkom:*
 * *Styremedlem fra fagkom:*
-* *Styremedlem fra prokom:*
+* *Styremedlem fra prokom:* Henrik Giil Liisberg
 * *Styremedlem fra trikom:* Erik Skår
 
 Før generalforsamlingen vil da også kjernekomiteene ha internt valg i hver komité. Kandidaten som blir valgt må bli godkjent på generalforsamlingen. Hvis kandidaten blir avvist av generalforsamlingen holdes det et normalt valg der generalforsamlingen kan benke kandidater.
