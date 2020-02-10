@@ -363,5 +363,16 @@ _Komiteens leder velges internt i komiteen før generalforsamlingen avholdes, og
 
 **Med** Seniorkomiteen velger _og godkjenner sin leder selv_.
 
+## Forslag 24: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)
+
+**Begrunnelse**: Medlemmer av Valgkom kan per nå ikke stille til verv i Hovedstyret. Dette er en begrensning som ikke egentlig er nødvendig, da medlemmer av Valgkom uansett er svært begrenset i hvor mye makt de kan "misbruke". Det er naturlig at medlemmer av Valgkom kan endre mening i løpet av et år, og bestemme seg for å stille likevel. Derfor er det mer pragmatisk å la medlemmene kunne stille til HS, uavhengig av engasjement i Valgkom.
+
+**Strykning**: "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
+
+## Forslag 25 (om 24 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)
+
+**Begrunnelse**: Hvis det forrige forslaget faller, så burde man passe på at medlemmer av Valgkom ikke bare kan melde seg ut i forkant av generalforsamlingen. Da må man skrive om vedtektene for å forhindre dette.
+
+**Endring**: Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret."
 
 # Forslag til Onlines fond's vedtekter
