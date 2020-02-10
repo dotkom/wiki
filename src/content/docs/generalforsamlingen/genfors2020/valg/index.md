@@ -24,7 +24,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Arrkom:* Sindre Langaard
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* Petter Charles Stellberg Redfern, Monika Muzyk, Henrik Hørlück Berg
-* *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye, Elise Rabassa Stautland
+* *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye, Elise Rabassa Stautland, André Schjøth
 * *Prokom:* Henrik Giil Liisberg
 * *Trikom:* Thea Karin Fladby, Jørgen Nummedal Sveberg, Erik Skår
 
@@ -45,7 +45,7 @@ Dersom vedtektsforslag 23 (splittelse av det to-delte vervet) går gjennom, vil 
 * *Økonomiansvarlig:* Christoffer Stensrud
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:* Kristoffer Nyvoll
-* *Styremedlem fra fagkom:* Johan August Østbye
+* *Styremedlem fra fagkom:* Johan August Østbye, André Schjøth
 * *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
 * *Styremedlem fra prokom:* Henrik Giil Liisberg
 * *Styremedlem fra trikom:* Erik Skår, Thea Karin Fladby 
