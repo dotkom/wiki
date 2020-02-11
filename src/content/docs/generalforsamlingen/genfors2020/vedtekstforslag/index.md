@@ -390,10 +390,17 @@ Hvis det forrige forslaget faller, så burde man passe på at medlemmer av Valgk
 ### Endring
 Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret."
 
+## Forslag 27 (alternativ til 25): Legge ned valgkom (Aslak Hollund)
 
-Har sett litt over igjen, her er et forslag til formatet på vedtektsforslaget:
+### Begrunnelse
+Jeg mener at dersom man fjerner restriksjonen mot å la valgkom stille til valg, så er den også overflødig. Da burde det formelle ansvaret for å finne kandidater til valgene falle til hovedstyret. Valgkoms funksjon er å være en enhet som jobber for å finne gode kandidater, som ikke har noen private ambisjoner om å stille selv. Nå eksisterer vi i en hvis flux, der du i teorien kan melde deg ut av valgkom og fortsatt stille. Det er rart, og jeg er usikker på om at jeg liker at vi har det sånn. Men ordningen vi har nå er heller ikke helt ugrunnet. Det er viktig å ta menneskelige realiteter inn i bilde, og ting kan endre seg på et år. Så lenge det blir helt tydeligiggjort at man går ut av valgkom kan det argumenteres for at man bør ha muligheten til å gjøre det. 
 
-## Forslag 27 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
+Uansett, slik jeg ser det har vi tre reelle muligheter. Behold løsningen slik den er i dag. Begrens valgkom mer slik at de faktisk ikke kan stille til valg. Eller fjern valgkom. 
+
+### Endring
+Formuleringen kommer senere dersom det blir nødvendig. 
+
+## Forslag 28 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
 
 ### Begrunnelse
 
