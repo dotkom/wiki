@@ -415,7 +415,12 @@ Sikre bedre erfaringsoverføring. Komiteens virke er direkte knyttet til Itex, o
 Ordlyden på forslaget kommer ASAP, men det blir basically bare akkurat det motsatte fra det vi hadde i fjor. 
 
 ### Begrunnelse
-
+Noen få korte punkter:  
+Onlines medlemmer, spesielt de som ikke er i komité, mister muligheten til å påvirke økonomien i foreningen  
+Vi mister en mekanisme for maktfordeling  
+HS mister tryggheten i at økonomien er godkjent av genfors  
+Vi har hatt noen saker det siste året som viser at det ofte faktisk er viktig å gi alle mulighet til å mene ting, og måtte presentere nye forslag for alle sammen. (F.eks fjerning av teambuildingstøtten.) 
+Jeg er skeptisk til den praktiske verdien av endringen, har hørt litt at det var en veldig busy periode å fullføre regnskapet (vil gjerne ha input fra bankom her) 
 
 
 
