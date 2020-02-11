@@ -43,6 +43,8 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 
 ## Sak 3 - Endring av dagsorden dersom vedtektsforslag 23 går gjennom (AUO)
 
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [her](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+
 **Bakgrunn:**
 Dersom rollene deles i to skal generalforsamlingen godkjenne komiteenes ledere. Dette er komiteene informert om og har stilt kandidater til.
 
@@ -59,11 +61,15 @@ Godkjenning av komitéledere legges inn i dagsorden. Dette vil foregå slik:
 
 ## Sak 4 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [her](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+
 **Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake". Dette prosjektet slet med opptak direkte etter generalforsamlingen 2019, og kan derfor være noe hovedstyret selv kan ha som arbeidsområde, så er det opp til dem hvorvidt de delegerer arbeidet til en egen gruppe.
 
 **Forslag:** Hovedstyret skal ha fokus på å se hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
 
 ## Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [her](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake".
 
