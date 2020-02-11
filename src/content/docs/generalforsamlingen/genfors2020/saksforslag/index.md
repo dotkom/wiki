@@ -84,4 +84,24 @@ Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. K
 
 Tradisjonelle kontorvakter fjernes og Trivselskomiteen utarbeider en ny ordning.
 
+## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)
+**Begrunnelse**
+
+Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to årene har hvert immball hatt 80000 kroner i støtte. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
+
+**Endring**
+
+Dersom det er økonomisk forsvarlig skal Online overføre 30000 av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
+
+## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
+**Begrunnelse**
+
+De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslaget har som intensjon om å overføre beløpet som ikke har blitt overført de siste årene til jubkom.  
+
+**Endring**
+
+Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom  
+
+
+
 # Saksforslag for Online Fond
