@@ -111,7 +111,9 @@ Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes O
 
 ## Forslag 8: Mistillit (Aslak Hollund)
 ### Begrunnelse
-Det er noen litt rare formuleringer i mistillitsparagrafen vår, la oss rydde opp. 
+Det er noen litt rare formuleringer i mistillitsparagrafen vår, la oss rydde opp. Jeg endrer også med dette på hvordan mistillit fungerer litt. I dag så kan man bare stille mistillit dersom noen har misligholdt sitt verv. Om noen melder dette inn til styret, så må de da ta to vurderinger. Har vedkommende misligholdt sitt verv, og er det nok til at man skal ta mistilliten til følge. Jeg syns det blir overflødig, det burde holde med den siste. Plus at jeg har lyst til ha muligheten stille mistillit dersom noen gjør noe grusomt, selv om det ikke har noe med deres verv å gjøre. Om jeg ikke har tillit til at personen kan oppfylle sitt verv ønsker jeg at HS skal ta en vurdering på om min mistillit er reell og om de er enige, selv om personen ikke har misligholdt sitt verv. 
+
+For ordens skyld følger også samme forslag men uten meningsendringen. 
 
 ### Endring
 Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
@@ -120,6 +122,18 @@ I §4.7 endre
 “Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
 Til   
 “Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.”  
+
+## Forslag 8.b: Mistillit med mislighold (Aslak Hollund)
+### Begrunnelse
+Se forrige.
+
+### Endring
+Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
+
+I §4.7 endre   
+“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
+Til   
+“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen som misligholder sine arbeidsoppgaver.”  
 
 ## Forslag 9: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)
 ### Begrunnelse
@@ -144,6 +158,9 @@ I §3.4.2 legge til:
 “Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”  
 
 ## Forslag 13: Stryke overflødig del av §3 (Aslak Hollund)
+###Begrunnelse
+Siden generalforsamlingen er Onlines øverste organ er den per def ikke holden til noen av hovedstyrets vedtak. 
+
 ### Strykning
 I §3 stryke:  
 “Og er uavhengig av gjeldende hovedstyrevedtak.  
