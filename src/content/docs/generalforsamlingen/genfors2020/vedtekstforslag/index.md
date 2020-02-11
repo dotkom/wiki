@@ -406,7 +406,7 @@ Har sett litt over igjen, her er et forslag til formatet på vedtektsforslaget:
 
 ### Begrunnelse
 
-Sikre bedre erfaringsoverføring og gjennomføring. Komiteens virke er direkte knyttet til Itex, og er allerede mye involvert i bedriftskontakten. Det er viktig at Linjeforeningen Online har et profesjonelt ansikt utad, ettersom bedriftskontakt er kilden til mesteparten av våre inntekter
+Sikre bedre erfaringsoverføring. Komiteens virke er direkte knyttet til Itex, og er allerede mye involvert i bedriftskontakten. Det er viktig at Linjeforeningen Online har et profesjonelt ansikt utad, ettersom bedriftskontakt er kilden til mesteparten av våre inntekter
 
 ### Endring
 
