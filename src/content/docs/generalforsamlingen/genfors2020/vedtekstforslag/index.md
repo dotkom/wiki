@@ -322,7 +322,20 @@ Alle kjernekomiteer består av minimum en leder, _et styremedlem, en vara_ og en
 
 ## [Temp] Forslag 24: (Om forslag 23 står) Godkjenning av lederkandidater
 ### Bakgrunn
-Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. Dette vil føre til en mye lenger generalforsamling enn ønsket og derfor har vi en rekke muligheter for hvordan de blir stemt inn. Disse mulighetene blir disuktert på økonomi og vedtektskvelden.
+Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
+Etter splittelsen har ikke komitélederene lenger organmakten tilhørende HS, som gjør at det i mindre grad er kritisk at generalforsamlingen velger utover komiteens forslag.
+I tillegg vil forslag 23 føre til en mye lenger generalforsamling enn ønsket og derfor har vi en rekke muligheter for hvordan de blir stemt inn. Disse mulighetene blir diskutert på økonomi og vedtektskvelden. 
+   
+  
+Vi foreslår dermed at komitéleder velges av komiteen på forhånd av generalforsamlingen og generalforsamlingen godkjenner lederen. Om generalforsamlingen avviser lederkandidaten tas et ordinært valg.
+  
+Ettersom komiteene ikke har hatt mye tid til å holde internt valg diskuteres alternative måter å utføre internvalget på årets økonomi- og vedtektskveld.  
+Forslag til utførelse for årets generalforsamling er:  
+ - Internt valg før generalforsamlingen (Som forslaget er for videre år, men med kort varsel)  
+ - HS godkjenner (Dette gjør at komiteene får tid etter generalforsamlingen til å avholde valg med bedre tid)    
+ - Ekstraordinær generalforsamling
+
+
 
 ### §3 Generalforsamlingen
 
