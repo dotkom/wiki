@@ -29,52 +29,52 @@ Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unnta
 Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid.   
 
 ### Strykning
-I §3.4
-Alminnelig flertall ….. fullstendig avstemming. 
+I §3.4. 
+Alminnelig flertall ….. fullstendig avstemming.   
 
-Slik at gjenværende tekst i §3.4 blir:
-For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmer ha møtt opp.
+Slik at gjenværende tekst i §3.4 blir:  
+For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmer ha møtt opp.  
 
-Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming. 
+Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.  
 
 ## Forslag 2: Stryke overflødig linje i §3.4 (Aslak Hollund)
 ### Begrunnelse
-Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5
+Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5. 
 
-### Stryking
-I §3.5 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”
+### Stryking. 
+I §3.5 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”  
 
 ## Forslag 3: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)
 ### Begrunnelse
 Denne linjen er overflødig da det blir definert i neste punkt. 
 
 ### Strykning
-I §3.4.1 styrke “, med unntak av vedtektsendringer” 
+I §3.4.1 styrke “, med unntak av vedtektsendringer”  
 
  
 
 ## Forslag 4: Skrive om 3.4.1 (Aslak Hollund)
 ### Begrunnelse
-Det er mange vedtak som ikke er “saker”.
+Det er mange vedtak som ikke er “saker”  
 
 ### Endring
-I §3.4.1 endre fra 
-“Alle saker på generalforsamlingen avgjøres ved”
+I §3.4.1 endre fra   
+“Alle saker på generalforsamlingen avgjøres ved” 
 Til 
-“Alle vedtak på generalforsamlingen fattes med”
+“Alle vedtak på generalforsamlingen fattes med”  
 
 ## Forslag 5: Oppdatere flertallsformer (Aslak Hollund)
-Gitt at definisjonerparagrafen går igjennom.
+Gitt at definisjonerparagrafen går igjennom.  
 
 ### Begrunnelse
-Våre flertallsformer er unødvendig kompleks, og strider mot det som er standard. Samt, vi har glemt å definere den som brukes i nedleggelse. 
+Våre flertallsformer er unødvendig kompleks, og strider mot det som er standard. Samt, vi har glemt å definere den som brukes i nedleggelse.   
 
 ### Endring
-I §0 endre fra:
-Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
-Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer. 
+I §0 endre fra:  
+Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.  
+Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.   
 
-Til: 
+Til:   
 Alminnelig flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.   
 Kvalifisert flertall: Mer enn halvparten av de stemmeberettigede tilstede stemmer for.  
 Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede stemmer for.  
@@ -83,7 +83,7 @@ Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede stemmer for
 
 ## Forslag 6: Kutte grupperinger fra §1 (Aslak Hollund)
 ### Begrunnelse
-Grupperinger i linjeforeningen er definert i §4. 
+Grupperinger i linjeforeningen er definert i §4.   
 
 ### Strykning
 Stryke §1.2
@@ -93,174 +93,175 @@ Stryke §1.2
 Navn-paragrafen vår er unødvendig kompleks. 
 
 ### Endringer
-Endre §1 og §1.1 
-Til
-§1
-Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.
+Endre §1 og §1.1   
+Til  
+§1  
+Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.  
 
-(evt §1.1, hvis ikke forrige går igjennom)
+(evt §1.1, hvis ikke forrige går igjennom)  
 
 ## Forslag 8: Mistillit (Aslak Hollund)
 ### Begrunnelse
 Det er noen litt rare formuleringer i mistillitsparagrafen vår, la oss rydde opp. 
 
 ### Endring
-Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit
-I §4.7 endre 
-“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “
-Til 
-“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.”
+Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
+
+I §4.7 endre   
+“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
+Til   
+“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.”  
 
 ## Forslag 9: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)
 ### Begrunnelse
-Disse rettighetene er dekket i §3.5
+Disse rettighetene er dekket i §3.5  
 
 ### Endring
 I §5.2 endre: 
-“Alle medlemmer av linjeforeningen har møte-, tale- og stemmerett på linjeforeningens generalforsamling. Alle medlemmer i linjeforeningen har rett til å levere saks- og vedtektsforslag til generalforamlingen. 
-Til: 
-“Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen.”
+“Alle medlemmer av linjeforeningen har møte-, tale- og stemmerett på linjeforeningens generalforsamling. Alle medlemmer i linjeforeningen har rett til å levere saks- og vedtektsforslag til generalforamlingen.   
+Til:   
+“Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen.”  
 
 ## Forslag 10: Kvalifisert ¾ flertall (Aslak Hollund)
 ### Begrunnelse
-Vi har ikke definert ¾ flertall, la oss bruke en definert form.
+Vi har ikke definert ¾ flertall, la oss bruke en definert form.  
 ### Endring
-I §7.1 endre: 
-“¾ flertall, og deretter ¾ flertall”
-Til:
-“kvalifisert ¾ flertall, og deretter kvalifisert ¾ flertall”
+I §7.1 endre:   
+“¾ flertall, og deretter ¾ flertall”  
+Til:  
+“kvalifisert ¾ flertall, og deretter kvalifisert ¾ flertall”  
 
 ## Forslag 11: Kvalifisert ⅔ flertall i Midler (Aslak Hollund)
 ### Begrunnelse
-Når vi endret flertallsformene (om vi gjorde det) endret vi betydning i et tilfelle. Midler, denne retter opp i det. 
+Når vi endret flertallsformene (om vi gjorde det) endret vi betydning i et tilfelle. Midler, denne retter opp i det.   
 
 ### Endring
-I §7.2 endre: 
-“kvalifisert flertall”
-Til: 
-“⅔ kvalifisert flertall”
+I §7.2 endre:   
+“kvalifisert flertall”  
+Til:   
+“⅔ kvalifisert flertall”  
 
 ## Forslag 12: Flytte redaksjonell fullmakt (Aslak Hollund)
 ### Begrunnelse
-Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene.
+Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene.  
 
 ### Strykning
-I §3 stryke: 
-“Hovedstyret kan i etterkant av Generalforsamlingen gjøre redaksjonelle endringer i vedtektene.” 
+I §3 stryke:   
+“Hovedstyret kan i etterkant av Generalforsamlingen gjøre redaksjonelle endringer i vedtektene.”   
 
 ### Tillegg
-I §3.4.2 legge til:
-“Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”
+I §3.4.2 legge til:  
+“Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”  
 
 ## Forslag 13: Stryke overflødig del av §3 (Aslak Hollund)
 ### Strykning
-I §3 stryke:
-“Og er uavhengig av gjeldende hovedstyrevedtak.
+I §3 stryke:  
+“Og er uavhengig av gjeldende hovedstyrevedtak.  
 
 ## Forslag 14: Forslag til vedtektsendringer (Aslak Hollund)
 ### Endring
-I §3.1 endre:
-“Fullstendig saksliste med vedtektsendringer”
-Til:
-“Fullstendig saksliste med forslag til vedtektsendringer”
+I §3.1 endre:  
+“Fullstendig saksliste med vedtektsendringer”  
+Til:  
+“Fullstendig saksliste med forslag til vedtektsendringer”  
 
 ## Forslag 15: Organisering til konstituering (Aslak Hollund)
 ### Begrunnelse
-Ordlyden her er litt rar, pluss §3.3 burde hete konstituering.
+Ordlyden her er litt rar, pluss §3.3 burde hete konstituering.  
 
 ### Endring
-Endre navnet på §3.3 til Konstituering. 
-I §3.3 endre:
-“Ved generalforsamling er disse vervene nødvendig:”
-Til:
-Ved konstituering av generalforsamlingen skal disse rollene fylles:”
+Endre navnet på §3.3 til Konstituering.   
+I §3.3 endre:  
+“Ved generalforsamling er disse vervene nødvendig:”  
+Til:  
+Ved konstituering av generalforsamlingen skal disse rollene fylles:”  
 
 ## Forslag 16: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)
 ### Begrunnelse
-Siden telling av stemmer nå gjøres digitalt er denne setningen overflødig.
+Siden telling av stemmer nå gjøres digitalt er denne setningen overflødig.  
 
 ### Strykning
-I §3.6 stryke:
-“Ved opptelling av hemmelig valg skal tellekorps sitte i salen”
+I §3.6 stryke:  
+“Ved opptelling av hemmelig valg skal tellekorps sitte i salen”  
 
 
 ## Forslag 17: Oppdatering av valgregelement (Aslak Hollund)
 ### Begrunnelse
-Valgseksjonen bør oppdateres til å følge definisjonen, og vi rydder opp litt i samme runde. Det var blant annet vanskelig å forstå om blanke stemmer er tellende eller ikke. Denne endringer forandrer ingenting av hvordan vi faktisk gjør valget, det bare skriver ting på en mer ryddig og oversiktlig måte. 
+Valgseksjonen bør oppdateres til å følge definisjonen, og vi rydder opp litt i samme runde. Det var blant annet vanskelig å forstå om blanke stemmer er tellende eller ikke. Denne endringer forandrer ingenting av hvordan vi faktisk gjør valget, det bare skriver ting på en mer ryddig og oversiktlig måte.   
 
 ### Tillegg
-I §0 legge til:
-“Stemmetall: Det antallet, er den andelen av, stemmer som en person må oppå for å bli valgt. “
+I §0 legge til:  
+“Stemmetall: Det antallet, er den andelen av, stemmer som en person må oppå for å bli valgt. “  
 
 ### Endring: 
-I §3.6 endre:
+I §3.6 endre:  
 
-“Dersom det er mer enn … avholdes en fullstendig ny runde.”
+“Dersom det er mer enn … avholdes en fullstendig ny runde.”  
 
-Til: 
-“Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen”. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer. 
+Til:   
+“Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen”. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer.   
 
-Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater. “
+Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater. “  
 
 ## Forslag 18: Innstillt til innehar (Aslak Hollund)
 ### Begrunnelse
-Vi bryr oss ikke om hvem som er innstilt, vi bryr oss om hvem som faktisk har vervet. Plus litt muntlig språk som vi tar i samme slengen. 
+Vi bryr oss ikke om hvem som er innstilt, vi bryr oss om hvem som faktisk har vervet. Plus litt muntlig språk som vi tar i samme slengen.   
 ### Endring
-I §3.6.1 endre:
-“Personer som er innstilt med et av følgende verv under Generalforsamlingen fraskriver seg sin rett til å stille til andre valg.”
-Til: 
-“Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.”
+I §3.6.1 endre:  
+“Personer som er innstilt med et av følgende verv under Generalforsamlingen fraskriver seg sin rett til å stille til andre valg.”  
+Til:   
+“Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.”  
 
 ## Forslag 19: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret.  (Aslak Hollund)
 #### Begrunnelse
-Vi skriver at nodekomiteer kan være underlagt hovedstyret, men bare at de skal rapportere til kjernekomiteer. 
+Vi skriver at nodekomiteer kan være underlagt hovedstyret, men bare at de skal rapportere til kjernekomiteer.   
 
 ### Endring
-I § 4.3 endre: 
-“den ansvarlige kjernekomiteen løpende oppdatert”
-Til: 
-“den ansvarlige kjernekomiteen, eller hovedstyret, løpende oppdatert”
+I § 4.3 endre:   
+“den ansvarlige kjernekomiteen løpende oppdatert”  
+Til:   
+“den ansvarlige kjernekomiteen, eller hovedstyret, løpende oppdatert”  
 
 ## Forslag 20: Flytte valg av valgkomité (Aslak Hollund)
 ### Begrunnelse
-Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted. 
+Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted.   
 
 ### Endring
-I §3 endre:
-“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år”
-Til: 
-“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av ny valgkomité.”
+I §3 endre:  
+“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år”  
+Til:   
+“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av ny valgkomité.”  
 
 ### Strykning
-I §3.3 stryke:
-“Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling. 
+I §3.3 stryke:  
+“Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling.   
 
 ## Forslag 21: Flytte medlemskapsparagraf (Aslak Hollund)
 ### Begrunnelse
-Konseptet medlemmer blir referert til hele tiden, for å øke lesbarheten bør vi flytte paragrafen frem. 
+Konseptet medlemmer blir referert til hele tiden, for å øke lesbarheten bør vi flytte paragrafen frem.   
  
 ### Endring
-Endre §5 til §3 og oppdatere påfølgende paragrafnummer.
+Endre §5 til §3 og oppdatere påfølgende paragrafnummer.  
 
 ## Forslag 22: Legge til §X Andre styringsdokumenter (Aslak Hollund)
 ### Begrunnelse
-Vi har i Online et sett med andre viktige styringsdokumenter, de burde også reguleres i vedtektene. Paragrafen er foreslått til å legges mot slutten av vedtektene, fordi den er mindre viktig enn mye annet. Oppløsning bør fortsatt være den siste paragrafen, og fordi økonomiparagrafet har noen komplekse sammenhenger med denne paragrafen mener jeg det er greier at de fortsatt ligger rett ved siden av hverandre. 
+Vi har i Online et sett med andre viktige styringsdokumenter, de burde også reguleres i vedtektene. Paragrafen er foreslått til å legges mot slutten av vedtektene, fordi den er mindre viktig enn mye annet. Oppløsning bør fortsatt være den siste paragrafen, og fordi økonomiparagrafet har noen komplekse sammenhenger med denne paragrafen mener jeg det er greier at de fortsatt ligger rett ved siden av hverandre.   
 
 ### Tillegg
-Legge til §X før paragrafen om Økonomi:
+Legge til §X før paragrafen om Økonomi:  
 
-§X Andre styringsdokumenter
-Alle styringsdokumenter i Online er underlagt vedtektene.
+§X Andre styringsdokumenter  
+Alle styringsdokumenter i Online er underlagt vedtektene.  
 
-§X.1 Forretningsorden
-Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent. 
+§X.1 Forretningsorden  
+Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent.   
 
-§X.2 Retningslinjer for komiteene
-Hver kjernekomité og nodekomité sitt eget sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret. 
+§X.2 Retningslinjer for komiteene  
+Hver kjernekomité og nodekomité sitt eget sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.   
 
 ### Strykning
-I §4.2 stryke: 
-“Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret.“
+I §4.2 stryke:   
+“Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret.“  
 
 
 ## Forslag 23: Splittelse av det to-delte vervet (AUO)
