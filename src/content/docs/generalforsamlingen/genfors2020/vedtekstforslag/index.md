@@ -271,28 +271,6 @@ Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur (AUO) har det siste se
 
 Et av områdene AUO så på var en tendens til at Hovedstyremedlemmer blir overarbeidet og i ulik grad utbrent. AUO har undersøkt med nåværende HS og utprøvd et tiltak i tre (3) uker, hvor arbeidsområder tilknyttet HS og selve komiteen ble splittet. Som tiltak foreslår AUO en splittelse av vervene Hovedstyremedlem og komitéleder.
 
-### §3 Generalforsamlingen
-
-**Begrunnelse**
-Som originalt foreslått av Agnete Djupvik i 2018, så legger vi til godkjenning av komitéledere som en del av generalforsamlingens oppgaver. Dette har som mål å gi generalforsamlingen en lett måte å avvise en komitélederkandidat hvis de ser behovet for å overstyre komiteens valg.
-
-**Erstatt**
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
-
-**Med**
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, _godkjenning av komitéledere,_ valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
-
-#### Alternativ vedtektsendring
-
-**Begrunnelse**
-Vi har forberedt en vedtektsendring for det tilfellet der vedtektsendring 20 blir vedtatt. Endringen vår til teksten er nøyaktig den samme, den er bare lagt inn i den (potensielt) modifiserte teksten fremfor den gamle.
-
-**Erstatt**
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av ny valgkomité.
-
-**Med**
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, _godkjenning av komitéledere,_ valg av nytt hovedstyre og valg av ny valgkomité.
-
 
 
 ### §4.1 Hovedstyret
@@ -336,13 +314,42 @@ Dersom en _komité sitt styremedlem_ blir fraværende er det _styremedlemmets va
 **Begrunnelse**
 Styremedlemmer er enda en del av sin komité. Dette kreves for at de skal kunne ha oversikt i komiteen de er valgt til å representere. Viktig å notere her at kjernekomiteen har _minimum_ en vara. Om leder og styremedlem ønsker å ha hver sin vara, eller om det kan være samme person, er opp til hver komité.
 
-Hver komité velger sin leder før generalforsamlingen, men vi legger ingen føringer på nøyaktig når. Det er komiteen sitt ansvar å stille med sin egen leder på generalforsamlingen. Hvis de ikke kommer fram til en kandidat så blir en leder valgt for dem på generalforsamlingen, som er i praksis det samme som dagens løsning.
-
 **Erstatt**
 Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarlig
 
 **Med**
 Alle kjernekomiteer består av minimum en leder, _et styremedlem, en vara_ og en økonomiansvarlig
+
+## [Temp] Forslag 24: (Om forslag 23 står) Godkjenning av lederkandidater
+### Bakgrunn
+Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. Dette vil føre til en mye lenger generalforsamling enn ønsket og derfor har vi en rekke muligheter for hvordan de blir stemt inn. Disse mulighetene blir disuktert på økonomi og vedtektskvelden.
+
+### §3 Generalforsamlingen
+
+**Begrunnelse**
+Som originalt foreslått av Agnete Djupvik i 2018, så legger vi til godkjenning av komitéledere som en del av generalforsamlingens oppgaver. Dette har som mål å gi generalforsamlingen en lett måte å avvise en komitélederkandidat hvis de ser behovet for å overstyre komiteens valg.
+
+**Erstatt**
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
+
+**Med**
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, _godkjenning av komitéledere,_ valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
+
+#### Alternativ vedtektsendring
+
+**Begrunnelse**
+Vi har forberedt en vedtektsendring for det tilfellet der vedtektsendring 20 blir vedtatt. Endringen vår til teksten er nøyaktig den samme, den er bare lagt inn i den (potensielt) modifiserte teksten fremfor den gamle.
+
+**Erstatt**
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av ny valgkomité.
+
+**Med**
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, _godkjenning av komitéledere,_ valg av nytt hovedstyre og valg av ny valgkomité.
+
+### §4.2 Kjernekomiteer
+
+**Begrunnelse**
+Hver komité velger sin leder før generalforsamlingen, men vi legger ingen føringer på nøyaktig når. Det er komiteen sitt ansvar å stille med sin egen leder på generalforsamlingen. Hvis de ikke kommer fram til en kandidat så blir en leder valgt for dem på generalforsamlingen, som er i praksis det samme som dagens løsning.
 
 **Legg til**
 _Komiteens leder velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom generalforsamlingen ikke godkjenner en kandidat til ledervervet skal det avholdes valg av komitéleder etter §3._
@@ -363,7 +370,7 @@ _Komiteens leder velges internt i komiteen før generalforsamlingen avholdes, og
 
 **Med** Seniorkomiteen velger _og godkjenner sin leder selv_.
 
-## Forslag 24: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)
+## Forslag 25: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)
 
 ### Begrunnelse
 Medlemmer av Valgkom kan per nå ikke stille til verv i Hovedstyret. Dette er en begrensning som ikke egentlig er nødvendig, da medlemmer av Valgkom uansett er svært begrenset i hvor mye makt de kan "misbruke". Det er naturlig at medlemmer av Valgkom kan endre mening i løpet av et år, og bestemme seg for å stille likevel. Derfor er det mer pragmatisk å la medlemmene kunne stille til HS, uavhengig av engasjement i Valgkom.
@@ -371,7 +378,7 @@ Medlemmer av Valgkom kan per nå ikke stille til verv i Hovedstyret. Dette er en
 ### Strykning
 "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
 
-## Forslag 25 (om 24 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)
+## Forslag 26 (om 25 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)
 
 ### Begrunnelse
 Hvis det forrige forslaget faller, så burde man passe på at medlemmer av Valgkom ikke bare kan melde seg ut i forkant av generalforsamlingen. Da må man skrive om vedtektene for å forhindre dette.
@@ -382,7 +389,7 @@ Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "
 
 Har sett litt over igjen, her er et forslag til formatet på vedtektsforslaget:
 
-## Forslag 26 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
+## Forslag 27 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
 
 ### Begrunnelse
 
