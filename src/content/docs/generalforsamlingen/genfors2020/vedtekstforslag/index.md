@@ -23,7 +23,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 Det er veldig vanlig, og oversiktlig å ha et definisjonsparagraf i starten av vedtektene. Det gjør også at vi 0-indekserer vedtektene våres, som er en objektivt god ting. 
 
 ### Ny tekst
-§0 Definisjoner 
+§0 Definisjoner  
 Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.  
 Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.   
 Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid.   
