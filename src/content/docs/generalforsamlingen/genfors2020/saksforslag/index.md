@@ -98,7 +98,7 @@ Dersom det er økonomisk forsvarlig skal Online overføre 30000 av sitt årlige 
 
 De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslaget har som intensjon om å overføre beløpet som ikke har blitt overført de siste årene til jubkom.  
 
-**Endring**
+**Forslag**
 
 Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom  
 
