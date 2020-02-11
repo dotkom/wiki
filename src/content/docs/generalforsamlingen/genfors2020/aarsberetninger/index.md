@@ -67,7 +67,7 @@ Vår 2020:
 
 ## Profil- og aviskomiteen
 
-- 3 personer har tatt permisjon i løpet av året, 1 person har sluttet - i vervet.
+- 3 personer har tatt permisjon i løpet av året, 1 person har sluttet  i vervet.
 - Tok opp 5 nye medlemmer etter sommeren hvorav en falt fra tidlig.
 - Byttet økonomiansvarlig to ganger i løpet av året
 - Hatt medarbeidersamtaler på høsten
