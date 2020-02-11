@@ -411,5 +411,12 @@ Sikre bedre erfaringsoverføring. Komiteens virke er direkte knyttet til Itex, o
 **Fjern dette punktet**:
 4.3.4 Informatikeres IT-ekskursjon
 
+## Forslag 29 - Reversere fjorårets endring i budsjettmakten
+Ordlyden på forslaget kommer ASAP, men det blir basically bare akkurat det motsatte fra det vi hadde i fjor. 
+
+### Begrunnelse
+
+
+
 
 # Forslag til Onlines fond's vedtekter
