@@ -59,8 +59,8 @@ Det er mange vedtak som ikke er “saker”
 
 ### Endring
 I §3.4.1 endre fra   
-“Alle saker på generalforsamlingen avgjøres ved” 
-Til 
+“Alle saker på generalforsamlingen avgjøres ved”   
+Til   
 “Alle vedtak på generalforsamlingen fattes med”  
 
 ## Forslag 5: Oppdatere flertallsformer (Aslak Hollund)
