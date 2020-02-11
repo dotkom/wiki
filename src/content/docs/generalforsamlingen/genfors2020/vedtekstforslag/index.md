@@ -76,9 +76,18 @@ Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unnta
 
 Til:   
 Alminnelig flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.   
-Kvalifisert flertall: Mer enn halvparten av de stemmeberettigede tilstede stemmer for.  
 Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede stemmer for.  
 Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede stemmer for.  
+
+I §7.1 endre:   
+“¾ flertall, og deretter ¾ flertall”  
+Til:  
+“kvalifisert ¾ flertall, og deretter kvalifisert ¾ flertall”  
+
+I §3.4.2, §5.3, §5.4 og §7.2 endre:   
+“kvalifisert flertall”  
+Til:   
+“⅔ kvalifisert flertall” 
 
 
 ## Forslag 6: Kutte grupperinger fra §1 (Aslak Hollund)
@@ -121,25 +130,6 @@ I §5.2 endre:
 “Alle medlemmer av linjeforeningen har møte-, tale- og stemmerett på linjeforeningens generalforsamling. Alle medlemmer i linjeforeningen har rett til å levere saks- og vedtektsforslag til generalforamlingen.   
 Til:   
 “Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen.”  
-
-## Forslag 10: Kvalifisert ¾ flertall (Aslak Hollund)
-### Begrunnelse
-Vi har ikke definert ¾ flertall, la oss bruke en definert form.  
-### Endring
-I §7.1 endre:   
-“¾ flertall, og deretter ¾ flertall”  
-Til:  
-“kvalifisert ¾ flertall, og deretter kvalifisert ¾ flertall”  
-
-## Forslag 11: Kvalifisert ⅔ flertall i Midler (Aslak Hollund)
-### Begrunnelse
-Når vi endret flertallsformene (om vi gjorde det) endret vi betydning i et tilfelle. Midler, denne retter opp i det.   
-
-### Endring
-I §7.2 endre:   
-“kvalifisert flertall”  
-Til:   
-“⅔ kvalifisert flertall”  
 
 ## Forslag 12: Flytte redaksjonell fullmakt (Aslak Hollund)
 ### Begrunnelse
