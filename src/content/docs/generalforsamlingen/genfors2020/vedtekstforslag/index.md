@@ -24,9 +24,9 @@ Det er veldig vanlig, og oversiktlig å ha et definisjonsparagraf i starten av v
 
 ### Ny tekst
 §0 Definisjoner 
-Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.
-Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer. 
-Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid. 
+Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.  
+Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.   
+Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid.   
 
 ### Strykning
 I §3.4
@@ -75,10 +75,10 @@ Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak
 Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer. 
 
 Til: 
-Alminnelig flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke. 
-Kvalifisert flertall: Mer enn halvparten av de stemmeberettigede tilstede stemmer for.
-Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede stemmer for.
-Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede stemmer for.
+Alminnelig flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.   
+Kvalifisert flertall: Mer enn halvparten av de stemmeberettigede tilstede stemmer for.  
+Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede stemmer for.  
+Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede stemmer for.  
 
 
 ## Forslag 6: Kutte grupperinger fra §1 (Aslak Hollund)
