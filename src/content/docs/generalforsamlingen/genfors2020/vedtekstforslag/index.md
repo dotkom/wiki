@@ -320,7 +320,7 @@ Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarl
 **Med**
 Alle kjernekomiteer består av minimum en leder, _et styremedlem, en vara_ og en økonomiansvarlig
 
-## [Temp] Forslag 24: (Om forslag 23 står) Godkjenning av lederkandidater
+## Forslag 24: Godkjenning av lederkandidater
 ### Bakgrunn
 Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
 Etter splittelsen har ikke komitélederene lenger organmakten tilhørende HS, som gjør at det i mindre grad er kritisk at generalforsamlingen velger utover komiteens forslag.
