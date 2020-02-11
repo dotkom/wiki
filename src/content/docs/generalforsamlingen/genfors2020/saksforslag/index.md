@@ -102,14 +102,14 @@ De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslage
 
 Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom  
 
-## Sak 9 - Endre teambuildingstøtten til samlet sum (Thomas Iversen Ramm, Jon Inge Heggstad, Luka Grujic)
+## Sak 9 - Endre teambuildingstøtten til samlet pott (Thomas Iversen Ramm, Jon Inge Heggstad, Luka Grujic)
 **Begrunnelse**
 
 I dag brukes ca. 25000 til ordningen med teambuildingsstøtte til komitemedlemmene. Det er en personlig støtte på 100kr/hode/komite/semester. Hensikten med endringen er å utnytte pengene på en bedre måte.  
 
 **Endring**
 
-Samle teambuildingstøtten til en felles pott og arrangere felles komitearrangementer.  
+Samle teambuildingstøtten til en felles upersonlig pott og arrangere felles komitearrangementer.  
 
 
 
