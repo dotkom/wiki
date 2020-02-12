@@ -18,15 +18,15 @@ Det første du bør finne ut er når du skal dra. Det greieste er å dra høstse
 
 Steg 2: Hvor vil du dra? 🌏
 ------------------
-Etter du har funnet ut når du skal dra er neste steg å bestemme hvor. Her er noen faktorer som kan være greit å tenke på:  
-- Faglig nivå og finner du faktisk de fagene du trenger?
-Språk (f.eks. har de undervisning på engelsk, vil du lære et nytt språk osv.)  
+Etter du har funnet ut når du skal dra er neste steg å bestemme hvor. Her er noen faktorer som kan være greit å tenke på:   
+- Faglig nivå og finner du faktisk de fagene du trenger?  
+- Språk (f.eks. har de undervisning på engelsk, vil du lære et nytt språk osv.)  
 - Klima  
 - Kostnad (skolepenger, erasmusstipend osv.)  
 - Har NTNU avtale med lærestedet?  
 - Størrelse på by  
 
-Du kan egentlig dra hvor som helst, men det er greit å vite at prosessen blir endel lettere om NTNU allerede har en avtale med universitetet. Sjekk hvor NTNU har avtale [her](https://innsida.ntnu.no/studiested-utland. ).
+Du kan egentlig dra hvor som helst, men det er greit å vite at prosessen blir endel lettere om NTNU allerede har en avtale med universitetet. Sjekk hvor NTNU har avtale [her](https://www.ntnu.no/studier/studier_i_utlandet/avtaler).
  
 Merk at du har muligheten til å føre opp tre universiteter i prioritert rekkefølge når du søker. Dette kan være lurt å gjøre så du har et annet alternativ om du ikke skulle få førstevalget ditt.
 
