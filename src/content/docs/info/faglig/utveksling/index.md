@@ -8,7 +8,7 @@ Det som er greit å huske på at det er opp til deg selv å få ordnet alt som k
 
 Hovedsøknadsfristene er 15. september for utveksling på vårsemesteret og 1. februar for utveksling på høstsemesteret/helårig utveksling. OBS! Det finnes noen læresteder som operer med tidligere frister! Dette gjelder hovedsakelig USA, Canada, og noen land i Asia. Sjekk derfor [her](https://innsida.ntnu.no/wiki/-/wiki/Norsk/S%C3%B8knadsfrister+for+utenlandsstudier) for å være på den sikre siden. 
 
-Søknadsprosessen
+Søknadsprosessen 
 ==================
 Her er hva du bør gjøre, steg for steg.
 
@@ -58,23 +58,23 @@ Her er en kort oppsummering av prosessen:
 
 Vær obs på at fagene må godkjennes to ganger; en gang *før* du reiser på utveksling og en gang *etter*. Du må søke om endelig godkjenning etter du har kommet hjem. Når det er sagt, så skal en forhåndsgodkjenning garantere at emnene du tar ved utvekslingsuniversitet blir godkjent som en del av graden din så det skal gå helt fint :)
 
-Steg 5: Send inn søknad på søknadsweb
+Steg 5: Send inn søknad på søknadsweb 📄
 ------------------
 Da er det på tide å faktisk søke om utveksling til internasjonal seksjon. Dette gjør du ved å gå logge inn på søknadsweb, velge «Ny Søknad» à «Utveksling». Her setter du opp en prioritert søknadsliste på (maks 3) universiteter. Om du kvalifiserer for Erasmussstipend, fyll ut den delen av søknadsskjemaet. Den signerte forhåndsgodkjenningen («Tilleggskjema») laster du opp under Mine Dokumenter etter du har opprettet søknaden.
  
 Du får en kvittering fra internasjonal seksjon om mottatt søknad rimelig kjapt. Om du har søkt til et avtaleuniversitet og du får en av plassene fikser internasjonal seksjon at du blir nominert. Plassene blir gitt basert på karaktersnitt, men dette er ikke noe å stresse mye med da det som regel ordner seg uansett ifølge internasjonal seksjon.
 
-Steg 6: Send inn søknad til universitetet
+Steg 6: Send inn søknad til universitetet 🎓
 ------------------
 Når du har fått beskjed fra internasjonal seksjon om at søknaden har blitt godkjent (merk at dette kan ta litt tid og avhenger av søknadsuniversitetet) er neste steg å søke direkte til universitetet. Om du allerede har blitt nominert, har du i praksis allerede fått plass, men man må altså likevel inn på universitetet sin side og fylle ut en søknad. Har du satt opp et avtalelærested som 1. valg vil du bli kontaktet av internasjonal seksjon med informasjon om hvordan du går frem for å gjøre dette. Om universitet du har søkt ikke er et avtalelærested må du passe på å finne ut av fristene selv og innrette deg etter dem.
 
-#### Språkbevis
+#### Språkbevis 
 - Skal du ha undervisning på engelsk kreves det et språkbevis. Dette får du fra internasjonal seksjon om du kan vise at du fikk karakteren 4 eller bedre i engelsk på vgs.
 - Om du skal ha undervisning på et annet spørsmål enn engelsk, er det mulig at universitetet også krever et språkbevis for dette språket. Dette får du for eksempel om du har tatt språket på vgs. Om du ikke tilfredsstiller dette kravet, kan du veie opp for det med å ta et 4-ukers språkkurs i forkant (eller evt. splitte det opp i bolker om du ikke rekker å ta 4 uker i strekk før universitet starter). Man får et språkstipend fra Lånekassen på litt over 20.000 for å dekke et evt. språkkurs, så det anbefales egentlig å ta et kurs enten man tilfredsstiller kravet eller ikke ;)
 
 Etter du har fått sendt inn søknaden, er det bare å vente. Hvor lang tid det tar å få svar varierer på universitetet. 
 
-Steg 7: Gratulerer du skal på utveksling!
+Steg 7: Gratulerer du skal på utveksling! 🥳
 ------------------
 Bra jobba, du har kommet deg gjennom søknadsprosessen og kan nå reise av gårde til mer eksotiske strøk! Etter du har fått svar fra utvekslingsuniversitet (og har takket ja!) er det viktig å huske på å søke støtte fra Lånekassen. Du får lån og stipend som vanlig mens du er på utveksling, men du kan utover det også få reisestøtte, det nevnte språkstipendet, og lån/stipend til skolepenger om dette trengs. Skal du til en plass i Europa får du også Erasmusstipend på mellom 410 og 460 euro per måned avhengig av hvor du reiser. Merk at det kan ta litt tid å faktisk å få disse pengene utbetalt, så det er greit å ikke basere for mye av budsjettet på denne støtten. 
  
