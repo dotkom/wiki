@@ -2,6 +2,7 @@
 title: "Perioden 2019 - 2020"
 ---
 
+- Aslak Hollund, Endre Ulberg og (??) blir utnevnt til riddere på immatrikuleringsball.
 - \#memeogvinogklinoggrin blir opprettet av førsteklassinger. #memeogginogginogjeans blir opprettet i protest fra eldre Onlinere. #random blir glemt.
 - UKE-toget blir en stor suksess! Online stilte med en svær, spinnende Planet Online som overraskende nok holdt seg sammen hele dagen.
 - NY LOGO! Online går inn i det nye tiåret med en ny, modernisert versjon av logoen sin.
