@@ -79,3 +79,12 @@ Steg 7: Gratulerer du skal på utveksling!
 Bra jobba, du har kommet deg gjennom søknadsprosessen og kan nå reise av gårde til mer eksotiske strøk! Etter du har fått svar fra utvekslingsuniversitet (og har takket ja!) er det viktig å huske på å søke støtte fra Lånekassen. Du får lån og stipend som vanlig mens du er på utveksling, men du kan utover det også få reisestøtte, det nevnte språkstipendet, og lån/stipend til skolepenger om dette trengs. Skal du til en plass i Europa får du også Erasmusstipend på mellom 410 og 460 euro per måned avhengig av hvor du reiser. Merk at det kan ta litt tid å faktisk å få disse pengene utbetalt, så det er greit å ikke basere for mye av budsjettet på denne støtten. 
  
 Ellers er det nå på tide å begynne å tenke på praktiske ting ved utenlandsoppholdet. Det er spesielt viktig å sjekke om du trenger visum for å studere i landet og få fikset dette om nødvendig. Hva slags forsikring du må ha og om du trenger noen nye/påfyll av vaksiner er også ting som er greit å få avklart.
+
+Mer informasjon og nyttige lenker
+==================
+- Har du et (eller flere) spørsmål om utveksling? Andre informatikere svarer deg gjerne i #utveksling i Onlineslacken.  
+-  I november 2019 holdt fire flinke informatikere frokostseminar om utveksling. Det anbefales å sjekke ut slides fra [presentasjonen](https://docs.google.com/presentation/d/1gGVZ3KJeSM1nnFXGXe4EP3tIEWVbwOvzWP-H2YQZJvY/edit?usp=sharing).
+- Lurer du på hvordan det er å være på utveksling? Sjekk ut rapporter [her](https://www.ntnu.no/studier/studier_i_utlandet/rapport/search.php?language=no), og blogginnlegg fra datastudenter [her]( http://utland.abakus.no/). I denne utgaven av Offline finner du også en [artikkel](https://online.ntnu.no/media/images/offline/Offline_nr4-2018_Web.pdf) skrevet av en informatiker på utveksling.
+- Sidene til internasjonal seksjon: https://innsida.ntnu.no/utenlandsstudier 
+- IDI wiki side om utveksling: https://www.ntnu.no/wiki/display/utland/Information+about+Student+Exchange  
+- Oversikt over universiteter NTNU har avtale med: https://innsida.ntnu.no/studiested-utland
