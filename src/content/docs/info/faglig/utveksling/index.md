@@ -38,7 +38,7 @@ Steg 3: Sett opp en fagplan 📚
 ------------------
 Etter å ha bestemt hvor du skal reise må du sette opp en fagplan. Dette innebærer å finne fag ved universitet du drar til som tilsvarer de du skulle ha tatt på NTNU og gjøres kun for det universitetet du har satt opp som førstevalg. Prosessen står beskrevet [her](https://innsida.ntnu.no/wiki/-/wiki/Norsk/Forh%C3%A5ndsgodkjenning+av+fagplan+ved+utenlandsopphold#section-Forh%C3%A5ndsgodkjenning+av+fagplan+ved+utenlandsopphold-R%C3%A5d+om+valg+av+emner), men her er noen kjappe tips og ting å tenke på:
 
--  Det kan være greit å starte med å finne erstatninger for de obligatoriske fagene dine på NTNU.
+- Det kan være greit å starte med å finne erstatninger for de obligatoriske fagene dine på NTNU.
 - Om du drar til et universitet IDI-studenter har vært på før kan du sjekke ut [denne oversikten](https://www.ntnu.no/wiki/pages/viewpage.action?pageId=120160900) over tidligere godkjente fag.
 - Fagene du finner bør noenlunde samsvare, men må ikke være helt identiske, med de fagene du skulle ha tatt på NTNU. Se etter like fagnavn og relevante nøkkelord i fagbeskrivelsen på nettsiden til utvekslingsuniversitetet og sammenlign de med NTNU-fagene. Det er viktig at fagene matcher mest mulig da dette øker sjansen for å få de godkjent.
 - Om du reiser på utveksling i ett semester må du ta fag som tilsvarer 30 studiepoeng. Hvor mange poeng et fag er verdt varierer fra universitet til universitet, og det kan dermed bety at du ender opp med flere enn fire fag per semester. Se [her](https://www.ntnu.no/international/studentweb/gnag/gnag.htm) for konvertering av studiepoeng. 
