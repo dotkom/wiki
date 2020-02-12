@@ -1,0 +1,229 @@
+---
+title: "Møte 12/02/20"
+---
+
+**Møtetidspunkt:** 12:15
+
+**Sted:** R51
+
+**Servering:** Kaja 
+
+**1. Referent:** Andreas
+
+**2. Referent:** Benny
+
+**Vinstraff:**
+
+**Ølstraff:**
+
+**Til stede:**
+Nikolai, Mathias, Robin, Jon-Inge, Silje, Kristoffer, Ole, August, Henrik, Emil, Benedicte, Andreas, Erika, Nina  
+
+**Mangler:**
+
+**TODO:**
+
+---
+
+[TOC]
+
+---
+
+## Innsjekk (12:15 - 2 min)
+Jevnt over god kok  
+
+## 305 Godkjenning av innkalling, servering og referat fra forrige uke (12:17 - 1 min)
+
+## 306 Gjøremål fra forrige gang (12:18 - 2 min)
+Godkjent  
+
+## 307 Status for komiteene (12:20 - 20 min)
+
+#### Arrkom, med velkom:
+- Vassfjellet vellykket  
+- Skal arrangere Kryssfest og Vinter OL  
+- Drar på blåtur denne uka.  
+
+##### Velkom:
+- Nettopp startet, første møte forrige uke  
+- Gått gjennom grunnleggende komiteetikette  
+- Ikke så mye status enda  
+
+#### Bedkom:
+- Folk på oslotur, 4 bedriftsbesøk per dag.  
+- Pleie forhold.  
+- Holder på med å få tak i bedrifter til TechTalks.  
+- Oppdatert produktarket med nye priser  
+- Luka tenker å stille som leder i bankkom, så er på utkikk etter ny økans i bedkom.  
+
+
+#### Dotkom:
+- Mange henvendelser fra andre komiteer, jobber mye med det.  
+- Jobbes med å håndtere GDPR forespørselen med utlevering av data.  - 
+
+
+#### Fagkom, med ekskom:
+- Kursene turer å går  
+- Lansert suppleringsopptak  
+- Har hatt workshop, gikk veldig bra!  
+
+
+##### Ekskom
+- Hengt opp flyers  
+
+#### Prokom:
+- Har hatt brekkhelg, gikk fint.  
+- Mye artikler som er insendt av andre enn prokom.  
+- Skal snart ta årboksbilder.  
+- Ønsker å ha teambuilding med README og PR  
+- 
+
+#### Trikom:
+- Diskutert rundt kontorvakter  
+- Har hatt pre-workshop på kontoret.  
+- Oppussingshelg denne helgen, søkt om støtte.  
+
+
+#### Seniorkom: 
+- Fått nytt mailsystem.  
+- Prosjektene tusler og går.  
+- Fått inn pengesøknader fra interessegrupper.  
+- Greenline har fått støtte til å arrangere konkurranser.  
+- Begynt å se på måter for å fremheve interessegrupper mer.  
+- Utmatrikulering jobbes med. Begynt å få på plass sted og underholdning.  
+
+
+
+#### Nestleder:
+- Går i genfors, gjennomført vedtekskvelden.  
+- Gjenstår å få agendaen ferdig.  
+- Jobber med å få rommet frem til 02:00, som er maksgrense per nå. 
+- Styrefest på kontoret på lørdag, vi drar ut på LaBamba etterpå.
+
+
+##### OIL:
+
+##### FIF:
+- Møtet er satt til 18 april, agenda er under planlegging.  
+
+#### Leder:
+- Mye vedtektsting i det siste.  
+- Intervju med Under dusken angående Åreturen.  
+
+#### Økonomiansvarlig:
+
+#### Bankom:
+- Presenterte budsjett og regnskap på vedtektskveld i går.  
+- Snakket med Ole om OIL sin stripe konto  
+- Ny økans i Velkom som det skal bestilles kort til.  
+
+#### ITV:
+- Arbeidet med en bedre måte å kartlegge trivsel  
+- Vil ha en dialog med linjeforeningene for å få tilbakemelding på hvordan det kan gjøres.  
+
+
+#### RFK:
+- Årets andre møte på søndag.  
+- Jobbet på innflytningsfesten.  
+- Genfors kommer i mars, rett etter Online sitt genfors  
+
+## 308 Interkom (12:40 - 10 min)
+
+Forespørsel til prokom om komitemerch
+- Benedicte: Fått forespørsel fra dotkom om å lage en dotkomgenser. Har vært diskutert tidligere, og utfallet har vært "fiks det selv". Problemet vi kom på er om det er så lurt at prokom lager en genser til kun en komite.  
+- Ole: Ønsket en versjon av logoen vår. Dersom noen hadde mulighet til å lage det hadde det vært gøy  
+- Henrik: Kan svare ut i fra om dere har tid eller ikke  
+- Robin: Kan føles ekskluderende med komitemerch  
+- August: Har positiv effekt innad i komiteen og liten effekt den andre veien  
+- Jon: Å gå med komitemerch medfører ansvaret å oppføre seg anstendig og være tilgjengelig med å svare på komitespørsmål.  
+
+## 309 Sammarbeid mellom nodekomiteer og HS (12:50 - 15 min) (Henrik)
+
+[Hovedstyret synes at vi har vært for dårlige på å følge dere opp. Hvordan føler nodekomiteene det og hvordan kan vi gjøre det bedre]
+
+Ekskom 
+- Føler at det har vært vanskelig å få den direkte kontakten. Fint at det arrangeres stormøte der vi kan ta opp saker og ting vi trenger hjelp med og input på.  
+- Mange småproblemer som har eskalert litt. Føler oss veldig som en nodekomité på det viset.  
+
+Velkom
+- Har alltid fått svar på spørsmål vi har hatt så langt, og synes kommunikasjonen har fungert bra.  
+- Øyvind hadde god kontroll på kommunikasjon med HS, kan godt være fordi han var en god leder.  
+- HS tar ansvar for opptaket og har hatt god kommunikasjon i starten, men så går det over til at nodekomitéen blir mer selvstendig etterhvert.  
+
+
+Diskusjon
+- Benedicte: Viktig å ha en god arena for kommunikasjon dersom ting skulle skjære seg, selv om ting går bra nå  
+
+## Pause (13:05 - 5 min)
+
+## 310 Vedtektskveld (13:10 - 15 min)
+[Vi har fått en del feedback etter vedtektskveld, hva gjør vi med den.]
+- Bra med diskusjon belyst fra flere sider  
+- Enkelte diskusjoner ble kortere enn det de burde være  
+- Mange pratet, men bør ha nøytral ordstyrer  
+- Gjennomgående tilbakemelding at særlig flere av saksforslagene ikke var godt nok begrunnet.  
+
+#### Diskusjon rundt saksforslagene
+OIL under arrkom
+- Formalitet, men har også litt og si  
+- Tenker det er riktig å putte det under arrkom eller trikom  
+- Arrkom er mest naturlig da OIL samarbeider med arrkom allerede  
+- Emilie: Gir nok mest mening å legge de under Arrkom, siden vi har mye kommunikasjon allerede.  
+- Erika: Vurdert teambuilding med OIL og kommunikasjonen er allerede på plass  
+- Emil: OIL er en komite som arbeider som en kjernekomite, og vi bør se på mulighetene for å gjøre det om til en
+- Benedicte: Synes det er for tidlig  
+- Emil: Mulighet: Under HS et år til, bedre kommunikasjonen, og så se på muligheten for å gjøre det til en kjernekomite. De opererer jo slik som en kjernekomité med tanke på budsjett og virke nå.  
+- Kristoffer: Kanskje det kan være positivt at Arrkom har flere nodekomiteer å følge opp, ettersom det da må bli en større rutine på det?  
+- Henrik: Litt mot forslaget, ettersom vi kanskje ønsker å gjøre noe med OIL, og da har det ikke noe å si om det ligger under HS eller arrkom  
+
+Avstemning: Ikke kvalifisert flertall
+
+
+Fullt medlemsskap for relevante mastere
+- Lyst til at folk som har fullført en bachelor i informatikk, men har begynt på en annen relevant masterretning, kan få fullt medlemsskap og selge de som tredjeklassinger  
+- Ole: Uenig i formuleringen: "...som tredjeklassing på OW". Bør ikke virke som at det er knyttet til nettsiden.  
+- Kristoffer: Var en case på det her i høst der bedkom var bekymret for hvordan de skulle selge de studentene som ikke hører under en av studieretningene våre. Synes likevel det høres riktig ut at de som styret vurderer som berettiget til å bli fullstendig medlem bør få det. Kan bli en vanskelig vurdering.  
+- Henrik: Har diskutert tilsvarende tidligere, angående sosiale medlemmer. Innafor i dette tilfellet å selge personen ettersom han/hun sitter med kompetansen til en tredjeklassing.  
+
+Avstemning: kvalifisert flertall
+
+Fjerne kontorvakter
+- Bør i hvert fall komme med to forslag om nye løsninger.  
+- Kristoffer: Viser til tall som belyser hvor lite hver og en faktisk ender opp med å måtte gjøre. Mer mottagelighet for å kunne akseptere dette på genfors.  
+- Emil: Tvinger folk som ikke bruker kontoret til å vaske kontoret.  
+- Benedicte: Likte ideen om å lage en sjekkliste for kontorvakten, og når personen er ferdig kan han/hun gå  
+- Stemmer ikke over dette nå
+
+ITEX under bedkom
+- Selvstendig ettersom det ble startet opp alene en gang i  
+- Henrik: Hører under bedkom sitt domene, og derfor naturlig at de legges under bedkom.  
+- Ole: De som har vært med på ITEX før føler at dette har blitt en litt forhastet beslutning.  
+- August: Usikker på om de som har vært med i ITEX har fått effekten av nodekomiteen i form av det sosiale og samholdet.  
+
+Avstemning: Ikke kvalifisert flertall
+
+## 311 Eventuelt (13:25 - 30 min)
+
+Støtte til fadderfond ved Robin 
+- Lurer på hvordan vi gjør det med støtte til fadderfondet, som skjer i Kristiansand  
+- August: IDI er nok de som dere bør hovedsakelig henvende dere til for støtte.  
+
+HR forum for faddersjefer i andre linjeforeninger ved Robin
+- August: Kan ta det opp på linjerledermøtet  
+- Henrik: Dersom det ikke finnes send på foreninger mailinglisten  
+
+Erfaringsoverføring ved at fjorårets nestleder og leder om de ønsker å være med videre i velkom ved Robin
+- Benedicte: Thomas Ramm og Charlotte var med i Slacken, og hjalp til. Er en god idé  
+
+Bråk på bråke ved Henrik
+- Folk som ikke skal være på bråke bråker.  
+- Mathias: Har vært dårlig opplysning om når vi kan være der og ikke.  
+- Jon: Har blitt satt opp tidsskjemaer over når rommene er opptatt nå.  
+- Jon: Er ikke noe Online burde beskyldes for, ettersom de er dårlige på å lukke dører etc.  
+
+Red bubble ved Benedicte
+- Prokom er positive til red bubble  
+- Blir billigere  
+
+## Diggepunkt eller no
+Funket bra med stormøte!
