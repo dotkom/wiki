@@ -5,4 +5,4 @@ title: "Perioden 2019 - 2020"
 - NY LOGO! Online går inn i det nye tiåret med en ny, modernisert versjon av logoen sin.
 - TIHLDE flytter inn i A-blokka som en del av IDIs samlokalisering. En heidundrandes innflytningsfest på tvers av linjeforeningene blir arrangert av IDI for å markere begivenheten. Silent Disco, rodeo, karaoke og linjeband-konsert er blant festlighetene.
 - UKE-toget blir en stor suksess! Online stilte med en svær, spinnende Planet Online som overraskende nok holdt seg sammen hele dagen.
-- \#memeogvinogklinoggrin blir opprettet av førsteklassinger, og blir på kort tid fylt med memes. #memeogginogginogjeans blir opprettet i protest fra eldre Onlinere. #random blir glemt.
+- \#memeogvinogklinoggrin blir opprettet av førsteklassinger. #memeogginogginogjeans blir opprettet i protest fra eldre Onlinere. #random blir glemt.
