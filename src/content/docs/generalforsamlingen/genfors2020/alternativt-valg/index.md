@@ -41,7 +41,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 * *Dotkomleder:*
 * *Fagkomleder:*
 * *Prokomleder:*
-* *Trikomlede:*
+* *Trikomleder:*
 
 
 **De som har meldt interesse til Fondstyret er:**
