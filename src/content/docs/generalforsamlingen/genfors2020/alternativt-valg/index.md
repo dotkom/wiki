@@ -16,7 +16,7 @@ For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne lis
 
 Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under generalforsamlingen.  
 
-**Dersom vedtektsforslag X går gjennom, å splitte ledervervet, vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til Hovedstyret er:**
+**[Dersom vedtektsforslag X går gjennom, å splitte ledervervet](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/vedtekstforslag/#wiki-toc-forslag-23-splittelse-av-det-to-delte-vervet-auo), vil det også velges styremedlemmer til Hovedstyret. De som har meldt interesse til Hovedstyret er:**
 
 * *Leder*:
 * *Nestleder*:
@@ -28,7 +28,9 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem prokom:*
 * *Styremedlem trikom:*
 
-**Dersom saksforslag Y _ikke_ går gjennom, at Hovedstyret godkjenner komitéledere maks én måned etter generalforsamlingen, vil det også velges komitéledere. De som har meldt interesse som komitéledere er:**
+**[Dersom saksforslag Y _ikke_ går gjennom, at Hovedstyret godkjenner komitéledere maks én måned etter generalforsamlingen](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/saksforslag/#wiki-toc-sak-3-endring-av-dagsorden-dersom-vedtektsforslag-23-gar-gjennom-auo), vil det også velges komitéledere. 
+De som har meldt interesse som komitéledere er:**
+
 * *Komitéleder arrkom:*
 * *Komitéleder bedkom:*
 * *Komitéleder dotkom:*
