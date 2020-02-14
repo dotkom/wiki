@@ -117,6 +117,23 @@ title: "Alternativ Dagsorden 2020"
 
 ## Pause 10 min
 
+
+### Valg
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 15 | 23:50  | 00:05  | Valg av leder  |   |
+| 15 | 00:05  | 00:20  | Valg av nestleder  |   |
+| 35 | 00:20  | 00:55  | Valg av økonomiansvarlig  |   |
+| 10 | 00:55  | 01:05  | Valg av styremedlem for arrangementskomiteen  |  |
+| 10 | 01:05  | 01:15  | Valg av styremedlem for bedriftskomiteen  |  |
+| 10 | 01:15  | 01:25  | Valg av styremedlem for drifts- og utviklingskomiteen  |   |
+| 10 | 01:25  | 01:35  | Valg av styremedlem for fag- og kurskomiteen  |  |
+| 10 | 01:35 | 01:45  | Valg av styremedlem for profil- og aviskomiteen  |   |
+| 10 | 01:45  | 01:55  | Valg av styremedlem for trivselskomiteen  |   |
+| 10 | 01:55  | 02:05  | Valg av valgkomite  |   |
+| Total tid: | |2 t 15 min|  
+  
+  
 ### Godkjenning av komitéledere
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
@@ -127,21 +144,7 @@ title: "Alternativ Dagsorden 2020"
 | 5 | 23:50 | 23:55  | Godkjenning av leder av profil- og aviskomiteen  |   |
 | 5 | 23:55  | 00:00  | Godkjenning av leder av trivselskomiteen  |   |
 | Total tid: | |0 t 30 min|
-
-### Valg
-|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
-|---|---|---|---|---|
-| 15 | 23:50  | 00:05  | Valg av leder  |   |
-| 15 | 00:05  | 00:20  | Valg av nestleder  |   |
-| 35 | 00:20  | 00:55  | Valg av økonomiansvarlig  |   |
-| 10 | 00:55  | 01:05  | Valg av leder av arrangementskomiteen  |  |
-| 10 | 01:05  | 01:15  | Valg av leder av bedriftskomiteen  |  |
-| 10 | 01:15  | 01:25  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 10 | 01:25  | 01:35  | Valg av leder av fag- og kurskomiteen  |  |
-| 10 | 01:35 | 01:45  | Valg av leder av profil- og aviskomiteen  |   |
-| 10 | 01:45  | 01:55  | Valg av leder av trivselskomiteen  |   |
-| 10 | 01:55  | 02:05  | Valg av valgkomite  |   |
-| Total tid: | |2 t 15 min|
+  
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
