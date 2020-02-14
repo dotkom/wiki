@@ -33,3 +33,11 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* 
 * *Ridder:*
+
+### Alternativ kandidatliste
+
+Grunnet vedtektsforslag og saksforslag som endrer valgprosessen i år har Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur åpnet en alternativ kandidatliste. Den alternative kandidatlisten dekker det mulige tilfellet der komitélederrollen blir splittet inn i styremedlem og komitéleder, som du kan lese mer om [her](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/vedtekstforslag/#wiki-toc-forslag-23-splittelse-av-det-to-delte-vervet-auo).
+
+Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
+
+Den alternative kandidatlisten finner du [her](wiki:alternativt-valg).
