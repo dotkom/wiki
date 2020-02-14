@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:*
 * *Styremedlem fra dotkom:* Henrik Hørlück Berg
-* *Styremedlem fra fagkom:* Øyvind Jalland Schjerven  
+* *Styremedlem fra fagkom:* Øyvind Jalland Schjerven, André Schjøth  
 * *Styremedlem fra prokom:*
 * *Styremedlem fra trikom:* Erik Skår, Thea Karin Fladby
 
