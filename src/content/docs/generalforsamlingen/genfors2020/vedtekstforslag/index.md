@@ -273,7 +273,7 @@ I §4.2 stryke:
 
 ## Forslag 23: Splittelse av det to-delte vervet (AUO)
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [her](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 ### Bakgrunn
 
@@ -333,7 +333,7 @@ Alle kjernekomiteer består av minimum en leder
 
 ## Forslag 24: Godkjenning av lederkandidater
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [her](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 ### Bakgrunn
 Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
