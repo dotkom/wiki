@@ -328,7 +328,7 @@ Styremedlemmer er enda en del av sin komité. Dette kreves for at de skal kunne 
 Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarlig
 
 **Med**
-Alle kjernekomiteer består av minimum en leder~, nestleder~  og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av _et styremedlem og en vara_.
+Alle kjernekomiteer består av minimum en leder~~, nestleder~~  og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av _et styremedlem og en vara_.
 
 ## Forslag 24: Godkjenning av lederkandidater
 
