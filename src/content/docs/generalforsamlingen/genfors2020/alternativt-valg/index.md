@@ -20,7 +20,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder*: Benedicte Helen Myrvoll, Pål-Edward Larsen
+* *Leder*: Benedicte Helen Myrvoll, Pål-Edward Larsen, Mathias Fossum
 * *Nestleder*: Øyvind Jalland Schjerven, Peter Rydberg 
 * *Økonomiansvarlig*:
 * *Styremedlem fra arrkom:*
