@@ -70,7 +70,7 @@ Når du har fått beskjed fra internasjonal seksjon om at søknaden har blitt go
 
 #### Språkbevis 
 - Skal du ha undervisning på engelsk kreves det et språkbevis. Dette får du fra internasjonal seksjon om du kan vise at du fikk karakteren 4 eller bedre i engelsk på vgs.
-- Om du skal ha undervisning på et annet spørsmål enn engelsk, er det mulig at universitetet også krever et språkbevis for dette språket. Dette får du for eksempel om du har tatt språket på vgs. Om du ikke tilfredsstiller dette kravet, kan du veie opp for det med å ta et 4-ukers språkkurs i forkant (eller evt. splitte det opp i bolker om du ikke rekker å ta 4 uker i strekk før universitet starter). Man får et språkstipend fra Lånekassen på litt over 20.000 for å dekke et evt. språkkurs, så det anbefales egentlig å ta et kurs enten man tilfredsstiller kravet eller ikke ;)
+- Om du skal ha undervisning på et annet spørsmål enn engelsk, er det mulig at universitetet også krever et språkbevis for dette språket. Dette får du for eksempel om du har tatt språket på vgs. Om du ikke tilfredsstiller dette kravet, kan du veie opp for det med å ta et 4-ukers språkkurs i forkant (eller evt. splitte det opp i bolker om du ikke rekker å ta 4 uker i strekk før universitet starter). Man får et språkstipend fra Lånekassen på litt over 20 000 for å dekke et evt. språkkurs, så det anbefales egentlig å ta et kurs enten man tilfredsstiller kravet eller ikke ;)
 
 Etter du har fått sendt inn søknaden, er det bare å vente. Hvor lang tid det tar å få svar varierer på universitetet. 
 
