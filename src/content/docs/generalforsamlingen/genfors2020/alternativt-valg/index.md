@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig*:
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:*
-* *Styremedlem fra dotkom:*
+* *Styremedlem fra dotkom:* Henrik Hørlück Berg
 * *Styremedlem fra fagkom:*
 * *Styremedlem fra prokom:*
 * *Styremedlem fra trikom:* Erik Skår
@@ -38,7 +38,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 
 * *Arrkomleder:*
 * *Bedkomleder:*
-* *Dotkomleder:*
+* *Dotkomleder:* Henrik Hørlück Berg
 * *Fagkomleder:*
 * *Prokomleder:*
 * *Trikomleder:*
