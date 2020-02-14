@@ -46,16 +46,10 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [her](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:**
-Dersom rollene deles i to skal generalforsamlingen godkjenne komiteenes ledere. Dette er komiteene informert om og har stilt kandidater til.
+Dersom rollene deles i to skal generalforsamlingen velge komiteenes ledere i tillegg til styremedlemmer.
 
 **Forslag:**
-Godkjenning av komitéledere legges inn i dagsorden. Dette vil foregå slik:
-
-- Komiteens valg av komitéleder holder en 2-minutter pitch.
-- Generalforsamlingen bestemmer om kandidaten kan vedtas ved akklamasjon eller om det skal gå til votering.
-- Om det gås til votering vil det stemmes over kandidaten eller ingen.
-- Om ingen blir valgt vil generalforsamlingen gå over til benking av kandidater.
-- Det går deretter over til standard valgprosess blant benkede kandidater.
+Valg av komitéledere legges inn i dagsorden. :
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
