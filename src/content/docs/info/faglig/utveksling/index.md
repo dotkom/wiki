@@ -74,7 +74,7 @@ Når du har fått beskjed fra internasjonal seksjon om at søknaden har blitt go
 
 Etter du har fått sendt inn søknaden, er det bare å vente. Hvor lang tid det tar å få svar varierer på universitetet. 
 
-Steg 7: Gratulerer du skal på utveksling! 🥳
+Steg 7: Gratulerer, du skal på utveksling! 🥳
 ------------------
 Bra jobba, du har kommet deg gjennom søknadsprosessen og kan nå reise av gårde til mer eksotiske strøk! Etter du har fått svar fra utvekslingsuniversitet (og har takket ja!) er det viktig å huske på å søke støtte fra Lånekassen. Du får lån og stipend som vanlig mens du er på utveksling, men du kan utover det også få reisestøtte, det nevnte språkstipendet, og lån/stipend til skolepenger om dette trengs. Skal du til en plass i Europa får du også Erasmusstipend på mellom 410 og 460 euro per måned avhengig av hvor du reiser. Merk at det kan ta litt tid å faktisk å få disse pengene utbetalt, så det er greit å ikke basere for mye av budsjettet på denne støtten. 
  
