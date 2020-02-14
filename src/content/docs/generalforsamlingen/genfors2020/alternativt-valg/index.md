@@ -41,7 +41,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 * *Dotkomleder:* Henrik Hørlück Berg
 * *Fagkomleder:* Øyvind Jalland Schjerven  
 * *Prokomleder:*
-* *Trikomleder:*
+* *Trikomleder:* Jørgen Nummedal Sveberg
 
 
 **De som har meldt interesse til Fondstyret er:**
