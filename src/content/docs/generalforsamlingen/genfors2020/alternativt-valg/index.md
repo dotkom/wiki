@@ -39,7 +39,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 * *Arrkomleder:*
 * *Bedkomleder:*
 * *Dotkomleder:* Henrik Hørlück Berg
-* *Fagkomleder:*
+* *Fagkomleder:* Øyvind Jalland Schjerven  
 * *Prokomleder:*
 * *Trikomleder:*
 
