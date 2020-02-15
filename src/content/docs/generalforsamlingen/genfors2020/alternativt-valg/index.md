@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig*:
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:*
-* *Styremedlem fra dotkom:* Henrik Hørlück Berg
+* *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
 * *Styremedlem fra fagkom:* Øyvind Jalland Schjerven, André Schjøth  
 * *Styremedlem fra prokom:*
 * *Styremedlem fra trikom:* Erik Skår, Thea Karin Fladby
