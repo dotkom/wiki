@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder*: Benedicte Helen Myrvoll, Pål-Edward Larsen, Mathias Fossum
 * *Nestleder*: Øyvind Jalland Schjerven, Peter Rydberg 
-* *Økonomiansvarlig*:
+* *Økonomiansvarlig*: Christoffer Stensrud
 * *Styremedlem fra arrkom:*
 * *Styremedlem fra bedkom:*
 * *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
