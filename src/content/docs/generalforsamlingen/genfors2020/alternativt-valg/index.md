@@ -27,7 +27,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra bedkom:*
 * *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
 * *Styremedlem fra fagkom:* Øyvind Jalland Schjerven, André Schjøth  
-* *Styremedlem fra prokom:*
+* *Styremedlem fra prokom:* Henrik Giil Liisberg 
 * *Styremedlem fra trikom:* Erik Skår, Thea Karin Fladby
 
 **OBS!** Dersom vedtektsforslaget om internt valg av komitéleder _også_ går gjennom, vil komiteene velge sine egne komitéledere, som Hovedstyret godkjenner senest én måned etter generalforsamlingen. Dette vedtektsforslaget kan du lese mer om [**her**](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/vedtekstforslag/#wiki-toc-forslag-24-godkjenning-av-lederkandidater).
