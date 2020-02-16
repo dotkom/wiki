@@ -21,7 +21,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 # Saksforslag 
 
 
-## Sak 2 - Fullt medlemskap for relevante masterretninger (August & Benedicte)
+## Sak 1 - Fullt medlemskap for relevante masterretninger (August & Benedicte)
 
 
 **Bakgrunn:**
@@ -36,7 +36,7 @@ Hovedstyret følte ikke at vi hadde hjemmel til å gi de fullt medlemskap på ba
 Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få status som 3. klassing på Onlineweb. 
 
 
-## Sak 3 - Endring av dagsorden for komitéledervalg (AUO)
+## Sak 2 - Endring av dagsorden for komitéledervalg (AUO)
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
@@ -49,7 +49,7 @@ Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dags
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
   
-## Sak 4 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
+## Sak 3 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
   
 **Bakgrunn:**
 To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektsforslag 24 blir vedtatt.** 
@@ -61,7 +61,7 @@ Dagsorden oppdateres til å ikke ha valg av komitéledere.
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020-2/)  
 
-## Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)  
+## Sak 4 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)  
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
@@ -75,7 +75,7 @@ Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive m
 I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss. Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
 Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
 
-## Sak 6 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+## Sak 5 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
 **Fremmes bare dersom saksforslag 4 ikke blir vedtatt.**
 
@@ -85,7 +85,7 @@ Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalfor
 
 **Forslag:** Hovedstyret skal ha fokus på å se hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
 
-## Sak 7 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
+## Sak 6 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
 **Begrunnelse**
 
 Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. Kontoret er rotete til tross for at kontorvakten er til stede. 
@@ -94,7 +94,7 @@ Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. K
 
 Tradisjonelle kontorvakter fjernes og Trivselskomiteen utarbeider en ny ordning.
 
-## Sak 8 - Øke støtten til jubkom (Thomas Iversen Ramm)
+## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
 Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to årene har hvert immball hatt 80000 kroner i støtte. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
@@ -103,7 +103,7 @@ Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to
 
 Dersom det er økonomisk forsvarlig skal Online overføre 30000 av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
 
-## Sak 9 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
+## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
 De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslaget har som intensjon om å overføre beløpet som ikke har blitt overført de siste årene til jubkom.  
