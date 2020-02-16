@@ -347,19 +347,19 @@ Alle kjernekomiteer består av minimum en leder
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
 
 ### Bakgrunn
-Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
+Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
 Etter splittelsen har ikke komitélederene lenger organmakten tilhørende HS, som gjør at det i mindre grad er kritisk at generalforsamlingen velger utover komiteens forslag.
 I tillegg vil forslag 23 føre til en mye lenger generalforsamling enn ønsket og derfor å fremme et alternativt forslag.
 
-Forslaget er som følger:
-Før ordinære generalforsamlinger (ikke i år) skal alle komiteer stille med én komitélederkandidat. Hvis de ikke stiller med en kandidat så blir det et ordinært valg.
+Forslag:
+Før generalforsamlinger skal alle komiteer stille med hver sin internt valgte komitélederkandidat. _Siden komiteene ikke har hatt tid mellom dette forslaget og valget i 2020, så dekker saksforslag 4 et ekstraordinært tilfelle for 2020._
 
-På generalforsamlingen blir Hovedstyret stemt inn som det skjer i dag. For komitélederkandiater er det noen unntak vi må ta hensyn til, som er.
+På generalforsamlingen blir Hovedstyret stemt inn på samme måte som dagens løsning. For komitélederkandiater er det noen unntak vi må ta hensyn til, som er:
 
-- Hvis en komité sin komitélederkandidat blir valgt som styremedlem av generalforsamlingen, så blir det ordinært valg. Dette er fordi de stiller til begge vervene. Styremedlemmet kan fortsatt stille til vervet.
+- Hvis en komité sin komitélederkandidat blir valgt som styremedlem av generalforsamlingen, så blir det ordinært valg av komitéleder. Styremedlemmet kan fortsatt stille til, eller bli benket som komitélederkandidat.
 - Hvis komitélederkandidaten ikke ble stemt inn i Hovedstyret, så godkjenner eller avviser generalforsamlingen kandidaten etter appell og spørsmål.
 - Hvis kandidaten blir avvist, blir det ordinært valg.
-- Hvis det ikke ble forhåndsvalgt enn kandidat, blir det ordinært valg.
+- Hvis det ikke ble forhåndsvalgt en kandidat, blir det ordinært valg.
 
 ### §3 Generalforsamlingen
 
