@@ -122,6 +122,8 @@ Det faktiske innholdet i reglementet må selvsagt utvikles i samarbeid med banko
 
 Intensjonen er at vi tar opp saken til neste genfors og vedtar noe mer permanent. Min tanke nå er at det kunne vært lurt å skrive et eget dokument for dette som vi putter i vedtekten om "Andre styringsdokumenter", men det kan også være saklig å putte det rett inn i vedtektene, eller bare ha det i noe retningslinjer noe sted. 
 
+Grunnen til at jeg ikke fremmer noen vedtektsendring på dette er todelt. Først syns jeg det virker lurt å teste oppsettet på et budsjett før vi fester noe i vedtektene. Da kan vi avdekke eventuelle feil og mangler som vi ikke har tenkt på. Men viktigst er det nok at det er nå er kort tid til fristen for å sende inn vedtektsforslag, og jeg ønsker ikke å vedta noe som ikke har hatt muligheten til å få tilstrekkelig feedback og utbedringer fra andre Onlinere enn meg selv og de jeg har prata med om denne saken.  
+
 **Forslag**  
 Det skal utformes et budsjettreglement som skal regulerer hvilke krav som skal eksistere for at et Hovedstyre skal ha muligheten til å godkjenne et budsjett. Reglementet skal utformes av Hovedstyret og bankom, i samarbeid med andre interesserte Onlinere.  
 
