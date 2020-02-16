@@ -134,8 +134,47 @@ Administrativt
 
 ## Velkomstkomiteen 2019
 
+- Velkom besto av 18 medlemmer inkludert leder, nestleder og to masterstudenter.
+- Bachelor hadde 12 grupper med 10-15 fadderbarn. Hver gruppe hadde 4-6 faddere. Denne størrelsen ga gruppene en god fylde på tross av eventuelle frafall.
+- Master hadde fem grupper med 6-10 fadderbarn. Hver gruppe hadde 4-5 faddere. Her ble det mindre skille mellom gruppene, og mye ble gjort på tvers av grupper.
+- Før fadderukene hadde vi infomøte med Lykkepromillen og kickoff for fadderne.
+- I løpet av fadderukene hadde de fleste gruppene et vors på Realfagskjelleren og et vors på kontoret
+- I løpet av to uker arrangerte vi åtte dager med mulighet for å drikke alkohol og seks dager uten.
+- Vi arrangerte felles badedag med Abakus og Omega på Pirbadet med over 600 deltakere.
 
 ## Datakameratene FK
+
+For Datakameratene FK har 2019 vært et meget godt år. Våren endte med en poengthriller
+av de sjeldne i studentligaen, der vi etter siste kamp tronet på toppen av tabellen for første
+gang i lagets historie! Fasiten etter ferdigspilt sesong ble smått utrolige 18 seire, 1 uavgjort
+og 1 tap, 2 poeng foran andreplassen. 7-er laget hadde også sin første sesong, og har vist
+seg å være et meget godt og populært tilbud, med litt lavere terskel enn 11-er laget. Laget
+endte 18/19 sesongen med en sterk fjerdeplass med 7 seire, 3 uavgjort og 4 tap.
+Med det kunne vi takke av det gamle styret, som i løpet av de to foregående årene har gjort
+en helt enestående jobb med å heve Datakameratene sitt sportslige og sosiale nivå til nye
+høyder. Høstsesongen ble, etter en god overlappingsperiode på våren, innledet av det
+flunkende nye styret, som har satt seg følgende mål for sesongen 2019/20:
+● Ha et arrangement i fadderperioden for å vise oss frem for nye spillere.
+● Få en ny pallplassering i Studentligaen, til tross for at vi mistet en del viktige spillere i
+sommer.
+● Opprykk i 7dentligaen.
+● Minst 1 lagfest per semester.
+● Opprettholde et sosialt og sportslig fotballtilbud for alle nivå.
+● Finne treningstider slik at alle ved Datateknologi, Kommunikasjonsteknologi og
+Informatikk har mulighet til minst én trening i uken som ikke krasjer med forelesning.
+Etter halvspilt sesong i studentligaen ligger 11-er laget på tabelltopp i avdeling A, og er på
+stø kurs for å nå A-sluttspillet som spilles senere i vår. Dette er en prestasjon vi er veldig
+stolte av, da store deler av laget er byttet ut fra forrige sesong. Vi tror dette har å gjøre med
+en god rekrutteringsperiode i fadderperioden, der vi hadde åpen fotballtrening med grilling,
+og over 50 oppmøtte! Vi har hatt god suksess med treningstider både ute og inne, på både
+dagen og kvelden, slik at alle som vil har hatt mulighet til å komme.
+Som ny klubb i 7dentligaen i fjor, ble vi automatisk plassert i den nederste divisjonen. Men
+etter en god høstsesong endte vi til slutt opp på en fjerdeplass i divisjonen, og ble dermed
+plassert i andre av totalt fire divisjoner i 19/20 sesongen. Dette har så langt vært
+“nesten”-sesongen med tre seire og seks tap, der fem av tapene har vært med et knepent
+mål. Til tross for dette har det vært godt stemning og høyt tempo blant samtlige på laget.
+Til tross for store utskiftninger i styret, har det altså blitt et meget godt år, og vi gleder oss til
+mer fotball, moro og sosiale sammenkomster det kommende året!
 
 
 ## Realfagskjelleren 
