@@ -38,7 +38,7 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 
 ## Sak 3 - Endring av dagsorden for komitéledervalg (AUO)
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
 
 **Bakgrunn:**
 To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23 og eventuelt også vedtektsforslag 24 blir vedtatt.** Det blir ingen endring p ådagsorden dersom verken av forslagene vedtas. Dersom vedtektsforslagene blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
@@ -55,7 +55,7 @@ Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Sid
 
 ## Sak 4 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
 
 **Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake".
 
@@ -71,7 +71,7 @@ Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeid
 
 **Fremmes bare dersom saksforslag 4 ikke blir vedtatt.**
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
 
 **Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake". Dette prosjektet slet med opptak direkte etter generalforsamlingen 2019, og kan derfor være noe hovedstyret selv kan ha som arbeidsområde, så er det opp til dem hvorvidt de delegerer arbeidet til en egen gruppe på sikt.
 
