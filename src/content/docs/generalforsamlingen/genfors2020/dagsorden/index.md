@@ -41,23 +41,7 @@ title: "Dagsorden 2020"
 ### Årsberetninger
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 4 | 16:40 | 16:44 | Årsberetning Hovedstyret  |   |
-| 2 | 16:44 | 16:46 | Årsberetning Bank- og økonomikomiteen  |  |
-| 2 | 16:46 | 16:48 | Årsberetning Arrangementskomiteen  |   |
-| 2 | 16:48 | 16:50 | Årsberetning Bedriftskomiteen  |   |
-| 2 | 16:50 | 16:52 | Årsberetning Drifts- og utviklingskomiteen  |   |
-| 2 | 16:52 | 16:54 | Årsberetning Fag- og kurskomiteen  |   |
-| 2 | 16:54 | 16:56 | Årsberetning Profil- og aviskomiteen  |   |
-| 2 | 16:56 | 16:58 | Årsberetning Trivselskomiteen  |   |
-| 2 | 16:58 | 17:00 | Årsberetning Seniorkomiteen  |   |
-| 2 | 17:00 | 17:02 | Årsberetning Ekskursjonskomiteen 2020  |   |
-| 2 | 17:02 | 17:04 | Årsberetning IT-ekskursjonen  |   |
-| 2 | 17:04 | 17:06 | Årsberetning Velkomstkomiteen 2019  |   |
-| 2 | 17:06 | 17:08 | Årsberetning Online IL |   |
-| 2 | 17:08 | 17:10 | Årsberetning Datakameratene FK  |    |
-| 2 | 17:10 | 17:12 | Årsberetning Realfagskjellern  |   |
-| 2 | 17:12 | 17:14 | Årsberetning Casual Gaming  |   |
-| 2 | 17:14 | 17:16 | Årsberetning Output  |   |
+| 15 | 16:40 | 16:44 | Årsberetning for Online og samarbeidspartnere|   |
 | Total tid: | |36 min|
 
 ## Pause 16 minutter
@@ -66,7 +50,6 @@ title: "Dagsorden 2020"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 15 | 17:30  | 17:45  | Godkjenning av regnskap 2019  |  |
-| 15 | 17:45  | 18:00  | Godkjenning av budsjett 20/21  |  |
 | Total tid: | |30 min|
 
 ## Pause 5 minutter
@@ -74,6 +57,14 @@ title: "Dagsorden 2020"
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
+|10|||Sak 2 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
+|5|||Sak 3 - Endring av dagsorden for komitéledervalg (AUO)||
+|5|||Sak 4 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)||
+|5|||Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
+|5|||Sak 6 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
+|15|||Sak 7 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
+|15|||Sak 8 - Øke støtten til jubkom (Thomas Iversen Ramm)||
+|5|||Sak 9 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)||
 | Total tid: | |0 min|
 
 ## Pause 30 min med pizza
@@ -81,6 +72,34 @@ title: "Dagsorden 2020"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
+|30|||Forslag 1: Splittelse av det to-delte vervet (AUO)||
+|7|||Forslag 2: Godkjenning av lederkandidater||
+|15|||Forslag 3: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)||
+|7|||Forslag 4 (om 3 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)||
+|7|||Forslag 5 (alternativ til 3): Legge ned valgkom (Aslak Hollund)||
+|15|||Forslag 6 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen||
+|15|||Forslag 7 - Reversere fjorårets endring i budsjettmakten||
+|5|||Forslag 8: Opprette §0 Definisjoner (Aslak Hollund)||
+|5|||Forslag 9: Opprette §0 Definisjoner (Aslak Hollund)||
+|5|||Forslag 10: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)||
+|5|||Forslag 11: Skrive om 3.4.1 (Aslak Hollund)||
+|5|||Forslag 12: Oppdatere flertallsformer (Aslak Hollund)||
+|5|||Forslag 13: Kutte grupperinger fra §1 (Aslak Hollund)||
+|5|||Forslag 14: Organisasjonens navn (Aslak Hollund)||
+|5|||Forslag 15: Mistillit (Aslak Hollund)||
+|5|||Forslag 16.b: Mistillit med mislighold (Aslak Hollund)||
+|5|||Forslag 17: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)||
+|5|||Forslag 18: Flytte redaksjonell fullmakt (Aslak Hollund)||
+|5|||Forslag 19: Stryke overflødig del av §3 (Aslak Hollund)||
+|5|||Forslag 20: Forslag til vedtektsendringer (Aslak Hollund)||
+|5|||Forslag 21: Organisering til konstituering (Aslak Hollund)||
+|5|||Forslag 22: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)||
+|5|||Forslag 23: Oppdatering av valgregelement (Aslak Hollund)||
+|5|||Forslag 24: Innstillt til innehar (Aslak Hollund)||
+|5|||Forslag 25: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret. (Aslak Hollund)||
+|5|||Forslag 26: Flytte valg av valgkomité (Aslak Hollund)||
+|5|||Forslag 27: Flytte medlemskapsparagraf (Aslak Hollund)||
+|5|||Forslag 28: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
 | Total tid: | |0 min|
 
 ## Pause 5 min
@@ -97,7 +116,6 @@ title: "Dagsorden 2020"
 ### Saksforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|7|18:43|18:50|Saksforslag 1 v/ Hovedstyret||
 | Total tid: | | 7 min |
 
 ### Vedtektsforslag for fondet
