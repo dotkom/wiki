@@ -367,10 +367,10 @@ På generalforsamlingen blir Hovedstyret stemt inn på samme måte som dagens l�
 Vi legger til godkjenning av komitéledere som en del av generalforsamlingens oppgaver. Dette har som mål å gi generalforsamlingen en lett måte å avvise en komitélederkandidat hvis de ser behovet for å overstyre komiteens valg.
 
 **Erstatt**
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år. Valgkomite må velges for det neste år.
 
 **Med**
-Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, _godkjenning av komitéledere,_ valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
+Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, _godkjenning av komitéledere,_ valg og regnskap for foregående år. Valgkomite må velges for det neste år.
 
 #### Alternativ vedtektsendring
 
@@ -389,7 +389,7 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 Hver komité velger sin leder før generalforsamlingen, men vi legger ingen føringer på nøyaktig når. Det er komiteen sitt ansvar å stille med sin egen leder på generalforsamlingen. Hvis de ikke kommer fram til en kandidat så blir en leder valgt for dem på generalforsamlingen, som er i praksis det samme som dagens løsning.
 
 **Legg til**
-_Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Hvis komitélederkandidaten har blitt stemt inn i hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i hovedstyret og generalforsamlingen ikke godkjenner kandidaten til ledervervet skal det avholdes valg av komitéleder etter §3._
+_Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3._
 
 #### §4.2.2 Bank- og økonomikomiteen
 
