@@ -347,23 +347,22 @@ Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalfor
 ### Bakgrunn
 Hvis godkjenning av forslag 23, splittelse av det to-delte vervet, står så er det en rekke muligheter for hvordan ledere skal bli stemt inn. Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
 Etter splittelsen har ikke komitélederene lenger organmakten tilhørende HS, som gjør at det i mindre grad er kritisk at generalforsamlingen velger utover komiteens forslag.
-I tillegg vil forslag 23 føre til en mye lenger generalforsamling enn ønsket og derfor har vi en rekke muligheter for hvordan de blir stemt inn. Disse mulighetene blir diskutert på økonomi og vedtektskvelden. 
-   
-  
-Vi foreslår dermed at komitéleder velges av komiteen på forhånd av generalforsamlingen og generalforsamlingen godkjenner lederen. Om generalforsamlingen avviser lederkandidaten tas et ordinært valg.
-  
-Ettersom komiteene ikke har hatt mye tid til å holde internt valg diskuteres alternative måter å utføre internvalget på årets økonomi- og vedtektskveld.  
-Forslag til utførelse for årets generalforsamling er:  
- - Internt valg før generalforsamlingen (Som forslaget er for videre år, men med kort varsel)  
- - HS godkjenner (Dette gjør at komiteene får tid etter generalforsamlingen til å avholde valg med bedre tid)    
- - Ekstraordinær generalforsamling
+I tillegg vil forslag 23 føre til en mye lenger generalforsamling enn ønsket og derfor å fremme et alternativt forslag.
 
+Forslaget er som følger:
+Før ordinære generalforsamlinger (ikke i år) skal alle komiteer stille med én komitélederkandidat. Hvis de ikke stiller med en kandidat så blir det et ordinært valg.
 
+På generalforsamlingen blir Hovedstyret stemt inn som det skjer i dag. For komitélederkandiater er det noen unntak vi må ta hensyn til, som er.
+
+- Hvis en komité sin komitélederkandidat blir valgt som styremedlem av generalforsamlingen, så blir det ordinært valg. Dette er fordi de stiller til begge vervene. Styremedlemmet kan fortsatt stille til vervet.
+- Hvis komitélederkandidaten ikke ble stemt inn i Hovedstyret, så godkjenner eller avviser generalforsamlingen kandidaten etter appell og spørsmål.
+- Hvis kandidaten blir avvist, blir det ordinært valg.
+- Hvis det ikke ble forhåndsvalgt enn kandidat, blir det ordinært valg.
 
 ### §3 Generalforsamlingen
 
 **Begrunnelse**
-Som originalt foreslått av Agnete Djupvik i 2018, så legger vi til godkjenning av komitéledere som en del av generalforsamlingens oppgaver. Dette har som mål å gi generalforsamlingen en lett måte å avvise en komitélederkandidat hvis de ser behovet for å overstyre komiteens valg.
+Vi legger til godkjenning av komitéledere som en del av generalforsamlingens oppgaver. Dette har som mål å gi generalforsamlingen en lett måte å avvise en komitélederkandidat hvis de ser behovet for å overstyre komiteens valg.
 
 **Erstatt**
 Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregåendeår. Valgkomite må velges for det neste år.
@@ -388,7 +387,7 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 Hver komité velger sin leder før generalforsamlingen, men vi legger ingen føringer på nøyaktig når. Det er komiteen sitt ansvar å stille med sin egen leder på generalforsamlingen. Hvis de ikke kommer fram til en kandidat så blir en leder valgt for dem på generalforsamlingen, som er i praksis det samme som dagens løsning.
 
 **Legg til**
-_Komiteens leder velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom generalforsamlingen ikke godkjenner en kandidat til ledervervet skal det avholdes valg av komitéleder etter §3._
+_Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Hvis komitélederkandidaten har blitt stemt inn i hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i hovedstyret og generalforsamlingen ikke godkjenner kandidaten til ledervervet skal det avholdes valg av komitéleder etter §3._
 
 #### §4.2.2 Bank- og økonomikomiteen
 
