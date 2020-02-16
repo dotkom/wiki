@@ -41,7 +41,7 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:**
-To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23 og eventuelt også vedtektsforslag 24 blir vedtatt.** Det blir ingen endring på dagsorden dersom hverken av forslagene vedtas. Dersom vedtektsforslagene blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23.** Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
 
 **Forslag:**
 Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
