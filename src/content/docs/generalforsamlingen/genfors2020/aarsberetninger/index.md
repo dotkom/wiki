@@ -15,15 +15,47 @@ title: "Årsberetninger 2020"
 ## Hovedstyret
 
 ### Generelt
+- Vi har delt ut diplom for særdeles utmerkelse på julebordet (7 personer)
+- Nominert riddere til immatrikuleringsballet
+- Gjennomført kompilering, med tilhørende risikoanalyse.
+- Innvilget sosialt medlemskap til 12 medlemmer som vil bytte til informatikk/går annen master-retning
+- Gjennomført økonomi og vedtektskveld i forkant av generalforsamlingen
+- Har stått stand på kom-i-gang-dag og jentedag
+- De fleste ledere, nestledere og tillitsvalgte har blitt kurset av SiT i relevante temaer.
+- Har opprettet en sosiale-mediergruppe som organiserer blæsting på instagram og andre plattformer.
+- Har arrangert sommerfest i Oslo
+- Har byttet logo
+- Har gjennomført en testperiode hvor ledervervet i bedkom ble splittet i styremedlem og komiteleder
+- Har begynt planleggingen av jubkom
+- Har gitt ITEX-ansvaret midlertidig til bedkom fram til generalforsamlingen tar et valg.
+- Laget ny taushetserklæring
+- Satt ned AUO (Arbeidsgruppe for undersøkelse av organisasjonsstruktur)
+- Endret komiteopptaket, hver komite kjører intervjuer alene
+- Startet Online IL
+- Startet arbeidet med bedre håndtering av varslingssaker i Online.
+- Valgt leder og nestleder til velkom og Online IL
+- Laget julekalender
+- Laget nye styrebånd
 
 ### Samarbeid med andre
-### Økonomi
+- Vi har gitt enkeltstøtte til datakam jenter
+- Gjennomført tiltak om tidligste frist for sommerjobb (1. oktober), et samarbeid med Forente IT-Foreninger
+- Deltatt på En Psykt Vanlig Uke
+- Representert på diverse immball
+- Deltatt på UKEToget
+- Arrangert fest med IT-styrene (TIHLDE, Abakus, Online, Login, Hybrida)
 
 ### Studentpolitikk
-
-### Komiteer og interessegrupper
+- Samlokaliseringsprosessen på A-blokka har blitt ferdig, TIHLDE har flyttet inn
+- Jobbe for å få lov til å kontakte nye studenter i forbindelse med studieoppstart.
+- Vært på to semestermøter med IDI.
+- Jobbet for å utsette Operativsystemer som del av Bachelorgraden
+- Jobbet for å flytte TIHLDE sitt kontor til andre etasje.
 
 ### Sosialt og kos
+- Stått faddervakt en kveld i fadderukene
+- Delt ut pepperkaker på eksamen
+- Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
 ## Arrangementskomiteen  
 ###Vår 2020
