@@ -57,14 +57,14 @@ title: "Dagsorden 2020"
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|10|||Sak 2 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
-|5|||Sak 3 - Endring av dagsorden for komitéledervalg (AUO)||
-|5|||Sak 4 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)||
-|5|||Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
-|5|||Sak 6 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
-|15|||Sak 7 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
-|15|||Sak 8 - Øke støtten til jubkom (Thomas Iversen Ramm)||
-|5|||Sak 9 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)||
+|10|||Sak 1 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
+|5|||Sak 2 - Endring av dagsorden for komitéledervalg (AUO)||
+|5|||Sak 3 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)||
+|5|||Sak 4 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
+|5|||Sak 5 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
+|15|||Sak 6 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
+|15|||Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)||
+|5|||Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)||
 | Total tid: | |65 min|
 
 ## Pause 30 min med pizza
