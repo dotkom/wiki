@@ -171,3 +171,8 @@ Vår 2020
 
 
 ## Fondstyret
+
+-Har hatt svært få møter dette året, fondets medlemmer er svært spredt for øyeblikket samt det ikke har vært så mange søknader
+-Støttet 1 stk soundboks til arrkom samt seler, den har blitt svært godt brukt
+-Støttet materialer og slikt til uketog byggingen, der vi fikk bygget en fantastisk flåte som engasjerte flere
+-Støttet Online IL med et beløp for å komme seg mer i gang, der tanken er også at det skal brukes på et langsiktig perspektiv
