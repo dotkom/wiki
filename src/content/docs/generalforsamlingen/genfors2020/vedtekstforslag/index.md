@@ -342,6 +342,8 @@ Alle kjernekomiteer består av minimum en leder
 
 ## Forslag 24: Godkjenning av lederkandidater
 
+**Fremmes bare dersom vedtektsforslag 23 blir vedtatt.**
+
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
 
 ### Bakgrunn
