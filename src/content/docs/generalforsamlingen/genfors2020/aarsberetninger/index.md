@@ -140,6 +140,18 @@ Administrativt
 
 ## Realfagskjelleren 
 
+Vi har tatt opp to nye Onlinere: Emil Hjermstad og Marius Brogård Lerstein.
+
+Vi skal ha generalforsamling den 7.03.2020, hvor vi skal velge ny leder, nestleder, økonomiansvarlig, og kjellerkontakter for hver linjeforening.
+
+I tillegg har vi begynt å planlegge neste års jubileum.
+
+SiT har skrudd opp leien på grunn av strøm, men vi har fått en økonomisk avtale med Velferdstinget som holder leien tilsvarende som før.
+
+Vi har holdt ukentlig fredagsåpent, samt ekstra arrangementer av og til. I tilegg har vi hjulpet til på andre arrangementer, derriblant innflyttningsfesten på A-blokka.
+
+Kjelleren har også blitt litt pusset opp og fått knagger og (snart) nytt beerpongbord. Vi har også fått brooklyn lager på tapp.
+
 ## Casual Gaming
 
 
