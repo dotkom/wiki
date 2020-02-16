@@ -42,7 +42,7 @@ title: "Dagsorden 2020"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 15 | 16:40 | 16:44 | Årsberetning for Online og samarbeidspartnere|   |
-| Total tid: | |36 min|
+| Total tid: | |15 min|
 
 ## Pause 16 minutter
 
@@ -50,7 +50,7 @@ title: "Dagsorden 2020"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 15 | 17:30  | 17:45  | Godkjenning av regnskap 2019  |  |
-| Total tid: | |30 min|
+| Total tid: | |15 min|
 
 ## Pause 5 minutter
 
@@ -65,7 +65,7 @@ title: "Dagsorden 2020"
 |15|||Sak 7 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
 |15|||Sak 8 - Øke støtten til jubkom (Thomas Iversen Ramm)||
 |5|||Sak 9 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)||
-| Total tid: | |0 min|
+| Total tid: | |65 min|
 
 ## Pause 30 min med pizza
 
@@ -100,7 +100,7 @@ title: "Dagsorden 2020"
 |5|||Forslag 26: Flytte valg av valgkomité (Aslak Hollund)||
 |5|||Forslag 27: Flytte medlemskapsparagraf (Aslak Hollund)||
 |5|||Forslag 28: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
-| Total tid: | |0 min|
+| Total tid: | |201 min|
 
 ## Pause 5 min
 
@@ -116,7 +116,7 @@ title: "Dagsorden 2020"
 ### Saksforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| Total tid: | | 7 min |
+| Total tid: | | 0 min |
 
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
