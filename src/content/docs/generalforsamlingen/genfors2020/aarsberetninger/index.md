@@ -147,9 +147,21 @@ Vår 2020:
 
 ## Seniorkomiteen
 
- Vår/høst 2018
+ - Tatt opp 5 personer gjennom året
+ - Utnevnt nestleder
+ - Utnevnt økonomiansvarlig
+ - Godkjent 5 nye interessegrupper
+ - Godkjent 13 pengesøknader
 
- Vår 2019
+ Vår/høst 2019
+
+ - Arrangert utmatrikulering
+ - Arrangert komitekickoff
+ - Jobbet med prosjektarbeid
+
+ Vår 2020
+
+ - Begynt arbeid på neste utmatrikulering
 
 ## Ekskursjonskomiteen 2020
 
