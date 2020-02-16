@@ -38,24 +38,32 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 
 ## Sak 3 - Endring av dagsorden for komitéledervalg (AUO)
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:**
-To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23 og eventuelt også vedtektsforslag 24 blir vedtatt.** Det blir ingen endring p ådagsorden dersom verken av forslagene vedtas. Dersom vedtektsforslagene blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23 og eventuelt også vedtektsforslag 24 blir vedtatt.** Det blir ingen endring på dagsorden dersom hverken av forslagene vedtas. Dersom vedtektsforslagene blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
 
 **Forslag:**
 Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
+  
+## Sak 4 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
+  
+**Bakgrunn:**
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektsforslag 24 blir vedtatt.** 
+  
 **Forslag:**
-Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Siden det ikke har blitt tatt internt valg før denne generalforsmalingen foreslår vi at komiteene tar egne interne valg etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne komitéledere med 1 måneds frist. Nåværende valgte ledere forblir komitéledere inntil nye er godkjent.
+Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at komiteene tar egne interne valg etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne komitéledere med 1 måneds frist. Nåværende valgte ledere forblir komitéledere inntil nye er godkjent.
 
-[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
+Dagsorden oppdateres til å ikke ha valg av komitéledere. 
 
-## Sak 4 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)  
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
+## Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)  
+
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake".
 
@@ -67,17 +75,17 @@ Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive m
 I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss. Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
 Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
 
-## Sak 5 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+## Sak 6 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
 **Fremmes bare dersom saksforslag 4 ikke blir vedtatt.**
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake". Dette prosjektet slet med opptak direkte etter generalforsamlingen 2019, og kan derfor være noe hovedstyret selv kan ha som arbeidsområde, så er det opp til dem hvorvidt de delegerer arbeidet til en egen gruppe på sikt.
 
 **Forslag:** Hovedstyret skal ha fokus på å se hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
 
-## Sak 6 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
+## Sak 7 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
 **Begrunnelse**
 
 Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. Kontoret er rotete til tross for at kontorvakten er til stede. 
@@ -86,7 +94,7 @@ Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. K
 
 Tradisjonelle kontorvakter fjernes og Trivselskomiteen utarbeider en ny ordning.
 
-## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)
+## Sak 8 - Øke støtten til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
 Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to årene har hvert immball hatt 80000 kroner i støtte. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
@@ -95,7 +103,7 @@ Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to
 
 Dersom det er økonomisk forsvarlig skal Online overføre 30000 av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
 
-## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
+## Sak 9 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
 De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslaget har som intensjon om å overføre beløpet som ikke har blitt overført de siste årene til jubkom.  
