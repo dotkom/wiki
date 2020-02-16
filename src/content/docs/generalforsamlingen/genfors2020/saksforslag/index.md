@@ -65,7 +65,7 @@ Hovedstyret skal nedsette en arbeidsgruppe for undersøkelse av vår organisasjo
 Gruppen skal frem til neste generalforsamling vurdere positive og negative sider ved en eventuell ny struktur.  
 Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive medlemmer av Hovedstyret, komitémedlemmer og andre medlemmer for å iverta fellesskapets interesser.  
 I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss. Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
-Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De 3 beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
+Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
 
 ## Sak 5 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
