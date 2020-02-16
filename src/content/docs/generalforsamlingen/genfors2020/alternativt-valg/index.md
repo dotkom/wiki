@@ -24,7 +24,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Nestleder*: Øyvind Jalland Schjerven, Peter Rydberg 
 * *Økonomiansvarlig*: Christoffer Stensrud
 * *Styremedlem fra arrkom:*
-* *Styremedlem fra bedkom:*
+* *Styremedlem fra bedkom:* Kristoffer Nyvoll
 * *Styremedlem fra dotkom:* Henrik Hørlück Berg, Monika Muzyk
 * *Styremedlem fra fagkom:* Øyvind Jalland Schjerven, André Schjøth  
 * *Styremedlem fra prokom:* Henrik Giil Liisberg 
@@ -37,7 +37,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 **De som har meldt interesse som komitéledere er:**
 
 * *Arrkomleder:*
-* *Bedkomleder:*
+* *Bedkomleder:* Kristoffer Nyvoll
 * *Dotkomleder:* Henrik Hørlück Berg, Petter Charles Stellberg Redfern
 * *Fagkomleder:* Øyvind Jalland Schjerven  
 * *Prokomleder:*
