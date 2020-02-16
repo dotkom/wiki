@@ -81,12 +81,40 @@ title: "Årsberetninger 2020"
 
 ## Drifts- og utviklingskomiteen
 
+Tok opp 6 nye medlemmer på høsten, 5 fra 1. klasse og 1 fra 4. klasse
+
+
 ### OW4
+- Over 8200 commits på OW4, ca. 700 det siste året.
+- Senket mengden teknisk gjeld betraktlig.
+- Lukket 98 issues, lagt til 57 nye.
+- Åpnet 183 pull requests, 169 lukket.
+- Ca. 50 releases det siste året, totalt 365.
+- Åpnet påmeldingslistene for alle arrangementer.
+- Større endringer bak kulissene, nytt betalingsystem, endret hvordan Onlines struktur representeres i form av komiteer og grupper.
 
+### OW frontend (Beta)
+- 96 pull requests
+- ca. 600 commits
+- Brukes delvis i produksjon for betalinger
 
-### Andre prosjekter
+### Andre prosjekter:
+- Ny infoskjerm på kontoret
+- Fullført arbeid på digitalt kvitteringsskjema
+- Påbegynt arbeid på flere mindre prosjekter, nytt vinstraffsystem
+- Påbegynt arbeid for automatisk regnskapsføring mot Fiken av betalinger på nettsiden.
+- Laget et eget komponentbibliotek/design-system.
+- Forbedret hvordan vi jobber med personvern, anonymisering og sletting av data.
+- Totalt over 3000 commits over 15 forskjellige prosjekter
 
 ### Drift
+- Begynt å utnytte AWS for hosting
+- Sluttet å bruke cloud servere hos Scaleway
+- Jobber mot en mer serverless arkitektur.
+
+### Annet
+- Bistått Seniorkom og Ekskom med arbeid på egne utviklingsprosjekter.
+- Hjulpet til med arrangering av kurs i git for studenter på informatikk og andre relevante linjer.
 
 
 ## Fag- og kurskomiteen
