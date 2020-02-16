@@ -33,8 +33,7 @@ Hovedstyret følte ikke at vi hadde hjemmel til å gi de fullt medlemskap på ba
 
 **Hva foreslås:** 
 
-Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få status som 3. klassing på Onlineweb. 
-
+Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få rettighetene tilsvarende en 3. klassing på bachelor i informatikk.  
 
 ## Sak 2 - Endring av dagsorden for komitéledervalg (AUO)
 
