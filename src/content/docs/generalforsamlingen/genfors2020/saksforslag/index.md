@@ -48,6 +48,7 @@ Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dags
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
+**Forslag:**
 Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020.
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
