@@ -331,8 +331,9 @@ Alle kjernekomiteer består av minimum en leder, nestleder og en økonomiansvarl
 Alle kjernekomiteer består av minimum en leder
 ,̶ ̶n̶e̶s̶t̶l̶e̶d̶e̶r̶  og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av _et styremedlem og en vara_. _Komitéleder og styremedlem kan ha hver sin vara._
   
-### 4.2.2 Bank- og økonomikomiteen  
-**Begrunnelse:** Dette vedtaket skal ikke påvirke allerede eksisterende unntaktsløsninger slik som bankom har. Dermed presiseres at økonomiansvarlig teller som bankom sitt styremedlem, så det ikke Hovedstyret øker i størrelse.    
+### 4.2.2 Bank- og økonomikomiteen
+
+**Begrunnelse:** Dette vedtaket skal ikke påvirke allerede eksisterende unntaktsløsninger slik som bankom har. Dermed presiseres at økonomiansvarlig teller som bankom sitt styremedlem, slik at Hovedstyret ikke øker i størrelse.    
 
  
 **Erstatt:** Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. 
