@@ -40,4 +40,4 @@ Grunnet vedtektsforslag og saksforslag som endrer valgprosessen i år har Arbeid
 
 Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
 
-Den alternative kandidatlisten finner du [**her**](wiki:alternativt-valg).
+[Den alternative kandidatlisten finner du **her**](wiki:alternativt-valg).
