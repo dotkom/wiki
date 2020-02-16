@@ -111,7 +111,7 @@ De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslage
 
 Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom  
 
-## Sak 9 - Budsjettreglement
+## Sak 9 - Budsjettreglement (Aslak Hollund)  
 **Begrunnelse**  
 På fjorårets generalforsamling ble det vedtatt at makten til å godkjenne budsjettet til Online skulle ligge hos Hovedstyret, heller enn hos Generalforsamlingen. Dette hadde en rekke praktiske effekter for bankoms arbeid, men bryter med en del demokratiske prinsipper. For å kunne  forsøke å opprettholde de demokratiske prinsippene som vi misligholder foreslår jeg at vi skriver et budsjettreglement som styrer hva som skal til for at Hovedstyret og bankom skal **kunne** godkjenne et budsjett. 
 
