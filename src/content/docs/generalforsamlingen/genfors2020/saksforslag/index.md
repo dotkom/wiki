@@ -49,7 +49,7 @@ Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dags
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
 **Forslag:**
-Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020.
+Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Siden det ikke har blitt tatt internt valg før denne generalforsmalingen foreslår vi at komiteene tar egne interne valg etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne komitéledere med 1 måneds frist. Nåværende valgte ledere forblir komitéledere inntil nye er godkjent.
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
