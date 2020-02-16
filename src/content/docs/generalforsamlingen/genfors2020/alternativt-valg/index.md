@@ -42,10 +42,3 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 * *Fagkomleder:* Øyvind Jalland Schjerven  
 * *Prokomleder:*
 * *Trikomleder:* Jørgen Nummedal Sveberg
-
-
-**De som har meldt interesse til Fondstyret er:**
-
-* *Onlinemedlem:* 
-* *Tidligere hovedstyremedlem:* 
-* *Ridder:*
