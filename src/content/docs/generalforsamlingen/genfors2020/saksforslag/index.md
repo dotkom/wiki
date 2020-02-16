@@ -59,7 +59,7 @@ Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Sid
 
 Dagsorden oppdateres til å ikke ha valg av komitéledere. 
 
-[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)  
+[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020-2/)  
 
 ## Sak 5 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)  
 
