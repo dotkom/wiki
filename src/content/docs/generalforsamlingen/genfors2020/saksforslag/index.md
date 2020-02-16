@@ -111,6 +111,22 @@ De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslage
 
 Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom  
 
+## Sak 9 - Budsjettreglement
+**Begrunnelse**  
+På fjorårets generalforsamling ble det vedtatt at makten til å godkjenne budsjettet til Online skulle ligge hos Hovedstyret, heller enn hos Generalforsamlingen. Dette hadde en rekke praktiske effekter for bankoms arbeid, men bryter med en del demokratiske prinsipper. For å kunne  forsøke å opprettholde de demokratiske prinsippene som vi misligholder foreslår jeg at vi skriver et budsjettreglement som styrer hva som skal til for at Hovedstyret og bankom skal **kunne** godkjenne et budsjett. 
+
+Detaljene om hva som skal stå i et slikt reglement ønsker jeg å la være opp til de som ender med å skrive det å finne ut, men her er noen kjappe forslag på ting som kunne vært stå i reglementet, så folk skjønner litt mer hva jeg har tenkt:  
+Første utkast av budsjettet må publiseres X uker før godkjenningsmøte og det skal være en kommentarfrist på 1 uke. Før denne fristen kan alle medlemmer av Online sende kommentarer på budsjettet. Andre utkast skal presenteres på et åpent budsjettmøte, der det også skal presenteres et dokument som gjør rede for kommentarer som ble sendt inn og om de er tatt til rette eller ikke. Og så når HS skal godkjenne budsjettet, så må det gjøres på et åpent HS møte. Man kan evt også gjøre det slik at det **må** ha kommet kommentarer fra forskjellige grupperinger innen for Online (Onlinemedlemmer som ikke er i komite, komitemedlem, gamle HS + riddere elns). 
+
+Det faktiske innholdet i reglementet må selvsagt utvikles i samarbeid med bankom slik at man får en løsning som er gjennomførbar. 
+
+Intensjonen er at vi tar opp saken til neste genfors og vedtar noe mer permanent. Min tanke nå er at det kunne vært lurt å skrive et eget dokument for dette som vi putter i vedtekten om "Andre styringsdokumenter", men det kan også være saklig å putte det rett inn i vedtektene, eller bare ha det i noe retningslinjer noe sted. 
+
+**Forslag**  
+Det skal utformes et budsjettreglement som skal regulerer hvilke krav som skal eksistere for at et Hovedstyre skal ha muligheten til å godkjenne et budsjett. Reglementet skal utformes av Hovedstyret og bankom, i samarbeid med andre interesserte Onlinere.  
+
+Budsjettreglementet skal utformes før og brukes under neste budsjettgodkjenning. Før neste generalforsamling skal budsjettreglementet revurderes på bakgrunn av gjennomføringen av budsjettgodkjenningen. Vurderingen og reglementet skal gjøres tilgjengelig for alle Onlinere. Dersom budsjettreglementet fungerer godt skal Hovedstyret fremme forslag for å gjøre ordningen mer permanent. 
+
 
 
 # Saksforslag for Online Fond
