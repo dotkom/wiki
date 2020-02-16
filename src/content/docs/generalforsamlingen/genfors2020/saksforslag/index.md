@@ -36,15 +36,19 @@ Hovedstyret følte ikke at vi hadde hjemmel til å gi de fullt medlemskap på ba
 Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få status som 3. klassing på Onlineweb. 
 
 
-## Sak 3 - Endring av dagsorden dersom vedtektsforslag 23 går gjennom (AUO)
+## Sak 3 - Endring av dagsorden for komitéledervalg (AUO)
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:**
-Dersom rollene deles i to skal generalforsamlingen velge komiteenes ledere i tillegg til styremedlemmer.
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23 og eventuelt også vedtektsforslag 24 blir vedtatt.** Det blir ingen endring p ådagsorden dersom verken av forslagene vedtas. Dersom vedtektsforslagene blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
 
 **Forslag:**
-Valg av komitéledere legges inn i dagsorden. :
+Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
+
+[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
+
+Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020.
 
 [Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
 
