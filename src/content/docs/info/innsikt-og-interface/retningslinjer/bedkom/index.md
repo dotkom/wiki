@@ -71,7 +71,7 @@ Komiteen har som ansvar å følge opp linjesamarbeidet og delta på møtene dere
 Komiteen har som ansvar å administrere stillingsutlysningene på nettsidene våre. 
 
 ####(14) Tech Talks
-Komiteen skal hjelpe Tech Talk smed å komme i kontakt med bedrifter som er interessert i å ta del i Tech Talks.
+Komiteen skal hjelpe Tech Talks med å komme i kontakt med bedrifter som er interessert i å ta del i Tech Talks.
 
 ### §4 Bedriftskomiteens virke
 
