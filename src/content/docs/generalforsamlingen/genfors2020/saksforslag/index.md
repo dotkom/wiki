@@ -21,7 +21,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 # Saksforslag 
 
 
-## Sak 1 - Fullt medlemskap for relevante masterretninger (August & Benedicte)
+## Sak 1 - Fullt medlemskap for relevante masterretninger (Hovedstyret)
 
 
 **Bakgrunn:**
