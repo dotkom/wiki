@@ -60,43 +60,45 @@ title: "Årsberetninger 2020"
 ## Arrangementskomiteen  
 ###Vår 2020   
 - Åre 09. jan - 142/142 påmeldte  
-- Komiteseminar 17. jan -
-- Innflytningsfest 24. jan -
-- Vassfjellet 2. feb - 
-- Vinter OL 22. feb - Påmelding kommer  
-- Kryssfest 26. feb - 
-- Skuddårsfest 29. feb - Påmelding kommer  
+- Komiteseminar 17. jan - 85/86 påmeldte
+- Tacofredag innflytningsfest 23. jan - 149/150 påmeldte
+- Innflytningsfest 24. jan - 227/300 påmeldte
+- Vassfjellet 2. feb - 14/14 påmeldte
+- Vinter OL 22. feb - Påmelding kommer 
+- Kryssfest 26. feb - Påmelding kommer
+- Skuddårsfest 29. feb - 100/100 påmeldte  
 - Fyllefotball 17. apr - Påmelding kommer
 - Escaperoom 21. apr - Påmelding kommer
 - Paint´n sip 24. apr - Påmelding kommer
+- Pirbadet 09. mai - Påmelding kommer    
 - bahcelorfeiring 3. klasse 15. mai - Påmelding kommer  
 - 17 Mai middag 17. mai - Påmelding kommer 
 - Eksamensfest xx. jun - Ingen påmelding
 
 ###Høst 2019
 
-- Slip´n slide 31. aug - 
-- Immatrikuleringsball 07. sep - 
-- Afterskifest med PSI 22. sep -  
-- Blåtur 27. sep - 
-- Casion 03. nov - 
-- Julebord 13. nov - 
-- Trampolinepark 17. nov -  
-- Pirbadet 28. nov - 
+- Slip´n slide 31. aug - Ingen påmelding
+- Immatrikuleringsball 07. sep - 224/224 påmeldte
+- Afterskifest med PSI 22. sep - 127/127 påmeldte
+- Blåtur 27. sep - 42/47 påmeldte
+- Casion 03. nov - 53/60 påmeldte
+- Julebord 13. nov - 170/170 påmeldte
+- Trampolinepark 17. nov - 20/20 påmeldte
+- Pirbadet 28. nov - 33/35 påmeldte
 - Eksamensfest 16. des - Ingen påmelding
 
 ###Annet
 ####Statistikk   
 
-Antall registrerte deltagere høst 2019:   
-Antall registrerte deltagere vår 2020:    
-antall registrerte deltagere totalt:    
-Antall arrangementer høst 2019:   
-Antall arrangementer vår 2020:   
-Antall arrangementer i samarbeid med andre linjeforeninger:   
-Antall alakoholarrangementer:  
-Antall ikke-alkoholarrangementer:  
-Antall nye arrangementer:  
+Antall registrerte deltagere høst 2019: 669 deltagere  
+Antall registrerte deltagere vår 2020: 717 deltagere  
+antall registrerte deltagere totalt: 1386 deltagere  
+Antall arrangementer høst 2019: 9 stykk  
+Antall arrangementer vår 2020: 15 stykk  
+Antall arrangementer i samarbeid med andre linjeforeninger: 5 vår og 1 høst  
+Antall alakoholarrangementer: 11 vår og 7 høst 
+Antall ikke-alkoholarrangementer:  4 vår 2 høst
+Antall nye arrangementer: 9 vår og 2 høst 
 
 
 #### Opptak/medlemmer 
@@ -110,7 +112,7 @@ Antall nye arrangementer:
 Startet opp vår 2020  
 Leder: Robin Lund Sadun  
 Nestleder: Anders Robstad  
-Opptak: 14 nye medlemmer  
+Opptak: 11 nye medlemmer  
 
 ## Bank- og økonomikomiteen
 
