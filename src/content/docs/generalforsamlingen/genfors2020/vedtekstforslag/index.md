@@ -183,11 +183,15 @@ Formuleringen kommer senere dersom det blir nødvendig.
 
 ## Forslag 6 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
 
+**Hva er ITEX:**
+IT-ekskursjonen / ITEX er en nodekomité under bedkom. IT-ekskursjonen har som arbeidsoppgave å arrangere en tur til Oslo for 4-5. klasse studenter hvor de kan møte potensielle fremtidige arbeidsgivere. Her er det dagsbesøk og kveldsbesøk på lokalene til forskjellige bedrifter hver dag, i fjor var 10 bedrifter involvert over 4 dager.
+
 ### Begrunnelse
 
-Sikre bedre erfaringsoverføring. Komiteens virke er direkte knyttet til Itex, og er allerede mye involvert i bedriftskontakten. Det er viktig at Linjeforeningen Online har et profesjonelt ansikt utad, ettersom bedriftskontakt er kilden til mesteparten av våre inntekter
+IT-Ekskursjonen er erfaringsmessig det produktet Online har som er mest attraktivt for bedriftene. Under forhandlinger om ny hovedsamarbeidsavtale gikk også IT-ekskursjonen inn i avtalen. Ved å ta over ITEX vil man ha bedre kontroll over bedriftskontakten, da hvert nye medlem i bedkom får en egen fadder som hjelper deg med profesjonalitet og erfaringer fra tidligere. I tillegg vil man ha ukentlige møter hvor man legger frem for resten av komiten framgangen på planleggingen av turen.
 
-### Endring
+Bedkom vil også ta opp flere personer til komiteen som samsvarer med arbeidskravet ITEX innehar. Det vil derfor gjøre at flere har mulighet til å bli medlem av en kjernekomitè hvor vi har en god arbeidsstruktur og et godt sosialt miljø. 
+
 
 **Fjern dette punktet**:
 4.3.4 Informatikeres IT-ekskursjon
