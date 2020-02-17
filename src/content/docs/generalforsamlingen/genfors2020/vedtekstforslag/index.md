@@ -212,7 +212,7 @@ Det er veldig vanlig, og oversiktlig å ha et definisjonsparagraf i starten av v
 §0 Definisjoner  
 Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.  
 Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.   
-Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid.   
+Akklamasjon: Et felles klapp fra forsamlingen som signaliserer bred enighet. Akklamasjon kan tas i bruk av ordstyrer dersom de anser at det er enighet i salen. Det skal gis rom for å uttrykke sin misnøye innen rimelig tid og enhver stemmeberettiget person tilstede kan kreve at det gjennomføres en fullstendig avstemning.
 
 ### Strykning
 I §3.4. 
@@ -228,7 +228,7 @@ Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemning.
 Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5. 
 
 ### Strykning. 
-I §3.5 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”  
+I §3.4 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”  
 
 ## Forslag 10: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)
 ### Begrunnelse
@@ -278,7 +278,7 @@ Til:
 
 ## Forslag 13: Kutte grupperinger fra §1 (Aslak Hollund)
 ### Begrunnelse
-Grupperinger i linjeforeningen er definert i §4.   
+Grupperinger i linjeforeningen er definert i §4. Vi mister en setning om at Hovedstyret har ansvaret for å ta opp medlemmene til en nodekomite, men jeg syns ikke det er problematisk. Vi skriver ikke vedtektene våres hvordan vi gjennfører valg til kjernekomiteene, og i realiteten så tar HS bare opp leder og nestleder i nodekomiteene mens de fikser resten selv. Jeg syns det er overflødig så det kan godt kuttes det og.  
 
 ### Strykning
 Stryke §1.2
