@@ -129,6 +129,10 @@ Det skal utformes et budsjettreglement som skal regulerer hvilke krav som skal e
 
 Budsjettreglementet skal utformes før og brukes under neste budsjettgodkjenning. Før neste generalforsamling skal budsjettreglementet revurderes på bakgrunn av gjennomføringen av budsjettgodkjenningen. Vurderingen og reglementet skal gjøres tilgjengelig for alle Onlinere. Dersom budsjettreglementet fungerer godt skal Hovedstyret fremme forslag for å gjøre ordningen mer permanent. 
 
+Dersom et budsjettreglement ikke er klart, gjort tilgjengelig for medlemmene og godkjent av Hovedstyret innen 1. oktober så skal budsjettet for 2021 settes etter disse reglene:  
+
+Budsjettet for 2021 skal settes på et budsjettmøte som er åpent for alle Onlines medlemmer. Innkalling til budsjettmøte skal skje minst 1 måned i forveien. På dette møtet skal Onlines medlemmer debattere og vedta endringsforslag til budsjettet. Budsjettet skal deretter godkjennes ved alminnelig flertall av Onlines medlemmer som er til stede. Dersom budsjettet ikke blir godkjent skal det bli innkalt til nytt møte, med samme parametre innen 2 uker. 
+
 ## Sak 10 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)
 
 **Bakgrunn:**
