@@ -94,16 +94,16 @@ Antall registrerte deltagere høst 2019: 669 deltagere
 Antall registrerte deltagere vår 2020: 717 deltagere  
 antall registrerte deltagere totalt: 1386 deltagere  
 Antall arrangementer høst 2019: 9 stykk  
-Antall arrangementer vår 2020: 15 stykk  
-Antall arrangementer i samarbeid med andre linjeforeninger: 5 vår og 1 høst  
-Antall alakoholarrangementer: 11 vår og 7 høst 
-Antall ikke-alkoholarrangementer:  4 vår 2 høst
-Antall nye arrangementer: 9 vår og 2 høst 
+Antall arrangementer vår 2020: 15 stykk     
+Antall arrangementer i samarbeid med andre linjeforeninger: 5 vår og 1 høst    
+Antall alakoholarrangementer: 11 vår og 7 høst   
+Antall ikke-alkoholarrangementer:  4 vår 2 høst           
+Antall nye arrangementer: 9 vår og 2 høst      
 
-
+  
 #### Opptak/medlemmer 
 
-- 7 nye medlemmer (5 førsteklassinger, 1 andreklassing og 1 femteklassing)  
+7 nye medlemmer (5 førsteklassinger, 1 andreklassing og 1 femteklassing)    
  
 #### Nodekomiteer
 
