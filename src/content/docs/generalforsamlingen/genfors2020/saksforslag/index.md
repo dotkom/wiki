@@ -96,20 +96,23 @@ Tradisjonelle kontorvakter fjernes til fordel for utprøving av en ny ordning. O
 ## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
-Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to årene har hvert immball hatt 80000 kroner i støtte. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
+I bank- og økonomikomiteens [retningslinjer](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/bankom/) §3.4 står det:
+>Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring.
 
-**Endring**
+De siste to årene har hvert immball hatt 80 000 kroner i støtte fra Online. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
 
-Dersom det er økonomisk forsvarlig skal Online overføre 30000 av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
+**Forslag**
+
+Dersom det er økonomisk forsvarlig skal Online sette av 30 000,- av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
 
 ## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
-De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslaget har som intensjon om å overføre beløpet som ikke har blitt overført de siste årene til jubkom.  
+De siste tre årene har støtten til jubkom ikke blitt satt av. Dette forslaget har som intensjon om å sette av beløpet som ikke har blitt satt av de siste årene til jubkom.  
 
 **Forslag**
 
-Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom
+Sette av 90 000 kroner fra fjorårets overskudd til jubkom i tillegg til det som allerede skal settes av.  
 
 ## Sak 9 - Overføre midler til Fondet (Kaja Sofie Lundgaard og Mathias Fossum)
 Fondet støttet aktivitet i 2019 for 26 803kr. På bakgrunn av Onlines regnskapsår for 2019,  likvide midler og driftsresultat foreslås det å overføre 350 000kr til Onlines Fond. Fondet utgjør 255 901kr idag som medfører en økning på 323 197kr. 
