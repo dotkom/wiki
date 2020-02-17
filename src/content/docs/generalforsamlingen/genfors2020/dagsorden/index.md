@@ -124,6 +124,8 @@ title: "Dagsorden 2020"
 
 ## Pause 5 min
 
+### Utdeling av lang og tro tjeneste
+
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
