@@ -203,7 +203,65 @@ HS mister tryggheten i at økonomien er godkjent av genfors
 Vi har hatt noen saker det siste året som viser at det ofte faktisk er viktig å gi alle mulighet til å mene ting, og måtte presentere nye forslag for alle sammen. (F.eks fjerning av teambuildingstøtten.) 
 Jeg er skeptisk til den praktiske verdien av endringen, har hørt litt at det var en veldig busy periode å fullføre regnskapet (vil gjerne ha input fra bankom her) 
 
-## Forslag 8: Opprette §0 Definisjoner (Aslak Hollund)
+## Forslag 8: Organisasjonens navn (Aslak Hollund)
+### Begrunnelse
+Navn-paragrafen vår er unødvendig kompleks. 
+   
+Til  
+§1.1  
+Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.  
+
+## Forslag 9: Kutte grupperinger fra §1 (Aslak Hollund)
+### Begrunnelse
+Grupperinger i linjeforeningen er definert i §4. Vi mister en setning om at Hovedstyret har ansvaret for å ta opp medlemmene til en nodekomite, men jeg syns ikke det er problematisk. Vi skriver ikke vedtektene våres hvordan vi gjennfører valg til kjernekomiteene, og i realiteten så tar HS bare opp leder og nestleder i nodekomiteene mens de fikser resten selv. Jeg syns det er overflødig så det kan godt kuttes det og.  
+
+### Strykning
+Stryke §1.2
+
+### Endringer
+Endre §1.1 til §1
+
+## Forslag 10: Passe på at nodekomiteer også rapporterer om de er underlagt Hovedstyret.  (Aslak Hollund)
+#### Begrunnelse
+Vi skriver at nodekomiteer kan være underlagt Hovedstyret, men bare at de skal rapportere til kjernekomiteer.   
+
+## Forslag 11: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)
+### Begrunnelse
+Disse rettighetene er dekket i §3.5  
+
+### Endring
+I §5.2 endre: 
+“Alle medlemmer av linjeforeningen har møte-, tale- og stemmerett på linjeforeningens generalforsamling. Alle medlemmer i linjeforeningen har rett til å levere saks- og vedtektsforslag til generalforamlingen.   
+Til:   
+“Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen.”  
+
+## Forslag 12: Mistillit (Aslak Hollund)
+### Begrunnelse
+Det er noen litt rare formuleringer i mistillitsparagrafen vår, la oss rydde opp. Jeg endrer også med dette på hvordan mistillit fungerer litt. I dag så kan man bare stille mistillit dersom noen har misligholdt sitt verv. Om noen melder dette inn til styret, så må de da ta to vurderinger. Har vedkommende misligholdt sitt verv, og er det nok til at man skal ta mistilliten til følge. Jeg syns det blir overflødig, det burde holde med den siste. Plus at jeg har lyst til ha muligheten stille mistillit dersom noen gjør noe grusomt, selv om det ikke har noe med deres verv å gjøre. Om jeg ikke har tillit til at personen kan oppfylle sitt verv ønsker jeg at HS skal ta en vurdering på om min mistillit er reell og om de er enige, selv om personen ikke har misligholdt sitt verv. 
+
+For ordens skyld følger også samme forslag men uten meningsendringen. 
+
+### Endring
+Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
+
+I §4.7 endre   
+“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
+Til   
+“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.”  
+
+## Forslag 13: Mistillit med mislighold (Aslak Hollund)
+### Begrunnelse
+Se forrige.
+
+### Endring
+Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
+
+I §4.7 endre   
+“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
+Til   
+“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen som misligholder sine arbeidsoppgaver.”  
+
+## Forslag 14: Opprette §0 Definisjoner (Aslak Hollund)
 
 ### Begrunnelse
 Det er veldig vanlig, og oversiktlig å ha et definisjonsparagraf i starten av vedtektene. Det gjør også at vi 0-indekserer vedtektene våres, som er en objektivt god ting. 
@@ -223,35 +281,7 @@ For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 
 
 Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemning.  
 
-## Forslag 9: Stryke overflødig linje i §3.4 (Aslak Hollund)
-### Begrunnelse
-Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5. 
-
-### Strykning. 
-I §3.4 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”  
-
-## Forslag 10: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)
-### Begrunnelse
-Denne linjen er overflødig da det blir definert i neste punkt. 
-
-### Strykning
-I §3.4.1 styrke “, med unntak av vedtektsendringer”  
-
- 
-
-## Forslag 11: Skrive om 3.4.1 (Aslak Hollund)
-### Begrunnelse
-Det er mange vedtak som ikke er “saker”  
-
-### Endring
-Endre tittel på §3.4.1 fra Saker til Vedtak  
-
-I §3.4.1 endre fra   
-“Alle saker på generalforsamlingen avgjøres ved”   
-Til   
-“Alle vedtak på generalforsamlingen fattes med”  
-
-## Forslag 12: Oppdatere flertallsformer (Aslak Hollund)
+## Forslag 15: Oppdatere flertallsformer (Aslak Hollund)
 Gitt at definisjonerparagrafen går igjennom.  
 
 ### Begrunnelse
@@ -277,125 +307,7 @@ I §3.4.2, §5.3, §5.4 og §7.2 endre:
 Til:   
 “⅔ kvalifisert flertall” 
 
-
-## Forslag 13: Kutte grupperinger fra §1 (Aslak Hollund)
-### Begrunnelse
-Grupperinger i linjeforeningen er definert i §4. Vi mister en setning om at Hovedstyret har ansvaret for å ta opp medlemmene til en nodekomite, men jeg syns ikke det er problematisk. Vi skriver ikke vedtektene våres hvordan vi gjennfører valg til kjernekomiteene, og i realiteten så tar HS bare opp leder og nestleder i nodekomiteene mens de fikser resten selv. Jeg syns det er overflødig så det kan godt kuttes det og.  
-
-### Strykning
-Stryke §1.2
-
-## Forslag 14: Organisasjonens navn (Aslak Hollund)
-### Begrunnelse
-Navn-paragrafen vår er unødvendig kompleks. 
-
-### Endringer
-Endre §1 og §1.1   
-Til  
-§1  
-Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.  
-
-(evt §1.1, hvis ikke forrige går igjennom)  
-
-## Forslag 15: Mistillit (Aslak Hollund)
-### Begrunnelse
-Det er noen litt rare formuleringer i mistillitsparagrafen vår, la oss rydde opp. Jeg endrer også med dette på hvordan mistillit fungerer litt. I dag så kan man bare stille mistillit dersom noen har misligholdt sitt verv. Om noen melder dette inn til styret, så må de da ta to vurderinger. Har vedkommende misligholdt sitt verv, og er det nok til at man skal ta mistilliten til følge. Jeg syns det blir overflødig, det burde holde med den siste. Plus at jeg har lyst til ha muligheten stille mistillit dersom noen gjør noe grusomt, selv om det ikke har noe med deres verv å gjøre. Om jeg ikke har tillit til at personen kan oppfylle sitt verv ønsker jeg at HS skal ta en vurdering på om min mistillit er reell og om de er enige, selv om personen ikke har misligholdt sitt verv. 
-
-For ordens skyld følger også samme forslag men uten meningsendringen. 
-
-### Endring
-Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
-
-I §4.7 endre   
-“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
-Til   
-“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.”  
-
-## Forslag 15.b: Mistillit med mislighold (Aslak Hollund)
-### Begrunnelse
-Se forrige.
-
-### Endring
-Endre paragraftittelen til §4.7 fra Mislighold av verv til Mistillit  
-
-I §4.7 endre   
-“Om et komitémedlem eller en innehaver av linjeforeningsverv misligholder sine arbeidsoppgaver, kan ethvert medlem av linjeforeningen stille mistillitsforslag overfor vedkommende. “  
-Til   
-“Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen som misligholder sine arbeidsoppgaver.”  
-
-## Forslag 16: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)
-### Begrunnelse
-Disse rettighetene er dekket i §3.5  
-
-### Endring
-I §5.2 endre: 
-“Alle medlemmer av linjeforeningen har møte-, tale- og stemmerett på linjeforeningens generalforsamling. Alle medlemmer i linjeforeningen har rett til å levere saks- og vedtektsforslag til generalforamlingen.   
-Til:   
-“Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen.”  
-
-## Forslag 17: Flytte redaksjonell fullmakt (Aslak Hollund)
-### Begrunnelse
-Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene. Also, det gir ikke mening å si etterkant av genfors, vi er alltid mellom to genfors.   
-
-### Strykning
-I §3 stryke:   
-“Hovedstyret kan i etterkant av Generalforsamlingen gjøre redaksjonelle endringer i vedtektene.”   
-
-### Tillegg
-I §3.4.2 legge til:  
-“Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”  
-
-## Forslag 18: Stryke overflødig del av §3 (Aslak Hollund)
-###Begrunnelse
-Siden generalforsamlingen er Onlines øverste organ er den per def ikke holden til noen av hovedstyrets vedtak. 
-
-### Strykning
-I §3 stryke:  
-“Og er uavhengig av gjeldende hovedstyrevedtak.  
-
-## Forslag 19: Forslag til vedtektsendringer (Aslak Hollund)
-### Endring
-I §3.1 endre:  
-“Fullstendig saksliste med vedtektsendringer”  
-Til:  
-“Fullstendig saksliste med forslag til vedtektsendringer”  
-
-## Forslag 25: Flytte valg av valgkomité (Aslak Hollund)
-### Begrunnelse
-Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted.   
-
-### Endring
-I §3 endre:  
-“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år”  
-Til:   
-“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av tre medlemmer til en ny valgkomité.”  
-
-### Strykning
-I §3.3 stryke:  
-“Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling.   
-
-
-## Forslag 20: Organisering til konstituering (Aslak Hollund)
-### Begrunnelse
-Ordlyden her er litt rar, pluss §3.3 burde hete konstituering.  
-
-### Endring
-Endre navnet på §3.3 til Konstituering.   
-I §3.3 endre:  
-“Ved generalforsamling er disse vervene nødvendig:”  
-Til:  
-Ved konstituering av generalforsamlingen skal disse rollene fylles:”  
-
-## Forslag 21: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)
-### Begrunnelse
-Siden telling av stemmer nå gjøres digitalt er denne setningen overflødig.  
-
-### Strykning
-I §3.6 stryke:  
-“Ved opptelling av hemmelig valg skal tellekorps sitte i salen”  
-
-
-## Forslag 22: Oppdatering av valgregelement (Aslak Hollund)
+## Forslag 16: Oppdatering av valgregelement (Aslak Hollund)
 ### Begrunnelse
 Valgseksjonen bør oppdateres til å følge definisjonen, og vi rydder opp litt i samme runde. Det var blant annet vanskelig å forstå om blanke stemmer er tellende eller ikke. Denne endringer forandrer ingenting av hvordan vi faktisk gjør valget, det bare skriver ting på en mer ryddig og oversiktlig måte.   
 
@@ -413,7 +325,89 @@ Til:
 
 Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater. “  
 
-## Forslag 23: Innstillt til innehar (Aslak Hollund)
+## Forslag 17: Stryke overflødig del av §3 (Aslak Hollund)
+###Begrunnelse
+Siden generalforsamlingen er Onlines øverste organ er den per def ikke holden til noen av hovedstyrets vedtak. 
+
+### Strykning
+I §3 stryke:  
+“Og er uavhengig av gjeldende hovedstyrevedtak.  
+
+## Forslag 18: Flytte redaksjonell fullmakt (Aslak Hollund)
+### Begrunnelse
+Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene. Also, det gir ikke mening å si etterkant av genfors, vi er alltid mellom to genfors.   
+
+### Strykning
+I §3 stryke:   
+“Hovedstyret kan i etterkant av Generalforsamlingen gjøre redaksjonelle endringer i vedtektene.”   
+
+### Tillegg
+I §3.4.2 legge til:  
+“Hovedstyret kan gjøre redaksjonelle endringer i vedtektene.”  
+
+## Forslag 20: Forslag til vedtektsendringer (Aslak Hollund)
+### Endring
+I §3.1 endre:  
+“Fullstendig saksliste med vedtektsendringer”  
+Til:  
+“Fullstendig saksliste med forslag til vedtektsendringer”  
+
+## Forslag 21: Flytte valg av valgkomité (Aslak Hollund)
+### Begrunnelse
+Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted.   
+
+### Endring
+I §3 endre:  
+“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år”  
+Til:   
+“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av tre medlemmer til en ny valgkomité.”  
+
+### Strykning
+I §3.3 stryke:  
+“Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling.   
+
+
+## Forslag 22: Organisering til konstituering (Aslak Hollund)
+### Begrunnelse
+Ordlyden her er litt rar, pluss §3.3 burde hete konstituering.  
+
+### Endring
+Endre navnet på §3.3 til Konstituering.   
+I §3.3 endre:  
+“Ved generalforsamling er disse vervene nødvendig:”  
+Til:  
+Ved konstituering av generalforsamlingen skal disse rollene fylles:”  
+
+## Forslag 23: Stryke overflødig linje i §3.4 (Aslak Hollund)
+### Begrunnelse
+Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5. 
+
+### Strykning. 
+I §3.4 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”  
+
+
+## Forslag 24: Skrive om 3.4.1 (Aslak Hollund)
+### Begrunnelse
+Det er mange vedtak som ikke er “saker”  
+
+### Endring
+Endre tittel på §3.4.1 fra Saker til Vedtak  
+
+I §3.4.1 endre fra   
+“Alle saker på generalforsamlingen avgjøres ved”   
+Til   
+“Alle vedtak på generalforsamlingen fattes med”  
+
+
+## Forslag 25: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)
+### Begrunnelse
+Denne linjen er overflødig da det blir definert i neste punkt. 
+
+### Strykning
+I §3.4.1 styrke “, med unntak av vedtektsendringer”  
+
+ 
+## Forslag 26: Innstillt til innehar (Aslak Hollund)
 ### Begrunnelse
 Vi bryr oss ikke om hvem som er innstilt, vi bryr oss om hvem som faktisk har vervet. Plus litt muntlig språk som vi tar i samme slengen.   
 ### Endring
@@ -422,24 +416,28 @@ I §3.6.1 endre:
 Til:   
 “Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.”  
 
-## Forslag 24: Passe på at nodekomiteer også rapporterer om de er underlagt Hovedstyret.  (Aslak Hollund)
-#### Begrunnelse
-Vi skriver at nodekomiteer kan være underlagt Hovedstyret, men bare at de skal rapportere til kjernekomiteer.   
-
 ### Endring
 I § 4.3 endre:   
 “den ansvarlige kjernekomiteen løpende oppdatert”  
 Til:   
 “den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert”  
 
-## Forslag 26: Flytte medlemskapsparagraf (Aslak Hollund)
+## Forslag 27: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)
+### Begrunnelse
+Siden telling av stemmer nå gjøres digitalt er denne setningen overflødig.  
+
+### Strykning
+I §3.6 stryke:  
+“Ved opptelling av hemmelig valg skal tellekorps sitte i salen”  
+
+## Forslag 28: Flytte medlemskapsparagraf (Aslak Hollund)
 ### Begrunnelse
 Konseptet medlemmer blir referert til hele tiden, for å øke lesbarheten bør vi flytte paragrafen frem.   
  
 ### Endring
 Endre §5 til §3 og oppdatere påfølgende paragrafnummer.  
 
-## Forslag 27: Legge til §X Andre styringsdokumenter (Aslak Hollund)
+## Forslag 29: Legge til §X Andre styringsdokumenter (Aslak Hollund)
 ### Begrunnelse
 Vi har i Online et sett med andre viktige styringsdokumenter, de burde også reguleres i vedtektene. Paragrafen er foreslått til å legges mot slutten av vedtektene, fordi den er mindre viktig enn mye annet. Oppløsning bør fortsatt være den siste paragrafen, og fordi økonomiparagrafet har noen komplekse sammenhenger med denne paragrafen mener jeg det er greier at de fortsatt ligger rett ved siden av hverandre.   
 
@@ -458,7 +456,6 @@ Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjen
 ### Strykning
 I §4.2 stryke:   
 “Enhver komité skal utarbeide sine egne retningslinjer som skal legges frem for og godkjennes av Hovedstyret.“  
-
 
 
 
