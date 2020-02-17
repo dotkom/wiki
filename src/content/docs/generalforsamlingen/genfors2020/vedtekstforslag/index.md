@@ -289,7 +289,10 @@ Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemning.
 Gitt at definisjonerparagrafen går igjennom.  
 
 ### Begrunnelse
-Våre flertallsformer er unødvendig kompleks, og strider mot det som er standard. Samt, vi har glemt å definere den som brukes i nedleggelse.   
+Våre flertallsformer er unødvendig kompleks, og strider mot det som er standard. Samt, vi har glemt å definere den som brukes i nedleggelse.  
+
+Den nye definisjonen gjør også en større endring. Neste forslag er det samme forslaget, men uten endringen. Slik dette forslaget er skrevet må 2/3 av alle de stemmeberettigede i rommet stemme for et vedtektsforslag for at man skal endre. Det er vanlig man skal ha et stort reelt flertall når man endrer vedtekter (derfor har vi 2/3 flertall). I Online har vi frem til nå valgt å ikke telle blanke stemmer som en stemme mot et vedtektsforslag slik at folk som ikke vil gjør seg opp en mening ikke skal felle et vedtektsforslag. Problemet med dette er at du da ikke trenger en reel majoritet for å få noe igjennom. Om man har et komplekst vedtektsforslag der mange i salen mener at de ikke kan bestemme seg så kan vi endre på vedtektene ved bare å ha et par som stemmer for. På den andre side kan man med dette forslaget risikere at gode forslag faller fordi folk ikke føler at deres stemme er viktig, eller folk ikke forstår systemet. Jeg mener det er viktig at vi tar igjen tar stilling til hvilken av disse to løsningene vi vil ha, derfor fremmer jeg begge forslagene.  
+   
 
 ### Endring
 I §0 endre fra:  
@@ -312,7 +315,7 @@ Til:
 “⅔ kvalifisert flertall” 
 
 
-## Forslag 15: Oppdatere flertallsformer, blanke stemmer teller ikke (Aslak Hollund)
+## Forslag 16: Oppdatere flertallsformer, blanke stemmer teller ikke (Aslak Hollund)
 Gitt at definisjonerparagrafen går igjennom.  
 
 ### Begrunnelse
@@ -340,7 +343,7 @@ I §3.4.2, §5.3, §5.4 og §7.2 endre:
 Til:   
 “⅔ kvalifisert flertall” 
 
-## Forslag 16: Oppdatering av valgregelement (Aslak Hollund)
+## Forslag 17: Oppdatering av valgregelement (Aslak Hollund)
 ### Begrunnelse
 Valgseksjonen bør oppdateres til å følge definisjonen, og vi rydder opp litt i samme runde. Det var blant annet vanskelig å forstå om blanke stemmer er tellende eller ikke. Denne endringer forandrer ingenting av hvordan vi faktisk gjør valget, det bare skriver ting på en mer ryddig og oversiktlig måte.   
 
@@ -358,7 +361,7 @@ Til:
 
 Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater. “  
 
-## Forslag 17: Stryke overflødig del av §3 (Aslak Hollund)
+## Forslag 18: Stryke overflødig del av §3 (Aslak Hollund)
 ###Begrunnelse
 Siden generalforsamlingen er Onlines øverste organ er den per def ikke holden til noen av hovedstyrets vedtak. 
 
@@ -366,7 +369,7 @@ Siden generalforsamlingen er Onlines øverste organ er den per def ikke holden t
 I §3 stryke:  
 “Og er uavhengig av gjeldende hovedstyrevedtak.  
 
-## Forslag 18: Flytte redaksjonell fullmakt (Aslak Hollund)
+## Forslag 19: Flytte redaksjonell fullmakt (Aslak Hollund)
 ### Begrunnelse
 Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene. Also, det gir ikke mening å si etterkant av genfors, vi er alltid mellom to genfors.   
 
