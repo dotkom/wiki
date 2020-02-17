@@ -192,7 +192,7 @@ IT-Ekskursjonen er erfaringsmessig det produktet Online har som er mest attrakti
 
 Bedkom vil også ta opp flere personer til komiteen som samsvarer med arbeidskravet ITEX innehar. Det vil derfor gjøre at flere har mulighet til å bli medlem av en kjernekomitè hvor vi har en god arbeidsstruktur og et godt sosialt miljø. 
 
-
+### Endring
 **Fjern dette punktet**:
 4.3.4 Informatikeres IT-ekskursjon
 
