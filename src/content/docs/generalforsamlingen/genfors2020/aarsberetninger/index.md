@@ -118,9 +118,34 @@ Opptak: 11 nye medlemmer
 
 ## Bedriftskomiteen 
 
+## Bedriftskomiteen
+
+* Har tatt opp 9 medlemmer, derav 4 førsteklassinger og 1 andreklassing på høsten. Deretter tok vi opp 2 andreklassinger og 2 tredjeklassinger i januar. Totalt er vi nå 17 ordinære medlemmer og 3 medlemmer fra seniorkomiteen.
+* Har kontakt med ca 100 bedrifter.
+* Har hatt teambuilding med fagkom på høstsemesteret.
+* Lagt ut 161 stillingsannonser
+* Sendt ut 3 mulighetermail
+* Gjennomført bookingrundehsøt 2019 og holder på for vår 2020.
+* Signert hovedsamarbeidsavtale med Bekk for 2020 og 2021
+* Signert kaffeavtale med Netlight for 2020
+* Fikset eksamensgodteri fra Knowit under eksamensperioden i høst  
+
 ### Høstsemesteret 2019
+* Var på oslotur med fagkom hvor vi besøkte 8 bedrifter
+* Skaffet 2 generalsponsorer og 2 tittelsponsorer til fadderukene.
+* To bedriftspresentasjoner for 1. klasse i fadderperioden
+* En bedrifter var med på rebusen under fadderukene
+* Arrangerte 10 bedriftspresentasjoner
+* Arrangert tre KID arrangementer, 1 i fadderperioden for førsteklasse og to i løpet av semesteret
+* Skaffet 9 sponsorer til TechTalks
 
 ### Vårsemesteret 2020
+* Fornyet produktet vårt ved å promotere for andre typer arrangement enn generell bedriftspresentasjon
+*Begynt å planlegge IT-ekskursjonen til Oslo
+* Gjennomført 8 bedriftspresentasjoner
+* Gjennomført 1 KID arrangement
+
+
 
 ## Drifts- og utviklingskomiteen
 
