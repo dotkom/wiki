@@ -311,6 +311,35 @@ I §3.4.2, §5.3, §5.4 og §7.2 endre:
 Til:   
 “⅔ kvalifisert flertall” 
 
+
+## Forslag 15: Oppdatere flertallsformer, blanke stemmer teller ikke (Aslak Hollund)
+Gitt at definisjonerparagrafen går igjennom.  
+
+### Begrunnelse
+Våre flertallsformer er unødvendig kompleks, og strider mot det som er standard. Samt, vi har glemt å definere den som brukes i nedleggelse.   
+
+### Endring
+I §0 endre fra:  
+Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.  
+Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.   
+
+Til:   
+Simpelt flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.   
+Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede 
+som avgir stemme stemmer for. Blanke stemmer teller ikke.   
+Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede 
+som avgir stemme stemmer for. Blanke stemmer teller ikke.
+
+I §7.1 endre:   
+“¾ flertall, og deretter ¾ flertall”  
+Til:  
+“kvalifisert ¾ flertall, og deretter kvalifisert ¾ flertall”  
+
+I §3.4.2, §5.3, §5.4 og §7.2 endre:   
+“kvalifisert flertall”  
+Til:   
+“⅔ kvalifisert flertall” 
+
 ## Forslag 16: Oppdatering av valgregelement (Aslak Hollund)
 ### Begrunnelse
 Valgseksjonen bør oppdateres til å følge definisjonen, og vi rydder opp litt i samme runde. Det var blant annet vanskelig å forstå om blanke stemmer er tellende eller ikke. Denne endringer forandrer ingenting av hvordan vi faktisk gjør valget, det bare skriver ting på en mer ryddig og oversiktlig måte.   
