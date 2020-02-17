@@ -93,7 +93,7 @@ Kontorvaktene er umotiverte til å sitte kontorvakt, og møter ikke opp til tros
 
 Tradisjonelle kontorvakter fjernes til fordel for utprøving av en ny ordning. Ordningen utformes av Trivselskomiteen, i samarbeid med kjerne- og nodekomiteene. 
 
-## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)
+## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
 **Begrunnelse**
 
 I bank- og økonomikomiteens [retningslinjer](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/bankom/) §3.4 står det:
@@ -105,7 +105,7 @@ De siste to årene har hvert immball hatt 80 000 kroner i støtte fra Online. Ti
 
 Dersom det er økonomisk forsvarlig skal Online sette av 30 000,- av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
 
-## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
+## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
 **Begrunnelse**
 
 De siste tre årene har støtten til jubkom ikke blitt satt av. Dette forslaget har som intensjon om å sette av beløpet som ikke har blitt satt av de siste årene til jubkom.  
