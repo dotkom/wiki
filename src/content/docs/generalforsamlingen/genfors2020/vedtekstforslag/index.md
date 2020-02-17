@@ -297,7 +297,7 @@ Alminnelig flertall: Minst 1/2 av de tilstedeværende med stemmerett, med unntak
 Kvalifisert flertall: Minst 2/3 av de tilstedeværende med stemmerett, med unntak av blanke stemmer.   
 
 Til:   
-Alminnelig flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.   
+Simpelt flertall: Det er flere stemmer for enn mot. Blanke stemmer teller ikke.   
 Kvalifisert ⅔ flertall: Mer enn ⅔ av de stemmeberettigede tilstede stemmer for.  
 Kvalifisert ¾ flertall: Mer enn ¾ av de stemmeberettigede tilstede stemmer for.  
 
