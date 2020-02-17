@@ -137,16 +137,16 @@ title: "Dagsorden 2020"
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 23:50  | 00:05  | Valg av leder  |   |
-| 15 | 00:05  | 00:20  | Valg av nestleder  |   |
-| 35 | 00:20  | 00:55  | Valg av økonomiansvarlig  |   |
+| 35 | 23:50  | 00:05  | Valg av leder  |   |
+| 35 | 00:05  | 00:20  | Valg av nestleder  |   |
+| 10 | 00:20  | 00:55  | Valg av økonomiansvarlig  |   |
 | 10 | 00:55  | 01:05  | Valg av leder av arrangementskomiteen  |  |
 | 10 | 01:05  | 01:15  | Valg av leder av bedriftskomiteen  |  |
-| 10 | 01:15  | 01:25  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 10 | 01:25  | 01:35  | Valg av leder av fag- og kurskomiteen  |  |
+| 15 | 01:15  | 01:25  | Valg av leder av drifts- og utviklingskomiteen  |   |
+| 25 | 01:25  | 01:35  | Valg av leder av fag- og kurskomiteen  |  |
 | 10 | 01:35 | 01:45  | Valg av leder av profil- og aviskomiteen  |   |
 | 10 | 01:45  | 01:55  | Valg av leder av trivselskomiteen  |   |
-| 10 | 01:55  | 02:05  | Valg av valgkomite  |   |
+| 15 | 01:55  | 02:05  | Valg av valgkomite  |   |
 | Total tid: | |2 t 15 min|
 
 ### Evaluering av generalforsamling
