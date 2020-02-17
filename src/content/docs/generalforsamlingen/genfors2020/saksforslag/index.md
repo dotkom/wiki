@@ -129,6 +129,19 @@ Det skal utformes et budsjettreglement som skal regulerer hvilke krav som skal e
 
 Budsjettreglementet skal utformes før og brukes under neste budsjettgodkjenning. Før neste generalforsamling skal budsjettreglementet revurderes på bakgrunn av gjennomføringen av budsjettgodkjenningen. Vurderingen og reglementet skal gjøres tilgjengelig for alle Onlinere. Dersom budsjettreglementet fungerer godt skal Hovedstyret fremme forslag for å gjøre ordningen mer permanent. 
 
+## Sak 10 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)
+
+**Bakgrunn:**
+
+Vedtektsforslag 1 er laget på bakgrunn av at det er for mye arbeid å være styremedlem og komitéleder samtidig. Mye av det som skaper dette problemet er alt det administrative arbeidet en komiteleder må gjøre. Det er mulig å minke arbeidsmengden ved å definere en tydeligere nestleder-rolle, med en klar ansvarsfordeling. 
+
+Retningslinjene er et dokument som beskriver komiteenes virke i større detalj enn det vedtektene gjør, og vedtas av HS. 
+
+
+**Hva foreslås:** 
+
+Hvis vedtektsforslag 1 ikke går igjennom. Skal Hovedstyret revidere komiteenes retningslinjer rundt ansvaret til nestleder. Kjernekomiteene og andre interesserte skal få mulighet til å være involvert i prosessen. 
+
 
 
 # Saksforslag for Online Fond
