@@ -90,14 +90,14 @@ Alle kjernekomiteer består av minimum en leder
 
 ## Forslag 2: Godkjenning av lederkandidater
 
-**Fremmes bare dersom vedtektsforslag 23 blir vedtatt.**
+**Fremmes bare dersom vedtektsforslag 1 blir vedtatt.**
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/16qiKZfqTLarJClQpPsoeksiG1O4KyEpDxUBirxNh058/edit?usp=sharing).
 
 ### Bakgrunn
-Som det står i forslag 23 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
+Som det står i forslag 1 så blir det et vanlig valg på generalforsamlingen for lederkandidatene i tillegg til styremedlemmene. 
 Etter splittelsen har ikke komitélederene lenger organmakten tilhørende HS, som gjør at det i mindre grad er kritisk at generalforsamlingen velger utover komiteens forslag.
-I tillegg vil forslag 23 føre til en mye lenger generalforsamling enn ønsket og derfor å fremme et alternativt forslag.
+I tillegg vil forslag 1 føre til en mye lenger generalforsamling enn ønsket og derfor å fremme et alternativt forslag.
 
 Forslag:
 Før generalforsamlinger skal alle komiteer stille med hver sin internt valgte komitélederkandidat. _Siden komiteene ikke har hatt tid mellom dette forslaget og valget i 2020, så dekker saksforslag 4 et ekstraordinært tilfelle for 2020._
