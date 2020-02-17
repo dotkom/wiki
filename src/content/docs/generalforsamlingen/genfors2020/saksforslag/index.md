@@ -102,7 +102,7 @@ Tidligere har beløpet vært 10000 kroner årlig til hvert jubileum. De siste to
 
 Dersom det er økonomisk forsvarlig skal Online overføre 30000 av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
 
-## Sak 9 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
+## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
 
 De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslaget har som intensjon om å overføre beløpet som ikke har blitt overført de siste årene til jubkom.  
@@ -111,13 +111,13 @@ De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslage
 
 Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom
 
-## Sak 10 - Overføre midler til Fondet
+## Sak 9 - Overføre midler til Fondet
 Fondet støttet aktivitet i 2019 for 26 803kr. På bakgrunn av Onlines regnskapsår for 2019,  likvide midler og driftsresultat foreslås det å overføre 350 000kr til Onlines Fond. Fondet utgjør 255 901kr idag som medfører en økning på 323 197kr. Det er to år til Onlines jubileum, og det foreslås at Jubkom søker fondet om støtte når rammene for jubileumet er satt. 
 
 Dersom sak 7 går gjennom, overføres 320 000kr.
 Dersom sak 8 går gjennom, overføres 260 000kr.  
 
-## Sak 11 - Budsjettreglement (Aslak Hollund)  
+## Sak 10 - Budsjettreglement (Aslak Hollund)  
 **Begrunnelse**  
 På fjorårets generalforsamling ble det vedtatt at makten til å godkjenne budsjettet til Online skulle ligge hos Hovedstyret, heller enn hos Generalforsamlingen. Dette hadde en rekke praktiske effekter for bankoms arbeid, men bryter med en del demokratiske prinsipper. For å kunne  forsøke å opprettholde de demokratiske prinsippene som vi misligholder foreslår jeg at vi skriver et budsjettreglement som styrer hva som skal til for at Hovedstyret og bankom skal **kunne** godkjenne et budsjett. 
 
@@ -139,7 +139,7 @@ Dersom et budsjettreglement ikke er klart, gjort tilgjengelig for medlemmene og 
 
 Budsjettet for 2021 skal settes på et budsjettmøte som er åpent for alle Onlines medlemmer. Innkalling til budsjettmøte skal skje minst 1 måned i forveien. På dette møtet skal Onlines medlemmer debattere og vedta endringsforslag til budsjettet. Budsjettet skal deretter godkjennes ved alminnelig flertall av Onlines medlemmer som er til stede. Dersom budsjettet ikke blir godkjent skal det bli innkalt til nytt møte, med samme parametre innen 2 uker. 
 
-## Sak 12 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)
+## Sak 11 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)
 
 **Bakgrunn:**
 
