@@ -174,7 +174,7 @@ Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "
 ## Forslag 5 (alternativ til 3): Legge ned valgkom (Aslak Hollund)
 
 ### Begrunnelse
-Jeg mener at dersom man fjerner restriksjonen mot å la valgkom stille til valg, så er den også overflødig. Da burde det formelle ansvaret for å finne kandidater til valgene falle til hovedstyret. Valgkoms funksjon er å være en enhet som jobber for å finne gode kandidater, som ikke har noen private ambisjoner om å stille selv. Nå eksisterer vi i en hvis flux, der du i teorien kan melde deg ut av valgkom og fortsatt stille. Det er rart, og jeg er usikker på om at jeg liker at vi har det sånn. Men ordningen vi har nå er heller ikke helt ugrunnet. Det er viktig å ta menneskelige realiteter inn i bilde, og ting kan endre seg på et år. Så lenge det blir helt tydeligiggjort at man går ut av valgkom kan det argumenteres for at man bør ha muligheten til å gjøre det. 
+Jeg mener at dersom man fjerner restriksjonen mot å la valgkom stille til valg, så er den også overflødig. Da burde det formelle ansvaret for å finne kandidater til valgene falle til Hovedstyret. Valgkoms funksjon er å være en enhet som jobber for å finne gode kandidater, som ikke har noen private ambisjoner om å stille selv. Nå eksisterer vi i en hvis flux, der du i teorien kan melde deg ut av valgkom og fortsatt stille. Det er rart, og jeg er usikker på om at jeg liker at vi har det sånn. Men ordningen vi har nå er heller ikke helt ugrunnet. Det er viktig å ta menneskelige realiteter inn i bilde, og ting kan endre seg på et år. Så lenge det blir helt tydeligiggjort at man går ut av valgkom kan det argumenteres for at man bør ha muligheten til å gjøre det. 
 
 Uansett, slik jeg ser det har vi tre reelle muligheter. Behold løsningen slik den er i dag. Begrens valgkom mer slik at de faktisk ikke kan stille til valg. Eller fjern valgkom. 
 
@@ -221,13 +221,13 @@ Alminnelig flertall ….. fullstendig avstemming.
 Slik at gjenværende tekst i §3.4 blir:  
 For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 15 medlemmer og 1/5 av medlemmer ha møtt opp.  
 
-Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.  
+Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemning.  
 
 ## Forslag 9: Stryke overflødig linje i §3.4 (Aslak Hollund)
 ### Begrunnelse
 Linjen er overflødig da intensjonen er dekket av definisjonen av hvem som har stemmerett i §3.5. 
 
-### Stryking. 
+### Strykning. 
 I §3.5 stryke “Verken forhåndsstemming eller fullmakter er tillatt å bruke ved avstemming.”  
 
 ## Forslag 10: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)
@@ -405,15 +405,15 @@ I §3.6.1 endre:
 Til:   
 “Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.”  
 
-## Forslag 24: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret.  (Aslak Hollund)
+## Forslag 24: Passe på at nodekomiteer også rapporterer om de er underlagt Hovedstyret.  (Aslak Hollund)
 #### Begrunnelse
-Vi skriver at nodekomiteer kan være underlagt hovedstyret, men bare at de skal rapportere til kjernekomiteer.   
+Vi skriver at nodekomiteer kan være underlagt Hovedstyret, men bare at de skal rapportere til kjernekomiteer.   
 
 ### Endring
 I § 4.3 endre:   
 “den ansvarlige kjernekomiteen løpende oppdatert”  
 Til:   
-“den ansvarlige kjernekomiteen, eller hovedstyret, løpende oppdatert”  
+“den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert”  
 
 ## Forslag 25: Flytte valg av valgkomité (Aslak Hollund)
 ### Begrunnelse
