@@ -112,10 +112,12 @@ De siste tre årene har støtten til jubkom ikke blitt overført. Dette forslage
 Sette over 3 ganger beløpet i saksforslag 7 fra fjorårets overskudd til jubkom
 
 ## Sak 9 - Overføre midler til Fondet (Kaja Sofie Lundgaard og Mathias Fossum)
-Fondet støttet aktivitet i 2019 for 26 803kr. På bakgrunn av Onlines regnskapsår for 2019,  likvide midler og driftsresultat foreslås det å overføre 350 000kr til Onlines Fond. Fondet utgjør 255 901kr idag som medfører en økning på 323 197kr. Det er to år til Onlines jubileum, og det foreslås at Jubkom søker fondet om støtte når rammene for jubileumet er satt. 
+Fondet støttet aktivitet i 2019 for 26 803kr. På bakgrunn av Onlines regnskapsår for 2019,  likvide midler og driftsresultat foreslås det å overføre 350 000kr til Onlines Fond. Fondet utgjør 255 901kr idag som medfører en økning på 323 197kr. 
 
-Dersom sak 7 går gjennom, overføres 320 000kr.
-Dersom sak 8 går gjennom, overføres 260 000kr.  
+Det er to år til Onlines jubileum, og det er tenkt at Jubkom søker fondet om støtte når rammene for jubileumet er satt. Utfallet av sak 7 og 8 vil dermed påvirke overføringen:
+
+Dersom sak 7 går gjennom, overføres 320 000kr.  
+Dersom sak 8 går gjennom, overføres 260 000kr.   
 
 ## Sak 10 - Budsjettreglement (Aslak Hollund)  
 **Begrunnelse**  
