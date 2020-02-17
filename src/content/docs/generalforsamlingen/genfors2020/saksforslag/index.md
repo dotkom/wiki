@@ -40,7 +40,7 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
 **Bakgrunn:**
-To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 23.** Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 1 vedtas.** Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
 
 **Forslag:**
 Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
@@ -51,7 +51,7 @@ Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dags
 ## Sak 3 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
   
 **Bakgrunn:**
-To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektsforslag 24 blir vedtatt.** 
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektsforslag 2 blir vedtatt.** 
   
 **Forslag:**
 Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at komiteene tar egne interne valg etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne komitéledere med 1 måneds frist. Nåværende valgte ledere forblir komitéledere inntil nye er godkjent.
