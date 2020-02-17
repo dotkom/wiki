@@ -87,11 +87,11 @@ Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalfor
 ## Sak 6 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
 **Begrunnelse**
 
-Folk er umotiverte til å sitte kontorvakt og ordningen trenger en omgjøring. Kontoret er rotete til tross for at kontorvakten er til stede. 
+Kontorvaktene er umotiverte til å sitte kontorvakt, og møter ikke opp til tross for at dette medfører straff. Dette fører til at kontorvaktens oppgaver ikke blir gjennomført og det blir usikkerhet rundt hvem som skal gjennomføre disse når kontorvakten ikke er til stede. For å opprettholde kontoret som en god og ryddig plass å oppholde seg trenger ordningen en omgjøring.
  
 **Endring**
 
-Tradisjonelle kontorvakter fjernes og Trivselskomiteen utarbeider en ny ordning.
+Tradisjonelle kontorvakter fjernes til fordel for utprøving av en ny ordning. Ordningen utformes av Trivselskomiteen, i samarbeid med kjerne- og nodekomiteene. 
 
 ## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm)
 **Begrunnelse**
