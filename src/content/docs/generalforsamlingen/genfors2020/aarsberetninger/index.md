@@ -162,9 +162,28 @@ Tok opp 6 nye medlemmer på høsten, 5 fra 1. klasse og 1 fra 4. klasse
 
 Generelt
 
-Høst 2019:
+- Tatt opp x nye medlemmer: y fra førsteklasse og z fra andreklasse
+- Nettopp vært på Oslotur med to medlemmer fra bedkom
+- Fulgt opp ekskursjonskomiteen med bedkom
+- Har hatt teambuilding med bedkom
 
-Vår 2020:
+Høst 2019
+
+- Har arrangert 10 kurs i samarbeid med bedrifter, hvorav et har vært i samarbeid med Abakus
+- Har arrangert følgende ikke-bedriftskurs
+  - Tre frokostseminar: jobbsøking, jobbintervju og utveskling
+  - Kurs i Git
+  - Kurs i terminal
+  - Code in the dark med trikom
+- Har arrangert to eksamensforelesninger og en midtsemesterforelesning, i samarbeid med Abakus
+- Gjennomført bookingrunden i samarbeid med bedkom
+
+Vår 2019
+- Bookingrunden for bedriftsarrangementer neste semester skjer nå
+- Gjennomført 5 bedriftskurs, har 5 igjen
+- Skal arrangere kurs med Google
+- Planlegger å arrangere malekurs og swingkurs i samarbeid med Spanskrøret
+
 
 ## Profil- og aviskomiteen
 
