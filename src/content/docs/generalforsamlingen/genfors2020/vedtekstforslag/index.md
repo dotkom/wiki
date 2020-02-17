@@ -244,6 +244,8 @@ I §3.4.1 styrke “, med unntak av vedtektsendringer”
 Det er mange vedtak som ikke er “saker”  
 
 ### Endring
+Endre tittel på §3.4.1 fra Saker til Vedtak  
+
 I §3.4.1 endre fra   
 “Alle saker på generalforsamlingen avgjøres ved”   
 Til   
@@ -333,7 +335,7 @@ Til:
 
 ## Forslag 17: Flytte redaksjonell fullmakt (Aslak Hollund)
 ### Begrunnelse
-Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene.  
+Setningen om redaksjonell fullmakt passer bedre inn i seksjonen om endringer i vedtektene. Also, det gir ikke mening å si etterkant av genfors, vi er alltid mellom to genfors.   
 
 ### Strykning
 I §3 stryke:   
@@ -357,6 +359,21 @@ I §3.1 endre:
 “Fullstendig saksliste med vedtektsendringer”  
 Til:  
 “Fullstendig saksliste med forslag til vedtektsendringer”  
+
+## Forslag 25: Flytte valg av valgkomité (Aslak Hollund)
+### Begrunnelse
+Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted.   
+
+### Endring
+I §3 endre:  
+“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år”  
+Til:   
+“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av tre medlemmer til en ny valgkomité.”  
+
+### Strykning
+I §3.3 stryke:  
+“Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling.   
+
 
 ## Forslag 20: Organisering til konstituering (Aslak Hollund)
 ### Begrunnelse
@@ -392,7 +409,7 @@ I §3.6 endre:
 “Dersom det er mer enn … avholdes en fullstendig ny runde.”  
 
 Til:   
-“Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen”. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer.   
+“Dersom det er mer enn en kandidat til et verv skal det avholdes hemmelig valg for vervet. Man kan stemme på “ingen” for å vise at man ikke ønsker noen av kandidatenene. Stemmetallet for personvalg der det skal fylles én stilling er 50% av avgitte stemmer, blanke stemmer teller ikke som avgitte stemmer.   
 
 Dersom ingen av kandidatene oppnår stemmetallet fjernes den kandidaten med færrest stemmer og en ny valgrunde gjennomføres. Dersom ingen av kandidatene oppnår stemmetallet, og det er stemmelikhet på de kandidatene som har færrest stemmer, skal det gjennomføres en ny valgrunde, med samme kandidater. “  
 
@@ -415,20 +432,6 @@ I § 4.3 endre:
 Til:   
 “den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert”  
 
-## Forslag 25: Flytte valg av valgkomité (Aslak Hollund)
-### Begrunnelse
-Siden vi behandler valg av valgkom på samme måte som vi behandler valg av styremedlemmer bør vi også skrive at vi skal gjøre valget på samme sted.   
-
-### Endring
-I §3 endre:  
-“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, valg og regnskap for foregående år”  
-Til:   
-“Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, vedtektsendringer, regnskap for foregående år, valg av nytt hovedstyre og valg av ny valgkomité.”  
-
-### Strykning
-I §3.3 stryke:  
-“Tre valgkomitémedlemmer - har et ansvar for å foreslå kandidater til neste års generalforsamling.   
-
 ## Forslag 26: Flytte medlemskapsparagraf (Aslak Hollund)
 ### Begrunnelse
 Konseptet medlemmer blir referert til hele tiden, for å øke lesbarheten bør vi flytte paragrafen frem.   
@@ -450,7 +453,7 @@ Alle styringsdokumenter i Online er underlagt vedtektene.
 Forretningsorden regulerer hvordan generalforsamlingen gjennomføres. Den godkjennes av generalforsamlingen og er i effekt frem til en ny forretningsorden er godkjent.   
 
 §X.2 Retningslinjer for komiteene  
-Hver kjernekomité og nodekomité sitt eget sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.   
+Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.   
 
 ### Strykning
 I §4.2 stryke:   
