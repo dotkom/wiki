@@ -58,18 +58,59 @@ title: "Årsberetninger 2020"
 - Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
 ## Arrangementskomiteen  
-###Vår 2020
+###Vår 2020   
+- Åre 09. jan - 142/142 påmeldte  
+- Komiteseminar 17. jan -
+- Innflytningsfest 24. jan -
+- Vassfjellet 2. feb - 
+- Vinter OL 22. feb - Påmelding kommer  
+- Kryssfest 26. feb - 
+- Skuddårsfest 29. feb - Påmelding kommer  
+- Fyllefotball 17. apr - Påmelding kommer
+- Escaperoom 21. apr - Påmelding kommer
+- Paint´n sip 24. apr - Påmelding kommer
+- bahcelorfeiring 3. klasse 15. mai - Påmelding kommer  
+- 17 Mai middag 17. mai - Påmelding kommer 
+- Eksamensfest xx. jun - Ingen påmelding
 
 ###Høst 2019
+
+- Slip´n slide 31. aug - 
+- Immatrikuleringsball 07. sep - 
+- Afterskifest med PSI 22. sep -  
+- Blåtur 27. sep - 
+- Casion 03. nov - 
+- Julebord 13. nov - 
+- Trampolinepark 17. nov -  
+- Pirbadet 28. nov - 
+- Eksamensfest 16. des - Ingen påmelding
+
 ###Annet
-####Statistikk 
+####Statistikk   
+
+Antall registrerte deltagere høst 2019:   
+Antall registrerte deltagere vår 2020:    
+antall registrerte deltagere totalt:    
+Antall arrangementer høst 2019:   
+Antall arrangementer vår 2020:   
+Antall arrangementer i samarbeid med andre linjeforeninger:   
+Antall alakoholarrangementer:  
+Antall ikke-alkoholarrangementer:  
+Antall nye arrangementer:  
 
 
-#### Opptak/medlemmer  
+#### Opptak/medlemmer 
+
+- 7 nye medlemmer (5 førsteklassinger, 1 andreklassing og 1 femteklassing)  
+ 
 #### Nodekomiteer
+
 #####Velkomstkomiteen   
 
-
+Startet opp vår 2020  
+Leder: Robin Lund Sadun  
+Nestleder: Anders Robstad  
+Opptak: 14 nye medlemmer  
 
 ## Bank- og økonomikomiteen
 
