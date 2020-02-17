@@ -125,13 +125,12 @@ Opptak: 11 nye medlemmer
 * Har hatt teambuilding med fagkom på høstsemesteret.
 * Lagt ut 161 stillingsannonser
 * Sendt ut 3 mulighetermail
-* Gjennomført bookingrundehsøt 2019 og holder på for vår 2020.
+* Gjennomført bookingrunde høst 2019 og holder på for vår 2020.
 * Signert hovedsamarbeidsavtale med Bekk for 2020 og 2021
 * Signert kaffeavtale med Netlight for 2020
 * Fikset eksamensgodteri fra Knowit under eksamensperioden i høst  
 
 ### Høstsemesteret 2019
-* Var på oslotur med fagkom hvor vi besøkte 8 bedrifter
 * Skaffet 2 generalsponsorer og 2 tittelsponsorer til fadderukene.
 * To bedriftspresentasjoner for 1. klasse i fadderperioden
 * En bedrifter var med på rebusen under fadderukene
@@ -140,11 +139,12 @@ Opptak: 11 nye medlemmer
 * Skaffet 9 sponsorer til TechTalks
 
 ### Vårsemesteret 2020
-* Fornyet produktet vårt ved å promotere for andre typer arrangement enn generell bedriftspresentasjon
+* Var på oslotur med fagkom hvor vi besøkte 8 bedrifter
+* Fornyet produktet vårt ved å promotere for andre typer arrangement enn generell bedriftspresentasjon under bookingrunden
 *Begynt å planlegge IT-ekskursjonen til Oslo
 * Gjennomført 8 bedriftspresentasjoner
 * Gjennomført 1 KID arrangement
-
+* planlegger et alternativt lunsjarrangement med Bekk i April
 
 
 ## Drifts- og utviklingskomiteen
