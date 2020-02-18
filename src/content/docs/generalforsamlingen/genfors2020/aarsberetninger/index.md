@@ -293,14 +293,12 @@ Administrativt
 
 ## IT-ekskursjonen
 - Totalt 7 medlemmer som arrangerte turen.
-- 90 studenter var med på turen.
+- 90 studenter var med på turen, den største turen noen gang.
 - Turen varte fra 27. til 30. august.
 - 10 Bedrifter ble besøkt, hvorav 4 av dem var ikke-konsulentbedrifter.
 - Fikk inn en ny bedrift som Online aldri har hatt kontakt med før, nemlig Vipps.
 - Flyreise, transport til og fra bedrifter og flyplass, og 3 netters hotellopphold ble dekket av bedriftene.
 - Fikk mye gode tilbakemeldinger.
-- Har ikke opprettholdt samarbeidet med erfaringsoverføring mellom Bedex (Abakus) og ITEX.
-- Klarte å redusere overskuddet enda mer sammenlignet med tidligere år.
 - Tok ikke opp noen nye medlemmer
 
 ## Velkomstkomiteen 2019
