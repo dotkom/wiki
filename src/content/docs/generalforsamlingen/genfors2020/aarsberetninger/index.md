@@ -194,7 +194,7 @@ Generelt
 - Fulgt opp ekskursjonskomiteen med bedkom
 - Har hatt teambuilding med bedkom
 
-Høst 2019
+### Høst 2019
 
 - Har arrangert 10 kurs i samarbeid med bedrifter, hvorav et har vært i samarbeid med Abakus
 - Har arrangert følgende ikke-bedriftskurs
@@ -205,7 +205,8 @@ Høst 2019
 - Har arrangert to eksamensforelesninger og en midtsemesterforelesning, i samarbeid med Abakus
 - Gjennomført bookingrunden i samarbeid med bedkom
 
-Vår 2019
+### Vår 2019
+
 - Bookingrunden for bedriftsarrangementer neste semester skjer nå
 - Gjennomført 5 bedriftskurs, har 5 igjen
 - Skal arrangere kurs med Google
