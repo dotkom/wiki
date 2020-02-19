@@ -362,6 +362,11 @@ Vi har holdt ukentlig fredagsåpent, samt ekstra arrangementer av og til. I tile
 Kjelleren har også blitt litt pusset opp og fått knagger og (snart) nytt beerpongbord. Vi har også fått brooklyn lager på tapp.
 
 ## Casual Gaming
+- Arrangerte tre arrangamenter, to utgaver av StudLAN, pluss TrøndeLAN. 
+- StudLAN flyttet fra P15 over til fjerde etasje i realfagsbygget.
+- Sliter med deltakertall.
+- Over 200 deltakere, mange fra TrøndeLAN
+- Leier lager sammen med Smash Trondheim. Låner noe bodplass av Online.
 
 
 
