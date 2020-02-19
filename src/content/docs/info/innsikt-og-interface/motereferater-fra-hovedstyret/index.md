@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2020-02-19](mote19022020)
 - [2020-02-12](mote12022020)
 - [2020-01-22](mote22012020)
 - [2020-01-15](mote15012020)- genfors, jubkom, komiteseminar
