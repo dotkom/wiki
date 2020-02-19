@@ -31,7 +31,7 @@ Komiteen består for øyeblikket av 18 engasjerte studenter.
 
 |År|Leder|Medlemmer||||||||||||||||||||||||
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|2020v|Sigrun Nummedal|Kristoffer Nyvoll|Adrian Thompson|Luka Gruji|Adrian Flatner|Erling Wisløff|Sunniva Røshol|Marcus Schrøder|Henrik Horten Hegli|Anders Robstad|Emlile Lia-Rognli|Martin Kvalsund|Håkon Groven|Nina Bjærum|Johanne Tronstad|Thomas Ramm|Charlotte Söderström||||||||||||
+|2020v|Sigrun Nummedal|Kristoffer Nyvoll|Adrian Thompson|Luka Grujic|Adrian Flatner|Erling Wisløff|Sunniva Røshol|Marcus Schrøder|Henrik Horten Hegli|Anders Robstad|Emlile Lia-Rognli|Martin Kvalsund|Håkon Groven|Nina Bjærum|Johanne Tronstad|Thomas Ramm|Charlotte Söderström||||||||||||
 |2019v|Sigrun Nummedal|Kristoffer Nyvoll|Adrian Thompson|Marius Aarsnes|Luka Gruji|Birgitte Swensson|Lars Gjelstad|Rein Holte-Berg|Ingrid Evensen|Emil Schrøder|Kaja Løvsjø Solberg|Oscar Conrad|Adrian Flatner|Astrid Vik|Ingrid Medalen|Katarina Gjendem Murphy|Erling Wisløff|Sunniva Røshol|Marcus Schrøder||||||||||
 |2018h|Adrian Thompson|Marius Aarsnes|Luka Gruji|Birgitte Swensson|Lars Gjelstad|Rein Holte-Berg|Adrian Hofseth|Ingrid Evensen|Emil Schrøder|Kaja Løvsjø Solberg|Oscar Conrad|Adrian Flatner|Astrid Vik|Ingrid Medalen|Katarina Gjendem Murphy|Erling Wisløff|Sigrun Nummedal|Sunniva Røshol|Marcus Schrøder|Kristoffer Nyvoll||||||||||
 |2018v|Emil Schrøder|Ingrid Medalen|Steffen Lorang Ekeberg|Birgitte Swensson|Lars Gjelstad|Rein Holte-Berg|Adrian Hofseth|Ingrid Evensen|Adrian Thompson|Kaja Løvsjø Solberg|Oscar Conrad|Adrian Flatner|Astrid Vik|Marius Aarsnes|Katarina Gjendem Murphy|Luka Grujic|Didrik Pemmer Aalen|Hege Louise Borge||||||||||||
