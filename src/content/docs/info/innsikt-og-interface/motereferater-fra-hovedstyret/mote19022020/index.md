@@ -144,7 +144,7 @@ Ikke til stede
 - Alle kan stå der nede og lese opp etter tur for sin komité.  
 
 ## 318 Støtte til datakam (13:20 - 5 min) (Henrik)
-[Forespørsel fra datakam om støtte på 8000 kr, gjerne fast. Hva gjør vi med dette?]
+[Forespørsel fra datakam om støtte, gjerne fast. Hva gjør vi med dette?]
 - Vil ikke gjøre noen endringer i budsjettet  
 - Litt usikkert hvor mange informatikere som er med  
 
