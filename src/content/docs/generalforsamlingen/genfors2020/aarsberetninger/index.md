@@ -283,13 +283,27 @@ Generelt
 
 ## Ekskursjonskomiteen 2020
 
-Turen  
- 
+Turen
 
-Økonomi  
+ - Planlagt tur til Sør-Korea og Japan, med faglig innhold i Sør-Korea
+ - Det eksisterer en risiko mtp. Koronavirus, men det er lite vi kan gjøre annet enn å vente
+    - Vi er mer utsatt enn XCOM fordi vi har den kulturelle uken i Sør-Korea, så hele turen må antageligvis kanselleres om sør-korea blir stengt
+ - 4-5 dager med bedriftbesøk(2 dager fastslått, i forhandlingsfasen med resten for øyeblikket)
+ - Friuke i Japan. 2 dager guidet innhold, fridager, dager hvor vi drar steder sammen
 
+Økonomi
+ - Arrangerte dugnader for å samle inn midler
+ - Arrangerte Tech Talks 20. Februar. 9 bedrifter. 10% økning i inntekt i forhold til i fjor. Pivoteringen var godt mottatt.
+ - Alt overskudd føres tilbake til deltakerne
 
 Administrativt
+
+ - 9 medlemmer
+ - Ingen samarbeid med IPIT i år, da ikke nok folk var interesert i USA. Leder har til orientering nå en stilling i IPIT-prosjektet.
+ - Startet opp ekskom2021, de har leder, nestleder, økans, og tech talks-ansvarlig
+ - Jobber med å løsrive Tech Talks litt, så de som holder på med Tech Talks kan bry seg om det
+ - Bra samarbeid med kommiteene i år, må jobbe med å forbedre kommunikasjon, men dette ordner seg.
+ - Langsiktig mål: Arrangere en ekskursjon, og gjøre det enda lettere for neste kull å gjøre det samme.
 
 
 ## IT-ekskursjonen
