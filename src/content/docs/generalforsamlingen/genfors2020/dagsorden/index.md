@@ -12,7 +12,7 @@ title: "Dagsorden 2020"
 
 **Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 
-**Tidsplan oppdateres nærmere generalforsamlingen.**
+**Tidsplan oppdateres nærmere generalforsamlingen. Tidspunktene som står i dagsorden nå er ikke korrekte**
 
 
 ### Administrativt
