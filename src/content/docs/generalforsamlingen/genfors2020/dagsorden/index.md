@@ -77,29 +77,31 @@ title: "Dagsorden 2020"
 |15|||Forslag 3: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)||
 |7|||Forslag 4 (om 3 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)||
 |7|||Forslag 5 (alternativ til 3): Legge ned valgkom (Aslak Hollund)||
-|15|||Forslag 6 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen||
-|15|||Forslag 7 - Reversere fjorårets endring i budsjettmakten||
-|5|||Forslag 8: Opprette §0 Definisjoner (Aslak Hollund)||
-|5|||Forslag 9: Stryke overflødig tekst i 3.4.1 (Aslak Hollund)||
-|5|||Forslag 10: Skrive om 3.4.1 (Aslak Hollund)||
-|5|||Forslag 11: Oppdatere flertallsformer (Aslak Hollund)||
-|5|||Forslag 12: Kutte grupperinger fra §1 (Aslak Hollund)||
-|5|||Forslag 13: Organisasjonens navn (Aslak Hollund)||
-|5|||Forslag 14: Mistillit (Aslak Hollund)||
-|5|||Forslag 15.b: Mistillit med mislighold (Aslak Hollund)||
-|5|||Forslag 16: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)||
-|5|||Forslag 17: Flytte redaksjonell fullmakt (Aslak Hollund)||
+|15|||Forslag 6: Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen||
+|15|||Forslag 7: Reversere fjorårets endring i budsjettmakten||
+|5|||Forslag 8: Organisasjonens navn (Aslak Hollund)||
+|5|||Forslag 9: Kutte grupperinger fra §1 (Aslak Hollund)||
+|5|||Forslag 10: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret. (Aslak Hollund)||
+|5|||Forslag 11: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)||
+|5|||Forslag 12: Mistillit (Aslak Hollund)||
+|5|||Forslag 13: Mistillit med mislighold (Aslak Hollund)||
+|5|||Forslag 14: Opprette §0 Definisjoner (Aslak Hollund)||
+|5|||Forslag 15: Oppdatere flertallsformer (Aslak Hollund)||
+|5|||Forslag 16: Oppdatere flertallsformer, blanke stemmer teller ikke (Aslak Hollund)||
+|5|||Forslag 17: Oppdatering av valgregelement (Aslak Hollund)||
 |5|||Forslag 18: Stryke overflødig del av §3 (Aslak Hollund)||
-|5|||Forslag 19: Forslag til vedtektsendringer (Aslak Hollund)||
-|5|||Forslag 20: Organisering til konstituering (Aslak Hollund)||
-|5|||Forslag 21: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)||
-|5|||Forslag 22: Oppdatering av valgregelement (Aslak Hollund)||
-|5|||Forslag 23: Innstillt til innehar (Aslak Hollund)||
-|5|||Forslag 24: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret. (Aslak Hollund)||
-|5|||Forslag 25: Flytte valg av valgkomité (Aslak Hollund)||
-|5|||Forslag 26: Flytte medlemskapsparagraf (Aslak Hollund)||
-|5|||Forslag 27: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
-| Total tid: | |201 min|
+|5|||Forslag 19: Flytte redaksjonell fullmakt (Aslak Hollund)||
+|5|||Forslag 20: Forslag til vedtektsendringer (Aslak Hollund)||
+|5|||Forslag 21: Flytte valg av valgkomité (Aslak Hollund)||
+|5|||Forslag 22: Organisering til konstituering (Aslak Hollund)||
+|5|||Forslag 23: Stryke overflødig linje i §3.4 (Aslak Hollund)||
+|5|||Forslag 24: Skrive om 3.4.1 (Aslak Hollund)||
+|5|||Forslag 25: Stryke overflødig tekst i §3.4.1 (Aslak Hollund)||
+|5|||Forslag 26: Innstillt til innehar (Aslak Hollund)||
+|5|||Forslag 27: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)||
+|5|||Forslag 28: Flytte medlemskapsparagraf (Aslak Hollund)||
+|5|||Forslag 29: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
+| Total tid: | |206 min|
 
 ## Pause 5 min
 
