@@ -292,6 +292,7 @@ Turen
  - Friuke i Japan. 2 dager guidet innhold, fridager, dager hvor vi drar steder sammen
 
 Økonomi
+
  - Arrangerte dugnader for å samle inn midler
  - Arrangerte Tech Talks 20. Februar. 9 bedrifter. 10% økning i inntekt i forhold til i fjor. Pivoteringen var godt mottatt.
  - Alt overskudd føres tilbake til deltakerne
