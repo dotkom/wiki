@@ -44,6 +44,7 @@ title: "Årsberetninger 2020"
 - Representert på diverse immball
 - Deltatt på UKEToget
 - Arrangert fest med IT-styrene (TIHLDE, Abakus, Online, Login, Hybrida)
+- Har gjennomført et tiltak i samarbeid med Forente IT-Foreninger der sommerjobbstillinger ikke kan ha søknadsfrist tidligere enn 1. oktober.
 
 ### Studentpolitikk
 - Samlokaliseringsprosessen på A-blokka har blitt ferdig, TIHLDE har flyttet inn
