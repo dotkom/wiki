@@ -208,15 +208,7 @@ HS mister tryggheten i at økonomien er godkjent av genfors
 Vi har hatt noen saker det siste året som viser at det ofte faktisk er viktig å gi alle mulighet til å mene ting, og måtte presentere nye forslag for alle sammen. (F.eks fjerning av teambuildingstøtten.) 
 Jeg er skeptisk til den praktiske verdien av endringen, har hørt litt at det var en veldig busy periode å fullføre regnskapet (vil gjerne ha input fra bankom her) 
 
-## Forslag 8: Organisasjonens navn (Aslak Hollund)
-### Begrunnelse
-Navn-paragrafen vår er unødvendig kompleks. 
-   
-Til  
-§1.1  
-Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.  
-
-## Forslag 9: Kutte grupperinger fra §1 (Aslak Hollund)
+## Forslag 8: Kutte grupperinger fra §1 (Aslak Hollund)
 ### Begrunnelse
 Grupperinger i linjeforeningen er definert i §4. Vi mister en setning om at Hovedstyret har ansvaret for å ta opp medlemmene til en nodekomite, men jeg syns ikke det er problematisk. Vi skriver ikke vedtektene våres hvordan vi gjennfører valg til kjernekomiteene, og i realiteten så tar HS bare opp leder og nestleder i nodekomiteene mens de fikser resten selv. Jeg syns det er overflødig så det kan godt kuttes det og.  
 
@@ -225,6 +217,14 @@ Stryke §1.2
 
 ### Endringer
 Endre §1.1 til §1
+
+## Forslag 9: Organisasjonens navn (Aslak Hollund)
+### Begrunnelse
+Navn-paragrafen vår er unødvendig kompleks. 
+   
+### Endring
+§1.1  
+Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes Online eller Linjeforeningen Online.  
 
 ## Forslag 10: Passe på at nodekomiteer også rapporterer om de er underlagt Hovedstyret.  (Aslak Hollund)
 #### Begrunnelse
