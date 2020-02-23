@@ -230,6 +230,12 @@ Organisasjonens navn er Online, linjeforeningen for informatikk, som forkortes O
 #### Begrunnelse
 Vi skriver at nodekomiteer kan være underlagt Hovedstyret, men bare at de skal rapportere til kjernekomiteer.   
 
+### Endring
+I § 4.3 endre:   
+“den ansvarlige kjernekomiteen løpende oppdatert”  
+Til:   
+“den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert”  
+
 ## Forslag 11: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)
 ### Begrunnelse
 Disse rettighetene er dekket i §3.5  
@@ -452,12 +458,6 @@ I §3.6.1 endre:
 “Personer som er innstilt med et av følgende verv under Generalforsamlingen fraskriver seg sin rett til å stille til andre valg.”  
 Til:   
 “Personer som innehar et av følgende verv under Generalforsamlingen, fraskriver seg retten til å stille til andre valg.”  
-
-### Endring
-I § 4.3 endre:   
-“den ansvarlige kjernekomiteen løpende oppdatert”  
-Til:   
-“den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert”  
 
 ## Forslag 27: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)
 ### Begrunnelse
