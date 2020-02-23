@@ -155,23 +155,7 @@ _Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avho
 
 **Med** Seniorkomiteen velger _og godkjenner sin leder selv_.
 
-## Forslag 3: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)
-
-### Begrunnelse
-Medlemmer av Valgkom kan per nå ikke stille til verv i Hovedstyret. Dette er en begrensning som ikke egentlig er nødvendig, da medlemmer av Valgkom uansett er svært begrenset i hvor mye makt de kan "misbruke". Det er naturlig at medlemmer av Valgkom kan endre mening i løpet av et år, og bestemme seg for å stille likevel. Derfor er det mer pragmatisk å la medlemmene kunne stille til HS, uavhengig av engasjement i Valgkom.
-
-### Strykning
-"Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
-
-## Forslag 4 (om 3 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)
-
-### Begrunnelse
-Hvis det forrige forslaget faller, så burde man passe på at medlemmer av Valgkom ikke bare kan melde seg ut i forkant av generalforsamlingen. Da må man skrive om vedtektene for å forhindre dette.
-
-### Endring
-Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret."
-
-## Forslag 5 (alternativ til 3): Legge ned valgkom (Aslak Hollund)
+## Forslag 3: Legge ned valgkom (Aslak Hollund)
 
 ### Begrunnelse
 Jeg mener at dersom man fjerner restriksjonen mot å la valgkom stille til valg, så er den også overflødig. Da burde det formelle ansvaret for å finne kandidater til valgene falle til Hovedstyret. Valgkoms funksjon er å være en enhet som jobber for å finne gode kandidater, som ikke har noen private ambisjoner om å stille selv. Nå eksisterer vi i en hvis flux, der du i teorien kan melde deg ut av valgkom og fortsatt stille. Det er rart, og jeg er usikker på om at jeg liker at vi har det sånn. Men ordningen vi har nå er heller ikke helt ugrunnet. Det er viktig å ta menneskelige realiteter inn i bilde, og ting kan endre seg på et år. Så lenge det blir helt tydeligiggjort at man går ut av valgkom kan det argumenteres for at man bør ha muligheten til å gjøre det. 
@@ -180,6 +164,23 @@ Uansett, slik jeg ser det har vi tre reelle muligheter. Behold løsningen slik d
 
 ### Endring
 Formuleringen kommer senere dersom det blir nødvendig. 
+
+## Forslag 4 (om 3 faller): Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)
+
+### Begrunnelse
+Medlemmer av Valgkom kan per nå ikke stille til verv i Hovedstyret. Dette er en begrensning som ikke egentlig er nødvendig, da medlemmer av Valgkom uansett er svært begrenset i hvor mye makt de kan "misbruke". Det er naturlig at medlemmer av Valgkom kan endre mening i løpet av et år, og bestemme seg for å stille likevel. Derfor er det mer pragmatisk å la medlemmene kunne stille til HS, uavhengig av engasjement i Valgkom.
+
+### Strykning
+"Sittende valgkomité kan heller ikke stille til valg i Hovedstyret"
+
+## Forslag 5 (om 4 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)
+
+### Begrunnelse
+Hvis det forrige forslaget faller, så burde man passe på at medlemmer av Valgkom ikke bare kan melde seg ut i forkant av generalforsamlingen. Da må man skrive om vedtektene for å forhindre dette.
+
+### Endring
+Endre "Sittende valgkomité kan heller ikke stille til valg i Hovedstyret" til "Medlemmer som ble valgt til valgkomiteen ved forrige generalforsamling, kan ikke stille til verv i Hovedstyret."
+
 
 ## Forslag 6 - Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen
 
