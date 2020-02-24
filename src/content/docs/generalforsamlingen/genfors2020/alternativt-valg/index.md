@@ -37,7 +37,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 **De som har meldt interesse som komitéledere er:**
 
 * *Arrkomleder:* Sindre Langaard
-* *Bedkomleder:* Kristoffer Nyvoll
+* *Bedkomleder:* Kristoffer Nyvoll, Martin Kvalsund
 * *Dotkomleder:* Henrik Hørlück Berg, Petter Charles Stellberg Redfern
 * *Fagkomleder:* Øyvind Jalland Schjerven, Elise Stautland
 * *Prokomleder:*
