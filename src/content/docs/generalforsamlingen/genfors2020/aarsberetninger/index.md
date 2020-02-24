@@ -117,7 +117,22 @@ Opptak: 11 nye medlemmer
 
 ## Bank- og økonomikomiteen
 
-## Bedriftskomiteen 
+* Innført tett samspill mellom økonomiansvarlig og bankom-leder. Også i styret.
+* Fått digitalt kvitteringsskjema som er integrert i regnskapssystemet
+* Kraftig redusert manuelt regnskapsarbeid ved nye rutiner
+* Fjernet dobbeltlagring av billag på Drive
+* Vi gir KID-nummer til kundene våre for automatisk oppfølging
+* Online IL er nå representert i bankom
+* Vært på regnskapskurs og momskurs
+* Vært på møter med det nyopprettede prosjektet økonomiforum med samtlige økonomiansvarlige i linjeforeningene på Gløshaugen.
+* Revidert Realfagkjellerens regnskap
+* Revidert regnskap for vårsemesteret på høsten
+* Revidert hele regnskapet på nyåret
+* Revidert med Abakus
+* Fullført regnskap for 2019 
+* Satt opp budsjett for V20/H20
+* Hatt åpent budsjettmøte og fremlagt budsjettforslag til hovedstyret
+
 
 ## Bedriftskomiteen
 
