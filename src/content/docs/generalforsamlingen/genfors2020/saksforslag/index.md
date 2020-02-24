@@ -35,32 +35,9 @@ Hovedstyret følte ikke at vi hadde hjemmel til å gi de fullt medlemskap på ba
 
 Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har fullført sin bachelor i Informatikk ved NTNU, og begynt på en annen relevant masterretning. De skal få rettighetene tilsvarende en 3. klassing på bachelor i informatikk.  
 
-## Sak 2 - Endring av dagsorden for komitéledervalg (AUO)
 
-Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
-**Bakgrunn:**
-To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 1 vedtas.** Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
-
-**Forslag:**
-Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
-
-[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
-
-  
-## Sak 3 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
-  
-**Bakgrunn:**
-To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektsforslag 2 blir vedtatt.** 
-  
-**Forslag:**
-Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at komiteene tar egne interne valg etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne komitéledere med 1 måneds frist. Nåværende valgte ledere forblir komitéledere inntil nye er godkjent.
-
-Dagsorden oppdateres til å ikke ha valg av komitéledere. 
-
-[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020-2/)  
-
-## Sak 4 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)  
+## Sak 2 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)  
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
@@ -74,7 +51,7 @@ Gruppen ilegges å forhøre seg med tidligere medlemmer av Hovedstyret, aktive m
 I tillegg forventes det at gruppen forhører seg med andre organisasjoner, med spesielt fokus på organisasjoner på lik eller større størrelse som oss. Gruppen skal bestå av en sammensetning medlemmer som gjenspeiler organisasjonen.  
 Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeidet. De beste forslagene til struktur som gruppen kommer frem til skal presenteres til foreningen senest to (2) måneder før neste generalforsamling.
 
-## Sak 5 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
+## Sak 3 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
 **Fremmes bare dersom saksforslag 4 ikke blir vedtatt.**
 
@@ -84,7 +61,7 @@ Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalfor
 
 **Forslag:** Hovedstyret skal ha fokus på å se hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
 
-## Sak 6 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
+## Sak 4 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)
 **Begrunnelse**
 
 Kontorvaktene er umotiverte til å sitte kontorvakt, og møter ikke opp til tross for at dette medfører straff. Dette fører til at kontorvaktens oppgaver ikke blir gjennomført og det blir usikkerhet rundt hvem som skal gjennomføre disse når kontorvakten ikke er til stede. For å opprettholde kontoret som en god og ryddig plass å oppholde seg trenger ordningen en omgjøring.
@@ -93,7 +70,7 @@ Kontorvaktene er umotiverte til å sitte kontorvakt, og møter ikke opp til tros
 
 Tradisjonelle kontorvakter fjernes til fordel for utprøving av en ny ordning. Ordningen utformes av Trivselskomiteen, i samarbeid med kjerne- og nodekomiteene. 
 
-## Sak 7 - Øke støtten til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
+## Sak 5 - Øke støtten til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
 **Begrunnelse**
 
 I bank- og økonomikomiteens [retningslinjer](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/bankom/) §3.4 står det:
@@ -105,7 +82,7 @@ De siste to årene har hvert immball hatt 80 000 kroner i støtte fra Online. Ti
 
 Dersom det er økonomisk forsvarlig skal Online sette av 30 000,- av sitt årlige overskudd til jubkom. Dette skal brukes i forbindelse med jubileum hvert femte år.
 
-## Sak 8 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
+## Sak 6 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
 **Begrunnelse**
 
 De siste tre årene har støtten til jubkom ikke blitt satt av. Dette forslaget har som intensjon om å sette av beløpet som ikke har blitt satt av de siste årene til jubkom.  
@@ -114,7 +91,7 @@ De siste tre årene har støtten til jubkom ikke blitt satt av. Dette forslaget 
 
 Sette av 90 000 kroner fra fjorårets overskudd til jubkom i tillegg til det som allerede skal settes av.  
 
-## Sak 9 - Overføre midler til Fondet (Kaja Sofie Lundgaard og Mathias Fossum)
+## Sak 7 - Overføre midler til Fondet (Kaja Sofie Lundgaard og Mathias Fossum)
 Fondet støttet aktivitet i 2019 for 26 803kr. På bakgrunn av Onlines regnskapsår for 2019,  likvide midler og driftsresultat foreslås det å overføre 350 000kr til Onlines Fond. Fondet utgjør 255 901kr idag som medfører en økning på 323 197kr. 
 
 Det er to år til Onlines jubileum, og det er tenkt at Jubkom søker fondet om støtte når rammene for jubileumet er satt. Utfallet av sak 7 og 8 vil dermed påvirke overføringen:
@@ -122,7 +99,7 @@ Det er to år til Onlines jubileum, og det er tenkt at Jubkom søker fondet om s
 Dersom sak 7 går gjennom, overføres 320 000kr.  
 Dersom sak 8 går gjennom, overføres 260 000kr.   
 
-## Sak 10 - Budsjettreglement (Aslak Hollund)  
+## Sak 8 - Budsjettreglement (Aslak Hollund)  
 **Begrunnelse**  
 På fjorårets generalforsamling ble det vedtatt at makten til å godkjenne budsjettet til Online skulle ligge hos Hovedstyret, heller enn hos Generalforsamlingen. Dette hadde en rekke praktiske effekter for bankoms arbeid, men bryter med en del demokratiske prinsipper. For å kunne  forsøke å opprettholde de demokratiske prinsippene som vi misligholder foreslår jeg at vi skriver et budsjettreglement som styrer hva som skal til for at Hovedstyret og bankom skal **kunne** godkjenne et budsjett. 
 
@@ -144,7 +121,10 @@ Dersom et budsjettreglement ikke er klart, gjort tilgjengelig for medlemmene og 
 
 Budsjettet for 2021 skal settes på et budsjettmøte som er åpent for alle Onlines medlemmer. Innkalling til budsjettmøte skal skje minst 1 måned i forveien. På dette møtet skal Onlines medlemmer debattere og vedta endringsforslag til budsjettet. Budsjettet skal deretter godkjennes ved alminnelig flertall av Onlines medlemmer som er til stede. Dersom budsjettet ikke blir godkjent skal det bli innkalt til nytt møte, med samme parametre innen 2 uker. 
 
-## Sak 11 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)
+
+## Forslag 9, 10 og 11 vil gjennomgås etter vedtektsforslag
+
+## Sak 9 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)
 
 **Bakgrunn:**
 
@@ -158,5 +138,29 @@ Retningslinjene er et dokument som beskriver komiteenes virke i større detalj e
 Hvis vedtektsforslag 1 ikke går igjennom. Skal Hovedstyret revidere komiteenes retningslinjer rundt ansvaret til nestleder. Kjernekomiteene og andre interesserte skal få mulighet til å være involvert i prosessen. 
 
 
+## Sak 10 - Endring av dagsorden for komitéledervalg (AUO)
+
+Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
+
+**Bakgrunn:**
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektforslag 1 vedtas.** Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
+
+**Forslag:**
+Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
+
+[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020/)
+
+  
+## Sak 11 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
+  
+**Bakgrunn:**
+To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at **dagsorden endres bare dersom vedtektsforslag 2 blir vedtatt.** 
+  
+**Forslag:**
+Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at komiteene tar egne interne valg etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne komitéledere med 1 måneds frist. Nåværende valgte ledere forblir komitéledere inntil nye er godkjent.
+
+Dagsorden oppdateres til å ikke ha valg av komitéledere. 
+
+[Endret dagsorden for å inkludere dette](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2020/alternativ-dagsorden-2020-2/)  
 
 # Saksforslag for Online Fond
