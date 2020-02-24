@@ -43,7 +43,7 @@ Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført fel
 
 Hva: Onlines generalforsamling  
 Dato: 2. mars  
-Klokken: 16:30
+Klokken: 16:30  
 Sted: R7  
 
 Vel møtt!
