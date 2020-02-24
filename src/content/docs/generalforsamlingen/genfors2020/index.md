@@ -24,8 +24,8 @@ Referat fra generalforsamlingen 2019 finner du her: [attachment:636]
 
 ## Regnskap 2019 og budsjett 20
 
-- Regnskap: kommer
-- Budsjett: kommer
+- Regnskap: [Regnskap 2019](https://docs.google.com/spreadsheets/d/1J5WKu9TgD1ND6afKllmMtPFYA-WOrErT_4cP6gUrXLM/edit?usp=sharing)
+- Budsjett: [Budsjett 2020](https://docs.google.com/spreadsheets/d/17RzfzGD64AWvpJHow2AlsOh4NIqwSi0ReG-lvDAHarY/edit?usp=sharing)
 
 ## Informasjon
 
