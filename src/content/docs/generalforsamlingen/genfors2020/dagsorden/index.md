@@ -12,8 +12,6 @@ title: "Dagsorden 2020"
 
 **Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 
-**Tidsplan oppdateres nærmere generalforsamlingen. Tidspunktene som står i dagsorden nå er ikke korrekte**
-
 
 ### Administrativt
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
@@ -44,41 +42,39 @@ title: "Dagsorden 2020"
 | 15 | 16:55 | 17:10 | Årsberetning for Online og samarbeidspartnere |   |
 | Total tid: | |15 min|
 
-## Pause 15 minutter
-
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 17:25  | 17:40  | Godkjenning av regnskap 2019  |  |
+| 15 | 17:10  | 17:25  | Godkjenning av regnskap 2019  |  |
 | Total tid: | |15 min|
 
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|10| 17:40 ||Sak 1 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
+|10| 17:25 ||Sak 1 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
 |5|||Sak 2 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
 |5|||Sak 3 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
-|15|||Sak 4 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
-|15|||Sak 5 - Øke støtten til jubkom (Thomas Iversen Ramm)||
+|10|||Sak 4 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
+|10|||Sak 5 - Øke støtten til jubkom (Thomas Iversen Ramm)||
 |5|||Sak 6 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)||
 |5|||Sak 7 - Overføre midler til Fondet (Kaja Sofie Lundgaard og Mathias Fossum)||
-|10|| 18:50|Sak 8 - Budsjettreglement (Aslak Hollund)  ||
-| Total tid: | |70 min|
+|10|| 18:25|Sak 8 - Budsjettreglement (Aslak Hollund)  ||
+| Total tid: | |60 min|
 
 ## Pause 30 min med pizza
 
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|75|19:20||Forslag 1: Splittelse av det to-delte vervet (AUO)||
+|75|18:55||Forslag 1: Splittelse av det to-delte vervet (AUO)||
 |7|||Forslag 2: Godkjenning av lederkandidater||
 |5|||Pause||
 |10|||Forslag 3: Legge ned valgkom (Aslak Hollund)||
 |10|||Forslag 4: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)||
 |5|||Forslag 5 (om 4 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)||
 |15|||Forslag 6: Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen||
-|15|||Forslag 7: Reversere fjorårets endring i budsjettmakten||
+|5|||Forslag 7: Reversere fjorårets endring i budsjettmakten||
 |2.5|||Forslag 8: Organisasjonens navn (Aslak Hollund)||
 |2.5|||Forslag 9: Kutte grupperinger fra §1 (Aslak Hollund)||
 |2.5|||Forslag 10: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret. (Aslak Hollund)||
@@ -100,16 +96,16 @@ title: "Dagsorden 2020"
 |2.5|||Forslag 26: Innstillt til innehar (Aslak Hollund)||
 |2.5|||Forslag 27: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)||
 |2.5|||Forslag 28: Flytte medlemskapsparagraf (Aslak Hollund)||
-|2.5||22:32|Forslag 29: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
-| Total tid: | |192 min|
+|2.5||22:02|Forslag 29: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
+| Total tid: | |187 min|
 
 ### Saksforslag del 2
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|10|22:32||Sak 9 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)||
+|5|22:02||Sak 9 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)||
 |5|||Sak 10 - Endring av dagsorden for komitéledervalg (AUO)||
-|5||22:52|Sak 11 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)||
-| Total tid: | |20 min|
+|5||22:17|Sak 11 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)||
+| Total tid: | |15 min|
 
 ## Pause 5 min
 
@@ -119,7 +115,7 @@ title: "Dagsorden 2020"
 
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|3|22:57|23:00|Årsberetning for fondet v/ Fondstyret||
+|3|22:22|22:25|Årsberetning for fondet v/ Fondstyret||
 | Total tid: | | 3 min |
 
 ### Saksforslag for fondet
@@ -137,9 +133,9 @@ title: "Dagsorden 2020"
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10   |23:00 | | Valg av Onlinemedlem |  |
+| 10   |22:35 | | Valg av Onlinemedlem |  |
 | 10   ||| Valg av tidligere hovedstyremedlem |  |
-| 10   ||23:30| Valg av ridder|  |
+| 10   ||23:05| Valg av ridder|  |
 | Total tid: | | 30 min |
 
 ## Pause 5 min
@@ -147,7 +143,7 @@ title: "Dagsorden 2020"
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 40 | 23:35 | | Valg av leder  |   |
+| 40 | 23:10 | | Valg av leder  |   |
 | 40 | |  | Valg av nestleder  |   |
 | 10 | |  | Valg av økonomiansvarlig  |   |
 | 10 | |  | Valg av leder av arrangementskomiteen  |  |
@@ -156,17 +152,17 @@ title: "Dagsorden 2020"
 | 25 | |  | Valg av leder av fag- og kurskomiteen  |  |
 | 10 | |  | Valg av leder av profil- og aviskomiteen  |   |
 | 10 | | | Valg av leder av trivselskomiteen  |   |
-| 15 | | 01:50 | Valg av valgkomite  |   |
-| Total tid: | |2 t 15 min|
+| 15 | | 02:15 | Valg av valgkomite  |   |
+| Total tid: | |3 t 5 min|
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 01:50 |01:55 | Evaluering av generalforsamling  |   |
+| 5 | 02:15 |02:20 | Evaluering av generalforsamling  |   |
 | Total tid: | |5 min|
 
 ### Medaljeutdeling og bilde
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 01:55| 02:00 | Medaljeutdeling og bilde  |   |
+| 5 | 02:20| 02:25 | Medaljeutdeling og bilde  |   |
 | Total tid: | |5 min|
