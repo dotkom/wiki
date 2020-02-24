@@ -53,7 +53,7 @@ Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeid
 
 ## Sak 3 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)
 
-**Fremmes bare dersom saksforslag 4 ikke blir vedtatt.**
+**Fremmes bare dersom saksforslag 2 ikke blir vedtatt.**
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
