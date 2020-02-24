@@ -248,19 +248,59 @@ Generelt
 
 #### Vår 2019  
 
+- Seriefrokost
+- Skitur til Grønlia
+- Pirbadet med Arrkom
+- Superbowl
+- 17.mai-frokost
+
 #### Høst 2020
 
+- Frukt på kontoret
+- Lunsj Lounge
+- Høstsuppe
+- Halloween på kontoret
+- Code in the Dark
+- Kinotur: Once upon a time in Hollywood
+- Juleverksted
+- Julegrøtfest
+- Vafler på kontoret
 
 #### Vinter 2020 
 
+- Lunsj Lounge
+- Tacofredag med Arrkom
+- Trikoms kvarter
+- Valentines på kontoret
+
 #### Fremover  
+
+- Skuddårsvors på kontoret
+- Samf med Sander
+- Ølsmaking
+- Kult(filmer) med Kasper
+- Filmmaraton
+- Fotballkampvisning
+- 17.mai-frokost
+- Eurovision
+- Eksamensgrilling
 
 ### Kontoret 
 
+- Innført gamle ønsker til kiosken
+- Gjorde kontoret til bodega under innflyttingsfesten i A-blokken
+- Søkt penger til oppussing
+
 ### Medlemmer 
+
+**Totalt:** 12 medlemmer  
+**Nye:** 5 (4 førsteklassinger og 1 andreklassing)  
+**Permisjon:** 1  
 
 ### Annet 
 
+- Flyttet komitébod fra A4 til lager på IT-bygget
+- Startet prosess for ny utforming av kontorvaktordningen
 
 ## Seniorkomiteen
 
