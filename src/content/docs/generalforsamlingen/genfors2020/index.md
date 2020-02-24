@@ -22,7 +22,7 @@ Onlines vedtekter finner du her: [attachment:635]
 Onlines fonds vedtekter finner du her: [attachment:637]  
 Referat fra generalforsamlingen 2019 finner du her: [attachment:636] 
 
-## Regnskap 2019 og budsjett 20/21
+## Regnskap 2019 og budsjett 20
 
 - Regnskap: kommer
 - Budsjett: kommer
