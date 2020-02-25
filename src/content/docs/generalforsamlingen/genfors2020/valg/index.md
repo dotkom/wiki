@@ -20,7 +20,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:* Mathias Fossum, Benedicte Helen Myrvoll, Pål-Edward Larsen  
 * *Nestleder:* Øyvind Jalland Schjerven, Peter Rydberg, Sigurd Oxaas Wie
-* *Økonomiansvarlig:* Christoffer Stensrud
+* *Økonomiansvarlig:* Christoffer Stensrud, Thomas Iversen Ramm
 * *Arrkom:* Sindre Langaard
 * *Bedkom:* Kristoffer Nyvoll
 * *Dotkom:* Henrik Hørlück Berg, Anh-Kha Vo
