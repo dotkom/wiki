@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Dotkom:* Henrik Hørlück Berg
 * *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye, Elise Rabassa Stautland, André Schjøth
 * *Prokom:* Henrik Giil Liisberg
-* *Trikom:* Thea Karin Fladby, Jørgen Nummedal Sveberg, Erik Skår
+* *Trikom:* Thea Karin Fladby, Jørgen Nummedal Sveberg
 
 **De som har meldt interesse til Fondstyret er:**
 
