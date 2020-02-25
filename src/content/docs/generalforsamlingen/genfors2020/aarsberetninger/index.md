@@ -269,7 +269,7 @@ Generelt
 - Superbowl
 - 17.mai-frokost
 
-#### Høst 2020
+#### Høst 2019
 
 - Frukt på kontoret
 - Lunsj Lounge
