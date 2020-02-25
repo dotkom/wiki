@@ -23,7 +23,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig:* Christoffer Stensrud
 * *Arrkom:* Sindre Langaard
 * *Bedkom:* Kristoffer Nyvoll
-* *Dotkom:* Henrik Hørlück Berg
+* *Dotkom:* Henrik Hørlück Berg, Anh-Kha Vo
 * *Fagkom:* Øyvind Jalland Schjerven, Johan August Østbye, Elise Rabassa Stautland, André Schjøth
 * *Prokom:* Henrik Giil Liisberg
 * *Trikom:* Thea Karin Fladby, Jørgen Nummedal Sveberg
