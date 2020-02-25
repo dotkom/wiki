@@ -38,7 +38,7 @@ Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg
 
 * *Arrkomleder:* Sindre Langaard
 * *Bedkomleder:* Kristoffer Nyvoll, Martin Kvalsund
-* *Dotkomleder:* Henrik Hørlück Berg, Petter Charles Stellberg Redfern
+* *Dotkomleder:* Henrik Hørlück Berg
 * *Fagkomleder:* Øyvind Jalland Schjerven, Elise Stautland
 * *Prokomleder:*
 * *Trikomleder:* Jørgen Nummedal Sveberg, Erik Skår, Thea Karin Fladby
