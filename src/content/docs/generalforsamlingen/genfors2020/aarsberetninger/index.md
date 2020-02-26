@@ -212,12 +212,11 @@ Generelt
 
 ### Høst 2019
 
-- Har arrangert 10 kurs i samarbeid med bedrifter, hvorav et har vært i samarbeid med Abakus
-- Har arrangert følgende ikke-bedriftskurs
-  - Tre frokostseminar: jobbsøking, jobbintervju og utveskling
-  - Kurs i Git
-  - Kurs i terminal
-  - Code in the dark med trikom
+- **Har arrangert 10 kurs i samarbeid med bedrifter, hvorav et har vært i samarbeid med Abakus**
+- **Tre frokostseminar: jobbsøking, jobbintervju og utveksling**
+- **Kurs i Git**
+- **Kurs i terminal**
+- Code in the dark med trikom
 - Har arrangert to eksamensforelesninger og en midtsemesterforelesning, i samarbeid med Abakus
 - Gjennomført bookingrunden i samarbeid med bedkom
 
@@ -225,7 +224,7 @@ Generelt
 
 - Bookingrunden for bedriftsarrangementer neste semester skjer nå
 - Gjennomført 5 bedriftskurs, har 5 igjen
-- Skal arrangere kurs med Google
+- **Skal arrangere kurs med Google**
 - Planlegger å arrangere malekurs og swingkurs i samarbeid med Spanskrøret
 
 
