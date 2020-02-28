@@ -148,21 +148,21 @@ title: "Alternativ Dagsorden 2020 Med Internt Valg og HS-godkjenning"
 | 10 | |  | Valg av økonomiansvarlig  |   |
 | 10 | |  | Valg av styremedlem for arrangementskomiteen  |  |
 | 10 | | | Valg av styremedlem for bedriftskomiteen  |  |
-| 15 | |  | Valg av styremedlem for drifts- og utviklingskomiteen  |   |
-| 25 | |  | Valg av styremedlem for fag- og kurskomiteen  |  |
+| 20 | |  | Valg av styremedlem for drifts- og utviklingskomiteen  |   |
+| 20 | |  | Valg av styremedlem for fag- og kurskomiteen  |  |
 | 10 | |  | Valg av styremedlem for profil- og aviskomiteen  |   |
-| 10 | | | Valg av styremedlem for trivselskomiteen  |   |
-| 15 | | 02:15 | Valg av valgkomite  |   |
-| Total tid: | |3 t 5 min|
+| 15 | | | Valg av styremedlem for trivselskomiteen  |   |
+| 15 | | 02:20 | Valg av valgkomite  |   |
+| Total tid: | |3 t 10 min|
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 02:15 |02:20 | Evaluering av generalforsamling  |   |
+| 5 | 02:20 |02:25 | Evaluering av generalforsamling  |   |
 | Total tid: | |5 min|
 
 ### Medaljeutdeling og bilde
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 02:20| 02:25 | Medaljeutdeling og bilde  |   |
+| 5 | 02:25| 02:30 | Medaljeutdeling og bilde  |   |
 | Total tid: | |5 min|
