@@ -341,16 +341,14 @@ Generelt
 Turen
 
  - Planlagt tur til Sør-Korea og Japan, med faglig innhold i Sør-Korea
- - Det eksisterer en risiko mtp. Koronavirus, men det er lite vi kan gjøre annet enn å vente
-    - Vi er mer utsatt enn XCOM fordi vi har den kulturelle uken i Sør-Korea, så hele turen må antageligvis kanselleres om sør-korea blir stengt
- - 4-5 dager med bedriftbesøk(2 dager fastslått, i forhandlingsfasen med resten for øyeblikket)
- - Friuke i Japan. 2 dager guidet innhold, fridager, dager hvor vi drar steder sammen
+ - Ble kansellert pga krav fra NTNU - jobber med å kreve erstatning fra NTNU da det ikke går på forsikringen
 
 Økonomi
 
  - Arrangerte dugnader for å samle inn midler
  - Arrangerte Tech Talks 20. Februar. 9 bedrifter. 15% økning i inntekt i forhold til i fjor. Pivoteringen var godt mottatt.
- - Alt overskudd føres tilbake til deltakerne
+ - Overskudd brukes for å dekke avbestillingsgebyr, og utgifter i forbindelse med friuke(r).
+ - Mer eksakt mapping av penger er TBD
 
 Administrativt
 
