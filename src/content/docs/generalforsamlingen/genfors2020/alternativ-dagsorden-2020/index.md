@@ -148,32 +148,32 @@ title: "Alternativ Dagsorden 2020"
 | 10 | |  | Valg av økonomiansvarlig  |   |
 | 10 | |  | Valg av styremedlem for arrangementskomiteen  |  |
 | 10 | | | Valg av styremedlem for bedriftskomiteen  |  |
-| 15 | |  | Valg av styremedlem for drifts- og utviklingskomiteen  |   |
-| 25 | |  | Valg av styremedlem for fag- og kurskomiteen  |  |
+| 20 | |  | Valg av styremedlem for drifts- og utviklingskomiteen  |   |
+| 20 | |  | Valg av styremedlem for fag- og kurskomiteen  |  |
 | 10 | |  | Valg av styremedlem for profil- og aviskomiteen  |   |
-| 10 | | | Valg av styremedlem for trivselskomiteen  |   |
-| 15 | | 02:15 | Valg av valgkomite  |   |
-| Total tid: | |3 t 5 min|  
+| 15 | | | Valg av styremedlem for trivselskomiteen  |   |
+| 15 | | 02:20 | Valg av valgkomite  |   |
+| Total tid: | |3 t 10 min|  
   
 ### Valg av komitéledere
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10 | 02:15|  | Valg av leder av arrangementskomiteen  |  |
-| 10 | | | Valg av leder av bedriftskomiteen  |  |
+| 10 | 02:20|  | Valg av leder av arrangementskomiteen  |  |
+| 15 | | | Valg av leder av bedriftskomiteen  |  |
 | 15 | |  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 25 | |  | Valg av leder av fag- og kurskomiteen  |  |
+| 15 | |  | Valg av leder av fag- og kurskomiteen  |  |
 | 10 | |  | Valg av leder av profil- og aviskomiteen  |   |
-| 10 | | 03:35| Valg av leder av trivselskomiteen  |   |
-| Total tid: | |1 t 20 min|
+| 20 | | 03:45| Valg av leder av trivselskomiteen  |   |
+| Total tid: | |1 t 25 min|
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 03:35 |03:40 | Evaluering av generalforsamling  |   |
+| 5 | 03:45 |03:50 | Evaluering av generalforsamling  |   |
 | Total tid: | |5 min|
 
 ### Medaljeutdeling og bilde
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 03:40| 03:45 | Medaljeutdeling og bilde  |   |
+| 5 | 03:50| 03:55 | Medaljeutdeling og bilde  |   |
 | Total tid: | |5 min|
