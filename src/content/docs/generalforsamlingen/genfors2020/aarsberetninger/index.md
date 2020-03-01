@@ -156,6 +156,7 @@ Opptak: 11 nye medlemmer
 ### Vårsemesteret 2020
 * Var på oslotur med fagkom hvor vi besøkte 8 bedrifter
 * **Fornyet produktet vårt ved å promotere for andre typer arrangement enn generell bedriftspresentasjon under bookingrunden**
+
 *Begynt å planlegge IT-ekskursjonen til Oslo
 * Gjennomført 8 bedriftspresentasjoner
 * Gjennomført 1 KID arrangement
