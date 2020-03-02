@@ -319,8 +319,8 @@ Generelt
  - Tatt opp 5 personer gjennom året
  - Utnevnt nestleder
  - Utnevnt økonomiansvarlig
- - Godkjent 5 nye interessegrupper
- - Godkjent 13 pengesøknader
+ - ** Godkjent 5 nye interessegrupper **
+ - ** Godkjent 13 pengesøknader **
  - Startet med møter hver 2. uke
  - Vært på hyttetur
 
