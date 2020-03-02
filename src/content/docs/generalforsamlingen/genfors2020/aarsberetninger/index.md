@@ -203,7 +203,6 @@ Tok opp 6 nye medlemmer på høsten, 5 fra 1. klasse og 1 fra 4. klasse
 
 Generelt
 
-- Tatt opp x nye medlemmer: y fra førsteklasse og z fra andreklasse
 - Nettopp vært på Oslotur med to medlemmer fra bedkom
 - Fulgt opp ekskursjonskomiteen med bedkom
 - Har hatt teambuilding med bedkom
