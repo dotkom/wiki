@@ -252,7 +252,7 @@ kaffedrikking.
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|2020v-2021v| Mathias Fossum |*********|*********|*********|*********|*********|*********|*********|*********|*********|*********|
+|2020v-2021v| Mathias Fossum |Benedicte Helen Myrvoll|*********|*********|*********|*********|*********|*********|*********|*********|*********|
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
 |---|---|---|---|---|---|---|---|---|---|---|---|
