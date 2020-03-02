@@ -252,6 +252,10 @@ kaffedrikking.
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
 |---|---|---|---|---|---|---|---|---|---|---|---|
+|2020v-2021v| Mathias Fossum |*********|*********|*********|*********|*********|*********|*********|*********|*********|*********|
+
+|År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
+|---|---|---|---|---|---|---|---|---|---|---|---|
 |2019v-2020v| August Solvang |Henrik Liodden|Kaja Lundgaard|Alis Wilson|Sigrun Nummedal|Ole Anders Stokker|Andreas Amundsen|Benedicte Myrvoll|Silje Moksnes|Emil Schrøder (ikke valgt på genfors)|Mathias Fossum (ikke valgt på genfors)|
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
