@@ -10,8 +10,8 @@ Profil- og aviskomiteens hovedoppgave er å produsere og sikre kvalitet på prof
 -------------------------
 Komiteen består av:   
 
-* Leder
-* Nestleder
+* Styremedlem
+* Komitéleder
 * Økonomiansvarlig
 * Redaktør av Offline
 * Nettredaktør
@@ -23,7 +23,7 @@ Komiteen består av:
 * Årboksredaktør
 * Andre medlemmer
 
-Alle stillinger bortsett fra leder velges internt i komiteen. Andre internverv velges ved behov. 
+Alle stillinger bortsett fra styremedlem velges internt i komiteen. Andre internverv velges ved behov. 
 
 §3 Profil- og aviskomiteens ansvarsområder
 -------------------------
