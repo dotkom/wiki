@@ -67,7 +67,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |---|---|---|---|---|---|---|
 |[BioM](http://org.ntnu.no/biom)||Biologi||[Page](http://fb.com/pages/BioM/211739618885287)|||
 |Bunnsolid|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=814470172)|Undervannsteknologi|||||
-|LAKS|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|Marinbiologi||[Page](http://fb.com/laks.ntnu), [Group](http://fb.com/groups/2260532937/)|||
+|NJORD|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992378794)|MSc Ocean Resources||[Page](https://www.facebook.com/NjordNTNU/), [Group](http://fb.com/groups/2260532937/)||Brattørkaia 17c, 7010 Trondheim|
 |[Hippodamus](http://hippodamus.no/)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998244854)|Master i Eiendomsutvikling og - Forvaltning, Master i Fysisk Planlegging||[Group](http://fb.com/groups/161226483916509/)|[HippoDaily](http://hippodamus.no/tidligere-hippodailies-2)||
 | Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet || [Page](https://www.facebook.com/pokayokeNTNU/) | | ||
 |Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk||[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)|||
