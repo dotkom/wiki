@@ -74,6 +74,10 @@ Medlemmer
 
 |År|Leder|Økonomiansvarlig|    Medlemmer    |||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
+|*2020*|*MÅ FYLLES*|||||||||||||
+|*2019*|*MÅ FYLLES*|||||||||||||
+|*2018*|*MÅ FYLLES*|||||||||||||
+|*2017*|*MÅ FYLLES*|||||||||||||
 |*2016*|*Fride Skarseth*| Jakob Westermoen | Oscar Conrad | Ingrid Medalen | Maria Rønning | Mathias Strupstad |Kristiane Westgård | Caroline Odden | Marius Aarsnes | Lars Vattøy | Henrik Bossart | Håkon Haldall |||
 |*2015*|*Andreas Norstein*|||||||||||||
 |*2014* |*Caroline Odden* | Didrik Pemmer Aalen |Leif Marius Sethne Reppen|Sondre Johan Widmark|David André Årthun Bakke|Hege Louise Borge|Håvard Slettvold|Marius Thingwall|Magnus Buvarp||||||
