@@ -71,10 +71,12 @@ et akutt HMS-tiltak mot såre tær hos kvinnelige informatikere.
 
 Medlemmer
 ---------
+|År|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    ||||||||||
+|---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
+|*2020*|*Robin Lund Sadun*|Anders Robstad|Duvara Nishaharan|Ivar Hembre|Amund Skuggevik Foss|Henrik Horten Hegli|Torjus Ødegård|Martin Kvalsund|Gabriel Hanssen|Hanna Thevik|Siri Arnesen|Leo Gimre|Sarmi Ponnuthurai|
 
 |År|Leder|Økonomiansvarlig|    Medlemmer    |||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
-|*2020*|*Robin Lund Sadun*|Anders Robstad|Duvara Nishaharan|Ivar Hembre|Amund Skuggevik Foss|Henrik Horten Hegli|Torjus Ødegård|Martin Kvalsund|Gabriel Hanssen|Hanna Thevik|Siri Arnesen|Leo Gimre|Sarmi Ponnuthurai|
 |*2019*|*MÅ FYLLES*|||||||||||||
 |*2018*|*MÅ FYLLES*|||||||||||||
 |*2017*|*MÅ FYLLES*|||||||||||||
