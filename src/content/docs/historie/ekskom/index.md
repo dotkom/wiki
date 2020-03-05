@@ -22,34 +22,14 @@ Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise ti
 
 **Tur 2020:** Turen i 2020 ville ha hatt faglig uke i Seoul, Sør-Korea, og kulturell uke i Tokyo, Japan. Dessverre ble turen avlyst på grunn av koronaviruset. 
 
-#### Medlemmer
-
-L = Leder, NL = Nestleder, Ø = Økonomiansvarlig
-
-2019-2020, Sør-Korea, Japan
-
-  - **Liam Svanåsbakken Crouch (L)** | Nina Duong (NL) | Silje Villandseie (Ø) | Andreas Jonassen | Mathias Brekkan |
-
-2018-2019, Kina
-
-  - **Petter Rein (L)** | Morten Falstad (NL) | Sigurd Melsom (Ø) | Lars Kåre Syversen | Therese Federl | Ebba Fingarsen | Tore Stensaker Tefre | Helle Van Den Broek | Minh Ha Do | Kim Duong |
-
-2017-2018, Sør-Korea
-
-  - **Simen Blikeng (L)** | Edvard Bakken (NL) | Fride Skarseth (Ø) | Lars Aders | Maria Rønning | Embrik Einang | Petter Lohne | Magnus Guttormsen |
-
-2016-2017, Sør-Korea
-
-  - **Christoffer S. Lofsberg (L)** | Camilla Tran (NL) | Margit Schefte (Ø) | Dag Frode Solberg | Hung Thieu | Jie Li | Martin Bjerke | Oddrun Petursdottir | Quang-Tam Huynh | Rebekka Alvsvåg | Stian Jørgensrud |
-
-2015-2016, Japan
-
-  - **Ingrid Vold (L)** | Hanna Sollie Storaker (NL) | Camilla Tøftum Ranner (Ø) | Håkon Solbjørg | Iselin Bjørnsgaard Erikssen | My Thao Nguyen | Uyen Dan Nguyen | Petter Rostrup | Sondre Sæterli Hjetland | Nikolai Hegelstad | Eirik Vikanes | Lars Henrik Søreide Grytten |
-
-2014-2015, USA
-
-  - **Truls Mørk Pettersen (L)** | Tale Prestmo (NL) | Fredrik Berg | Håkon Løvdal | Kristoffer Dalby (Ø) | Petter Ekern | Jørgen Sirhaug | Kristian Volden | Sondre Dyvik |
-
-2013-2014, Kina
-
-  - **Per Øyvind Kanestrøm (L)** | Ragnhild Seim (Kun med de første månedene) | Pia Lindkjølen | Christian Strand Young | Kathrine Steffensen | Anders Malmo | Vegar Lerpold | Øyvind Hellenes | Rikard Eide | Are Sjøberg |
+Medlemmer
+---------
+|År, sted|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    |||||||||
+|---|---|---|---| --- |---|---|---|---|---|---|---|---|
+|*19/20, Sør-Korea og Japan*|*Liam Svanåsbakken Crouch*|Nina Duong|Andreas Jonassen|Mathias Brekkan|
+|*18/19, Kina*|*Petter Rein*|Morten Falstad|Sigurd Melsom|Lars Kåre Syversen|Therese Federl|Ebba Fingarsen|Tore Stensaker Tefre|Helle Van Den Broek|Minh Ha Do|Kim Duong|
+|*17/18, Sør-Korea*|*Simen Blikeng*|Edvard Bakken|Fride Skarseth|Lars Aders|Maria Rønning|Embrik Einang|Petter Lohne|Magnus Guttormsen|
+|*16/17, Sør-Korea*|*Christoffer S. Lofsberg*|Camilla Tran|Margit Schefte|Dag Frode Solberg|Hung Thieu|Jie Li|Martin Bjerke|Oddrun Petursdottir | Quang-Tam Huynh | Rebekka Alvsvåg | Stian Jørgensrud |
+|*15/16, Japan*|*Ingrid Vold*|Hanna Sollie Storaker| Camilla Tøftum Ranner| Håkon Solbjørg | Iselin Bjørnsgaard Erikssen | My Thao Nguyen | Uyen Dan Nguyen | Petter Rostrup | Sondre Sæterli Hjetland | Nikolai Hegelstad | Eirik Vikanes | Lars Henrik Søreide Grytten |
+|*14/15, USA*|*Truls Mørk Pettersen*|Tale Prestmo| Kristoffer Dalby| Håkon Løvdal |Fredrik Berg| Petter Ekern | Jørgen Sirhaug | Kristian Volden | Sondre Dyvik |
+|*13/14, Kina*|*Per Øyvind Kanestrøm*|Ragnhild Seim | Pia Lindkjølen | Christian Strand Young | Kathrine Steffensen | Anders Malmo | Vegar Lerpold | Øyvind Hellenes | Rikard Eide | Are Sjøberg |
