@@ -70,6 +70,11 @@ Dato for jubileet var 12. november 2011, og involverer utstillinger fra
 Onlines historie, taler fra tidligere medlemmer og en konsert med det
 etter hvert velkjente after ski-bandet [Pink Hink][].
 
+30-års jubileum
+---------------
+
+INFORMASJON SØKES
+
 Medlemmer
 ---------------
 |Milepæl|Leder|Medlemmer||||||
