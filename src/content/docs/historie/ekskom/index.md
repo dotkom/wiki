@@ -2,25 +2,42 @@
 title: "Ekskursjonskomiteen"
 ---
 
-#### Historie
+##Historie
 
-Ekskursjonskomiteen ble forsøkt opprettet for første gang i 2012. Det gikk ikke så bra og det ble ingen ekskursjon, tross at det virket som det var interesse for tur blant medlemmene. I starten av 2013 ble det på nytt oppstartet hvor det hele startet med et komitémedlem fra Bedriftskomiteen, et fra Fag- og kurskomiteen og et fra Arrangementskomiteen. Henholdsvis Per Øyvind Kanestrøm, Pia Lindkjølen og Ragnhild Seim. De tre satte opp en plan og tok opp det som skulle bli første Ekskursjonskomité til å arrangere TechTalks og dra på tur. Turen varte i to uker og gikk til Shanghai og Beijing, Kina. 
+###2012
+
+Ekskursjonskomiteen ble forsøkt opprettet for første gang i 2012. Det gikk ikke så bra og det ble ingen ekskursjon, tross at det virket som det var interesse for tur blant medlemmene. 
+
+###2013
+
+I starten av 2013 ble det på nytt oppstartet hvor det hele startet med et komitémedlem fra Bedriftskomiteen, et fra Fag- og kurskomiteen og et fra Arrangementskomiteen. Henholdsvis Per Øyvind Kanestrøm, Pia Lindkjølen og Ragnhild Seim. De tre satte opp en plan og tok opp det som skulle bli første Ekskursjonskomité til å arrangere TechTalks og dra på tur. Turen varte i to uker og gikk til Shanghai og Beijing, Kina. 
+
+###2014
 
 Året etter ble enda en vellykket ekskursjon gjennomført og turen gikk da til Silicon Valley, California. 
 
-Onlines tredje eksursjon ble gjennomført påsken 2016 og turen gikk da tilbake til Asia og Japan. 
+###2015
 
-I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasasjon. Den femte ekskursjonen ble gjennomført påsken 2018 og turen vil gikk til Seoul i Sør-Korea.
 
-**2018** ble ekskom tatt ut av Online og oppretter igjen sin egen organisasjon som jobber tett med Online. Navnet på den nye organisasjonen er Ekskursjonkomiteen Online. Samarbeidet med Online fortsetter som før og ekskom vil ha kontakter fra bedkom, prokom og fagkom blant medlemmene sine for å ha et bedre samarbeid mellom alle komitene.
+###2016
 
-**Tur 2019:** Den sjette turen til Online er planlagt til å gå til Kina. Der vi vil besøke Suzhou, Nanjing og Bejing i den faglige uken. Vi vil besøke Nanjing University, Feifanuniv og Huawei Nanjing R&D Center. Også vil vi besøke Tsinghua University i Beijing samt Face++ og Microsoft Research Centre.
+I 2016 ble ekskom tatt inn under Online, og opprettet derfor ingen egen orginasasjon. Onlines tredje eksursjon ble gjennomført påsken 2016 og turen gikk da tilbake til Asia og Japan. 
+
+###2017
+
+###2018
+
+I 2018 ble ekskom tatt ut av Online og oppretter igjen sin egen organisasjon som jobber tett med Online. Navnet på den nye organisasjonen er Ekskursjonkomiteen Online. Samarbeidet med Online fortsetter som før og ekskom vil ha kontakter fra bedkom, prokom og fagkom blant medlemmene sine for å ha et bedre samarbeid mellom alle komitene. I 2018 ble det også inngått et samarbeid med IPIT der formålet er å fremme akademisk og kulturelt læring. Det er også et mål at flere skal søke utveksling til Kina. Den femte ekskursjonen ble gjennomført påsken 2018 og turen vil gikk til Seoul i Sør-Korea.
+
+###2019
+
+Den sjette turen til Online er planlagt til å gå til Kina. Der vi vil besøke Suzhou, Nanjing og Bejing i den faglige uken. Vi vil besøke Nanjing University, Feifanuniv og Huawei Nanjing R&D Center. Også vil vi besøke Tsinghua University i Beijing samt Face++ og Microsoft Research Centre.
 
 Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise til Gulin, Yangshuo, Shenzhen og til slutt Hong Kong.
 
-2018 ble det også inngått et samarbeid med IPIT der formålet er å fremme akademisk og kulturelt læring. Det er også et mål at flere skal søke utveksling til Kina. 
+###2020
 
-**Tur 2020:** Turen i 2020 ville ha hatt faglig uke i Seoul, Sør-Korea, og kulturell uke i Tokyo, Japan. Dessverre ble turen avlyst på grunn av koronaviruset. 
+Turen i 2020 ville ha hatt faglig uke i Seoul, Sør-Korea, og kulturell uke i Tokyo, Japan. Dessverre ble turen avlyst på grunn av koronaviruset. 
 
 Medlemmer
 ---------
