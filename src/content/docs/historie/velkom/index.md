@@ -74,7 +74,7 @@ Medlemmer
 
 |År|Leder|Økonomiansvarlig|    Medlemmer    |||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |
-|*2020*|*MÅ FYLLES*|||||||||||||
+|*2020*|*Robin Lund Sadun*|Anders Robstad|Duvara Nishaharan|Ivar Hembre|Amund Skuggevik Foss|Henrik Horten Hegli|Torjus Ødegård|Martin Kvalsund|Gabriel Hanssen|Hanna Thevik|Siri Arnesen|Leo Gimre|Sarmi Ponnuthurai|
 |*2019*|*MÅ FYLLES*|||||||||||||
 |*2018*|*MÅ FYLLES*|||||||||||||
 |*2017*|*MÅ FYLLES*|||||||||||||
