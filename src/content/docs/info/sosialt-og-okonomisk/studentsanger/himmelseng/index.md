@@ -6,6 +6,8 @@ title: "Himmelseng"
 
 Dette er en sang med kun ett originalt vers og ett refreng. Alle vers etter det første er vers man legger til underveis.
 
+Historien er vanskelig å spore opp, og det følgende blir spekulasjoner. Sangen _ser_ ut til å ha startet i Danmark, da på et litt annet format og melodi, [dokumentert her](http://web.archive.org/web/20070222141933/http://drikkeviser.prang.dk/viser.asp?mode=view&ID=377). Sangen er i Sverige også kjent som "Reven", og har tilsynelatende hentet format og melodi fra [Snehvit og de syv dvergene](https://youtu.be/nSgngZ9CpTM?t=40). Filmen hentet igjen melodien fra den Irske folkesangen "Peggy Lettermore". Hvordan dette ble en studentsang vites ikke.
+
 Det oppfordres her til at folk dokumenterer hendelser i form av vers til denne sangen, dermed kan onlinere synge om sin historie i lang tid fremover!
 
 ## Tekst
