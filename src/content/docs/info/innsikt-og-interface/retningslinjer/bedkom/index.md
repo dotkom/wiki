@@ -14,8 +14,9 @@ Bedriftskomiteen skal være et bindeledd mellom informatikkstudenter og nærings
 
 Bedriftskomiteen består av følgende medlemmer: 
 
-* Leder  
-* Nestleder  
+* Komitèleder  
+* Styremedlem  
+* Vara (før: Nestleder)
 * Økonomiansvarlig  
 
 Samt det antall øvrige medlemmer som kreves for at komiteen skal kunne fungere effektivt.
