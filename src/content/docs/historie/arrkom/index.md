@@ -43,6 +43,7 @@ Underholdning på immballet
 
 Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen for arrangementskomiteen var nødt til å holde et underholdningsinnslag på immballet. Godtroende som han var; stod han med bursdagskrone på scenen og sang "Never gonna give you up" av Rick Astley. Siden da har det vært en tradisjon at lederen for arrkom er nødt til underholde på immballet. 
 
+* 2019 - **Alis Wiken Wilson** danset til Gloria Gaynor sin sang "I Will Survive" med Erika Åsberg, Karen Dahl Aarhus, Eskil Hognestad og Anders Bergesen" 
 * 2018 - **Johannes Kvamme** danset til Stiffi sin sang "Respect" med Alis Wiken Wilson, Erika Åsberg, Eskil Hognestad og Eivind Solberg Rydningen" 
 * 2017 - **Edvard Gjessing Bakken** danset til Rick Astley sin sang "Never gonna give you up" med Heidi Brække, Miriam Lillebo og Anzhelika Seliverstova" 
 * 2016 - **Sander Arnesen** danset til backstreet boys sin sang "Everybody" med Kasper Kæboe Berg, Edvard Gjessing Bakken og Sondre Widmark.
@@ -57,9 +58,12 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 (Tabellen er noe mangelfull) 
  
 * L - leder  
-* K - kjelleransvarlig  
 * N - nestleder  
+* HS - hovedstyrerepresentant
 * Ø - økonomiansvarlig  
+* P - promoteringsansvarlig
+* S - SoMe-ansvarlig
+* K - kjelleransvarlig  
 * V - kun på vårparten  
 * H - kun på høstparten  
 
@@ -67,6 +71,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 |År   | Medlemmer |
 | --- | --------- |
+|2019 - 2020| **Alis Wiken Wilson(L)**,  Erika Åsberg(N), Thomas Iversen Ramm(Ø), Eskil Hognestad, Svenn Grønbeck, Anders Bergesen, Marius Sjøberg, Karen Dahl Aarhus, Nicolai C. Michelet(P), Sindre Langaard, Milla Johanne Lund Weium, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Filip Skou(S)|
 |2018 - 2019| **Johannes Kvamme(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eskil Hognestad, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Alis Wilson, Karen Dahl Aarhus, Lars Strømholm, Kaspar Paus Græsdal(H)|
 |2017 - 2018| **Edvard Gjessing Bakken(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eirik Kaldahl, Edvard Sjøblom, Eskil Hognestad, Resotharan Kanagaratnam, Kasper Klæboe Berg, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Anzhelika Seliverstova, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Fride Vaagland(H)|
 |2016 - 2017| **Sander Arnesen(L)**, Kasper Klæboe Berg(N), Marius Johan Holm Johansen(Ø), Edvard Sjøblom, Eirik Kaldahl, Resotharan Kanagaratnam, Johannes Kvamme, Heidi Brække, Eskil Hognestad, Eivind Rydningen, Svenn Grønbeck, Sondre Johan Widmark, Ingrid Skar, Anzhelika Seliverstova, Edvard Gjessing Bakken|
