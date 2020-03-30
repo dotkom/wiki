@@ -82,7 +82,7 @@ Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste 
 ### Hvit* - ikon
 
 ## Annet
-### [attachment:678 title:"Komitésymboler"] - Inneholder alle komitésymboler på .svg-format
+### [attachment:678 title:"Komitésymboler"] - Inneholder alle komitésymboler på .eps- og png-format
 
 ## Presentasjonsmal
 Online har også en relativt enkel presentasjonsmal som kan brukes når noen i linjeforeningen skal holde en presentasjon internt eller til eksterne. Denne kan du finne på Drive, i form av Google Presentation og PowerPoint. Hvis du vil bruke den som Theme i Google Drive, kan du følge disse stegene:
