@@ -26,15 +26,15 @@ Samt det antall øvrige medlemmer som kreves for at komiteen skal kunne fungere 
 
 #### (1) Profilering
 
-Komitéen skal profilere informatikkstudentene som potensielle arbeidstakere overfor bedrifter og gjøre studentene kjent med aktuelle arbeidsgivere. 
+Komiteen skal profilere informatikkstudentene som potensielle arbeidstakere overfor bedrifter og gjøre studentene kjent med aktuelle arbeidsgivere. 
 
 #### (2) Samarbeid med andre linjeforeninger 
 
-Komitéen skal samarbeide med andre linjeforeninger for å ivareta Online-studenters interesse på NTNU.
+Komiteen skal samarbeide med andre linjeforeninger for å ivareta Online-studenters interesse på NTNU.
 
 ####(3) Nye Bedrifter
 
-Komitéen skal jobbe med å bedre kontakt med aktuelle bedrifter og samtidig fremstå profesjonelle.
+Komiteen skal jobbe med å bedre kontakt med aktuelle bedrifter og samtidig fremstå profesjonelle.
 
 #### (4) Bedriftspresentasjoner
 
@@ -43,12 +43,12 @@ Komiteen skal arbeide for å arrangere bedriftspresentasjoner, samt andre løsni
 
 ####(5) Oslotur
 
-Komiteen skal, for å bedre kommunikasjon med næringslivet, arrangere to Osloturer i året.
+Komiteen skal besøke aktuelle bedrifter i Oslo idh. å komme i kontakt med nye bedrifter samt bedre kommunikasjon med næringslivet. Osloturen arrangeres årlig (Hvert semester dersom det er hensiktsmessig)
 
 
 #### (6) Samarbeid med Abakus
 
-Komiteen skal utarbeide kontrakter for samarbeid med Abakus, linjeforeningen for datateknikk og kommunikasjonsteknologi, slik at man sammen kan skape et bredere tilbud for våre studenter.
+Komiteen skal utarbeide kontrakter for samarbeid med Abakus, linjeforeningen for datateknologi og kommunikasjonsteknologi, slik at vi sammen kan skape et bredere tilbud for våre studenter.
 
 ####(7) Offline
 Komiteen skal etterstrebe å skaffe sponsorer fra næringslivet til Offline, Onlines linjeforeningsavis.
@@ -63,7 +63,7 @@ Komiteen har ansvar for å skaffe en hovedsponsor, og sørge for at dette samarb
 Komiteen skal representere Online i næringslivsnettverket KiD, og tilrettelegge for at de får gjennomført arrangementer og andre tiltak for våre studenter.
 
 ####(11) ITEX
-Komiteen skal hjelpe ITEX med å komme i kontakt med bedrifter som er interessert i å ta del i Osloekskursjonen. 
+Komiteen skal hjelpe ITEX med å komme i kontakt med bedrifter som er interessert i å ta del i ekskursjonen. 
 
 ####(12) Linjesamarbeidet 
 Komiteen har som ansvar å følge opp linjesamarbeidet og delta på møtene deres. Komiteen skal i tillegg videreformidle relevant informasjon til andre komiteer i Online.
