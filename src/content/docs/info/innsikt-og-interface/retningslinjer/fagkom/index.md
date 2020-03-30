@@ -12,15 +12,15 @@ Fag- og kurskomiteen skal jobbe aktivt for å stimulere studentenes faglige inte
 
 Komiteen består av:  
 - Leder  
-- Nestleder  
-- Økonomiansvarlig  
-- Ansvarlig for ekskursjonskomiteen  
+- Styremedlem  
+- Vara  
+- Økonomiansvarlig   
 - Tillitsvalgt  
-- Ordinære medlemmer  
+- Øvrige medlemer som for at komiteen skal fungere optimalt.  
 
-Leder velges på Generalforsamlingen. Alle stillinger bortsett fra leder er internstillinger. Disse velges innad i komiteen i løpet av høstsemesteret, bortsett fra ansvarlig for ekskursjonskomiteen som velges når ekskursjonskomiteen opprettes på vårsemesteret. Andre oppgaver delegeres ved behov. 
+Styremedlem velges på Generalforsamlingen. Økonomiansvarlig velges av bank- og økonomikomiteen, med forbehold om godkjenning av fagkom. Alle andre stillinger velges internt. Andre oppgaver delegeres ved behov. 
 
-I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer. Nestleder har da møteplikt, talerett og stemmerett på møter hos Hovedstyret.
+I leders fravær er vara fungerende leder, med alle plikter og rettigheter dette innebærer. I styremedlems fravær fra Hovedstyret har vara møteplikt, talerett og stemmerett på møter i Hovedstyret.
 
 ### §3 Fag- og kurskomiteens ansvarsområder
 
@@ -37,13 +37,13 @@ Fagkom skal etterstrebe at det blir arrangert repetisjonsforelesninger hvert sem
 
 Fagkom skal sammen med bedkom etterstrebe å gjennomføre oslotur for å opprettholde/knytte kontakt med næringslivet en gang i semesteret. 
 
-#### (5) Abakus
+#### (5) Samarbeid medAbakus
 
 Fagkom skal etterstrebe å ha et godt samarbeid til Abakus, og i samarbeid med dem arrangere eksamenskurs og kurs om bedrifter ønsker dette.
 
 #### (6) Lightning Talks
 
-Fagkom skal i samarbeid med Abakus etterstrebe å holde Lightning Talks i samarbeid med IDI hver vår.
+Fagkom skal i samarbeid med Abakus og Tihlde etterstrebe å holde Lightning Talks i samarbeid med IDI hver vår.
 
 #### (7) Interne kurs
 
@@ -58,4 +58,4 @@ Komitémedlemmer sitter vanligvis i tre år, men kan søke om å fortsette verve
 Fagkom skal opptre profesjonelt overfor næringslivet og andre eksterne aktører. 
 
 #### (3) Leders ansvar
-Lederen er ansvarlig for å håndtere innkommende e-post i komiteen, samt å delegere og følge opp arbeidsoppgaver som tilfaller komiteen. Leder skal til enhver tid være oppdatert på komiteens virke. Leder skal avholde medarbeidersamtaler en gang i semesteret.
+Lederen er ansvarlig for å delegere og følge opp arbeidsoppgaver som tilfaller komiteen. Leder skal til enhver tid være oppdatert på komiteens virke. Leder skal avholde medarbeidersamtaler en gang i semesteret.
