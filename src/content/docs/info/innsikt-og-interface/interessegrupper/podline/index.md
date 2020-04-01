@@ -4,32 +4,31 @@ title: "Podline"
 
 [image:506 align:left size:small]
 
-
+Podlines fødsel:
+------------------
 I det herrens år 2018 i midten av mars, kom fire gode venner sammen og snakket om noe de hadde på hjertet. Ideen hadde hengt i luften en stund og var noe som tidligere hadde blitt tatt opp, men uten en seriøs undertone. Etter masse babling og et par enheter med alkohol, så blåste vi likevel liv i denne drømmen.
 
+Vi ønsket å lage en podkast! Ikke hvilken som helst podkast, men den beste podkasten som har kommet ut av gløs sine vegger. Med en god dose latskap og lite kreativitet kom vi fram til navnet PodLine, som slår sammen **pod**kast og on**line** (fuckings genius). Vi er teknisk sett venner on the web som du alltid kan høre på uansett hvor du er!
 
-Vi ønsket å lage en podkast! Ikke hvilken som helst podkast, men den beste podkasten som har kommet ut av gløs sine vegger. Med en god dose latskap og lite kreativitet kom vi fram til navnet PodLine, som slår sammen **pod**kast og on**line** (fuckings genius). Sammen vil vi annenhver fredag komme med episoder til alle som ønsker å høre på det køddet vi har å tilby. Vi er teknisk sett venner on the web som du alltid kan høre på uansett hvor du er!
+Følg oss på Facebook så du får med deg de nyeste episodene fra oss. Der kan det også hende at vi spør om deres hjelp <3 
 
-I tillegg ønsker vi at denne podkasten også skal være interaktiv. Uten dere så vil vi aldri komme på toppen av podkastlisten :'(
-Vi tar gjerne imot morsome historier som du ønsker at vi skal ta med på podden.
-Feel free my dude: [Send inn en morsom historie](https://docs.google.com/forms/d/1iOb3UeUEtp-xBCcA--lwtbh549h0sDbOnueaCSO0Px0/)
+Episodene våre er tilgjengelig for alle! De ligger ute på Souncloud og Spotify. Finner du oss fortsatt ikke, anbefaler vi deg å skaffe deg en ny mobil. Kast den mursteinen.
 
-
-Følg oss på Face så du får med deg det nyeste fra oss. Der kan det hende at vi spør om deres hjelp <3 
-Noe annet som også får oss harde er feedback! Så har du noe du ønsker å formidle til oss er det bare å skrive det her:
-[Feedback](https://docs.google.com/forms/d/1mlgV0sONmpItr8L1EN65HLpsoAckdzEobJyiVFS40M4/)
-
-_PS: Hver gang en slem feedback blir submited til oss, så dør en hundevalp av ebola i anus_
-
-Episodene våre er tilgjengelig for alle! De ligger ute på Souncloud, men du finner oss også på «Apple Podcast» appen. Finner du oss fortsatt ikke, anbefaler vi deg å skaffe deg en ny mobil. Kast den mursteinen.
-
-
-The clique:
-----------
+###### Grunnleggerne
 - Alis
 - Anniken
 - Tania
 - Thomas
+
+
+Gangen skiftes ut
+------------------
+Ett og et halvt år uten Podline er ett og et halvt år for mye. Derfor tok vi over Podline for å la podkasten til Online blomstre på ny. Konseptet er enkelt, vi stjeler fra andre, fordi vi er for late til å finne på konsepter selv, selvfølgelig. Sånt blir det jo gøyalt av. Stay tuned, bokstavelig talt.
+
+###### Den nye gjengen:
+- Hanne Brynildsrud
+- Erika Åsberg
+- August Solvang
 
 
 
@@ -40,3 +39,5 @@ Du finner oss her:
 **FACEBOOK**: https://www.facebook.com/OnlinePodLine/
 
 **SOUNDCLOUD**: https://soundcloud.com/podline
+
+**SPOTIFY**: https://open.spotify.com/show/1rFKVS6PmKmRz25s8C35x1?si=GTiGKI7zTK-SpE9W9KxuHw
