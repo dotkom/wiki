@@ -20,8 +20,8 @@ Trikom består av følgende stillinger:
 * Vara for leder og styremedlem
 * Økonomiansvarlig for trikom
 * Kontorvaktansvarlig
-* Kjøpsansvarlig
-* Blesteansvarlig
+* Innkjøpsansvarlig
+* SoMe-ansvarlig
 * Sosialansvarlig
 
 
