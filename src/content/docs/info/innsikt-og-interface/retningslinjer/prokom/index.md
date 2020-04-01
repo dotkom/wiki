@@ -12,6 +12,7 @@ Komiteen består av:
 
 * Styremedlem
 * Komitéleder
+* Vara(er)
 * Økonomiansvarlig
 * Redaktør av Offline
 * Nettredaktør
@@ -77,42 +78,45 @@ Leder har ansvar for å sende ut møteinnkalling, eller delegere dette videre, s
 Leder har ansvar for å skrive erfaringsskriv og lære opp ny komitéleder.
 Leder har ansvar for at nye komitémedlemmer får opplæring og at de blir godt ivaretatt i komiteen.
 
-#### 4.3 Nestleders ansvar
-Nestleders ansvar er å bistå leder ved behov. Nestleder er leders stedfortreder når leder ikke har anledning til å møte. Nestleder har ansvar sammen med leder for at komitémedlemmene blir godt ivaretatt.  
+#### 4.3 Styremedlems ansvar
+Styremedlem har ansvar for å representere komiteen i Hovedstyret. Styremedlem skal møte på møtene til Hovedstyret. Styremedlem har ansvar for å skrive erfaringsskriv og lære opp nytt styremedlem. 
 
-#### 4.4 Økonomiansvarlig
+#### 4.4 Varas ansvar
+Varas ansvar er å bistå leder og/eller styremedlem ved behov. Vara er leders og styremedlems stedfortreder når leder og/eller styremedlem ikke har anledning til å møte. Vara har ansvar sammen med leder for at komitémedlemmene blir godt ivaretatt.  
+
+#### 4.5 Økonomiansvarlig
 Økonomiansvarlig har ansvar for komiteens økonomi. Økonomiansvarlig skal møte på møtene til Bank- og økonomikomiteen. Økonomiansvarlig har ansvar for å lære opp ny økonomiansvarlig. Valg av økonomiansvarlig gjøres av bankomleder, men prokom velger selv ut foreslåtte kandidater på forhånd.
 
-#### 4.5 Distribusjonsansvarlig  
+#### 4.6 Distribusjonsansvarlig  
 Distribusjonsansvarlig er ansvarlig for å sende ut Offline til alle abonnenter, inkludert bedrifter, samt å distribuere Offline rundt om på relevante steder på Gløshaugen.
 
-#### 4.6 Annonseansvarlig 
+#### 4.7 Annonseansvarlig 
 Annonseansvarlig er ansvarlig for å finne annonsører til Offline som er utenfor bedKom sitt kontaktområde. Herunder skal annonseansvarlig både være mellomledd mellom Offline og bedriften, samt være ansvarlig for å ta kontakt med nye potensielle annonsører.
 
-#### 4.7 KAFFE (Komiteens Ansvarlige For Festlige Events)  
+#### 4.8 KAFFE (Komiteens Ansvarlige For Festlige Events)  
 KAFFE er ansvarlig for logistikken knyttet til komiteens Festlige Events, men kan delegere ansvaret videre til andre komitémedlemmer.
 KAFFE har ansvar for at Offlines kulinariske aften blir gjennomført. Dette er feiring av ny utgivelse av Offline. Maten bør lages selv.
 KAFFE har ansvar for å planlegge teambuilding med komiteen. Dette skal helst skje en gang i semesteret.
 
-#### 4.8 Plakatansvarlige
+#### 4.9 Plakatansvarlige
 Plakatansvarlig(e) har ansvar for at plakater blir bestilt og at deres bestilling skjer samlet. Dette betyr at plakater skal bestilles samlet, men separert komitévis. Ansvarlig(e) har ansvar for å holde kontroll over hvilke plakater som skal bestilles når.
 
-#### 4.9 Årboksansvarlig
+#### 4.10 Årboksansvarlig
 Årboksansvarlig har ansvar for å koordinere bildetagning av de forskjellige komiteene og at årboken blir gjennomført og trykket i tide. Alle medlemmer skal være med på designet og arbeidet på årboka. Ansvarlige har ansvar for at dette skjer på en god og radig måte.
 
-#### 4.10 Andre medlemmer
+#### 4.11 Andre medlemmer
 Alle medlemmer har møteplikt på møter. Frafall til møte skal meldes senest 24 timer før møte. Dersom dette ikke overholdes medfører det vinstraff.  
 Alle medlemmer har ansvar for at produsert materiale arkiveres på forsvarlig måte, både digitale filer og trykt materiell.  
 Alle medlemmer har delansvar for opplæring av nye komitémedlemmer, og skal bidra til et godt miljø innad i komiteen.  
 
-#### 4.11 Demokrati  
+#### 4.12 Demokrati  
 Alle medlemmer har stemmerett og valg kan kun gjennomføres når minst 50% av komiteen er tilstede.   
 
 Prokom gjennomfører valg av interne stillinger fast én gang i året, og ellers ved behov. Valgene gjennomføres på det første møtet etter generalforsamlingen. Interesserte kandidater kan stille på dette møtet og kandidaten med enkelt flertall mottar stillingen og har den i ett år.  
 
 Dersom et medlem trekker seg fra et verv før det har gått et år, skal det gjennomføres nytt valg. Den nyvalgte kandidaten sitter til neste ordinære valg, og kan da stille til gjenvalg.  
 
-#### 4.12 Vinstraffregler  
+#### 4.13 Vinstraffregler  
 Det deles ut vinstraff for:  
 - Innkalling som sendes ut mindre enn 48 timer før møtetidspunkt gir 1 enhet  
 - For sene utkast/artikkeltekster til Offline i henhold til frister gir 1 enhet  
