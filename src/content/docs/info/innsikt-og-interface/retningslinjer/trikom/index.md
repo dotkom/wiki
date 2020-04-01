@@ -15,8 +15,9 @@ Alle trikoms medlemmer har møteplikt og er stemmeberettigede. Nye medlemmer vil
 
 Trikom består av følgende stillinger: 
 
+* Styremedlem for Trikom
 * Leder av trikom
-* Nestleder av trikom
+* Vara for leder og styremedlem
 * Økonomiansvarlig for trikom
 * Kontorvaktansvarlig
 * Kjøpsansvarlig
