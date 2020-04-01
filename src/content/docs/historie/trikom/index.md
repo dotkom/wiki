@@ -26,6 +26,12 @@ triKom og linjeforeningen.
 -   N - Nestleder
 -   Ø - Økonomiansvarlig
 
+Etter genfors 2020:
+-   S - Styremedlem
+-   L - Leder
+-   V - Vara
+-   Ø - Økonomiansvarlig
+
 År|Medlemmer
 ---|---
 2012-2013|David Storjord (L), Ingeborg Ødegård Oftedal (N), Johan N. Slettevold (Ø), Daniel Sollie Hansen, Vigdis Hanto, Mats Tostrup, Håvard Holmboe Lian
