@@ -54,7 +54,7 @@ Trikom skal sørge for å sette opp og følge opp kontorvakter.
 
 #### (6) Juleverksted
 
-Trikom skal i samarbeid med arrKom avholde juleverksted i starten av eksamensperioden.
+Trikom skal avholde juleverksted i starten av eksamensperioden.
 
 #### (7) 17. mai
 
