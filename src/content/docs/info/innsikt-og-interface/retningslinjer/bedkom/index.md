@@ -1,5 +1,5 @@
 ---
-title: "Retningslinjer bedriftskomiteen"
+title: "Bedriftskomiteens retningslinjer"
 ---
 
 Bedriftskomiteen
@@ -20,6 +20,10 @@ Bedriftskomiteen består av følgende medlemmer:
 * Økonomiansvarlig  
 
 Samt det antall øvrige medlemmer som kreves for at komiteen skal kunne fungere effektivt.
+
+Styremedlem velges på Generalforsamlingen. Økonomiansvarlig velges av bank- og økonomikomiteen, med forbehold om godkjenning av bedkom. Alle andre stillinger velges internt. Andre oppgaver delegeres ved behov.
+
+I leders fravær er vara fungerende leder, med alle plikter og rettigheter dette innebærer. I styremedlems fravær fra Hovedstyret har vara møteplikt, talerett og stemmerett på møter i Hovedstyret
 
 
 ### §3 Bedriftskomiteens ansvarområder
