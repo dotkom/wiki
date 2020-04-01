@@ -37,7 +37,7 @@ Fagkom skal etterstrebe at det blir arrangert repetisjonsforelesninger hvert sem
 
 Fagkom skal sammen med bedkom etterstrebe å gjennomføre oslotur for å opprettholde/knytte kontakt med næringslivet en gang i semesteret. 
 
-#### (5) Samarbeid medAbakus
+#### (5) Samarbeid med Abakus
 
 Fagkom skal etterstrebe å ha et godt samarbeid til Abakus, og i samarbeid med dem arrangere eksamenskurs og kurs om bedrifter ønsker dette.
 
