@@ -43,9 +43,9 @@ Trikom har ansvar for å handle inn brus til fag- og kurskomiteen og bedriftskom
 
 Trikom er ansvarlige for å handle inn forfriskninger til Generalforsamlingen.
 
-#### (4) Kontortilgang
+#### (4) Kiosken
 
-Trikom skal sørge for at Onlines komiteer, samt appKom og eksKom har tilgang til kontoret.
+Trikom har ansvar for å handle inn til Nibble, og passe på at hyllene blir fylt på regelmessig. Må også passe på at vareboden i A4 er ryddig og organisert.
 
 #### (5) Kontorvakter
 
