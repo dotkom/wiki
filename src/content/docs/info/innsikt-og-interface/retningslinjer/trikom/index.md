@@ -25,7 +25,7 @@ Trikom består av følgende stillinger:
 * Sosialansvarlig
 
 
-Trikoms leder velges på Generalforsamlingen. Alle trikoms øvrige stillinger velges etter opptaket på høsten.    
+Trikoms styremedlem velges på Generalforsamlingen. Trikoms leder velges innad i komiteen før Generalforsamlingen og godkjennes der. Alle trikoms øvrige stillinger velges etter opptaket på høsten.    
 Nestleder i trikom skal støtte leder i det daglige arbeidet. I leders fravær er nestleder fungerende leder, men uten stemmerett i Hovedstyret.    
 Økonomiansvarlig har ansvar for å betale regninger og fakturaer, og sette opp regnskap og budsjett for trikom.    
 Tidligere medlemmer fra trikom som har gått over til seniorkomiteen har møte- og talerett på trikom møter, men er ikke stemmeberettigede.
