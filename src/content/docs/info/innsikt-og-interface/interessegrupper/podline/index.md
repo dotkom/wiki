@@ -2,7 +2,7 @@
 title: "Podline"
 ---
 
-[image:711 align:left size:small]
+[image:710 align:left size:small]
 
 Podlines fødsel:
 ------------------
