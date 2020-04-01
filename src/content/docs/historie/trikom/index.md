@@ -27,6 +27,7 @@ triKom og linjeforeningen.
 -   Ø - Økonomiansvarlig
 
 Etter genfors 2020:
+
 -   S - Styremedlem
 -   L - Leder
 -   V - Vara
