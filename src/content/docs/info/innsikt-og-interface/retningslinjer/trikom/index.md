@@ -15,7 +15,7 @@ Alle trikoms medlemmer har møteplikt og er stemmeberettigede. Nye medlemmer vil
 
 Trikom består av følgende stillinger: 
 
-* Styremedlem for Trikom
+* Styremedlem fra Trikom
 * Leder av trikom
 * Vara for leder og styremedlem
 * Økonomiansvarlig for trikom
@@ -25,8 +25,7 @@ Trikom består av følgende stillinger:
 * Sosialansvarlig
 
 
-Trikoms styremedlem velges på Generalforsamlingen. Trikoms leder velges innad i komiteen før Generalforsamlingen og godkjennes der. Alle trikoms øvrige stillinger velges etter opptaket på høsten.    
-Vara i trikom tar rollen som leder/styremedlem hvis de ikke kan være på møte i trikom/hovedstyret.  
+Styremedlem fra trikom velges på Generalforsamlingen. Trikoms leder velges innad i komiteen før Generalforsamlingen hvor leder skal godkjennes. Alle trikoms øvrige stillinger velges etter opptaket på høsten. Vara i trikom trer inn i rollen som leder/styremedlem hvis leder/styremedlem ikke kan være med på et møte i trikom/hovedstyret.  
 Økonomiansvarlig har ansvar for å betale regninger og fakturaer, og sette opp regnskap og budsjett for trikom.    
 Tidligere medlemmer fra trikom som har gått over til seniorkomiteen har møte- og talerett på trikom møter, men er ikke stemmeberettigede.
 
@@ -58,7 +57,7 @@ Trikom skal avholde juleverksted i starten av eksamensperioden.
 
 #### (7) 17. mai
 
-Trikom er på 17. mai ansvarlige for frokosten på kontoret, samt å få til underholdning i toget.
+Trikom er 17. mai ansvarlige for å arrangere frokosten på kontoret, samt å få til underholdning i toget.
 
 ### §4 Trivselskomiteens virke
 
