@@ -52,15 +52,11 @@ Trikom skal sørge for at Onlines komiteer, samt appKom og eksKom har tilgang ti
 
 Trikom skal sørge for å sette opp og følge opp kontorvakter.
 
-#### (6) KobKom
-
-Trikom er kort- og brettspillkomiteens foreldrekomité, og skal følge opp og støtte deres arbeid.
-
-#### (7) Juleverksted
+#### (6) Juleverksted
 
 Trikom skal i samarbeid med arrKom avholde juleverksted i starten av eksamensperioden.
 
-#### (8) 17. mai
+#### (7) 17. mai
 
 Trikom er på 17. mai ansvarlige for frokosten på kontoret, samt å få til underholdning i toget.
 
