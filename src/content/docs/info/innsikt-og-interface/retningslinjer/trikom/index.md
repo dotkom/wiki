@@ -64,6 +64,4 @@ Trikom er på 17. mai ansvarlige for frokosten på kontoret, samt å få til und
 
 Trikom skal arbeide for å avholde mindre sosiale arrangementer og sammenkomster for Onlines medlemmer.
 
-Trikom skal ha god kommunikasjon og godt sammarbeid med arrKom. Dette foregår ved å ha et semestermøte med representanter fra begge komiteene.
-
 Trikom skal etterstrebe å ha sesongbaserte varer på kontoret.
