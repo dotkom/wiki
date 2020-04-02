@@ -252,7 +252,7 @@ kaffedrikking.
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
 |---|---|---|---|---|---|---|---|---|---|---|---|
-|2020v-2021v| Mathias Fossum |Benedicte Helen Myrvoll|Christoffer Stensrud|Sindre Langaard|Kristoffer Nyvoll|Monika Muzyk|Øyvind Jalland Schjerven|Henrik Giil Liisberg|Thea Karin Fladby|*********|*********|
+|2020v-2021v| Mathias Fossum |Benedicte Helen Myrvoll|Christoffer Stensrud|Sindre Langaard|Kristoffer Nyvoll|Monika Muzyk|Øyvind Jalland Schjerven|Henrik Giil Liisberg|Thea Karin Fladby|Marius Johan Holm Johansen (ikke valgt på genfors)|Thomas Ramm (ikke valgt på genfors)|
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
 |---|---|---|---|---|---|---|---|---|---|---|---|
