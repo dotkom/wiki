@@ -47,7 +47,11 @@ Fagkom skal i samarbeid med Abakus og Tihlde etterstrebe å holde Lightning Talk
 
 #### (7) Interne kurs
 
-Fagkom skal etterstrebe å legge til rette og sørge for at studenter ved informatikk kan få hjelp til å holde kurs for sine medstudenter.
+Fagkom skal etterstrebe å arrangere gode ikke-faglige kurs som er nyttige for studentene.  
+
+#### (8) Ekskom  
+
+Fagkom skal etterstrebe å gi ekskursjonskomiteen god oppfølging i planleggingen av Techtalks.
 
 ### §4 Fag- og kurskomiteens virke
 
