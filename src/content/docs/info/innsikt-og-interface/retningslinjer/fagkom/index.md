@@ -47,7 +47,7 @@ Fagkom skal i samarbeid med Abakus og Tihlde etterstrebe å holde Lightning Talk
 
 #### (7) Interne kurs
 
-Fagkom skal etterstrebe å arrangere gode ikke-faglige kurs som er nyttige for studentene.  
+Fagkom skal etterstrebe å arrangere gode ikke-faglige kurs som er av interesse for studentene.  
 
 #### (8) Ekskom  
 
