@@ -11,7 +11,8 @@ Dotkom skal tilrettelegge for en fornuftig og effektiv bruk av IT i Onlines arbe
 Drifts- og utviklingskomiteens består av følgende medlemmer: 
 
 * Leder
-* Nestleder
+* Styremedlem
+* Vara
 * Økonomiansvarlig
 * Tillitsvalgt
 
