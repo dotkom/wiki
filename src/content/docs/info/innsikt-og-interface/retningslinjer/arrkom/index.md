@@ -15,17 +15,18 @@ Komiteens navn forkortes arrkom. Alle arrkoms medlemmer har møteplikt og er ste
 
 Arrkom består av følgende stillinger: 
 
-* **Komiteleder**
-Arrkom velger en lederkandidat internt før generalforsamling. Under generalforsamling må kandidaten bli godkjent før vedkommende får vervet som leder av komiteen.
+* Komiteleder  
+* Vara  
+* Hovedstyrerepresentant  
+* Økonomiansvarlig  
 
-* **Vara**
-Arrkoms vara blir valgt internt etter at ledervervet er tildelt. I leders fravær er vara fungerende leder, med alle plikter og rettigheter dette innebærer. I HS-representants fravær er vara fungerende representant i HS. Der har de talerett, men ikke stemmerett.
+Arrkom velger en lederkandidat internt før generalforsamling. Under generalforsamling må kandidaten bli godkjent før vedkommende får vervet som leder av komiteen.  
 
-* **Hovedstyrerepresentant**
-Arrkoms hovedstyrerepresentant velges på Generalforsamlingen.
+Arrkoms vara blir valgt internt etter at ledervervet er tildelt. I leders fravær er vara fungerende leder, med alle plikter og rettigheter dette innebærer. I HS-representants fravær er vara fungerende representant i HS. Der har de talerett, men ikke stemmerett.  
 
-* **Økonomiansvarlig**
-Arrkom stiller med kandidater til vervet som økonomiansvarlig. Bank og økonomikomiteen (forkortes til bankom) gjennomfører intervju og stemmmer frem komiteens neste økonomiansvarlig. Ny økonomiansvarlig blir valgt ved behov. Økonomiansvarlig bør være et medlem av arrkom, mer det er ikke et krav.
+Arrkoms hovedstyrerepresentant velges på Generalforsamlingen.  
+
+Arrkom stiller med kandidater til vervet som økonomiansvarlig. Bank og økonomikomiteen (forkortes til bankom) gjennomfører intervju og stemmmer frem komiteens neste økonomiansvarlig. Ny økonomiansvarlig blir valgt ved behov. Økonomiansvarlig bør være et medlem av arrkom, mer det er ikke et krav.  
 
 
 ### §3 Arrangementskomiteens ansvarsområder
