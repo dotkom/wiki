@@ -1,0 +1,290 @@
+---
+title: "Møte 11. mars 2020"
+---
+
+**Møtetidspunkt:** 12.15 (rom R51)
+
+**Servering og referering:** 
+1. ref Christoffer  
+2. ref Henrik Liodden  
+
+**Straff:**
+
+**Tilstede:** Henrik Liodden, Ole, Monika, Sigrun, Alis, Sindre, Silje, Thea, Thomas, Christoffer, Benny, André, Mathias, Kaja, August, Giil
+
+**Mangler:** Øyvind, Kristoffer, Emil, Amundsen
+
+## Terapipunkt
+
+- - - -
+
+[TOC]
+
+- - - -
+## 333 Godkjenning av innkalling, servering og referat fra forrige uke
+* Referat fra forrrige gang
+* Innkalling og servering
+
+Litt sent ute. Sto ikke hvem som skulle være referenter i mail. Romnummer sto heller ikke der.
+Vinstraff-ansvarlig er ikke tilstede.
+Diktaturet (Mathias) bestemmer å ikke åpne noe votering som sørger for vinstraffer
+
+## TODOs fra forrige møte
+* Henrik: Oppdatere chunks.
+* Alle: Lese tre siste HS-referater.
+* Mathias: Fikse google calendar
+* Benny: Fikse rettigheter til facebook-ting.
+* Mathias: Oppdatere vedtekter og følger opp signering av referat og vedtekter. Samt oppfølgning av brreg.
+
+## 334 Status for komiteene (12.25 - 20 min)
+
+#### Arrkom, med velkom og jubkom: 
+- Ikke så mye som ble påvirket av beslutning om å avlyse, lite på planen.
+- Valg: Tre personer som stiller. Det blir gjort mandag eller tirsdag neste uke forhåpentligvis.
+- Ny økans
+
+Velkom:  
+
+- Sendt ut søknadskjema for faddere og grupper.
+
+Jubkom:  
+
+- Sjøberg drar.
+- Ihvertfall 1 som har søkt
+- Snakket med en del folk.
+- Få Peter til å skrive en artikkel om det (og ikke minst bli med).  
+
+#### Bedkom, med ITEX:
+- Avlyst bedpres. Burde ikke bli noe problem.
+- Fornøyd med utfallet av hastemøte i morgen.
+- Bookingrunden: Skjemaet stenger på fredag. Bedrifter har fortsatt mulighet til å melde seg på.
+
+ITEX:
+- Alle kveldsbesøk er på plass.
+
+#### Dotkom:  
+- Fikset infoskjermen. Litt usikker på om den lever.
+- Valg av leder i dag.
+- Sett på kodeendringer basert på den nye organisasjonsstrukturen.
+- Interessegruppe for interaksjonsdesign. Se på samarbeid med de.
+- Setter nye styret på riktige epostlister.
+
+#### Fagkom, med ekskom:
+- Skjer lite framover. Mye er avlyst.
+- Valgt ny leder.
+Ekskom:  
+
+#### Prokom:
+- Drikk og kronikk i går.
+- Offline: Begynt å lage. Førsteutkast 15. mars.
+- Valgt leder og vara.
+
+#### Trikom:
+- Trapper ned på arrangementer. Fokusere på rutine i trikom (innkjøp osv). Bytte ut møter med workshops. August approves.
+- Skal trikom fortsette med ansvar for boden på ITVest og bilkollektivet. Burde ansvaret flyttes?
+   - HS hadde ansvaret før, så fikk trikom ansvaret da vi flyttet til ny bod.
+- Skal ha valg. Blir utsatt litt.
+
+#### Seniorkom:
+- Skal ha valg av leder etterhvert.
+
+#### Økonomiansvarlig, med bankom:
+- Vurdering av skadeomfang (se corona-punkt). 
+- Erfaringsoverføring. 
+
+Bankom:  
+- Arbeidskveld på søndag. Første møte på onsdag. 
+- Nesten hele bankom byttes ut. Bruke tid på å få inn rutiner og opplæring. 
+
+#### Nestleder:
+- Sitter og får masse rettigheter og mail.
+- Gjør litt admin snacks.
+
+Online IL:
+
+- Ikke planer om å gjøre noe med arrangementer enda.
+
+FIF:
+
+- Møte med koordinator i dag. Skal diskutere konsekvens av corona. Bestem hvem som vil dra fra Online. Håper at det blir møte
+
+#### Leder:
+- Linjeledermøtet.
+    - Diskuterte corona
+- Samlok-møte med IDI i dag.
+    - Positive tilbakemeldinger
+    - Fortsatt plassmangel
+- Corona-møte. Bra jobbet!
+    - Fikk ut budskap på en god måte.
+- August: Snacks
+
+## 335 Interkom (12.45 - 5 min)
+- Bankom, ny opptaksordning.
+
+Bankkort:
+
+- Bestille nye kort. Fem stykk: Bedkom arkkom trikom og to for interkom som kan deles til alle komiteer.
+- Sigrun: Er det rutiner for hvordan man bruker bankkort?
+    - Christoffer: Skal legges ut bedre info.  
+
+Opptak til bankom:
+
+- Når det er flere personer som stiller til bankom, så bestemmer bankom dette selv og tar intervjuer/opptak. Gjelder alle økans framover.
+- Sigrun: Når bedkom har én kandidat, skal de ha intervju med de også?
+    - Ja.
+
+## 336 Bankom-leder og seniorkom-rolle rolle i HS (12.50 - 30min)
+[Videreføring av debatten sist]  
+
+- Mathias: Står at bankomleder og seniorkomleder har tale- og møterett.  
+- Mathias: Vi må ta stilling til i dag hvilken modell vi skal føre videre. Gjelder i hovedsak innsyn (slack og e-post) og hva som må til for best mulig innsyn.  
+- Mathias: Thomas, hva har du lyst til?  
+    - Thomas: Målet mitt er at jeg ønsker å backe opp christoffer her og ha han i komiteen min til å backe opp avgjørelser HS tar. Det kan være kjipe avgjørelser. Da må alle i bankom forholde seg til det og ta det videre til alle andre komiteer. Viktig for meg å ha en jeg kan samarbeide med og en jeg kan backe opp.  
+    - Mathias: Hovedsakelig bankom?  
+        - Thomas: Ja, men HS også om det er noe jeg vil bidra med.  
+    - Mathias: Dette vil gjelde seniorkom også det vi bestemmer nå.  
+- Benny: I mot at bankom og seniorkom skal behandles likt. Seniorkom har ikke en representant i styret fra før av. Føler at det å vurdere de på samme måte er feil.  
+    - Christoffer: Feil å si at det er en direkte representant for bankom. Økans er mer økans for hovedstyret.  
+- Kaja: Roller i HS endret etter AUO. Det hjalp meg mye at Mathias satt i HS med meg.  
+- Thomas: Utfordring om jeg ikke har nok innsyn til å backe opp christoffer = økt arbeidsmengde på christoffer. Casen nå er at Christoffer i bankom har en annerledes rolle i og med at det er noen ting kun han kan gjøre (juridisk). Arbeidsoppgavene hans fra bankom forsvinner ikke selv om han får mer å gjøre i HS.  
+- Sigrun: I de andre komiteene er det en person som har innblikk (styremedlem). Det burde gå an for seniorkom og bankom også. Thomas sin oppgave er å ta vare på bankom, ikke være en ekstra økonomiansvarlig.  
+    - Kaja: Burde bankom ha en vara? Nå er thomas fungerende som stensruds vara. Burde ha en som kan backe opp der og nå er det thomas.  
+    - Benny: Helt greit at dere har en vara. Bankom har samme løsning som resten av komiteene med leder og styremedlem.
+- Ole: Da vi hadde denne samtalen i fjor, så følte jeg meg overpowered over at det satt mange personer med økonomiansvar som ønsket å få gjennom forslag.  
+    - Kaja: Bankom representerer alle de andre komiteene. De overpowerer ikke de andre komiteene, vi består av de.  
+    - Ole: Mente ikke overpowered i styret, men vanskelig å prate med i samtalen om rettigheter til bankomleder  
+- Thommas: Interessert i å vite hvor mye HS vet hvordan bankom drives.  
+    - Mathias: Er ikke naturlig for de nye å vite hvordan en komité drives. Folk burde måtte ta en beslutning uten å vite 100% hvordan en bankom drives.  
+    - Kaja: Jeg tror det det ligger på er at det er vanskelig for andre å forstå hva bankom gjør. Det gamle styret har heller ikke den innsikten.  
+- Monika: Det er bedre med forklaring. Vil ikke ta stilling fordi jeg ikke skjønner situasjonen til bankom.   
+    - Benny (saksopplysning): Er ikke et spørsmål om thomas kan sitte her. Spørsmålet er hvor mye han skal være involvert i epostlister, tilganger på OW, slack.  
+- Benny: Kan dere komme med eksempler på når det hjalp masse å ha Mathias inne på epostlister og slack (kun i styresammenheng).  
+    - Kaja: Det jeg syne svar det beste med det var at når de tdukket opp saker ang. økonomi eller bankom så trengte ikke jeg å forklare saken. Mathias hadde allerede lest om dette.  
+    - Benny: Hadde ikke MAthias hatt innsikten av å bare sitte i møter?  
+    - Kaja: Diskusjoner på slack og tilgang på mailliste kan gi en bedre innsikt i sakene.  
+    - August: Har tenkt mye. Er ikke jeg som skal jobbe med dette, dere må ta avgjørelsen selv. Må tenke på hva dere selv vil.  
+ Hovedproblemet rundt dette er at jeg ikke vil ha et stort styre. Om man først ønsker å møte på alle møter, så er styret allerede større. Har ikke noe å si med slack og epost.  
+- Thomas: Bankom driver mye med rutine arbeid, om det da kommer en bestluting som må tas, så er det ikke sikkert jeg har hele innsikten og dermed kan jeg ikke kunne ta den riktig beslutningen. Jeg vil ikke ta en feil beslutning på grunn av for liten innsikt.  
+- Sigrun: Uenig i at alt har med økonomi å gjøre. Hvis Thomas først skal være med er slack viktig. En mulighet er å ikke ha tilgang på mail-lister.  
+- Benny: Ser ikke noe problem med å videresende mail som kan gi innsyn. Må legge vekt på det at man er valgt av genfors og har tilliten til Online. Skillet bør være der med tanke på saker som kommer inn og man må ta hensyn til.  
+- Mathias: Mine tanker fra da jeg begynte. Målet her er fortsatt at gutta skal ha best evne til å gjennomføre samarbeidet. Jeg følte at jeg representere meg selv og ble oppslukt av arbeidet i HS og ikke bare bankom. Jeg og Kaja ble et bedre team pga HS-samarbeid. En løsning kan være å kjøre en måned med prøving med å videresende mail og info og så ta en ny vurdering. Vil at vi skal bestemme noe i dag.  
+- August: Slå et slag for seniorkomleder. Den komiteen mangler litt stødighet i dag. Burde også ha innsyn. Fått en del meldinger av Emil og hva som har skjedd tidligere.   
+- Benny: Seniorkom er folk som har masse erfaringer og har hatt verv. Seniorkom har ikke en representant i styret slik det er nå. Det er en annen diskusjon føler jeg.  
+- Mathias: Vil dere ha en egen votering for seniorkom og bankom?  
+- Mathias: Sårt at perioden i fjor starten med at det ble diskusjon om min eksistens.  
+- Thomas: Jeg og Stensrud har pratet om hvordan samarbeid vi ønsker. Hadde en flytende samarbeid, det var lite forskjeller på de. Ringte Kaja, Mathias tok telefonen. Målet vårt er å definere rollene litt mer. Folk i komiteene skal skjønne hvor de har oss. 
+- Mathias: Om dere skal definere rollene deres, hvorfor vil dere ha likt grunnlag på beslutningene?  
+    - Thomas: Det er jo for at man kan kunne backe hverandre opp. Rollene burde være definert innad i bankom.  
+- Henrik: I fjor hadde vi mange komitéledere som gjorde masse arbeid. Det hjalp veldig at det kom inn en til person som tok på seg HS oppgaver, Mathias. I år så ser jeg ikke dette problemet og om Thimas kun skal videreutvikle bankom og ikke ta så stilling til HS ting.  
+- Benny: Sånn jeg ser det nå handler dette om hvordan dere definerer økans og bankomleder. Problemet oppstår i alle komitene nå som vi har styremedlem og komiteleder. Styremedlemmene som kommer inn komiteene med ting fra HS kan føre til problemer. Viktig at vi definerer for alle.  
+    - Thomas: Alle andre styremedlemmene har mindre ansvar i komiteene enn stensrud, han har fortsatt mye å gjøre. Backe opp stensrud så han ikke går i kjelleren.  
+- Mathias: Løsningsorienterte forslag (drømmeløsning):  
+    - For:  
+        - Tilgang på slack, trenger ikke mail og OW. Enklere om han har tilgang på alt.  
+    - Mot:  
+        - En nøytral løsning. Er med på Slack, men holde OW og mail unna. Sende videre relevante ting.  
+- Saksopplysning: HS har veldig mye rettigheter.  
+- Sigrun: Før vi går til votering. Finne ut om det skal testes, hvor lenge osv.  
+- Henrik: I fjor var jeg i mot, jeg var glad at det gikk gjennom, så det at jeg var i mot betyr ikke nødvendigvis at det er dumt. Jeg er ***ambivalent***.  
+- Ole: Prøve seg frem med ting. Ting kan bli vanskelig. Hvordan er innstillingen til prøve å se hvordan ting funker og løse de problemene som oppstår, hvis det oppstår?  
+- Henrik: Snakk om mail og sensitive saker. Er det noen sensitive saker som vi ikke kommer til å diskutere her.  
+    - Mathias: Kan være ting, feks sak hvor leder og nestleder tar det videre.  
+- August: Ta det mest uenige først ved votering. 1. Skal bankom være her? 2. Skal vi ha en prøveordning? 3. Skal det være fast. osv  
+- Ole: Alle komitesøknader går rett til HS. Personsaker går rett til mailingsliste.  
+- Seniorkom utsettes  
+
+Votering:  
+
+- Skal bankom-leder ha tilgang på slack?  
+    - Enstemmig for.  
+    - Gikk gjennom  
+- Skal bankom-leder ha tilgang på epost og HS-gruppe på OW?  
+    - 2 for.  
+    - 7 imot.  
+    - Gikk ikke gjennom.  
+- Skal vi ta en prøveperiode med ny vurdering 15. september?  
+    - Enstemmig for.  
+    - Gikk gjennom.  
+
+## Pause 5min 13.20-13.25  
+
+## 337 ITEX (13.25 - 20min)  
+[Det har kommet en del input siden forrige styremøte på ITEX videre. Thomas er tilstedet på møtet og tar en gjennomgang. Spørsmålet er om det er nødvendig lyse ut flere stillinger hvis de har flere som gir seg]  
+
+- Charlotte har ankommet. Da kan vi få ytterligere synspunkter av ITEX-saken.  
+- Status: Vi er fire personer. Fastsatt det meste av programmet. Foregår tirsdag-fredag, morgen og kveld. Mange bedrifter fastsatt. Fly og hotell er bestilt. Booker hele reisen på forhånd for de fleste så vi slipper administrasjon med kvitteringer og refusjon.   
+- Det som gjenstår: sende mail til bedrifter og få kontrakt.  
+- Har lyst til å bli ferdige før påske. Kommer til å gjøre mest de neste tre ukene.  
+- Mathias: Noe dere trenger?  
+    - Thomas: Vi er good.  
+    - Mathias: Ikke noe vakuum som må fylles?  
+    - Charlotte: I mot fordi utlysning tar en uke. Intervjuer. Opplæring. Synd at vi allerede er i midten av mars. Hadde vært for om det var tidligere.  
+- Benny: Kinkig situasjon. Genfors har vedtatt at det skal fortsette å være en nodekomite. Om vi ikke har opptak er det uheldig, går mot det genfors ønsker. Det å ta opp folk bare for å ta opp folk blir rart. Kommer ikke til å føle noe tilhørighet.  
+- Sigrun: Argument at når ITEX ble valgt så var det styret som stilte seg bak at dette var ITEX. For meg virker det som at vi har godkjent opptak av komiteen, siden det har vært et slags opptak. Synes ikke det er helt feil.  
+- Henrik: Er det ønskelig å være flere enn 4 personer for å gjennomføre alt på høsten?  
+    - Thomas: Nei. Abakus klarer seg også fint med 3.  
+- August: Er det noen av de som jobber med ITEX nå som har lyst til å være leder av ITEX til neste år (2021)?.  
+    - Thomas: Har ikke snakket om.  
+- August: Oppfølgning: Det var en ide å ta opp en person der man er ganske klar på at det er ikke så mye å gjøre fremover men du kan ta over so leder etter oss og den personen får være med på turen og se litt hvordan det er.  
+    - Thomas:Sånn jeg ser det ang. erfaringsoverføringen, Thompson har vært med oss og hjulpet oss nå. Skeptisk hvor mye det har for seg, det ser nok bra ut utenfra. Men skal man ha inn en til tar det for to uker før den personen er på plass.  
+- August: Det er litt å gjøre etter ITEX også. Refusjon.  
+    - Thomas: Det vi har gjort i år er at vi har leid inn busser i Trondheim som henter folk. Samme i Oslo og når vi skal hjem igjen. Mye av refusjon blir unødvendig.  
+    - Charlotte: Har bestilt 60 flybilletter hjem så det blir mindre jobb for ITEX-økans  
+- Mathias: Har lite for seg å ta opp flere medlemmer for årets ITEX. Kan ha noe for seg om man oppretter mentor-stilling for neste års ITEX.  
+    - August: Det praktiske rundt dette her kan bli vanskelig de neste ukene.  
+- Alis: De argumentene jeg fikk med meg på genfors. Skulle ta med folk som ikke er i komite.  
+- Mathias: Er det nødvendig med ny økans i ITEX?  
+    - Thomas: Nei, alt er satt av budsjetter o.l.  
+- Thomas: Det som er rart med situasjonen. Vi ble tatt opp fra bedkom, skal være en undergruppe. Så endres vilkårne vi ble tatt opp på. Det vil gjøre ting mer tungvint og det er usikkert hvor mye det vil bidra til inkludering om vi tar med flere. Det er lite arbeid generelt. 3-4 medlemmer er helt perfekt.  
+    - Charlotte: Tenker maks 5. Hadde vært perfekt med 5 om vi kunne tatt de opp tidligere i semesteret.  
+- Mathias: Dere er fortsatt en nodekomite under bedkom.  
+- Sigrun: Vil ikke bare dra inn folk bare for å dra inn folk, vil heller stå for det vi gjorde. Vi har allerede godkjent de i ITEX som medlemmer av ITEX. Vi har jo hatt et opptak til nodekomiteen. Det blir helt feil å ta opp flere nå. Saken var å øke inkludering, dette faller om vi tar opp én ny person som ikke deltar på bedkom møter osv.  
+- August: Det ble sagt at vi gjorde en feil da vi la ITEX sine oppgaver under bedkom. Synes ikke at gamle og nye styret skal tenke at der gikk de på en skikkelig smell.  
+- Benny: Hardt å si at vi gikk på en smell. Det valget vi tok var litt lite informert om hvilke konsekvenser det kom til å få om det ikke gikk gjennom på genfors.   
+- Sigrun: Hvis vi hadde gått på en smell var om bedkom bare gjorde det uten et opptak. Det føles fair ut.  
+- Mathias: Business as usual med de samme medlemmene. Hvis vi skal ta opp nye medlemmer er det ikke et politisk spill, det skal være fordi det trengs personer. Enklere å forsvare at ITEX er fullt og at vi har flinke medlemmer til å gjøre jobben.  
+- Charlotte drar.  
+
+## 338 Korona-virus Status (13.45 - 10min)  
+[Recap av gårsdagen, og status fra UiO tilsier at veldig mye vil bli stengt de kommende dagene]  
+
+- Mathias: Følg det NTNU sier.  
+- Thea: Øvingsforelesning i OOP er avlyst.
+- Monika: Har de sagt noe om eksamen?  
+    - Mathias: Diskuteres.  
+    - Henrik: det har blitt sendt ut en oppfordning til at eksamen kan bli gjennomført akkurat nå.  
+- Mathias: UIO avlyser allerede forelesninger. Kan godt være at driften til Online blir litt amputert. Gylden mulighet til å se inn i sin egen komite og driften sin.  
+- August: Begynn å planlegg litt innag i egen komité hva som skal gjøres om dere skal slutte å møtes. Gjør litt risikovurdering. Trikom har begynt å tenke på hva som skjer med kontoret om det stenges.  
+- Thomas: I går, så ble det lagt ut informasjon om at ting avlyses og avbestilles, før komitéledere blir informert.  
+    - Mathias: Du skal få informasjon ja, det er viktig. Du kan ta tak i Stensrud, om han ikke spiser middag.  
+- Thea: EPVU?  
+    - Mathias: blir nok avlyst.  
+
+## 339 Godkjenne komitéledere (13.55 - 5min)  
+[Godkjenning av fagkom, bedkom, prokom]  
+
+- Bedkom (Marcus Schrøder):  
+    - Akklameres.  
+- Fagkom (Elise Rabassa Stautland):  
+    - Akklameres.  
+- Prokom (Pål Andreas Morholmen):  
+    - Akklameres.  
+
+## 340 Eventuelt (14.00 - 10 min)
+
+FIF:  
+
+- Benny: Hvem vil være med på FIF?  
+    - Mathias: om det skjer.  
+    - Hernik: 17. til 19. april, møte i Oslo med FIF (Forente IT Foreninger), møte 15 forskjellige foreninger, diskutere sommerjobbsaken (tidligiste frist for sommerjobb 1. oktober). Dukker opp saker fortløpende. Kanskje 2 av dere blir med? På fredagen kan man melde seg på et arrangement(avlyses mest sannsynlig). Arrangement på lørdag med middag.  
+- Interesserte: Sindre og Benny.  
+- Benny: Svarer endre at vi tar det på neste møtet.  
+- Mathias: Setter forventningsavklaring, mer info på Slack.  
+
+## 341 Møteevaluering/Diggepunkt (14.10 - 5 min)  
+[Hva var bra og hva var dårlig? Alle må si minst en ting]  
+
+
+## Gjøremål  
+* Sette opp to-stegs faktorisering  
+* Henrik: Få Peter til å skrive artikkel om jubkom. Tvang.
