@@ -2,8 +2,6 @@
 title: "Møte 1. april 2020"
 ---
 
-# HS møte 1/4-20
-
 **Møtetidspunkt:** 12.15 [Google Meets](meet.google.com/wzc-ookn-urc)
 
 **Servering og referering:**  
