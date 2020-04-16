@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2020-04-01](mote01042020)
+- [2020-03-25](mote25032020)
 - [2020-03-11](mote11032020)
 - [2020-03-04](mote04032020) - Første møte med nye HS
 - [2020-02-26](mote26022020) - Siste møte
