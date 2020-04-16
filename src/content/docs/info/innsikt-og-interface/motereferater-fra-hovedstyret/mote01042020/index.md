@@ -45,15 +45,14 @@ title: "Møte 1. april 2020"
 #### Bedkom, med ITEX:
 
 - Bankom-boysa i bedkom har fikset et nytt system for innsamling av fakturainfo.
-- Bankom har sett over kontraktene + advokathjelp fra søsteren til Gjeldstad.
+- Bankom har sett over kontraktene.
 - Ramm og Nyvoll går over kontrakter i helgen og legger over på Drive.
 - Fagkom og bedkom felles slack for lettere samarbeid.
 - ITEX går bra, booka mange bedrifter.
-- Nordconsult vil ha en måneds oppsigelsestid på kontrakten. Jobber med løsning.
 - Kontrakter til fadderukene er klare og kombineres med utsending av avslag  smail.
 
 #### Dotkom:
-- Sett på AWS. Noen betaler de masse penger for å bruke AWS??
+- Sett på AWS.
 - Spurt om semesterundersøkelse.
 - Velger vara/nestleder i dag.
 
@@ -75,7 +74,6 @@ title: "Møte 1. april 2020"
 - Positiv til å dele ut offline til folk i Trondheim.
 
 #### Trikom:
-- Mistet et til medlem. Pheskaw har valgt å slutte
 - Brainstorming til arrangementer i koronatiden.
 - Jørgen tar ansvar for TBK.
 - Holde workshops.
@@ -260,7 +258,6 @@ Nå som AuO har gått gjennom, står komitélederne uten noen form for utmerkels
 - Benny: Vi deler oss inn i grupper og kjører på på discord.
 
 ## 458 Eventuelt
-- [Var en aprilspøk. De som var med på møtet vet 😉]
 - Monika: Post blir sendt til NTNU og vi har ikke tilgang til der det skal hentes.
     - Stensrud: Vi får test med DNB-kontoer inn på IDI. Han sendte mail, men ikke fått svar. Fikk en tilfeldig person til å låse opp
     - Benny: Posten er låst og vi har ikke tilgang? Send mail til IDI og spørr om den beste løsningen.
@@ -295,3 +292,4 @@ Nå som AuO har gått gjennom, står komitélederne uten noen form for utmerkels
 - Øyvind: Skrive om signaturmail siden på wikien.
 - Henrik: Høre med komiteeledere om daljer. Evt design av daljen.
 - De som mottar post til gløs må finne en løsning på det, bankom(Ramm/Stensrud) og velkom(Sindre).
+- Øyvind: Fikser forslag til praktisk gjennomføring av vinstraffer
