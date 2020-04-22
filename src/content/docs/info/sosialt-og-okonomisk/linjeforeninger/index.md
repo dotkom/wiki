@@ -75,6 +75,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |[Solan](http://www.entreprenorskolen.no) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|Entreprenørskolen||[Group](http://fb.com/groups/2362192638/)|||
 |[Soma](http://somantnu.blogspot.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Medisin||[Page](http://fb.com/SOMANTNU), [Group](http://fb.com/groups/159591847413555/)|||
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
+|[GLOBUS](https://www.linkedin.com/company/globus-ntnu) ||Produksjonsledelse||[Linkedin](https://www.linkedin.com/company/globus-ntnu), [Group](http://fb.com/groups/159591847413555/)|||
 
 ## Doktorgradsforeninger
 
