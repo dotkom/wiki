@@ -125,7 +125,7 @@ Mathias, Benedicte, Stensrud, Henrik, Øyvind, Kristoffer, Thea, Sindre, Thomas,
 ## 452 Interkom (5 min)
  - Ingen saker
 
-## 453 TILGANGER TIL STYREMEDLEMMER, KOMITELEDERE OG VARAER (5 min)
+## 453 Tilganger til styremedlem, komitèledere og varaer (5 min)
 [AUO har gjort at vi har fått nye stillinger. I lys av det er det lurt å få ryddet opp i tilganger. Hvilke tilganger trenger styremedlemmer, komiteledere og varaer? Hvilke tilganger har vi?]
 
 Tanken er å overføre enkelttilganger til et alias
