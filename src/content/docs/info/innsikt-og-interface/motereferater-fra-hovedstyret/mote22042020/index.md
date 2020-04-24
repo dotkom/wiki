@@ -178,7 +178,6 @@ Hvordan skal vi gå fram, ønsker vi å innføre noen styringslinjer for videre 
      - Tror problemet med et opptak nå er å få tak i riktig type folk (nok diversitet)
      - Ref jubkom: Hvis man får inn et par stk nå, så blir opptak på høsten raskere. Krever mindre fra oss når resten av Online skal begynne å starte opp
      - HS står for opptak. 
-     - Gjennomfører offentlig opptak i tillegg, men må headhunte i forkant. 
     
 
 ## 458 Eventuelt
