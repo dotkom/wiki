@@ -233,5 +233,4 @@ Konklusjon: de får agraff på sin respektive komitèdalje.
  
 ## Gjøremål
 
- - Alle: Lekse til søndag 26.04: Skrive minst en kommentar på google docs for nominasjoner. Hensikt: Sørge for at alle går gjennom nominasjonene
  - Benedicte: Lag doodle for dato til workshop for drive, wiki, tilganger og annet snacks
