@@ -30,9 +30,7 @@ Mathias, Øyvind, Benedicte, Sindre, Monika, Henrik, Thea, Stensrud, Nyvoll, Ram
 
 ## TODOs fra forrige møte
 
-- Alle: Lekse til søndag 26.04: Skrive minst en kommentar på google docs for nominasjoner. Hensikt: Sørge for at alle går gjennom nominasjonene
 - Benedicte: Lag doodle for dato til workshop for drive, wiki, tilganger og annet snacks: **done!**
-- **Mathias: Skriv nominasjon til Henrik Liodden**: **Check!**
 
 ## 443 Status for komiteene (12.25 - 20 min)
 
