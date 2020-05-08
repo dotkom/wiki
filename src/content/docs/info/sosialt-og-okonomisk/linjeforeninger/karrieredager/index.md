@@ -65,7 +65,7 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 | [Næringslivsdagen](https://www.nlu.no/naeringslivsdagen-2019/) | [Næringslivsutvalget](https://www.nlu.no)  | Februar | NTNU Ålesund | |
 | [Psykologidagen](http://psykolosjen.no/) | [Psykolosjen](http://psykolosjen.no/) | Mars | Dragvoll | [Page](http://fb.com/pages/Psykologidagen/274020162748907) |
 | [Petroleumskvelden](https://www.facebook.com/petroleumskvelden/) | Bergstudenter  | Mars | Lerkendal | [Page](https://www.facebook.com/petroleumskvelden/) |
-| [Realfagdagene](http://realfagdagene.no/) | [Volvox](http://www.volvox.no,) [Delta](http://org.ntnu.no/delta,) [Naturviterne](http://naturviterne.no) | Mars | Realfagbygget | |
+| [Realfagsdagene](http://realfagsdagene.org/) | [Delta](http://deltahouse.no) | Mars | Realfagbygget | |
 | Rekrutteringsdagen | [Hippodamus](http://hippodamus.no/) | November | Glassgården |  |
 | [Revolvedagen](https://www.revolve.no/) | [Revolve](https://www.revolve.no/about-us-4-2/)  | Februar | EL-bygget | [Page](https://www.facebook.com/RevolveNTNU/) |
 | [Tech talks](http://techtalks.no/)| Online | Februar | Realfagbygget |
