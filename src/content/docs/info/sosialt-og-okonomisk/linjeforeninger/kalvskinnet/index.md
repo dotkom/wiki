@@ -27,7 +27,7 @@ Tilhørende wikisider
 
 |Linjeforening|BrReg|Linje|Kjennetegn ved styremedlemmer|Kontor|Epost|Facebook|Avis|
 |---|---|---|---|---|---|---|--|
-| [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | | | kom.linjeforening@gmail.com |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
+| [KOM](http://kjemiogmaterial.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992443812) | Kjemi og Material | Styrebånd (blå med fire turkise striper) | [Sverresgate 14, rom 109](https://s.mazemap.com/3bhHThx) | kom.linjeforening@gmail.com |[Page](http://fb.com/pages/Linjeforening-Kjemi-og-Material-HiST/125600184158199)|
 | [Logitas](http://www.logitas.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikk | | | styret@logitas.no | [Page](http://fb.com/pages/Logistikkstudentene/116151561776568) |
 | [MiT](http://mit.hist.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | | Kjelleren, Maskinbygget i Sverresgate 10, rom nr. 034 | leder@mit.teknikersamfunn.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
 | [Nucleus](http://www.nucleus-bio.no) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | | | nucleuslinjeforening@gmail.com | [Page](http://fb.com/nucleusforbioingeniorer) |
