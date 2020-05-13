@@ -6,7 +6,7 @@ Sangen er opprinnelig av Otto Nielsen, som studerte ved NTH. Først sett i _Litj
 
 ### **Innspillinger**
 
-[Kor I All Verden](https://www.youtube.com/watch?v=kptE9R7SxX8) synger flerstemt  
+[Kor I All Verden](https://youtube.com/watch?v=V04ApIfbV68) synger flerstemt  
 [Otto Nielsen og Den Norske Studentsangforening](http://open.spotify.com/track/681rpbNuR41d7XwM86XTtG) på spotify  
 
 ### **Sangen**
