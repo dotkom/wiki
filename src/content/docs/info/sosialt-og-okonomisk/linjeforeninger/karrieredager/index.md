@@ -55,7 +55,7 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 | [Karrieredagen Dragvoll](https://www.kndntnu.no/) | [Karrieredagen Dragvoll](https://www.kndntnu.no/kontakt-oss)  | Februar | Dragvoll | [Page](https://www.facebook.com/KarrieredagenNTNUDragvoll/) |
 | [Karrieredagen Handelshøyskolen](https://nuhhit.no/karrieredagen/) | [NU](https://nuhhit.no/om-oss/)  | September | Elgeseter | [Page](https://www.facebook.com/Karrieredagen.handels/) |
 | [Karrieredagen for institutt for sosialt arbeid](Nettside) | | Mars | Tunga | [Page](https://www.facebook.com/events/tungasletta-2-7047-trondheim-norge/karrieredagen-ntnu-institutt-for-sosialt-arbeid/347585732667507/) |
-| [Karrièredagen eurêka](https://nabla.no/arrangement/1093-karrieredagen-eureka-2020) | [Ansvarlig](https://nabla.no/)  | Januar | Realfagbygget | [Page](https://www.facebook.com/Bedriftskontakt1Nabla/) |
+| [Karrièredagen eurêka](https://nabla.no/arrangement/1386-karrieredagen-eureka-2021) | [Nabla](https://nabla.no/)  | Januar | Realfagbygget | [Page](https://www.facebook.com/Bedriftskontakt1Nabla/) |
 | [Karrieremessa i Trondheim](http://framtidsfylket.no/for-arbeidsgjevar/karrieremesser-2014/karriemesse-trondheim-2014/) (2014) | [Framtidsfylket](http://framtidsfylket.no/) | Mars | Glassgården | |
 | [Kjemidagen](http://www.kjemidagen.no/) | [HC](http://www.hc.ntnu.no,) [Timini](https://www.timini.no/) | Oktober | Realfagbygget | [Page](http://fb.com/Kjemidagen) |
 | Marine Night | [NJORD](https://www.facebook.com/NjordNTNU/)  | Januar | NTNU Sealab Brattørkaia | [Page](https://www.facebook.com/NjordNTNU/) |
