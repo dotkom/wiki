@@ -14,7 +14,7 @@ Onlines fremste oppgave er å legge til rette for det sosiale rundt studiet. Sli
 
 ### Fadderuka
 
-Er du bekymra for studiestart? Det var i alle fall jeg. Men, det er det ingen grunn til å være! Med 30 års erfaring i linjeforeningsdrift har vi blitt sabla gode på å arrangere fadderuke. 
+Er du bekymra for studiestart? Det var i alle fall jeg. Men, det er det ingen grunn til å være! Med over 30 års erfaring i linjeforeningsdrift har vi blitt sabla gode på å arrangere fadderuke. 
 
 Du trenger ikke melde deg på fadderuka, det eneste du må gjøre er å dukke opp på instituttets obligatoriske oppmøtedager også kommer vi å møter deg der! Hvis du ikke kan møte, gi beskjed til oss så ordner vi deg en faddergruppe. 
 
