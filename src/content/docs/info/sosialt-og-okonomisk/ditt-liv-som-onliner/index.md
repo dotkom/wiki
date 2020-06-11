@@ -25,10 +25,8 @@ title: "Ditt liv som Onliner"
     Middag på restaurant betalt av bedriften. Mulighet for intervjuer.
 -   **Kurs:** Bedriftskurs. Varer i 1-3 timer. Middag på Gløshaugen
     eller på restaurant, betalt av bedriften.
--   **Alle disse…**
-    -   …er som regel åpne for 3. klasse og oppover, men når
-        arrangementet nærmer seg kan det åpne seg plasser for andre- og
-        førsteklassinger.
+-   **Begge disse…**
+    -   …er som regel åpne for 3. klasse og oppover, men mange av arrangementene åpnes også for første- og andreklassinger.
     -   …har påmelding kl 12:00 én uke før.
     -   …kan fylles opp veldig fort, så det gjelder å sitte klar med
         trigger-finger når påmeldingen åpner.
@@ -54,12 +52,8 @@ title: "Ditt liv som Onliner"
         med noen av våre tekniske løsninger.
 
 ###### Fagkom: fagkom@online.ntnu.no
-- Organsiserer kurs i samarbeid med bedrifter. Bedriftene kommer til NTNU for å lære bort det som er det kuleste i arbeidslivet, akkurat nå. De organiserer også eksamenskurs når den tid nærmer seg.
+- Organsiserer kurs i samarbeid med bedrifter. Bedriftene kommer til NTNU for å lære bort det som er det kuleste i arbeidslivet, akkurat nå. De organiserer også andre kurs som er relevante for studentene, og eksamenskurs når den tid nærmer seg.
 - En gang i året avholdes også lightning talks, en koselig kveld hvor alle som vil kan holde en lyntale (på 10-15 min) om det de har lyst til.
-
-###### Jubkom: jubkom@online.ntnu.no
-- Holder Onlinejubileum hvert femte år slik at alle som tar et
-        5-årig studieløp får være med på et jubileum.
 
 ###### Prokom: prokom@online.ntnu.no
 - Gir ut tidsskriftet Offline som du kan kose deg med to ganger i semesteret.
@@ -80,6 +74,9 @@ title: "Ditt liv som Onliner"
 - Arrangerer utenlandsekskursjon for alle 3.klassinger. Dette er noe alle bør benytte anledningen til å få med seg. 
 - Arrangerer Tech Talks på våren for å samle inn penger, slik at ekskursjonen blir billigere for studentene. Dette er en dag, åpen for alle studenter på NTNU, hvor bedrifter kommer for å holde talks og foredrag. 
 
+###### Jubkom: jubkom@online.ntnu.no
+- Holder Onlinejubileum hvert femte år slik at alle som tar et
+        5-årig studieløp får være med på et jubileum.
 
 «Hva er en prikk? Hvordan vet jeg om jeg har fått en?»
 ------------------------------------------------------
