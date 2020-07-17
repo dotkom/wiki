@@ -12,7 +12,7 @@ Informasjonskanal for fadderukene 2020
 * [Kontaktinfosøk]()  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
-* [Velkom kontaktinfo]()
+* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2020-/velkom)
 
 ### Uforventede hendelser
 Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
