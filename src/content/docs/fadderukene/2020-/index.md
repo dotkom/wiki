@@ -6,7 +6,7 @@ Informasjonskanal for fadderukene 2020
 
 ** OBS, denne siden er under konstruksjon og mer informasjon kommer! **
 
-* [Arrangementer]()  
+* [Arrangementer](https://online.ntnu.no/wiki/online/fadderukene/2020-/arrangementer/)  
 * [Faddere]()  
 * [For faddere]() (kun faddere har tilgang) 
 * [Kontaktinfosøk]()  
