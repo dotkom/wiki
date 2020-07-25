@@ -7,7 +7,7 @@ Informasjonskanal for fadderukene 2020
 ** OBS, denne siden er under konstruksjon og mer informasjon kommer! **
 
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
-* [Faddere]()  
+* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2020-/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
