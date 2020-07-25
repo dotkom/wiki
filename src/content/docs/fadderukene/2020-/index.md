@@ -8,7 +8,6 @@ Informasjonskanal for fadderukene 2020
 
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere]()  
-* [For faddere]() (kun faddere har tilgang) 
 * [Kontaktinfosøk]()  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
