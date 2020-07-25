@@ -8,7 +8,7 @@ Informasjonskanal for fadderukene 2020
 
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere]()  
-* [Kontaktinfosøk]()  
+* [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
 * [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2020-/velkom) 
