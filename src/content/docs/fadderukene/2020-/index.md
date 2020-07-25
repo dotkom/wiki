@@ -6,13 +6,14 @@ Informasjonskanal for fadderukene 2020
 
 ** OBS, denne siden er under konstruksjon og mer informasjon kommer! **
 
-* [Arrangementer](https://online.ntnu.no/wiki/online/fadderukene/2020-/arrangementer/)  
+* [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere]()  
 * [For faddere]() (kun faddere har tilgang) 
 * [Kontaktinfosøk]()  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
 * [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2020-/velkom)
+*[Greit å ha med seg til fadderukene]()
 
 ### Uforventede hendelser
 Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
