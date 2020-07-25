@@ -2,7 +2,7 @@
 title: "Faddere 2020"
 ---
 
-Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme i kontakt med noen kan det gjøres [her](), høre med noen som kjenner vedkommende, eller snakke med noen i velkom.
+Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme i kontakt med noen kan det gjøres [her](https://online.ntnu.no/profile/user_search/), høre med noen som kjenner vedkommende, eller snakke med noen i velkom.
 
 ###B1 
 * Martin Kvalsund 
@@ -101,3 +101,25 @@ Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme 
 * Hanna Thevik 
 * Siri Arnesen 
 * Joakim Fremstad
+
+###M1
+* August Sollesnes Solvang 
+* Johannes Kvamme 
+* Marius Johan Holm Johansen 
+* Endre Ulberg 
+
+###M2
+* Kaja Sofie Lundgaard 
+* Anniken Rønvåg Syvertsen 
+* Hanne Brynildsrud 
+
+###M3
+* Sigurd Oxaas Wie 
+* Halvor Bakken Smedås 
+* Klara Schlüter 
+
+###M4
+* TBA
+
+###M5
+* TBA
