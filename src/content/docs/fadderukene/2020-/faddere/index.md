@@ -2,6 +2,8 @@
 title: "Faddere 2020"
 ---
 
+Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme i kontakt med noen kan det gjøres [her](), høre med noen som kjenner vedkommende, eller snakke med noen i velkom.
+
 ###B1 
 * Martin Kvalsund 
 * Anders Robstad 
