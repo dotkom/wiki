@@ -6,6 +6,9 @@ Informasjonskanal for fadderukene 2020
 
 ** OBS, denne siden er under konstruksjon og mer informasjon kommer! **
 
+
+* [Coronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/Corona) 
+* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/PraktiskInfo)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2020-/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
@@ -13,8 +16,7 @@ Informasjonskanal for fadderukene 2020
 * [Program - Master](https://online.ntnu.no/splash/)  
 * [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2020-/velkom) 
 * [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2020-/TaMedListe)
-* [Coronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/Corona) 
-* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/PraktiskInfo)
+
 
 ### Uforventede hendelser
 Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
