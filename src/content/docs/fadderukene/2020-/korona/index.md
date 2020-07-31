@@ -15,5 +15,6 @@ Vi har gjennom planleggingen av disse litt spesielle fadderukene gjort forskjell
 - Våre arrangementer er lagt opp slik at det skal være mulig å holde den sosiale avstanden som anbefales av FHI.
 - Det er i større grad enn før lagt opp til at man noen ganger kun er med faddergruppen sin.
 
+###Kontakt oss
 
 Dersom det skulle være noen spørsmål til dette er du hjertelig velkommen til å ta kontakt med leder i velkomstkomiteen [Robin Lund Sadun](https://online.ntnu.no/profile/view/robin/) eller nestleder [Anders Robstad](https://online.ntnu.no/profile/view/andersr/).
