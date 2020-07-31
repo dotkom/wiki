@@ -7,7 +7,7 @@ Informasjonskanal for fadderukene 2020
 ** OBS, denne siden er under konstruksjon og mer informasjon kommer! **
 
 
-* [Coronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/Corona) 
+* [Koronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/Corona) 
 * [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/PraktiskInfo)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2020-/Faddere)  
