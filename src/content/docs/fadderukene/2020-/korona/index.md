@@ -8,7 +8,7 @@ På grunn av den pågående Covid-19 pandemien, bes alle deltagere i fadderukene
 
 Vi har gjennom planleggingen av disse litt spesielle fadderukene gjort forskjellige tiltak for å prøve å skape tryggest mulig omgivelser for alle sammen.
 
-- Det vil være antibac tilstede på alle våre arrangementer.
+- Det vil være antibac lett tilgjengelig på alle våre arrangementer.
 - Arrangementer vi serverer mat på vil det være stort fokus på renslighet, og desinfisering. 
 - Arrangementer på utesteder vil være "sittearrangementer"
 - Vi vil forsøke å samle de samme gruppene dersom flere grupper skal samles for å minke mengden mennesker som møter hverandre.
