@@ -21,12 +21,12 @@ Informasjonskanal for fadderukene 2020
 
 
 ### Uforventede hendelser
-Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:
+Alt viktig, da også uønskede og ubehagelige hendelser, oppfordres å rapporteres til:
 
 - [Robin Lund Sadun](https://online.ntnu.no/profile/view/robin/) (leder, velkom)  
 - [Anders Robstad](https://online.ntnu.no/profile/view/andersr/) (nestleder, velkom)  
 
-Det er helt innenfor å ringe oss 24/7 ved behov.  
+Det er helt innenfor å ringe oss 24/7 ved behov. Vi har taushetsplikt. 
 
 Akutt hjelp
 ------------------------------------
