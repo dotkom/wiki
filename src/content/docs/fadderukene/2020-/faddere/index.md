@@ -22,13 +22,11 @@ Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme 
 * Yngve Tryggestad Larsen 
 
 ###B3  
-* Peshwas Mofak 
-* Jan Arild Brobak 
+* Thea Karin Fladby 
 * Emma Ju Blix 
 * Elise Rabassa Stautland 
 * Keith Charlene Esmeña 
-* Henrik Moe Wæhre 
-* Jørgen Nummedal Sveberg 
+* Henrik Moe Wæhre  
 
 ###B4 
 * Robin Lund Sadun 
@@ -64,9 +62,9 @@ Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme 
 * Monika Muzyk 
 
 ###B8 
-* Thea Karin Fladby 
-* Pål-Edward Larsen 
-* Peter Rydberg 
+* Peshwas Mofak 
+* Jan Arild Brobak  
+* Jørgen Nummedal Sveberg 
 * Håkon Groven 
 * Amund Foss 
 
@@ -119,7 +117,6 @@ Her er en oversikt over alle faddere i fadderukene 2020. Om du ønsker å komme 
 * Klara Schlüter 
 
 ###M4
-* TBA
-
-###M5
-* TBA
+* Peter-Edward Rydberg 
+* Pål Larsen 
+* Aslak Holund
