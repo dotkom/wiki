@@ -16,9 +16,9 @@ Onlines fremste oppgave er å legge til rette for det sosiale rundt studiet. Sli
 
 Er du bekymra for studiestart? Det var i alle fall jeg. Men, det er det ingen grunn til å være! Med over 30 års erfaring i linjeforeningsdrift har vi blitt sabla gode på å arrangere fadderuke. 
 
-Du trenger ikke melde deg på fadderuka, det eneste du må gjøre er å dukke opp på instituttets obligatoriske oppmøtedager også kommer vi å møter deg der! Hvis du ikke kan møte, gi beskjed til oss så ordner vi deg en faddergruppe. 
+Du trenger ikke melde deg på fadderuka, det eneste du må gjøre er å dukke opp på instituttets obligatoriske oppmøtedager også kommer vi å møter deg der! Hvis du ikke kan møte, gi beskjed til oss så ordner vi deg en faddergruppe. Send en mail til velkom@online.ntnu.no.
 
-Om du har hørt noe om fadderuka fra før, så er det sikkert at det er en stor fest. Dersom du er glad i slikt så kan jeg med glede si at ja, det er det. Men dersom to uker med fyll og fanterier ikke frister så altfor mye så kan jeg også med glede si at det er også mye mer! Vi har både edruarrangementer og arrangementer hvor det er mindre alkoholfokus. Det viktigste er at dere får en flott sosial arena for å bli kjent med deres nye medstudenter.
+Om du har hørt noe om fadderuka fra før, så er det sikkert at det er en stor fest. Dersom du er glad i slikt så kan jeg med glede si at ja, det er det. Men dersom to uker med fyll og fanterier ikke frister så altfor mye så kan jeg også med glede si at det er også mye mer! Vi har både edruarrangementer og arrangementer hvor det er mindre alkoholfokus. Det viktigste er at dere får en flott sosial arena for å bli kjent med deres nye medstudenter. Komplett program finner du [her](https://online.ntnu.no/splash).
 
 ### Bosted
 
