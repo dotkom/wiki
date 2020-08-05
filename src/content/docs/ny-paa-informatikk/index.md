@@ -37,3 +37,6 @@ Hvis du lurer på noe mer, er det sikkert noen andre som også gjør det. Send g
 4. Søk om medlemsskapet. Søknadene blir sjekket jevnlig og du får mail når den er ferdig behandlet (sjekk spammappa).  
 
 Hovedstyret behandler søknadene og spørsmål kan rettes til hs@online.ntnu.no.
+
+**Eksempel på dokumentasjon**
+[image:749]
