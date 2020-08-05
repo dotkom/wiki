@@ -25,3 +25,15 @@ Om du har hørt noe om fadderuka fra før, så er det sikkert at det er en stor 
 Hvis du ikke enda har funnet deg et sted å bo, er Studentsamskipnaden i Trondheim (SIT) et godt sted å starte. SiT har studenthybler over hele Trondheim og prioriterer de yngste studentene. Det er også mulighet til å finne seg noe privat som ofte kan være bedre, men man må være litt OBS på at alle utleiere ikke er så enkle å ha med å gjøre.
 
 Hvis du lurer på noe mer, er det sikkert noen andre som også gjør det. Send gjerne spørsmål til hovedstyret@online.ntnu.no så skal vi oppdatere artikkelen.
+
+
+### Søke medlemsskap
+
+**Søke om 4. klasse-medlemskap:**  
+
+1. [Lag bruker på online.ntnu.no](https://online.ntnu.no/auth/register/)  
+2. Gå inn på [https://online.ntnu.no/profile/membership/](https://online.ntnu.no/profile/membership/) og søk om manuelt medlemsskap (IKKE via Dataporten)  
+3. Last opp et screenshot fra SØKNADSWEB når du er logget inn. Pass på at navnet og innvilget plass syns (se vedlagt eksempel)  
+4. Søk om medlemsskapet. Søknadene blir sjekket jevnlig og du får mail når den er ferdig behandlet (sjekk spammappa).  
+
+Hovedstyret behandler søknadene og spørsmål kan rettes til hs@online.ntnu.no.
