@@ -31,7 +31,7 @@ Hvis du lurer på noe mer, er det sikkert noen andre som også gjør det. Send g
 
 **Søke om 4. klasse-medlemskap:**  
 
-1. [Lag bruker på online.ntnu.no](https://online.ntnu.no/auth/register/)  
+1. [Lag bruker hos Online](https://online.ntnu.no/auth/register/)  
 2. Gå inn på [https://online.ntnu.no/profile/membership/](https://online.ntnu.no/profile/membership/) og søk om manuelt medlemsskap (IKKE via Dataporten)  
 3. Last opp et screenshot fra SØKNADSWEB når du er logget inn. Pass på at navnet og innvilget plass syns (se vedlagt eksempel)  
 4. Søk om medlemsskapet. Søknadene blir sjekket jevnlig og du får mail når den er ferdig behandlet (sjekk spammappa).  
