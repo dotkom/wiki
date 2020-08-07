@@ -20,13 +20,22 @@ Informasjonskanal for fadderukene 2020
 * [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2020-/TaMedListe)
 
 
-### Uforventede hendelser
-Alt viktig, da også uønskede og ubehagelige hendelser, oppfordres å rapporteres til:
+### Kontakt
+Er det noe du lurer på? Ta kontakt med:
 
 - [Robin Lund Sadun](https://online.ntnu.no/profile/view/robin/) (leder, velkom)  
 - [Anders Robstad](https://online.ntnu.no/profile/view/andersr/) (nestleder, velkom)  
 
-Det er helt innenfor å ringe oss 24/7 ved behov. Vi har taushetsplikt. 
+Vi er tilgjengelig 24/7 ved behov.  
+
+
+### Har du opplevd noe ugreit?
+Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Onlines kontaktpersoner under fadderukene, Thea Karin Fladby og Sindre Langaard. Vi har full taushetsplikt og er du usikker på hva vi kan hjelpe med så er det bare å sende oss en melding.
+
+- E-post: siifra@online.ntnu.no  
+- Telefon: 966 46 705  
+- Nett: [online.ntnu.no/splash](online.ntnu.no/splash)  
+
 
 Akutt hjelp
 ------------------------------------
