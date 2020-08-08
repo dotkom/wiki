@@ -6,7 +6,7 @@ Informasjonskanal for fadderukene 2020
 
 ** OBS: Er du i risikosonen for korona, eller av andre grunner ikke er komfortabel så ta kontakt med oss på velkom@online.ntnu.no **
 
-** OBS: Er du syk, ikke møt opp på arrangementer(!!!) og ta kontakt med oss på velkom@online.ntnu.no ** 
+** OBS: Er du syk, nylig reist til utlandet eller i karantene, ikke møt opp på arrangementer(!!!) og ta kontakt med oss på velkom@online.ntnu.no ** 
 
 
 * [Koronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/korona) 
