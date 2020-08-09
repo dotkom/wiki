@@ -38,7 +38,7 @@ Tilhørende wikisider
 | [Dionysos](http://dionysosntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998237874) | Religion | | [Page](http://fb.com/LinjeforeningenDionysos) | dionysoslinjeforening@gmail.com |
 | [Erudio](http://www.erudiontnu.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=888738622) | Lektor | [5454 (Bygg 5, nivå 4)](http://bit.ly/38Kgkge) | [Page](http://fb.com/erudiontnu) | styret@erudiontnu.no | [Ugleposten](https://www.erudiontnu.no/ugleposten/) |
 | [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com | [serEØS](https://eurekalf.wordpress.com/linjeforeningsmagasinet-sereos/)
-| Fauréningen | | Musikkvitenskap | 2-426 (bygg 2, nivå 4) | [Group](http://fb.com/groups/586235868057291/) | faureningen@gmail.com |
+| Fauréningen | | Musikkvitenskap | 2-426 (bygg 2, nivå 4) | [Group](https://www.facebook.com/groups/298175420253936), [Page](https://www.facebook.com/NTNUmusv) | faureningen@gmail.com |
 | [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
 | [Gengangere]( https://www.facebook.com/linjeforeningengangere/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Page](https://www.facebook.com/linjeforeningengangere/) | gengangerentnu@gmail.com |
 | [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
