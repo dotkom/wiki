@@ -65,7 +65,7 @@ Servering utgår pga Coroñañaña
 
 #### Dotkom:
 - Snakk om hvor mange som skal tas opp, mange av de eldre som er borte
-- Nibble skal fikses, **Johannes er på saken**
+- Nibble skal fikses
 #### Fagkom, med ekskom:
 - Ikke mye foreløpig
 - Forbrede seg på kurs, spesielt mtp om vi ikke kan bruke campus
