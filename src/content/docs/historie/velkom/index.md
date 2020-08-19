@@ -73,7 +73,7 @@ Medlemmer
 ---------
 |År|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    |||||||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |---|
-|*2020*|*Robin Lund Sadun*|Anders Robstad|Duvara Nishaharan|Ivar Hembre|Amund Skuggevik Foss|Henrik Horten Hegli|Torjus Ødegård|Martin Kvalsund|Gabriel Hanssen|Hanna Thevik|Siri Arnesen|Leo Gimre|Sarmi Ponnuthurai|
+|*2020*|*Robin Lund Sadun*|Anders Robstad|Duvara Nishaharan|Ivar Hembre|Amund Skuggevik Foss|Henrik Horten Hegli|Torjus Ødegård|Martin Kvalsund|Gabriel Hanssen|Hanna Thevik|Siri Arnesen|Leo Gimre|Sarmi Ponnuthurai|Marius Holm Johansen|Pål Larsen|
 |*2019*|*Øyvind Jalland Schjerven*|Carl Smestad|Johanne Tronstad|Henrik Hørlück Berg|Jørgen Sveberg|Petter Charles Redfern|Andread Netteland|Benedicte Myrvoll|Bendik Brunvoll|Magnus Holtet|Sepehr Nasiri|Amund Lunke Røhne|Emilie Lia-Rognli|Kristoffer Nyvoll|Ahnkha Nguyen|Fredrik Wang|Erling Wisløff|Marius Aarsnes|
 |*2018*|*Charlotte Söderström*|Thomas Iversen Ramm|Siri Granheim|Simon Hagen Strand|Alis Wiken Wilson|Anniken Syvertsen|Elias Bjørnstad Vågan|Halvor Horge|Hanne Brynildsrud|Magnus Ramm|Marcus Henriksbø|Morten Trøen|Sander Lindberg|Tor Berre|Vilde Almestad|Claus Bugge|Erlend Gjelsvik|
 |*2017*|*Miriam Lillebo*|Johannes Kvamme|August Sollesnes Solvang|Hanna B. Gimse|Julie A. Solum-Sjaavaag|Marius Holm Johansen|Peter Rydberg|Adrian Thompson|Lena Tørresdal|Heidi Brække|Miriam Lillebo|Ingrid Evensen|Ahsan Azim|
