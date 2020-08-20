@@ -7,6 +7,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2020-08-13](mote13082020) - Fadderuke og opptak
+- [2020-07-29](mote290720) - Tillegspakke for komiteer, budsjettreglement  
 - [2020-04-29](mote29042020) - Svinn i Kiosk, Appkom
 - [2020-04-22](mote22042020) - AUO, FIF
 - [2020-04-01](mote01042020)
