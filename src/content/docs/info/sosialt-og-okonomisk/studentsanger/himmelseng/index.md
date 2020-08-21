@@ -159,6 +159,10 @@ ei som her Birgitte.
 hu fikk hjelp med øvinga,   
 Og jeg fikk Nabla-fitte.
 
+_Kråkefars Vers_
+
+Hei, jeg er jo kråkefar Så leder hele flokken. Så alle går på kne for meg Og kysser litt på stokken.
+
 ## Linjeforeningenes Himmelsengvers, nyeste først
 
 Jeg meldte meg i Abakus,  
