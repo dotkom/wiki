@@ -37,6 +37,7 @@ Ordliste
 -   Sopinn - sulten
 -   Veitj/kveite/tæv/taus - jente
 -   Ørtævv - ørefik
+-   Krøttergali - kugjerde
 
 Uttrykk
 -------
