@@ -21,7 +21,7 @@ Medlemmer
 Komiteen består for øyeblikket av 20 engasjerte studenter.
 
 
-| År           | Leder            | Nestleder        | Økonomiansvarlig| Medlemmer||                  |                      |                     |               |              |              |            |                      |                  |                      |                     |               |              |              |            |                      |                  |                      |                     |               |              |              |            |                      |
+|År|Leder|Nestleder|Økonomiansvarlig|Medlemmer|||||||||||||||||||||| 
 |--------------|------------------|------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|
 | 2020h         |Marius Holm Johansen|Luka Grujic|Sigurd Oxaas Wie|Astrid Vik|August Solvang|Birgitte Swensson|Endre Ulberg|Henrik Tobias Liodden|Kaja Sofie Lundgaard|Kasper Maagerø Svendsen|Marius Sjøberg|Sander Lindberg|Vilde Almestad
 | 2020v         |Marius Holm Johansen|Luka Grujic|Sigurd Oxaas Wie|Agnete Djupvik|Andrea Bach|Astrid Vik|August Solvang|Birgitte Swensson|Christoffer Almankaas|Edvard Gjessing Bakken|Emil Petter Schrøder |Endre Ulberg|Fredrik Sørmo|Henrik Tobias Liodden|Ingrid Medalen|Jakob Westermoen|Kaja Sofie Lundgaard|Kasper Maagerø Svendsen|Kristoffer Hajem|Marius Aarsnes|Marius Sjøberg|Mathias S. Müller|Ole Anders Stokker|Sander Lindberg|Vilde Almestad
