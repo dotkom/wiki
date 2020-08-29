@@ -40,7 +40,7 @@ Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt bel�
 30. September 2019 | 24. Oktober 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [attachment:717]
 
 
-## Søknader 2018
+## Søknader
 
 ### Onlines band, Output
 Den 17. april 2018 fikk Fondstyret en søknad om å innvilge 24 733 kr til Onlines nye linjeforeningsband, se [attachment:542 title:"vedlegg" size]. Vedlagt var også en kjøpsliste fra en leverandør med spesifikke instrumenter de ønsket kjøpe, derav det spesifikke beløpet. Fondstyret var fornøyd med søknaden, men ønsket litt mer utdypende svar på noen temaer:
