@@ -6,7 +6,8 @@ title: "HS møte 20/08-20"
 
 **Referering:**  
 Uno: Thea
-Dos: Øyvind
+
+Dos: Sindre
 
 **Straff:** Vinstraff til Mathias for sen innkalling 
 
