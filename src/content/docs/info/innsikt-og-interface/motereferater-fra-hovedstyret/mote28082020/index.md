@@ -146,11 +146,15 @@ Send søknad om støtte der vi kan!!
 [Vi må bestemme oss for om vi vil ha daljer på immballet eller ikke. Det har kommet både for- og motargumenter som vi kan se litt nærmere på.]
 
 For: 
+
 - Benny: Setter en rar presedens hvis det ikke dukker opp i år.
+
 - Monika: Noen bruker mye tid på vervet. Føle seg mer "spesiell" hvis du kan flashe daljene på immball.
+
 - Marius: I første omgang var det for at folk ikke skulle føles ekskludert, men dette vil være førstisenes normal. Fin måte å inspirer og vise frem at folk har oppnådd ting i Online.
 
 Votering: Flertall for daljer.
+
 Benny: Ikke vær klysete rundt å ha dalje.
 
 
