@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2020-08-28]()- Promovideo og daljer
 - [2020-08-13](mote13082020) - Fadderuke og opptak
 - [2020-07-29](mote-29072020) - Tilleggspakke for komiteer, budsjettreglement  
 - [2020-04-29](mote29042020) - Svinn i Kiosk, Appkom
