@@ -13,7 +13,10 @@ title: "Generalforsamlingen 2020"
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter: [attachment:635]  
 Onlines fonds vedtekter: [attachment:637]  
-Referat: [attachment:636]
+Referat 2019: [attachment:636]
+Referat 2020: [attachment:751]
+
+
 
 
 
