@@ -12,16 +12,16 @@ Hovedstyret består av følgende, stemmeberettigede, medlemmer:
 
 * Leder for linjeforeningen
 * Nestleder for linjeforeningen
-* Økonomiansvarlig for linjeforeningen (Leder av Bank- og økonomikomiteen)
-* Leder av Arrangementskomiteen
-* Leder av Bedriftskomiteen
-* Leder av Drifts- og utviklingskomiteen
-* Leder av Fag- og kurskomiteen
-* Leder av Profil- og aviskomiteen
-* Leder av Trivselskomiteen
+* Økonomiansvarlig for linjeforeningen 
+* Styremedlem fra Arrangementskomiteen
+* Styremedlem fra Bedriftskomiteen
+* Styremedlem fra Drifts- og utviklingskomiteen
+* Styremedlem fra Fag- og kurskomiteen
+* Styremedlem fra Profil- og aviskomiteen
+* Styremedlem fra Trivselskomiteen
 
 
-Leder av Seniorkomiteen har møte- og talerett på Hovedstyrets møter. 
+Leder av Seniorkomiteen og leder av Bank og økonomikomiteen har møte- og talerett på Hovedstyrets møter. 
 
 ### §3 Hovedstyrets ansvarsområder
 
@@ -43,7 +43,7 @@ Hovedstyret har et overordnet ansvar (v/ økonomiansvarlig) for at linjeforening
 
 #### (5) Trivsel og arbeidsmiljø
 
-Hovedstyret (v/ komiteledere) skal følge opp og jobbe for trivsel og godt miljø i, såvel som utenfor, linjeforeningens komiteer. Det oppfordres til å ta medarbeidersamtaler på semesterbasis. Leder har HMS-ansvar for foreningen og dermed et ekstra ansvar for komitémedlemmenes velferd.
+Hovedstyret skal følge opp og jobbe for trivsel og godt miljø i, såvel som utenfor, linjeforeningens komiteer. Det oppfordres til å ta medarbeidersamtaler på semesterbasis. Leder har HMS-ansvar for foreningen og dermed et ekstra ansvar for komitémedlemmenes velferd.
 
 #### (6) Periodiske komiteer
 
@@ -57,7 +57,7 @@ Hovedstyret skal verne om Onlines studentpolitiske interesser. Hovedstyret skal 
 
 Hovedstyret har ansvaret for å dele ut lang- og trodalje til medlemmer i kjernekomiteer som har gjort en innsats for Online over en lengre tid og har startet på sitt 3. år som komitémedlem. 
 
-Komitémedlemmer som ikke kvalifiserer til lang og tro må du innstilles til daljen av denne komiteens leder. Komitéleder i nodekomiteen instillies av leder i foreldrekomiteen. HS tar en avgjørelse på om komitémedlemmet skal få daljen, basert på instillingene. 
+Komitémedlemmer som ikke kvalifiserer til lang og tro må innstilles til daljen av denne komiteens leder. Komitéleder i nodekomiteen instillies av leder i foreldrekomiteen. HS tar en avgjørelse på om komitémedlemmet skal få daljen, basert på instillingene. 
 
 Daljen deles ut ved julebord og immatrikuleringsball. 
 
@@ -73,8 +73,8 @@ Etter en Generalforsamling har avtroppende Hovedstyre møteplikt i tre møter, d
 
 Hovedstyret skal legge til rette for at leder av Seniorkomiteen skal ha tilgang til mail og wiki på lik linje med resten av hs-medlemmene. Seniorkomleder skal inkluderes i Hovedstyrerelaterte aktiviteter i en grad som står i forhold til vedkommendes innsats i Hovedstyret. Dersom seniorkom ikke har mulighet for å ta opp egne medlemmer plikter Hovedstyret å gjøre det. 
 
-Hovedstyret fører logg over linjeforeningens aktiviteter og fremleg- ger årsberetning for generalforsamlingen.  
-Hovedstyret skal formidle saker og vedtak til komitemedlemmene via den respektive komitelederen.  
+Hovedstyret fører logg over linjeforeningens aktiviteter og fremlegger årsberetning for generalforsamlingen.  
+Hovedstyret skal formidle saker og vedtak til komitemedlemmene via den respektive komiteens styremedlem.  
 Representantene av Hovedstyret kan uttale seg og handle på linjeforeningens vegne når vedkommendes sak er avklart i Hovedstyret. Ved uklarheter skal leder uttale seg.  
 Hovedstyret har fullmakt til å fylle eventuelle tomme verv ved behov.  
 Hovedstyret er ansvarlig for komitéopptak og skal føre intervju- og søknadsprosesser. Hovedstyret skal godkjenne komiteenes retningslinjer på første hovedstyremøte etter endt generalforsamling.
