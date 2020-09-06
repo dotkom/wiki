@@ -27,6 +27,13 @@ Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store 
 
 ## Onlinere i Kjellerstyret
 
+###2020/2021
+* Nicolai Dalaaker (Kjellerkontakt)
+* Marius Lerstein
+* Martin Skatvedt
+* Jørgen Hoel Lund
+* Tor Jacob Neple
+
 ###2019/2020
 * Sigurd Oxaas Wie
 * Sander Lindberg  (Kjellersjef)
