@@ -161,11 +161,19 @@ Og jeg fikk Nabla-fitte.
 
 _Kråkefars Vers_
 
-Hei, jeg er jo kråkefar Så leder hele flokken. 
-Så alle går på kne for meg 
+Hei, jeg er jo kråkefar,         
+Så leder hele flokken.       
+Så alle går på kne for meg,       
 Og kysser litt på stokken.
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
+
+Jeg har alltid vært en datanerd,               
+jeg meldte meg i Online.                                 
+Nå ser jeg aldri damer mer                           
+og kommer aldri on-time 
+
+--
 
 Jeg meldte meg i Abakus,  
 Jeg ville programmere.  
@@ -180,6 +188,13 @@ men det vakke kjeft å få
 så UA måtte deppe
 
 ## Onlines Himmelsengvers, nyeste først
+
+_Sigurd Oxaas Wie_
+
+Da jeg var ny i Trondheim by,          
+Så meldte jeg meg inn i Kjellern.       
+Fire år det har jo gått          
+og jeg må bytt ut levern
 
 _Magnus Kongshem_
 
