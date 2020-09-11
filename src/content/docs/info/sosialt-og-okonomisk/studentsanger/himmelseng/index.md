@@ -159,6 +159,8 @@ ei som her Birgitte.
 hu fikk hjelp med øvinga,   
 Og jeg fikk Nabla-fitte.
 
+--
+
 _Kråkefars Vers_
 
 Hei, jeg er jo kråkefar,         
