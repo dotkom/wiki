@@ -21,7 +21,7 @@ Retningslinjer
 
 Hovedoppgaven til interessegruppen er å få samlet mennesker for å prøve ut nye og mer særegne sporter. Vi har prøvd ut blant annet Kickboksing, Crossfit, Ju-jitsu, Poledance & Cageball.
 
-Hvert semester arrangerer vi en surfetur, på høsten tar vi turen til Hoddevik og på våren flyr vi ned til Ericeira, Portugal. På begge turene blir rundt 30 informatikere med.
+I tillegg til dette arrangerer vi surfetur hvert semester, på høsten tar vi turen til Hoddevik og på våren flyr vi ned til Ericeira, Portugal. På begge turene blir rundt 30 informatikere med.
 
 Vi skal etterstrebe å ha et arrangement hver måned.
 
