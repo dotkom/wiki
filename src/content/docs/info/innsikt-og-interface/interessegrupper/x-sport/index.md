@@ -5,12 +5,10 @@ title: "X-Sport"
 Nåværende gjengmedlemmer
 ---------------------------------
 
-
-- **Leder:** Emil Schrøder
+- **Arrangører:** Marcus Schrøder, Kaja Sofie Lundgaard, Vemund Eggemoen & Elise Stautland
 - **Økonomiansvarlig:** Kaja Sofie Lundgaard
-- **Arrangører:** Marcus Schrøder, Vemund Eggemoen & Elise Stautland
 
-Tidligere medlemmer: Christoffer Skar Lofsberg & Camilla Tran
+Tidligere medlemmer: Emil Schrøder, Christoffer Skar Lofsberg & Camilla Tran
 
 
 Send mail til x-sport@online.ntnu.no hvis du ønsker å bidra!
@@ -21,14 +19,17 @@ Retningslinjer
 
 ### §1 Gruppens formål
 
-Hovedoppgaven til interessegruppen er å få samlet mennesker for å spille squash, dra å kite, låne hall for å spille håndball osv.
-Dvs. sporter/idretter der man gjerne trenger å være flere for å kunne drive med. 
+Hovedoppgaven til interessegruppen er å få samlet mennesker for å prøve ut nye og mer særegne sporter. Vi har prøvd ut blant annet Kickboksing, Crossfit, Ju-jitsu, Poledance & Cageball.
+
+Hvert semester arrangerer vi en surfetur, på høsten tar vi turen til Hoddevik og på våren flyr vi ned til Ericeira, Portugal. På begge turene blir rundt 30 informatikere med.
+
 Vi skal etterstrebe å ha et arrangement hver måned.
+
+Har du en ide til noe vi burde prøve ut? Send oss en mail med forslag! Vi er alltid gira på å prøve ut nye ting.
 
 
 Tidligere Arrangementer
 --------------
-
 - Squash
 - Surfetur til Hoddevik
 - Surfetur til Portugal
