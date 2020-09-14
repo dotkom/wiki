@@ -5,7 +5,8 @@ title: "X-Sport"
 Nåværende gjengmedlemmer
 ---------------------------------
 
-- **Arrangører:** Marcus Schrøder, Kaja Sofie Lundgaard, Vemund Eggemoen & Elise Stautland
+- Leder: Marcus Schrøder
+- **Arrangører:**Kaja Sofie Lundgaard, Vemund Eggemoen & Elise Stautland
 - **Økonomiansvarlig:** Kaja Sofie Lundgaard
 
 Tidligere medlemmer: Emil Schrøder, Christoffer Skar Lofsberg & Camilla Tran
