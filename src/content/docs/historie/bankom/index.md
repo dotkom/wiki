@@ -51,7 +51,7 @@ Våren 2019 godtok generalforsamlingen at HS stillingen som leder av bank- og ø
 
 |Semester|Økonomiansvarlig|Leder|Nestleder|arrkom|bedkom|dotkom|ekskom|fagkom|HS|prokom|ITEX|trikom|velkom|jubkom|seniorkom|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-|19/20|**Christoffer Stensrud**|**Thomas Iversen Ramm**|Johanne Trondstad|Milla Weium|Johanne Trondstad|Thomas Hasvold|Jonathan Brooks|Johan August Østbye|---|Sondre Stokke|Johanne Trondstad|Jørgen Nummedal|Duvara Nishaharan|---|Sigurd Oxaas Wie|
+|20/21|**Christoffer Stensrud**|**Thomas Iversen Ramm**|Johanne Trondstad|Milla Weium|Johanne Trondstad|Thomas Hasvold|Jonathan Brooks|Johan August Østbye|---|Sondre Stokke|Johanne Trondstad|Jørgen Nummedal|Duvara Nishaharan|---|Sigurd Oxaas Wie|
 |19/20|**Kaja Sofie Lundgaard**|**Mathias Fossum**|Christian Nyvoll|Thomas Iversen Ramm|Luka Grujic|Jonathan Brooks|Sigurd Melsom|Christoffer Stensrud|---|Ole Jacob Brunstad|Mathias Müller|Jon-Inge Heggstad|Johanne Tronstad|---|Sigurd Oxaas Wie|
 |18/19|N/A|**Christian Nyvoll**|August Solvang|Marius Johansen|Adrian Hofseth/Luka Grujic|Dora Oline Eriksrud/Jonathan Brooks|Fride Skarseth/ Sigurd Melsom|Kaja Sofie Lundgaard|---|Margit Schefte|Mathias Müller|Ingvild Gravem/ Pål Edward Larsen/ Jon-Inge Heggstad|Siri Granheim|---|Martin Bjerke|
 |17/18|N/A|**Christoffer Lofsberg**|Margit Schefte|Marius Johansen|Adrian Hofseth|Dora Oline Eriksrud|Fride Skarseth|Christian Nyvoll|---|Simen Bjørkhaug|Mathias Müller|Martin Bjerke|August Solvang|---|Erik Wiker|
