@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2020-09-11](mote11092020) - Budsjettendringer
 - [2020-09-04](mote09092020) - 
 - [2020-08-28](mote28082020) - Promovideo og daljer
 - [2020-08-13](mote13082020) - Fadderuke og opptak
