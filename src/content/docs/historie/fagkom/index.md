@@ -44,7 +44,7 @@ Medlemmer
 
 |År|Leder| Medlemmer |
 |----|---| -------- |
-|2020-2021|**Elise Stautland**| Johan August Østbye, Christoffer Stensrud, Joel Nicolaysen, Ingvild Løver Thon, Elise Telje, Per Håvard Skogli Holtet, André Schjøth, Synne Jenssen, Øyvind Schjerven, Ivar Hembre, Ruben Kobbeltvedt |
+|2020-2021|**Elise Stautland**| Johan August Østbye, Christoffer Stensrud, Joel Nicolaysen, Ingvild Løver Thon, Elise Telje, Per Håvard Skogli Holtet, André Schjøth, Synne Jenssen, Øyvind Schjerven, Ivar Hembre, Ruben Kobbeltvedt | fdd
 |2019-2020|**Andreas Amundsen**|Johan August Østbye, Christoffer Stensrud, Bjørn Spangelo, Joel Nicolaysen, Ingvild Løver Thon, Elise Stautland, Elise Telje, Per Håvard Skogli Holtet, André Schjøth, Synne Jenssen, Øyvind Schjerven|
 |2018-2019|**Andreas Aursand**|Andreas Amundsen, Bjørn Spangelo, Brede Yabo Kristiansen, Christoffer Stensrud, Claus Bugge, Edvard Mattias Bø, Håvard Hunshamar, Ingvild Løver Thon, Ingrid Asklund Larssen, Joel Nicolaysen, Johan August Østbye, Kaja Sofie Lundgaard, Sondre Wold, Tania Holst, Vilde Almestad|
 |2017-2018|**Henrik Munkeberg Liodden**|Thomas Wold, Christian Nyvoll, Andreas Aursand, Bjørn Spangelo, Brede Yabo Kristiansen, Claus Bugge, Edvard Mattias Bø, Håvard Hunshamar, Ingrid Asklund Larssen, Joel Nicolaysen, Kaja Sofie Lundgaard, Kristiane Alvarstein Westgård, Sondre Wold, Vilde Almestad|
