@@ -12,7 +12,7 @@ Komiteen består av følgende, stemmeberettigede, medlemmer:
 
 * Økonomiansvarlig for Online
 * Leder for komiteen
-* Nestleder
+* Vara
 * Økonomiansvarlige for kjernekomiteer
 * Økonomiansvarlige for nodekomiteer
 * Øvrige medlemmer
