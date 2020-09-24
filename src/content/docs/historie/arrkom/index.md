@@ -43,6 +43,7 @@ Underholdning på immballet
 
 Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen for arrangementskomiteen var nødt til å holde et underholdningsinnslag på immballet. Godtroende som han var; stod han med bursdagskrone på scenen og sang "Never gonna give you up" av Rick Astley. Siden da har det vært en tradisjon at lederen for arrkom er nødt til underholde på immballet. 
 
+* 2020 - **Erika Åsberg** danset til Queen sin sang "Don't stop me now" med Alis Wiken Wilson, Karen Dahl Aarhus, Eskil Hognestad og Sindre Langaard"   
 * 2019 - **Alis Wiken Wilson** danset til Gloria Gaynor sin sang "I Will Survive" med Erika Åsberg, Karen Dahl Aarhus, Eskil Hognestad og Anders Bergesen" 
 * 2018 - **Johannes Kvamme** danset til Stiffi sin sang "Respect" med Alis Wiken Wilson, Erika Åsberg, Eskil Hognestad og Eivind Solberg Rydningen" 
 * 2017 - **Edvard Gjessing Bakken** danset til Rick Astley sin sang "Never gonna give you up" med Heidi Brække, Miriam Lillebo og Anzhelika Seliverstova" 
