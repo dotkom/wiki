@@ -16,8 +16,6 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 ## 499 Godkjenning av innkalling
 
-## TODOs fra forrige møte
-
 ## 500 Status for komiteene (12.25 - 20 min)
 
 #### Arrkom, med jubkom:   
@@ -46,7 +44,7 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 #### Leder  
 
-## 496 Interkom (5 min)
+## 501 Interkom (5 min)
 
 ## Eventuelt
 
