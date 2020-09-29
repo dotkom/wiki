@@ -46,7 +46,9 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 ## 501 Interkom (5 min)
 
-## 502 - Ny kanal i online-slacken: "Bedrifter"
+## 502 - Hvilke kanaler skal vi profilere bedrifter i?
+Det har ved flere anledninger vært ønskelig å profilere bedrifter ut til vår studentmasse i flere kanaler enn vi gjør nå. Online er engasjert i mange forskjellige sosiale medier. Deriblant instagram. Bedkom ønsker egen platform på slack for å strømlinje denne informasjons flyten. Et forslag er beskrevet under med egen #bedrifter slack kanal:
+
 Bakgrunn: Vi får mange kule henvendelser som vi - per nå - ikke kan profilere ut til studentene våre.
 
 Eksempler: Hackathons arrangert av (og delvis for) bedrifter, Invitasjon til Deloittes seilbåt-tur, giveaways/promokoder osv
