@@ -4,7 +4,7 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 # HS møte 01/10-20  
 
-**Møtetidspunkt:** R8 14.00-16.00  
+**Møtetidspunkt:** R8 14.15-15.15  
 
 **Referering:**  
 
@@ -14,11 +14,11 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 **Tilstede:**
 
 
-## 488 Godkjenning av innkalling
+## 499 Godkjenning av innkalling
 
 ## TODOs fra forrige møte
 
-## 489 Status for komiteene (12.25 - 20 min)
+## 500 Status for komiteene (12.25 - 20 min)
 
 #### Arrkom, med jubkom:   
 
@@ -36,17 +36,15 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 #### Seniorkom:
 
-#### Økonomiansvarlig, med bankom:  
+#### Bankom
 
-##### Bankom:
+#### Økonomiansvarlig  
 
 #### Nestleder:
 
 ##### Online IL:  
 
 #### Leder  
-
-#### Straffeansvarlig  
 
 ## 496 Interkom (5 min)
 
