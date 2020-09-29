@@ -56,7 +56,7 @@ Kommentar: Kanalen er kun ment til det som IKKE passer på karrieresidene, mulig
 
 ## 503 - Opprettelse av jentekomite? (10min)
 [Diskusjonssak:  
-I dialog med fakultetet er det et ønske om å opprette egne jentekomiteer i linjeforeningene tilknyttet IE. Det er forhandlet frem mulighet til å gi økonomiske midler til oppstart]
+I dialog med fakultetet er det et ønske om å opprette egne jentekomiteer i linjeforeningene tilknyttet IE. Det er forhandlet frem mulighet til å gi økonomiske midler til oppstart. Jenteandelen på Informatikk er ca 27%. Tihlde opprettet dette i september. EMIL har hatt dette lenge, og kan bidra med erfaringer]
 
 
 ## Eventuelt
