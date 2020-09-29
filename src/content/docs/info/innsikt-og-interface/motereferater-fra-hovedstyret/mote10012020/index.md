@@ -8,8 +8,8 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 **Referering:**  
 
-1.
-2.    
+1. Kristoffer Nyvoll  
+2. Johanne Tronstad  
 
 **Tilstede:**
 
