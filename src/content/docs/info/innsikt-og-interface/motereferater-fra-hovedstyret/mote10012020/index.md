@@ -54,8 +54,9 @@ Forslag: Lage egen kanal i slack. Korktavla er ikke egnet for det meste som ang�
 
 Kommentar: Kanalen er kun ment til det som IKKE passer på karrieresidene, mulighetermail eller korktavla
 
-## Opprettelse av jentekomite? (10min)
-[I dialog med fakultetet er det et ønske om å opprette egne jentekomiteer i linjeforeningene tilknyttet IE. Det er forhandlet frem mulighet til å gi økonomiske midler til oppstart]
+## 503 - Opprettelse av jentekomite? (10min)
+[Diskusjonssak:  
+I dialog med fakultetet er det et ønske om å opprette egne jentekomiteer i linjeforeningene tilknyttet IE. Det er forhandlet frem mulighet til å gi økonomiske midler til oppstart]
 
 
 ## Eventuelt
