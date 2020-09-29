@@ -16,7 +16,7 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 ## 499 Godkjenning av innkalling
 
-## 500 Status for komiteene (12.25 - 20 min)
+## 500 Status for komiteene (14.20 - 20 min)
 
 #### Arrkom, med jubkom:   
 
