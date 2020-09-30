@@ -43,15 +43,15 @@ Underholdning på immballet
 
 Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen for arrangementskomiteen var nødt til å holde et underholdningsinnslag på immballet. Godtroende som han var; stod han med bursdagskrone på scenen og sang "Never gonna give you up" av Rick Astley. Siden da har det vært en tradisjon at lederen for arrkom er nødt til underholde på immballet. 
 
-* 2020 - **Erika Åsberg** danset til Queen sin sang "Don't stop me now" med Alis Wiken Wilson, Karen Dahl Aarhus, Eskil Hognestad og Sindre Langaard"   
-* 2019 - **Alis Wiken Wilson** danset til Gloria Gaynor sin sang "I Will Survive" med Erika Åsberg, Karen Dahl Aarhus, Eskil Hognestad og Anders Bergesen" 
-* 2018 - **Johannes Kvamme** danset til Stiffi sin sang "Respect" med Alis Wiken Wilson, Erika Åsberg, Eskil Hognestad og Eivind Solberg Rydningen" 
-* 2017 - **Edvard Gjessing Bakken** danset til Rick Astley sin sang "Never gonna give you up" med Heidi Brække, Miriam Lillebo og Anzhelika Seliverstova" 
-* 2016 - **Sander Arnesen** danset til backstreet boys sin sang "Everybody" med Kasper Kæboe Berg, Edvard Gjessing Bakken og Sondre Widmark.
+* 2020 - **Erika Åsberg** danset til Queen sin sang "Don't stop me now" med Alis Wiken Wilson, Karen Dahl Aarhus, Eskil Hognestad og Sindre Langaard.  
+* 2019 - **Alis Wiken Wilson** danset til Gloria Gaynor sin sang "I Will Survive" med Erika Åsberg, Karen Dahl Aarhus, Eskil Hognestad og Anders Bergesen.  
+* 2018 - **Johannes Kvamme** danset til Stiffi sin sang "Respect" med Alis Wiken Wilson, Erika Åsberg, Eskil Hognestad og Eivind Solberg Rydningen.  
+* 2017 - **Edvard Gjessing Bakken** danset til Rick Astley sin sang "Never gonna give you up" med Heidi Brække, Miriam Lillebo og Anzhelika Seliverstova.  
+* 2016 - **Sander Arnesen** danset til backstreet boys sin sang "Everybody" med Kasper Kæboe Berg, Edvard Gjessing Bakken og Sondre Widmark.  
 * 2015 - **Sondre Widmark** danser til det ukrainske bidraget til MGP i 2007: "Dancing Lasha Tumbai" med Leif, Ingrid, Didrik og Silje som backupdansere. Alle iført paljettkjoler og glitter.  
-* 2014 - **Marius Thingwall** danser "All the single ladies" sammen med backup-dansere Leif og Sondre, iført strømper og hotpants.
-* 2013 - **Marius Thingwall** synger pokemonsangen, akkompagnert av Ivar på djembe og Thor Håkon på Kazoo.
-* 2012 - **Martin Akre Midtsund** synger "never gonna give you up" av Rick Astley. (med bursdagskrone)
+* 2014 - **Marius Thingwall** danser "All the single ladies" sammen med backup-dansere Leif og Sondre, iført strømper og hotpants.  
+* 2013 - **Marius Thingwall** synger pokemonsangen, akkompagnert av Ivar på djembe og Thor Håkon på Kazoo.  
+* 2012 - **Martin Akre Midtsund** synger "never gonna give you up" av Rick Astley (med bursdagskrone).  
 
 
 ## Medlemmer
@@ -59,7 +59,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 (Tabellen er noe mangelfull) 
  
 * L - leder  
-* N - nestleder  
+* N - nestleder/vara  
 * HS - hovedstyrerepresentant
 * Ø - økonomiansvarlig  
 * P - promoteringsansvarlig
@@ -72,7 +72,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 |År   | Medlemmer |
 | --- | --------- |  
-|2020 - 2021| **Erika Åsberg(L)**,  Sindre Langaard(SM), Karen Dahl Aarhus(V), Milla Johanne Lund Weium(Ø), Eskil Hognestad (P), Svenn Grønbeck, Anders Bergesen, Alis Wiken Wilson, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Maiken Lie, Victoria Simensen, Helena Skants, William Andersson|
+|2020 - 2021| **Erika Åsberg(L)**,  Sindre Langaard(HS), Karen Dahl Aarhus(N), Milla Johanne Lund Weium(Ø), Eskil Hognestad (P), Svenn Grønbeck, Anders Bergesen, Alis Wiken Wilson, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Maiken Lie, Victoria Simensen, Helena Skants, William Andersson|
 |2019 - 2020| **Alis Wiken Wilson(L)**,  Erika Åsberg(N), Thomas Iversen Ramm(Ø), Eskil Hognestad, Svenn Grønbeck, Anders Bergesen, Marius Sjøberg, Karen Dahl Aarhus, Nicolai C. Michelet(P), Sindre Langaard, Milla Johanne Lund Weium, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Filip Skou(S)|
 |2018 - 2019| **Johannes Kvamme(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eskil Hognestad, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Alis Wilson, Karen Dahl Aarhus, Lars Strømholm, Kaspar Paus Græsdal(H)|
 |2017 - 2018| **Edvard Gjessing Bakken(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eirik Kaldahl, Edvard Sjøblom, Eskil Hognestad, Resotharan Kanagaratnam, Kasper Klæboe Berg, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Anzhelika Seliverstova, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Fride Vaagland(H)|
