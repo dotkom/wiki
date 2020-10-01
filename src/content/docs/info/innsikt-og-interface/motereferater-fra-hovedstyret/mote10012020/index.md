@@ -13,38 +13,111 @@ title: "Åpent Hovedstyremøte 01.oktober 2020"
 
 **Tilstede:**
 
+Mathias Fossum, Christoffer Stensrud, Luka Grujic, Kristoffer Nyvoll, Henrik Giil, Endre Ulberg, Monika Muzyk, Sigurd Oxaas Wie, Thomas Hasvold, Monika Luu, Andre Schjøth, Johanne Tronstad, Sindre Langaard, Jørgen Nummedal, Robin Sadun
+
 
 ## 499 Godkjenning av innkalling
+
+Alt godkjent!
 
 ## 500 Status for komiteene (14.20 - 20 min)
 
 #### Arrkom, med jubkom:   
+Liten break med arrangement akkurat nå. Til uka skjer følgende: Online poker, for å få med folk som ikke møter opp. Litt omrokkeringer, vil at det skal passe bedre. TaskForce for jubkom blesting. Heidi, Svenn og Eskil er på ballen - de var alle med på forrige jubileum så det er en stor fordel!
 
 #### Bedkom, med ITEX:
+Trenger ny økans, blir valgt neste uke.
+Tatt opp prikkregler for koroña, utleder satte retningslinjer. 
+Sett på pang-struktur, for å lette på arbeidsoppgaver til gamle medlemmer. 
+Hyttetur til helga!! 
 
-##### ITEX: 
 
 #### Dotkom:
+Fikser fortsatt OW. 404 når man skal gå til dataporten via OW. Må sende manuell søknad enn så lenge. Redwine er igangsatt. Planlegger hackathon. 
 
 #### Fagkom, med ekskom:
+
+Har hatt kurs med Knowit, Capgemini og Bekk. Mye action i det siste. Skal ha hyttetur helgen neste uke. Har også diskurtert prikkregler ifm korona. 
+
+
+Ekskom: 
+Ser på alternative turer (kultur i europa). I stedet for faglig innhold
  
 #### Prokom: 
+Brekkehelg på lørdag og søndag. Offline kommer ut snart. 
+Maskot er under utvikling. 
+
+Fått inn en del plakatbestillinger.
+Pass på å bestille riktig: banner vs plakat. 
+
+Angående CV-bilder: Har vært trøbbel med minnekortet, skal få ut CV'ene snart. 
 
 #### Trikom:
+Mer fokus på digitale arrangementer fremover. Typ spillkveld over discord. 
+Diskutert 12 pers grensen på kontoret. Skal ikke lenger være lov å dele ut merch, offline, kake osv. 
+Thea ser på dildo.
+
+Folk må være flinke til å si ifra hvis det er for mange. 
 
 #### Seniorkom:
+Tatt kontakt med Nicholas ifm promovideo. Han svarte ikke
+Hadde kickoff i går. Var mange ideer og rot, men det ble bra til slutt. Litt å gå på i gjennomføringen
 
+*Interressegrupper:*
+Podline får soundcloud pro.
+De som er glad i jul har fått godkjent budsjett
+
+
+Venter på bodtilgang for interessegrupper.
 #### Bankom
+Hadde arbeidskveld på søndag selv om mange var i hoddevik.
+intervju med ny økans i bedkom på tirsdag neste uke.  3 interessert
+Valg av leder, vara og tillitsvalgt 12. okt
+
+#### ITV
+Skal ta opp klager rundt datoer på eksamener. 
+Det skal være eksamener til eksamenslokalene. Mange som derfor er bekymret pga bussen på vei til og fra lokalet. 
+
+Si ifra hvis det er noe vi vil at de skal ta opp
 
 #### Økonomiansvarlig  
 
+Så og si ferdig med regnskapsføringen for vår 2020.
+Er i gang med å se på budsjetteringen for 2021. Alle kan be økanser i sine komiteeer om å se litt på det. 
+
 #### Nestleder:
+Ikke tilstede. 
 
 ##### Online IL:  
+Volleyball til uka. 
+Kickboxing i går.
 
 #### Leder  
 
+IE møte på mandag. Ble enige om at campus kan gradvis åpnes etter 20:00. Ønsket at Online oppretter en jentekomitè. 
+Snakket med Sebastian (FTV på IE), han har fått enda flere midler å dele ut. Skal deles med de 11 linjeforeningene under IE. Søknader under 5k vurderes fortløpende, så søk under 5k
+
+Excited er 5 år gammelt, skal inn i en ny evalueringsperiode. Mathias er med iden prosessen. Skal finne ut av dette: "Skal de få støtte til å fortsette de neste 5 årene også?"
+
 ## 501 Interkom (5 min)
+
+### Støtte fra SB1
+Til arrangement. 10k. Hovedsakelig interessegrupper og trikom.
+Snart frist for å søke støtte fra IE, frist om 2 uker. Kjøpe inn rekvisitta e.l. Det er lettere å få midler til (mtp budsjett)
+Man må legge ved budsjett for online i søknaden. Skal man da sende inn budjettet for LF
+
+SO: IE vil balansere hvor mye penger som går rundt (på en rettferdig måte). Ønsker derfor det åpne budsjettet til LF'ene, slik at de kan gi mer til de LF'ene som faktisk trenger det.
+
+Hvordan blir de fordelt?
+ - Trikom, seniorkom og Stensrud tar det videre
+
+
+### Koronatilfelle på NTNU
+Siv.ing i Matte 1 som fikk påvist smitte
+Sikkert møte med NTNU beredskap snart. Standby
+
+### Gullblekka
+Arrkom joiner prokom på denne. 
 
 ## 502 - Hvilke kanaler skal vi profilere bedrifter i?
 
@@ -57,11 +130,144 @@ Forslag: Lage egen kanal i slack. Korktavla er ikke egnet for det meste som ang�
 
 Kommentar: Kanalen er kun ment til det som IKKE passer på karrieresidene, mulighetermail eller korktavla. Ønsker ikke å øke frekvensen på Onlines facebookside, der er det nok action allerede. 
 
+Vil holde mest mulig bedriftrelatert unna IG og fb. 
+
+Hvor ofte? Annenhver uke. Kanskje mer om bedrifter blir kjent med at det er en mulighet. Skal ikke interfere med andre datoer.
+
+Fagkom enig i å ikke bruke korktavla. 
+
+Viktig å passe på at folk vet om den og at den blestes. 
+Seniorkom er på ballen her. 
+Kan sette kanalen som auto, slik at man blir med i den når man joiner Online-slacken.
+
+**Kristoffer tar den videre**
+
 ## 503 - Opprettelse av jentekomite? (10min)
 [Diskusjonssak:  
 I dialog med fakultetet er det et ønske om å opprette egne jentekomiteer i linjeforeningene tilknyttet IE. Det er forhandlet frem mulighet til å gi økonomiske midler til oppstart. Jenteandelen på Informatikk er ca 27%. Tihlde opprettet dette i september. EMIL har hatt dette lenge, og kan bidra med erfaringer]
 
+Har ikke tenkt tanken åpå dette før, men det har vært en fanesak for ntnu i lang tid. IE vil i så fall støtte oppstart. 
+Ønsker litt diskusjon rundt temaet
+
+Endre: Kommer dette fra IE? 
+Svar: Det kommer fra IE
+
+Endre: Kraftig imot. Hele grunnen til at folk syns det vvar positivt at han var med i ADA var at det ble "Fellesskapet jobber for kvinner" vs "Kvinner jobber for kvinner". nedprioritere ganske kraftig. 
+
+Sigurd: Imot av den grunn at det er ekskluderende å kun ta imot kvinner. Heller inkluderingskomite(?)
+
+Monika: Hvorfor mener de det er en god ide? Samhold? For få jenter?
+Begrunnelse: I siv.ing utdannelse så er vi redde for at jenter skal skli ut. Ønsker et initiativ fra vår side, som jobber mot det samme målet. 
+
+Sigurd: Har vi tallene på frafall (prosentandel) på kvinner vs menn? 
+Svar: nei, det har de ikke. 
+
+Endre: Kommentar til Mathias sitt innlegg. Dersom jentene på studiet uttrykker et sterkt ønske om en jentekomite eller ADA ønsker det så kan vi ta innlegget hans til ettertanke 
+
+Sindre: Vil dette overlappe med ADA?
+Endre: Det vil overlappe veldig med ett av de tre hovedfeltene til ADA
+
+Andre: Tror det er mange kvinner i LF som er aktive, men har ikke så mye data på det. Synes vi burde undersøke litt rundt det. 
+
+Sigurd: EMIL har mannekom på lik linje med kvinnekom.
+
+Giil: Hybrida har 40% jenter og jentekomite, men er ikke med i ADA. Hørt det funker veldig fint, arrkom har parallelle arrangementer for guttene. 
+SO: ADA har bare linjene på IE med under 35%, ikke de fra kalvskinnet.
+
+Andre: Kanskje det har en "splittende" effekt? Tror det personlig er bedre å ha samlet arrangementer slik at det blir en sterkere inkludering. 
+
+Henrik: Kan være en ide å tenke på de kvinnene som ikke allerede er aktive i Online. Det kan være lettere for dem å bli en aktiv del av online senere. 
+
+Endre: Kan i større grad stå innefor en komite som jobber for inkludering, som består av både gutter og jenter. Tror det oppleves som mer givende for alle involvert. 
+
+Sigurd: Kanskje ha inkluderingskomite som en nodekomite. 
+
+Mathias: Det viktigste for min del er at alle på studiet føler seg inkludert. Har inntrykket av at det allerede er tilfellet.
+Først undersøke om det er noe jentene vil.
+Tror at en slik komite vil være veldig avhengig av ildsjeler
 
 ## Eventuelt
 
+### Dotkoms hackathon
+
+9-11. oktober. Hele helgen.
+Ser ut som det kommer til å krasje med volleyball og poker.
+
+Kristoffer: appellerer til forskjellig publikum.
+
+Jørgen: høres ut som det er noe som kan kombineres med andre arrangementer. Folk går litt fra og til. 
+
+Sindre: bare pokerturnering på pokerstars. Krasjer ikke for arrkoms del. 
+
+
+Kjør på, null problem!
+
+### Forslag til budsjettendringer
+
+1. Bedkom 
+Vil ha surveymonkey. Kjører prøveperiode ut året. 359 kr i måneden. 
+Arrkom er gira på å være med. Fagkom backer.
+
+**Akklamert**
+
+2. Arrkom vil ha nye daljer
+Prisestimat: 5 000kr pluss porto for 100 daljer. 
+De har ingen gode daljer igjen, men er bare en post vi må gokjenne
+Ifm antall og pris: 950 kr for å få designet på en dalje
+
+Spørsmål: Det er fra trofe? Tar de engagangs provisjonskostnad? 
+
+Dårlig kvalitet - må klage om det skjer igjen. 
+
+**Akklamert.**
+
+3. Henrik sin dildo
+Blir rundt 1 000 ,-.
+Ser problemet med at det blir forbruksvare, den forrige varte under en måned. 
+Giil: Vil ha dildoetikette. Synderen er slenging i bakken. 
+Jørgen: folk er ikke gira på å endre type dildo, men mulig med bedre kvalitet
+Kristoffer: viktig å kunne få den i munnen
+Sindre: kan _ikke_ bli mindre
+
+Mathias: rart å bruke penger på en ny dildo når vi har en. 
+Jørgen: hele poenget er dildoflipping
+
+Luka: vil snekre ny sugekopp på den vi har. 
+
+Andre: lite koronavennlig. 
+
+Monika: kan ha på kondom først:-)
+
+Mathias: hvis trikom har penger igjen på kontorrekvisita posten kan de bruke pengene på det. 
+
+HS kjøper ikke dildo, men Trikom kan ta det videre. Dersom de har penger igjen i budsjettet kan de ta opp tråden på dette.
+
+### Dato for åpent budsjettmåte
+
+Uke 45. 5. november 14-16. 
+
+### Revurdert personsgrenser
+Abakus gått fra omtrent 15 opp til omtrent 25. 
+Begrunnelse: "Regjeringen har åpnet samfunnet litt opp igjen"
+Skal vi øke det?
+
+Det er vi som alene har satt den grensa. Vi har ikke fått noen krav. 
+
+Alle skal ha 1 meter i omkrets. 
+
+Tenker å øke til 15.
+
+### Legge ut arr for interessgrupper på OW
+F.eks hvis premline (på søndager) kan få disposisjon til å legge ut f.eks to ganger i semesteret. Det er ting som gjentar seg periodisk. Hvis folk møter opp på det, så får de også vite at det er noe som skjer ofte. 
+
+Positive til det, kan sikkert bidra til å skape mer blest rundt interessegruppene.  
+
+Mathias: kjør på. Rolig på kalenderen atm
+
+
+Skal også lage promovideo for interessegruppene.
 ## Gjøremål
+- Kristoffer: tar videre kanalen om bedrifter. 
+- Trikom, Seniorkom og Stensrud: snakke om fordeling av midler fra Sparebank1. 
+- Stensrud: Svare på budsjettendring til bedkom og arrkom
+- Stensrud: Svare henrik om dildo
