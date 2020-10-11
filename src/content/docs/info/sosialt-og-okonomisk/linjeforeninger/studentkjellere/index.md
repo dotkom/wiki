@@ -39,7 +39,7 @@ For øyeblikket er kjellerene fordelt slikt:
 |---|---|
 |5|Omega og Psykolosjen (Kielderen)|
 |10|Berg, Hybridia og Timini|
-|12|Delta, Spanskrøret, Volvox & Alkymisten og Online (Realfagskjelleren)|
+|12|Online, Volvox & Alkymisten, Delta og Spanskrøret(Realfagskjelleren)|
 |14|Abakus (Labamba)|
 |18|Nabla, HC og Janus (Kjellern)|
 |20|Emil og Smørekoppen|
