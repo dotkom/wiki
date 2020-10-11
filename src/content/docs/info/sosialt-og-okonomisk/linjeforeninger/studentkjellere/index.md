@@ -41,7 +41,7 @@ For øyeblikket er kjellerene fordelt slikt:
 |10|Berg, Hybridia og Timini|
 |12|Delta, Spanskrøret, Volvox & Alkymisten og Online (Realfagskjelleren)|
 |14|Abakus (Labamba)|
-|18|Nabla, HC og Janus|
+|18|Nabla, HC og Janus (Kjellern)|
 |20|Emil og Smørekoppen|
 |27|Dykkergruppen og NTNUI|
 |53|Dragvoll|
