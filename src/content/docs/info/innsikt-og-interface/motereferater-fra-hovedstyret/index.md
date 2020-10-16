@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2020-10-16](mote16102020] - Retningslinjer for corona, tilgange
 - [2020-10-09](mote10092020) - Kopper, Vivas og innovasjon
 - [2020-10-01](mote10012020) - Åpent Møte
 - [2020-09-24](mote24092020) - Siifra, Bankomledertilganger
