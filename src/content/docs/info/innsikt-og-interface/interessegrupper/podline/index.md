@@ -30,6 +30,14 @@ Ett og et halvt år uten Podline er ett og et halvt år for mye. Derfor tok vi o
 - Erika Åsberg
 - August Solvang
 
+Gangen skiftes ut, IGJEN
+------------------
+I et desperat forsøk etter å finne et annet sted å spille inn podden enn på pikerommet til Hanne kommer det en åpenbaring fra oven. Dragaluf huser et podkaststudio man kan leie HELT GRATIS. Nå blir det Podline med podkaststudio-quality på øret mandager i oddetallsuker. Gjør mandagene litt mindre blå, hør på Podline nå, badum tsss, mic drop booom.
+
+###### Den nye nye gjengen:
+- Hanne Brynildsrud
+- Emilie Lia-Rognli
+- August Solvang
 
 
 Du finner oss her:
