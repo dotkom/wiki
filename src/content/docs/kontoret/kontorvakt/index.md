@@ -1,5 +1,5 @@
 ---
-title: "Kontorvakt"
+title: "Kontorordning"
 ---
 
 # Oversikt over kontorordning
