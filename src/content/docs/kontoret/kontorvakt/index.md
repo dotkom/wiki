@@ -2,42 +2,64 @@
 title: "Kontorvakt"
 ---
 
-##Ansvar og oppgaver
+# Oversikt over kontorordning
 
-**Oppmøteplikt**
+## Generelt
 
-Som kontorvakt har man oppmøteplikt. Du har oppgaver og ansvar, det er derfor viktig at man er presis til vaktene sine; det er ikke akademisk kvarter på vaktene!
+### Hvordan gjøre oppgavene sine
 
-Har du ikke mulighet til å komme på en vakt må du finne noen å bytte med, og sende mail til [trikom](mailto:trikom@online.ntnu.no) med hvem og når du har byttet.
+1. Gjør oppgavene som gjelder for den dagen innen tidsrommet 12:00 - 16:00
+2. Før opp på liste enten på kontoret eller nettbasert løsning
 
-Dersom du ikke møter til kontorvakt risikerer du å få vinstraff, eller andre reprimander.
+### Straff
 
-****
-**Kaffeansvarlig**
+- Om det ikke er skrevet opp på listen innen kl. 16 så skal det føres en straff fra personene som var ansvarlig til komiteen man er parret opp med. 
+    - Dersom komitélederen ikke har satt opp hvem som skal gjøre arbeidet er det den som må ta straffen.
+    - En straff er her en vinstraff til en verdi av 100kr.
+- Komiteene har selv ansvar for å kommunisere med den andre komiteen om hvordan de vil gjøre det med når straffer skal bli betalt. 
+    - Det skal ikke sendes penger, man må kjøpe inn straffene og levere de personlig.
+- Dersom noen har ført opp at de har gjort oppgavene, men det tydelig ikke har blitt gjort skal dette dokumenteres og straffen vil bli doblet.
+    - Alle har et felles ansvar for å rapportere om noe ikke har blitt gjort.
+    - Ved straff man mener er feil kan dette klages på. Da kan det sendes inn mail til trikom@online.ntnu.no med dokumentasjon på at det har blitt gjort.
+- Dersom oppgavene er gjennomført, men det er ikke blitt skrevet opp vil det bli ført straff, men denne kan fjernes ved klage med dokumentasjon.
 
-Kontoret har alltid kaffe! Som kontorvakt skal man sørge for at kaffen er traktet så slitne onlinere kan komme inn og få seg en boost :)
+### Dokumentasjon
 
-Følg oppskriften på veggen bak kaffetrakteren, og husk å ta opp dryppstoppen!!
+- Gyldig dokumentasjon er i form av bilder av oppgaver som er gjort / ikke gjort
 
-Etter at kaffen er ferdigtraktet skal den tas med til kontoret, kaffekannen skal ikke stå ved vasken.
+## Komitépar
+
+| Komité 1 | Komité 2 |
+| -------- | -------- |
+| Bedkom   | Fagkom   |
+| Arrkom   | Dotkom   |
+| Appkom   | OIL      |
+| Trikom   | Prokom   |
+
+## Oppgaver
+
+| Mandag                                                       | Onsdag                                                       | Fredag                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Bytte papir i Toastjern                                      | Vaske mikrobølgovn                                           | Kaste utgått mat fra venstre kjøleskap                       |
+| Vaske bort gulvflekker om nødvendig                          | Vaske toastjern om nødvendig                                 | Gå over kaffekroken med klut                                 |
+| Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              |
+| Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         |
+| Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende |
 
 
-****
-**Kontoransvarlig**
 
-Som kontorvakt har man også ansvaret for kontoret. Dette innebærer å holde kontoret ryddig og presentabelt.
+## Kalender
 
-****
-Har du første kontorvakt for dagen er det din jobb å ta kopper og lignende ut av oppvaskmaskinen, og plassere de i skapet over kaffetrakteren. 
+| Ukenr        | Mandag          | Onsdag          | Fredag          |
+| ------------ | --------------- | --------------- | --------------- |
+| 42           | Bedkom          | Fagkom          | Arrkom          |
+| 43           | Dotkom          | Appkom          | OIL             |
+| 44           | Trikom          | Prokom          | Bedkom          |
+| 45           | Fagkom          | Arrkom          | Dotkom          |
+| 46           | Appkom          | OIL             | Trikom          |
+| 47 | Prokom| Eksamensperiode | Eksamensperiode |
 
-Har du siste kontorvakt for dagen blir det din jobb å sette på oppvaskmaskinen. Oppvaskpulver/tabletter skal ligge ved oppvaskmaskinen. Det er også din jobb å lukke døren til kontoret når du går, så lenge det ikke sitter noen andre der. Sitter det folk på kontoret trenger du ikke å lukke døren.
-****
 
-Om kontoret ikke er ryddig, faller dette ansvaret på kontorvakten. Ved endt kontorvakt skal det ikke finnes søppel, flasker, pappkopper eller lignende på kontoret. 
-
-- Rydding av kontoret betyr at man skal holde et lite øye med folk og si fra dersom de ikke rydder opp etter seg. Hvis noen nekter å rydde etter seg selv, send mail til kontorsjef@online.ntnu.no så tar kontorsjefen dette opp med vedkommende.
-- Kontorvakten er også ansvarlig for generell rengjøring på kontoret. Dette innebærer å vaske opp boller, bestikk og lignende som ligger igjen, og rengjøre microen om denne er skitten. Oppvaskmiddel og børste skal finnes ved vasken. 
-- Om gjenstander (inkludert microen) viser seg problematisk å holde rent, vil de bli fjernet.
 
 
 ##Praktisk informasjon
