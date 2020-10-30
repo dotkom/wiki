@@ -12,6 +12,7 @@ title: "Møte 30.10.2020"
 2.  Nyvoll
 
 *Tilstede:*  Johanne, Anhkha, Sindre, Marius, Øyvind, Stensrud, Nyvoll, Mathias, Thea, Giil
+
 *Straffer:*  
  
 ## TODOS fra forrige gang. 
