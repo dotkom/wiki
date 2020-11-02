@@ -34,7 +34,7 @@ Komiteen plikter å ha klart et regnskap for forrige regnskapsår, innen en mån
 Komiteen plikter å ha klart et budsjett for neste år, innen 1. desember. Budsjettet skal utarbeides i sammarbeid mellom alle komiteer og godkjennes av Hovedstyret. Det skal etterstrebes å holde en budsjettkveld hvor alle medlemmer av Online kan delta i diskusjoner rundt utformingen av neste års budsjett.
 
 #### (4) Sparing
-Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring.
+Det skal tilstrebes å årlig spare minimum 30 000,- kroner øremerket jubileumsfeiring.
 
 #### (5) Erfaringsoverføring
 Det skal ved hjelp av de erfarne i komiteen sørges for at nye medlemmer får den opplæringen de trenger.
