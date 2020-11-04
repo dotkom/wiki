@@ -61,6 +61,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Volvox & Alkymisten](http://volvox.no) (1961) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992357002) | Kjemi, Biologi, BioTek | Styrebånd (grønn med gullkant) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7594&desttype=poi) | Nukleotidende | [Page](http://fb.com/volvoxogalkymisten) | [Boksalg](http://fb.com/groups/462966773725320) |
 | [Fraktur](http://www.facebook.com/frakturno/) (2009) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993803367) | Radiograf | | [MTFS, Grupperom 5](https://use.mazemap.com/#v=1&left=10.3917226&right=10.3942717&top=63.4207009&bottom=63.4201401&zlevel=2&sharepoitype=poi&sharepoi=70828&campusid=3) | | [Page](http://www.facebook.com/frakturno/) | |
 | [TIHLDE](http://www.tihlde.org) (1993) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Digital Forretningsutvikling, Digital Infrastruktur og Cybersikkerhet, og Digital Samhandling | Styrebånd (blå med sølvkant) | [A3-116](https://use.mazemap.com/#v=1&zlevel=3&center=10.404638,63.415431&zoom=20.1&campusid=1&sharepoitype=poi&sharepoi=72902&utm_medium=longurl) | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/), [Group](https://www.facebook.com/groups/507122389791558/) | Tøddel
+| Antidot (2020) |  | Farmasi |  |  | antidot.ntnu@gmail.com | | 
 
 ## Masterforeninger
 
