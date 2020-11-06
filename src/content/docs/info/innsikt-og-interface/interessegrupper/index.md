@@ -33,21 +33,18 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 
 
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
-- [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
-- [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
-- [Comitato Di Pizza](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
 - [Questline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/questline/)
 - [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
-- [Maleklubben](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/maleklubben/)
 - [Interessegruppen for folk som er glad i jul](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/interessegruppen-folk-som-er-glad-i-jul/)
 - [Henrik](/wiki/online/info/innsikt-og-interface/interessegrupper/henrik/)
 
 
 ## Tidligere interessegrupper
 
+- [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Cachekom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/)
 - Kobkom - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
@@ -55,3 +52,6 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 - [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
 - [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 - [Quizline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/quizline/)
+- [Maleklubben](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/maleklubben/)
+- [Comitato Di Pizza](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
+- [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
