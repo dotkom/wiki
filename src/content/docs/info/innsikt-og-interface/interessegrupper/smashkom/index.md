@@ -13,12 +13,12 @@ Marius Holm Johansen - marius.johan.holm.johansen@online.ntnu.no
 
 ## Platformer
 
-### #smashkom (Slack)
+### Slack (#smashkom)
 Her legges det ut videoer av freshe moves og generelt smashprat.
 
 ### Smash Ranking System
 For øyeblikket ute av drift  
-Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret. Sesongen 19/20 startet 07. oktober 2019 og varer ut semesteret V20.
+Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret.
 
 ## Litt historie
 
