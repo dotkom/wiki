@@ -2,6 +2,8 @@
 title: "Henrik"
 ---
 
+Gruppen er ikke lenger aktiv.
+
 Henrik er interessegruppen som jobber for å fronte navnet Henrik, 
 kakebaking og glede! Selv om vi heter Henrik, så er du hjertelig velkommen uansett!
 
