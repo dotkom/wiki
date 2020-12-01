@@ -3,7 +3,7 @@ title: "Gullblekka"
 ---
 
 Velkommen til informasjonssiden for Gullblekka, prisutdelingen for
-linjeredaksjonene på Gløshaugen.  
+linjeredaksjonene på NTNU.  
 Her vil du finne oppdatert informasjon. Ta kontakt med komiteen om du
 har spørsmål eller tilbakemeldinger på gullblekka@online.ntnu.no.
 
@@ -29,7 +29,7 @@ gjøres på følgende måte:
 -   Legg fysisk utgave av det nummeret saken/bildet er i, i én
     konvolutt, sammen med et utfylt
     nominasjonsskjema(Nominasjonsskjema.doc. Et eksempel er fylt ut i
-    filen Eksempel\_på\_nominasjon.pdf). Om det er nominasjoner fra
+    filen Eksempel\_på\_nominasjon.pdf). Om det er nominasjoner fra
     ulike utgaver legger dere ved alle utgavene det gjelder. Merk
     konvolutten med “Gullblekka 2014” og redaksjonsnavn.
 
