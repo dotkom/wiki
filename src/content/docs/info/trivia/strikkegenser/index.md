@@ -22,7 +22,7 @@ F1: 650 (700) 750 (800) _#dette er veiledende_
 F2: 100 (100) 100 (100)  
 F3: 150 (150) 150 (200)  		 
 
-I utgangspunktet er oppskriften skrevet for garnet [Heilo](http://www.dalegarn.com/shop_yarn_detail.php?hId=76) fra Dalegarn. De har ikke gult, så man kan bruke [Falk](http://www.dalegarn.com/shop_yarn_detail.php?hId=75), som har samme strikkefasthet. I Trondheim selger de Dalegarn på City Garn (Tiller), Coop Obs City Syd, Coop Obs Lade og på Garnhuset i Fjordgata. Det bør også gå fint å bruke Gjestals [Vestlandsgarn](http://www.gjestal.no/index.php?option=com_content&view=article&id=64&Itemid=69), dog blir genseren blir litt mindre i størrelsen så da bør du gå opp minst en størrelse avhengig av hvor tettsittende du ønsker å ha den. Fargene er gul 258, blå 206 og hvit 217. 
+I utgangspunktet er oppskriften skrevet for garnet [Heilo](http://www.dalegarn.com/shop_yarn_detail.php?hId=76) fra Dalegarn. De har ikke gult, så man kan bruke [Falk](http://www.dalegarn.com/shop_yarn_detail.php?hId=75), som har samme strikkefasthet. _(Merk! Heilo er tatt ut av produksjon, men Falk kan fint brukes på hele genseren)_ I Trondheim selger de Dalegarn på City Garn (Tiller), Coop Obs City Syd, Coop Obs Lade og på Garnhuset i Fjordgata. Det bør også gå fint å bruke Gjestals [Vestlandsgarn](http://www.gjestal.no/index.php?option=com_content&view=article&id=64&Itemid=69), dog blir genseren blir litt mindre i størrelsen så da bør du gå opp minst en størrelse avhengig av hvor tettsittende du ønsker å ha den. Fargene er gul 258, blå 206 og hvit 217. 
 
 ####**Pinner:**  
 Rundpinne og strømpepinne nr. 3 og nr. 3,5.
