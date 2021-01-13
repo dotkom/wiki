@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2021-01-13](mote-13012021) - Nytt år, RFK og genfors-workshop
 - [2020-11-06](mote-06112020) - Recap av året, budsjettmøte
 - [2020-10-30](mote30102020) - Budsjett, fadderkontrakt
 - [2020-10-23](mote23102020) - Bodretningslinjer, siifra,
