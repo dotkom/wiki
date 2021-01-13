@@ -45,7 +45,7 @@ title: "Dagsorden 2021"
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 17:10  | 17:25  | Godkjenning av regnskap 2019  |  |
+| 15 | 17:10  | 17:25  | Godkjenning av regnskap 2020  |  |
 | Total tid: | |15 min|
 
 
@@ -53,13 +53,6 @@ title: "Dagsorden 2021"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 |10| 17:25 ||Sak 1 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
-|5|||Sak 2 - Videreføre nedsettelsen av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
-|5|||Sak 3 - Hovedstyret fortsetter arbeidet etter forslaget "nedsettelse av arbeidsgruppe for undersøkelse av organisasjonsstruktur" (AUO)||
-|10|||Sak 4 - Fjerne kontorvakter (Silje Moksnes og Andreas Amundsen)||
-|10|||Sak 5 - Øke støtten til jubkom (Thomas Iversen Ramm)||
-|5|||Sak 6 - Overføre ekstra beløp til jubkom (Thomas Iversen Ramm)||
-|5|||Sak 7 - Overføre midler til Fondet (Kaja Sofie Lundgaard og Mathias Fossum)||
-|10|| 18:25|Sak 8 - Budsjettreglement (Aslak Hollund)  ||
 | Total tid: | |60 min|
 
 ## Pause 30 min med pizza
@@ -68,44 +61,7 @@ title: "Dagsorden 2021"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 |75|18:55||Forslag 1: Splittelse av det to-delte vervet (AUO)||
-|7|||Forslag 2: Godkjenning av lederkandidater||
-|5|||Pause||
-|10|||Forslag 3: Legge ned valgkom (Aslak Hollund)||
-|10|||Forslag 4: Fjerne restriksjon om at medlemmer fra Valgkom ikke kan stille til Hovedstyret i §3.6.1 (Peter Rydberg)||
-|5|||Forslag 5 (om 4 faller): Hindre smutthull i at medlemmer fra Valgkom kan stille §3.6.1 (Peter Rydberg)||
-|15|||Forslag 6: Overføre IT-ekskursjonens arbeidsoppgaver til bedriftskomiteen||
-|5|||Forslag 7: Reversere fjorårets endring i budsjettmakten||
-|2.5|||Forslag 8: Organisasjonens navn (Aslak Hollund)||
-|2.5|||Forslag 9: Kutte grupperinger fra §1 (Aslak Hollund)||
-|2.5|||Forslag 10: Passe på at nodekomiteer også rapporterer om de er underlagt hovedstyret. (Aslak Hollund)||
-|2.5|||Forslag 11: Fjerne dobbeltdefinering av rettigheter (Aslak Hollund)||
-|2.5|||Forslag 12: Mistillit (Aslak Hollund)||
-|2.5|||Forslag 13: Mistillit med mislighold (Aslak Hollund)||
-|2.5|||Forslag 14: Opprette §0 Definisjoner (Aslak Hollund)||
-|2.5|||Forslag 15: Oppdatere flertallsformer (Aslak Hollund)||
-|2.5|||Forslag 16: Oppdatere flertallsformer, blanke stemmer teller ikke (Aslak Hollund)||
-|2.5|||Forslag 17: Oppdatering av valgregelement (Aslak Hollund)||
-|2.5|||Forslag 18: Stryke overflødig del av §3 (Aslak Hollund)||
-|2.5|||Forslag 19: Flytte redaksjonell fullmakt (Aslak Hollund)||
-|2.5|||Forslag 20: Forslag til vedtektsendringer (Aslak Hollund)||
-|2.5|||Forslag 21: Flytte valg av valgkomité (Aslak Hollund)||
-|2.5|||Forslag 22: Organisering til konstituering (Aslak Hollund)||
-|2.5|||Forslag 23: Stryke overflødig linje i §3.4 (Aslak Hollund)||
-|2.5|||Forslag 24: Skrive om 3.4.1 (Aslak Hollund)||
-|2.5|||Forslag 25: Stryke overflødig tekst i §3.4.1 (Aslak Hollund)||
-|2.5|||Forslag 26: Innstillt til innehar (Aslak Hollund)||
-|2.5|||Forslag 27: Fjerne setning om at tellekorps skal sitte i salen (Aslak Hollund)||
-|2.5|||Forslag 28: Flytte medlemskapsparagraf (Aslak Hollund)||
-|2.5||22:02|Forslag 29: Legge til §X Andre styringsdokumenter (Aslak Hollund)||
 | Total tid: | |187 min|
-
-### Saksforslag del 2
-|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
-|---|---|---|---|---|
-|5|22:02||Sak 9 - Utbedre retningslinjer for nestleders ansvar i komiteen (Alternativ til AUO) (August Solvang)||
-|5|||Sak 10 - Endring av dagsorden for komitéledervalg (AUO)||
-|5||22:17|Sak 11 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)||
-| Total tid: | |15 min|
 
 ## Pause 5 min
 
@@ -146,12 +102,12 @@ title: "Dagsorden 2021"
 | 40 | 23:10 | | Valg av leder  |   |
 | 40 | |  | Valg av nestleder  |   |
 | 10 | |  | Valg av økonomiansvarlig  |   |
-| 10 | |  | Valg av leder av arrangementskomiteen  |  |
-| 10 | | | Valg av leder av bedriftskomiteen  |  |
-| 15 | |  | Valg av leder av drifts- og utviklingskomiteen  |   |
-| 25 | |  | Valg av leder av fag- og kurskomiteen  |  |
-| 10 | |  | Valg av leder av profil- og aviskomiteen  |   |
-| 10 | | | Valg av leder av trivselskomiteen  |   |
+| 10 | |  | Valg av styremedlem fra arrangementskomiteen  |  |
+| 10 | | | Valg av styremedlem fra bedriftskomiteen  |  |
+| 15 | |  | Valg av styremedlem fra drifts- og utviklingskomiteen  |   |
+| 25 | |  | Valg av styremedlem fra fag- og kurskomiteen  |  |
+| 10 | |  | Valg av styremedlem fra profil- og aviskomiteen  |   |
+| 10 | | | Valg av styremedlem fra trivselskomiteen  |   |
 | 15 | | 02:15 | Valg av valgkomite  |   |
 | Total tid: | |3 t 5 min|
 
