@@ -37,8 +37,9 @@ For øyeblikket er kjellerene fordelt slikt:
 
 |Nummer |Linjeforening(er)|
 |---|---|
+|1|Aarhønen (Aarhønekroa)|
 |5|Omega og Psykolosjen (Kielderen)|
-|10|Berg, Hybridia og Timini|
+|10|Berg, Hybridia og Timini |
 |12|Online, Volvox & Alkymisten, Delta og Spanskrøret (Realfagskjelleren)|
 |14|Abakus (Labamba)|
 |18|Nabla, HC og Janus (Kjellern)|
@@ -46,11 +47,6 @@ For øyeblikket er kjellerene fordelt slikt:
 |27|Dykkergruppen og NTNUI|
 |53|Dragvoll|
 
-*Moholt alle*
-
-|Nummer|Linjeforening(er)|
-|---|---|
-|10|Aarhønen|
 
 ## Berging
 
