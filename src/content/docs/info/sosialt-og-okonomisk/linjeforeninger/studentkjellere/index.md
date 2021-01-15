@@ -43,7 +43,7 @@ For øyeblikket er kjellerene fordelt slikt:
 |14|Abakus (Labamba)|
 |18|Nabla, HC og Janus (Kjellern)|
 |20|Emil og Smørekoppen|
-|27|Dykkergruppen og NTNUI|
+|27|Dykkergruppen og NTNUI (Dypet)|
 |53|Dragvoll|
 
 
