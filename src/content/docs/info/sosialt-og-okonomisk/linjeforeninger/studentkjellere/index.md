@@ -33,9 +33,8 @@ Flere av NTNUs linjeforeninger leier sosiale møteplasser av SiT på Moholt Stud
 
 For øyeblikket er kjellerene fordelt slikt:
 
-*Herman Kragsvei*
 
-|Nummer |Linjeforening(er)|
+|Herman Kragsvei|Linjeforening(er)|
 |---|---|
 |1|Aarhønen (Aarhønekroa)|
 |5|Omega og Psykolosjen (Kielderen)|
