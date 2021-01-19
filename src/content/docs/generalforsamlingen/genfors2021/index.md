@@ -29,21 +29,19 @@ Referat fra generalforsamlingen 2020 finner du her: [attachment:751]
 
 ## Informasjon
 
-Generalforsamlingen 2021 finner sted *kommer* i auditorium *kommer*. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen 2021 finner sted 1. mars. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 21/22 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
 Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen. Det vil si 15. februar 2021. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til økonomi- og vedtektskveld. Informasjon om dette kommer senere.
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Informasjon om dette kommer senere.
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2021/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
-Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. Det blir gratis pizza til alle som møter opp.
-
 Hva: Onlines generalforsamling  
-Dato: *kommer*  
-Klokken: *kommer* 
+Dato: 1.mars 
+Klokken: 16.30
 Sted: *kommer*
 
 Vel møtt!
