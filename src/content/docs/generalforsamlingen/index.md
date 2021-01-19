@@ -41,8 +41,7 @@ tvingende nødvendig.
 Dokumenter
 ----------
 
-- [Generalforsamlingen 2021]
-(/wiki/online/generalforsamlingen/genfors2021)
+- [Generalforsamlingen 2021](/wiki/online/generalforsamlingen/genfors2021)
 -   [Generalforsamlingen 2020](/wiki/online/generalforsamlingen/genfors2020)
 -   [Generalforsamlingen 2019](/wiki/online/generalforsamlingen/genfors2019)
 -   [Generalforsamlingen 2018](/wiki/online/generalforsamlingen/genfors2018)
