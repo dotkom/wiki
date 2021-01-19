@@ -11,16 +11,15 @@ title: "Generalforsamlingen 2021"
 * [2021 Kandidater](/wiki/online/generalforsamlingen/genfors2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Onlines vedtekter: *kommer*
-Onlines fonds vedtekter: *kommer*
-Referat 2020: [attachment:751]
-Referat 2021: *kommer*
+Onlines vedtekter:  
+Onlines fonds vedtekter:  
+Referat 2021:  
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [attachment:635]  
-Onlines fonds vedtekter finner du her: [attachment:637]  
-Referat fra generalforsamlingen 2020 finner du her: [attachment:751]
+Onlines vedtekter finner du her: [attachment:763]  
+Onlines fonds vedtekter finner du her: [attachment:764]  
+Referat fra generalforsamlingen 2020 finner du her: [attachment:762]
 
 ## Regnskap 2020 og budsjett 21
 
@@ -29,7 +28,7 @@ Referat fra generalforsamlingen 2020 finner du her: [attachment:751]
 
 ## Informasjon
 
-Generalforsamlingen 2021 finner sted 1. mars. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen 2021 finner sted 1. mars 16:30. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 21/22 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
@@ -40,9 +39,9 @@ Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på g
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2021/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Hva: Onlines generalforsamling  
-Dato: 1.mars 
-Klokken: 16.30
-Sted: *kommer*
+Dato: 1.mars  
+Klokken: 16:30  
+Sted: *Kommer*  
 
 Vel møtt!
 
