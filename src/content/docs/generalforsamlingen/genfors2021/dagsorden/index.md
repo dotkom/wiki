@@ -28,7 +28,7 @@ title: "Dagsorden 2021"
 | 0.5 | 16:40 | 16:41 | Godkjenning av talerett  | |
 | 0.5 | 16:41 | 16:41 | Godkjenning av stemmeberettigede  | |
 | 0.5 | 16:41 | 16:42 | Godkjenning av dagsorden  | |
-| 1 | 16:42 | 16:43 | Godkjenning av referat fra 11. mars 2019  | |
+| 1 | 16:42 | 16:43 | Godkjenning av referat fra 1. mars 2020  | |
 | 1 | 16:43 | 16:44 | Godkjenning av innkalling  | |
 | 1 | 16:44 | 16:45 | Godkjenning av saksliste  | |
 | 10 | 16:45 | 16:55 | Registrering i stemmesystem  | |
@@ -45,23 +45,23 @@ title: "Dagsorden 2021"
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 17:10  | 17:25  | Godkjenning av regnskap 2020  |  |
+| 15 | 17:10  | 17:25  | Godkjenning av regnskap 2021  |  |
 | Total tid: | |15 min|
 
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|10| 17:25 ||Sak 1 - Fullt medlemskap for relevante masterretninger (Hovedstyret)||
-| Total tid: | |60 min|
+|10| 17:25 ||Sak 1 - ||
+| Total tid: | ||
 
 ## Pause 30 min med pizza
 
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|75|18:55||Forslag 1: Splittelse av det to-delte vervet (AUO)||
-| Total tid: | |187 min|
+||||Forslag 1: ||
+| Total tid: | ||
 
 ## Pause 5 min
 
@@ -71,7 +71,7 @@ title: "Dagsorden 2021"
 
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|3|22:22|22:25|Årsberetning for fondet v/ Fondstyret||
+|3|||Årsberetning for fondet v/ Fondstyret||
 | Total tid: | | 3 min |
 
 ### Saksforslag for fondet
@@ -89,9 +89,9 @@ title: "Dagsorden 2021"
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10   |22:35 | | Valg av Onlinemedlem |  |
+| 10   | | | Valg av Onlinemedlem |  |
 | 10   ||| Valg av tidligere hovedstyremedlem |  |
-| 10   ||23:05| Valg av ridder|  |
+| 10   ||| Valg av ridder|  |
 | Total tid: | | 30 min |
 
 ## Pause 5 min
@@ -99,7 +99,7 @@ title: "Dagsorden 2021"
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 40 | 23:10 | | Valg av leder  |   |
+| 40 |  | | Valg av leder  |   |
 | 40 | |  | Valg av nestleder  |   |
 | 10 | |  | Valg av økonomiansvarlig  |   |
 | 10 | |  | Valg av styremedlem fra arrangementskomiteen  |  |
@@ -108,17 +108,28 @@ title: "Dagsorden 2021"
 | 25 | |  | Valg av styremedlem fra fag- og kurskomiteen  |  |
 | 10 | |  | Valg av styremedlem fra profil- og aviskomiteen  |   |
 | 10 | | | Valg av styremedlem fra trivselskomiteen  |   |
-| 15 | | 02:15 | Valg av valgkomite  |   |
+| 15 | | | Valg av valgkomite  |   |
 | Total tid: | |3 t 5 min|
+
+### Godkjenning av komitéledere
+|  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
+|---|---|---|---|---|
+| 2 | |  | Godkjenning av komitéleder fra arrangementskomiteen  |  |
+| 2 | | | Godkjenning av komitéleder fra bedriftskomiteen  |  |
+| 2 | |  | Godkjenning av komitéleder  fra drifts- og utviklingskomiteen  |   |
+| 2 | |  | Godkjenning av komitéleder  fra fag- og kurskomiteen  |  |
+| 2 | |  | Godkjenning av komitéleder  fra profil- og aviskomiteen  |   |
+| 2 | | | Godkjenning av komitéleder  fra trivselskomiteen  |   |
+| Total tid: | |12 min|
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 02:15 |02:20 | Evaluering av generalforsamling  |   |
+| 5 | | | Evaluering av generalforsamling  |   |
 | Total tid: | |5 min|
 
 ### Medaljeutdeling og bilde
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | 02:20| 02:25 | Medaljeutdeling og bilde  |   |
+| 5 | | | Medaljeutdeling og bilde  |   |
 | Total tid: | |5 min|
