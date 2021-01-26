@@ -21,9 +21,9 @@ Onlines vedtekter finner du her: [attachment:763]
 Onlines fonds vedtekter finner du her: [attachment:764]  
 Referat fra generalforsamlingen 2020 finner du her: [attachment:762]
 
-## Regnskap 2020 og budsjett 21
+## Regnskap 2020 og budsjett 2021
 
-- Regnskap: *kommer*
+- Regnskap: *Kommer*
 - Budsjett: [Budsjett 2021](https://docs.google.com/spreadsheets/d/17VzmWpA4y5E_FNGJFiN2e72bc5p-zney5CrmmfWRiVM/edit?usp=sharing)
 
 ## Informasjon
