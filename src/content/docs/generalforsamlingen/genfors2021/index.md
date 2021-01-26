@@ -39,7 +39,7 @@ Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på g
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2021/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Hva: Onlines generalforsamling  
-Dato: 1.mars  
+Dato: 1. mars  
 Klokken: 16:30  
 Sted: *Kommer*  
 
