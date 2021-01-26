@@ -248,7 +248,7 @@ kaffedrikking.
 
 ### [2019/2020](/wiki/online/historie/om/p1920)
 
-### [2019/2020](/wiki/online/historie/om/p2021)
+### [2020/2021](/wiki/online/historie/om/p2021)
 
 ## Hovedstyrer
 
