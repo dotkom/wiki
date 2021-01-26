@@ -18,7 +18,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder:* 
+* *Leder:* Thea Karin Fladby
 * *Nestleder:* 
 * *Økonomiansvarlig:* 
 * *Styremedlem fra arrkom:* 
