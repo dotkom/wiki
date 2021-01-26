@@ -13,6 +13,8 @@ God lesing!
 
 Redaktører:
 
+- 2020-2021: Henrik Giil Liisberg
+- 2019-2020: Elias B. Vågan
 - 2018-2019: Anniken Syvertsen
 - 2017-2018: Andrea Bach
 - 2016-2017: Vebjørn Sletta
