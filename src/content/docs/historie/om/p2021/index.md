@@ -6,3 +6,4 @@ title: "Perioden 2020 - 2021"
 - Bachelor i informatikk får 30(?) flere studieplasser
 - Online slår ny rekord i antall komité-søknader!
 - Til tross for omstendighetene blir 48 (?) bedriftsarrangementer avholdt, der ?? er digitale
+- Trikom innfører ny kontorvakt-ordning
