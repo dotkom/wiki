@@ -3,6 +3,7 @@ title: "Perioden 2019 - 2020"
 ---
 
 - Aslak Hollund, Endre Ulberg og Martin Bjerke blir utnevnt til riddere på immatrikuleringsball.
+- Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur (AUO) opprettes.
 - SoMe-gruppe blir opprettet for å øke Onlines tilstedeværelse på sosiale medier. 
 - UKE-toget blir en stor suksess! Online stilte med en svær, spinnende Planet Online som overraskende nok holdt seg sammen hele dagen.
 - NY LOGO! Online går inn i det nye tiåret med en ny, modernisert versjon av logoen sin.
