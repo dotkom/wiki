@@ -20,7 +20,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:* Thea Karin Fladby
 * *Nestleder:* 
-* *Økonomiansvarlig:* 
+* *Økonomiansvarlig:* Milla Weium
 * *Styremedlem fra arrkom:* 
 * *Styremedlem fra bedkom:* 
 * *Styremedlem fra dotkom:* 
