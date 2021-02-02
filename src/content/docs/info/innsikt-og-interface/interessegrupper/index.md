@@ -34,6 +34,7 @@ For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velg
 
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
+- [Onski](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/onski/)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
 - [GratIste](wiki:graiste)
 - [Questline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/questline/)
