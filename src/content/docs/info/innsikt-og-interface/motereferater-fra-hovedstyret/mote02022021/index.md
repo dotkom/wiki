@@ -1,0 +1,182 @@
+---
+title: "HS møte 02/02-2021"
+---
+
+# HS møte 02/02-21  
+
+*Møtetidspunkt:* Zoom, kl 11:15 - 13:00
+
+*Referering:*  
+1. Kristoffer  
+2. Monika  
+
+*Tilstede:*  
+Kristoffer, Monika, Henrik, Johanne, Mathias, Sindre, Stensrud, Benedicte, Thea, Øyvind
+
+*Ikke tilstede:*
+Marius (kunne ikke komme)
+
+*Straffer:*  
+ - 1x vinstraff til Mathias for sein møteinnkalling :))  
+ 
+## TODOS fra forrige gang. 
+- [ ] **Mathias:** Teipe boden (kjøpt teip da).  
+
+## 537 Godkjenning av innkalling  
+ - Vinstraff for for sen inkalling
+
+## 538 Status for komiteene (11.20 - 20 min)  
+#### Arrkom, med jubkom:  
+
+ - For det meste planlegging det går i. Hatt møte med abakus ang veldedighetsfest og X-fest (kanskje ha det ute?) 
+ - Prøver å få til opplegg som vi tenker å ha på Zoom. 
+ - Veldedighetsfesten blir dritnice. Koker litt fra abakus, det virket kjempebra.
+ - Hadde Teambuilding på søndag - aking. Det var artig! 
+
+#### Bedkom, med ITEX:   
+
+ - To bedpresser forrige uke. Har tatt en god diskusjon på hvordan vi skal forholde oss til åpnehert rundt servering. Har opplevd at veldig mange melder seg av når de ser at det ikke blir servert mat, men det er bedre enn at folk blir skuffet fordi forventning ikke matcher utfall.
+ - Har tatt noen runder på hvilke porosjekter vi ønsker å jobbe med fremover - mange gode ideer her. 
+ - Begynt smått med bookingrunden og skal prøve å få til mer sosialt 
+
+#### Dotkom:
+
+ - Ikke så mye nytt. Johannes kjører OWF-opplæring med Carl, siden han slutter til sommeren.
+ - Redwine-prosjektet fortsetter, backenden lever
+ - Snakket med appkom, de ville jobbe med å designe systemet vi har. Venter litt med det, viktig at folk lærer seg/ setter seg inn i den eksisterende kodebasen.
+
+
+#### Fagkom, med ekskom:  
+
+ - Mye av det samme. Brukt litt tid på å planlegge egne kurs, (git-kurs og jobbsøkerkurs på lang sikt)
+ - Folk forbereder seg på kursene de skal ha frmover
+ - Har snakket litt om genfors
+
+#### Prokom:  
+
+ - Skjer ikke så mye; offline, brekkhelg denne helgen, hatt sosialkveld(veldig hyggelig)
+ - Gullblekka er avlyst... 
+ - Ikke hensiktmessig å arrangere i år. Ikke fått pengestøtte, og situasjonen er fortsatt ikke god nok med korona. 
+
+#### Trikom  
+
+ - Planlegger å ha valentinsdag-arrangement, kino
+ - Ryktes gode premier til valentinsdagen ;)
+ - Prøver å bestille sofabord, men Ikea er litt vriene på levering. 
+ - Har fått lov av IDI å male Onlinelogoen på veggen!!!! (De var happy med at vi spurte.)
+ - Samarbeid mellom prokom og trikom på å male veggen  
+#### Seniorkom:  
+
+ - Marius ikke tilstede
+
+#### Bankom  
+
+ - Veldig godt i gang med revidering og regnskapsføring. Hadde arbeidsdag på søndag.
+ - Revidere abakus på torsdag
+
+#### Økonomiansvarlig  
+
+ - Regnskapet er så og si ferdig revidert.  
+ - Møte med tidligere jubkom-økans, for erfaringsoverføring
+
+#### Nestleder:  
+ - Lagt ut genfors, sendt mail om bildetakning. 
+ - Kai kan ta bilde av oss 
+ - Benny lager doodle og finner dato til bildetakning.
+ - Unni svarer ikke angående boddøra
+ - Prøver å leke med dataen fra spøreundersøkelsen  
+
+#### Online IL:  
+ - Ikke hatt møte ennå. 
+
+#### Leder  
+
+ - Hatt LL møte. EPVU er litt i tenkboksen mtp hva de skal gjøre i mars.
+ - Kan ha styremøte fysisk hvis ønskelig.
+ - Pratet med kollegiet - Ingeborg og Ingrid stiller som ordstyrere til genfors. Mathias og benny skal ha møte med dem før genfors. 
+
+## 539 Interkom (5 min) 
+
+##### Jubkom - hva skal bedkom/fagkom gjøre?
+ - Benny: Prøve å rekruttere noen fra bedkom (slik som velkom)
+ - Sist var det banner, HSP osv. Bra profileringsflate
+ - Mathias finner ut hvem som hadde ansvar for jubkom osv og sender nr til Kristoffer
+ - Øyvind: en av dagene var det er bedriftsarrangement (med sopra) Setter av en dag
+ - Foreslår å få avklart det tidlig, hadde passet bra å få tatt dette i bookingrunden, så vi slipper å ha en egen sponsorjakt på det her. 
+
+Kristoffer tar kontakt med en eller annen person som forhåpentligvis vet litt mer. 
+
+##### Veldedighetsfest
+
+ - Arrkom kommer til å trenge litt hjelp til å arrangere. Har sendt mail til dotkom ifm at det er et streaming-event. 
+ - Abakus hadde en egen side, med chat, auksjoner, stream, strechgoals osv. Hadde gjort det ganske mye kulere. 
+ - Dotkom har ikke tid til å sette opp noe selv, men kan jo høre om vi kan koke fra webkom
+ - Abakus hadde hørt med bedrifter om premier. "Hei, vi har et arrangement for vededighet, og lurte på om dere kan gi oss premier"
+ - Abakus sa også at de trengte mye folk. Hadde vært 10/10 om f.eks trikom kunne vært med. 
+     - Trikom er sikkert gjerne med, så send en mail og start tråden der!
+ - Delta hadde no liknende til innsamling til deres jubileum
+ - Effektiv Altruisme - høre med dem om de har noe å bidra med? Abakus nevnte dem også. benny bumper mailen
+ - Har mye støtte rent økonomisk (IDI og pæng fra sommefesten). 
+
+
+## 540 Genfors prep (11.45 - 10 min)
+Litt oppgaver til alle som må gjøres før genfors.
+
+- Erfaringsskriv
+    - Make it personal
+    - Hva skulle du ønske du visste da du begynte
+    - Frist: 1 uke før genfors. 
+    - Viktig med erfaringsskriv
+- Årsberetninger
+    - Kjører nok det på samme måte som i fjor
+    - Skriv alt som har skjedd - milepæler - i komiteen siden genfors 2020
+- Komitéledervalg
+    - Har såvidt nevnt det til komiteledere
+    - Skal velges før genfors og godkjennes på genfors. 
+    - Forsøk å velge innad i komiteen
+    - En person kan stille til både styre og leder
+    - Må ha styremedlemvalg før komiteledergodkjenning
+    - Benny skriver innlegg til komitelederne
+    - Komiteen har ansvar for dette. Komiteleder har hovedansvar, viktig at vi er på ballen her. 
+    - Seniorkom og bankom kan ha etter genfors.
+
+ 
+## 541 Gå gjennom komitéarbeidsundersøkelsen (10 min)
+Vi har fått inn masse svar på undersøkelsen, la oss gå gjennom og se om det er noe vi bør jobbe videre med.
+
+ - Har kommet inn en del svar
+ - Hva tenker vi om denne typen undersøkelser? 
+ - Gjenganger: Motivasjonen er det sosiale. Det kan være litt skremmende, ettersom det er vanskelig å få til sosiale ting nå for tiden. 
+     - Man mister det som er arrangert av Online, men det er fullt mulig å ha mye sosialt innad i komiteene. 
+ - Mange var fornøyde med opplæring innad i komiteene, men det var også mange gode forslag til forbedringer
+     - Bedkom praktiserer fullt fadderopplegg med onboaring osv
+     - Andre er mer avhengig av verdiskapning gjennom verktøy. Tar litt tid før folk er efktive i sin nye posisjon
+ - Savner mer teambuilding mellom komiteene - er umulig å få til på en god måte. Det er uansett noe å tenke på fremover! Det gapet mellom komiteer er nok enda større nå enn det var før. 
+ - Veldig mange som synes arbeidet er givende, og folk ofrer gjerne skoletid til å drive med verv. 
+ - "Utbrent" - her er det er signifikant del (26,8%) som har følt seg utbrent. Det er mange grader av "utbrenthet", men det er uansett et tall vi kanskje burde få ned. 
+ - Folk trives veldig godt!
+
+
+**Dette er noe man burde gjennomføre årlig fremover - dataen her kan bli verdifull over tid**
+
+## 542 Eventuelt  
+
+- Økonomi: Innafor om abakus reviderer regnskapet vårt 10 dager før genfors? De ville gjerne utsette det litt, siden de har genfors selv. 
+    - Helt innafor!
+ - Workshop på fredag: tar det digitalt.
+     - Prøver å få til at vi kan bestille foodora
+     - Brainstormingfase er viktig for å få i gang toppetasjen
+     - Ender opp med at vi har en del saker som vi skal stille oss bak til genfors. 
+ - Vinstraffer har vi en del av. Kanskje finne på noe snart, så vi får brukt det opp?
+ - Sosialt: Vi har lyst til å møtes snart
+     - Kan kombinere bildetakning i galla med noe sosialt
+
+
+## 543 Gjøremål
+ - Alle: Iverksett prosessen for komiteledervalg, del også det glade budskap om din rolle, vi trenger at flinke folk stiller på genfors 
+ - Alle: Skrive årsberetninger og erfaringsskriv
+ - Benny: Doodle til å finne ledig dato til bildetakning
+ - Benny: Dunk ut informasjon til komiteledere om ledervalg. Høre om de ønsker å lese opp årsberetninger på genfors
+ - Kristoffer: Ringe gammel leder/jubkom-mann (?) og finne ut av hva som trengs av bedriftsting til jubileum
+ - Sindre: Sende mail til trikom og høre om de vil være med på å arrangere veldedighestsfest. Høre med webkom om vi kan få gjenbruke nettsiden deres til vårt arrangement
+ - Sindre: Ta kontakt med Effektiv altruisme-gjengen og høre om de er interessert i å bidra på arrangementet.
