@@ -13,21 +13,14 @@ Kravene som stilles er at det skal være en gruppering som åpner for at alle On
 Du kan søke om økonomisk støtte til din interessegruppe ved å sende en mail til seniorkom@online.ntnu.no. 
 I mailen ønskes det at det skrives [Pengesøknad][Navn på interessegruppe] _Hva det søkes støtte til_, i emnefeltet. For å få støtte må det sendes inn søknad på forhånd, altså før pengene skal brukes, og det må legges frem et budsjett over hvor mye som trengs og til hva. Opplys også om antallet medlemmer i interessegruppen/som vil dra nytte av støtten. Alkohol støttes ikke
 
-Seniorkom har i utgangspunktet 15.000kr å støtte interessegrupper med hvert semester. Det vil si at seniorkom tar en avgjørelse på hvorvidt det innvilges full eller delvis støtte. Andelen som støttes avhenger av hvor mange søknader som her kommet inn, altså hvor mye som er igjen av budsjettet, og hvor mange Onlinere som vil kunne dra nytte av støtten.
+Seniorkom har i utgangspunktet 10.000kr å støtte interessegrupper med hvert semester. Det vil si at seniorkom tar en avgjørelse på hvorvidt det innvilges full eller delvis støtte. Andelen som støttes avhenger av hvor mange søknader som her kommet inn, altså hvor mye som er igjen av budsjettet, og hvor mange Onlinere som vil kunne dra nytte av støtten.
 
-Støtten utbetales ved levert kvitteringsskjema som kan finnes her, etter innkjøp.
+Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.online.ntnu.no/ etter innkjøp.
 
-[attachment:344]
+- Ansvarlig enhet er seniorkom
+- Oppgi hvilken interessegruppe det er snakk om og hva innkjøpet gjelder.
+- Husk å ta vare på alle kvitteringer. Bruk gjerne en scanner-app som CamScanner eller scanning-funksjonen til Google Drive. Kvitteringen skal være leselig.
 
-- Alle de hvite rutene fylles ut (Bankkort er kun om du har brukt et av Online sine kort)
-- Fyll inn seniorkom i komite-feltet
-- Alle kvitteringer må legges med (helst i en og samme PDF-fil) 
-- Signaturen nederst må være synlig
-- Sendes på epost til [kvittering@online.ntnu.no](mailto:kvittering@online.ntnu.no) med [seniorkom][gruppenavn] i emnefeltet (Eks: [seniorkom][ontap] Kvittering for ingredienser)
-
-Vi setter veldig stor pris på synlige kvitteringer, enten skannet med en dedikert skanner, eller skanner-apper til telefon (f.eks. [CamScanner](https://www.camscanner.com/) eller [Genius Scan](https://www.thegrizzlylabs.com/genius-scan/), begge til både Android og iOS).
-
-For å få kvitteringinger i samme PDF-fil som skjemaet åpner du PDFen, og velger fra menylinjen: Rediger --> Sett inn --> Side fra fil
 
 ## Aktive interessegrupper
 
