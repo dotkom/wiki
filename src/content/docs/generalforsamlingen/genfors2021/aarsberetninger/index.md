@@ -25,6 +25,26 @@ title: "Årsberetninger 2021"
 
 ## Fag- og kurskomiteen
 
+Generellt
+* Tatt opp 7 nye medlemmer: 5 fra førsteklasse, 1 fra andreklasse og 1 fra fjerde klasse.
+* Fulgt opp ekskursjonskomiteen med bedkom
+* Har hatt teambuilding med bedkom og dotkom
+
+Høst 2020
+* Har arrangert 10 kurs i samarbeid med bedrifter, hvorav et har vært i samarbeid med Abakus
+* Har arrangert følgende ikke-bedriftskurs
+	* To frokostseminar: Jobbsøking og jobbintervju(denne med Bekk) 
+	* Kurs i Git i samarbeid med IDI
+	* Kurs i stressmestring med Sit
+* Har arrangert to eksamensforelesninger og en midtsemesterforelesning, i samarbeid med Abakus
+* Gjennomført bookingrunden i samarbeid med bedkom
+
+Vår 2021
+* Bookingrunden for bedriftsarrangementer neste semester skjer nå
+* Gjennomført 5 bedriftskurs, har 5 igjen(på genfors dato)
+* Planlegger å arrangere div. ikke-bedriftskurs med andre komiteer(mer info kommer fortløpende).
+* Planlegger midtsemesterkurs og eksamenskurs.
+
 ## Profil- og aviskomiteen
 
 ## Trivselskomiteen
