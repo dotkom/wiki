@@ -12,6 +12,7 @@ Søknader om støtte fra Onlinepotten skal sendes på mail til [hovedstyret@onli
 
 - **Emne**: [Onlinepotten] “eventuell enkel beskrivelse”  
 - **Formål:** Hva som er hensikten med workshopen/arbeidet (hva skal oppnås)
+- **Dato:** Dato for "workshop" eller arbeidsperioden
 - **Varighet:** Antatt varighet
 - **Hva:** Hva det søkes om støtte til (hva skal pengene brukes til)
 - **Sum:** Hvor mye penger det søkes om (veiledende sum er 100 kr per pers)
