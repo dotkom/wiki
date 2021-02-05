@@ -19,7 +19,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:* Thea Karin Fladby
-* *Nestleder:* 
+* *Nestleder:* André Schjøth
 * *Økonomiansvarlig:* Milla Weium
 * *Styremedlem fra arrkom:* 
 * *Styremedlem fra bedkom:* 
