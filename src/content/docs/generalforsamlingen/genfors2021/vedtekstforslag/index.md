@@ -24,4 +24,21 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ### Endringer
 
+## Forslag 01: Spesifisere paragraf om mistillit ytterligere
+
+### Bakgrunn
+Onlines paragraf rundt mistillit gir Hovedstyret veldig frie tøyler ved et potensielt mistillitsforslag. Paragrafen bør endres slik at partenes interesser blir ivaretatt i ytterligere grad enn i dag 
+
+### Endringer
+Dagens paragraf:
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hoved- styret, som skal behandle saken. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret, deretter skal den anklagede få en mulighet til å forsvare seg før Hovedstyret diskuterer og avgjør saken uten den anklagede til stede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+Endres til:
+
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. **Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagde har rett i innsyn i saksdokumentene i øyeblikket Hovedstyret mottar mistillitsforslaget**. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av **Leder av Online**, deretter skal den anklagede få en mulighet til å forsvare seg.**Den anklagde har rett til å ha en tillitsvalgt tilstede under sitt forsvar.** **Hovedstyret skal i sin avgjørelse basere seg på en konkret skjønnsmessig avveining mellom Onlines interesser veid opp mot den anklagdes interesser. Følgelig er spørsmålet, etter denne avveiningen av partenes behov, om det er rimelig og naturlig at vervene opphører. Hovedstyre skal i sin avveining komme frem til hvorvidt hensynet til organisasjonen eller den anklagdes interesser veier tyngst. Dersom organisasjonens interesser veier tyngre, skal mistillitsforslaget taes til følge.**  Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+
+
 # Forslag til Onlines fond's vedtekter
