@@ -24,10 +24,10 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ### Endringer
 
-## Forslag 01: Spesifisere paragraf om mistillit ytterligere
+## Forslag 01: Konkretisere mistillitsparagraf
 
 ### Bakgrunn
-Onlines paragraf rundt mistillit gir Hovedstyret veldig frie tøyler ved et potensielt mistillitsforslag. Paragrafen bør endres slik at partenes interesser blir ivaretatt i ytterligere grad enn i dag 
+Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, for mye handlingsrom. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
 
 ### Endringer
 Dagens paragraf:
