@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra dotkom:* 
 * *Styremedlem fra fagkom:* Mari Lehne 
 * *Styremedlem fra prokom:* 
-* *Styremedlem fra trikom:* 
+* *Styremedlem fra trikom:* Sarmi Ponnuthurai 
 
 **De som har meldt interesse til Fondstyret er:**
 
