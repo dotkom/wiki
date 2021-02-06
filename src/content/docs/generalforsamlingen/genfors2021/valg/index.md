@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra bedkom:* 
 * *Styremedlem fra dotkom:* 
 * *Styremedlem fra fagkom:* Mari Lehne 
-* *Styremedlem fra prokom:* Henrik Moe Wæhre
+* *Styremedlem fra prokom:* Henrik Moe Wæhre, Runar Johnsen
 * *Styremedlem fra trikom:* Sarmi Ponnuthurai 
 
 **De som har meldt interesse til Fondstyret er:**
