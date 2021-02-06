@@ -49,6 +49,45 @@ title: "Årsberetninger 2021"
 
 ## Trivselskomiteen
 
+### Arrangementer  
+
+#### Vår 2020
+- Valentinsdag på kontoret
+- Fredagspils (digitalt)
+- Drikk te og vær kreativ (digitalt)
+- Online Netflix Party (digitalt)
+
+#### Høst 2020
+- Breezermile
+- Perling på kontoret
+- Strikk og drikk
+- Halloween på kontoret
+- Juleverksted
+
+#### Vinter 2021
+- Valentinesquiz (digitalt)
+- Valentinsmemekonkurranse (digitalt)
+
+#### Fremover  
+- 17.mai-frokost (hvis restriksjonene letter)
+- Kino
+
+### Kontoret 
+- Kjøpt nytt arbeidsbord, sofabord, mikro og paninigrill
+- Innført nye varer i kiosken
+- Kjøpt nye spill til Switchen
+- Utviklet og testet ny kontorordning
+
+### Medlemmer 
+- Våren 2020: 14 medlemmer  
+- Nye: 7 (4 førsteklassinger, 2 andreklassinger og 1 tredjeklassing) 
+- Er nå 13 medlemmer
+
+### Annet 
+- Hovedstyret har tatt over ansvaret for boden i IT-vest
+- Engangskoppene skal i stor grad byttes ut med gjenbrukbare kopper fra Netlight
+- Jobbet med overgang fra plastbestikk til trebestikk man får kjøpt i kiosken. Har tidligere blitt kjøpt inn veldig mye plastbestikk som tar lang tid å få brukt opp
+
 ## Seniorkomiteen
 
 ## Applikasjonskomiteen
