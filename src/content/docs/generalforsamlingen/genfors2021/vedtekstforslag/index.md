@@ -43,8 +43,56 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 ## Forslag 2: Vedtektsfeste budsjettreglement
 Legge til: 
 6.3   
-Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.   
- 
+Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
+
+## Forslag x-y: AUO Bonanza (vet ikke helt med struktureringen her, gjerne fiks opp om det funker dårlig)
+
+### Bakgrunn for alle forslag
+Et av områdene AUO har sett på er hvordan ulike komiteer praktiserer rollefordeling med hensyn til de forskjellige rollene i Onlines vedtekter, blant disse Leder, Vara og Styremedlem. Noen komiteer bruker vara hovedsakelig som en slags nestleder-rolle, og andre komiteer brukte den som nettopp det, en vara, og ikke noe mer. Problemet oppstår med at en effektiv nestleder kun kan tituleres etter vara, som kan være misvisende for arbeidet de legger inn. I tillegg har den som eksklusivt yter rollen vara, kanskje ikke fullt så god innsikt og overblikk over komiteens arbeid sammenliknet med komitéleder. For eksterne er heller ikke betydningen av tittelen vara tydelig. De følgende forslagene er til for å sikre bedre arbeidsfordeling i komiteer, samt at stedsfortrederroller fylles etter komiteens beste evne.
+
+### Forslag 3: Komitéleder som stedsfortreder til styremedlem
+
+#### Bakgrunn
+Styremedlemmets stedfortreder vil med dette bli sittende komitéleder. Grunnlag for dette er at leder av en komité vil ofte være den med mest innsikt i komiteen. Dette gjør at de kan lettere kan fylle rollen som komiteens representant i HS. Samtidig som det ikke burde bidra til mye ekstra arbeid, ettersom vara historisk sett ikke behøver å steppe inn ofte. 
+
+#### Endringer
+§4.1.2 Fravær av Hovedstyremedlem
+
+Dersom en komité sitt styremedlem blir fraværende er det styremedlemmets vara som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom en vara ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Endres til:
+
+Dersom en komité sitt styremedlem blir fraværende er det komitéleder som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+### Forslag 4.1: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 3 går gjennom)
+
+#### Bakgrunn
+Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
+
+
+#### Endringer
+§4.1.2 Fravær av Hovedstyremedlem
+
+Dersom en komité sitt styremedlem blir fraværende er det komitéleder som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Endres til:
+
+Dersom en komité sitt styremedlem blir fraværende er det komitéleder som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter komiteen å fylle stillingen.
+
+### Forslag 4.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 3 ikke går gjennom)
+
+#### Bakgrunn
+Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
+
+
+#### Endringer
+§4.1.2 Fravær av Hovedstyremedlem
+
+Dersom en komité sitt styremedlem blir fraværende er det styremedlemmets vara som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom en vara ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Endres til:
+
+Dersom en komité sitt styremedlem blir fraværende er det styremedlemmets vara som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom en vara ikke er tilgjengelig plikter komiteen å fylle stillingen.
 
 
 # Forslag til Onlines fonds vedtekter
