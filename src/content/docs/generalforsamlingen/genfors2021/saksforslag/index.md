@@ -40,3 +40,9 @@ Online har i en lengre periode hatt store overskudd etter hvert regnskapsår. De
 
 ### Forslag
 Onlines fond begynner å bli stort, og midlene forvaltes ikke. Det er viktig å ha nok likviditet til daglig drift, men vi har mye mer på kontoene våres enn vi bruker. Forslaget er derfor å binde noe av formuen vår i eiendom. Forslaget åpner for et samarbeid mellom Bankom og HS, der Bankom undersøker det økonomiske, mens HS etablerer rammene for hva slags type eiendom som skal anskaffes.
+
+## Sak 03 - Opprettelse av gruppering for håndtering av varslingssaker (Si Ifra)
+### Bakgrunn
+Per i dag så har ikke Online dedikerte ressurser til å håndtere krevende situasjoner som oppstår mellom medlemmer av linjeforeningen. Det skjer alt fra små ubehagelige hendelser, til saker som er så alvorlige at folk ikke ønsker å møte på universitet, hverken for sosiale hendelser eller undervisning. På mandat fra Hovedstyret har vi blitt bedt om å se på mulige løsninger for å håndtere slike saker. Det er ansett å være i alle sin beste interesse at vi finner rettferdige og effektive måter å gjøre at alle føler seg trygge og ønsker å aktivt delta i felleskapet på studiet vårt.
+### Forslag
+Vi ønsker å opprette en ny dedikert gruppe som jobber med slike varslingssaker. Hovedstyret skal i samråd med Si Ifra fastslå de spesifikke retningslinjene og mandatet i løpet av våren.
