@@ -22,3 +22,13 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 
 ## Sak X - Sakstittel (Saksfremmer)
+
+## Sak 01 - Samkjøring nodekomitéopptak og suppleringsopptak (AUO)
+
+### Bakgrunn
+
+Tidligere har Online kjørt opptak for alle komiteer en gang hver høst, med supplementeringsopptak på forskjellige tider på våren. I tillegg har de fleste nodekomiteer (da spesielt for Velkom og Ekskom) kjørt sine opptak på forskjellige tidspunkter på våren. Dette skaper usikkerhet for de som er interessert i komitéarbeid, ettersom det ikke er visst på forhånd når man kan søke roller i disse. Å standardisere opptaksperioder, både for nodekomiteer og kjernekomiteers suppleringsopptak, vil forhåpentligvis gjøre det lettere å blæste for de og de som vil engasjere seg i Online har større sikkerhet på at de vil få en mulighet
+
+### Forslag
+
+Hvert år vil det bli gjennomført to opptak i Online, det vanlige høstopptaket, samt et våropptak der fokuset først og fremst vil være på nodekomiteer. Dette skal gjennomføres i en fastsatt periode i slutten av Januar/starten av Februar. I tillegg skal kjernekomiteer ha mulighet til å bli med på denne opptaksperioden, dersom komiteen ønsker å supplere.
