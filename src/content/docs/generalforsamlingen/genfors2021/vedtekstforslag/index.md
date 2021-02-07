@@ -96,7 +96,7 @@ Noen komiteer bruker vara hovedsakelig som en slags nestleder-rolle, og andre ko
 ### Endringer
 §4.2 Kjernekomiteer
 
-Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem og en vara. Komitéleder og styremedlem kan ha hver sin vara.
+Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem** og en vara. Komitéleder og styremedlem kan ha hver sin vara.**
 
 Endres til:
 
