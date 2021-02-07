@@ -47,4 +47,4 @@ Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres a
  
 
 
-# Forslag til Onlines fond's vedtekter
+# Forslag til Onlines fonds vedtekter
