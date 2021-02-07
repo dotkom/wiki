@@ -110,3 +110,19 @@ Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig.** Ved b
 
 
 # Forslag til Onlines fonds vedtekter
+
+
+### Bakgrunn
+Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene bare på konto. Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?)muligheten til å investere midlene i verdipapirer som har forventet avkastning høyere enn renten på plasseringskontoen.
+### Forslag
+
+Dagens:
+6.1 Fondets plassering
+Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
+separert fra den daglige driften av Online
+
+Endres til:
+
+6.1 Fondets plassering
+Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
+separert fra den daglige driften av Online. **Fondet har mulighet til å aktivt forvalte sin formue. Den aktive forvaltningen har som formål å slå avkastningen på en passiv bankkonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
