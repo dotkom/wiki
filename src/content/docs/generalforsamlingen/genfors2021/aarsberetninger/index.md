@@ -14,6 +14,9 @@ title: "Årsberetninger 2021"
 [TOC]
 
 ## Hovedstyret
+### Sosialt og kos
+- Stått faddervakt en kveld i fadderukene
+- Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
 ## Arrangementskomiteen  
 
