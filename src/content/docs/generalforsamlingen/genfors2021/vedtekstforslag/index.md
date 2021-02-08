@@ -24,7 +24,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ### Endringer
 
-## Forslag 3: Fjerne møte- og talerett for bankomleder  
+## Forslag 1: Fjerne møte- og talerett for bankomleder  
 (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 
@@ -41,7 +41,7 @@ Endres til:
 "Leder av Bank- og
 økonomikomiteen skal ikke være økonomiansvarlig for en annen komité."
 
-## Forslag 4.1: Styrerepresentasjon av seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 2.1: Styrerepresentasjon av seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
 
@@ -54,7 +54,7 @@ Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste t
 Legge til:  
 "• Styremedlem fra Seniorkomiteen"
 
-## Forslag 4.2: Fjerne møte- og talerett for seniorkom (fremmes dersom 4.1 faller)
+## Forslag 2.2: Fjerne møte- og talerett for seniorkom (fremmes dersom 4.1 faller)
 
 ### Bakgrunn
 Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene. Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
@@ -76,7 +76,7 @@ Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gik
 Fjerne:  
 "Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
 
-## Forslag 2.1: Godkjenne seniorkomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 3.1: Godkjenne seniorkomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
 Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
@@ -87,7 +87,7 @@ Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gik
 Fjernes:  
 "Seniorkomiteen velger og godkjenner selv sin leder." 
 
-## Forslag 2.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 3.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
                                                                                           
 ### Bakgrunn
 Dersom vedtektsforslag 2.1 faller, vil et annet alternativ være at seniorkomleder godkjennes av Hovedstyret. Seniorkom tar tradisjonelt opp mange nye medlemmer i etterkant av generalforsamlingen, og kan da ha behov for å ha ledervalg i etterkant også.
