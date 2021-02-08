@@ -171,6 +171,7 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 
 # Forslag til Onlines fonds vedtekter
 
+## Forslag 01 - Aktivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)
 
 ### Bakgrunn
 Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene bare på konto. Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?)muligheten til å investere midlene i verdipapirer som har forventet avkastning høyere enn renten på plasseringskontoen.
@@ -178,7 +179,7 @@ Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato 
 
 Dagens:
 6.1 Fondets plassering
-Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
+Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er
 separert fra den daglige driften av Online
 
 Endres til:
