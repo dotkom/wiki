@@ -9,11 +9,12 @@ Nåværende gjengmedlemmer
 - **Økonomiansvarlig:** Kaja Sofie Lundgaard (seniorkomøkans)  
 
 Medlemmer: 
- - Emilie Lia-Rognli
- - Mathias Fossum
- - Johan August Østbye
- - Thomas Iversen Ramm
- - Fredrik August Madsen Malmo
+
+- Emilie Lia-Rognli
+- Mathias Fossum
+- Johan August Østbye
+- Thomas Iversen Ramm
+- Fredrik August Madsen Malmo
 
 
 Send mail til onski@online.ntnu.no hvis du ønsker å bidra!
