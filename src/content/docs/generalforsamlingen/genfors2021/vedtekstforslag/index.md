@@ -196,10 +196,21 @@ Appkom var en nodekomite som eksisterte under dotkom, men ble lagt ned i 2017 pg
 
 "Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom."
 
-## Forslag 11: Omstrukturere nodekomiteer (Thea Karin Fladby og Sindre Langaard)
+## Forslag 11: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)
 
 ### Bakgrunn
+
+Nå er nodekomiteene underlagt en kjernekomite hvor tanken er at kjernekomiteen skal følge opp og representere nodekomiteen i hovedstyret. Nodekomiteene er i dag autonome og oppfølging av kjernekomité er ikke nødvendig. Vi foreslår å flytte nodekomiteene direkte under hovedstyret. Formålet med dette er å oppdatere organisasjonskartet slik at det representerer hvordan nodekomiteene fungerer i praksis.
+
 ### Endring
+
+§4.3 Nodekomiteer
+“En nodekomité er underlagt en av komiteene beskrevet i §4.2, eller direkte underlagt Hovedstyret, og plikter å holde den ansvarlige kjernekomiteen, eller Hovedstyret, løpende oppdatert på sitt virke.”
+
+Endres til:
+
+“En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.”
+
 
 # Forslag til Onlines fonds vedtekter
 
