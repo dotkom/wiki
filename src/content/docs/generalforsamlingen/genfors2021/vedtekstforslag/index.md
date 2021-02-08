@@ -204,7 +204,7 @@ Appkom var en nodekomite som eksisterte under dotkom, men ble lagt ned i 2017 pg
 
 "Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom."
 
-## Forslag 09: Omstrukturere nodekomiteer (Thea Karin Fladby og Sindre Langaard)
+## Forslag 11: Omstrukturere nodekomiteer (Thea Karin Fladby og Sindre Langaard)
 
 ### Bakgrunn
 ### Endring
