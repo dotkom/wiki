@@ -61,7 +61,9 @@ Endres til:
 "Leder av Seniorkomiteen godkjennes av Hovedstyret." 
 
 
-## Forslag 3: Bankomleders rolle i styret
+## Forslag 3: Bankomleders rolle i styret  
+(Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+
 
 ### Bakgrunn
 De siste to årene har Hovedstyret måttet ta stilling til hvilken rolle bankomleder skal ha i styret. Ettersom bankomleder har vedtektsfestet møte- og talerett, har bankomleder full adgang til å komme på hvert møte, og på mange måter fungere som et ekstra styremedlem. Hovedstyret har derfor hatt en diskusjon for hver nye bankomleder om hvorvidt denne personen skal få de samme tilgangene til mail, OW, og sensitive saker som styremedlemmene har. Det har vært prøvd ut både å gi full tilgang, og å gi ingen tilganger. Grunnen til at det nå fremmes vedtektsforslag er for å fastsette hva denne rollen skal innebære, både for forutsigbarhet, og for at styret ikke skal måtte ta en ny vurdering for hver nye leder.
