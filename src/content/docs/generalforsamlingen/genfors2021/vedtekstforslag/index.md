@@ -224,17 +224,9 @@ Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato 
 
 Dagens:
 6.1 Fondets plassering
-Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er
-                    ^
-Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
-                    ^^
-separert fra den daglige driften av Online
+Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er separert fra den daglige driften av Online
 
 Endres til:
 
 6.1 Fondets plassering
-Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er
-                    ^
-Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
-                    ^^
-separert fra den daglige driften av Online. **Fondet har mulighet til å passivt forvalte sin formue. Den passive forvaltningen har som formål å slå avkastningen på en plasseringskonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**separert fra den daglige driften av Online. **Fondet har mulighet til å aktivt forvalte sin formue. Den aktive forvaltningen har som formål å slå avkastningen på en passiv bankkonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
+Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er separert fra den daglige driften av Online. **Fondet har mulighet til å passivt forvalte sin formue. Den passive forvaltningen har som formål å slå avkastningen på en plasseringskonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**separert fra den daglige driften av Online. **Fondet har mulighet til å aktivt forvalte sin formue. Den aktive forvaltningen har som formål å slå avkastningen på en passiv bankkonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
