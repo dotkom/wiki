@@ -119,20 +119,6 @@ Endres til:
 
 Dersom komitéleder ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
-## Forslag 05.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
-
-### Bakgrunn
-Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
-
-### Endringer
-§4.1.2 Fravær av Hovedstyremedlem
-
-Dersom en vara ikke er tilgjengelig plikter **Hovedstyret** å fylle stillingen.
-
-Endres til:
-
-Dersom en vara ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
-
 ## Forslag 06: Nestleder som definert rolle v/ AUO
 
 ### Bakgrunn
