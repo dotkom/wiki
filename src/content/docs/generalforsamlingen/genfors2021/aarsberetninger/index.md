@@ -37,6 +37,7 @@ title: "Årsberetninger 2021"
 
 ### Høst 2020
 
+- Sartet opp Analytics - et prosjekt som skal innhente, bearbeide og fremstille data om Onlines bedriftsrelasjoner 
 - To bedkommere og en fagkommer dro til Oslo for å pitche Online til interessenter i næringslivet. Besøkte 8 bedrifter. 
 - Arrangert 9 bedriftspresentasjoner, hvorav 4 digitale
 - Arrangert 1 KID-arrangement
