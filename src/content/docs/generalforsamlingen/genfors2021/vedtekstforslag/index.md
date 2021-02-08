@@ -29,7 +29,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 
 ### Bakgrunn
-De siste to årene har Hovedstyret måttet ta stilling til hvilken rolle bankomleder skal ha i styret. Ettersom bankomleder har vedtektsfestet møte- og talerett, har bankomleder full adgang til å komme på hvert møte, og på mange måter fungere som et ekstra styremedlem. Hovedstyret har derfor hatt en diskusjon for hver nye bankomleder om hvorvidt denne personen skal få de samme tilgangene til mail, OW, og sensitive saker som styremedlemmene har. Det har vært prøvd ut både å gi full tilgang, og å gi ingen tilganger. Grunnen til at det nå fremmes vedtektsforslag er for å fastsette hva denne rollen skal innebære, både for forutsigbarhet, og for at styret ikke skal måtte ta en ny vurdering for hver nye leder.
+De siste to årene har Hovedstyret måttet ta stilling til hvilken rolle bankomleder skal ha i styret. Ettersom bankomleder har vedtektsfestet møte- og talerett, har bankomleder full adgang til å komme på hvert møte, og på mange måter fungere som et ekstra styremedlem. Ettersom dette gir bankom mulighet til å ha to stemmer i styret, og dermed får en større stemme i styret er dette problematisk. Bankom har i praksis mulighet til å velge en ekstra person til styret, som vil ha innsyn og påvirkningskraft i alle styresaker. Ved å fjerne møte- og taleretten tetter man igjen smutthullet, og gjør det ikke lenger mulig for bankomleder å sitte som styremedlem uten stemmerett.
 
 ### Endringer
 4.2.2 Bank- og økonomikomiteen
