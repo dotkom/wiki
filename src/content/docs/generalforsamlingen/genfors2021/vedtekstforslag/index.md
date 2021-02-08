@@ -47,7 +47,8 @@ Fjerne: "Seniorkomiteen velger og godkjenner selv sin leder."
 ## Forslag 2.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller)
 
 ### Bakgrunn
-Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
+Dersom vedtektsforslag 2 faller vil et annet alternativ være at seniorkomleder godkjennes av Hovedstyret. Seniorkom tar tradisjonelt opp mange nye medlemmer i etterkant av generalforsamlingen, og kan da ha behov for å ha ledervalg i etterkant også.
+
 
 ### Endringer
 4.2.8 Seniorkomiteen
