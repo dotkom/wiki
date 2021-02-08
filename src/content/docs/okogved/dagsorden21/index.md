@@ -21,3 +21,4 @@ title: "Dagsorden"
 | 10 | 19.40  | 19.50 | Pause  |  |
 | 15 | 19.50 | 20.05 | Vedtektsforslag: Mistillitsforslag ||
 | 20 | 19.50 | 20.05 | Vedtektsforslag: Aktiv forvaltning av fondet ||
+| 30 | 20.05 | 20.35 | Samkjøring nodekomitéopptak og suppleringsopptak ||
