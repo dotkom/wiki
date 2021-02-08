@@ -43,3 +43,24 @@ Vi ønsker å opprette en ny dedikert gruppe som jobber med slike varslingssaker
 
 **Bakgrunn**  
 Nå for tiden har vi vedtektene våres i latex. Hvorfor vet ingen. Ja, det ser bra ut, men det er ikke spesielt "Online". Jeg mener at vi burde fokusere på et format mer egnet for oss informatikere. Jeg foreslår markdown, men er åpent for andre forslag på vedtektskvelden. Målet mitt er i hovedsak at det skal være et format som Onlinere er godt vant med, som gjør det enkelt for nye å se på den faktiske vedtektsteksten og dermed gjør de mer tilgjengelige for medlemmene våres. Etter dette er bør vi prioritere å gjøre det enkelt å deploye vedtektene våre til en nettside igjennom en enkel CD løsning, og å gjøre det enkelt å bruke git når vi oppdaterer vedtektene. Jeg tenker vi greit løser dette med å gå over til markdown, og jobben med å konvertere fra latex -> markdown er relativt kjapp og grei.
+
+## Sak 04 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
+
+### Bakgrunn
+Ser i referatet til Abakus at dette gikk gjennom i deres forrige genfors, og synes det virker som en god ide. Vil ha input fra dere på vedtektskvelden, da det sikkert er ting vi har oversett. Løsningen er med andre ord kokt av Abakus hittil
+
+### Forslag
+Ved ordinær generalforsamling 2022 gis det mulighet til å benytte preferansevalg ved personvalg.
+Det skal publiseres i sakspapirene hvorvidt preferansevalg vil benyttes.
+
+### Begrunnelse
+Personvalg gjennomføres i dag ihht. Vedtektene § 5.6. Vi ønsker å gi muligheten til å benytte preferansevalg til personvalg ved ordinær generalforsamling i 2022.
+Fordeler inkluderer:
+
+- Denne løsningen er tidsbesparende dersom det er flere kandidater som stiller. 
+- Minst like trygt som "gamlemåten"  
+- Det vil ikke lukes bort flere "tapere", men heller utnevnes en enkelt "vinner", som kan virke mindre avskrekkende til eventuelle kandidater  
+
+Preferansevalg vil gjennomføres av typen enkel overførbar stemme (Single Transferable Vote). Ved STV har man mulighet til å rangere kandidatene og man stemmer kun én gang per votering. Stemmesystemet håndterer eliminering av kandidater og sikrer et resultat som er representativt, ved STV er det ikke nødvendig å stemme taktisk. I tillegg gjør STV det mulig å enkelt velge flere kandidater til samme stilling ved én votering, som kan vise seg å være nødvendig i kommende generalforsamlinger (f.eks når det skal velges to medlemmer til Fondstyret e.l.)  
+
+Dersom preferansevalg skal benyttes kreves det at dette er implementert i stemmesystemet vårt, og at det er tilstrekkelig testet i forkant av generalforsamlingen. Derfor skal det opplyses i sakspapirene for generalforsamlingen 2022 hvorvidt man skal benytte preferansevalg eller votering i henhold til § 5.6. Hovedstyret vil i samarbeid med dotkom avgjøre om implementasjonen er hensiktsmessig å benytte.
