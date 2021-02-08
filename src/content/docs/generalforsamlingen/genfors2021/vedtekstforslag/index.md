@@ -85,12 +85,12 @@ Legge til:
 
 
 
-## Forslag 2: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud)
+## Forslag 4: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud)
 Legge til: 
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
 
-## Forslag 03: Komitéleder som stedsfortreder til styremedlem v/ AUO
+## Forslag 05: Komitéleder som stedsfortreder til styremedlem v/ AUO
 
 ### Bakgrunn
 Når et medlem kun sitter på en vararolle, har ikke medlemmet nødvendigvis god innsikt og overblikk over komiteens pågående arbeid. Det kan gjøre det vanskelig å representere komiteen for hovedstyret. Styremedlemmets stedfortreder vil med denne endringen bli sittende komitéleder. Grunnlag for dette er at leder av en komité ofte vil være den med mest innsikt i komiteen. Dette gjør at de kan lettere kan fylle rollen som komiteens representant i HS. Samtidig som det ikke burde bidra til mye ekstra arbeid, ettersom vara historisk sett ikke behøver å steppe inn ofte. 
@@ -105,7 +105,7 @@ Endres til:
 
 Dersom en komité sitt styremedlem blir fraværende er det **komitéleder** som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom **komitéleder** ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
-## Forslag 04.1: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 går gjennom) v/AUO
+## Forslag 05.1: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 går gjennom) v/AUO
 
 ### Bakgrunn
 Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
@@ -119,7 +119,7 @@ Endres til:
 
 Dersom komitéleder ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
-## Forslag 04.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
+## Forslag 05.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
 
 ### Bakgrunn
 Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
@@ -133,7 +133,7 @@ Endres til:
 
 Dersom en vara ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
-## Forslag 05: Nestleder som definert rolle v/ AUO
+## Forslag 06: Nestleder som definert rolle v/ AUO
 
 ### Bakgrunn
 Noen komiteer bruker vara hovedsakelig som en slags nestleder-rolle, og andre komiteer brukte den som nettopp det, en vara, og ikke noe mer. Problemet oppstår med at en effektiv nestleder kun kan tituleres etter vara, som kan være misvisende for arbeidet de legger inn. I tillegg har den som eksklusivt yter rollen vara, kanskje ikke fullt så god innsikt og overblikk over komiteens arbeid sammenliknet med komitéleder. For eksterne er heller ikke betydningen av tittelen vara tydelig. Gjennom intervjuene vi hadde i høst avdekket vi at de fleste komiteer i realiteten bruker vara som nestleder samt at tittelen nestleder blir brukt internt i flere komiteer. 
