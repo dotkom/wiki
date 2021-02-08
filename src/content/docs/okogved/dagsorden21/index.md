@@ -28,5 +28,5 @@ title: "Dagsorden"
 | 10 | 20.50 | 21.00 | Pause  |  |
 | 10 | 21.00 | 21.10 | Vedtektsforslag 07: Konkretisere mistillitsparagraf   |  |
 | 15 | 21.10 | 21.25 | Vedtektsforslag 08: Gjeninnføre appkom som nodekomité  ||
-| 20 | 21.25 | 21.45 | Vedtektsforslag 09: Omstrukturere nodekomiteer ||
+| 20 | 21.25 | 21.45 | Vedtektsforslag 09: Omorganisering av nodekomiteer ||
 | 15 | 21.45 | 22.00 | Vedtektsforslag Fond 01: Passiv forvaltning av fondet ||
