@@ -31,7 +31,7 @@ title: "Årsberetninger 2021"
 - Revidert og fornyet kaffeavtale med Netlight, tar steg mot å bli mer miljøvennlig
 - Hatt teambuilding med fagkom
 - Sendt ut xx mulighetermail
-- Lagt ut xxx stillingsannonser
+- Lagt ut 123 stillingsannonser
 - Hatt kontakt med ca xxx bedrifter
 
 
