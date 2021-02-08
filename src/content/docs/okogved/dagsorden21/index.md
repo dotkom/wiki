@@ -20,7 +20,8 @@ title: "Dagsorden"
 | 30 | 19.10 | 19.40 | Vedtektsforslag: Endring av vararollen ||
 | 10 | 19.40  | 19.50 | Pause  |  |
 | 15 | 19.50 | 20.05 | Vedtektsforslag: Mistillitsforslag ||
-| 20 | 19.50 | 20.05 | Vedtektsforslag: Aktiv forvaltning av fondet ||
-| 30 | 20.05 | 20.35 | Sak 01 - Samkjøring nodekomitéopptak og suppleringsopptak ||
-| 20 | 20.35 | 20.55 | Sak 02 - Utrede mulighet om å plassere midler i eiendom ||
-| 10 | 20.55| 21.05 | Sak 03 - Opprettelse av gruppering for håndtering av varslingssaker ||
+| 20 | 19.50 | 20.10 | Vedtektsforslag: Aktiv forvaltning av fondet ||
+| 30 | 20.10 | 20.40 | Sak 01 - Samkjøring nodekomitéopptak og suppleringsopptak ||
+| 10 | 20.40 | 20.50 | Pause ||
+| 20 | 20.50 | 21.10 | Sak 02 - Utrede mulighet om å plassere midler i eiendom ||
+| 10 | 21.10| 21.20 | Sak 03 - Opprettelse av gruppering for håndtering av varslingssaker ||
