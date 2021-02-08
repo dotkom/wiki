@@ -24,7 +24,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ### Endringer
 
-## Forslag 1: Godkjenne bankomleder på Generalforsamlingen
+## Forslag 1: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
 Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Ser ingen grunn til at bankomleder skal unntas fra dette, da dette er en vel så viktig rolle som de andre komitélederrollene.
@@ -34,7 +34,7 @@ Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk
 
 Fjerne: "Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
 
-## Forslag 2.1: Godkjenne seniorkomleder på Generalforsamlingen
+## Forslag 2.1: Godkjenne seniorkomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
 Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
@@ -44,7 +44,7 @@ Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk
 
 Fjerne: "Seniorkomiteen velger og godkjenner selv sin leder." 
 
-## Forslag 2.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller)
+## Forslag 2.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
 Dersom vedtektsforslag 2 faller vil et annet alternativ være at seniorkomleder godkjennes av Hovedstyret. Seniorkom tar tradisjonelt opp mange nye medlemmer i etterkant av generalforsamlingen, og kan da ha behov for å ha ledervalg i etterkant også.
@@ -71,7 +71,7 @@ Endres til:
 "Leder av Bank- og
 økonomikomiteen skal ikke være økonomiansvarlig for en annen komité."
 
-## Forslag 3.1: Seniorkomleders rolle i styret
+## Forslag 3.1: Seniorkomleders rolle i styret (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
 Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkom har fått en tydeligere posisjon i linjeforeningen de siste årene, og har også vokst i medlemsantall. Det kan også være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
@@ -85,7 +85,7 @@ Legge til:
 
 
 
-## Forslag 2: Vedtektsfeste budsjettreglement
+## Forslag 2: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud)
 Legge til: 
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
