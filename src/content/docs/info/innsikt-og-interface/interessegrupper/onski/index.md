@@ -26,6 +26,7 @@ Retningslinjer
 ### §1 Onski's formål
 
 Vi skal få med Onlinere ut på ski, kose oss, være fysisk aktive og ha det hyggelig! 
+Onski etterstreber å arrangere en skitur i uka såfremt forholdene tillater det.
 
 ### §2 Bruk av midler
 
