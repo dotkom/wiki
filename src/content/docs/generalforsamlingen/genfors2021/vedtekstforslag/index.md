@@ -200,7 +200,7 @@ Appkom var en nodekomite som eksisterte under dotkom, men ble lagt ned i 2017 pg
 
 ### Bakgrunn
 
-Nå er nodekomiteene underlagt en kjernekomite hvor tanken er at kjernekomiteen skal følge opp og representere nodekomiteen i hovedstyret. Nodekomiteene er i dag autonome og oppfølging av kjernekomité er ikke nødvendig. Vi foreslår å flytte nodekomiteene direkte under hovedstyret. Formålet med dette er å oppdatere organisasjonskartet slik at det representerer hvordan nodekomiteene fungerer i praksis.
+I dag er de fleste nodekomiteene underlagt en kjernekomité hvor tanken er at kjernekomiteen skal følge opp og representere nodekomiteen i hovedstyret. Nodekomiteene har blitt svært autonome, og tett oppfølging av kjernekomité er ikke nødvendigvis den beste løsningen lenger. Vi foreslår å flytte nodekomiteene direkte under hovedstyret. Formålet med dette er å oppdatere organisasjonskartet slik at det representerer hvordan nodekomiteene fungerer i praksis. 
 
 ### Endring
 
