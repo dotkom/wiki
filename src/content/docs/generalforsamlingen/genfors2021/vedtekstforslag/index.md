@@ -80,7 +80,7 @@ Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste t
 
 4.1.1 Hovedstyrets sammensetning
 
-Legge til:
+Legge til:  
 "• Styremedlem fra Seniorkomiteen"
 
 
