@@ -25,23 +25,24 @@ title: "Årsberetninger 2021"
 ## Bedriftskomiteen
 ### Overordnet
 
-- Tatt opp 5 nye medlemmer, hvorav 4 førsteklassinger og 1 andreklassing. Er per genfors 16 medlemmer. 3 av disse er også med i seniorkomiteen. 
+- **Tatt opp 5 nye medlemmer, hvorav 4 førsteklassinger og 1 andreklassing. Er per genfors 16 medlemmer. 3 av disse er også med i seniorkomiteen.** 
 - Skaffet 2 generalsponsorer og 2 tittelsponsorer til fadderuka 2020 og avholdt bedriftspresentasjoner for generalsponsorne i samarbeid med velkom
 - Signerte avtaler med 16 bedrifter ifm Itex 2020. Turen ble senere avlyst
 - Revidert og fornyet kaffeavtale med Netlight, tar steg mot å bli mer miljøvennlig
 - Hatt teambuilding med fagkom
 - Sendt ut 4 mulighetermailer
-- Lagt ut 123 stillingsannonser
-- Hatt kontakt med ca 150 bedrifter
+- **Lagt ut 123 stillingsannonser**
+- **Hatt kontakt med ca 150 bedrifter**
 
 
 ### Høst 2020
 
-- Sartet opp Analytics - et prosjekt som skal innhente, bearbeide og fremstille data om Onlines bedriftsrelasjoner 
+- Startet opp Analytics - et prosjekt som skal innhente, bearbeide og fremstille data om Onlines bedriftsrelasjoner 
 - To bedkommere og en fagkommer dro til Oslo for å pitche Online til interessenter i næringslivet. Besøkte 8 bedrifter. 
-- Arrangert 9 bedriftspresentasjoner, hvorav 4 digitale
-- Arrangert 1 KID-arrangement
+- **Arrangert 9 bedriftspresentasjoner, hvorav 4 digitale**
+- **Arrangert 1 KID-arrangement**
 - Gjennomført bookingrunden i samarbeid med fagkom
+- Utviklet løsning for eldre ("pensjonerte") komitemedlemmer - en såkalt "Pang-stuktur"
 
 
 ### Vår 2021
