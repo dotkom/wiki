@@ -153,7 +153,7 @@ Alle kjernekomiteer består av minimum en leder**, nestleder** og en økonomians
 
 Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig.** Ved behov har komiteen også mulighet for å utnevne en nestleder. **Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
-## Forslag X: Konkretisere mistillitsparagraf
+## Forslag 06: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)
 
 ### Bakgrunn
 Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, for mye handlingsrom. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
