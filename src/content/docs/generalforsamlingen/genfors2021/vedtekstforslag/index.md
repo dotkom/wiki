@@ -45,7 +45,7 @@ Endres til:
 
 ### Bakgrunn
 
-Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkom har fått en tydeligere posisjon i linjeforeningen de siste årene, og har også vokst i medlemsantall. Det kan være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
+Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkomleder har også vært nyttig som en rådgiver for styret, da de ofte sitter på mye kunnskap om linjeforeningen. Det kan være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
                                                                                                                                                                                                                                                                                                                                                               
 ### Endringer
 
@@ -54,13 +54,22 @@ Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste t
 Legge til:  
 "• Styremedlem fra Seniorkomiteen"
 
+4.2.8 Seniorkomiteen
+
+Fjernes:  
+"Leder av Seniorkomiteen har møte- og talerett i
+Hovedstyret."
+
+
 ## Forslag 2.2: Fjerne møte- og talerett for seniorkom (fremmes dersom 4.1 faller)
 
 ### Bakgrunn
 Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene. Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
 
 ### Endringer
-4.2.8 Seniorkomiteen
+
+4.2.8 Seniorkomiteen  
+
 Fjernes:  
 "Leder av Seniorkomiteen har møte- og talerett i
 Hovedstyret."
