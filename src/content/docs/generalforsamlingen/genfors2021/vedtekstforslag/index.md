@@ -110,17 +110,12 @@ Fjernes:
 "Leder av Seniorkomiteen har møte- og talerett i
 Hovedstyret."
 
-
 ## Forslag 5: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)
-### Endringer
-
-
-## Forslag 6: Vedtektsfeste budsjettreglement
 Legge til: 
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
 
-## Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO
+## Forslag 6: Komitéleder som stedsfortreder til styremedlem v/ AUO
 
 ### Bakgrunn
 Når et medlem kun sitter på en vararolle, har ikke medlemmet nødvendigvis god innsikt og overblikk over komiteens pågående arbeid. Det kan gjøre det vanskelig å representere komiteen for hovedstyret. Styremedlemmets stedfortreder vil med denne endringen bli sittende komitéleder. Grunnlag for dette er at leder av en komité ofte vil være den med mest innsikt i komiteen. Dette gjør at de kan lettere kan fylle rollen som komiteens representant i HS. Samtidig som det ikke burde bidra til mye ekstra arbeid, ettersom vara historisk sett ikke behøver å steppe inn ofte. 
