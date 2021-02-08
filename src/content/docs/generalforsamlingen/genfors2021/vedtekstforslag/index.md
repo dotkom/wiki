@@ -24,43 +24,6 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ### Endringer
 
-## Forslag 1: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
-
-### Bakgrunn
-Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Dette bør også gjelde bankomleder, da dette er en vel så viktig rolle som de andre komitélederrollene.
-
-### Endringer
-4.2.2 Bank- og økonomikomiteen
-
-Fjerne:  
-"Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
-
-## Forslag 2.1: Godkjenne seniorkomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
-
-### Bakgrunn
-Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
-
-### Endringer
-4.2.8 Seniorkomiteen
-
-Fjernes:  
-"Seniorkomiteen velger og godkjenner selv sin leder." 
-
-## Forslag 2.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
-                                                                                          
-### Bakgrunn
-Dersom vedtektsforslag 2.1 faller, vil et annet alternativ være at seniorkomleder godkjennes av Hovedstyret. Seniorkom tar tradisjonelt opp mange nye medlemmer i etterkant av generalforsamlingen, og kan da ha behov for å ha ledervalg i etterkant også.
-
-
-### Endringer
-4.2.8 Seniorkomiteen
-
-"Seniorkomiteen velger og godkjenner selv sin leder"
-
-Endres til:  
-"Leder av Seniorkomiteen godkjennes av Hovedstyret." 
-
-
 ## Forslag 3: Fjerne møte- og talerett for bankomleder  
 (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
