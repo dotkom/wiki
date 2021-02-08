@@ -18,16 +18,15 @@ title: "Dagsorden"
 | 10 | 18.40 | 18.50 | Pause  |  |
 | 15 | 18.50 | 19.05 | Vedtektsforslag 2.2: Seniorkomleder godkjennes av Hovedstyret ||
 | 15 | 19.05 | 19.20 | Vedtektsforslag 3: Bankomleders rolle i styret ||
-| 15 | 19.20 | 19.35 | Pause |  |
-| 15 | 19.35 | 19.50 | Vedtektsforslag 3.1: Seniorkomleders rolle i styret ||
-| 10 | 19.50 | 20.00 | Pause  |  |
-| 15 | 20.00 | 20.15 | Vedtektsforslag 4: Vedtektsfeste budsjettreglement  ||
-| 15 | 20.15 | 20.30 | Vedtektsforslag 5: Komitéleder som stedsfortreder til styremedlem  ||
-| 10 | 20.30 | 20.40 | Vedtektsforslag 05.1: Komité pliktig å fylle stedsfortrederrolle  |  |
-| 10 | 20.40 | 20.50 | Vedtektsforslag 05.2: Komité pliktig å fylle stedsfortrederrolle  |  |
-| 10 | 20.50 | 21.00 | Vedtektsforslagforslag 06: Nestleder som definert rolle  |  |
-| 10 | 21.00 | 21.10 | Pause  |  |
-| 10 | 21.10 | 21.20 | Vedtektsforslag 07: Konkretisere mistillitsparagraf   |  |
-| 15 | 21.20 | 21.35 | Vedtektsforslag 08: Gjeninnføre appkom som nodekomité  ||
-| 15 | 21.35 | 21.50 | Vedtektsforslag: Omstrukturere nodekomiteer ||
-| 20 | 21.50 | 22.20 | Vedtektsforslag Fond 01: Passiv forvaltning av fondet ||
+| 15 | 19.20 | 19.35 | Vedtektsforslag 3.1: Seniorkomleders rolle i styret ||
+| 10 | 19.35 | 19.45 | Pause  |  |
+| 15 | 19.45 | 20.00 | Vedtektsforslag 4: Vedtektsfeste budsjettreglement  ||
+| 15 | 20.00 | 20.15 | Vedtektsforslag 5: Komitéleder som stedsfortreder til styremedlem  ||
+| 10 | 20.15 | 20.25 | Vedtektsforslag 05.1: Komité pliktig å fylle stedsfortrederrolle  |  |
+| 10 | 20.25 | 20.35 | Vedtektsforslag 05.2: Komité pliktig å fylle stedsfortrederrolle  |  |
+| 10 | 20.35 | 20.50 | Vedtektsforslagforslag 06: Nestleder som definert rolle  |  |
+| 10 | 20.50 | 21.00 | Pause  |  |
+| 10 | 21.00 | 21.10 | Vedtektsforslag 07: Konkretisere mistillitsparagraf   |  |
+| 15 | 21.10 | 21.25 | Vedtektsforslag 08: Gjeninnføre appkom som nodekomité  ||
+| 15 | 21.25 | 21.40 | Vedtektsforslag: Omstrukturere nodekomiteer ||
+| 20 | 21.40 | 22.00 | Vedtektsforslag Fond 01: Passiv forvaltning av fondet ||
