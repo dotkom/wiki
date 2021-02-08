@@ -27,27 +27,29 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 ## Forslag 1: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
-Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Ser ingen grunn til at bankomleder skal unntas fra dette, da dette er en vel så viktig rolle som de andre komitélederrollene.
+Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Dette bør også gjelde bankomleder, da dette er en vel så viktig rolle som de andre komitélederrollene.
 
 ### Endringer
 4.2.2 Bank- og økonomikomiteen
 
-Fjerne: "Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
+Fjerne:  
+"Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
 
 ## Forslag 2.1: Godkjenne seniorkomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
-Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
+Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
 
 ### Endringer
 4.2.8 Seniorkomiteen
 
-Fjerne: "Seniorkomiteen velger og godkjenner selv sin leder." 
+Fjernes:  
+"Seniorkomiteen velger og godkjenner selv sin leder." 
 
 ## Forslag 2.2: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
-
+                                                                                          
 ### Bakgrunn
-Dersom vedtektsforslag 2 faller vil et annet alternativ være at seniorkomleder godkjennes av Hovedstyret. Seniorkom tar tradisjonelt opp mange nye medlemmer i etterkant av generalforsamlingen, og kan da ha behov for å ha ledervalg i etterkant også.
+Dersom vedtektsforslag 2.1 faller, vil et annet alternativ være at seniorkomleder godkjennes av Hovedstyret. Seniorkom tar tradisjonelt opp mange nye medlemmer i etterkant av generalforsamlingen, og kan da ha behov for å ha ledervalg i etterkant også.
 
 
 ### Endringer
@@ -55,7 +57,9 @@ Dersom vedtektsforslag 2 faller vil et annet alternativ være at seniorkomleder 
 
 "Seniorkomiteen velger og godkjenner selv sin leder"
 
-Endres til: "Leder godkjennes av Hovedstyret." 
+Endres til:  
+"Leder av Seniorkomiteen godkjennes av Hovedstyret." 
+
 
 ## Forslag 3: Bankomleders rolle i styret
 
@@ -64,6 +68,7 @@ De siste to årene har Hovedstyret måttet ta stilling til hvilken rolle bankoml
 
 ### Endringer
 4.2.2 Bank- og økonomikomiteen
+
 "Leder av Bank- og
 økonomikomiteen har møte- og talerett i Hovedstyret og skal ikke være økonomiansvarlig for en annen komité."
 
@@ -71,11 +76,12 @@ Endres til:
 "Leder av Bank- og
 økonomikomiteen skal ikke være økonomiansvarlig for en annen komité."
 
-## Forslag 3.1: Seniorkomleders rolle i styret (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 4.1: Seniorkomleders rolle i styret (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 ### Bakgrunn
-Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkom har fått en tydeligere posisjon i linjeforeningen de siste årene, og har også vokst i medlemsantall. Det kan også være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
 
+Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkom har fått en tydeligere posisjon i linjeforeningen de siste årene, og har også vokst i medlemsantall. Det kan være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
+                                                                                                                                                                                                                                                                                                                                                              
 ### Endringer
 
 4.1.1 Hovedstyrets sammensetning
@@ -83,14 +89,36 @@ Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste t
 Legge til:  
 "• Styremedlem fra Seniorkomiteen"
 
+## Forslag 4.2: Ha en egen rådgivende rolle fra seniorkom i styret (fremmes dersom 4.1 faller)
+
+### Bakgrunn
+Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
+
+Legge til:
+  
+## Forslag 4.2.1: Fjerne seniorkomleders møte- og talerett(fremmes dersom 3.2 går gjennom)
+
+### Bakgrunn
+Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene.
+
+### Endringer
+
+4.2.8 Seniorkomiteen
+Fjernes:  
+"Leder av Seniorkomiteen har møte- og talerett i
+Hovedstyret."
 
 
-## Forslag 4: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)
+## Forslag 5: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)
+### Endringer
+
+
+## Forslag 6: Vedtektsfeste budsjettreglement
 Legge til: 
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
 
-## Forslag 05: Komitéleder som stedsfortreder til styremedlem v/ AUO
+## Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO
 
 ### Bakgrunn
 Når et medlem kun sitter på en vararolle, har ikke medlemmet nødvendigvis god innsikt og overblikk over komiteens pågående arbeid. Det kan gjøre det vanskelig å representere komiteen for hovedstyret. Styremedlemmets stedfortreder vil med denne endringen bli sittende komitéleder. Grunnlag for dette er at leder av en komité ofte vil være den med mest innsikt i komiteen. Dette gjør at de kan lettere kan fylle rollen som komiteens representant i HS. Samtidig som det ikke burde bidra til mye ekstra arbeid, ettersom vara historisk sett ikke behøver å steppe inn ofte. 
@@ -105,7 +133,7 @@ Endres til:
 
 Dersom en komité sitt styremedlem blir fraværende er det **komitéleder** som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom **komitéleder** ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
-## Forslag 05.1: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 går gjennom) v/AUO
+## Forslag 7.1: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 går gjennom) v/AUO
 
 ### Bakgrunn
 Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
@@ -119,7 +147,7 @@ Endres til:
 
 Dersom komitéleder ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
-## Forslag 05.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
+## Forslag 7.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
 
 ### Bakgrunn
 Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
@@ -133,7 +161,7 @@ Endres til:
 
 Dersom en vara ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
-## Forslag 06: Nestleder som definert rolle v/ AUO
+## Forslag 8: Nestleder som definert rolle v/ AUO
 
 ### Bakgrunn
 Noen komiteer bruker vara hovedsakelig som en slags nestleder-rolle, og andre komiteer brukte den som nettopp det, en vara, og ikke noe mer. Problemet oppstår med at en effektiv nestleder kun kan tituleres etter vara, som kan være misvisende for arbeidet de legger inn. I tillegg har den som eksklusivt yter rollen vara, kanskje ikke fullt så god innsikt og overblikk over komiteens arbeid sammenliknet med komitéleder. For eksterne er heller ikke betydningen av tittelen vara tydelig. Gjennom intervjuene vi hadde i høst avdekket vi at de fleste komiteer i realiteten bruker vara som nestleder samt at tittelen nestleder blir brukt internt i flere komiteer. 
@@ -153,7 +181,8 @@ Alle kjernekomiteer består av minimum en leder**, nestleder** og en økonomians
 
 Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig.** Ved behov har komiteen også mulighet for å utnevne en nestleder. **Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
-## Forslag 07: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)
+## Forslag 9: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)
+## Forslag X: Konkretisere mistillitsparagraf
 
 ### Bakgrunn
 Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, for mye handlingsrom. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
@@ -168,7 +197,7 @@ Endres til:
 
 Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. **Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagde har rett til innsyn i saksdokumentene i øyeblikket Hovedstyret mottar mistillitsforslaget**. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av **Leder av Online**, deretter skal den anklagede få en mulighet til å forsvare seg. **Den anklagde har rett til å ha en tillitsvalgt til stede under sitt forsvar.** **Hovedstyret skal i sin drøfting, uten anklagde til stede, basere seg på en konkret skjønnsmessig avveining mellom Onlines interesser veid opp mot den anklagdes interesser. Følgelig er spørsmålet, etter denne avveiningen av partenes behov, om det er rimelig og naturlig at vervene opphører. Hovedstyre skal i sin avveining komme frem til hvorvidt hensynet til organisasjonen eller den anklagdes interesser veier tyngst. Dersom organisasjonens interesser veier tyngre, skal mistillitsforslaget taes til følge.**  Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
-## Forslag 08: Gjeninnføre appkom som nodekomité under dotkom (Appkom)
+## Forslag 10: Gjeninnføre appkom som nodekomité under dotkom (Appkom)
 
 ### Bakgrunn
 Appkom var en nodekomite som eksisterte under dotkom, men ble lagt ned i 2017 pga. lavt engasjement. I 2020 var det engasjement for å starte opp appkom på nytt og det ble tatt opp 13 medlemmer. Siden engasjementet er tilbake, ønsker vi å sette appkom som en nodekomite inn under dotkom igjen. Dette fører til en større og bedre representasjon av medlemmene, det gjør det også lettere å søke om penger for budsjett.
@@ -194,10 +223,16 @@ Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato 
 Dagens:
 6.1 Fondets plassering
 Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er
+                    ^
+Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
+                    ^^
 separert fra den daglige driften av Online
 
 Endres til:
 
 6.1 Fondets plassering
 Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er
-separert fra den daglige driften av Online. **Fondet har mulighet til å passivt forvalte sin formue. Den passive forvaltningen har som formål å slå avkastningen på en plasseringskonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
+                    ^
+Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
+                    ^^
+separert fra den daglige driften av Online. **Fondet har mulighet til å passivt forvalte sin formue. Den passive forvaltningen har som formål å slå avkastningen på en plasseringskonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**separert fra den daglige driften av Online. **Fondet har mulighet til å aktivt forvalte sin formue. Den aktive forvaltningen har som formål å slå avkastningen på en passiv bankkonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
