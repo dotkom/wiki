@@ -33,15 +33,7 @@ Tidligere har Online kjørt opptak for alle komiteer en gang hver høst, med sup
 
 Hvert år vil det bli gjennomført to opptak i Online, det vanlige høstopptaket, samt et våropptak der fokuset først og fremst vil være på nodekomiteer. Dette skal gjennomføres i en fastsatt periode i slutten av Januar/starten av Februar. I tillegg skal kjernekomiteer ha mulighet til å bli med på denne opptaksperioden, dersom komiteen ønsker å supplere.
 
-## Sak 02 - Utrede mulighet om å plassere midler i eiendom (Mathias Fossum)
-
-### Bakgrunn
-Online har i en lengre periode hatt store overskudd etter hvert regnskapsår. Det er vanskelig å budsjettere med alle inntektene våres, og dermed er det vanskelig å sammenlikne budsjett og regnskap. Dermed kan det paradoksalt nok høres rart ut av HS avslår pengesøknader når "vi har så mye". 
-
-### Forslag
-Onlines fond begynner å bli stort, og midlene forvaltes ikke. Det er viktig å ha nok likviditet til daglig drift, men vi har mye mer på kontoene våres enn vi bruker. Forslaget er derfor å binde noe av formuen vår i eiendom. Forslaget åpner for et samarbeid mellom Bankom og HS, der Bankom undersøker det økonomiske, mens HS etablerer rammene for hva slags type eiendom som skal anskaffes.
-
-## Sak 03 - Opprettelse av gruppering for håndtering av varslingssaker (Si Ifra)
+## Sak 02 - Opprettelse av gruppering for håndtering av varslingssaker (Si Ifra)
 ### Bakgrunn
 Per i dag så har ikke Online dedikerte ressurser til å håndtere krevende situasjoner som oppstår mellom medlemmer av linjeforeningen. Det skjer alt fra små ubehagelige hendelser, til saker som er så alvorlige at folk ikke ønsker å møte på universitet, hverken for sosiale hendelser eller undervisning. På mandat fra Hovedstyret har vi blitt bedt om å se på mulige løsninger for å håndtere slike saker. Det er ansett å være i alle sin beste interesse at vi finner rettferdige og effektive måter å gjøre at alle føler seg trygge og ønsker å aktivt delta i felleskapet på studiet vårt.
 ### Forslag
