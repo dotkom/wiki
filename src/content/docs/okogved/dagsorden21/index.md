@@ -18,6 +18,7 @@ title: "Dagsorden"
 | 10 | 18.40 | 18.50 | Pause  |  |
 | 15 | 18.50 | 19.05 | Vedtektsforslag 2.2: Seniorkomleder godkjennes av Hovedstyret ||
 | 15 | 19.05 | 19.20 | Vedtektsforslag 3: Bankomleders rolle i styret ||
+| 15 | 19.20 | 19.35 | Pause |  |
 | 15 | 19.35 | 19.50 | Vedtektsforslag 3.1: Seniorkomleders rolle i styret ||
 | 10 | 19.50 | 20.00 | Pause  |  |
 | 15 | 20.00 | 20.15 | Vedtektsforslag 4: Vedtektsfeste budsjettreglement  ||
