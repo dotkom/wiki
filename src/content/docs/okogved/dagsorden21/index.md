@@ -21,4 +21,6 @@ title: "Dagsorden"
 | 10 | 19.40  | 19.50 | Pause  |  |
 | 15 | 19.50 | 20.05 | Vedtektsforslag: Mistillitsforslag ||
 | 20 | 19.50 | 20.05 | Vedtektsforslag: Aktiv forvaltning av fondet ||
-| 30 | 20.05 | 20.35 | Samkjøring nodekomitéopptak og suppleringsopptak ||
+| 30 | 20.05 | 20.35 | Sak 01 - Samkjøring nodekomitéopptak og suppleringsopptak ||
+| 20 | 20.35 | 20.55 | Sak 02 - Utrede mulighet om å plassere midler i eiendom ||
+| 10 | 20.55| 21.05 | Sak 03 - Opprettelse av gruppering for håndtering av varslingssaker ||
