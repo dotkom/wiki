@@ -117,7 +117,7 @@ Endres til:
 ## Forslag 5: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)
 **Bakgrunn**
 
-**Endring**  
+**Endringer**  
 Legge til: 
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
@@ -205,6 +205,7 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 **Bakgrunn**  
 Appkom var en nodekomite som eksisterte under dotkom, men ble lagt ned i 2017 pga. lavt engasjement. I 2020 var det engasjement for å starte opp appkom på nytt og det ble tatt opp 13 medlemmer. Siden engasjementet er tilbake, ønsker vi å sette appkom som en nodekomite inn under dotkom igjen. Dette fører til en større og bedre representasjon av medlemmene, det gjør det også lettere å søke om penger for budsjett.
 
+**Endringer**  
 Legge til:  
 §4.3.6 Applikasjonskomiteen
 
@@ -216,7 +217,7 @@ Legge til:
 
 I dag er de fleste nodekomiteene underlagt en kjernekomité hvor tanken er at kjernekomiteen skal følge opp og representere nodekomiteen i hovedstyret. Nodekomiteene har blitt svært autonome, og tett oppfølging av sin kjernekomité er ikke nødvendigvis lenger den beste løsningen. Vi foreslår å flytte nodekomiteene direkte under hovedstyret. Formålet med dette er å oppdatere organisasjonskartet slik at det representerer hvordan nodekomiteene fungerer i praksis. 
 
-**Endring**  
+**Endringer**  
 
 §4.3 Nodekomiteer
 
@@ -234,7 +235,7 @@ Endres til:
 **Bakgrunn**  
 Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene bare på konto. Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?)muligheten til å investere midlene i verdipapirer som har forventet avkastning høyere enn renten på plasseringskontoen.
 
-**Endring**  
+**Endringer**  
 
 Dagens:
 6.1 Fondets plassering
