@@ -6,10 +6,14 @@ Nåværende gjengmedlemmer
 ---------------------------------
 
 - **Leder:** Kristoffer Nyvoll
-- **Arrangører:**
 - **Økonomiansvarlig:** Kaja Sofie Lundgaard (seniorkomøkans)  
 
-Tidligere medlemmer: Undefined
+Medlemmer: 
+ - Emilie Lia-Rognli
+ - Mathias Fossum
+ - Johan August Østbye
+ - Thomas Iversen Ramm
+ - Fredrik August Madsen Malmo
 
 
 Send mail til onski@online.ntnu.no hvis du ønsker å bidra!
@@ -18,9 +22,14 @@ Send mail til onski@online.ntnu.no hvis du ønsker å bidra!
 Retningslinjer
 --------------
 
-### §1 Retningslinje 1
+### §1 Onski's formål
 
-Legg inn mer info her
+Vi skal få med Onlinere ut på ski, kose oss, være fysisk aktive og ha det hyggelig! 
+
+### §2 Bruk av midler
+
+Økonomiske midler som er bevilget interessegruppen kan utelukkende nytes på arrangementer som er informert om åpent og offentlig. #onski på slack skal benyttes til å annonsere turer.  
+
 
 
 Tidligere Arrangementer
