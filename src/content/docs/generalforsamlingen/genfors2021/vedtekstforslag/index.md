@@ -85,7 +85,7 @@ Legge til:
 
 
 
-## Forslag 4: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud)
+## Forslag 4: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)
 Legge til: 
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
