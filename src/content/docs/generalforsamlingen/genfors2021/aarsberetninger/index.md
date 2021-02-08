@@ -23,6 +23,30 @@ title: "Årsberetninger 2021"
 ## Bank- og økonomikomiteen
 
 ## Bedriftskomiteen
+### Overordnet
+
+- Tatt opp 5 nye medlemmer, hvorav 4 førsteklassinger og 1 andreklassing. Er per genfors 16 medlemmer. 3 av disse er også med i seniorkomiteen. 
+- Skaffet 2 generalsponsorer og 2 tittelsponsorer til fadderuka 2020 og avholdt bedriftspresentasjoner for generalsponsorne i samarbeid med velkom
+- Signerte avtaler med 16 bedrifter ifm Itex 2020. Turen ble senere avlyst
+- Revidert og fornyet kaffeavtale med Netlight, tar steg mot å bli mer miljøvennlig
+- Hatt teambuilding med fagkom
+- Sendt ut xx mulighetermail
+- Lagt ut xxx stillingsannonser
+- Hatt kontakt med ca xxx bedrifter
+
+
+### Høst 2020
+
+- To bedkommere og en fagkommer dro til Oslo for å pitche Online til interessenter i næringslivet. Besøkte 8 bedrifter. 
+- Arrangert 9 bedriftspresentasjoner, hvorav 4 digitale
+- Arrangert 1 KID-arrangement
+- Gjennomført bookingrunden i samarbeid med fagkom
+
+
+### Vår 2021
+
+- Avholdt 4 bedriftspresentasjoner, hvorav 3 digitalt
+- Planlegger å arrangere 6 bedriftspresentasjoner og 1 KID-arrangement ila våresemesteret
 
 ## Drifts- og utviklingskomiteen
 
