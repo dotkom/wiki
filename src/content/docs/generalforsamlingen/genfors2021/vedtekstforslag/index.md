@@ -119,6 +119,20 @@ Endres til:
 
 Dersom komitéleder ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
+## Forslag 05.2: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
+
+### Bakgrunn
+Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
+
+### Endringer
+§4.1.2 Fravær av Hovedstyremedlem
+
+Dersom en vara ikke er tilgjengelig plikter **Hovedstyret** å fylle stillingen.
+
+Endres til:
+
+Dersom en vara ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
+
 ## Forslag 06: Nestleder som definert rolle v/ AUO
 
 ### Bakgrunn
@@ -166,7 +180,7 @@ Appkom var en nodekomite som eksisterte under dotokm, men ble lagt ned i 2017 pg
 
 # Forslag til Onlines fonds vedtekter
 
-## Forslag 01 - Aktivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)
+## Forslag 01 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)
 
 ### Bakgrunn
 Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene bare på konto. Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?)muligheten til å investere midlene i verdipapirer som har forventet avkastning høyere enn renten på plasseringskontoen.
@@ -180,5 +194,5 @@ separert fra den daglige driften av Online
 Endres til:
 
 6.1 Fondets plassering
-Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er
-separert fra den daglige driften av Online. **Fondet har mulighet til å aktivt forvalte sin formue. Den aktive forvaltningen har som formål å slå avkastningen på en passiv bankkonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
+Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er
+separert fra den daglige driften av Online. **Fondet har mulighet til å passivt forvalte sin formue. Den passive forvaltningen har som formål å slå avkastningen på en plasseringskonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
