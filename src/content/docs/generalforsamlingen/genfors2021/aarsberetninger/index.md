@@ -30,9 +30,9 @@ title: "Årsberetninger 2021"
 - Signerte avtaler med 16 bedrifter ifm Itex 2020. Turen ble senere avlyst
 - Revidert og fornyet kaffeavtale med Netlight, tar steg mot å bli mer miljøvennlig
 - Hatt teambuilding med fagkom
-- Sendt ut xx mulighetermail
+- Sendt ut 4 mulighetermailer
 - Lagt ut 123 stillingsannonser
-- Hatt kontakt med ca xxx bedrifter
+- Hatt kontakt med ca 150 bedrifter
 
 
 ### Høst 2020
