@@ -168,6 +168,15 @@ Endres til:
 
 Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. **Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagde har rett til innsyn i saksdokumentene i øyeblikket Hovedstyret mottar mistillitsforslaget**. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av **Leder av Online**, deretter skal den anklagede få en mulighet til å forsvare seg. **Den anklagde har rett til å ha en tillitsvalgt til stede under sitt forsvar.** **Hovedstyret skal i sin drøfting, uten anklagde til stede, basere seg på en konkret skjønnsmessig avveining mellom Onlines interesser veid opp mot den anklagdes interesser. Følgelig er spørsmålet, etter denne avveiningen av partenes behov, om det er rimelig og naturlig at vervene opphører. Hovedstyre skal i sin avveining komme frem til hvorvidt hensynet til organisasjonen eller den anklagdes interesser veier tyngst. Dersom organisasjonens interesser veier tyngre, skal mistillitsforslaget taes til følge.**  Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
+## Forslag 07: Gejninnføre appkom som nodekomité under dotkom
+
+### Bakgrunn
+Appkom var en nodekomite som eksisterte under dotokm, men ble lagt ned i 2017 pga. lavt engasjement. I 2020 var det engasjement for å starte opp appkom på nytt og det ble tatt opp 13 medlemmer. Siden engasjementet er tilbake, ønsker vi å sette appkom som en nodekomite inn under dotkom igjen. Dette fører til en større og bedre representasjon av medlemmene, det gjør det også lettere å søke om penger for budsjett.
+
+### Legge til
+4.3.6 Applikasjonskomiteen
+
+"Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom."
 
 # Forslag til Onlines fonds vedtekter
 
