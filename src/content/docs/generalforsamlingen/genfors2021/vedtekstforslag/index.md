@@ -174,7 +174,7 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 Appkom var en nodekomite som eksisterte under dotokm, men ble lagt ned i 2017 pga. lavt engasjement. I 2020 var det engasjement for å starte opp appkom på nytt og det ble tatt opp 13 medlemmer. Siden engasjementet er tilbake, ønsker vi å sette appkom som en nodekomite inn under dotkom igjen. Dette fører til en større og bedre representasjon av medlemmene, det gjør det også lettere å søke om penger for budsjett.
 
 ### Legge til
-4.3.6 Applikasjonskomiteen
+§4.3.6 Applikasjonskomiteen
 
 "Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom."
 
