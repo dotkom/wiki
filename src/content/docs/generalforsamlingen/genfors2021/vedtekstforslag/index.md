@@ -24,21 +24,37 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ### Endringer
 
-## Forslag 01: Konkretisere mistillitsparagraf
+## Forslag 1: Godkjenne bankomleder på Generalforsamlingen
 
 ### Bakgrunn
-Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, for mye handlingsrom. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
+Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Ser ingen grunn til at bankomleder skal unntas fra dette, da dette er en vel så viktig rolle som de andre komitélederrollene.
 
 ### Endringer
-Dagens paragraf:
+4.2.2 Bank- og økonomikomiteen
 
-Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hoved- styret, som skal behandle saken. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret, deretter skal den anklagede få en mulighet til å forsvare seg før Hovedstyret diskuterer og avgjør saken uten den anklagede til stede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+Fjerne: "Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
 
-Endres til:
+## Forslag 2: Godkjenne seniorkomleder på Generalforsamlingen
 
+### Bakgrunn
+Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
 
-Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. **Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagde har rett til innsyn i saksdokumentene i øyeblikket Hovedstyret mottar mistillitsforslaget**. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av **Leder av Online**, deretter skal den anklagede få en mulighet til å forsvare seg. **Den anklagde har rett til å ha en tillitsvalgt til stede under sitt forsvar.** **Hovedstyret skal i sin drøfting, uten anklagde til stede, basere seg på en konkret skjønnsmessig avveining mellom Onlines interesser veid opp mot den anklagdes interesser. Følgelig er spørsmålet, etter denne avveiningen av partenes behov, om det er rimelig og naturlig at vervene opphører. Hovedstyre skal i sin avveining komme frem til hvorvidt hensynet til organisasjonen eller den anklagdes interesser veier tyngst. Dersom organisasjonens interesser veier tyngre, skal mistillitsforslaget taes til følge.**  Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+### Endringer
+4.2.8 Seniorkomiteen
 
+Fjerne: "Seniorkomiteen velger og godkjenner selv sin leder." 
+
+## Forslag 2.1: Seniorkomleder godkjennes av Hovedstyret
+
+### Bakgrunn
+Etter Arbeidsgruppen for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom Seniorkom og Bankom. Dette bør gjelde seniorkomleder også, da dette er en vel så viktig rolle som de andre komitélederrollene.
+
+### Endringer
+4.2.8 Seniorkomiteen
+
+"Seniorkomiteen velger og godkjenner selv sin leder"
+
+Endres til: "Leder godkjennes av Hovedstyret." 
 
 ## Forslag 2: Vedtektsfeste budsjettreglement
 Legge til: 
@@ -107,6 +123,21 @@ Alle kjernekomiteer består av minimum en leder**, nestleder** og en økonomians
 **ELLER**
 
 Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig.** Ved behov har komiteen også mulighet for å utnevne en nestleder. **Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+
+## Forslag X: Konkretisere mistillitsparagraf
+
+### Bakgrunn
+Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, for mye handlingsrom. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
+
+### Endringer
+Dagens paragraf:
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hoved- styret, som skal behandle saken. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret, deretter skal den anklagede få en mulighet til å forsvare seg før Hovedstyret diskuterer og avgjør saken uten den anklagede til stede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+Endres til:
+
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. **Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagde har rett til innsyn i saksdokumentene i øyeblikket Hovedstyret mottar mistillitsforslaget**. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av **Leder av Online**, deretter skal den anklagede få en mulighet til å forsvare seg. **Den anklagde har rett til å ha en tillitsvalgt til stede under sitt forsvar.** **Hovedstyret skal i sin drøfting, uten anklagde til stede, basere seg på en konkret skjønnsmessig avveining mellom Onlines interesser veid opp mot den anklagdes interesser. Følgelig er spørsmålet, etter denne avveiningen av partenes behov, om det er rimelig og naturlig at vervene opphører. Hovedstyre skal i sin avveining komme frem til hvorvidt hensynet til organisasjonen eller den anklagdes interesser veier tyngst. Dersom organisasjonens interesser veier tyngre, skal mistillitsforslaget taes til følge.**  Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
 
 # Forslag til Onlines fonds vedtekter
