@@ -247,6 +247,7 @@ Endres til:
 Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene på en høyrentekonto med 0.7% rente. Med utgangspunkt i Norges mål for inflasjon, 2.5%, fører dette til en reell avkastning på ca -10 000kr i året (formel for realrente). Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?) muligheten til å passivt forvalte en andel av fondet med utgangspunkt i et styrende dokument godkjent av Generalforsamlingen. 
 
 Foreløpig utkast oppsummert (inspirert av Abakus’ fond):
+
 1. Alltid 300k på høyrentekonto (300k er maks uttak fra Fondet hvert år)
 2. Kun indeksfond
 3. Diversifisert portefølje (f.eks 6 forskjellige indeksfond i 6 forskjellige sektorer)
