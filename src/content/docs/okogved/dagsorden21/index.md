@@ -11,7 +11,7 @@ title: "Dagsorden"
 | 30 | 17.05 | 17.35 | Prosjektgruppa Siifra v/ Endre Ulberg  og Elise Statuland |16:41|
 | 20 | 17.35 | 17.55 | Sakforslag 01 - Opprettelse av gruppering for håndtering av varslingssaker ||
 | 10 | 18.05 | 18.15 | Pause  |  |
-| 10 | 18.15 | 18.25 | Sakforslag 02 - Samkjøring nodekomitéopptak og suppleringsopptak   |  |
+| 10 | 18.15 | 18.25 | Sakforslag 02 - Samkjøring nodekomitéopptak og suppleringsopptak   | 17:27  |
 | 10 | 18.25 | 18.35 | Saksforslag 03 - Konvertere vedtektene til markdown |  |
 | 10 | 18.35 | 18.45 | Saksforslag 04 - Benytte prefereansevalg ved ordinær generalforsamling 2022 |  |
 | 10 | 18.45 | 18.55 | Vedtektsforslag 01: Godkjenne bankomleder på Generalforsamlingen ||
