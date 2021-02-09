@@ -33,5 +33,5 @@ title: "Dagsorden"
 | 10 | 21.45 | 21.55 | Vedtektsforslag 10: Konkretisere mistillitsparagraf   |  |
 | 15 | 21.55 | 22.05 | Vedtektsforslag 11: Gjeninnføre appkom som nodekomité  ||
 | 20 | 22.05 | 22.25 | Vedtektsforslag 12: Omorganisering av nodekomiteer ||
-| 15 | 22.25 | 22.40 | Vedtektsforslag Fond 01: Passiv forvaltning av fondet ||
-| 10 | 22.40 | 22.50 | Saksforslag 06: Overføre midler til fondet ||
+| 10 | 22.25 | 22.35 | Saksforslag 06: Overføre midler til fondet ||
+| 15 | 22.35 | 22.50 | Vedtektsforslag Fond 01: Passiv forvaltning av fondet ||
