@@ -9,7 +9,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 **Økonomi- og vedtektskvelden 2021 finner sted 09. februar kl. 16.15 digitalt.**
 
 * [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden21)
-* [Regnskap](https://docs.google.com/spreadsheets/d/1BDvtP80nsKV5kvy6gEhzqtSGr50tb1bmXXgxjpXdTBU/edit?usp=sharing)
+
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2021/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2021/saksforslag)
 * [Referat fra økonomi- og vedtektskvelden 2021](okogved-referat2021)
