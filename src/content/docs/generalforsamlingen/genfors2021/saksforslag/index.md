@@ -46,14 +46,14 @@ Nå for tiden har vi vedtektene våres i latex. Hvorfor vet ingen. Ja, det ser b
 
 ## Sak 04 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
 
-### Bakgrunn
+**Bakgrunn**
 Ser i referatet til Abakus at dette gikk gjennom i deres forrige genfors, og synes det virker som en god ide. Vil ha input fra dere på vedtektskvelden, da det sikkert er ting vi har oversett. Løsningen er med andre ord kokt av Abakus hittil
 
-### Forslag
+**Forslag**
 Ved ordinær generalforsamling 2022 gis det mulighet til å benytte preferansevalg ved personvalg.
 Det skal publiseres i sakspapirene hvorvidt preferansevalg vil benyttes.
 
-### Begrunnelse
+**Begrunnelse**
 Personvalg gjennomføres i dag ihht. Vedtektene § 5.6. Vi ønsker å gi muligheten til å benytte preferansevalg til personvalg ved ordinær generalforsamling i 2022.
 Fordeler inkluderer:
 
@@ -67,10 +67,10 @@ Dersom preferansevalg skal benyttes kreves det at dette er implementert i stemme
 
 ## Sak 05 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
 
-### Bakgrunn
+**Bakgrunn**
 Reglement rundt hvordan budsjettet endres og godkjennes har ikke blitt formalisert, det har gitt mange spørsmål og "i siste liten" arbeid for bankom. Det skulle egentlig bli utarbeidet et dokument som skulle tas i bruk under budsjettforslagskvelden, det skjedde ikke. Dermed har det nå blitt utarbeidet et dokument, som både bankom og Hovedstyret har sett gjennom og godkjent.
 
-### Endringer
+**Endringer**
 Ta i bruk budsjettreglementet som ligger under:  
 
 **Budsjettreglement for Online.**  
@@ -93,8 +93,8 @@ Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på or
 
 ## Sak 06 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
 
-### Bakgrunn
+**Bakgrunn**
 I 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultat, foreslås det å overføre XXX 000 kr til fondet.
 
-### Endring
+**Endring**
 Overføre XXX 000 kroner til Onlines Fond.
