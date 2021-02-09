@@ -215,7 +215,7 @@ Legge til:
 
 **Bakgrunn**  
 
-I dag er de fleste nodekomiteene underlagt en kjernekomité hvor tanken er at kjernekomiteen skal følge opp og representere nodekomiteen i hovedstyret. Nodekomiteene har blitt svært autonome, og tett oppfølging av sin kjernekomité er ikke nødvendigvis lenger den beste løsningen. Vi foreslår å flytte nodekomiteene direkte under hovedstyret. Formålet med dette er å oppdatere organisasjonskartet slik at det representerer hvordan nodekomiteene fungerer i praksis. 
+I dag er de fleste nodekomiteene underlagt en kjernekomité hvor tanken er at kjernekomiteen skal følge opp og representere nodekomiteen i hovedstyret. Nodekomiteene har blitt svært autonome, og tett oppfølging av sin kjernekomité er ikke nødvendigvis lenger den beste løsningen. Vi foreslår å flytte nodekomiteene direkte under hovedstyret. Formålet med dette er å styrke selvstendigheten til nodekomiteene og oppdatere organisasjonskartet slik at det representerer hvordan de fungerer i praksis. 
 
 **Endringer**  
 
