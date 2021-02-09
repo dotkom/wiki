@@ -67,13 +67,13 @@ Dersom preferansevalg skal benyttes kreves det at dette er implementert i stemme
 
 ## Sak 05 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
 
-**Bakgrunn**
+**Bakgrunn**  
 Reglement rundt hvordan budsjettet endres og godkjennes har ikke blitt formalisert, det har gitt mange spørsmål og "i siste liten" arbeid for bankom. Det skulle egentlig bli utarbeidet et dokument som skulle tas i bruk under budsjettforslagskvelden, det skjedde ikke. Dermed har det nå blitt utarbeidet et dokument, som både bankom og Hovedstyret har sett gjennom og godkjent.
 
-**Endringer**
+**Endringer**  
 Ta i bruk budsjettreglementet som ligger under:  
 
-**Budsjettreglement for Online.**  
+*Budsjettreglement for Online.*  
 
 Dette dokumentet beskriver hvordan budsjett og endringer i budsjett blir godkjent i Online. 
 
