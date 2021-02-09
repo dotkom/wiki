@@ -64,3 +64,31 @@ Fordeler inkluderer:
 Preferansevalg vil gjennomføres av typen enkel overførbar stemme (Single Transferable Vote). Ved STV har man mulighet til å rangere kandidatene og man stemmer kun én gang per votering. Stemmesystemet håndterer eliminering av kandidater og sikrer et resultat som er representativt, ved STV er det ikke nødvendig å stemme taktisk. I tillegg gjør STV det mulig å enkelt velge flere kandidater til samme stilling ved én votering, som kan vise seg å være nødvendig i kommende generalforsamlinger (f.eks når det skal velges to medlemmer til Fondstyret e.l.)  
 
 Dersom preferansevalg skal benyttes kreves det at dette er implementert i stemmesystemet vårt, og at det er tilstrekkelig testet i forkant av generalforsamlingen. Derfor skal det opplyses i sakspapirene for generalforsamlingen 2022 hvorvidt man skal benytte preferansevalg eller votering i henhold til § 5.6. Hovedstyret vil i samarbeid med dotkom avgjøre om implementasjonen er hensiktsmessig å benytte.
+
+## Sak 05 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
+
+## Bakgrunn
+Reglement rundt hvordan budsjettet endres og godkjennes har ikke blitt formalisert, det har gitt mange spørsmål og "i siste liten" arbeid for bankom. Det skulle egentlig bli utarbeidet et dokument som skulle tas i bruk under budsjettforslagskvelden, det var utformet et dokument, men det var veldig lite formalisert. Dermed har det nå blitt utarbeidet et mer formelt dokument, som både bankom og Hovedstyret har sett gjennom og godkjent.
+
+## Endringer
+Ta i bruk budsjettreglementet som ligger under:
+
+### Budsjettreglement for Online
+
+Budsjettreglement for Online. 
+
+Dette dokumentet beskriver hvordan budsjett og endringer i budsjett blir godkjent i Online. 
+
+Bankom skal offentliggjøre et første utkast til budsjettet 2 uker før budsjettmøtet. Da åpnes det for kommentarer og forslag. Kommentarer og forslag på budsjettet skal ligge åpent for resten av linjeforeningen. 
+
+Alle kommentarer og forslag som blir publisert innen 1 uke før budsjettmøtet skal behandles av bankom, og presenteres på budsjettmøtet. 
+
+Innkallingen til budsjettmøtet skal være offentliggjort 30 dager før møtet. Under budsjettmøtet skal bankom gå igjennom kommentarene og forslagene som ble publisert innen fristen, og gjøre rede for hvordan disse er håndtert. Det skal være mulighet for videre diskusjon av andre forslag og kommentarer. Alle avgjørelser på budsjettmøtet tas med simpelt flertall, definert i Onlines vedtekter §0. 
+
+Forsamlingen har anledning til å gjøre endringer i budsjettforslaget. Dersom det kommer frem at det er behov for større endringer enn det er hensiktsmessig å gjøre under møtet kan forsamlingen beslutte at det skal holdes et nytt budsjettmøte. 
+
+Ved nytt budsjettmøte skal forslag til endring være offentliggjort til linjeforeningen minst tre dager før det nye budsjettmøtet. Utover dette har budsjettmøte samme makter og plikter vanlig budsjettmøte. 
+
+Det er Hovedstyret som godkjenner budsjettet for linjeforeningen. Godkjenning av budsjettet, og godkjenning av større endringer på budsjettet må gjøres på et åpent hovedstyremøte, etter at et budsjettmøte er gjennomført. 
+
+Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på ordinære styremøter. Ved større endringer i budsjettet må det kalles inn til et nytt budsjettmøte. Forslaget til endring i budsjettet må ligge tilgjengelig for linjeforeningen i én uke før et slikt møte.
