@@ -8,7 +8,7 @@ title: "Dagsorden"
 | 5  | 16:20 | 16:25 | Utpekelse av ordstyrer ||
 | 30 | 16.25 | 16.55 | Gjennomgang regnskap v/Christoffer Stensrud og Johanne Tronstad  ||
 | 10 | 16.55 | 17.05 | Pause  |  |
-| 30 | 17.05 | 17.35 | Prosjektgruppa Siifra v/ Endre Ulberg ||
+| 30 | 17.05 | 17.35 | Prosjektgruppa Siifra v/ Endre Ulberg  og Elise Statuland ||
 | 20 | 17.35 | 17.55 | Sakforslag 01 - Opprettelse av gruppering for håndtering av varslingssaker ||
 | 10 | 18.05 | 18.15 | Pause  |  |
 | 10 | 18.15 | 18.25 | Sakforslag 02 - Samkjøring nodekomitéopptak og suppleringsopptak   |  |
