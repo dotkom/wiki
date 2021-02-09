@@ -14,7 +14,7 @@ title: "Dagsorden"
 | 10 | 18.15 | 18.25 | Sakforslag 02 - Samkjøring nodekomitéopptak og suppleringsopptak   | 17:27  |
 | 10 | 18.25 | 18.35 | Saksforslag 03 - Konvertere vedtektene til markdown |  |
 | 10 | 18.35 | 18.45 | Saksforslag 04 - Benytte prefereansevalg ved ordinær generalforsamling 2022 |  |
-| 10 | 18.45 | 18.55 | Vedtektsforslag 01: Godkjenne bankomleder på Generalforsamlingen ||
+| 10 | 18.45 | 18.55 | Vedtektsforslag 01: Godkjenne bankomleder på Generalforsamlingen |18:20|
 | 10 | 18.55 | 19.05 | Vedtektsforslag 02.1: Godkjenne seniorkomleder på Generalforsamlingen ||
 | 10 | 19.05 | 19.15 | Pause  |  |
 | 10 | 19.15 | 19.25 | Vedtektsforslag 02.2: Seniorkomleder godkjennes av Hovedstyret ||
