@@ -24,7 +24,6 @@ title: "Dagsorden"
 | 10 | 20.55 | 21.05 | Vedtektsforslag 04.2: Ha en egen rådgivende rolle fra seniorkom i styret ||
 | 10 | 21.05 | 21.15 | Vedtektsforslag 04.2.1: Fjerne seniorkomleders møte- og talerett  |  |
 | 15 | 21.15 | 21.30 | Vedtektsforslag 05: Vedtektsfeste budsjettreglement  ||
-| 10 | 22.40 | 22.50 | Saksforslag 05: Ta i bruk formelt budsjettforslag ||
 | 15 | 21.30 | 21.45 | Vedtektsforslag 06: Komitéleder som stedsfortreder til styremedlem  ||
 | 10 | 21.45 | 21.55 | Vedtektsforslag 07.1: Komité pliktig å fylle stedsfortrederrolle  |  |
 | 10 | 22.05 | 22.15 | Pause  |  |
@@ -35,4 +34,4 @@ title: "Dagsorden"
 | 15 | 21.55 | 22.05 | Vedtektsforslag 11: Gjeninnføre appkom som nodekomité  ||
 | 20 | 22.05 | 22.25 | Vedtektsforslag 12: Omorganisering av nodekomiteer ||
 | 15 | 22.25 | 22.40 | Vedtektsforslag Fond 01: Passiv forvaltning av fondet ||
-| 10 | 22.50 | 23.00 | Saksforslag 06: Overføre midler til fondet ||
+| 10 | 22.40 | 22.50 | Saksforslag 06: Overføre midler til fondet ||
