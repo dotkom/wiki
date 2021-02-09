@@ -44,7 +44,7 @@ title: "Årsberetninger 2021"
 - Gjennomført bookingrunden i samarbeid med fagkom
 - Utviklet løsning for eldre ("pensjonerte") komitemedlemmer - en såkalt "Pang-stuktur"
 - Booket bedrifter til TechTalks 2021. TT2021 ble avlyst.
-- Gjort om på hvordan vi booker bedrifter med et mål om å utvide spekteret av arrangementer.
+- Fornyet hvordan vi booker bedrifter med et mål om å utvide spekteret av arrangementer.
 
 
 ### Vår 2021
