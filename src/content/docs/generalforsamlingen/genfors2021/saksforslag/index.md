@@ -91,7 +91,7 @@ Det er Hovedstyret som godkjenner budsjettet for linjeforeningen. Godkjenning av
 
 Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på ordinære styremøter. Ved større endringer i budsjettet må det kalles inn til et nytt budsjettmøte. Forslaget til endring i budsjettet må ligge tilgjengelig for linjeforeningen i én uke før et slikt møte.
 
-## Sak 06 - Overføre midler til fondet(Christoffer Stensrud, Johanne Tronstad)
+## Sak 06 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
 
 ### Bakgrunn
 I 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultat, foreslås det å overføre 350 000 kr til fondet.
