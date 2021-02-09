@@ -96,5 +96,5 @@ Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på or
 **Bakgrunn**  
 I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultatet, foreslås det å overføre 450 000 kr til fondet.
 
-**Endring**  
+**Forslag**  
 Overføre 450 000 kroner til Onlines Fond.
