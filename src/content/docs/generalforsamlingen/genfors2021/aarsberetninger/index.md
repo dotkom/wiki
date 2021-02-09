@@ -43,12 +43,16 @@ title: "Årsberetninger 2021"
 - **Arrangert 1 KID-arrangement**
 - Gjennomført bookingrunden i samarbeid med fagkom
 - Utviklet løsning for eldre ("pensjonerte") komitemedlemmer - en såkalt "Pang-stuktur"
+- Booket bedrifter til TechTalks 2021. TT2021 ble avlyst.
+- Gjort om på hvordan vi booker bedrifter med et mål om å utvide spekteret av arrangementer.
 
 
 ### Vår 2021
 
 - Avholdt 4 bedriftspresentasjoner, hvorav 3 digitalt
 - Planlegger å arrangere 6 bedriftspresentasjoner og 1 KID-arrangement ila våresemesteret
+-  Bookingrunden for bedriftsarrangementer neste semester skjer nå
+
 
 ## Drifts- og utviklingskomiteen
 
