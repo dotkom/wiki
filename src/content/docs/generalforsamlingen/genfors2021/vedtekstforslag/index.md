@@ -244,7 +244,14 @@ Endres til:
 ## Forslag 01 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)
 
 **Bakgrunn**  
-Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene bare på konto. Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?)muligheten til å investere midlene i verdipapirer som har forventet avkastning høyere enn renten på plasseringskontoen.
+Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene på en høyrentekonto med 0.7% rente. Med utgangspunkt i Norges mål for inflasjon, 2.5%, fører dette til en reell avkastning på ca -10 000kr i året (formel for realrente). Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?) muligheten til å passivt forvalte en andel av fondet med utgangspunkt i et styrende dokument godkjent av Generalforsamlingen. 
+
+Foreløpig utkast oppsummert (inspirert av Abakus’ fond):
+Alltid 300k på høyrentekonto (300k er maks uttak fra Fondet hvert år)
+Kun indeksfond
+Diversifisert portefølje (f.eks 6 forskjellige indeksfond i 6 forskjellige sektorer)
+Ingen enkeltinvestering skal utgjøre mer enn 20% av porteføljen
+Rebalansering ved årsskifte
 
 **Endringer**  
 
@@ -255,4 +262,4 @@ Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som e
 Endres til:
 
 6.1 Fondets plassering
-Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er separert fra den daglige driften av Online. **Fondet har mulighet til å passivt forvalte sin formue. Den passive forvaltningen har som formål å slå avkastningen på en plasseringskonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**separert fra den daglige driften av Online. **Fondet har mulighet til å aktivt forvalte sin formue. Den aktive forvaltningen har som formål å slå avkastningen på en passiv bankkonto. Fondet skal ikke investere i høyrisiko verdipapirer eller investeringer hvor man kan ende med å skylde penger, herunder men ikke begrenset til short posisjoner.**
+Fondets midler er fordelt på en høyrentekonto og en diversifisert portefølje av indeksfond i henhold til Fondets styrende dokument. Det styrende dokumentet revideres av Generalforsamlingen. Høyrentekonto og fondporteføljen disponeres av Online, og er separert fra den daglige driften av Online.
