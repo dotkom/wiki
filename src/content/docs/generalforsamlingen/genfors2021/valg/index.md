@@ -23,7 +23,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig:* Milla Weium
 * *Styremedlem fra arrkom:* 
 * *Styremedlem fra bedkom:* 
-* *Styremedlem fra dotkom:* 
+* *Styremedlem fra dotkom:* Thomas Hasvold
 * *Styremedlem fra fagkom:* Mari Lehne 
 * *Styremedlem fra prokom:* Henrik Moe Wæhre, Runar Johnsen
 * *Styremedlem fra trikom:* Sarmi Ponnuthurai 
