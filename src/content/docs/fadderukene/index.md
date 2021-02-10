@@ -8,3 +8,4 @@ Informasjonskanal for fadderukene
 * [2018](https://online.ntnu.no/wiki/online/fadderukene/2018-)
 * [2019](https://online.ntnu.no/wiki/online/fadderukene/2019-)  
 * [2020](https://online.ntnu.no/wiki/online/fadderukene/2020-)
+* [2021](https://online.ntnu.no/wiki/online/fadderukene/2021-)
