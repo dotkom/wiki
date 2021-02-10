@@ -94,7 +94,7 @@ Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på or
 ## Sak 06 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
 
 **Bakgrunn**  
-I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultatet, foreslås det å overføre 420 069 kr til fondet.
+I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultatet, foreslås det å overføre 420 000 kr til fondet.
 
 **Forslag**  
-Overføre 420 069 kroner til Onlines Fond.
+Overføre 420 000 kroner til Onlines Fond.
