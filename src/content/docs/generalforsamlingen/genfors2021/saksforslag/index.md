@@ -111,4 +111,4 @@ Overføre 420 000 kroner til Onlines Fond.
 
 Dersom stemmerett til seniorkomleder i styret vedtas, foreslår vi et spesielt tilfelle for 2021. Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
 
-**Forslag:** Dersom stemmerett til seniorkomleder i styret vedtas, legges valg av seniorkomleder inn i dagsorden:
+**Forslag:** Dersom stemmerett til seniorkomleder i styret vedtas, legges valg av seniorkomleder inn i dagsorden.
