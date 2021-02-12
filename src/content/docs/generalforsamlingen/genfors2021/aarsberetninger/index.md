@@ -168,21 +168,21 @@ title: "Årsberetninger 2021"
 
 ### Aktiviteter
 Online IL har avholdt 25+ arrangementer det siste året med følgende idretter: 
-*paintball
-*buldring
-*topptur
-*ski på vassfjellet
-*tennis
-*kanonball
-*volleyball
-*kickboksing
-*joggetur
-*padeltennis
-*cageball
-*turnering i League of legends
+* paintball
+* buldring
+* topptur
+* ski på vassfjellet
+* tennis
+* kanonball
+* volleyball
+* kickboksing
+* joggetur
+* padeltennis
+* cageball
+* turnering i League of legends
 
 Fremover: 
-*Uteidretter slik som ski, aking og turer
+* Uteidretter slik som ski, aking og turer
 Gradvis flere idretter i samsvar med lettelser på restriksjoner
 
 
