@@ -21,7 +21,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Leder:* Thea Karin Fladby
 * *Nestleder:* André Schjøth, Elise Rabassa Stautland
 * *Økonomiansvarlig:* Milla Weium
-* *Styremedlem fra arrkom:* 
+* *Styremedlem fra arrkom:* William Andersson
 * *Styremedlem fra bedkom:* 
 * *Styremedlem fra dotkom:* Thomas Hasvold
 * *Styremedlem fra fagkom:* Mari Lehne 
