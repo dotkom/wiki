@@ -158,7 +158,7 @@ title: "Årsberetninger 2021"
 ## Online IL
 
 
-### Generellt
+### Generelt
 * Online IL har i 2020 arrangert ukentlige treninger i flere tradisjonelle idretter. 
 
 
@@ -186,7 +186,7 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 ####Fremover: 
 
 -    Uteidretter slik som ski, aking og turer
-Gradvis flere idretter i samsvar med lettelser på restriksjoner
+-    Gradvis flere idretter i samsvar med lettelser på restriksjoner
 
 
 
