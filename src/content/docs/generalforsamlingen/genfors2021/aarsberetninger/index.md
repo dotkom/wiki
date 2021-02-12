@@ -163,23 +163,25 @@ title: "Årsberetninger 2021"
 
 
 -  Status medlemmer: 
-   -    Tatt opp 7 nye medlemmer, hvorav 6 førsteklassinger og én 
+   *    Tatt opp 7 nye medlemmer, hvorav 6 førsteklassinger og én 
         andreklassing. Det er 15 medlemmer per dags dato. 
 
 ### Aktiviteter
 Online IL har avholdt 25+ arrangementer det siste året med følgende idretter: 
--    paintball
--    buldring
--    topptur
--    ski på vassfjellet
--    tennis
--    kanonball
--    volleyball
--    kickboksing
--    joggetur
--    padeltennis
--    cageball
--    turnering i League of legends
+
+- Paintball
+- Buldring
+- Topptur
+- Ski på Vassfjellet
+- Tennis
+- Kanonball
+- Volleyball
+- Kickboksing
+- Joggetur
+- Padeltennis
+- Cageball
+- Turnering i League of Legends
+
 
 Fremover: 
 -    Uteidretter slik som ski, aking og turer
