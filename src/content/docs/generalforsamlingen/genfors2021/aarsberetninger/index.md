@@ -162,7 +162,7 @@ title: "Årsberetninger 2021"
 * Online IL har i 2020 arrangert ukentlige treninger i flere tradisjonelle idretter. 
 
 
-#Status medlemmer: 
+####Status medlemmer: 
    *    Tatt opp 7 nye medlemmer, hvorav 6 førsteklassinger og én 
         andreklassing. Det er 15 medlemmer per dags dato. 
 
@@ -183,7 +183,7 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 - Turnering i League of Legends
 
 
-#Fremover: 
+####Fremover: 
 
 -    Uteidretter slik som ski, aking og turer
 Gradvis flere idretter i samsvar med lettelser på restriksjoner
