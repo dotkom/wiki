@@ -98,3 +98,17 @@ I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onl
 
 **Forslag**  
 Overføre 420 000 kroner til Onlines Fond.
+
+Sak 7 - Endring av dagsorden dersom forslag om godkjenning av bankomleder går gjennom.
+
+Bakgrunn: To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at dagsorden endres bare dersom vedtektforslag 1 vedtas. Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
+
+Forslag: Dersom godkjenning av bankomleder på generalforsamling vedtas, foreslår vi et spesielt tilfelle for 2021. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at bankomleder velges etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne bankomlederen med 1 måneds frist.
+
+
+Sak 11 - Endring av dagsorden dersom forslag om å gi seniorkomleder stemmerett går gjennom.
+Bakgrunn: Et vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at dagsorden endres bare dersom vedtektsforslag 3 blir vedtatt.
+
+Forslag: Dersom stemmerett til seniorkomleder i styret vedtas, foreslår vi et spesielt tilfelle for 2021. Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
+
+Forslag: Dersom stemmerett til seniorkomleder i styret vedtas, legges valg av seniorkomleder inn i dagsorden:
