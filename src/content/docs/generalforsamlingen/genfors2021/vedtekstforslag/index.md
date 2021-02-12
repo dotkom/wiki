@@ -41,7 +41,23 @@ Endres til:
 "Leder av Bank- og
 økonomikomiteen skal ikke være økonomiansvarlig for en annen komité."
 
-## Forslag 2.1: Styrerepresentasjon av seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+
+
+## Forslag 2.1: Fjerne møte- og talerett for seniorkom (fremmes dersom 2.1 faller)
+
+**Bakgrunn**  
+Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene. Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
+
+**Endringer**  
+
+4.2.8 Seniorkomiteen  
+
+Fjernes:  
+"Leder av Seniorkomiteen har møte- og talerett i
+Hovedstyret."
+
+
+## Forslag 2.2: Gi seniorkom stemmerett i styret (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 **Bakgrunn**  
 
@@ -60,19 +76,6 @@ Fjernes:
 "Leder av Seniorkomiteen har møte- og talerett i
 Hovedstyret."
 
-
-## Forslag 2.2: Fjerne møte- og talerett for seniorkom (fremmes dersom 2.1 faller)
-
-**Bakgrunn**  
-Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene. Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
-
-**Endringer**  
-
-4.2.8 Seniorkomiteen  
-
-Fjernes:  
-"Leder av Seniorkomiteen har møte- og talerett i
-Hovedstyret."
 
 ## Forslag 3: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
