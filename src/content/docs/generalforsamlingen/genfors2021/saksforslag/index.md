@@ -23,7 +23,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 ## Sak X - Sakstittel (Saksfremmer)
 
-## Sak 01 - Samkjøring nodekomitéopptak og suppleringsopptak (AUO)
+## Sak 1 - Samkjøring nodekomitéopptak og suppleringsopptak (AUO)
 
 **Bakgrunn**
 Tidligere har Online kjørt opptak for alle komiteer en gang hver høst, med supplementeringsopptak på forskjellige tider på våren. I tillegg har de fleste nodekomiteer (da spesielt for Velkom og Ekskom) kjørt sine opptak på forskjellige tidspunkter på våren. Dette skaper usikkerhet for de som er interessert i komitéarbeid, ettersom det ikke er visst på forhånd når man kan søke roller i disse. Å standardisere opptaksperioder, både for nodekomiteer og kjernekomiteers suppleringsopptak, vil forhåpentligvis gjøre det lettere å blæste for de og de som vil engasjere seg i Online har større sikkerhet på at de vil få en mulighet
@@ -31,7 +31,7 @@ Tidligere har Online kjørt opptak for alle komiteer en gang hver høst, med sup
 **Forslag**
 Hvert år vil det bli gjennomført to opptak i Online, det vanlige høstopptaket, samt et våropptak der fokuset først og fremst vil være på nodekomiteer. Dette skal gjennomføres i en fastsatt periode i slutten av Januar/starten av Februar. I tillegg skal kjernekomiteer ha mulighet til å bli med på denne opptaksperioden, dersom komiteen ønsker å supplere.
 
-## Sak 02 - Opprettelse av gruppering for håndtering av varslingssaker (Si Ifra)
+## Sak 2 - Opprettelse av gruppering for håndtering av varslingssaker (Si Ifra)
 
 **Bakgrunn**
 Per i dag så har ikke Online dedikerte ressurser til å håndtere krevende situasjoner som oppstår mellom medlemmer av linjeforeningen. Det skjer alt fra små ubehagelige hendelser, til saker som er så alvorlige at folk ikke ønsker å møte på universitet, hverken for sosiale hendelser eller undervisning. På mandat fra Hovedstyret har vi blitt bedt om å se på mulige løsninger for å håndtere slike saker. Det er ansett å være i alle sin beste interesse at vi finner rettferdige og effektive måter å gjøre at alle føler seg trygge og ønsker å aktivt delta i felleskapet på studiet vårt.
@@ -39,12 +39,12 @@ Per i dag så har ikke Online dedikerte ressurser til å håndtere krevende situ
 **Forslag**
 Vi ønsker å opprette en ny dedikert gruppe som jobber med slike varslingssaker. Hovedstyret skal i samråd med Si Ifra fastslå de spesifikke retningslinjene og mandatet i løpet av våren.
 
-## Sak 03 - Konvertere vedtektene til markdown. (Aslak Hollund)
+## Sak 3 - Konvertere vedtektene til markdown. (Aslak Hollund)
 
 **Bakgrunn**  
 Nå for tiden har vi vedtektene våres i latex. Hvorfor vet ingen. Ja, det ser bra ut, men det er ikke spesielt "Online". Jeg mener at vi burde fokusere på et format mer egnet for oss informatikere. Jeg foreslår markdown, men er åpent for andre forslag på vedtektskvelden. Målet mitt er i hovedsak at det skal være et format som Onlinere er godt vant med, som gjør det enkelt for nye å se på den faktiske vedtektsteksten og dermed gjør de mer tilgjengelige for medlemmene våres. Etter dette er bør vi prioritere å gjøre det enkelt å deploye vedtektene våre til en nettside igjennom en enkel CD løsning, og å gjøre det enkelt å bruke git når vi oppdaterer vedtektene. Jeg tenker vi greit løser dette med å gå over til markdown, og jobben med å konvertere fra latex -> markdown er relativt kjapp og grei.
 
-## Sak 04 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
+## Sak 4 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
 
 **Bakgrunn**
 Ser i referatet til Abakus at dette gikk gjennom i deres forrige genfors, og synes det virker som en god ide. Vil ha input fra dere på vedtektskvelden, da det sikkert er ting vi har oversett. Løsningen er med andre ord kokt av Abakus hittil
@@ -65,7 +65,7 @@ Preferansevalg vil gjennomføres av typen enkel overførbar stemme (Single Trans
 
 Dersom preferansevalg skal benyttes kreves det at dette er implementert i stemmesystemet vårt, og at det er tilstrekkelig testet i forkant av generalforsamlingen. Derfor skal det opplyses i sakspapirene for generalforsamlingen 2022 hvorvidt man skal benytte preferansevalg eller votering i henhold til § 5.6. Hovedstyret vil i samarbeid med dotkom avgjøre om implementasjonen er hensiktsmessig å benytte.
 
-## Sak 05 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
+## Sak 5 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
 
 **Bakgrunn**  
 Reglement rundt hvordan budsjettet endres og godkjennes har ikke blitt formalisert, det har gitt mange spørsmål og "i siste liten" arbeid for bankom. Det skulle egentlig bli utarbeidet et dokument som skulle tas i bruk under budsjettforslagskvelden, det skjedde ikke. Dermed har det nå blitt utarbeidet et dokument, som både bankom og Hovedstyret har sett gjennom og godkjent.
@@ -91,7 +91,7 @@ Det er Hovedstyret som godkjenner budsjettet for linjeforeningen. Godkjenning av
 
 Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på ordinære styremøter. Ved større endringer i budsjettet må det kalles inn til et nytt budsjettmøte. Forslaget til endring i budsjettet må ligge tilgjengelig for linjeforeningen i én uke før et slikt møte.
 
-## Sak 06 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
+## Sak 6 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
 
 **Bakgrunn**  
 I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultatet, foreslås det å overføre 420 000 kr til fondet.
@@ -106,7 +106,7 @@ Bakgrunn: To vedtektsforslag krever endring av valgprosessen. Siden saksforslag 
 Forslag: Dersom godkjenning av bankomleder på generalforsamling vedtas, foreslår vi et spesielt tilfelle for 2021. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at bankomleder velges etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne bankomlederen med 1 måneds frist.
 
 
-## Sak 11 - Endring av dagsorden dersom forslag om å gi seniorkomleder stemmerett går gjennom.
+## Sak 8 - Endring av dagsorden dersom forslag om å gi seniorkomleder stemmerett går gjennom.
 Bakgrunn: To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at dagsorden endres bare dersom vedtektsforslag 3 blir vedtatt.
 
 Forslag: Dersom stemmerett til seniorkomleder i styret vedtas, foreslår vi et spesielt tilfelle for 2021. Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
