@@ -24,8 +24,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 **Endringer**  
 
-## Forslag 1: Fjerne møte- og talerett for bankomleder  
-(Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 
 **Bakgrunn**  
@@ -43,7 +42,7 @@ Endres til:
 
 
 
-## Forslag 2: Fjerne møte- og talerett for seniorkom (fremmes dersom 2.1 faller)
+## Forslag 2: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 **Bakgrunn**  
 Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene. Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
@@ -57,7 +56,7 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 3: Gi seniorkomleder stemmerett i styret (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 3: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
 
 **Bakgrunn**  
 
