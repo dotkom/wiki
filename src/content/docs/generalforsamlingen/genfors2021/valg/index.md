@@ -35,7 +35,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Ridder:*
 
 ### Eventuelt valg av seniorkomleder på generalforsamlingen
-Grunnet vedtektsforslag og saksforslag som endrer valgprosessen av seniorkomleder i år, legges det inn mulighet for å melde interesse til dette vervet. Dette dekker tilfelle der vedtektsforslag 3 - Gi seniorkomleder stemmerett i styret går gjennom.
+Grunnet vedtektsforslag og saksforslag som endrer valgprosessen av seniorkomleder i år, legges det inn mulighet for å melde interesse til dette vervet. Dette dekker tilfelle der vedtektsforslag 3 - Gi seniorkomleder stemmerett i styret, går gjennom.
 
 Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
 
