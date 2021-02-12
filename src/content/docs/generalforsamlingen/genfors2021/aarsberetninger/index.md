@@ -162,27 +162,27 @@ title: "Årsberetninger 2021"
 * Online IL har i 2020 arrangert ukentlige treninger i flere tradisjonelle idretter. 
 
 
-*.  Status medlemmer: 
-   *    Tatt opp 7 nye medlemmer, hvorav 6 førsteklassinger og én 
+-  Status medlemmer: 
+   -    Tatt opp 7 nye medlemmer, hvorav 6 førsteklassinger og én 
         andreklassing. Det er 15 medlemmer per dags dato. 
 
 ### Aktiviteter
 Online IL har avholdt 25+ arrangementer det siste året med følgende idretter: 
-- paintball
-- buldring
-- topptur
-- ski på vassfjellet
-- tennis
-- kanonball
-- volleyball
-- kickboksing
-- joggetur
-- padeltennis
-- cageball
-- turnering i League of legends
+-    paintball
+-    buldring
+-    topptur
+-    ski på vassfjellet
+-    tennis
+-    kanonball
+-    volleyball
+-    kickboksing
+-    joggetur
+-    padeltennis
+-    cageball
+-    turnering i League of legends
 
 Fremover: 
-- Uteidretter slik som ski, aking og turer
+-    Uteidretter slik som ski, aking og turer
 Gradvis flere idretter i samsvar med lettelser på restriksjoner
 
 
