@@ -75,6 +75,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Jubileumskomiteen](/wiki/online/historie/jubkom)
     - [Velkomstkomiteen](/wiki/online/historie/velkom)
     - [IT-Ekskursjonen](/wiki/online/historie/itex)
+- [Ridderne av Det Indre Lager](/wiki/online/ridderne/)
 - [Offline](/wiki/online/offlines-historie/)
 - [Generalforsamlingen](/wiki/online/generalforsamlingen)
 - [Økonomi- og vedtektskvelden](/wiki/online/okogved)
