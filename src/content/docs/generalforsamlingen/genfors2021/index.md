@@ -41,7 +41,7 @@ Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandida
 Hva: Onlines generalforsamling  
 Dato: 1. mars  
 Klokken: 16:30  
-Sted: *Kommer*  
+Sted: Zoom  
 
 Vel møtt!
 
