@@ -113,7 +113,7 @@ Legge til:
 6.3   
 Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres av budsjettreglementet. Budsjettreglementet kan endres av generalforsamlingen ved simpelt flertall.
 
-## Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO
+## Forslag 7: Komitéleder som stedsfortreder til styremedlem (AUO)
 
 **Bakgrunn**  
 Å være vara for et styremedlem krever ikke veldig mye arbeid, men det krever at du er oppdatert på hva komiteen gjør for tiden. Den personen med best innsikt i komiteens arbeid er komitéleder.   
