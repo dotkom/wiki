@@ -10,7 +10,6 @@ title: "Dagsorden 2021"
 * [2021 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2021/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2021 Kandidater](/wiki/online/generalforsamlingen/genfors2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
-**Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 
 
 ### Administrativt
@@ -52,7 +51,12 @@ title: "Dagsorden 2021"
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|10| 17:25 ||Sak 1 - ||
+|10| 17:25 ||Sak 1 - Samkjøring nodekomitéopptak og suppleringsopptak (AUO) ||
+|---|---|---|Sak 2 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)|---|
+|---|---|---|Sak 3 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)|---|
+|---|---|---|Sak 4 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)|---|
+|---|---|---|Sak 5 - Endring av dagsorden dersom forslag om godkjenning av bankomleder går gjennom. (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|---|---|---|Sak 6 - Endring av dagsorden dersom forslag om å gi seniorkomleder stemmerett går gjennom.(Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 | Total tid: | ||
 
 ## Pause 30 min med pizza
@@ -60,10 +64,27 @@ title: "Dagsorden 2021"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-||||Forslag 1: ||
+|---|---|---|Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|---|---|---|Forslag 2: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|---|---|---|Forslag 3: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|---|---|---|Forslag 4: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|---|---|---|Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|---|---|---|Forslag 6: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)|---|
+|---|---|---|Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO|---|
+|---|---|---|Forslag 8: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 går gjennom) v/AUO|---|
+|---|---|---|Forslag 9: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 ikke går gjennom) v/ AUO|---|
+|---|---|---|Forslag 10: Nestleder som definert rolle v/ AUO|---|
+|---|---|---|Forslag 11: Tilretteleggelse for videre arbeidsutvalg i Online v/ AUO|---|
+|---|---|---|Forslag 12: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)|---|
+|---|---|---|Forslag 13: Gjeninnføre appkom som nodekomité|---|
+|---|---|---|Forslag 14: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)|---|
 | Total tid: | ||
 
 ## Pause 5 min
+
+### Utdeling av Særskilt utmerkelse 10 min
+### Utdeling av lang og tro tjeneste 10 min
+### Ridderutnevnelse 15 min
 
 ## Fondets generalforsamling
 
@@ -82,9 +103,8 @@ title: "Dagsorden 2021"
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
+|---|---|---|Forslag 1 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)|---|
 | Total tid: | | 0 min |
-
-### Utdeling av lang og tro tjeneste 10 min
 
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
