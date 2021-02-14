@@ -130,7 +130,7 @@ Dersom en komité sitt styremedlem blir fraværende er det **styremedlemmets var
 
 Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem **og en vara. Komitéleder og styremedlem kan ha hver sin vara.**
 
-Endres til:
+**Endres til**:
 
 §4.1.2 Fravær av Hovedstyremedlem  
 
