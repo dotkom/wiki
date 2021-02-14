@@ -116,17 +116,30 @@ Makten til å godkjenne Onlines budsjett ligger hos Hovedstyret, men reguleres a
 ## Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO
 
 **Bakgrunn**  
-Når et medlem kun sitter på en vararolle, har ikke medlemmet nødvendigvis god innsikt og overblikk over komiteens pågående arbeid. Det kan gjøre det vanskelig å representere komiteen for hovedstyret. Styremedlemmets stedfortreder vil med denne endringen bli sittende komitéleder. Grunnlag for dette er at leder av en komité ofte vil være den med mest innsikt i komiteen. Dette gjør at de kan lettere kan fylle rollen som komiteens representant i HS. Samtidig som det ikke burde bidra til mye ekstra arbeid, ettersom vara historisk sett ikke behøver å steppe inn ofte. 
+Å være vara for et styremedlem krever ikke veldig mye arbeid, men det krever at du er oppdatert på hva komiteen gjør for tiden. Den personen med best innsikt i komiteens arbeid er komitéleder.   
+
+Derfor foreslår vi at komitéleder blir "vara" for styremedlemet.
 
 
 **Endringer**  
-§4.1.2 Fravær av Hovedstyremedlem
+§4.1.2 Fravær av Hovedstyremedlem  
 
 Dersom en komité sitt styremedlem blir fraværende er det **styremedlemmets vara** som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom **en vara** ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
+§4.2 Kjernekomiteer  
+
+Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem **og en vara. Komitéleder og styremedlem kan ha hver sin vara.**
+
 Endres til:
 
+§4.1.2 Fravær av Hovedstyremedlem  
+
 Dersom en komité sitt styremedlem blir fraværende er det **komitéleder** som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom **komitéleder** ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+§4.2 Kjernekomiteer  
+
+Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+
 
 ## Forslag 8: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 går gjennom) v/AUO
 
