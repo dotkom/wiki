@@ -140,66 +140,6 @@ Dersom en komité sitt styremedlem blir fraværende er det **komitéleder** som 
 
 Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
 
-
-## Forslag 8: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 går gjennom) v/AUO
-
-**Bakgrunn**  
-Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
-
-**Endringer**  
-§4.1.2 Fravær av Hovedstyremedlem
-
-Dersom komitéleder ikke er tilgjengelig plikter **Hovedstyret** å fylle stillingen.
-
-Endres til:
-
-Dersom komitéleder ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
-
-## Forslag 9: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 ikke går gjennom) v/ AUO
-
-**Bakgrunn**  
-Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
-
-**Endringer**  
-§4.1.2 Fravær av Hovedstyremedlem
-
-Dersom en vara ikke er tilgjengelig plikter **Hovedstyret** å fylle stillingen.
-
-Endres til:
-
-Dersom en vara ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
-
-## Forslag 10: Nestleder som definert rolle v/ AUO
-
-**Bakgrunn**  
-Noen komiteer bruker vara hovedsakelig som en slags nestleder-rolle, og andre komiteer brukte den som nettopp det, en vara, og ikke noe mer. Problemet oppstår med at en effektiv nestleder kun kan tituleres etter vara, som kan være misvisende for arbeidet de legger inn. I tillegg har den som eksklusivt yter rollen vara, kanskje ikke fullt så god innsikt og overblikk over komiteens arbeid sammenliknet med komitéleder. For eksterne er heller ikke betydningen av tittelen vara tydelig. Gjennom intervjuene vi hadde i høst avdekket vi at de fleste komiteer i realiteten bruker vara som nestleder samt at tittelen nestleder blir brukt internt i flere komiteer. 
-
-**Endringer**  
-§4.2 Kjernekomiteer
-
-Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem** og en vara. Komitéleder og styremedlem kan ha hver sin vara.**
-
-Endres til:
-
-**ENTEN** 
-
-Alle kjernekomiteer består av minimum en leder**, nestleder** og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
-
-**ELLER**
-
-Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig.** Ved behov har komiteen også mulighet for å utnevne en nestleder. **Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
-
-
-## Forslag 11: Tilretteleggelse for videre arbeidsutvalg i Online v/ AUO
-
-**Begrunnelse**
-I år erfarte både HS og sittende AUO at det er vanskelig å rekruttere til stillinger som AUO. Vi har opplevd at de som først finner seg interessert i en slik stilling, gjerne har flere andre pågående verv allerede. I kjent Online stil tar vi inspirasjon fra Abakus, og forsøker å tilrettelegge for opprettelsen av slike arbeidsutvalg fremover. Med dette kan vi sikre at HS har mulighet til å avlaste arbeid til en annen gruppe, på en transparent måte.
-
-**Endringer**
-Legge til § 4.1.4 Arbeidsutvalg
-“Hovedstyret har mulighet å opprette arbeidsutvalg for spesifikke oppgaver, dersom Hovedstyret ellers ikke har kapasitet til å gjennomføre disse. Retningslinjer for oppgavene skal fremlegges av Hovedstyret, og arbeidsutvalget legges under Hovedstyret. Dersom arbeidsutvalg opprettes skal dette informeres om, og presenteres ved generalforsamlinger”
-
-
 ## Forslag 12: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)
 
 **Bakgrunn**  
