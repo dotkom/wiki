@@ -14,8 +14,29 @@ title: "Årsberetninger 2021"
 [TOC]
 
 ## Hovedstyret
+### Generelt
+Stengte ned all fysisk drift i vår
+Nominert riddere til immatrikuleringsballet
+Arrangert sommerfest i Oslo
+Deltatt på jentedag
+Avlyste kompileringen
+De fleste styremedlemmer, ledere, og tillitsvalgte har blitt kurset av SiT i relevante temaer.
+Innvilget sosialt medlemskap til 2 medlemmer som vil bytte til informatikk/går annen master-retning
+Gjennomført økonomi- og vedtektskveld i forkant av generalforsamlingen
+Tatt opp nytt AUO (Arbeidsgruppe for undersøkelse av organisasjonsstruktur)
+Tatt opp leder og nestleder til velkom
+Tatt opp leder av Jubkom
+Laget julekalender
+
+### Samarbeid med andre
+
+### Studentpolitikk
+Vært på x semestermøter med IDI.
+Vært på x fakultetsmøter med IE.
+
 ### Sosialt og kos
 - Stått faddervakt en kveld i fadderukene
+- Arrangert grilling og quiz
 - Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
 ## Arrangementskomiteen  
