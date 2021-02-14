@@ -128,7 +128,7 @@ Endres til:
 
 Dersom en komité sitt styremedlem blir fraværende er det **komitéleder** som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom **komitéleder** ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
 
-## Forslag 8: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 går gjennom) v/AUO
+## Forslag 8: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 går gjennom) v/AUO
 
 **Bakgrunn**  
 Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
@@ -142,7 +142,7 @@ Endres til:
 
 Dersom komitéleder ikke er tilgjengelig plikter **komiteen** å fylle stillingen.
 
-## Forslag 9: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 03 ikke går gjennom) v/ AUO
+## Forslag 9: Komité pliktig å fylle stedsfortrederrolle (gjelder dersom forslag 7 ikke går gjennom) v/ AUO
 
 **Bakgrunn**  
 Ved frafall av styremedlem og styremedlemmets vara har per i dag HS ansvaret for å fylle rollen. Vi ønsker å gi dette ansvaret til komiteen, for å sikre at representanten er egnet til å fylle rollen.
