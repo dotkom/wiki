@@ -24,3 +24,7 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Jubileumskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/jubkom/)
 - [Redaksjonen](/wiki/online/info/innsikt-og-interface/retningslinjer/redaksjonen/)
 - [Velkomstkomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/velkom/)
+
+
+### Epost 
+- [Signatur](/wiki/online/info/innsikt-og-interface/retningslinjer/epostsignatur/)
