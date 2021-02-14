@@ -27,4 +27,4 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
 
 ### Epost 
-- [Signatur](/wiki/online/info/innsikt-og-interface/retningslinjer/epostsignatur/)
+- [Signatur](/wiki/online/info/innsikt-og-interface/retningslinjer/epostsignatur/) IKKE VEDTATT
