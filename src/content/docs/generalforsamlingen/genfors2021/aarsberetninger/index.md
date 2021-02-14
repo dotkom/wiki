@@ -15,18 +15,18 @@ title: "Årsberetninger 2021"
 
 ## Hovedstyret
 ### Generelt
-Stengte ned all fysisk drift i vår
-Nominert riddere til immatrikuleringsballet
-Arrangert sommerfest i Oslo
-Deltatt på jentedag
-Avlyste kompileringen
-De fleste styremedlemmer, ledere, og tillitsvalgte har blitt kurset av SiT i relevante temaer.
-Innvilget sosialt medlemskap til 2 medlemmer som vil bytte til informatikk/går annen master-retning
-Gjennomført økonomi- og vedtektskveld i forkant av generalforsamlingen
-Tatt opp nytt AUO (Arbeidsgruppe for undersøkelse av organisasjonsstruktur)
-Tatt opp leder og nestleder til velkom
-Tatt opp leder av Jubkom
-Laget julekalender
+* Stengte ned all fysisk drift i vår
+* Nominert riddere til immatrikuleringsballet
+* Arrangert sommerfest i Oslo
+* Deltatt på jentedag
+* Avlyste kompileringen
+* De fleste styremedlemmer, ledere, og tillitsvalgte har blitt kurset av SiT i relevante temaer.
+* Innvilget sosialt medlemskap til 2 medlemmer som vil bytte til informatikk/går annen master-retning
+* Gjennomført økonomi- og vedtektskveld i forkant av generalforsamlingen
+* Tatt opp nytt AUO (Arbeidsgruppe for undersøkelse av organisasjonsstruktur)
+* Tatt opp leder og nestleder til velkom
+* Tatt opp leder av Jubkom
+* Laget julekalender
 
 ### Samarbeid med andre
 
