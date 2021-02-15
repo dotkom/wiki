@@ -36,12 +36,15 @@ Hvert år vil det bli gjennomført to opptak i Online, det vanlige høstopptaket
 ## Sak 2 - Benytte preferansevalg (STV) ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
 
 **Bakgrunn**
+
 Personvalg gjennomføres i dag ihht. Vedtektene § 5.6. Vi ønsker å gi muligheten til å benytte preferansevalg til personvalg ved ordinær generalforsamling i 2022. 
 
 **Forslag**
+
 Generalforsamlingen ønsker at preferansevalg skal benyttes ved personvalg ved neste ordinære ganeralforsamling. Det skal publiseres i sakspapirene hvorvidt preferansevalg vil benyttes. Dersom preferansevalg skal benyttes kreves det at dette er implementert i stemmesystemet vårt, og at det er tilstrekkelig testet i forkant av generalforsamlingen. Hovedstyret vil i samarbeid med dotkom avgjøre om implementasjonen er hensiktsmessig å benytte.
 
 **Forklaring**
+
 [Video på youtube - 2 minutter](https://www.youtube.com/watch?v=bLH_w5kHJpA&ab_channel=SUSUtvSouthampton)
 
 Preferansevalg vil gjennomføres av typen enkel overførbar stemme (Single Transferable Vote). Ved STV har man mulighet til å rangere kandidatene og man stemmer kun én gang per votering. Stemmesystemet håndterer eliminering av kandidater og sikrer et resultat som er representativt for hele forsamlingen. 
