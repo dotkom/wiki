@@ -75,7 +75,7 @@ Har referert* Abakus, de skal revidere oss snart.
 * Johanne har litt dykselesi
 
 #### Økonomiansvarlig  
-Fikk svar fra koronapotten (30k) og skal brukes på sommergalla (mest sannsynlig blir det ikke noe av men wiho).
+Fikk svar fra koronapotten og skal brukes på sommergalla (mest sannsynlig blir det ikke noe av men wiho).
 
 
 #### Nestleder:  
