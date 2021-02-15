@@ -182,6 +182,10 @@ Endres til:
 
 “En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.”
 
+## Forslag 11: Fjerne punkt om å søke HS etter seks semesteret vervdeltakelse (Benedicte Myrvoll og Mathias Fossum)
+
+Fjerne 4.8 Vervvarighet
+
 
 # Forslag til Onlines fonds vedtekter
 
