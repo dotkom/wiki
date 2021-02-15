@@ -55,7 +55,7 @@ Fordeler inkluderer:
 
 - Minst like trygt som "gamlemåten" 
 - Denne løsningen er tidsbesparende dersom det er flere kandidater som stiller.  
-- Det vil utnevnes en "vinner" i stedet for å luke bort en og en "taper" som kan gjøre det mindre skummelt å stemme.  
+- Det vil utnevnes en "vinner" i stedet for å luke bort en og en "taper" som kan gjøre det mindre skummelt å stille.  
 - Slipper taktisk stemming.  
 - Unngår vennegjeng-tendenser, ettersom en kandidat ikke lenger *kun* trenger >50% av stemmene.  
 - Mer demokratisk  
