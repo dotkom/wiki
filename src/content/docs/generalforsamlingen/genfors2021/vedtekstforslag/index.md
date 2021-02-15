@@ -166,7 +166,7 @@ Legge til:
 
 "Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navnforkortes appkom."
 
-## Forslag 14: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)
+## Forslag 10: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)
 
 **Bakgrunn**  
 
