@@ -31,7 +31,7 @@ Godkjent
 
 ## 545 Status for komiteene (11.30 - 20 min)  
 #### Arrkom, med jubkom og velkom:  
-Hatt ledervalg, Åse vant. Hatt workshop for å planlegge veldedighetsfest, dato satt til 19. mars. Fått innsyn i løsningen Abakus brukte for å holde digitalt.
+Hatt ledervalg. Hatt workshop for å planlegge veldedighetsfest, dato satt til 19. mars. Fått innsyn i løsningen Abakus brukte for å holde digitalt.
 
 Fysiske arrangementer blitt avlyst.
 
@@ -226,22 +226,6 @@ Stemmerunde:
 
 - Forslag 2 gikk gjennom. Forslag 3 faller
     - Flertall for
-
-AUO:
-
-- Øyvind: hører til i retningslinjene og ikke en genfors sak. Siste setning er kanskje unødvendig å spesifiserer. Børe tas case for case. Generelt positivt til forslaget
-    - Mathias: Stiller seg bak at den siste steningen er unødvendig
-    - Kristoffer: ta det med i årsberetning til hs?
-
-- Stensrud (spørsmål): Dersom det opprettes i april så presenteres det før de er ferdige med arbeidet
-- Mathias: er det ikke rart å opprette arbeidsutvalg å informere linjeforeningen? Virker unødvendig. Dette er arbeidsoppgaver som tildeles
-    - Denne yeetes og vi informerer heller på årsberetningen på genfors
-- Thea (sp): inkludere relevant informasjon så de ikke føler seg utenfor. Trenger ikke ha med alt
-
-- Øyvind: Hvis vi fjerner de tingene vi har diskutert nå så blir det ikke mye igjen av forslaget. En omformulering som vi kan stemme over senere hadde nok vært best.
-    - Høres ut som vi er usikre på formuleringen. AUO mener vi kan opprette arbeidsutvalg, men medlemmene bør ha en viss oversikt over hva som skjer. Vi kan sende mail til AUO og diskutere dette litt mer med en bedre formulering
-    - Høres ut som en god plan
-    - Benedicte svarer AUO på dette
 
 
 ### Forslag 1: Bankomleder som styremedlem uten stemmerett
