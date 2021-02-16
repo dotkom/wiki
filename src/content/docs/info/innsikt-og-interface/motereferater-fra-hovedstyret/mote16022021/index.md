@@ -31,9 +31,10 @@ Godkjent
 
 ## 545 Status for komiteene (11.30 - 20 min)  
 #### Arrkom, med jubkom og velkom:  
-Hatt ledervalg. Hatt workshop for å planlegge veldedighetsfest, dato satt til 19. mars. Fått innsyn i løsningen Abakus brukte for å holde digitalt.
-
-Fysiske arrangementer blitt avlyst.
+- Hatt ledervalg
+- Hatt workshop for å planlegge veldedighetsfest, dato satt til 19. mars
+- Fått innsyn i løsningen Abakus brukte for å holde digitalt.
+- Fysiske arrangementer blitt avlyst.
 
 Jubkom:
 - Tatt opp medlemmer, er nå 9 stk.
