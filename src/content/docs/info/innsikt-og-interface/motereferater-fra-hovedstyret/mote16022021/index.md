@@ -124,29 +124,6 @@ Rip Mathias glemte Ekskom. Shame!
     - De kan ikke begynne å lede komiteen eller holde møter enda
 
 
-## 547 Jubileum - dato (10 min)
-[19-25.september fremstår som det beste alternativet for jubileumsuka. Det er samtidig som itDAGENE (20 og 21 sep) UKA er fra 7.okt og etter det blir det eksamensperiode. Immball er en uke tidligere enn vanlig.] 
-
-Hektisk høstsemester med UKA og jubileum. Mellom UKA og immball som passer best for arrangementet. Dato er førstepri
-
-Mathias: Blir det mest på dagen eller kvelden når itDagene er?
-
-Jonas: Vi kan holde mest kveldsarrangementer de to dagene
-
-Kristoffer: hvis studenter går på stands på itDagene så er det logisk å dra på noe runst jubileet også. Er mulig ikke noe konkurrerende rundt dette.
-
-Øyving: Jubileumsuke gjør av vi har forskjellige arrangementer. Bør ikke være konkurrerende og planlegge godt så det går opp.
-
-Mathias: Foreslår at vi setter av jubileumsuka den uka. itDagene er ikke satt opp enda i felleskalenderen. De er ikke konkurrerende arrangementer
-
-Sindre (spørsmål):  er det helt nødvendig å har det i starten av november? Er ikke fult trykk i oktober
-    - Kristoffer: Ville kommet meg ut i oktober og ser at eksamen nærmer seg
-    - Stensrud: snakket med økans fra sist. Var stor pågang sist gang
-    - Benedicte: September er kanskje fremdeles en usikker situasjon, men senere er mulig flere vaksinerte
-    - Henrik: En annen faktor er at hvis vi har det i november så har de hatt UKA og kanskje føler at etter det må de spare penger (og vil derfor ikke være med på like mye under jubileumet)
-    - Jonas: Har god tid til å avbestill banketten. Vi kan bestemme oss for når vi vil ha det. 
-    - Sindre: Betaling til Åre er i November. Er en økonomisk faktor og kan dra ned deltagere.
-
 ## 548 Mat på Generalforsamlingen (10 min)
 [Bør vi gi ut foodoragavekort til de som møter opp på genfors?]
 
