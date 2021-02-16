@@ -252,17 +252,15 @@ klapp klapp
 - Øyvind: seniorkom har brukt interessegruppestøtten kan det brukes på dette?
 - Stensrud: Faglig og sosial støtte. Kino og imball er inkludert
 - Mathias: dotkom ønsket hackathon. Dette kan sees på nytt nå siden det var for dyrt sist gang
+
 - Øyvind: fagkom har budsjettert for utgifter med interne kurs. Kunne fagkom flyttet over dette og bruk disse pengene istede? Vi kan føre over disse pengene
-    - Stensrud: sist gang fant vi bare poster hvor vi kan bruke pengene.
+ 
 - Stensrud: bør hs eller bankom ha kontroll over dette?
     - Mathias: atte komiteene bare. 
 
 
 ### Søknad utvidelse av budsjettet til Seniorkom
-[Seniorkom har formidlet 8820kr av sine 10000kr til interessegruppene dette semesteret! Vi ser at det er en større pågang i denne fronten og vi har fått flere nye interessegrupper den siste tiden.
-Vi har fått en litt større søknad fra den nye interessegruppen Onski. De har søkt om 4469kr til oppstart. Seniorkom har innvilget 900kr av dette (inkludert i de allerede formidlede 8820kr). Vi har et ønske om å innvilge hele oppstartsstøtten til Onski, men har ikke budsjett til dette. Dermed spør vi pent om det er mulig å øke budsjettposten vår! Vi har to forslag:
-1.Øke budsjettposten til 13 600kr. Da har vi en liten pute på ca 1 200kr til eventuelle ekstra søknader ila semesteret.
-2.Øke budsjettposten til 12 400kr. Da har vi akkurat nok til å gi ut den ønskede støtten, men må avslå eventuelle ekstra søknader ila semesteret.]
+[Seniorkom har snart brukt opp sitt budsjett for interessegruppene og har nå fått inn en stor søknad fra Onski]
 
 - Øyvind (spørsmål): Er det mange interessegrupper som er aktive som ikke har søkt penger dette semesteret?
     - Luka: Har snakket med alle interessegruppene. Noen vet de ikke vil søke
