@@ -23,7 +23,7 @@ Referat fra generalforsamlingen 2020 finner du her: [attachment:762]
 
 ## Regnskap 2020 og budsjett 2021
 
-- Regnskap: *Kommer*
+- Regnskap: [Regnskap 2020](https://docs.google.com/spreadsheets/d/1ZGzS-x1XD8i6Dx3SivXF_1DaLYUWuIvBVP1nlHiwBiU/edit?usp=sharing)  
 - Budsjett: [Budsjett 2021](https://docs.google.com/spreadsheets/d/17VzmWpA4y5E_FNGJFiN2e72bc5p-zney5CrmmfWRiVM/edit?usp=sharing)
 
 ## Informasjon
