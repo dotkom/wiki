@@ -32,6 +32,8 @@ Onski etterstreber å arrangere en skitur i uka såfremt forholdene tillater det
 
 Økonomiske midler som er bevilget interessegruppen kan utelukkende nytes på arrangementer som er informert om åpent og offentlig. #onski på slack skal benyttes til å annonsere turer.  
 
+Utstyr som er kjøpt inn skal arves av Online dersom interessegruppen opphører
+
 
 
 Tidligere Arrangementer
