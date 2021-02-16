@@ -71,10 +71,16 @@ Hovedstyret er foreningens ansikt utad og skal oppføre seg deretter. Det gjelde
 
 Etter en Generalforsamling har avtroppende Hovedstyre møteplikt i tre møter, deretter møterett i tre til. Avtroppende styre kan sitte på mailinglister til deres møterett opphører.  Avtroppende styre plikter å følge opp sine etterkommere under tiden de har møteplikt.
 
-Hovedstyret skal legge til rette for at leder av Seniorkomiteen skal ha tilgang til mail og wiki på lik linje med resten av hs-medlemmene. Seniorkomleder skal inkluderes i Hovedstyrerelaterte aktiviteter i en grad som står i forhold til vedkommendes innsats i Hovedstyret. Dersom seniorkom ikke har mulighet for å ta opp egne medlemmer plikter Hovedstyret å gjøre det. 
+Hovedstyret skal legge til rette for at leder av Seniorkomiteen skal ha tilgang til mail og wiki på lik linje med resten av hs-medlemmene, dersom vedkommende ønsker å delta aktivt i styret. Seniorkomleder skal inkluderes i Hovedstyrerelaterte aktiviteter i en grad som står i forhold til vedkommendes innsats i Hovedstyret. Dersom seniorkom ikke har mulighet for å ta opp egne medlemmer plikter Hovedstyret å gjøre det. 
+
+Hovedstyret skal legge til rette for at leder av Bank- og økonomikomiteen skal ha tilgang til mail og wiki på lik linje med resten av hs-medlemmene, dersom vedkommende ønsker å delta aktivt i styret. Bankkomleder skal inkluderes i Hovedstyrerelaterte aktiviteter i en grad som står i forhold til vedkommendes innsats i Hovedstyret. 
 
 Hovedstyret fører logg over linjeforeningens aktiviteter og fremlegger årsberetning for generalforsamlingen.  
+
 Hovedstyret skal formidle saker og vedtak til komitemedlemmene via den respektive komiteens styremedlem.  
+
 Representantene av Hovedstyret kan uttale seg og handle på linjeforeningens vegne når vedkommendes sak er avklart i Hovedstyret. Ved uklarheter skal leder uttale seg.  
+
 Hovedstyret har fullmakt til å fylle eventuelle tomme verv ved behov.  
+
 Hovedstyret er ansvarlig for komitéopptak og skal føre intervju- og søknadsprosesser. Hovedstyret skal godkjenne komiteenes retningslinjer på første hovedstyremøte etter endt generalforsamling.
