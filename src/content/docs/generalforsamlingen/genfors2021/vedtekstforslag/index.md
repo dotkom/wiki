@@ -182,9 +182,9 @@ Endres til:
 
 “En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.”
 
-## Forslag 11: Fjerne punkt om å søke HS etter seks semesteret vervdeltakelse (Benedicte Myrvoll og Mathias Fossum)
+## Forslag 11: Fjerne punkt om å søke HS etter vervdeltakelse i seks semestre(Benedicte Myrvoll og Mathias Fossum)
 **Bakgrunn**
-Paragrafen har ikke vært i særlig bruk de siste årene, og slik vi ser det trenger ikke Hovedstyret stemme over hvorvidt et medlem skal få fortsette i en komité etter 2 år. Dersom det skulle være nødvendig å si opp et komitémedlem etter 2 år, vil komitéleder uansett ha mulighet til dette i samråd med Leder av Online, dekket av 4.6.3 Advarsel og oppsigelse.  
+Paragrafen har ikke vært i særlig bruk de siste årene, og slik vi ser det trenger ikke Hovedstyret stemme over hvorvidt et medlem skal få fortsette i en komité etter 3 år. Dersom det skulle være nødvendig å si opp et komitémedlem etter 3 år, vil komitéleder uansett ha mulighet til dette i samråd med Leder av Online, dekket av 4.6.3 Advarsel og oppsigelse.  
 
 **Endringer**
 Fjerne:  
