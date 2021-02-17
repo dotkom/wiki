@@ -40,7 +40,7 @@ title: "Dagsorden 2021"
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
 | 10  | 16:55 | 17:05 | Årsberetning for Online og samarbeidspartnere  ||
-| Total tid: | |15 min|
+| Total tid: | |10 min|
 
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
@@ -51,28 +51,30 @@ title: "Dagsorden 2021"
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
-|---|---|---|---|---|
-|15|17:20|---|Sak 1 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)|---|
-|5|---|---|Sak 2 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)|---|
-|5|---|17:45|Sak 3 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)|---|
-| Total tid: | |25 min|
+|---|---  |---|---|---|
+|15 |17:20| 17:35|Sak 1 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)|---|
+|5  |17:35|17:40  |Sak 2 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)|---|
+|5  |17:40|17:45|Sak 3 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)|---|
+| Total tid:  | |25 min|
 
 ## Pause 30 min til middag
 
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|15|18:15|---|Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|5|---|---|Forslag 2: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|20|---|---|Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|10|---|---|Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|5|---|---|Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|5|---|---|Forslag 6: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)|---|
-|5|---|---|Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO|---|
-|10|---|---|Forslag 8: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)|---|
-|5|---|---|Forslag 9: Gjeninnføre appkom som nodekomité|---|
-|10|---|19:45|Forslag 10: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)|---|
-| Total tid: | | 90 min |
+|15 |18:15|18:30|Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|5  |18:30|18:35|Forslag 2: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|20 |18:35|18:55|Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|15 |18:55|19:10|Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|5  |19:10|19:15|Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|5  |19:15|19:20|Forslag 6: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)|---|
+|10 |19:20|19:30| Pause |---|
+|5  |19:30|19:35|Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO|---|
+|10 |19:35|19:45|Forslag 8: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)|---|
+|5  |19:45|19:50|Forslag 9: Gjeninnføre appkom som nodekomité|---|
+|10 |19:50|20:00|Forslag 10: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)|---|
+| 5 |20:00| 20:05 | Forslag 11: Fjerne §4.8 Vervvarighet |
+| Total tid: | | 110 min |
 
 
 ### Utdeling av Særskilt utmerkelse 8 min
@@ -83,8 +85,8 @@ title: "Dagsorden 2021"
 ### Årsberetning for fondet
 
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
-|---|---|---|---|---|
-|2|19:58|20:00|Årsberetning for fondet v/ Fondstyret||
+|---|---  |---  |---|---|
+|2  |20:18|20:20|Årsberetning for fondet v/ Fondstyret||
 | Total tid: | | 2 min |
 
 ### Saksforslag for fondet
@@ -94,50 +96,52 @@ title: "Dagsorden 2021"
 
 ### Vedtektsforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
-|---|---|---|---|---|
-|15||20:15|Forslag 1 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)|---|
+| ---|--- |---|---|---|
+| 15 |20:20|20:35|Forslag 1 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)|---|
 | Total tid: | | 15 min |
 
 ### Valg for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10   | 20:15| | Valg av Onlinemedlem |  |
-| 10   ||| Valg av tidligere hovedstyremedlem |  |
-| 10   ||20:45| Valg av ridder|  |
-| Total tid: | | 30 min |
+| 10   | 20:35| 20:45| Valg av Onlinemedlem |  |
+| 10   |20:45|20:55| Valg av tidligere hovedstyremedlem |  |
+| 5   |20:55|21:00| Valg av ridder|  |
+| Total tid: | | 25 min |
 
 ## Pause 10 min
 
 ### Valg
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 | --- |---|---|---|---|
-| 40 | 20:55 |  | Valg av leder  |   |
-| 40 |  |  | Valg av nestleder  |   |
-| 10 |  |  | Valg av økonomiansvarlig  |   |
-| 10 |  |  | Valg av styremedlem fra arrangementskomiteen  |  |
-| 10 |  |  | Valg av styremedlem fra bedriftskomiteen  |  |
-| 15 |  |  | Valg av styremedlem fra drifts- og utviklingskomiteen  |   |
-| 25 |  |  | Valg av styremedlem fra fag- og kurskomiteen  |  |
-| 10 |  |  | Valg av styremedlem fra profil- og aviskomiteen  |   |
-| 10 |  |  | Valg av styremedlem fra trivselskomiteen  |   |
-| 10 |  |  | Valg av styremedlem fra seniorkomiteen(Dersom forslag 4 går gjennom)  |   |
-| 15 |  | 00:10 | Valg av valgkomite  |   |
-| Total tid: | |3 t 15 min|
+| 40 | 21:10 | 21:50 | Valg av leder  |   |
+| 5  | 21:50| 21:55 |Pause |  |
+| 40 |  21:55|22:35  | Valg av nestleder   |   |
+| 10 | 22:35 | 22:45 | Valg av økonomiansvarlig  |   |
+| 10 | 22:45 | 22:55 | Valg av styremedlem fra arrangementskomiteen  |  |
+| 15 | 23:55 | 23:10 | Valg av styremedlem fra bedriftskomiteen  |  |
+| 10 | 23:10 |23:20  | Pause ||
+| 10 | 23:20 | 23:30| Valg av styremedlem fra drifts- og utviklingskomiteen  |   |
+| 10 | 23:30 | 23:40 | Valg av styremedlem fra fag- og kurskomiteen  |  |
+| 15 | 23:40 | 23:55 | Valg av styremedlem fra profil- og aviskomiteen  |   |
+| 10 | 23:55 | 00:05 | Valg av styremedlem fra trivselskomiteen  |   |
+| 10 | 00:05 | 00:15 | Valg av styremedlem fra seniorkomiteen(Dersom forslag 4 går gjennom)  |   |
+| 15 | 00:15 | 00:30 | Valg av valgkomite  |   |
+| Total tid: | |3 t 20 min|
 
 ### Godkjenning av komitéledere
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 2 |00:10|  | Godkjenning av komitéleder fra arrangementskomiteen  |  |
-| 2 | |  | Godkjenning av komitéleder fra bank- og økonomikomiteen (Dersom vedtektsforslag 2 går gjennom)  |  |
-| 2 | | | Godkjenning av komitéleder fra bedriftskomiteen  |  |
-| 2 | |  | Godkjenning av komitéleder  fra drifts- og utviklingskomiteen  |   |
-| 2 | |  | Godkjenning av komitéleder  fra fag- og kurskomiteen  |  |
-| 2 | |  | Godkjenning av komitéleder  fra profil- og aviskomiteen  |   |
-| 2 | |00:22 | Godkjenning av komitéleder  fra trivselskomiteen  |   |
+| 2 |00:30| 00:32 | Godkjenning av komitéleder fra arrangementskomiteen  |  |
+| 2 | 00:32| 00:34 | Godkjenning av komitéleder fra bank- og økonomikomiteen (Dersom vedtektsforslag 2 går gjennom)  |  |
+| 2 |00:34 | 00:36 | Godkjenning av komitéleder fra bedriftskomiteen  |  |
+| 2 | 00:36| 00:38 | Godkjenning av komitéleder  fra drifts- og utviklingskomiteen  |   |
+| 2 | 00:38 | 00:40 | Godkjenning av komitéleder  fra fag- og kurskomiteen  |  |
+| 2 |00:40 | 00:42 | Godkjenning av komitéleder  fra profil- og aviskomiteen  |   |
+| 2 | 00:42 |00:44 | Godkjenning av komitéleder  fra trivselskomiteen  |   |
 | Total tid: | |12 min|
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 | |00:28 | Evaluering av generalforsamling  |   |
+| 5 |00:44 |00:49 | Evaluering av generalforsamling  |   |
 | Total tid: | |5 min|
