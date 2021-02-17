@@ -39,7 +39,7 @@ Linjeleder-dalje
 ==================
 [image:769 align:right]
     Linjeleder-dalje.
-Linjeleder-daljen utdeles til den nye lederen av Online under Generalforsamlingen. Daljen er produsert av [Musette](musette.no) og viser en sportslig mannsfigur foran Hovedbygget. 
+Linjeleder-daljen utdeles til den nye lederen av Online under Generalforsamlingen. Daljen er produsert av [Musette](musette.no) og viser NTH-logoen som tegnet av Kristiania-maleren Domenico Erdman i 1912. Daljen har guden Prometevs som motiv. 
 
 
 Lang og tro tjeneste
