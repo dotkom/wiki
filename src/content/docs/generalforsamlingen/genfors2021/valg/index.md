@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Nestleder:* André Schjøth, Elise Rabassa Stautland
 * *Økonomiansvarlig:* Milla Weium
 * *Styremedlem fra arrkom:* William Andersson
-* *Styremedlem fra bedkom:* Karen Seim Midtlien
+* *Styremedlem fra bedkom:* Karen Seim Midtlien, Anders Robstad  
 * *Styremedlem fra dotkom:* Thomas Hasvold
 * *Styremedlem fra fagkom:* Mari Lehne 
 * *Styremedlem fra prokom:* Henrik Moe Wæhre, Runar Johnsen
