@@ -28,7 +28,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 
 **Bakgrunn**  
-De siste to årene har Hovedstyret måttet ta stilling til hvilken rolle bankomleder skal ha i styret. Ettersom bankomleder har vedtektsfestet møte- og talerett, har bankomleder full adgang til å komme på hvert møte, og på mange måter fungere som et ekstra styremedlem. Ettersom dette gir bankom mulighet til å ha to stemmer i styret, og dermed får en større stemme i styret er dette problematisk. Bankom har i praksis mulighet til å velge en ekstra person til styret, som vil ha innsyn og påvirkningskraft i alle styresaker. Ved å fjerne møte- og taleretten tetter man igjen smutthullet, og gjør det ikke lenger mulig for bankomleder å sitte som styremedlem uten stemmerett.
+De siste to årene har Hovedstyret måttet ta stilling til hvilken rolle bankomleder skal ha i styret. Ettersom bankomleder har vedtektsfestet møte- og talerett, har bankomleder full adgang til å komme på hvert møte, og på mange måter fungere som et ekstra styremedlem. Ettersom dette gir bankom mulighet til å ha to talspersoner i styret, vil de utgjøre en større del av Hovedstyret enn resten av kjernekomiteene. Dette kan være problematisk, da bankom i praksis har mulighet til å velge en ekstra person til styret, som vil ha innsyn og påvirkningskraft i alle styresaker. Ved å fjerne møte- og taleretten tetter man igjen smutthullet, og det blir ikke lenger mulig for bankomleder å sitte som styremedlem uten stemmerett.
 
 **Endringer**  
 4.2.2 Bank- og økonomikomiteen
@@ -40,12 +40,22 @@ Endres til:
 "Leder av Bank- og
 økonomikomiteen skal ikke være økonomiansvarlig for en annen komité."
 
-
-
-## Forslag 2: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 2: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 **Bakgrunn**  
-Dersom det blir fastsatt en egen rådgiver fra seniorkom, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at lederrollen sidestilles med de andre komitélederene. Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Dersom vi ikke ser en grunn til at seniorkom sin representant i styret skal ha stemmerett, kan man heller fastsette en egen rådgivende rolle. Representanten velges av seniorkom, og godkjennes deretter av Hovedstyret som sin rådgiver. Leder kan ogsåstille til rollen. Rollen trenger ikke være fast, men kan skiftes ut i løpet av året.
+Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på generalforsamlingen, utenom seniorkomleder og bankomleder. Dette bør også gjelde bankomleder, da dette er en vel så viktig rolle som de andre komitélederrollene.
+
+**Endringer**  
+4.2.2 Bank- og økonomikomiteen
+
+Fjerne:  
+"Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
+
+
+## Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+
+**Bakgrunn**  
+Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Likevel blir også vedkommende et "halvt styremedlem", ettersom de ikke har stemmerett og ikke blir valgt på generalforsamlingen. Ønsket er å gjøre rollen mer tydelig, ved å enten løfte seniorkomleder opp i styret med stemmerett, eller fjerne muligheten for seniorkomleder å sitte i styret med møte- og talerett. Ettersom det kan bli fastsatt en egen rådgiver fra seniorkom i samarbeid med Hovedstyret, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at vedkommende sidestilles med de andre komitélederene. 
 
 **Endringer**  
 
@@ -56,18 +66,18 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 3: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
+## Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
 
 **Bakgrunn**  
 
-Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkomleder har også vært nyttig som en rådgiver for styret, da de ofte sitter på mye kunnskap om linjeforeningen. Det kan være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
+Dersom fjerning av møte- og talerett for seniorkomleder faller, vil det å gi stemmerett til seniorkomleder være en annen måte å gjøre denne rollen tydeligere. Seniorkom er idag den eneste kjernekomiteen uten stemmerett i styret. De siste tre årene har seniorkomleder fungert som et ekstra styremedlem, som sitter med samme tilganger som resten av styremedlemmene, med unntak av stemmerett. Seniorkomleder har også fungert godt som en rådgiver for styret, da de ofte sitter på mye kunnskap om linjeforeningen. Det kan likevel være demotiverende å sitte som et "halvt" styremedlem i Hovedstyret, og stemmeretten og valget på generalforsamlingen ville kunne gitt mer eierskap til styredelen av vervet.
                                                                                                                                                                                                                                                                                                                                                               
 **Endringer**  
 
 4.1.1 Hovedstyrets sammensetning
 
 Legge til:  
-"• Styremedlem fra Seniorkomiteen"
+"• Leder av Seniorkomiteen"
 
 4.2.8 Seniorkomiteen
 
@@ -76,22 +86,10 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 4: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
-
-**Bakgrunn**  
-Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Dette bør også gjelde bankomleder, da dette er en vel så viktig rolle som de andre komitélederrollene.
-
-**Endringer**  
-4.2.2 Bank- og økonomikomiteen
-
-Fjerne:  
-"Bank- og økonomikomiteen velger og godkjenner selv sin leder." 
-
-
 ## Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
                                                                                           
 **Bakgrunn**  
-Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Ettersom seniorkom tradisjonelt tar opp mange nye medlemmer i etterkant av generalforsamlingen, kan de ha behov for å ha ledervalg i etterkant også. Dermed vil godkjenningen gjøres av Hovedstyret for å tilrettelegge for dette
+Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Ettersom seniorkom tradisjonelt tar opp mange nye medlemmer i etterkant av generalforsamlingen, kan de ha behov for å ha ledervalg i etterkant også. Dermed vil godkjenningen gjøres av Hovedstyret for å tilrettelegge for dette.
 
 
 **Endringer**  
@@ -102,7 +100,6 @@ Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gik
 
 Endres til:  
 "Leder av Seniorkomiteen godkjennes av Hovedstyret." 
-
 
 
 ## Forslag 6: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)
