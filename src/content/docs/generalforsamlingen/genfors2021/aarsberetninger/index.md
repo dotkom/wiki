@@ -217,6 +217,18 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 
 ## Realfagskjelleren 
 
+### Hva har vi gjort?
+- Tatt opp 3 nye onlinere
+- Har måtte holde stengt i perioder, grunnet koronavirus-situasjonen
+- Fått høytalere og støydempeplater fra fondet. Har også fått nytt kassasystem som gjør det mulig å ha bordservering, etter komunale krav.
+- Fått online-kontorets gamle bord
+
+### Fremover
+- Skal holde generalforsamling dd/03, hvor vi velger nytt styre.
+- Skulle ha hatt jubileum i april, men dette har blitt utsatt. 
+
+
+
 ## Casual Gaming
 
 ## Output
