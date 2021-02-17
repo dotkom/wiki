@@ -218,13 +218,13 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 ## Realfagskjelleren 
 
 ### Hva har vi gjort?
-- Tatt opp 3 nye onlinere
-- Har måtte holde stengt i perioder, grunnet koronavirus-situasjonen
-- Fått høytalere og støydempeplater fra fondet. Har også fått nytt kassasystem som gjør det mulig å ha bordservering, etter komunale krav.
-- Fått online-kontorets gamle bord
+- Tatt opp tre nye onlinere
+- Har måtte holde stengt i perioder, grunnet pandemien
+- Fått støtte til høytalere og støydempeplater fra fondet. Har også fått nytt kassasystem som gjør det mulig å følge kravet om bordservering.
+- Fått online-kontorets gamle bord, som øker antall sitteplasser.
 
 ### Fremover
-- Skal holde generalforsamling dd/03, hvor vi velger nytt styre.
+- Skal holde generalforsamling i mars, hvor vi velger nytt styre.
 - Skulle ha hatt jubileum i april, men dette har blitt utsatt. 
 
 
@@ -234,3 +234,9 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 ## Output
 
 ## Fondstyret
+
+- Har vært et rolig år, da det ikke har vært så mange søknader.
+
+- Støttet Realfagskjelleren med nytt kassasystem, to stk høytalere og støydempeplater, som tilrettelegger for bordbetaling og god stemning på kjelleren.
+
+- Støttet Trikom med midler til nye møbler og utstyr som mikrobølgovn og håndstøvsuger. Tanken bak dette var å bytte slitt og ødelagt utstyr, samt gjøre kontoret mer universalt utformet.
