@@ -183,8 +183,18 @@ Endres til:
 “En nodekomité er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.”
 
 ## Forslag 11: Fjerne punkt om å søke HS etter seks semesteret vervdeltakelse (Benedicte Myrvoll og Mathias Fossum)
+**Bakgrunn**
+Paragrafen har ikke vært i særlig bruk de siste årene, og slik vi ser det trenger ikke Hovedstyret stemme over hvorvidt et medlem skal få fortsette i en komité etter 2 år. Dersom det skulle være nødvendig å si opp et komitémedlem etter 2 år, vil komitéleder uansett ha mulighet til dette i samråd med Leder av Online, dekket av 4.6.3 Advarsel og oppsigelse.  
 
-Fjerne 4.8 Vervvarighet
+**Endringer**
+Fjerne:  
+"4.8 Vervvarighet  
+
+Et verv i linjeforeningen kan vare i inntil seks (6) semestre fra og med semesteret
+man ble tatt opp. Dersom man ønsker ˚a være et aktivt komit´emedlem etter disse
+seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online-vervet for
+to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller p˚a de seks
+vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i seniorkomiteen."
 
 
 # Forslag til Onlines fonds vedtekter
