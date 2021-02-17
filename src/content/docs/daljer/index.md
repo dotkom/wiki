@@ -35,6 +35,13 @@ Gammel HS-dalje
     Gammel HS-dalje.
 Slik så hovedstyrets dalje ut før. Lite er visst om denne, men det anntas at det er Trofé som står for produksjonen. Daljen er veldig enkel, med "STYRET" og "ONLINE" satt i en sirkel, med krans rundt. Bæres i dag av ytterst få, og er et sjeldent syn.
 
+Linjeleder-dalje
+==================
+[image:769 align:right]
+    Linjeleder-dalje.
+Linjeleder-daljen utdeles til den nye lederen av Online under Generalforsamlingen. Daljen er produsert av [Musette](musette.no) og viser en sportslig mannsfigur foran Hovedbygget. 
+
+
 Lang og tro tjeneste
 ==================
 [image:277 align:right]
