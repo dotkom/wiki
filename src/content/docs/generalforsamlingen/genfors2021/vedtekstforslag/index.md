@@ -18,12 +18,6 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter 
 
-## Forslag X: Forslagstittel (Forslagsfremmer(e))
-
-**Bakgrunn**  
-
-**Endringer**  
-
 ## Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 
