@@ -23,17 +23,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 ## Sak X - Sakstittel (Saksfremmer)
 
-## Sak 1 - Samkjøring nodekomitéopptak og suppleringsopptak (AUO)
-
-**Bakgrunn**
-Tidligere har Online kjørt opptak for alle komiteer en gang hver høst, med supplementeringsopptak på forskjellige tider på våren. I tillegg har de fleste nodekomiteer (da spesielt for Velkom og Ekskom) kjørt sine opptak på forskjellige tidspunkter på våren. Dette skaper usikkerhet for de som er interessert i komitéarbeid, ettersom det ikke er visst på forhånd når man kan søke roller i disse. Å standardisere opptaksperioder, både for nodekomiteer og kjernekomiteers suppleringsopptak, vil forhåpentligvis gjøre det lettere å blæste for de og de som vil engasjere seg i Online har større sikkerhet på at de vil få en mulighet
-
-**Forslag**
-Hvert år vil det bli gjennomført to opptak i Online, det vanlige høstopptaket, samt et våropptak der fokuset først og fremst vil være på nodekomiteer. Dette skal gjennomføres i en fastsatt periode i slutten av Januar/starten av Februar. I tillegg skal kjernekomiteer ha mulighet til å bli med på denne opptaksperioden, dersom komiteen ønsker å supplere.
-
-
-
-## Sak 2 - Benytte preferansevalg (STV) ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
+## Sak 1 - Benytte preferansevalg (STV) ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)
 
 **Bakgrunn**
 
@@ -61,7 +51,7 @@ Fordeler inkluderer:
 - Mer demokratisk  
 
 
-## Sak 3 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
+## Sak 2 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)
 
 **Bakgrunn**  
 Reglement rundt hvordan budsjettet endres og godkjennes har ikke blitt formalisert, det har gitt mange spørsmål og "i siste liten" arbeid for bankom. Det skulle egentlig bli utarbeidet et dokument som skulle tas i bruk under budsjettforslagskvelden, det skjedde ikke. Dermed har det nå blitt utarbeidet et dokument, som både bankom og Hovedstyret har sett gjennom og godkjent.
@@ -87,24 +77,10 @@ Det er Hovedstyret som godkjenner budsjettet for linjeforeningen. Godkjenning av
 
 Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på ordinære styremøter. Ved større endringer i budsjettet må det kalles inn til et nytt budsjettmøte. Forslaget til endring i budsjettet må ligge tilgjengelig for linjeforeningen i én uke før et slikt møte.
 
-## Sak 4 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
+## Sak 3 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)
 
 **Bakgrunn**  
 I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onlines regnskapsår for 2020, likvide midler og driftsresultatet, foreslås det å overføre 420 000 kr til fondet.
 
 **Forslag**  
 Overføre 420 000 kroner til Onlines Fond.
-
-## Sak 5 - Endring av dagsorden dersom forslag om godkjenning av bankomleder går gjennom.
-
-**Bakgrunn:** To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at dagsorden endres bare dersom vedtektforslag 1 vedtas. Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
-
-**Forslag:** Dersom godkjenning av bankomleder på generalforsamling vedtas, foreslår vi et spesielt tilfelle for 2021. Siden det ikke har blitt tatt internt valg før denne generalforsamlingen foreslår vi at bankomleder velges etter generalforsamlingen. Hovedstyret har ansvaret for å godkjenne bankomlederen med 1 måneds frist.
-
-
-## Sak 6 - Endring av dagsorden dersom forslag om å gi seniorkomleder stemmerett går gjennom.
-**Bakgrunn:** To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer før vedtektsforslag er det viktig å påpeke at dagsorden endres bare dersom vedtektsforslag 3 blir vedtatt.
-
-Dersom stemmerett til seniorkomleder i styret vedtas, foreslår vi et spesielt tilfelle for 2021. Dersom vedtektsforslaget blir vedtatt, men dette saksforslaget ikke blir vedtatt, må det kalles inn til ekstraordinær generalforsamling.
-
-**Forslag:** Dersom stemmerett til seniorkomleder i styret vedtas, legges valg av seniorkomleder inn i dagsorden.
