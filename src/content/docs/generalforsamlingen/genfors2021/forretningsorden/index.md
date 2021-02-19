@@ -19,7 +19,7 @@ Alle medlemmer av Online, jfr. kapittel 5 i vedtektene har møte-, tale- og stem
 
 Ved starten av generalforsamlingen vedtar generalforsamlingen å gi alle medlemmer som er tilstede, og de som har meldt til Hovedstyret at de kommer for sent, stemmerett under generalforsamlingen.
 
-Alle deltakere skriver seg opp til et deltakernummer som må stå i navnet deres i Zoom under generalforsamlingen. Når en deltaker forlater zoom skal man si ifra til tellekorpset, slik at de kan fjerne stemmeretten. Når deltakeren returnerer blir det samme deltakernummeret levert ut igjen.
+Alle deltakere skriver seg opp til et fast deltakernummer som må stå i navnet deres i Zoom under generalforsamlingen. Når en deltaker forlater zoom skal man si ifra til tellekorpset, slik at de kan fjerne stemmeretten. Når deltakeren returnerer blir det samme deltakernummeret levert ut igjen.
 
 Gjester har kun talerett.
 
