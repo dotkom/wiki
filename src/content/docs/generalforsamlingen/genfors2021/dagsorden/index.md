@@ -124,7 +124,7 @@ title: "Dagsorden 2021"
 | 10 | 23:30 | 23:40 | Valg av styremedlem fra fag- og kurskomiteen  |  |
 | 15 | 23:40 | 23:55 | Valg av styremedlem fra profil- og aviskomiteen  |   |
 | 10 | 23:55 | 00:05 | Valg av styremedlem fra trivselskomiteen  |   |
-| 10 | 00:05 | 00:15 | Valg av styremedlem fra seniorkomiteen(Dersom forslag 4 går gjennom)  |   |
+| 10 | 00:05 | 00:15 | Valg av styremedlem fra seniorkomiteen (Dersom vedtektsforslag 4 går gjennom)  |   |
 | 15 | 00:15 | 00:30 | Valg av valgkomite  |   |
 | Total tid: | |3 t 20 min|
 
