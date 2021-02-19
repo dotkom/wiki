@@ -65,8 +65,8 @@ title: "Dagsorden 2021"
 |15 |18:15|18:30|Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 |5  |18:30|18:35|Forslag 2: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 |20 |18:35|18:55|Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|15 |18:55|19:10|Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|5  |19:10|19:15|Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|15 |18:55|19:10|Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|5  |19:10|19:15|Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 4 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 |5  |19:15|19:20|Forslag 6: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)|---|
 |10 |19:20|19:30| Pause |---|
 |5  |19:30|19:35|Forslag 7: Komitéleder som stedsfortreder til styremedlem v/ AUO|---|
