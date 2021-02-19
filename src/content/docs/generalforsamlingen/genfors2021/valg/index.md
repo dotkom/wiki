@@ -34,8 +34,22 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Tidligere hovedstyremedlem:* 
 * *Ridder:*
 
+**De som skal godkjennes som komitéledere er:**
+
+* *Arrkomleder:* 
+* *Bedkomleder:* 
+* *Dotkomleder:*
+* *Fagkomleder:*
+* *Prokomleder:*
+* *Trikomleder:*
+
+### Eventuell godkjenning av bankomleder
+Grunnet vedtektsforslag 2 legger vi også inn bankomleder for mulig godkjennelse på generalforsamlingen. Dette skjer kun dersom vedtektsforslag 2 - "Godkjenne bankomleder på generalforsamlingen" går gjennom.
+
+* *Bankomleder:*
+
 ### Eventuelt valg av seniorkomleder på generalforsamlingen
-Grunnet vedtektsforslag og saksforslag som endrer valgprosessen av seniorkomleder i år, legges det inn mulighet for å melde interesse til dette vervet. Dette dekker tilfelle der vedtektsforslag 3 - Gi seniorkomleder stemmerett i styret, går gjennom.
+Grunnet vedtektsforslag 4 som kan endre valgprosessen av seniorkomleder i år, legges det inn mulighet for å melde interesse til dette vervet. Dette dekker tilfelle der vedtektsforslag 4 - "Gi seniorkomleder stemmerett i styret" går gjennom.
 
 Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
 
