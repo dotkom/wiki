@@ -72,10 +72,7 @@ Hovedinnlegg tegnes ved å trykke på "raise hand"-knappen i reactions- eller pa
 #### 4.1.2 Replikk
 For å tegne seg til replikk, skriver man “Replikk til <navn på den som hadde innlegg> i zoom-chatten. Det er anledning til inntil to replikker per hovedinnlegg samt en svarreplikk. Til replikk og svarreplikk gis ordet for inntil 0.5 minutt. Det er ikke anledning til å ta replikk på replikk.
 
-#### 4.1.3 Skriftlig innlegg
-Det gis anledning til å få sine innlegg lest opp av ordstyrer. Innleggene tegnes som beskrevet i  punktene 4.1.1 og 4.1.2.
-
-#### 4.1.4 Saksopplysning
+#### 4.1.3 Saksopplysning
 Saksopplysning tegnes ved å skrive “Saksopplysning” i zoom-chatten. Saksopplysning gis ordet for å avklare rene, faktiske forhold, og ordet blir gitt umiddelbart etter at innlegget, eller replikken tegningen kom under, er avsluttet.
 
 ### 4.2 Andre reguleringer av forhandlingene
