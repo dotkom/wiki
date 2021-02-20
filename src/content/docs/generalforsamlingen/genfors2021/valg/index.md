@@ -41,7 +41,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Dotkomleder:*
 * *Fagkomleder:*
 * *Prokomleder:*
-* *Trikomleder:*
+* *Trikomleder:* Carolina Gunnesdal
 
 ### Eventuell godkjenning av bankomleder
 Grunnet vedtektsforslag 2 legger vi også inn bankomleder for mulig godkjennelse på generalforsamlingen. Dette skjer kun dersom vedtektsforslag 2 - "Godkjenne bankomleder på generalforsamlingen" går gjennom.
