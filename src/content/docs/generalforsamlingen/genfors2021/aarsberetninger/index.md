@@ -231,7 +231,7 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 
 Pandemien har ført til at vi avlyste de fleste småarrangementer og crewsamlinger, men vi har likevel med et sterkt crewopptak, ekstra innsats og noenlunde heldige omstendigheter vedrørende pandemien klart å gjennomføre og videreutvikle hovedarrangementet vårt, TrøndeLAN.
 
-### Full årsberetning for kalenderåret 2020
+**Full årsberetning for kalenderåret 2020**:
 
 - Årsmøtet: Ble gjennomført fysisk 27. februar.
 - Møter: Vi hatt 32 crew- og styremøter, derav ett fysisk, samt rundt 5 arbeidskvelder.
