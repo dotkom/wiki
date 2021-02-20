@@ -35,9 +35,6 @@ Tidligere medlemmer fra trikom som har gått over til seniorkomiteen har møte- 
 
 Trikom har ansvar for kontoret. Dette inkluderer å handle inn varer til kontoret, samt sørge for drikketillatelse til kontoret.
 
-#### (2) Brus
-
-Trikom har ansvar for å handle inn brus til fag- og kurskomiteen og bedriftskomiteen.
 
 #### (3) Servering under Generalforsamlingen
 
@@ -47,9 +44,9 @@ Trikom er ansvarlige for å handle inn forfriskninger til Generalforsamlingen.
 
 Trikom har ansvar for å handle inn til Nibble, og passe på at hyllene blir fylt på regelmessig. Må også passe på at vareboden i A4 er ryddig og organisert.
 
-#### (5) Kontorvakter
+#### (5) Kontorordning
 
-Trikom skal sørge for å sette opp og følge opp kontorvakter.
+Trikom skal sørge for å sette opp og følge opp kontorordning.
 
 #### (6) Juleverksted
 
