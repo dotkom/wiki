@@ -18,8 +18,8 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder:* Thea Karin Fladby, Sindre Langaard, Øyvind Schjerven
-* *Nestleder:* André Schjøth, Elise Rabassa Stautland
+* *Leder:* Thea Karin Fladby, Sindre Langaard, Øyvind Schjerven, André Schjøth
+* *Nestleder:* Elise Rabassa Stautland
 * *Økonomiansvarlig:* Milla Weium
 * *Styremedlem fra arrkom:* William Andersson
 * *Styremedlem fra bedkom:* Karen Seim Midtlien, Anders Robstad  
