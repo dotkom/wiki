@@ -227,9 +227,23 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 - Skal holde generalforsamling i mars, hvor vi velger nytt styre.
 - Skulle ha hatt jubileum i april, men dette har blitt utsatt. 
 
-
-
 ## Casual Gaming
+
+Oppsummert: Pandemien har ført til at vi avlyste de fleste småarrangementer og crewsamlinger, men vi har likevel med et sterkt crewopptak, ekstra innsats og noenlunde heldige omstendigheter vedrørende pandemien klart å gjennomføre og videreutvikle hovedarrangementet vårt, TrøndeLAN.
+
+Full årsberetning for kalenderåret 2020:
+
+- Årsmøtet: Ble gjennomført fysisk 27. februar.
+- Møter: Vi hatt 32 crew- og styremøter, derav ett fysisk, samt rundt 5 arbeidskvelder.
+- Crew: I 2020 var vi cirka 21 crewmedlemmer, derav 8 nye.
+- Medlemmer: Vi hadde totalt 235 medlemmer, derav 201 under 26 år. Dette er en nedgang på 13 stk. siden 2019.
+- Økonomi: Vi hadde i 2020 inntekter på totalt 263 701kr og utgifter på totalt 184 362kr. Overskuddet på 79 339kr skyldes en nødvendig buffer i tilfelle avlysning av TrøndeLAN, samt tidlig sponsing til TrøndeLAN 2021.
+- Casual Gaming ble medlemsforening i forbundet Norsk Digital Kultur, som vi tidligere deltok på stiftelsesmøtet av i 2019.
+- Spillkvelder: Grunnet pandemien arrangerte vi ingen ordinære fysiske spillkvelder ila. året, men gjennomførte tre offentlige digitale ila. vårsemesteret og to interne digitale ila. høstsemesteret. Digitale spillkvelder ble ikke prioritert i 2020, men vi begynte i desember å tenke på arrangering av faste digitale spillkvelder fra starten av 2021.
+- StudLAN vår: Ble arrangert 6.–7. mars i A4 i Realfagbygget ved NTNU Gløshaugen med 30 deltakere i tillegg til crew. Grunnet nedgang i deltakere etter pausen i 2018 så valgte vi å flytte fokuset fra “arrangert LAN” til “casual spillkveld”.
+- StudLAN høst: Ble avlyst grunnet pandemien.
+- TrøndeLAN: Ble arrangert 9.–11. oktober i Utleirahallen med Bitfix Gaming som hovedsamarbeidspartner og Smash Trondheim som arrangør av Super Smash Bros.-konkurransene. Etter fem år i Autronicahallen så byttet vi til den over dobbelt så store Utleirahallen, der vi også fikk innlagt 10Gb/s fiberlinje. Ifm. pandemien så ble mye tid brukt på planlegging av forsvarlig gjennomføring og godkjenning fra lokalmyndighetene, og vi mener vi oppnådde dette målet meget bra. Vi arrangerte 12 konkurranser med en samlet premiepott på 28 000kr. Totalt hadde vi i tillegg til crew 199 deltakere (med maksgrense på 200 fra nasjonale føringer), derav 178 under 26 år.
+- Onlines fadderuker (NTNU): Vi deltok på interessegrupperouletten og bistod Online med arrangeringen av to spillkvelder.
 
 ## Output
 
