@@ -31,7 +31,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Fondstyret er:**
 
 * *Onlinemedlem:* 
-* *Tidligere hovedstyremedlem:* 
+* *Tidligere hovedstyremedlem:* Henrik Liodden
 * *Ridder:*
 
 **De som skal godkjennes som komitéledere er:**
