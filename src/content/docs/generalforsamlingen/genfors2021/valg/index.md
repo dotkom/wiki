@@ -36,7 +36,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som skal godkjennes som komitéledere er:**
 
-* *Arrkomleder:* 
+* *Arrkomleder:* Åse Merethe Wilhelmsen
 * *Bedkomleder:* 
 * *Dotkomleder:*
 * *Fagkomleder:*
