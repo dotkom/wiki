@@ -108,6 +108,7 @@ Vært på x fakultetsmøter med IE.
 - Avholdt 4 bedriftspresentasjoner, hvorav 3 digitalt
 - Planlegger å arrangere 6 bedriftspresentasjoner og 1 KID-arrangement ila våresemesteret
 -  Bookingrunden for bedriftsarrangementer neste semester skjer nå
+- Samarbeid med jubkom for sponsorer til jubileumsuken høsten 2021
 
 
 ## Drifts- og utviklingskomiteen
