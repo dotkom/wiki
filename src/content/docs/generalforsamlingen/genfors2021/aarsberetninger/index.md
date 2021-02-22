@@ -194,10 +194,6 @@ Vært på x fakultetsmøter med IE.
     *   21 og deretter 17 bedriftsbesøk (fredag ble avlyst i sommer)
     *   7 besøk per student
     *   90 studenter
-*   Ble endret til følgende p.ga. COVID-19
-    *   21 bedriftsbesøk
-    *   7 besøk per student
-    *   90 studenter
 *   Undersøkte mulighet for 120 studenter og få med 3. klasse. Ble ikke gjort p.ga. koronausikkerhet
 *   Det så lovende ut for at turen ble gjennomført helt til fadderukene i august. Da så vi oss nødt til å avlyse turen og kreditere bedriftene
 *   17 bedrifter ble signert, hvorav 6 av dem var ikke-konsulentbedrifter.
