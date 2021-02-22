@@ -48,7 +48,7 @@ Vært på x fakultetsmøter med IE.
 
 ###Høst 2020   
 
-Arrangementer:
+Arrangementer:  
 - Immatrikuleringsball ble arrangert nesten som vanlig med 200 pers.  
 - Escape room  
 - Pirbadet  
