@@ -39,7 +39,43 @@ Vært på x fakultetsmøter med IE.
 - Arrangert grilling og quiz
 - Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
-## Arrangementskomiteen  
+## Arrangementskomiteen      
+###Overordnet    
+
+- Tatt opp 5 nye medlemmer, hvorav 4 førsteklassinger og 1 fjerdeklassing. Er per genfors 18 medlemmer. 1 av disse er også med i seniorkom.   
+- Måtte kutte/tilpasse en del arrangementer grunnet Covid-19   
+
+
+###Høst 2020   
+
+Arrangementer:
+- Immatrikuleringsball ble arrangert nesten som vanlig med 200 pers.  
+- Escape room  
+- Pirbadet  
+- Blåtur, med en alternativ vri på Lian. Ble en suksess.  
+- Tramplinepark  
+- Paint and sip  
+- Brunch  
+- Quiz på Sabrura og Sot. Ble en suksess.  
+- Oktoberfest. Arrangert litt under tvil, selv om alle regler ble fulgt. Gikk veldig bra. Fornøyd med gjennomføring.  
+- Online Casino. Ikke så stor interesse for dette dog det var ganske populært våren 2020.  
+- Curling, julebord, eksamensfest utgikk dessverre  
+
+###Våren 2021 
+- åre ble avlyst   
+- pirbadet  
+- vassfjellet  
+- digital x-fest  
+- virituell veldedighetsfest. Dette blir vårens arrangement, alle må spre ordet for det blir en episk kveld<3  
+- gokart (dersom det åpner opp)  
+- temafest (dersom det lar seg gjennomføre)  
+- fyllafotball (^^)  
+- trampolinepark (^^)  
+- Utmatrikulering  
+- Ølsmaking med fagkom    
+- komitéseminar. flyttes så sent i semesteret som mulig, vil ha dette fysisk.  
+- eksamensfest. Legger inn litt ekstra penger og energi på dette arrangementet i år ettersom vi ønsker å gi førsteklassingene en ordentlig feiring.  
+- fått penger til sommergalla, som en erstatning for mistet julebord:D  
 
 ## Bank- og økonomikomiteen
 
