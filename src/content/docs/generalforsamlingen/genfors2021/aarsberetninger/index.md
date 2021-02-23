@@ -78,6 +78,31 @@ Vært på x fakultetsmøter med IE.
 
 ## Bank- og økonomikomiteen
 
+### Komitéspesifikt
+ 
+* **Tatt opp mange nye som har etablert seg godt i komiteen, godt sosialt samhold**  
+* Komiteen består nå av 13 aktive medlemmer; 12 økonomiansvarlige og 1 komitéleder.
+
+### Økonomispesifikt
+* **Ny teamdrive-struktur** 
+* **Oppdatert kontrakter sammen med andre komiteer**  
+* **Oppdatert kontoplanen i regnskapsprogrammet vårt, slik at den nærmere følger Norsk Standard Kontoplan NS4102**
+* Mye opprydning av gamle rutiner, og gjenhengene overhead  
+* **Ny rutine for å hente inn, og ta vare på, fakturainformasjon fra bedrifter**
+* **Innført en "interkom"-konto, med tilhørende interkom-kort. For å minske det totale antallet bankkort i sirkulasjon** 
+* Vært på møter med Økonomiforumet, der samtlige økonomiansvarlige i linjeforeningene på Gløshaugen diskuterer saker og hjelper hverandre.  
+* **Hatt åpent budsjettmøte og fremlagt budsjettforslag til hovedstyret**  
+* **Utviklet et sett med retningslinjer for å strømlinje budsjetteringsprossessen.**  
+* Revidert regnskapet til Online for 2020.  
+* Revidert regnskapet til Abakus.  
+* Fått vårt regnskap revidert av Abakus.  
+* **Fullført regnskap for 2020.**
+* Mottatt 445 kvitteringsskjemaer. 
+* Spist altfor lite pizza.
+
+### Arrangementer 
+* **Arrangert akjseNM**
+
 ## Bedriftskomiteen
 ### Overordnet
 
