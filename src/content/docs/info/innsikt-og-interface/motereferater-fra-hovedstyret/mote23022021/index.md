@@ -1,0 +1,146 @@
+---
+title: "HS Møte 23. februar"
+---
+
+# HS møte 23/02-08  
+
+*Møtetidspunkt:* kl 11:15 - 13:00  
+*Sted:* Sentralbygg 1 265
+
+*Referering:*  
+1. ref Henrik  
+2. ref Kaja
+
+*Tilstede:*  
+
+*Ikke tilstede:*
+
+*Straffer:*  
+
+## TODOS fra forrige gang. 
+[] Benedicte sender mail til AUO om endringsforslaget til Hovedstyrets retningslinjer
+
+[x] Mathias taper boden (wow)
+
+## 552 Godkjenning av innkalling  
+Tvilsomt, men det går?
+
+## 553 Status for komiteene (11.30 - 20 min)  
+#### Arrkom, med jubkom og velkom:  
+- Veldedighetsfest, blir fett. Spør komiteene om bidrag
+- X-fest, full rulle med Abakus. Abakus er gira, blir chuggekonkurranse over zoom wow
+- Åre. Har booket. Venter på å få litt flere tilbud. 
+
+#### Bedkom, med ITEX:   
+- Sendt ut bedriftsundersøkelse. Fått ca 120 svar. Vi skal gå gjennom på workshop på onsdag/torsdag
+- Får fortsatt svar på bookingrunden. 
+- Leder-diskusjon internt til vanlig, men går bort fra det. Så det stiller 2stk.
+- Jubkom diskusjon, trenger en bedrep-rep.
+
+
+#### Dotkom, med appkom:
+- Anhkha jobber på designsystem
+- Wiki-trøbbel, men det er løst
+- Årboksbilder er tatt og sendt inn (nice)
+- Skal hjelpe arrkom sette opp veldedighetsfest
+- Snakket med Appkom om X-fest. Webkom og Appkom stiller med 2-3 stk
+
+#### Fagkom, med ekskom:  
+- Ett kurs med SopraSteria siden sist, to nye kurs ila uka
+- Forskjellige ikke-bedriftskurs i planlegging, mye forskjellig
+- Felles workshop med bedkom 
+
+#### Prokom:  
+- Offline er sendt til trykk. Printet 80 færre utgaver enn valig. 
+- Hjulpet arrkom med bannere
+- Skal ha ledervalg om noen timer
+
+#### Trikom 
+- Bidrag til veldeighetsfest
+- Kontor-ting kommer i dag
+
+#### Seniorkom:  
+- Prøvde en workshop forrige uke
+#### Bankom:
+- Workshop, gikk bra
+- Ledervalg på søndag
+- Abakus reviderer oss nå, regnskap snart klart
+
+#### Økonomiansvarlig:
+- Bestilt nytt kort til velkom
+
+#### Nestleder:  
+- Det er genfors da. Ting er blestet og dagsorden er mekka
+- Formøte på fredag. Fikk masse bra input. Dagsorden tar høyde for digitalt. 
+- Mye genfors, lite annet 
+
+#### Online IL:  
+- Vassfjellet på søndag wop wop
+
+#### Leder:  
+- Formøte, snakket med genforskandidater
+- Fikset Foodora til genfors
+- Signert immball-lokalet
+
+## 554 Interkom (5 min) 
+- På forrige møte kom et punkt om at arrkom kutter arrangementer. 
+    - Hele høstsemesteret er fullt. 
+    - Ikke så mye som skjer egt fra arrkom
+    - 2-3 ting i måneden
+    - Kanskje kutte ned på antall bedpres/kurs, blir 25 arr på høsten
+    - Heller færre store arrangementer
+    - Eget bedarr i jub-uka? 
+- Liten gjennomgang hvor viktig det er med kommunikasjonsflyt når ting blir utfordrende i komite
+    - Tar for lang tid før misnøye blir tatt opp
+    - Nedsidene med AuO, hvordan få folk til å si ifra tidligere
+    - Neste styre må være mer oppmerksom på dette
+    - Vanskelig når det er misnøye med komiteleder fra komitemedlem
+    - Tydliggjøre tillitsvalgt, sette fram styremedlem som noen man kan snakke med
+    - Fortsette med medarbeidersamtaler (viktig) og tillitsvalgte
+    - Vanskeligere å kommunisere innad med 'rona
+    - Vanskelig å si at 2020 er et representativt år for effektene av AUO
+    - Leder snakke med styret og nestleder snakke med komiteledere?
+
+## 555 Hva overlater vi til neste styret? (10 min)
+- ITEX, må tas opp med en gang.
+- Kaffeavtalen går bra
+- Åpne møter og stormøter, sørge for at medlemmer får bedre innsyn i HS
+    - Si fra om referat som ligger åpent ute
+- Meget bra komitesamarbeid i år
+- Noen komiteer sliter mer enn andre som følge av smittevern, sørge for å holde komiteer i live gjennom pandemien
+- Velge kontaktpersoner til neste fadderuke
+- Tilbakemeldinger på fadderkontrakt, må godkjennes
+- Pang-greiene er good i bedkom, løser problemet med gamle medlemmer. Kan brukes i andre komiteer
+- Mange tradisjoner som har forsvunnet pga korona, må opprettholde de. Må overføres
+    - Online gir ikke drikkegaver
+    - Gir ikke bort pin'en vår
+    - Hvordan gjennomføre styrevors
+    - Skrive det ned på wiki
+
+## 556 Retrospekt 2020 (10 min)
+[Hva har dere lært, hva har dere utviklet dere på]
+
+## 557 Eventuelt (15min)
+- FiF: Sommerjobb-fristen. Mange som har fylt opp plassene sine når 1. okt kommer.
+    - Ha en fristen for lenge en frist skal være åpen sier ingenting om når man ansetter. De kan fylle opp 95% av plassene før fristen er ute. Lage retningslinjer for når plassene fylles?
+    - De gjør intervjuene når det passer dem. Kan være greit å la endringen sitte som den gjør foreløpig 
+- HS Inn/Ut må planlegges
+    - Vi kan ikke ha alle på kontoret, må finne en løsning
+    - Dele opp i mindre gjenger, mekke fyllamiddag Ylvis-style
+    - Johanne, Monika og Kristoffer mekker
+- Hvordan gjennomføre de første møtene?
+    - Blir fysisk på A3 auditorium Handels
+- Ordne årsberetning, være fast af boiiii. Kort og konsist
+    - Hva gjør vi hvis folk lagger under appel? Ikke så mye å gjøre *shrug* 
+- Erfaringsoverføring. Hva er det første man skal si?
+    - Gjør en innsats for å bli varm i trøya, kast deg ut i det
+    - Blir raskere komfortabel, og utvikler tryggheten innad i HS
+    - Venne seg til å se saker fra Onlines perspektiv, ikke bare fra komiteen
+    - Unngå komite vs komite, hva er best fra Online
+    - Ikke være redd å bli med i diskusjoner utenfor ditt "domene"
+    - God kommunikasjon med leder og medlemmene i komiteen
+    - Bankom: ikke bli ensporig, fokus på kunnskapsbygging
+    - Være mer på kontoret, synligere HS
+
+## TODO
+lol vi er ferdig, snakkes
