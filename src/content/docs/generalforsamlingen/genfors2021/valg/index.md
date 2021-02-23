@@ -39,7 +39,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Arrkomleder:* Åse Merethe Wilhelmsen
 * *Bedkomleder:* 
 * *Dotkomleder:*
-* *Fagkomleder:*
+* *Fagkomleder:* Sunniva Bjerke
 * *Prokomleder:*
 * *Trikomleder:* Carolina Gunnesdal
 
