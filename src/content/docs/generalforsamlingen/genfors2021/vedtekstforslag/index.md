@@ -60,7 +60,7 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 2 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
+## Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
 
 **Bakgrunn**  
 
