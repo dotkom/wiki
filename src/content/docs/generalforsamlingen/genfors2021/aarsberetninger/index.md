@@ -39,6 +39,10 @@ Vært på x fakultetsmøter med IE.
 - Arrangert grilling og quiz
 - Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
+## AUO
+
+## SiIfra
+
 ## Arrangementskomiteen      
 ###Overordnet    
 
@@ -269,8 +273,6 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 
 
 ## Velkomstkomiteen 2020
-
-## Datakameratene FK
 
 ## Realfagskjelleren 
 
