@@ -131,17 +131,17 @@ title: "Dagsorden 2021"
 ### Godkjenning av komitéledere
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 2 |00:30| 00:32 | Godkjenning av komitéleder fra arrangementskomiteen  |  |
-| 2 | 00:32| 00:34 | Godkjenning av komitéleder fra bank- og økonomikomiteen (Dersom vedtektsforslag 2 går gjennom)  |  |
-| 2 |00:34 | 00:36 | Godkjenning av komitéleder fra bedriftskomiteen  |  |
-| 2 | 00:36| 00:38 | Godkjenning av komitéleder  fra drifts- og utviklingskomiteen  |   |
-| 2 | 00:38 | 00:40 | Godkjenning av komitéleder  fra fag- og kurskomiteen  |  |
-| 2 |00:40 | 00:42 | Godkjenning av komitéleder  fra profil- og aviskomiteen  |   |
-| 2 | 00:42 |00:44 | Godkjenning av komitéleder  fra trivselskomiteen  |   |
-| Total tid: | |12 min|
+| 3 |00:30| 00:33 | Godkjenning av komitéleder fra arrangementskomiteen  |  |
+| 3 | 00:33| 00:36 | Godkjenning av komitéleder fra bank- og økonomikomiteen (Dersom vedtektsforslag 2 går gjennom)  |  |
+| 3 |00:36 | 00:39 | Godkjenning av komitéleder fra bedriftskomiteen  |  |
+| 3 | 00:39| 00:42 | Godkjenning av komitéleder  fra drifts- og utviklingskomiteen  |   |
+| 3 | 00:42 | 00:45 | Godkjenning av komitéleder  fra fag- og kurskomiteen  |  |
+| 3 |00:45 | 00:48 | Godkjenning av komitéleder  fra profil- og aviskomiteen  |   |
+| 3 | 00:48 |00:51 | Godkjenning av komitéleder  fra trivselskomiteen  |   |
+| Total tid: | |19 min|
 
 ### Evaluering av generalforsamling
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 5 |00:44 |00:49 | Evaluering av generalforsamling  |   |
+| 5 |00:51 |00:56 | Evaluering av generalforsamling  |   |
 | Total tid: | |5 min|
