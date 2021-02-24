@@ -15,7 +15,7 @@ title: "Forretningsorden 2021"
 Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og velge nytt Hovedstyre.
 
 ## 2 Deltakere
-Alle medlemmer av Online, jfr. kapittel 5 i vedtektene har møte-, tale- og stemmerett under generalforsamlingen.
+Alle medlemmer av Online, jfr. kapittel 3 i vedtektene har møte-, tale- og stemmerett under generalforsamlingen.
 
 Ved starten av generalforsamlingen vedtar generalforsamlingen å gi alle medlemmer som er tilstede, og de som har meldt til Hovedstyret at de kommer for sent, stemmerett under generalforsamlingen.
 
