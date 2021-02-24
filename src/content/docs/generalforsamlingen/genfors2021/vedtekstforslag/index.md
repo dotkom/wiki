@@ -134,7 +134,8 @@ Alle kjernekomiteer består av minimum en leder og en økonomiansvarlig. Kjernek
 ## Forslag 8: Konkretisere mistillitsparagraf (Mathias Fossum og Monika Muzyk)
 
 **Bakgrunn**  
-Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, for mye handlingsrom. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
+Onlines paragraf vedrørende mistillit gir Hovedstyret, som dømmende part, mye frihet. Paragrafen bør endres slik at partenes interesser blir ytterligere beskyttet og balansert.
+
 
 **Endringer**  
 Dagens paragraf:
