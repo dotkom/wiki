@@ -49,7 +49,9 @@ Fjerne:
 ## Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
 
 **Bakgrunn**  
-Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Likevel blir også vedkommende et "halvt styremedlem", ettersom de ikke har stemmerett og ikke blir valgt på generalforsamlingen. Ønsket er å gjøre rollen mer tydelig, ved å enten løfte seniorkomleder opp i styret med stemmerett, eller fjerne muligheten for seniorkomleder å sitte i styret med møte- og talerett. Ettersom det kan bli fastsatt en egen rådgiver fra seniorkom i samarbeid med Hovedstyret, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at vedkommende sidestilles med de andre komitélederene. 
+Seniorkomleder har blitt sett på som en verdifull rådgiver for styret, som ofte sitter på mye kunnskap om linjeforeningen og komiteene. Likevel blir også vedkommende et "halvt styremedlem", ettersom de ikke har stemmerett og ikke blir valgt på generalforsamlingen. 
+
+Ønsket er å gjøre rollen mer tydelig, ved å enten løfte seniorkomleder opp i styret med stemmerett, eller fjerne muligheten for seniorkomleder å sitte i styret med møte- og talerett. Ettersom det kan bli fastsatt en egen rådgiver fra seniorkom i samarbeid med Hovedstyret, kan møte- og taleretten knyttet til seniorkomleder fjernes fra vedtektene, slik at vedkommende sidestilles med de andre komitélederene. 
 
 **Endringer**  
 
@@ -60,7 +62,7 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
+## Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic) 
 
 **Bakgrunn**  
 
@@ -80,7 +82,7 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 5: Seniorkomleder godkjennes av Hovedstyret ((Fremmes ikke dersom forslag 4 går gjennom)) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
                                                                                           
 **Bakgrunn**  
 Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Ettersom seniorkom tradisjonelt tar opp mange nye medlemmer i etterkant av generalforsamlingen, kan de ha behov for å ha ledervalg i etterkant også. Dermed vil godkjenningen gjøres av Hovedstyret for å tilrettelegge for dette.
