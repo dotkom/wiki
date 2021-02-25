@@ -221,12 +221,14 @@ Vært på x fakultetsmøter med IE.
 ### Prosjekter
 
 Nye prosjekter:
+
   - Promotering
   - Studiehverdag
   - Rekruttering
   - Lederutvikling
 
 Eldre prosjekter som fremdles er aktive:
+
   - Interessegrupper
   - Økonomi
   - Idébanken
