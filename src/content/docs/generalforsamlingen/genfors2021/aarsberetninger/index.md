@@ -230,7 +230,6 @@ Nye prosjekter:
 Eldre prosjekter som fremdles er aktive:
 
   - Interessegrupper
-  - Økonomi
   - Idébanken
 
 
