@@ -236,7 +236,7 @@ Eldre prosjekter som fremdles er aktive:
 
 ### Interessegrupper
 
-- Nye interessegrupper:
+Nye interessegrupper:
   - UX
   - RacingLine
   - ChessLine
@@ -244,7 +244,9 @@ Eldre prosjekter som fremdles er aktive:
   - IsteHolics
 
 - Ny struktur hvor alle interessegrupper har egen kontaktperson
+
 - Nytt og mer rettferdig system for å fordele midler til interessegrupper
+
 - Fått økt budsjett til interessegrupper dette semestert pga større pågang
 
 ## Applikasjonskomiteen
