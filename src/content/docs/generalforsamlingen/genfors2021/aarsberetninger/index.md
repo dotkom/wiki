@@ -209,6 +209,42 @@ Vært på x fakultetsmøter med IE.
 
 ## Seniorkomiteen
 
+### Generelt
+
+- Vi har tatt opp 11 nye medlemer siden sist genfors
+- Vi er totalt 13 aktive medlemer i komiteen
+
+### Arrangementer
+
+- Vi har arrangert Kickoff på Lian
+
+### Prosjekter
+
+- Nye prosjekter:
+  - Promotering
+  - Studiehverdag
+  - Rekruttering
+  - Lederutvikling
+
+- Eldre prosjekter som fremdles er aktive:
+  - Interessegrupper
+  - Økonomi
+  - Idébanken
+
+
+### Interessegrupper
+
+- Nye interessegrupper:
+  - UX
+  - RacingLine
+  - ChessLine
+  - Onski
+  - IsteHolics
+
+- Ny struktur hvor alle interessegrupper har egen kontaktperson
+- Nytt og mer rettferdig system for å fordele midler til interessegrupper
+- Fått økt budsjett til interessegrupper dette semestert pga større pågang
+
 ## Applikasjonskomiteen
 
 ## Ekskursjonskomiteen 2020
