@@ -436,7 +436,7 @@ Likevel har det vært mye interesse rundt bandet, og flere har deltatt på åpne
 - Søknad Bandorg 01.03.2020 - Ikke godkjent
 - Søknad 01.03.2021 - kr 30.000 - Avventer Svar
 
-## Kommende
+### Kommende
 - Opptak av nye medlemmer
 - Musikkvideo #2
 - Jubileum
