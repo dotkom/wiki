@@ -43,6 +43,27 @@ Vært på x fakultetsmøter med IE.
 
 ## SiIfra
 
+### Generellt
+- Opprettet Vår 2020
+- En gruppering som ble laget med formålet å håndtere varslingssaker
+- 6 medlemmer, 3 gutter, 3 jenter, alle klassetrinn.
+- Ukentlige møter + workshops
+- Vi har skapt et samtaleverktøy vi oppriktig mener kan håndtere både varslingssaker, men også mindre alvorlige hendelser.
+ 
+#### Høst 2020
+- Intervjuer
+- Prototyping
+
+#### Vår 2021
+- Testing
+- Ferdigstilling
+
+### Veiene Videre
+- Retningslinjer
+- Etterlate all kunnskapen vår på et saklig format
+- Opptak og opplæring av nye
+- Oppstart Høst 21
+
 ## Arrangementskomiteen      
 ###Overordnet    
 
