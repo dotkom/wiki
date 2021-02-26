@@ -84,3 +84,13 @@ I løpet av 2020 støttet fondet aktivitet for 36 511,12 kr. På bakgrunn av Onl
 
 **Forslag**  
 Overføre 450 000 kroner til Onlines Fond.
+
+# Onlinefondet
+
+## Sak 1 - Utrede en strategi for forvaltning av Fondet (Henrik Giil Liisberg og Mathias Fossum)
+
+**Bakgrunn**
+Nå som Fondet nærmer seg én million kroner så ønsker vi at en strategi for forsvarlig forvaltning av pengene blir utredet. 
+
+**Forslag**
+Vi foreslår at Fondstyret skal sette sammen en strategi for hvordan pengene i Fondet skal forvaltes, som skal presenteres for Generalforsamlingen 2022.
