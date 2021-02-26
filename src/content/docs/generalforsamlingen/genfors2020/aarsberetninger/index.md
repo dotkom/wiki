@@ -249,10 +249,9 @@ Generelt
 - Gitt ut 4 utgaver
 - Distribuert Offline til linjeforeninger/abonnenter 
 ### Samarbeid med Abakus:
-- Samarbeidet med PR om enkelte kurs/bedriftspresentasjoner og arrangementer
+- Snakket med ʀeadme om en felles workshop/
 ### Annet:
-- Holdt CV-fotografering på høsten, med hjelp av Endre Ulberg
-- Arrangert 4 Drikk og kronikk.
+- Holdt CV-fotografering på høsten
 
 ## Trivselskomiteen
 
