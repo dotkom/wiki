@@ -30,4 +30,4 @@ Associated wiki pages
 |[Estiem](http://www.estiem.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=988970840)|Industrial economics|[Page](http://fb.com/LG.Trondheim)|estiem@org.ntnu.no|
 |[PPIT (Perhimpunan Pelajar Indonesia di Trondheim)](http://org.ntnu.no/ppitrondheim)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990767580)|All|[Page](https://www.facebook.com/ppitrondheim/)|ppit.norway@gmail.com|
 |[Pakistan Students Association(PSA),Trondheim](http://org.ntnu.no/psa)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918823220)|All|[Page](https://www.facebook.com/org.ntnu.no.psa/)|psatrondheim@gmail.com|
-|[Muslim Student Association In Trondheim (MSAT)](http://org.ntnu.no/msat/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990945438)|All||msat.styre@gmail.com , list@msat.org.ntnu.no|
+|[Muslim Student Association In Trondheim (MSAT)](http://org.ntnu.no/msat/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990945438)|All||msat.styre@gmail.com , msat@msat.org.ntnu.no|
