@@ -50,15 +50,15 @@ Vært på x fakultetsmøter med IE.
 - Ukentlige møter + workshops
 - Vi har skapt et samtaleverktøy vi oppriktig mener kan håndtere både varslingssaker, men også mindre alvorlige hendelser.
  
-#### Høst 2020
+### Høst 2020
 - Intervjuer
 - Prototyping
 
-#### Vår 2021
+### Vår 2021
 - Testing
 - Ferdigstilling
 
-#### Veien Videre
+### Veien Videre
 - Retningslinjer
 - Etterlate all kunnskapen vår på et saklig format
 - Opptak og opplæring av nye
