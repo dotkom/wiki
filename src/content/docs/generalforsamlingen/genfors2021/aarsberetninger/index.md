@@ -294,6 +294,23 @@ Nye interessegrupper:
 - Fått økt budsjett til interessegrupper dette semestert pga større pågang
 
 ## Applikasjonskomiteen
+**Vår 2020**  
+- Pål Larsen og Petter Charles ble satt inn som leder og nestleder av appkom
+
+
+**Høst 2020**  
+- Hadde opptak sammen med det ordinøre komitéopptaket. Tok opp 13 medlemmer med ulik klassetrinn og kunnskap, ble totalt 15 medlemmer
+- 9 møter høst 2020
+- Startet 3 ulike prosjekter
+- 7-10 arbeidsager som blir holdt på søndager
+- 4 planlagte sosiale samlinger, 2 fallt vekk pga. covid-19
+
+
+**Vår 2021**  
+- 4 møter så langt
+- 3-4 arbeidskvelder
+- Martin Skatvedt og Fredrik Skaug valgt som ny leder og nestleder av appkom
+- totalt frafall: 2
 
 ## Ekskursjonskomiteen 2020
 
