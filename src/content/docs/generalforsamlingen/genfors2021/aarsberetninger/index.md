@@ -187,7 +187,7 @@ Vært på x fakultetsmøter med IE.
 
 ## Profil- og aviskomiteen
 
-- ? personer har tatt permisjon i løpet av året, ? person har sluttet  i vervet.
+- 1 personer har tatt permisjon i løpet av året, 5 person har sluttet  i vervet.
 - Tok opp 5 nye medlemmer etter sommeren.
 - Hatt medarbeidersamtaler på høsten
 ### Grafisk:
@@ -197,9 +197,9 @@ Vært på x fakultetsmøter med IE.
 - Ga ut årboka rett etter sommeren i fjor, solgte 40/40 stykk.
 - Har satt i gang arbeidet med årets utgave. 
 - Må bruke bilder komiteer har tatt selv, siden det ikke er forsvarlig med gruppebilder.
-- Om lag ?? salg totalt på webshop.
-- Så langt ?? bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
-- Bestilt opp nye lang og tro daljer.
+- Om lag 93 salg totalt på webshop.
+- Så langt 22 bestillinger på profileringsmateriell gjennom bestillingssystemet. Dette er ekskludert bestillinger over mail.
+- Kjøpt inn komitélederagraffer
 - Hjulpet velkom med produksjon av profileringsmateriale.
 ### Offline:
 - Gitt ut 4 utgaver, ikke hatt kontor-slipp siden før forrige genfors. 
