@@ -189,6 +189,7 @@ Vært på x fakultetsmøter med IE.
 
 - 1 personer har tatt permisjon i løpet av året, 5 person har sluttet  i vervet.
 - Tok opp 5 nye medlemmer etter sommeren.
+- Endelig fått økonomiansvarlig igjen
 - Hatt medarbeidersamtaler på høsten
 ### Grafisk:
 - **Produsert ny logo til arrkom og kjøpt inn nye arrkom-daljer.**
