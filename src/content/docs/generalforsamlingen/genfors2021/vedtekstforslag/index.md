@@ -82,7 +82,7 @@ Fjernes:
 Hovedstyret."
 
 
-## Forslag 5: Seniorkomleder godkjennes av Hovedstyret ((Fremmes ikke dersom forslag 4 går gjennom)) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
+## Forslag 5: Seniorkomleder godkjennes av Hovedstyret (Fremmes ikke dersom forslag 4 går gjennom) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)
                                                                                           
 **Bakgrunn**  
 Etter Arbeidsutvalget for undersøkelse av organisasjonsstruktur sin endring gikk gjennom i fjor, godkjennes nå alle lederne av kjernekomiteene på genfors, utenom seniorkom og bankom. Ettersom seniorkom tradisjonelt tar opp mange nye medlemmer i etterkant av generalforsamlingen, kan de ha behov for å ha ledervalg i etterkant også. Dermed vil godkjenningen gjøres av Hovedstyret for å tilrettelegge for dette.
