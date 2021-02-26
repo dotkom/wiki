@@ -43,7 +43,7 @@ Vært på x fakultetsmøter med IE.
 
 ## SiIfra
 
-### Generellt
+### Generelt
 - Opprettet Vår 2020
 - En gruppering som ble laget med formålet å håndtere varslingssaker
 - 6 medlemmer, 3 gutter, 3 jenter, alle klassetrinn.
@@ -58,7 +58,7 @@ Vært på x fakultetsmøter med IE.
 - Testing
 - Ferdigstilling
 
-### Veiene Videre
+#### Veien Videre
 - Retningslinjer
 - Etterlate all kunnskapen vår på et saklig format
 - Opptak og opplæring av nye
