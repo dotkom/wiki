@@ -375,6 +375,15 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 
 ## Velkomstkomiteen 2020
 
+- Velkom besto av 15 medlemmer inkludert leder, nestleder og to masterstudenter.
+- Bachelor hadde 12 grupper med rundt 15 fadderbarn. Hver gruppe hadde 5-7 faddere. Denne størrelsen ga gruppene en god fylde på tross av eventuelle frafall.
+- Master hadde seks grupper med 6-10 fadderbarn. Hver gruppe hadde ca. 3 faddere. Det var mindre skille mellom gruppene, og det meste ble gjort på tvers av grupper.
+- Før fadderukene hadde vi infomøte med Lykkepromillen og kickoff for fadderne.
+- Gjennomgående koronapreget fadderuke. Mange avlyste/endrede arrangementer i siste liten.
+- I løpet av to uker arrangerte vi åtte dager med mulighet for å drikke alkohol og seks dager uten.
+- Planla, og gjennomførte, park til park på liten tid.
+
+
 ## Realfagskjelleren 
 
 ### Hva har vi gjort?
