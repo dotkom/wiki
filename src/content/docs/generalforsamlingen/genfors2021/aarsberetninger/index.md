@@ -237,6 +237,7 @@ Vært på x fakultetsmøter med IE.
 
 ### Arrangementer
 
+- Vi har arrangert utmatrikulering
 - Vi har arrangert Kickoff på Lian
 
 ### Prosjekter
@@ -262,7 +263,7 @@ Nye interessegrupper:
   - RacingLine
   - ChessLine
   - Onski
-  - IsteHolics
+  - GratIste
 
 - Ny struktur hvor alle interessegrupper har egen kontaktperson
 
