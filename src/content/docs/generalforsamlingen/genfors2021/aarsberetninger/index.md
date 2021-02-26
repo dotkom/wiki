@@ -416,6 +416,31 @@ Pandemien har ført til at vi avlyste de fleste småarrangementer og crewsamling
 - Onlines fadderuker (NTNU): Vi deltok på interessegrupperouletten og bistod Online med arrangeringen av to spillkvelder.
 
 ## Output
+2020 har vært et utfordrende år. Konserter og opptredener har vært utfordrende i forbindelse med korona. 3 bandmedlemmer har gått ut, og aktiviteten har vært redusert.
+
+
+Likevel har det vært mye interesse rundt bandet, og flere har deltatt på åpne øvinger. Bandet har fått en del nytt utstyr, og arbeider også med å finne nye medlemmer.
+
+- To konserter i 2020: Catch IDI, Etasjefest
+- Avlysinger: BotB2020, Immball, Julebord
+- En god del øvinger i August/September.
+- Åpen øving i F1 på høsten
+
+### Innkjøp
+- Digital stagebox
+- Kabler
+- Lysutstyr
+- Transportkasse
+
+### Søknader
+- Søknad Bandorg 01.03.2020 - Ikke godkjent
+- Søknad 01.03.2021 - kr 30.000 - Avventer Svar
+
+## Kommende
+- Opptak av nye medlemmer
+- Musikkvideo #2
+- Jubileum
+- Immball
 
 ## Fondstyret
 
