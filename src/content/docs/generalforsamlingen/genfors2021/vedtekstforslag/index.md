@@ -189,30 +189,3 @@ man ble tatt opp. Dersom man ønsker ˚a være et aktivt komit´emedlem etter di
 seks (6) semestrene kan man søke til Hovedstyret om forlengelse av Online-vervet for
 to semestre av gangen. Alle verv i kjernekomiteene i linjeforeningen teller p˚a de seks
 vervsemestrene, inkludert verv i Hovedstyret, men ekskludert verv i seniorkomiteen."
-
-
-# Forslag til Onlines fonds vedtekter
-
-## Forslag 1 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)
-
-**Bakgrunn**  
-Onlines Fond har passert en halv million, og øker for hvert år. Per dags dato står disse pengene på en høyrentekonto med 0.7% rente. Med utgangspunkt i Norges mål for inflasjon, 2.5%, fører dette til en reell avkastning på ca -10 000kr i året (formel for realrente). Dette forslaget har som intensjon å gi ansvarlig enhet (bankom? / fondstyret?) muligheten til å passivt forvalte en andel av fondet med utgangspunkt i et styrende dokument godkjent av Generalforsamlingen. 
-
-Foreløpig utkast oppsummert (inspirert av Abakus’ fond):
-
-1. Alltid 300k på høyrentekonto (300k er maks uttak fra Fondet hvert år)
-2. Kun indeksfond
-3. Diversifisert portefølje (f.eks 6 forskjellige indeksfond i 6 forskjellige sektorer)
-4. Ingen enkeltinvestering skal utgjøre mer enn 20% av porteføljen
-5. Rebalansering ved årsskifte
-
-**Endringer**  
-
-Dagens:
-6.1 Fondets plassering
-Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er Fondet er plassert p˚a en egen høyrentekonto som disponeres av Online, og som er separert fra den daglige driften av Online
-
-Endres til:
-
-6.1 Fondets plassering
-Fondets midler er fordelt på en høyrentekonto og en diversifisert portefølje av indeksfond i henhold til Fondets styrende dokument. Det styrende dokumentet revideres av Generalforsamlingen. Høyrentekonto og fondporteføljen disponeres av Online, og er separert fra den daglige driften av Online.
