@@ -196,7 +196,7 @@ title: "Årsberetninger 2021"
 - Ny omboarding
 - Endret fra å ha arbeidskvelder på onsdager til å ha arbeidsdager annenhver søndag. Har fått til å møtes splittet i teams den siste tiden
 - Innførte sosialansvarlige, sosial aktivitet har økt med 100 %
-- Hadde paintballteambuilding med fagkom, veldig gøy!
+- Hadde paintballteambuilding med fagkom
 - Planla og fikk penger til hackathon, ble ikke noe av pga. 'rona, tenker å få til digitalt hackathon ila semesteret
 
 
