@@ -21,7 +21,7 @@ title: "Årsberetninger 2021"
 * Deltatt på jentedag
 * Avlyste kompileringen
 * De fleste styremedlemmer, ledere, og tillitsvalgte har blitt kurset av SiT i relevante temaer.
-* Innvilget sosialt medlemskap til 3 medlemmer som vil bytte til informatikk/går annen master-retning
+* Innvilget sosialt medlemskap til 7 medlemmer som vil bytte til informatikk/går annen master-retning
 * Tatt opp nytt AUO (Arbeidsgruppe for undersøkelse av organisasjonsstruktur)
 * Tatt opp leder og nestleder til velkom
 * Tatt opp leder av Jubkom
