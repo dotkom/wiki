@@ -359,6 +359,29 @@ Nye interessegrupper:
 
 ## Ekskursjonskomiteen 2020
 
+**Høst 2019**
+- Fredrik August Madsen-Malmo og Jon-Inge Heggstad ble satt inn som leder og nestleder
+
+**Vår 2020**
+- Tok opp 3 stykk
+- Noen møter. Lite ble gjort
+
+**Høst 2020**
+- Arrangerte opptak med jubkom og velkom: 0 søknader
+- Planlegging reisedestinasjon
+- Hyttetur til Tynset
+- Fikk med to venner av tidligere medlemmer
+- Begynte planlegging av TechTalks
+  - Restauranter som lokasjon
+  - Fullførte kontrakter med bedkom
+  - Signerte to bedrifter
+- Avlyste _alt_
+
+**Vår 2021**
+- Tur og TT avlyst, så ingen møter
+- Spiste pølser og drakk øl i Bymarka en dag
+- Skal finne ny ekskom
+
 ## IT-ekskursjonen
 **Aktivitet:**
 
