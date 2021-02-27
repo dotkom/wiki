@@ -33,7 +33,13 @@ title: "Årsberetninger 2021"
 
 ### Studentpolitikk
 - Vært på to semestermøter med IDI.
+          ^^
+- Vært på x semestermøter med IDI.
+          ^
 - Vært på seks fakultetsmøter med IE.
+          ^^^^
+- Vært på x fakultetsmøter med IE.
+          ^
 - Deltatt på to av NTNU styrets pressemøter
 
 ### Sosialt og kos
@@ -164,6 +170,35 @@ title: "Årsberetninger 2021"
 
 
 ## Drifts- og utviklingskomiteen
+
+- Tok opp 6 stykker, 4 av dem førsteklassinger. Er totalt 15 aktive i komiteen.
+
+### OW
+
+- Launchet nye OW (OWF), OW4 kjører fortsatt på old.online.ntnu.no
+- GDPR ferdigstillt vår 2020
+- Bytta interessegrupper til sanity, nytt frontend management system
+- Påbegynt nytt komponentbibliotek
+
+### Andre prosjekter
+
+- Wiki: startet opp prosjekt for å lage ny wikiside, team på 4 stk.
+- Vinstraffsystem: fortsetter arbeidet med å lage nytt vinstraffsystem, team på 4 stk.
+
+### Drift
+
+- AWS kostnader senket, har halvert OWF-kostnader
+- Får credits fra Azure
+
+### Annet
+
+- Stort fokus på kulturendring innad i komiteen: 80 % drømmen
+- Ny omboarding
+- Endret fra å ha arbeidskvelder på onsdager til å ha arbeidsdager annenhver søndag. Har fått til å møtes splittet i teams den siste tiden
+- Innførte sosialansvarlige, sosial aktivitet har økt med 100 %
+- Hadde paintballteambuilding med fagkom, veldig gøy!
+- Planla og fikk penger til hackathon, ble ikke noe av pga. 'rona, tenker å få til digitalt hackathon ila semesteret
+
 
 ## Fag- og kurskomiteen
 
