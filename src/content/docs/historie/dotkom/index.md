@@ -119,6 +119,9 @@ Medlemmer
 
 | År | Leder | Medlemmer  |
 | --- | --- | :---:  |
+|2019-2020| *Ole Anders Stokker* | |
+|2018-2019| *Jakob Westemoen* | |
+|2017-2018| *Aslak Hollund* | |
 |2016-2017| *Håkon Solbjørg* | Christian Duvholt, Nils Herde, Kristoffer Andreas Dalby, Kristian Selvik Ekle, Iver Egge Asperud, Thomas Gautvedt, Aleksander Skraastad, Hans Sandbu, Aigars Tumanis, Anders Larsen, Andrea Nornes, Jarle Trollebø, Katrine Jordheim, Martin Lunde, Niklas Hole, Ole Anders Stokker, Aslak Hollund, Dora Oline Eriksrud, Jakob Westermoen, Thomas Lund Mathisen, Torjus Iveland, Zawadi Svela  |
 |2015-2016| *Nils Herde* | |
 |2014-2015| *Nils Herde* | |
