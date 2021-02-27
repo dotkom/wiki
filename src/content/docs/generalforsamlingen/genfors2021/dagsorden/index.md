@@ -74,7 +74,7 @@ title: "Dagsorden 2021"
 |5  |19:45|19:50|Forslag 9: Gjeninnføre appkom som nodekomité|---|
 |10 |19:50|20:00|Forslag 10: Omorganisering av nodekomiteer (Thea Karin Fladby og Sindre Langaard)|---|
 | 5 |20:00| 20:05 | Forslag 11: Fjerne §4.8 Vervvarighet |
-| Total tid: | | 110 min |
+| Total tid: | | 105 min |
 
 
 ### Utdeling av Særskilt utmerkelse 8 min
