@@ -116,6 +116,11 @@ Alle serverne kjører debian squeeze, tykklientene kjører ubuntu.
 
 Medlemmer
 ---
+| År | Leder | Styremedlem | Medlemmer  |
+| --- | --- | ---  | :---: |
+|2019-2020| *Vigdis-Irene Steinsund* | *Monika Halina* | |
+
+
 
 | År | Leder | Medlemmer  |
 | --- | --- | :---:  |
