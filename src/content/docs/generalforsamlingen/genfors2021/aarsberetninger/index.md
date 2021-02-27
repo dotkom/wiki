@@ -49,6 +49,18 @@ title: "Årsberetninger 2021"
 
 ## AUO
 
+### Fram til nå
+- Startet høsten 2020
+- Har sett på problemer ved den nåværende organisasjonsstrukturen.
+- Intervjuet alle styremedlemmer og komitéledere samt deres varaer
+- Sett på hva folk har synes om splittelsen av ledervervet ved forrige generalforsamling.
+- Sett på muligheter for fremtidig struktur.
+
+### Veien videre
+- Skrive erfaringsskriv til neste AUO, og hva som kan være lurt å ta tak i fremover. 
+- Følge opp sakene vi har presentert for hovedstyre
+
+
 ## SiIfra
 
 ### Generelt
