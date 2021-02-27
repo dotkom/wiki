@@ -32,8 +32,9 @@ title: "Årsberetninger 2021"
 - Lunsj med HS i Abakus
 
 ### Studentpolitikk
-- Vært på x semestermøter med IDI.
-- Vært på x fakultetsmøter med IE.
+- Vært på to semestermøter med IDI.
+- Vært på seks fakultetsmøter med IE.
+- Deltatt på to av NTNU styrets pressemøter
 
 ### Sosialt og kos
 - Stått faddervakt en kveld i fadderukene
