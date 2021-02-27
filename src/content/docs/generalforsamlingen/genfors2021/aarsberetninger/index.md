@@ -14,7 +14,7 @@ title: "Årsberetninger 2021"
 [TOC]
 
 ## Hovedstyret
-### Generelt
+### Online
 * Stengte ned all fysisk drift i vår
 * Nominert riddere til immatrikuleringsballet
 * Arrangert sommerfest i Oslo
