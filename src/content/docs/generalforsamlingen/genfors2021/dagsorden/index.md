@@ -39,22 +39,22 @@ title: "Dagsorden 2021"
 ### Årsberetninger
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 10  | 16:55 | 17:05 | Årsberetning for Online og samarbeidspartnere  ||
-| Total tid: | |10 min|
+| 15  | 16:55 | 17:10 | Årsberetning for Online og samarbeidspartnere  ||
+| Total tid: | |15 min|
 
 ### Regnskap
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-| 15 | 17:05  | 17:20  | Godkjenning av regnskap 2021  |  |
+| 15 | 17:10  | 17:25  | Godkjenning av regnskap 2021  |  |
 | Total tid: | |15 min|
 
 
 ### Saksforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---  |---|---|---|
-|15 |17:20| 17:35|Sak 1 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)|---|
-|5  |17:35|17:40  |Sak 2 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)|---|
-|5  |17:40|17:45|Sak 3 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)|---|
+|15 |17:25| 17:40|Sak 1 - Benytte "preferansevalg" ved ordinær generalforsamling 2022 (Thomas Iversen Ramm og Kristoffer Nyvoll)|---|
+|5  |17:40|17:45  |Sak 2 - Ta i bruk formelt budsjettreglement (Christoffer Stensrud, Aslak Hollund og Johannes Kvamme)|---|
+|5  |17:45|17:50|Sak 3 - Overføre midler til fondet (Christoffer Stensrud, Johanne Tronstad)|---|
 | Total tid:  | |25 min|
 
 ## Pause 30 min til middag
@@ -62,9 +62,9 @@ title: "Dagsorden 2021"
 ### Vedtektsforslag
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 |---|---|---|---|---|
-|15 |18:15|18:30|Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|5  |18:30|18:35|Forslag 2: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
-|20 |18:35|18:55|Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|15 |18:20|18:35|Forslag 1: Fjerne møte- og talerett for bankomleder (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|5  |18:35|18:40|Forslag 2: Godkjenne bankomleder på Generalforsamlingen (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
+|15 |18:40|18:55|Forslag 3: Fjerne møte- og talerett for seniorkom (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 |15 |18:55|19:10|Forslag 4: Gi seniorkomleder stemmerett i styret (fremmes dersom Forslag 3 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 |5  |19:10|19:15|Forslag 5: Seniorkomleder godkjennes av Hovedstyret (fremmes dersom forslag 4 faller) (Benedicte Myrvoll, Johanne Tronstad, Luka Grujic)|---|
 |5  |19:15|19:20|Forslag 6: Vedtektsfeste budsjettreglement (Aslak Hollund, Christoffer Stensrud, Johannes Kvamme)|---|
