@@ -21,18 +21,19 @@ title: "Årsberetninger 2021"
 * Deltatt på jentedag
 * Avlyste kompileringen
 * De fleste styremedlemmer, ledere, og tillitsvalgte har blitt kurset av SiT i relevante temaer.
-* Innvilget sosialt medlemskap til 2 medlemmer som vil bytte til informatikk/går annen master-retning
-* Gjennomført økonomi- og vedtektskveld i forkant av generalforsamlingen
+* Innvilget sosialt medlemskap til 3 medlemmer som vil bytte til informatikk/går annen master-retning
 * Tatt opp nytt AUO (Arbeidsgruppe for undersøkelse av organisasjonsstruktur)
 * Tatt opp leder og nestleder til velkom
 * Tatt opp leder av Jubkom
 * Laget julekalender
+* Gjennomført økonomi- og vedtektskveld i forkant av generalforsamlingen
 
 ### Samarbeid med andre
+- Lunsj med HS i Abakus
 
 ### Studentpolitikk
-Vært på x semestermøter med IDI.
-Vært på x fakultetsmøter med IE.
+- Vært på x semestermøter med IDI.
+- Vært på x fakultetsmøter med IE.
 
 ### Sosialt og kos
 - Stått faddervakt en kveld i fadderukene
