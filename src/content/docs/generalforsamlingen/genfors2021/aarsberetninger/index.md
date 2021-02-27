@@ -49,7 +49,7 @@ title: "Årsberetninger 2021"
 
 ## AUO
 
-### Fram til nå
+### Generelt
 - Startet høsten 2020
 - Har sett på problemer ved den nåværende organisasjonsstrukturen.
 - Intervjuet alle styremedlemmer og komitéledere samt deres varaer
