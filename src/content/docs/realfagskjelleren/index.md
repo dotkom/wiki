@@ -2,12 +2,12 @@
 title: "Realfagskjelleren"
 ---
 
-Realfagskjelleren er Online's egen kjeller, som vi deler med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Kjelleren befinner seg i Herman Krags Veg 12.
+Realfagskjelleren er Online's egen kjeller og bar, som deles med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Kjelleren befinner seg i Herman Krags Veg 12.
 
 
 ## Kontakt
 
-Kjellerstyret kan nåes på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no)
+Kjellerstyret kan nå's på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no)
 
 Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
 
@@ -16,11 +16,11 @@ Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https
 
 I 2000 ble det åpnet for at andre linjeforeninger utenom siv ing-linjene kunne søke om egen kjeller på Moholt, Online søkte samtidig som Volvox & Alkymisten, og da det var en kjeller som var ledig ble de enige om å dele den, slik fikk de tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
 
-Litt etterpå i 2003 ble Delta med og navnet på kjelleren ble Realfagskjellern, senere en gang etter Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen.
+Noen år senere i 2003 ble Delta med og navnet på kjelleren ble Realfagskjellern, Etter Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen.
 
-Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. Illøpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
+Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. I løpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
 
-Den 16. Mars 2018 var utbedringene blitt gjort og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12.
+Den 16. Mars 2018 var utbedringene ferdige og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
 
 Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store Premiereåpningen for den nye kjelleren.
 
