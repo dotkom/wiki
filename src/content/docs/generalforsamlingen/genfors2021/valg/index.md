@@ -46,7 +46,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 ### Eventuell godkjenning av bankomleder
 Grunnet vedtektsforslag 2 legger vi også inn bankomleder for mulig godkjennelse på generalforsamlingen. Dette skjer kun dersom vedtektsforslag 2 - "Godkjenne bankomleder på generalforsamlingen" går gjennom.
 
-* *Bankomleder:*
+* *Bankomleder:* Duvara Nishaharan
 
 ### Eventuelt valg av seniorkomleder på generalforsamlingen
 Grunnet vedtektsforslag 4 som kan endre valgprosessen av seniorkomleder i år, legges det inn mulighet for å melde interesse til dette vervet. Dette dekker tilfelle der vedtektsforslag 4 - "Gi seniorkomleder stemmerett i styret" går gjennom.
