@@ -7,9 +7,10 @@ Realfagskjelleren er Online's egen kjeller og bar, som deles med [Volvox & Alkym
 
 ## Kontakt
 
-Kjellerstyret kan nå's på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no)
+Realfagskjelleren har en kontaktperson i hver linjeforening som fungerer som bindeledd mellom linjeforeningen og kjelleren. 
 
-Ellers er det også mulig å kontakte kjelleren på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
+
+Ellers kan kjellerstyret nå's på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no) eller kontaktes på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
 
 
 # Historie
