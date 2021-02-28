@@ -94,10 +94,10 @@ title: "Dagsorden 2021"
 |---|---|---|---|---|
 | Total tid: | | 0 min |
 
-### Vedtektsforslag for fondet
+### Saksforslag for fondet
 |  Tid (Minutter) | Start   | Slutt   | Sak   | Faktisk start   |
 | ---|--- |---|---|---|
-| 15 |20:20|20:35|Forslag 1 - Passivt forvalte fondet (Henrik Giil Liisberg og Mathias Fossum)|---|
+| 15 |20:20|20:35|Sak 1 - Utrede en strategi for forvaltning av Fondet (Henrik Giil Liisberg og Mathias Fossum)|---|
 | Total tid: | | 15 min |
 
 ### Valg for fondet
