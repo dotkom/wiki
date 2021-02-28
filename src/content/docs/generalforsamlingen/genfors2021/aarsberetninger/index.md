@@ -225,8 +225,8 @@ title: "Årsberetninger 2021"
 
 ### Vår 2021
 * Bookingrunden for bedriftsarrangementer neste semester skjer nå
-* Gjennomført 5 bedriftskurs, har 5 igjen(på genfors dato)
-* Planlegger å arrangere div. ikke-bedriftskurs med andre komiteer(mer info kommer fortløpende).
+* Gjennomført 5 bedriftskurs, har 5 igjen
+* Planlegger å arrangere ølsmaking med andre arrkom, studentkokkekurs med Sit, eventuellt "Ta Ordet" kurs med Sit.
 * Planlegger midtsemesterkurs og eksamenskurs.
 
 ## Profil- og aviskomiteen
