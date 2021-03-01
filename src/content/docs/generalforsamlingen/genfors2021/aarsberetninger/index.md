@@ -147,12 +147,12 @@ title: "Årsberetninger 2021"
 ### Overordnet
 
 - **Tatt opp 5 nye medlemmer, hvorav 4 førsteklassinger og 1 andreklassing. Er per genfors 16 medlemmer. 3 av disse er også med i seniorkomiteen.** 
-- Skaffet 2 generalsponsorer og 2 tittelsponsorer til fadderuka 2020 og avholdt bedriftspresentasjoner for generalsponsorne i samarbeid med velkom
+- **Skaffet 2 generalsponsorer og 2 tittelsponsorer til fadderuka 2020 og avholdt bedriftspresentasjoner for generalsponsorne i samarbeid med velkom**
 - Signerte avtaler med 16 bedrifter ifm Itex 2020. Turen ble senere avlyst
 - Revidert og fornyet kaffeavtale med Netlight, tar steg mot å bli mer miljøvennlig
 - Hatt teambuilding med fagkom
-- Sendt ut 4 mulighetermailer
-- **Lagt ut 123 stillingsannonser**
+- Sendt ut 5 mulighetermailer
+- **Lagt ut ca 130 stillingsannonser**
 - **Hatt kontakt med ca 150 bedrifter**
 
 
@@ -170,9 +170,9 @@ title: "Årsberetninger 2021"
 
 ### Vår 2021
 
-- Avholdt 4 bedriftspresentasjoner, hvorav 3 digitalt
+- **Avholdt 4 bedriftspresentasjoner, hvorav 3 digitalt**
 - Planlegger å arrangere 6 bedriftspresentasjoner og 1 KID-arrangement ila våresemesteret
--  Bookingrunden for bedriftsarrangementer neste semester skjer nå
+- Bookingrunden for bedriftsarrangementer neste semester skjer nå
 - Samarbeid med jubkom for sponsorer til jubileumsuken høsten 2021
 
 
