@@ -2,6 +2,17 @@
 title: "Generalforsamlingen 2021"
 ---
 
+### Zoom Invite
+Topic: Online Generalforsamling 2021
+Time: Mar 1, 2021 16:30 Oslo
+
+Join Zoom Meeting
+https://NTNU.zoom.us/j/99826644797?pwd=bEZTdUhUUDdsNDZtaFNYNXdYU0dMQT09
+
+Meeting ID: 998 2664 4797
+Passcode: 859489
+
+
 * [2021 Forside](/wiki/online/generalforsamlingen/genfors2021)   - Forside
 * [2021 Forretningsorden](/wiki/online/generalforsamlingen/genfors2021/forretningsorden) - Forretningsorden
 * [2021 Dagsorden](/wiki/online/generalforsamlingen/genfors2021/dagsorden) - Dagsorden for generalforsamlingen
