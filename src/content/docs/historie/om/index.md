@@ -252,7 +252,7 @@ kaffedrikking.
 
 ## Hovedstyrer
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|
-|---|---|---|---|---|---|---|---|---|---|---|---|
+|---|---|---|---|---|---|---|---|---|---|
 |2021v-2022v| Sindre Langaard |Thea Karin Fladby|Milla Weium|William Andersson|Anders Robstad|Thomas Hasvold|Mari Lehne|Henrik Moe Wæhre|Sarmi Ponnuthurai|
 
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|Bankom|
