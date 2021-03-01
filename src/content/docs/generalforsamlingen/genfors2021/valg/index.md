@@ -32,7 +32,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* Henrik Giil Liisberg
-* *Ridder:* Christoffer Lofsberg
+* *Ridder:* 
 
 **De som skal godkjennes som komitéledere er:**
 
