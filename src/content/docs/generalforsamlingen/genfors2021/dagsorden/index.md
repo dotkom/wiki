@@ -118,7 +118,7 @@ title: "Dagsorden 2021"
 | 40 |  21:55|22:35  | Valg av nestleder   |   |
 | 10 | 22:35 | 22:45 | Valg av økonomiansvarlig  |   |
 | 10 | 22:45 | 22:55 | Valg av styremedlem fra arrangementskomiteen  |  |
-| 15 | 23:55 | 23:10 | Valg av styremedlem fra bedriftskomiteen  |  |
+| 15 | 22:55 | 23:10 | Valg av styremedlem fra bedriftskomiteen  |  |
 | 10 | 23:10 |23:20  | Pause ||
 | 10 | 23:20 | 23:30| Valg av styremedlem fra drifts- og utviklingskomiteen  |   |
 | 10 | 23:30 | 23:40 | Valg av styremedlem fra fag- og kurskomiteen  |  |
