@@ -457,13 +457,15 @@ Online IL har avholdt 25+ arrangementer det siste året med følgende idretter:
 
 ### Hva har vi gjort?
 - Tatt opp tre nye onlinere
-- Har måtte holde stengt i perioder, grunnet pandemien
+- Har måtte holde stengt i perioder, grunnet pandemien.
 - Fått støtte til høytalere og støydempeplater fra fondet. Har også fått nytt kassasystem som gjør det mulig å følge kravet om bordservering.
 - Fått online-kontorets gamle bord, som øker antall sitteplasser.
 
 ### Fremover
+- Holder stengt for øyeblikket, men skal åpnes opp så snart det blir forsvarlig.
 - Skal holde generalforsamling i mars, hvor vi velger nytt styre.
-- Skulle ha hatt jubileum i april, men dette har blitt utsatt. 
+- Skulle ha hatt jubileum i april, men dette har blitt utsatt.
+
 
 ## Casual Gaming
 
