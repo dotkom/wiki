@@ -33,7 +33,7 @@ title: "Årsberetninger 2021"
 
 ### Studentpolitikk
 
-- Vært på x semestermøter med IDI.
+- Vært på to semestermøter med IDI.
 - Vært på seks fakultetsmøter med IE.
 - Deltatt på to av NTNU styrets pressemøter
 
