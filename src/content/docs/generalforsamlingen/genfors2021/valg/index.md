@@ -53,4 +53,4 @@ Grunnet vedtektsforslag 4 som kan endre valgprosessen av seniorkomleder i år, l
 
 Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
 
-* *Leder av seniorkom:* Luka Grujic
+* *Leder av seniorkom:* Luka Grujic (rip)
