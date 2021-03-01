@@ -121,7 +121,7 @@ title: "Årsberetninger 2021"
 ### Komitéspesifikt
  
 * **Tatt opp mange nye som har etablert seg godt i komiteen, godt sosialt samhold**  
-* Komiteen består nå av 13 aktive medlemmer; 12 økonomiansvarlige og 1 komitéleder.
+* Komiteen består nå av 12 aktive medlemmer; 11 økonomiansvarlige og 1 komitéleder.
 
 ### Økonomispesifikt
 * **Ny teamdrive-struktur** 
