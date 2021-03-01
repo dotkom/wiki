@@ -232,7 +232,7 @@ title: "Årsberetninger 2021"
 ## Profil- og aviskomiteen
 
 - 1 personer har tatt permisjon i løpet av året, 5 person har sluttet  i vervet.
-- Tok opp 5 nye medlemmer etter sommeren.
+- Tok opp 6 nye medlemmer etter sommeren.
 - Endelig fått økonomiansvarlig igjen
 - Hatt medarbeidersamtaler på høsten
 ### Grafisk:
