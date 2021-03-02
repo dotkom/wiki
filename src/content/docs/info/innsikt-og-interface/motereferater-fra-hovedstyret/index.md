@@ -7,7 +7,6 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 #### Møtereferat
 - [2021-03-02](mote02032021) - Første møte!
-
 - [2021-02-23](mote23022021) - Siste møte 
 - [2021-02-16](mote16022021) - Stormøte og retningslinjer  
 - [2021-02-09](mote09022021) - Vedtektskveld  
