@@ -67,7 +67,13 @@ et akutt HMS-tiltak mot såre tær hos kvinnelige informatikere.
 * 2011 3. September, Prinsen hotell  
 * 2012 15. September, Frimurerlosjen  
 * 2013 14. September, Frimurerlosjen  
-* 2014 13. September, Frimurerlosjen
+* 2014 13. September, Frimurerlosjen  
+* 2015 12. September, Frimurerlosjen  
+* 2016 10. September, Scandic Lerkendal  
+* 2017 9. September, Scandic Lerkendal  
+* 2018 8. September, Scandic Nidvelven  
+* 2019 7. September, Radison Blue Royal Garden  
+* 2020 5. September, Scandic Nidelven  
 
 Medlemmer
 ---------
