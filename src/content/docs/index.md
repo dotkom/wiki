@@ -39,6 +39,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
+- [Onlines drikkelek 2021](/wiki/online/info/trivia/onlines-drikkespill-2021/)
 - [Lage ny bruker på Onlineweb](/wiki/online/info/trivia/ny_bruker)
 - [Hvordan endre wiki-sider](https://online.ntnu.no/wiki/online/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
 
