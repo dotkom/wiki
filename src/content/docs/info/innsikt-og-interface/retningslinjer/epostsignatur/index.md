@@ -9,3 +9,5 @@ Det er også akseptabelt og tilpasse signaturen til epostens formål.
 Intensjonen er at om du trenger å snakke som "sosialansvarlig" e.l. i kommunikasjon utad, så kan du det, men du skal bare gjøre det om det er relevant for epost-samtalen.   
 
 Utover dette så skal det etterstrebes at vi holder en konsistent stil igjennom organisasjonen. Mal finnes her: https://online.ntnu.no/wiki/komiteer/signatur/
+
+Komiteen er selv ansvarlig for at dette holdes saklig.
