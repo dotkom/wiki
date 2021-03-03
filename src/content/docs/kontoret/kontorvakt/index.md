@@ -52,12 +52,12 @@ title: "Kontorvakt"
 
 | Ukenr        | Mandag          | Onsdag          | Fredag          |
 | ------------ | --------------- | --------------- | --------------- |
-| 42           | Bedkom          | Fagkom          | Arrkom          |
-| 43           | Dotkom          | Appkom          | OIL             |
-| 44           | Trikom          | Prokom          | Bedkom          |
-| 45           | Fagkom          | Arrkom          | Dotkom          |
-| 46           | Appkom          | OIL             | Trikom          |
-| 47 | Prokom| Eksamensperiode | Eksamensperiode |
+| 10           | Bedkom          | Fagkom          | Arrkom          |
+| 11           | Dotkom          | Appkom          | OIL             |
+| 12           | Trikom          | Prokom          | Bedkom          |
+| 13           | Fagkom          | Arrkom          | Dotkom          |
+| 14           | Appkom          | OIL             | Trikom          |
+| 15 | Prokom| Eksamensperiode | Eksamensperiode |
 
 
 
