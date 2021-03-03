@@ -102,6 +102,7 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Drifts- og utviklingskomiteens wiki](/wiki/komiteer/dotkom/)
     - [Eldsterådets wiki](/wiki/komiteer/eldsteradets-wiki/)
     - [Fag- og kurskomiteens wiki](/wiki/komiteer/fagkom/)
+    - [Fondstyrets wiki](/wiki/komiteer/fondstyret/)
     - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
     - [Trivselskomiteens wiki](/wiki/komiteer/trikom/)
     - [Ekskursjonskomiteens wiki](/wiki/komiteer/ekskom/)
