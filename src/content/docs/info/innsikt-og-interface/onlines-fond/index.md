@@ -38,6 +38,8 @@ Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt bel�
 26. mai 2019 | 4. april 2019 | Linjeforeningen Online v/ arrkom | Lydanlegg for sosiale arrangementer | 8700 kr | 18 392 kr | 
 2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | [attachment:716]
 30. September 2019 | 24. Oktober 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [attachment:717]
+12. februar 2020|10. april 2020|Trikom|Støtte til oppussing av kontoret| 22 000 kr (11 700 kr betinget) |27 800 kr| |
+7. september 2020| 15. september 2020 | RFK | Nytt kassasystem og nytt lydsystem | 24 312,25 kr | 24 312,25 kr |
 
 
 ## Søknader
