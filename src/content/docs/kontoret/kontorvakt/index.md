@@ -57,7 +57,7 @@ title: "Kontorvakt"
 | 12           | Trikom          | Prokom          | Bedkom          |
 | 13           | Fagkom          | Arrkom          | Dotkom          |
 | 14           | Appkom          | OIL             | Trikom          |
-| 15 | Prokom| Eksamensperiode | Eksamensperiode |
+| 15 | Prokom| Bedkom | Fagkom |
 
 
 
