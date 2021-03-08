@@ -78,7 +78,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Ridderne av Det Indre Lager](/wiki/online/ridderne/)
 - [Økonomi- og vedtektskvelden](/wiki/online/okogved)
 - [Kontoret](/wiki/online/kontoret)
-- [Boden på Moholt](/wiki/online/bodenpaamoholt)
 - [Realfagskjelleren](/wiki/online/realfagskjelleren)
 - [Datakameratene FK](/wiki/online/datakameratenefk)
 
