@@ -12,6 +12,7 @@ Her finner man utdaterte artikler som ikke lenger er relevante for dagens studen
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
 - [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
 - [Boden på Moholt](/wiki/online/bodenpaamoholt)
+- [Mailoppsett på mobil](/wiki/online/info/trivia/mailoppsett-pa-mobil/) - Sett opp @stud.ntnu.no -mailen din på mobiltelefonen din
 
 ## Inaktive komité-wikier
 
