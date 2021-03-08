@@ -45,7 +45,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 ### [Trivia](/wiki/online/info/trivia/)
 
-- [Mailoppsett på mobil](/wiki/online/info/trivia/mailoppsett-pa-mobil/) - Sett opp @stud.ntnu.no -mailen din på mobiltelefonen din
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
