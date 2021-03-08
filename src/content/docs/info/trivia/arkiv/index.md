@@ -2,6 +2,8 @@
 title: "Arkiverte artikler"
 ---
 
+Her finner man utdaterte artikler som ikke lenger er relevante for dagens studenter, men som fortsatt kan være artige å lese!
+
 ## Arkiverte artikler
 
 - [Masterorientering](/wiki/online/info/faglig/masterorientering/) - Møtereferat fra masterorientering 2011
@@ -10,7 +12,7 @@ title: "Arkiverte artikler"
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
 - [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
 
-### Inaktive komité-wikier
+## Inaktive komité-wikier
 
 - [Pensjonistkomiteens wiki](/wiki/komiteer/pankom/)
 - [Eldsterådets wiki](/wiki/komiteer/eldsteradets-wiki/)
