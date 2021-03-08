@@ -11,6 +11,7 @@ Her finner man utdaterte artikler som ikke lenger er relevante for dagens studen
 - [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
 - [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
 - [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
+- [Boden på Moholt](/wiki/online/bodenpaamoholt)
 
 ## Inaktive komité-wikier
 
