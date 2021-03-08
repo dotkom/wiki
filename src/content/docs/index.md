@@ -14,7 +14,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Eksamen](/wiki/online/info/faglig/eksamen/) - Om konting, klaging, forbedring, og mer
 - [Studieløp](/wiki/online/info/faglig/studielop/) - Studieløpet, og noen anbefalinger fra oss
 - [Masteropptak](/wiki/online/info/faglig/masteropptak/) - Hvilke emner teller?
-- Referat fra Fredag 16. mars 2012
 - [Kompendier](/wiki/online/info/faglig/kompendier/) - Studentskapte kompendier til emner.
 
 ### [Sosialt & økonomisk](/wiki/online/info/sosialt-og-okonomisk/)
