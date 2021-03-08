@@ -34,20 +34,16 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 ### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
 
 - [**Møtereferater fra Hovedstyret**](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
-- [Digital eksamen](/wiki/online/info/innsikt-og-interface/digital-eksamen/) - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
-- [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
 - [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
 - [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
 - [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
-- [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
 - [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
 - [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
 
 ### [Trivia](/wiki/online/info/trivia/)
 
-- [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
 - [Mailoppsett på mobil](/wiki/online/info/trivia/mailoppsett-pa-mobil/) - Sett opp @stud.ntnu.no -mailen din på mobiltelefonen din
 - [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
@@ -101,7 +97,6 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Bank- og økonomikomiteens wiki](/wiki/komiteer/bankom/)
     - [Bedriftskomiteens wiki](/wiki/komiteer/bedkom/)
     - [Drifts- og utviklingskomiteens wiki](/wiki/komiteer/dotkom/)
-    - [Eldsterådets wiki](/wiki/komiteer/eldsteradets-wiki/)
     - [Fag- og kurskomiteens wiki](/wiki/komiteer/fagkom/)
     - [Fondstyrets wiki](/wiki/komiteer/fondstyret/)
     - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
@@ -110,6 +105,5 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [IT-Ekskursjonens wiki](/wiki/komiteer/it_ekskursjonen/)
     - [Jubileumskomiteens wiki](/wiki/komiteer/jubkom/)
     - [Velkomstkomiteens wiki](/wiki/komiteer/velkom/)
-    - [Pensjonistkomiteens wiki](/wiki/komiteer/pankom/)
     - [Bedrift-, Fag- og kurskomiteens felleswiki](https://online.ntnu.no/wiki/komiteer/bedfagkom/)
     - [Seniorkomiteens wiki](/wiki/komiteer/seniorkom/)
