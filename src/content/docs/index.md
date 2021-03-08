@@ -56,7 +56,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Onlines drikkespill 2021](/wiki/online/info/trivia/onlines-drikkespill-2021/)
 - [Lage ny bruker på Onlineweb](/wiki/online/info/trivia/ny_bruker)
 - [Hvordan endre wiki-sider](https://online.ntnu.no/wiki/online/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
-- [Artikkel-arkiv](/wiki/online/info/trivia/ny_bruker/arkiv)
+- [Artikkel-arkiv](/wiki/online/info/trivia/arkiv)
 
 
 
