@@ -32,6 +32,20 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Gullblekka](/wiki/online/gullblekka/) - Prisutdeling for linjeredaksjonene på Gløshaugen
 - [Skjemaer](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer/) - Kvitteringsskjema og andre hvis du har lagt ut for Online
 
+### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
+
+- [**Møtereferater fra Hovedstyret**](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
+- [Digital eksamen](/wiki/online/info/innsikt-og-interface/digital-eksamen/) - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
+- [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
+- [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
+- [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
+- [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
+- [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
+- [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
+- [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
+- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
+- [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
+
 ### [Trivia](/wiki/online/info/trivia/)
 
 - [Folk](/wiki/online/info/trivia/folk/) - Personer man kommer til å høre om
@@ -43,19 +57,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Lage ny bruker på Onlineweb](/wiki/online/info/trivia/ny_bruker)
 - [Hvordan endre wiki-sider](https://online.ntnu.no/wiki/online/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
 
-### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
-
-- [Møtereferater fra Hovedstyret](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
-- [Digital eksamen](/wiki/online/info/innsikt-og-interface/digital-eksamen/) - Det jobbes med utredning av muligheter for pc på eksamen for oss alle
-- [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) - Chrome/Opera extension med nyheter, kontorstatus, sanntidsbuss, kaffeabonnement, middagsmeny og mer
-- [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
-- [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-- [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
-- [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
-- [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
-- [Diskusjonskvelder med Hovedstyret](/wiki/online/info/innsikt-og-interface/diskusjonskveldmedhs/) - Oversikt over årlige diskusjonskvelder med Hovedstyret  
-- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
-- [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
 
 
 
