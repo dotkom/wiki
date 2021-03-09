@@ -20,9 +20,6 @@ Hovedstyret består av følgende, stemmeberettigede, medlemmer:
 * Styremedlem fra Profil- og aviskomiteen
 * Styremedlem fra Trivselskomiteen
 
-
-Leder av Seniorkomiteen og leder av Bank og økonomikomiteen har møte- og talerett på Hovedstyrets møter. 
-
 ### §3 Hovedstyrets ansvarsområder
 
 #### (1) Generalforsamlingen
@@ -35,11 +32,11 @@ Hovedstyret har ansvar for foreningens daglige drift. Dette inkluderer blant ann
 
 #### (3) Kontakt med instituttet
 
-Hovedstyret er linjeforeningens talerør mot instituttet (IDI), fakultetet (IME) samt universitetet forøvrig, og skal jobbe mot tett kontakt og samarbeid. Det oppfordres til å invitere sittende ITV (instituttillitsvalgt) på deler av Hovedstyrets møter (statuspunktene) for å forenkle kommunikasjonen. 
+Hovedstyret er linjeforeningens talerør mot instituttet (IDI), fakultetet (IE) samt universitetet forøvrig, og skal jobbe mot tett kontakt og samarbeid. Det oppfordres til å invitere sittende ITV (instituttillitsvalgt) på deler av Hovedstyrets møter (statuspunktene) for å forenkle kommunikasjonen. 
 
 #### (4) Økonomi
 
-Hovedstyret har et overordnet ansvar (v/ økonomiansvarlig) for at linjeforeningens økonomi er sunn og bærekraftig. Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring hvert femte år. 
+Hovedstyret har et overordnet ansvar (v/ økonomiansvarlig) for at linjeforeningens økonomi er sunn og bærekraftig. Det skal tilstrebes å årlig spare minimum 30 000,- kroner øremerket jubileumsfeiring hvert femte år. 
 
 #### (5) Trivsel og arbeidsmiljø
 
@@ -47,11 +44,11 @@ Hovedstyret skal følge opp og jobbe for trivsel og godt miljø i, såvel som ut
 
 #### (6) Periodiske komiteer
 
-Hovedstyret har et overordnet ansvar for at periodiske komiteer opprettes og ordnes i foreningens struktur. Disse innkluderer: Velkomstkomiteen, samt jubileumskomiteen og ekskursjonskomiteen. 
+Hovedstyret har et overordnet ansvar for at periodiske komiteer opprettes og ordnes i foreningens struktur. Disse innkluderer: Velkomstkomiteen, jubileumskomiteen og ekskursjonskomiteen. 
 
 #### (7) Onlines studentpolitiske interesser
 
-Hovedstyret skal verne om Onlines studentpolitiske interesser. Hovedstyret skal være stemme for medlemmene av linjeforeningen og skal handle deretter ved svar på høringsuttalelser og annen kontakt med studentdemokratiet.
+Hovedstyret skal verne om Onlines studentpolitiske interesser. Hovedstyret skal være en stemme for medlemmene av linjeforeningen og skal handle deretter ved svar på høringsuttalelser og annen kontakt med studentdemokratiet.
 
 #### (8) Lang og tro
 
