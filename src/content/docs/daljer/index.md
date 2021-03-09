@@ -46,7 +46,7 @@ Lang og tro tjeneste
 ==================
 [image:277 align:right]
     Lang og tro tjeneste
-Denne daljen deles ut for lang og tro tjeneste i Onlines komitéer, og symboliserer et utall frivillige timer nedlagt i Online sit virke. Opprinnelig skal daljen deles ut etter tre år, men deles i dag ut ved påbegynt tredje år. Den deles typisk ut ved festelige anledninger som immatrikuleringsball og julebord. Daljen er produsert av Trofé og viser to hender i et håndtrykk, og er et generisk design fra produsenten.
+Denne daljen deles ut for lang og tro tjeneste i Onlines komitéer eller Realfagkjelleren, og symboliserer et utall frivillige timer nedlagt i Online sitt virke. Opprinnelig skal daljen deles ut etter tre år, men deles i dag ut ved påbegynt tredje år. Den deles typisk ut ved festelige anledninger som immatrikuleringsball og julebord. Daljen er produsert av Trofé og viser to hender i et håndtrykk, og er et generisk design fra produsenten.
 
 
 Komitédaljer
