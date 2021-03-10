@@ -58,7 +58,9 @@ title: "Kontorvakt"
 | 12           | Trikom          | Prokom          | Bedkom          |
 | 13           | Fagkom          | Arrkom          | Påske          |
 | 14           | Påske | Dotkom | Appkom |
-| 15 | Oil | Trikom | Prokom |
+| 15           | OIL | Trikom | Prokom |
+| 16           | Bedkom | Fagkom | Arrkom |
+| 17           | Dotkom | Appkom | OIL |
 
 
 
