@@ -31,7 +31,7 @@ Komiteen plikter å ha klart et regnskap for forrige regnskapsår, innen en mån
 Komiteen plikter å ha klart et budsjett for neste periode, innen en måned før generalforsamlingen. 
 
 #### (4) Sparing
-Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring.
+Det skal tilstrebes å årlig spare minimum 30 000,- kroner øremerket jubileumsfeiring.
 
 #### (5) Erfaringsoverføring
 Det skal ved hjelp av de erfarne i komiteen holdes kurs i regnskapsføring, og "bankvett" hvert år. 
