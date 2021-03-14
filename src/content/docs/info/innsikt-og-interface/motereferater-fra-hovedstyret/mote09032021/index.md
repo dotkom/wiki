@@ -18,13 +18,6 @@ title: "HS møte 9. mars"
 *Straffer:*  
 - Vinstraff: Sindre, for sen inkalling. Thomas for å bruke feil alias på infomail.
 
-## TODOS fra forrige gang. 
-- Alle gjør seg klare for ut og inn <3  
-- Alle leser fire forrige HS-referatene  
-- Alle fikser 2-faktor autentisering  
-- Alle signerer taushetsplikt  
-- Alle lærer seg møte-tegn-hand-ji-jitsu  
-
 ## 565 - Godkjenning av innkalling  
 - Ikke godkjent, Sindre sendte for sent
 
@@ -284,12 +277,3 @@ Kontaktpersoner for fadderukene
 
 ## 578 - Diggepunkt  
 Mye rask digging her. Dårlig tid :/
-
-## TODO
-- Alle 
-    - leser gjennom kontraktsutkast for avtale mellom Ekskom og Online
-    - tenke litt over om de ønsker å være kontaktpersoner for fadderukene
-    - Oppdatere wiki-sidene til komiteen deres (leder/nestleder/etc)
-- Sindre 
-    - ORdner trello board og gir alle tilgang til dette
-    - Snakker med Bekk ang skrivebøker
