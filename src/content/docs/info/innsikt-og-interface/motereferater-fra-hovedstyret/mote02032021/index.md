@@ -17,8 +17,6 @@ title: "HS Møte 3. mars"
 
 *Straffer:*  Sindre (sen møteinnkalling)
 
-## TODOS fra forrige gang. 
-
 ## 556 Godkjenning av innkalling  
 
 Vinstraff på ny leder for sen møteinkalling? Øyvind melder hardt
@@ -180,10 +178,3 @@ Mathias: vankelig å vite hvem man bør godkjenne på Facebook. Man kan lage noe
 
 ## 564 Diggepunkt
 Alle digger at vi er i gang woooooo
-
-## TODO
-Alle gjør seg klare for ut og inn <3
-Alle leser fire forrige HS-referatene
-Alle fikser 2-faktor autentisering
-Alle signerer taushetsplikt
-Alle lærer seg møte-tegn-hand-ji-jitsu
