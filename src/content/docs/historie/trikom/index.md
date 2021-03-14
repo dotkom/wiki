@@ -7,13 +7,13 @@ Historie
 
 Trivselskomiteen ble startet høsten 2011, og vedtatt som komité på
 genfors 2012.  
-I året 2012-2013 pusset triKom opp hele kontoret med blant annet ny sofakrok, kjøkkenhjørne, stort konferansebord og nye hyller til komitémedlemmer.  
-I 2017 ble samlokaliseringsdebatten startet og det ble bestemt at Online skulle ut fra P15. I tidlig 2018 ble vli flyttet fra 3. etasje til 5. etasje P15. 31. mai ble vi kastet ut fra P15 og fikk et midlertidig kontor og eksamenslokale på Tyholt som var vårt siste før realfag.   
-I 2018 ble Onlines lokaler flyttet fra P15 til Realfagsbygget A4. På grunn av samlokaliseringen var kontoret på Tyholt i løpet av våren, men etter sommeren sto kontoret klart.   
+I året 2012-2013 pusset Trikom opp hele kontoret med blant annet ny sofakrok, kjøkkenhjørne, stort konferansebord og nye hyller til komitémedlemmer.  
+I 2017 ble samlokaliseringsdebatten startet og det ble bestemt at Online skulle ut fra P15. I tidlig 2018 ble vi flyttet fra 3. etasje til 5. etasje P15. 31. mai ble vi kastet ut fra P15 og fikk et midlertidig kontor og eksamenslokale på Tyholt som var vårt siste før realfag.   
+I 2018 ble Onlines lokaler flyttet fra P15 til Realfagsbygget A4. På grunn av samlokaliseringen var kontoret på Tyholt i løpet av våren, men etter sommeren sto kontoret klart. I 2020-2021 fikk kontoret på nytt nye møbler, blant annet nytt sofabord og konferansebord. Online-logoen ble også malet på veggen på kontoret av prokom.  
 
 Trikom til daglig
 -----------------
-Trivselskomiteen har til daglig ansvar for at det er mat på kontoret, at kontorvakter blir satt opp og at man møter til disse og at kontoret er et greit sted å være for studenter. Vi arrangerer også små hyggelige sammenkomster i løpet av året. 
+Trivselskomiteen har til daglig ansvar for at det er mat på kontoret, at kontorvakter blir satt opp og at man møter til disse og at kontoret er et hyggelig sted å være for studenter. Vi arrangerer også små hyggelige sammenkomster i løpet av året. 
 
 
 Medlemmer
@@ -44,3 +44,4 @@ Etter genfors 2020:
 2018-2019|Pål Larsen (L), Kasper Svendsen (N), Ingvild Gravem (Ø18), Jon-Inge Heggstad (Ø19), Emil Ommundsen, Erik Skår, Maiken Astri Hatten, Malin Holte, Martin Bjerke, Morten Trøen Skandsen, Ola Holde, Sander Haga, Silje Marie Savland Moksnes
 2019-2020| Silje Marie Savland Moksnes (L), Pål Larsen (N), Erik Skår, Kasper Svendsen, Jon-Inge Heggstad, Maiken Astri Hatten, Thea Karin Fladby, Peshwas Mofak, Monika Luu, Sander Haga, Jørgen Nummedal Sveberg, Sigbjørn Berdal
 2020-2021| Erik Skår (L), Jørgen Nummedal Sveberg (Ø), Thea Karin Fladby (S), Pål Larsen, Monika Luu, Sigbjørn Berdal, Silje Marie Savland Moksnes, Sarmi Ponnuthurai, Duvara Nisharan, Carolina Gunnesdal, Emilie Sandberg Knudsen, Trym Flogard, Hallvard Munkås Andersen, Ingeborg Hirsti
+2021-2022| Carolina Gunnesdal (L), Jørgen Nummedal Sveberg (Ø), Sarmi Ponnuthurai (S), Duvara Nisharan, Emilie Sandberg Knudsen, Trym Flogard, Hallvard Munkås Andersen, Trym Flogard, Pål Larsen, Monika Luu, Sigbjørn Berdal, Silje Marie Savland Moksnes
