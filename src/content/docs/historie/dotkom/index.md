@@ -118,8 +118,8 @@ Medlemmer
 ---
 | År | Leder | Styremedlem | Medlemmer  |
 | --- | --- | ---  | :---: |
-|2020-2021| *Vigdis-Irene Steinsund* | *Thomas Hasvold* | Anhkha Vo, Amund Lunke Røhne, Tobias Slettmoen Kongsvik, Johannes Kvamme, Monika Halina, Andre Steinar Ken Furnes, Julian Grande, Anna Irene Andresen, Gerhard Gustavsen, Carl Smestad, Joakim Fremstad |
-|2019-2020| *Vigdis-Irene Steinsund* | *Monika Muzyk* | Anhkha Vo, Amund Lunke Røhne, Tobias Slettmoen Kongsvik, Johannes Kvamme, Monika Halina, Andre Steinar Ken Furnes, Julian Grande, Anna Irene Andresen, Gerhard Gustavsen, Carl Smestad, Joakim Fremstad |
+|2021-2022| *Vigdis-Irene Steinsund* | *Thomas Hasvold* | Anhkha Vo, Amund Lunke Røhne, Tobias Slettmoen Kongsvik, Johannes Kvamme, Monika Halina, Andre Steinar Ken Furnes, Julian Grande, Anna Irene Andresen, Gerhard Gustavsen, Carl Smestad, Joakim Fremstad |
+|2020-2021| *Vigdis-Irene Steinsund* | *Monika Muzyk* | Anhkha Vo, Amund Lunke Røhne, Tobias Slettmoen Kongsvik, Johannes Kvamme, Monika Halina, Andre Steinar Ken Furnes, Julian Grande, Anna Irene Andresen, Gerhard Gustavsen, Carl Smestad, Joakim Fremstad |
 
 
 
