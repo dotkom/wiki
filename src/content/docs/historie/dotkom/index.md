@@ -125,9 +125,9 @@ Medlemmer
 
 | År | Leder | Medlemmer  |
 | --- | --- | :---:  |
-|2019-2020| *Ole Anders Stokker* | |
-|2018-2019| *Jakob Westemoen* | |
-|2017-2018| *Aslak Hollund* | |
+|2019-2020| *Ole Anders Stokker* | Herman, Martin, Torjus, Torjus, Amund, Vigdis, Jonathan, Niklas, Anne, Petter, AhNkHaHaH, Marius, Anders, Monika, Ole, Børge, Andre, Henrik, Hans, Emil, Tor, Marcel, Johannes, August |
+|2018-2019| *Jakob Westemoen* |Jonathan Brooks, Ole Anders, Hans, Jarle Trollebø, Niklas, Tor, Marius, Monika, Fredrik Malmo, Petter Charles, Amund, Tobias, Torjus, Thomas, Anne |
+|2017-2018| *Aslak Hollund* |Christian Duvholt, Anders Larsen, Torjus Ødegård, Jarle Trollebø, Aigars, Ole Anders Stokker, Mathias, Marius, Herman, Thomas Mathisen, Dora Oline, Hans, Aslak, Håkon, Martin Lunde, Jakon, August, Nils, Tor, Kevin, Katrine, Monika Muzyk|
 |2016-2017| *Håkon Solbjørg* | Christian Duvholt, Nils Herde, Kristoffer Andreas Dalby, Kristian Selvik Ekle, Iver Egge Asperud, Thomas Gautvedt, Aleksander Skraastad, Hans Sandbu, Aigars Tumanis, Anders Larsen, Andrea Nornes, Jarle Trollebø, Katrine Jordheim, Martin Lunde, Niklas Hole, Ole Anders Stokker, Aslak Hollund, Dora Oline Eriksrud, Jakob Westermoen, Thomas Lund Mathisen, Torjus Iveland, Zawadi Svela  |
 |2015-2016| *Nils Herde* | |
 |2014-2015| *Nils Herde* | |
