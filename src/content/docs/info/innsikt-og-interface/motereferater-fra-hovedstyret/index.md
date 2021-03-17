@@ -6,6 +6,7 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
 
 #### Møtereferat
+- [2021-03-16](mote16032021) - intensjonsavtale ekskom, fadderkontrakt og nodekomiteedaljer 
 - [2021-03-09](mote09032021) - En psykt vanlig uke, instagram
 - [2021-03-02](mote02032021) - Første møte!
 - [2021-02-23](mote23022021) - Siste møte 
