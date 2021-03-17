@@ -56,11 +56,11 @@ title: "Kontorvakt"
 | 10           | Bedkom          | Fagkom          | Arrkom          |
 | 11           | Dotkom          | Appkom          | OIL             |
 | 12           | Trikom          | Prokom          | Bedkom          |
-| 13           | Fagkom          | Arrkom          | Påske          |
-| 14           | Påske | Dotkom | Appkom |
-| 15           | OIL | Trikom | Prokom |
-| 16           | Bedkom | Fagkom | Arrkom |
-| 17           | Dotkom | Appkom | OIL |
+| 13           | Påske | Påske | Påske          |
+| 14           | Påske | Fagkom | Arrkom |
+| 15           | Dotkom | Appkom | OIL |
+| 16           | Trikom | Prokom | Bedkom |
+| 17           | Fagkom | Arrkom | Dotkom |
 
 
 
