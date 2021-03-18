@@ -3,10 +3,12 @@ title: "Møtereferater fra Hovedstyret"
 ---
 
 Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut møtereferatene sine her på den åpne wikien slik at alle som ønsker kan se hvilken retning Online er på vei. Med det vil det bli enklere for alle å komme med innspill og idéer til Hovedstyret. 
-Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.
+Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.  
 
-#### Møtereferat
-- [2021-03-16](mote16032021) - intensjonsavtale ekskom, fadderkontrakt og nodekomiteedaljer 
+Møtereferater
+------------------  
+### Vår 2021
+- [2021-03-16](mote16032021) - Intensjonsavtale ekskom, fadderkontrakt og nodekomiteedaljer 
 - [2021-03-09](mote09032021) - En psykt vanlig uke, instagram
 - [2021-03-02](mote02032021) - Første møte!
 - [2021-02-23](mote23022021) - Siste møte 
@@ -14,7 +16,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2021-02-09](mote09022021) - Vedtektskveld  
 - [2021-02-02](mote02022021) - Genfors-prep, komitèarbeidsundersøkelse, veldedighetsfest
 - [2021-01-26](mote-26012021) - AUO, Si ifra, genfors
-- [2021-01-13](mote-13012021) - Nytt år, RFK og genfors-workshop
+- [2021-01-13](mote-13012021) - Nytt år, RFK og genfors-workshop  
+
+### Høst 2020  
 - [2020-11-06](mote-06112020) - Recap av året, budsjettmøte
 - [2020-10-30](mote30102020) - Budsjett, fadderkontrakt
 - [2020-10-23](mote23102020) - Bodretningslinjer, siifra,
@@ -28,6 +32,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2020-08-28](mote28082020) - Promovideo og daljer
 - [2020-08-13](mote13082020) - Fadderuke og opptak
 - [2020-07-29](mote-29072020) - Tilleggspakke for komiteer, budsjettreglement  
+
+### Vår 2020  
 - [2020-04-29](mote29042020) - Svinn i Kiosk, Appkom
 - [2020-04-22](mote22042020) - AUO, FIF
 - [2020-04-01](mote01042020)
@@ -39,7 +45,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2020-02-12](mote12022020)
 - [2020-01-22](mote22012020)
 - [2020-01-15](mote15012020)- genfors, jubkom, komiteseminar
-- [2020-01-08](mote08012020)
+- [2020-01-08](mote08012020)  
+
+### Høst 2019  
 - [2019-11-30](mote30112019)
 - [2019-11-13](mote13112019)
 - [2019-11-06](mote06112019)
@@ -52,7 +60,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2019-09-18](mote18092019)
 - [2019-09-11](mote11092019)
 - [2019-09-04](mote04092019)
-- [2019-08-25](mote25082019)
+- [2019-08-25](mote25082019)  
+
+### Vår 2019  
 - [2019-05-13](mote13052019) 
 - [2019-05-06](mote06052019-kompilering-uketoget-og-sommerfest) 
 - [2019-04-26](mote26042019) 
@@ -68,6 +78,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2019-02-08](2019-02-08)  
 - [2019-01-29](mote20190129)  
 - [2019-01-19](mote20190119)  
+
+### Høst 2018  
 - [2018-11-27](mote20181127)  
 - [2018-11-20](mote20181120)  
 - [2018-11-13](2018-11-13)  
@@ -83,6 +95,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2018-09-04](mote20180904)  
 - [2018-08-26](mote20180826)  
 - [2018-08-11](mote20180811)  
+
+### Vår 2018  
 - [2018-05-04](mote20180504)  
 - [2018-04-27](mote20180427)  
 - [2018-04-20](mote20180420)  
@@ -97,6 +111,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2018-01-26](mote20180126)  
 - [2018-01-19](mote20180119)  
 - [2018-01-12](mote20180112)  
+
+### Høst 2017  
 - [2017-11-16](mote20171116)  
 - [2017-11-09](2017-11-09)  
 - [2017-11-02](mote20171102)  
@@ -110,6 +126,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2017-09-07](mote20170907)  
 - [2017-08-25](2017-08-25)  
 - [2017-08-13](mote20170813)  
+
+### Vår 2017  
 - [2017-05-08](mote20170508)  
 - [2017-05-01](mote20170501)  
 - [2017-04-24](mote20170424) - HoveTHstyrets siste møte-møte
@@ -126,7 +144,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2017-01-30](20170130) - Hovedstyrets lets-get-to-work-møte
 - [2017-01-23](20170123ny) - Hovedstyrets der-var-åre-over-gitt-møte
 - [2017-01-16](20170116) - Hovedstyrets nå-er-det-snart-åre-møte
-- [2017-01-09](20170109ny) - HOVEDSTYRETS OG-DER-VAR-VI-I-GANG-*PANG* MØTE
+- [2017-01-09](20170109ny) - HOVEDSTYRETS OG-DER-VAR-VI-I-GANG-*PANG* MØTE  
+
+### Høst 2016  
 - [2016-11-16](20161116) - Hovedstyrets nå-har-vi-jubilert-møte
 - [2016-11-09](20161109) - Hovedstyrets nå er det jubileum-møte
 - [2016-11-02](20161102) - Hovedstyrets neste uke er det jubileum-møte
@@ -141,7 +161,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2016-08-31](20160831) - Hovedstyrets folk er på ITEX-møte
 - [2016-08-24](20160824) - Hovedstyrets fadderuke er hardt-møte
 - [2016-08-17](20160817) - Hovedstyrets fadderukene er i gang-møte
-- [2016-08-13](20160813ny) - Hovedstyrets semiførste møte for semesteret
+- [2016-08-13](20160813ny) - Hovedstyrets semiførste møte for semesteret  
+
+### Vår 2016  
 - [2016-05-10](20160510) - Hovedstyrets kanskje siste møte før sommeren
 - [2016-05-03](20160503) - Hovedstyrets faen det er mai allerede-møte
 - [2016-04-26](20160426) - Hovedstyrets and so our watch begin-møte
@@ -158,7 +180,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2016-02-02](20160202) - Hovedstyrets SnartVinterferiemøte  
 - [2016-01-26](20160126) - Hovedstyrets Vedtektsmøte  
 - [2016-01-19](20160119) - Hovedstyrets EfterÅremøte 
-- [2016-01-12](20160112) - Hovedstyrets backinbusinessmøte
+- [2016-01-12](20160112) - Hovedstyrets backinbusinessmøte  
+
+### Høst 2015
 - [2016-11-24](20161124) - Hovedstyrets julemøte
 - [2015-11-17](20151117) - Hovedstyrets Lille London-møte
 - [2015-11-10](20151110) - Hovedstyrets kuldemøte
@@ -174,6 +198,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2015-08-25](20150823) - Hovedstyrets Thor-Bakon-har-tatt-roret-pia-er-borte-hvordan-skal-dette-gå-møte
 - [2015-08-19](20150819) - Hovedstyrets Pia-skal-på-ferie-møte
 - [2015-12-08](20151208) - Hovedstyrets første møte for semesteret  
+
+### Vår 2015  
 - [2014-12-05](20150512) - Hovedstyrets sommermøte
 - [2014-05-05](20150505) - Hovedstyrets ryddebodenmøte
 - [2014-05-05](20150505) - Hovedstyrets ryddebodenmøte
@@ -186,7 +212,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2015-02-03](20150203) - Hovedstyrets årbokmøte
 - [2015-01-27](20150127) - Hovedstyrets komitemøte
 - [2015-01-20](2015-01-20) - Hovedstyrets post-Åremøte
-- [2015-01-13](20150113) - Hovedstyrets nyttårsmøte
+- [2015-01-13](20150113) - Hovedstyrets nyttårsmøte  
+
+### 2014  
 - [2014-11-06](2014-11-06) - Hovedstyrets julekortmøte
 - [2014-10-30](2014-10-30) - Hovedstyrets halloweenmøte
 - [2014-10-23](2014-10-23) - Hovedstyrets post-IDImøte
@@ -197,7 +225,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2014-09-11](2014-09-11) - Hovedstyrets kompileringsmøte
 - [2014-09-04](2014-09-04) - Hovedstyrets opptaksmøte
 - [2014-08-28](2014-08-28) - Hovedstyrets immballsesongmøte
-- [2014-08-13](2014-08-13) - Hovedstyrets fadderukemøte
+- [2014-08-13](2014-08-13) - Hovedstyrets fadderukemøte  
 - [2014-05-05](2014-05-05) - Hovedstyrets maimøte
 - [2014-04-04](2014-04-07) - Nytt år med nye muligheter
 
