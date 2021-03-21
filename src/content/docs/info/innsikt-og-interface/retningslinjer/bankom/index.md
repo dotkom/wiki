@@ -12,7 +12,6 @@ Komiteen består av følgende, stemmeberettigede, medlemmer:
 
 * Økonomiansvarlig for Online
 * Leder for komiteen
-* Vara
 * Økonomiansvarlige for kjernekomiteer
 * Økonomiansvarlige for nodekomiteer
 * Tillitsvalgt
@@ -43,7 +42,7 @@ Det skal ved hjelp av de erfarne i komiteen sørges for at nye medlemmer får de
 Komiteen skal passe på at  linjeforeningens eiendeler av betydelig verdi er vurdert forsikret. Hvis eiendeler bør forsikres skal komiteen underrette Hovedstyret slik at de kan ta stilling til å muliggjøre dette ved en budsjettendring.
 
 #### (7) Utilgjengelighet av komiteens leder.
-Om leder av bankom blir varig utilgjengelig eller trer av, vil nestleder i bankom midlertidig ta over ansvaret for komiteen.
+Om leder av bankom blir varig utilgjengelig eller trer av, vil økonomiansvarlig i bankom midlertidig ta over ansvaret for komiteen.
 
 ### §4 Komiteens virke
 
