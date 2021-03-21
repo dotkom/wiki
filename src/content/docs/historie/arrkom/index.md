@@ -59,7 +59,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 (Tabellen er noe mangelfull) 
  
 * L - leder  
-* N - nestleder/vara  
+* N - nestleder
 * HS - hovedstyrerepresentant
 * Ø - økonomiansvarlig  
 * P - promoteringsansvarlig
@@ -72,7 +72,8 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 |År   | Medlemmer |
 | --- | --------- |  
-|2020 - 2021| **Erika Åsberg(L)**,  Sindre Langaard(HS), Karen Dahl Aarhus(N), Milla Johanne Lund Weium(Ø), Eskil Hognestad (P), Svenn Grønbeck, Anders Bergesen, Alis Wiken Wilson, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Maiken Lie, Victoria Simensen, Helena Skants, William Andersson|
+|2021 - 2022| **Åse Merethe Wilhelmsen(L)**,  William Andersson (HS), Maiken Lie (N, Ø), Eskil Hognestad (P), Karen Dahl Aarhus,  Svenn Grønbeck, Anders Bergesen, Alis Wiken Wilson, Erika Åsberg, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Victoria Simensen, Helena Skants|
+|2020 - 2021| **Erika Åsberg (L)**,  Sindre Langaard(HS), Karen Dahl Aarhus(N), Milla Johanne Lund Weium(Ø), Eskil Hognestad (P), Svenn Grønbeck, Anders Bergesen, Alis Wiken Wilson, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Maiken Lie, Victoria Simensen, Helena Skants, William Andersson|
 |2019 - 2020| **Alis Wiken Wilson(L)**,  Erika Åsberg(N), Thomas Iversen Ramm(Ø), Eskil Hognestad, Svenn Grønbeck, Anders Bergesen, Marius Sjøberg, Karen Dahl Aarhus, Nicolai C. Michelet(P), Sindre Langaard, Milla Johanne Lund Weium, Åse Merethe Wilhelmsen, Sondre Kanstad, Aleksander Obrestad, Filip Skou(S)|
 |2018 - 2019| **Johannes Kvamme(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eskil Hognestad, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Alis Wilson, Karen Dahl Aarhus, Lars Strømholm, Kaspar Paus Græsdal(H)|
 |2017 - 2018| **Edvard Gjessing Bakken(L)**,  Eivind Rydningen(N), Marius Johan Holm Johansen(Ø), Eirik Kaldahl, Edvard Sjøblom, Eskil Hognestad, Resotharan Kanagaratnam, Kasper Klæboe Berg, Heidi Brække, Miriam Lillebo, Svenn Grønbeck, Anzhelika Seliverstova, Erika Åsberg, Thomas Iversen Ramm, Anders Bergesen, Marius Sjøberg, Fride Vaagland(H)|
