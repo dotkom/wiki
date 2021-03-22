@@ -2,8 +2,6 @@
 title: "HS møte 16. Mars"
 ---
 
-# HS-møte 16/03/2021
-
 *Møtetidspunkt:* kl. 10:15 - 12:00  
 *Sted:* H3 521 Sprokkit  
 
