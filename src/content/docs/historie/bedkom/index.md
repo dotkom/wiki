@@ -29,6 +29,10 @@ Medlemmer
 
 Komiteen består for øyeblikket av 16 engasjerte studenter.
 
+Etter splittelse av ledervervet
+
+Før splittelse av ledervervet
+
 |År|Leder|Medlemmer||||||||||||||||||||||||
 ---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |2021v|Martin Kvalsund|Kristoffer Nyvoll | Marcus Schrøder|Henrik Horten Hegli|Anders Robstad|Emlile Lia-Rognli|Sigrun Nummedal|Nina Bjærum|Thomas Ramm|Robin Lund Sadun|Victoria Kallerud|Luka Grujic|Cathrine Libaek|Haavard Brummenæs|Karen Seim Midtlien|Lars Gjelstad||||||
