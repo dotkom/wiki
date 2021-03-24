@@ -90,8 +90,8 @@ Godkjent
        - Det går utrolig bra
        - 16 medlemmer
        - 6 møter 
-       **- Livets løp som tema**
-       **- Hello world som navn til fadderuka**
+       - **Livets løp som tema**
+       - **Hello world som navn til fadderuka**
        
     - OIL:
         - Oppstart preget av lite motivasjon blandt medlemmer
