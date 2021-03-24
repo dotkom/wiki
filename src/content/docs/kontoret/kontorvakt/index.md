@@ -53,8 +53,8 @@ title: "Kontorvakt"
 
 | Ukenr        | Mandag          | Onsdag          | Fredag          |
 | ------------ | --------------- | --------------- | --------------- |
-| 10           | Bedkom          | Fagkom          | Arrkom          |
-| 11           | Dotkom          | Appkom          | OIL             |
+| 10           | Bedkom  x        | Fagkom   x       | Arrkom   x       |
+| 11           | Dotkom          | Appkom  x        | OIL             |
 | 12           | Trikom          | Prokom          | Bedkom          |
 | 13           | Påske | Påske | Påske          |
 | 14           | Påske | Fagkom | Arrkom |
