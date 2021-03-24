@@ -251,8 +251,8 @@ Godkjent
 - Henrik tar ansvar for semesterundersøkelsen.
     - Frist 3 dager etter påske
 ## 600 - Eventuelt  
-- Hyttetur før sommeren?
-    - Sindre: Vi har en hytte, vi prøver å få til en hyttetur etter påske
+- **Hyttetur før sommeren?**
+    - **Sindre: Vi har en hytte, vi prøver å få til en hyttetur etter påske**
     
 - Datakameratene:
     - Ønsker å komme på HS møte
