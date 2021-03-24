@@ -201,8 +201,6 @@ Godkjent
 
 
 ## 597 - Mail fra Endre (10 min)  
-[Se mail fra Endre Ulberg (tillitsvalgt i Online) med emnet "Angående dødsfallet"]  
-
 - Sindre: Høre hvordan det går med førteklassinger
     - Hvordan skal vi gå frem der? 
 - Thomas: Spørre fadderne om å ha reunion faddervors/sosialkveld
