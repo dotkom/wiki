@@ -79,10 +79,10 @@ Godkjent
         - Stengt, lite aktivitet
         - Åpning usikkert
    
-   - Velkom:
-       - Det går utrolig bra
-       - 16 medlemmer
-       - 6 møter 
+    - Velkom:
+        - Det går utrolig bra
+        - 16 medlemmer
+        - 6 møter 
     - OIL:
         - Oppstart preget av lite motivasjon blandt medlemmer
             - Få som møtte på møter og lite ble gjort
