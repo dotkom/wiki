@@ -17,9 +17,9 @@ title: "Stormøte 13. april"
 
 ## Velkommen  
 
-## 602 - Godkjenning av innkalling  
+## 611 - Godkjenning av innkalling  
 
-## 603 - Statusrunde (30 min)  
+## 612 - Statusrunde (30 min)  
 
 #### Appkom:  
 
@@ -57,13 +57,14 @@ title: "Stormøte 13. april"
 
 #### Leder:  
 
-## 604 - Interkom (10 min)  
+## 613 - Interkom (10 min)  
 
+## 614 - Siifra (10 min)  
 
 ## PAUSE (10 min)  
 
-## 610 - Eventuelt  
+## 615 - Eventuelt  
 
-## 611 - Møteevaluering  
+## 616 - Møteevaluering  
 
 ## TODO
