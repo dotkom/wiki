@@ -19,7 +19,7 @@ title: "Stormøte 13. april"
 
 ## 611 - Godkjenning av innkalling  
 
-## 612 - Statusrunde (30 min)  
+## 612 - Statusrunde (20 min)  
 
 #### Appkom:  
 
