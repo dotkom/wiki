@@ -8,8 +8,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2021
-- [2021-04-14](mote13042021) - Stormøte
-- [2021-04-04](mote06042021)
+- [2021-13-14](mote13042021) - Stormøte
+- [2021-06-04](mote06042021)
 - [2021-03-23](mote23032021)
 - [2021-03-16](mote16032021) - Intensjonsavtale ekskom, fadderkontrakt og nodekomiteedaljer 
 - [2021-03-09](mote09032021) - En psykt vanlig uke, instagram
