@@ -1,5 +1,5 @@
 ---
-title: "HS møte 6. APRIL"
+title: "HS møte 6. april"
 ---
 
 *Møtetidspunkt:* kl. 10:15 - 12:00  
