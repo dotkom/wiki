@@ -62,6 +62,7 @@ title: "Stormøte 13. april"
 ## 614 - Siifra (10 min)  
 
 ## 615 - Kommunikasjonsflyt i Online (10 min)
+[Kommunikasjonsflyten i Online er ikke så bra som den kan være. Det kan fort være litt høy terskel for å ta kontakt med en annen komité eller HS, og etter at nodekomiteene ble plassert under HS på Genfors trenger vi innspill på hvordan kommunikasjonen kan bli best mulig]
 
 ## PAUSE (10 min)  
 
