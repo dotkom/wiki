@@ -61,10 +61,12 @@ title: "Stormøte 13. april"
 
 ## 614 - Siifra (10 min)  
 
+## 615 - Kommunikasjonsflyt i Online (10 min)
+
 ## PAUSE (10 min)  
 
-## 615 - Eventuelt  
+## 6xx - Eventuelt  
 
-## 616 - Møteevaluering  
+## 6xx - Møteevaluering  
 
 ## TODO
