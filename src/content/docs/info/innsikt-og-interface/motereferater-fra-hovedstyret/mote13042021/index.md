@@ -59,12 +59,15 @@ title: "Stormøte 13. april"
 
 ## 613 - Interkom (10 min)  
 
-## 614 - Siifra (10 min)  
-
-## 615 - Kommunikasjonsflyt i Online (10 min)
-[Kommunikasjonsflyten i Online er ikke så bra som den kan være. Det kan fort være litt høy terskel for å ta kontakt med en annen komité eller HS, og etter at nodekomiteene ble plassert under HS på Genfors trenger vi innspill på hvordan kommunikasjonen kan bli best mulig]
+## 614 - Siifra (Endre, 10 min)  
 
 ## PAUSE (10 min)  
+
+## 615 - Kommunikasjonsflyt i Online (Thea, 10 min)
+[Kommunikasjonsflyten i Online er ikke så bra som den kan være. Det kan fort være litt høy terskel for å ta kontakt med en annen komité eller HS, og etter at nodekomiteene ble plassert under HS på Genfors trenger vi innspill på hvordan kommunikasjonen kan bli best mulig]
+
+## 616 - Onlinepotten (Milla, 10 min)
+[Den er tom og jeg vil ha tydelige retningslinjer for hvordan man skal benytte seg av potten, og at penger ikke skal bli tatt for gitt.]
 
 ## 6xx - Eventuelt  
 
