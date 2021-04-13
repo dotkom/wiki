@@ -70,8 +70,8 @@ title: "Stormøte 13. april"
 ## 616 - Onlinepotten (Milla, 10 min)
 [Den er tom og jeg vil ha tydelige retningslinjer for hvordan man skal benytte seg av potten, og at penger ikke skal bli tatt for gitt.]
 
-## 6xx - Eventuelt  
+## 617 - Eventuelt  
 
-## 6xx - Møteevaluering  
+## 618 - Møteevaluering  
 
 ## TODO
