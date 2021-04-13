@@ -60,6 +60,7 @@ title: "Stormøte 13. april"
 ## 613 - Interkom (10 min)  
 
 ## 614 - Siifra (Endre, 10 min)  
+[]
 
 ## PAUSE (10 min)  
 
