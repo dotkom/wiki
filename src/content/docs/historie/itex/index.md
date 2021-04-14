@@ -21,6 +21,8 @@ Komiteen består for øyeblikket av 7 medlemmer
 
 |År|Leder|Medlemmer||||||
 |---|---|---|---|---|---|---|---|
+|2021|Øyvind Jalland Schjerven|Mathias Fossum|Henrik Horten Hegli|Elise Telje|Johanne Tronstad|Christoffer Stensrud||
+|2020|Thomas Iversen Ramm|Kristoffer Nyvoll|Johanne Tronstad|Øyvind Jalland Schjerven|Lars Kristian Gjelstad|Emilie Lia-Rognli|Charlotte Söderström|Nina Bjærum|Marcus Schrøder|Anhkha Nguyen Vo|
 |2019|Mathias S. Müller|Olav Reppe Husby|Markus Haraldseid|Sølve Bø Hunvik|Adrian Thompson|Anzhelika Seliverstova|Lena Tørresdal|
 |2018|Synne Byre|Jens Omfjord|Rein Holthe-Berg|Christoffer Skar Loftsberg|Mathias S. Müller|Markus Haraldseid|Andreas Nordby |
 |2017|Hege Louise Borge|Elise Fehn Olsen|Andrea Leikvold|Christoffer Skar Loftsberg|Jie Li|Silje Sævig| |
