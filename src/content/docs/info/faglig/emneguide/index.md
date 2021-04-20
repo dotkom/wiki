@@ -6,7 +6,7 @@ Gjennom informatikk-studiene kan man velge mange forskjellige valgfag, og det er
 
 **NB!** Emner endrer seg fra år til år, spesielt under pandemien. Dette er derfor bare en veiledende guide. 
 
-VÅR-SEMESTER
+VÅRSEMESTER
 ============
 
 ### [TDT4237 - Programvaresikkerhet og personvern](https://www.ntnu.no/studier/emner/TDT4237#tab=omEmnet)
@@ -20,5 +20,5 @@ Handler om å analysere og presentere "big data" på en måte som er nyttig for 
 
 **Arbeid:** To lange rapporter å skrive (individuell+gruppe), mye gruppearbeid.
 
-HØST-SEMESTER
+HØSTSEMESTER
 ============
