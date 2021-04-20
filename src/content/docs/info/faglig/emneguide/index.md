@@ -14,8 +14,6 @@ Handler om å identifisere svakheter i programvare, kategorisere de og fikse de.
 
 **OBS!** Ikke lenger et M2A fag.
 
-**Anbefalt for:** 2. klasse, 3. klasse, 4. klasse
-
 **Arbeid:** En individuell øving i SecureCodeWarrior, tre øvinger med rapport som kan gjøres i gruppe. 
 
 
