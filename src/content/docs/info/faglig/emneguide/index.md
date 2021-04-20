@@ -11,9 +11,11 @@ VÅRSEMESTER
 
 ### [TDT4237 - Programvaresikkerhet og personvern](https://www.ntnu.no/studier/emner/TDT4237#tab=omEmnet)
 Handler om å identifisere svakheter i programvare, kategorisere de og fikse de. Fordel å ha grunnleggende kunnskaper i Django, men ikke et krav. En individuell øving, tre øvinger som kan gjøres alene eller gruppe på 1-2 andre (vårsemesteret 2021). 
+
 **OBS!** Ikke lenger et M2A fag.
 
 **Anbefalt for:** 2. klasse, 3. klasse, 4. klasse
+
 **Arbeid:** En individuell øving i SecureCodeWarrior, tre øvinger med rapport som kan gjøres i gruppe. 
 
 
