@@ -18,11 +18,29 @@ Handler om å identifisere svakheter i programvare, kategorisere de og fikse de.
 
 **Arbeid:** En individuell øving i SecureCodeWarrior, tre øvinger med rapport som kan gjøres i gruppe. 
 
+HØSTSEMESTER
+============
 
 ### [TDT4259 - Anvendt Data Science](https://www.ntnu.no/studier/emner/TDT4259#tab=omEmnet)
 Handler om å analysere og presentere "big data" på en måte som er nyttig for en bedrift/organisasjon. Du trenger ikke kunne (eller lære) noe om maskinlæring osv, men du kan bruke det du vil av verktøy i analysen.
 
 **Arbeid:** To lange rapporter å skrive (individuell+gruppe), mye gruppearbeid.
 
-HØSTSEMESTER
-============
+### [TDT4195 - Grunnleggende visuell databehandling](https://www.ntnu.no/studier/emner/TDT4195#tab=omEmnet)
+
+### [TDT4230 - Grafikk og visualisering](https://www.ntnu.no/studier/emner/TDT4230#tab=omEmnet)
+
+### [TDT4265 - Datasyn og dyp læring](https://www.ntnu.no/studier/emner/TDT4265#tab=omEmnet)
+
+### [XXX](https://www.ntnu.no/studier/emner/XXX#tab=omEmnet)
+
+### [XXX](https://www.ntnu.no/studier/emner/XXX#tab=omEmnet)
+
+
+MAL
+==================
+
+### [Fagkode - navn på emne](https://www.ntnu.no/studier/emner/FAGKODE#tab=omEmnet)
+Beskrivelse av emnet.
+
+**Arbeid:** Beskrivelse av arbeidet
