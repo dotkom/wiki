@@ -13,6 +13,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 - [Eksamen](/wiki/online/info/faglig/eksamen/) - Om konting, klaging, forbedring, og mer
 - [Studieløp](/wiki/online/info/faglig/studielop/) - Studieløpet, og noen anbefalinger fra oss
+- [Emne-guide for informatikere](/wiki/online/info/faglig/emneguide/) - Studentskapt guide til de forskjellige emnene du kan ta som informatiker
 - [Masteropptak](/wiki/online/info/faglig/masteropptak/) - Hvilke emner teller?
 - [Kompendier](/wiki/online/info/faglig/kompendier/) - Studentskapte kompendier til emner.
 
