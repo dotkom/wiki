@@ -4,7 +4,7 @@ title: "Emne-guide for informatikere"
 
 Gjennom informatikk-studiene kan man velge mange forskjellige valgfag, og det er ikke alltid like lett å vite hva man kan velge og hva man bør velge. Her har vi samlet en liten liste med noen av de mange fagene man kan velge som informatiker. 
 
-**NB!** Emner endrer seg fra år til år, spesielt under pandemien. Dette er derfor bare en veiledende guide. 
+**NB!** Emner endrer seg fra år til år, spesielt under pandemien. Dette er derfor bare en veiledende guide skrevet våren 2021.
 
 VÅRSEMESTER
 ============
