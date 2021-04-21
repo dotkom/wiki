@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2021
-- [2021-04-20](mote20042021) - 
+- [2021-04-20](mote20042021) - Pangordning, datakameratene og økonomikurs
 - [2021-04-13](mote13042021) - Stormøte
 - [2021-04-06](mote06042021) - Jubileum, planlegging av stormøte og alumniundersøkelse
 - [2021-03-23](mote23032021) - Ekskom, seniorkom og semesterundersøkelse.
