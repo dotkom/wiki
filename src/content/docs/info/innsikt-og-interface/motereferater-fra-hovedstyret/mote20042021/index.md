@@ -69,7 +69,6 @@ Ikke godkjent
 
 #### Nestleder:
 - Har hatt forventningsavklaring med alle 13 komiteledere
-    - **Lite kritikk, folk følte de fikk god oppfølging**
     - Si fra hvis man har noe på hjertet<3
 - Møte med Sindre kontaktpersonordning.
 - Statuspunkt OIL:
@@ -97,7 +96,7 @@ Ikke godkjent
         - Anders legger ut på driven hvis den ikke er der og kan sammenligne med fagkom og dotkom som har erfaringer med dette.
  
 ## 622 - Datakameratene (10 min)  
-[Diskusjon av [kontrakt]**(https://docs.google.com/document/d/10-u7mGkD9xxlIRKHBKw6XxMtDohuSsREizIA6nG0cuw/edit#heading=h.5oeymglvwmig)** og strategi for Datakameratene + Online fremover]  
+[Diskusjon av [kontrakt] og strategi for Datakameratene + Online fremover]  
 
 - Sindre: Tenker at det viktigste er å få promotert datakamaratene for onlinere. Punkt 7 i kontrakten er litt vagt. Vi burde kanskje ha noe mer konktret på hvordan vi skal rekrutere onlinere
     - Anders: Det går på punktene under punkt 7. F.eks det å stille på interessegruppe dag osv. Så punktet 7 blir kanskje overflødig. Punktene under 7 blir vel mer utdypde
@@ -115,7 +114,7 @@ Ikke godkjent
 ## 623 - Opptak høst 2021 (Thea, 15 min)
 [Vi diskuterer hvordan vi løser opptaket til høsten og lager en tentativ plan]
 
-- Thea: Vi må finne ut hvordan vi skal gjøre det til høsten. F.eks hvilke komiteer skal ha opptak til høsten? Hvordan vi skal fordele komitene. **Appkom fikk f.eks. mange søkere i fjor.**
+- Thea: Vi må finne ut hvordan vi skal gjøre det til høsten. F.eks hvilke komiteer skal ha opptak til høsten? Hvordan vi skal fordele komitene. 
     - William: Vi kan spørre nodekomitene om de vil ha opptak. Prøve å sidestille de med kjernekomitene her. 
    
 - Thea: Vi tar en diskusjon på dette neste møte. 
