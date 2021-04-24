@@ -10,7 +10,7 @@ _Første Vers_
 For i Tana på en stein, står ei flaske brennevin, 
 SKÅL!
 
-_Andre Vers_
+_Senere Vers_
 
 "For på/i *Stedsnavn* på/i sted står ei flaske brennevin.
 Skål!"
