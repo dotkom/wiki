@@ -81,6 +81,7 @@ Andre drikkeviser
 -   [Nøtteliten blir full](/wiki/online/info/sosialt-og-okonomisk/studentsanger/notteliten)
 -   [Sluttstrupen](/wiki/online/info/sosialt-og-okonomisk/studentsanger/sluttstrupen)
 -   [Finsk Drikkevise](/wiki/online/info/sosialt-og-okonomisk/studentsanger/finskdrikkevise)
+-   [Nord-Norsk Drikkevise](/wiki/online/info/sosialt-og-okonomisk/studentsanger/nordnorskdrikkevise)
 
 Politisk korrekt
 ----------------
