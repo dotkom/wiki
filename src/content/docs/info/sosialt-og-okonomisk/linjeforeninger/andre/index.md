@@ -66,19 +66,6 @@ Tilhørende wikisider
     -   Les mer på [www.studenttinget.no/repromidler](http://www.studenttinget.no/repromidler)
     -   På høsten er søknadsfristen 1. oktober
     -   På våren er søknadsfristen 1. mars
--   **Rektorpotten**, rektor på NTNU deler ut 1.000.000 i året
-    -   NTNU-studenter kan søke til arrangementer som gjelder mange
-        studenter
-    -   Søknad stilles til rektor og sendes til postmottak@adm.ntnu.no,
-        søknaden må inneholde arrangementsbeskrivelse, søknadsbeløp og
-        budsjett
-    -   Den lille rektorpotten er på 1 million der første prioritet er
-        studentprosjekter, mens den store rektorpotten er på 10
-        millioner og går til strategisk arbeid
-    -   Begrensning: Tildeles ikke til studier eller deler av dem
-        (f.eks. ekskursjoner), heller ikke til gjentakende arrangement
-    -   Denne ordningen er ustabil, den revurderes hvert år
-    -   Søknader behandles fortløpende
 -   **Akan**, støtter alkoholfrie arrangementer
     -   Finn søknadsskjemaet for “Midler til rusmiddelforebyggende
         arbeid blant studenter” på [akan.no](http://akan.no)
