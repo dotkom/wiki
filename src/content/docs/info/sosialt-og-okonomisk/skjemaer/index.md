@@ -4,9 +4,6 @@ title: "Skjemaer"
 
 ### Her finnes PDFer av de ulike kvitterings/bilagsskjemaene til Online. 
 
-[attachment:344]
-
-[attachment:157]
 
 [attachment:185]
 
