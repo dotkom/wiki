@@ -2,9 +2,6 @@
 title: "Skjemaer"
 ---
 
-### Her finnes PDFer av de ulike kvitterings/bilagsskjemaene til Online. 
-
-
 [attachment:185]
 
 [attachment:632 title:"Avtale for utleie av utstyr"]
