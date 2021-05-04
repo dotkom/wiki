@@ -9,12 +9,11 @@ Onlinepotten er en pott på 15.000kr hvert semester som fordeles av hovedstyret 
 
 ### Retningslinjer
 
-- Man skal sende inn søknad minst 2 dager før workshopen/arbeidskvelden skal finne sted.
+(1) Man skal sende inn søknad minst 2 dager før workshopen/arbeidskvelden skal finne sted.
 
 
-- Frist på 2 uker på å sende inn kvitteringsskjema, ellers er det ingen garanti for å få utbetalt pengene.
-    - Unntak: Dersom det benyttes faktura som sendes til okonomi@online.ntnu.no. I så fall skal det gis beskjed i søknaden om at dette benyttes.  
-
+(2) Frist på 2 uker på å sende inn kvitteringsskjema, ellers er det ingen garanti for å få utbetalt pengene.  
+Unntak: Dersom det benyttes faktura som sendes til okonomi@online.ntnu.no. I så fall skal det gis beskjed i søknaden om at dette benyttes.
 
 ### Søknadsform
 Søknader om støtte fra Onlinepotten skal sendes på mail til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) med følgende felter for å være gyldig:
