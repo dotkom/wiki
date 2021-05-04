@@ -5,7 +5,16 @@ title: "Onlinepotten"
 [TOC]
 
 ## Onlinepotten
-Onlinepotten er en pott på 15.000kr hvert semester som fordeles av hovedstyret i Online. Den ble vedtatt på generalforsamlingen i 2018 ([Saksforslag 4](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2018/saksforslag/#wiki-toc-forslag-4-onlinepotten-en-pott-der-onlinere-kan-ske-om-penger-til-pizza-til-workshops-osv-hovedstyret)). Meningen med potten er å støtte Onlinere som har en “workshop” eller arbeidsperiode over minst 3 til 4 timer som bidrar til å forbedre Online som linjeforening. Dette kan for eksempel være støtte til pizza eller annen bespisning, men er ikke begrenset til dette.
+Onlinepotten er en pott på 15.000kr hvert semester som fordeles av hovedstyret i Online. Den ble vedtatt på generalforsamlingen i 2018 ([Saksforslag 4](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2018/saksforslag/#wiki-toc-forslag-4-onlinepotten-en-pott-der-onlinere-kan-ske-om-penger-til-pizza-til-workshops-osv-hovedstyret)). Meningen med potten er å støtte Onlinere som har en “workshop” eller arbeidsperiode over minst 3 til 4 timer som bidrar til å forbedre Online som linjeforening. Dette kan for eksempel være støtte til pizza eller annen bespisning, men er ikke begrenset til dette.  
+
+### Retningslinjer
+
+- Man skal sende inn søknad minst 2 dager før workshopen/arbeidskvelden skal finne sted.
+
+
+- Frist på 2 uker på å sende inn kvitteringsskjema, ellers er det ingen garanti for å få utbetalt pengene.
+    - Unntak: Dersom det benyttes faktura som sendes til okonomi@online.ntnu.no. I så fall skal det gis beskjed i søknaden om at dette benyttes.  
+
 
 ### Søknadsform
 Søknader om støtte fra Onlinepotten skal sendes på mail til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) med følgende felter for å være gyldig:
