@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2021  
+- [2021-05-04](mote04052021) - Kompilering, onlinepotten og OW-roller
 - [2021-04-27](mote27042021) - UKEtoget, innføring i mail og sommerplanlegging
 - [2021-04-20](mote20042021) - Pangordning, datakameratene og økonomikurs
 - [2021-04-13](mote13042021) - Stormøte
