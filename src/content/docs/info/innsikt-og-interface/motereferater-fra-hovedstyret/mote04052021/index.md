@@ -129,9 +129,6 @@ OIL:
  
 - Sindre: det er snakk om komiteekickoff/komiteeseminar helgen uke 35. Det vil være opptak til komiteene ca uke 35. 
     - Er det da mulig for oss å gjennomføre opptaket i tide før den helgen slik at man kan gjennomføre et komiteeseminar med de nye tatt opp. 
-- Det er et alternativ i uke 37
-    - Tentativt Bekk-arrangement, kan være det er greit å bytte ut. 
-    - Bekk skal uansett være med på komiteeseminaret, så det burde vel være mulig å slå sammen disse. Det gjør jo at Bekk ikke får to datoer, men vi unngår kaos i uke 35. 
 - Per nå ser det ut til at komiteeseminar, og komiteekickoff kanskje skal slås sammen til et arrangement. Da blir det over to dager isåfall. 
 - William tar det opp at vi må bytte helg for Komitékickoff/seminar til lørdag uke 37, for å ikke ha for dårlig tid med foreling og komiteopptak. Må høre med Bekk også.
 - Gitt at byttet går, tentativ dato for fordelingsmøte 5. september. 
