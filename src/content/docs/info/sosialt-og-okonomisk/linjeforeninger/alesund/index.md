@@ -29,12 +29,13 @@ Tilhørende wikisider
 |---|---|---|---|---|---|---|---|
 |[Aqua Tecta](mailto:aqua.tecta.ntnu@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916004168)|Byggingeniør og Vann- og Miljøteknikk| | | | [Facebookside](https://www.facebook.com/AquaTecta/)| |
 |[Børsen](mailto:borsen.linjeforening@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=922602409)|Institutt for internasjonal forretningsdrift| | | | [Facebookside](https://www.facebook.com/Borsenlinjeforening)| |
+|[Galleonen](mailto:galleonen@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916807341)|Shipping Management| | | | [Facebookside](https://www.facebook.com/galleonen)| |
+|Myokard|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918639586)|Institutt for helsevitenskap| | | | [Facebookside](https://www.facebook.com/Myokard.ntnu/about/?ref=page_internal)| |
+|Sekstanten|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917687404)|Nautikk| | | |[Facebookside](https://www.facebook.com/Sekstanten)||
 |[Sigma](mailto:sigma.linjeforening@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=921504438)|Fornybar energi, maskiningeniør og skipsdesign| | | | [Facebookside](https://www.facebook.com/SigmaLinjeforening)| |
 |[Syntax](mailto:post@syntax-linjeforening.no)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=919989696)|Data, Automasjon og Elkraft| | | | [Facebookside](https://www.facebook.com/SyntaxAalesund)| |
 |[Symbiosen](mailto:leder.symbiosen@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916904223)|Instituttet for biologiske fag| | | |[Facebookside](https://www.facebook.com/Symbioseniba/)| |
-|Sekstanten|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=917687404)|Nautikk| | | |[Facebookside](https://www.facebook.com/Sekstanten)||
-|[Galleonen](mailto:galleonen@gmail.com)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916807341)|Shipping Management| | | | [Facebookside](https://www.facebook.com/galleonen)| |
-|Myokard|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918639586)|Institutt for helsevitenskap| | | | [Facebookside](https://www.facebook.com/Myokard.ntnu/about/?ref=page_internal)| |
+
 
 ## Masterforeninger
 
