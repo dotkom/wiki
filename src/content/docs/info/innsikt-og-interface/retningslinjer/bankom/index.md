@@ -2,6 +2,8 @@
 title: "Bank- og økonomikomiteens retningslinjer"
 ---
 
+### Se bort fra denne, Duvara fikser
+
 ### §1 Komiteens formål
 
 Bank- og økonomikomiteen skal til enhver tid ha det overordnede ansvaret for linjeforeningens økonomi.  
