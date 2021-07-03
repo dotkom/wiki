@@ -14,7 +14,7 @@ Ellers er det mulig å booke kjelleren for egne arrangementer og sammenkomster.
 Realfagskjelleren har en kontaktperson i hver linjeforening som fungerer som bindeledd mellom linjeforeningen og kjelleren, for spørsmål angående kjelleren er det mulig å snakke med denne personen.
 
 
-Ellers kan kjellerstyret nå's på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no) eller kontaktes på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
+Ellers kan kjellerstyret nå's på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no) det er også mulig å kontakte det på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
 
 
 # Historie
