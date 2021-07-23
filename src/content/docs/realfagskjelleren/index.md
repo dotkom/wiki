@@ -2,7 +2,7 @@
 title: "Realfagskjelleren"
 ---
 
-Realfagskjelleren er Online's egen kjeller og bar, som deles med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Kjelleren befinner seg i Herman Krags Veg 12. 
+Realfagskjelleren er Online's egen kjeller og bar, som driftes sammen med [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Kjelleren befinner seg i Herman Krags Veg 12. 
 
 Kjelleren arrangerer lavterskel arrangementer hvor alle er velkomne, til vanlig er det åpent hver Fredag hvor en etter en tung uke kan ta seg en rolig tur for å slappe av og møte andre medstudenter. I tillegg pleier det å arrangeres andre fester nå og da hvor igjen alle er velkomne.
 
@@ -11,10 +11,10 @@ Ellers er det mulig å booke kjelleren for egne arrangementer og sammenkomster.
 
 ## Kontakt
 
-Realfagskjelleren har en kontaktperson i hver linjeforening som fungerer som bindeledd mellom linjeforeningen og kjelleren, for spørsmål angående kjelleren er det mulig å snakke med denne personen.
+Realfagskjelleren har en kontaktperson i hver linjeforening som fungerer som bindeledd mellom linjeforeningen og kjelleren, for spørsmål angående kjelleren er det mulig å snakke med denne personen. Listen under holder oversikt over hvem som foreløpig har denne posisjonen.
 
 
-Ellers kan kjellerstyret nå's på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no) det er også mulig å kontakte det på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
+Ellers kan kjellerstyret bli kontaktet på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no) det er også mulig å kontakte de på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
 
 
 # Historie
@@ -27,7 +27,7 @@ Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de sk
 
 Den 16. Mars 2018 var utbedringene ferdige og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
 
-Kjelleren åpnet igjen i fadderukene 2018, og den 31. August 2018 var den store Premiereåpningen for den nye kjelleren.
+Kjelleren åpnet igjen i fadderukene 2018, og og den 31. August 2018 var den første offisielle ordinære åpningen. 
 
 
 ## Onlinere i Kjellerstyret
