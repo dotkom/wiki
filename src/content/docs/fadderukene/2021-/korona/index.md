@@ -14,3 +14,7 @@ Vi har gjennom planleggingen av disse litt spesielle fadderukene gjort forskjell
 - Vi vil forsøke å samle de samme gruppene dersom flere grupper skal samles for å minke mengden mennesker som møter hverandre.
 - Våre arrangementer er lagt opp slik at det skal være mulig å holde den sosiale avstanden som anbefales av FHI.
 - Det er i større grad enn før lagt opp til at man noen ganger kun er med faddergruppen sin.
+
+###Kontakt oss
+
+Dersom det skulle være noen spørsmål til dette er du hjertelig velkommen til å ta kontakt med leder i velkomstkomiteen [Karan Singh Sandhu] eller nestleder [Haavard Brummenæs]
