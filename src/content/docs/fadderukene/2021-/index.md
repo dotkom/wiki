@@ -23,7 +23,7 @@ Informasjonskanal for fadderukene 2020
 ### Kontakt
 Er det noe du lurer på? Ta kontakt med:
 
-- [Karan Singh Sandhu](https://online.ntnu.no/profile/view/karanss/) (leder, velkom)  
+- [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) (leder, velkom)  
 - [Haavard Brummenæs](https://online.ntnu.no/profile/public/1925/) (nestleder, velkom)  
 
 Vi er tilgjengelig 24/7 ved behov.  
