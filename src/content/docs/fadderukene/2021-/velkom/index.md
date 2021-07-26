@@ -8,7 +8,7 @@ Dersom du av ulike årsaker trenger å komme i kontakt med en arrangør, kan du 
 |  Navn | Ansvar | Arrangør for |
 |  ------ | ------ | ------ |
 |  [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) | **Leder** | Alle |
-|  [Anders Robstad](https://online.ntnu.no/profile/view/andersr/) | **Nestleder** | Alle |
+|  [Haavard Brummenæs](https://online.ntnu.no/profile/view/andersr/) | **Nestleder** | Alle |
 |  [Duvara Nishaharan](https://online.ntnu.no/profile/view/duvara/) | **Økonomi** | Alle |
 |  [Amund Skuggevik Foss](https://online.ntnu.no/profile/view/amund98/) |  | Bachelor |
 |  [Gabriel Hanssen](https://online.ntnu.no/profile/view/gabrielh/) |  | Bachelor |
