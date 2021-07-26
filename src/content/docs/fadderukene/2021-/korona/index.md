@@ -17,4 +17,4 @@ Vi har gjennom planleggingen av disse litt spesielle fadderukene gjort forskjell
 
 ###Kontakt oss
 
-Dersom det skulle være noen spørsmål til dette er du hjertelig velkommen til å ta kontakt med leder i velkomstkomiteen [Karan Singh Sandhu] (https://online.ntnu.no/profile/public/1963) eller nestleder [Haavard Brummenæs]
+Dersom det skulle være noen spørsmål til dette er du hjertelig velkommen til å ta kontakt med leder i velkomstkomiteen [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) eller nestleder [Haavard Brummenæs]
