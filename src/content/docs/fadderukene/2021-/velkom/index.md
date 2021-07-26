@@ -20,8 +20,6 @@ Dersom du av ulike årsaker trenger å komme i kontakt med en arrangør, kan du 
 |  [Tage Munthe](https://online.ntnu.no/profile/view/sarmi/) |  | Bachelor |
 |  [Vegard Utseth](https://online.ntnu.no/profile/view/siriarn/) |  | Bachelor |
 |  [Viktoria Kallerud](https://online.ntnu.no/profile/view/torjuso/) |  | Bachelor |
-
 |  [Peshwas Mofak](https://online.ntnu.no/profile/view/torjuso/) |  | Bachelor |
-
 |  [Øyvind Schjerven](https://online.ntnu.no/profile/view/hvalstorm/) |  | Master |
 |  [Kristoffer Nyvoll](https://online.ntnu.no/profile/view/gpd/) |  | Master |
