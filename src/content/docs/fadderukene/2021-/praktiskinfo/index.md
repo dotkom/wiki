@@ -6,5 +6,8 @@ Hei og velkommen! Til alle dere som har kommet inn på informatikk vil jeg, på 
 
 ###STUDENTWEB & SEMESTERAVGIFT
 
+Hvert år så må semesteravgiften betales inn. Dette gjøres på studentweb: https://fsweb.no/studentweb/velgInstitusjon.jsf. Dere har enten allerede fått, eller får snart en velkomst-mail som følge av å ha svart ja på studieplassen. Denne vil inneholde blant annet innloggingsinformasjon til dette. Når dere får denne mailen vil jeg anbefale og betale semesteravgiften så fort som mulig, siden man ikke får utbetalt fra lånekassen før denne er betalt. 
 
-Hvert år så må semesteravgiften betales inn. Dette gjøres på
+###BLACKBOARD & INNSIDA
+
+Blackboard er nettsiden hvor forelesere legger ut oppgaver, forelesningsnotater og annen relevant informasjon til fagene. Det er forelesernes måte å kommuniserer med alle studentene. Du vil få tilgang til denne siden når semesteravgift er betalt Her blir også pensumlister lagt ut nærmere studiestart. Innsida er nettsiden hvor mye av informasjonen fra NTNU kommer. Timeplan vil du også finne her, når NTNU gjør dette klart.
