@@ -2,29 +2,29 @@
 title: "Fadderukene 2021"
 ---
 
-Informasjonskanal for fadderukene 2020
+Informasjonskanal for fadderukene 2021
 
 ** OBS: Er du i risikosonen for korona, eller av andre grunner ikke er komfortabel så ta kontakt med oss på velkom@online.ntnu.no **
 
 ** OBS: Er du syk, nylig reist til utlandet eller i karantene, ikke møt opp på arrangementer(!!!) og ta kontakt med oss på velkom@online.ntnu.no ** 
 
 
-* [Koronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2021-/korona) 
-* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2021-/PraktiskInfo)
+* [Koronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/korona) 
+* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2020-/PraktiskInfo)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
-* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2021-/Faddere)  
+* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2020-/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
-* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2021-/velkom) 
-* [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2021-/TaMedListe)
+* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2020-/velkom) 
+* [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2020-/TaMedListe)
 
 
 ### Kontakt
 Er det noe du lurer på? Ta kontakt med:
 
-- [Karan Singh Sandhu](https://online.ntnu.no/profile/view/karanss/) (leder, velkom)  
-- [Haavard Brummenæs](https://online.ntnu.no/profile/public/1925/) (nestleder, velkom)  
+- [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963/) (leder, velkom)  
+- [Haavard Brummenæs](https://online.ntnu.no/profile/view/andersr/) (nestleder, velkom)  
 
 Vi er tilgjengelig 24/7 ved behov.  
 
