@@ -23,8 +23,8 @@ Informasjonskanal for fadderukene 2021
 ### Kontakt
 Er det noe du lurer på? Ta kontakt med:
 
-- [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) (leder, velkom)(99112250)  
-- [Haavard Brummenæs](https://online.ntnu.no/profile/public/1925/) (nestleder, velkom)(47666538)
+- [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) (leder, velkom) (99112250)  
+- [Haavard Brummenæs](https://online.ntnu.no/profile/public/1925/) (nestleder, velkom) (47666538)
 
 Vi er tilgjengelig 24/7 ved behov.  
 
