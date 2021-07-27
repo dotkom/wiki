@@ -2,7 +2,7 @@
 title: "Fadderukene 2021"
 ---
 
-Informasjonskanal for fadderukene 2020
+Informasjonskanal for fadderukene 2021
 
 ** OBS: Er du i risikosonen for korona, eller av andre grunner ikke er komfortabel så ta kontakt med oss på velkom@online.ntnu.no **
 
@@ -23,8 +23,8 @@ Informasjonskanal for fadderukene 2020
 ### Kontakt
 Er det noe du lurer på? Ta kontakt med:
 
-- [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) (leder, velkom)  
-- [Haavard Brummenæs](https://online.ntnu.no/profile/public/1925/) (nestleder, velkom)  
+- [Karan Singh Sandhu](https://online.ntnu.no/profile/public/1963) (leder, velkom)(99112250)  
+- [Haavard Brummenæs](https://online.ntnu.no/profile/public/1925/) (nestleder, velkom)(47666538)
 
 Vi er tilgjengelig 24/7 ved behov.  
 
