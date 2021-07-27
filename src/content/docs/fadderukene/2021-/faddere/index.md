@@ -114,22 +114,50 @@ Her er en oversikt over alle faddere i fadderukene 2021. Om du ønsker å komme 
 
 
 ###M1
-* August Sollesnes Solvang 
-* Johannes Kvamme 
-* Marius Johan Holm Johansen 
-* Endre Ulberg 
+* Andreas Amundsen
+* Magnus Holtet
+* Kristoffer Nyvoll
+* Øyvind Schjerven
+* Anhkha Vo
+* Johanne Tronstad
+* Mathias Fossum
+* Carl Smestad
 
 ###M2
-* Kaja Sofie Lundgaard 
-* Anniken Rønvåg Syvertsen 
-* Hanne Brynildsrud 
+* William Andersson
+* Hanne Brynildsrud
+* Elias Sagmo Larsen
+* Erlend Syndøy
+* Torkjell Romskaug
+* Anniken Syvertsen
 
 ###M3
-* Sigurd Oxaas Wie 
-* Halvor Bakken Smedås 
-* Klara Schlüter 
+* Jonathan Brooks
+* Erik Skår
+* Karl Petter Aubert
+* Fredrik Butler Wang
+* Andreas Winther Moen
 
 ###M4
-* Peter-Edward Rydberg 
-* Pål Larsen 
-* Aslak Holund
+* Alis Wiken Wilson
+* Marius Sjøberg
+* Sander Bjerklund Lindberg
+* Anders Bergersen
+* Eivind Solberg Rydningen
+* Thomas Ramirez
+
+###M5
+* Andreas Naterstad Digernes
+* Ola Plassen
+* Espen Gudmundsen
+* Andreas Rimolsrønning
+* Bendik Brunvoll
+
+###M6
+* Nikolai Mork
+* Klara Schlüter
+* Halvor Bakken Smedås
+* Aksel Hjerpbakk
+* Marcus Joar Hauge
+* Abenayan Ketheeswaran
+* Anders Hoelseth Rebner
