@@ -43,7 +43,6 @@ Her er en oversikt over alle faddere i fadderukene 2021. Om du ønsker å komme 
 
 ###B5
 * Kaja Askeland Gabrielsen
-* Emilie Sandberg Knudsen
 * Karen Seim Midtlien
 * Johan Solbakken
 * Eivind Midtbø Øyulvstad
