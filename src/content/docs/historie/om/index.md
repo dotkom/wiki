@@ -250,6 +250,9 @@ kaffedrikking.
 
 ### [2020/2021](/wiki/online/historie/om/p2021)
 
+### [2021/2022](/wiki/online/historie/om/p2122)
+
+
 ## Hovedstyrer
 |År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|
 |---|---|---|---|---|---|---|---|---|---|
