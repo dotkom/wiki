@@ -178,9 +178,4 @@ Gønner på uten
     - Thea: Tenker at man kan si ifra til styremedlemmet som har ansvar for å legge inn søknader til den komiteen de har søkt.  
         - Anders: Det holder ikke å legge det til trelloboarde, vi må sende direkt melding til ledere for at de skal få info så fort som mulig.  
             - Sindre: Enig, ta direkte kontakt med leder av komite.  
-    - Sindre: jeg kan få tak i Karan å be han å be faddere å sende melding på fadderbarngruppa.  
-
-
-## 657 - Diggepunkt  
-
-Digger å digge
+    - Sindre: jeg kan få tak i Karan å be han å be faddere å sende melding på fadderbarngruppa.
