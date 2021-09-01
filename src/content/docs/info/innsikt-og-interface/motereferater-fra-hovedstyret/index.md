@@ -7,6 +7,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 Møtereferater
 ------------------  
+### Høst 2021
+- [2021-01-09] - Opptak, seniorkom og pangordning, og appkom økans
 ### Vår 2021  
 - [2021-05-04](mote04052021) - Kompilering, onlinepotten og OW-roller
 - [2021-04-27](mote27042021) - UKEtoget, innføring i mail og sommerplanlegging
