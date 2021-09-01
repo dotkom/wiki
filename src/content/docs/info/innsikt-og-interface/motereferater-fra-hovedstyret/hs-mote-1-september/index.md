@@ -1,5 +1,5 @@
 ---
-title: "HS MØTE 1. SEPTEMBER"
+title: "Hs Møte 1. September"
 ---
 
 *Møtetidspunkt:* kl. 10:00 - 12:00  
