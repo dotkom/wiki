@@ -23,11 +23,10 @@ Godkjent
 
 #### Bedkom:  
 - Første møte der vi gikk gjennom opptak, fordelt ut arrangemanger og hvem som skal være hovedansvarlig, kontaktperson osv.  
-- POslotur, vi sender to representanter til Oslo får å representere Onlien.  
+- Oslotur, vi sender to representanter til Oslo får å representere Online.  
 
 #### Dotkom:  
-- Skal ha første møte i dag  
-- Sliter nå pga at alle som er teknisk flinke er på ITEX, så krysser fingre for null nedetid neste dagene.  
+- Mange som er teknsik flinke er på ITEX, krysser fingre for null nedetid neste dagene.
 
 #### Fagkom:  
 - Har hatt et møte hvor planlegging av intervjuene ble gjort  
