@@ -42,7 +42,6 @@ Godkjent
 #### Økonomiansvarlig:  
 - Første møtet på søndag nå  
 - Det har vært veldig mye styr med gavekort og MVA på de  
-- Milla må signere ny HSA  
 - Må sende penger over til IT-dagene når påmeldingen er ferdig  
 - Blir mye styr med å ordne opp i økonomiske ting etter flyttign av jubileet til neste år  
 - Husk å minn på komiteene ders om nye regler for utlegg og onlinepotten  
