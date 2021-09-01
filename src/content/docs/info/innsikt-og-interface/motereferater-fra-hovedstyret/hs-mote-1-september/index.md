@@ -117,7 +117,7 @@ OIL:
 
 ## 652 - Interkom (10 min)  
 - Sindre: Flytte idrettsinteressegrupper fra Seniorkom til OIL. Hvor gjennomtenkt er dette egentlig, eller er det litt bare et forslag enda.  
-    -  Milla: Var veldig mye å gjøre på søndag, måtte drive med mye opplæring. Fikk ikke tenkt så mye gjennom det fordi jeg ikke hadde tid, så har ikke helt kontroll selv hvor gjennomtentk det er.  
+    -  Milla: Var veldig mye å gjøre på søndag Fikk ikke tenkt så mye gjennom det fordi jeg ikke hadde tid, så har ikke helt kontroll selv hvor gjennomtentk det er.  
     - Sindre: Lurte bare på om bankom hadde kontroll på dette, er lurt om vi diskuterer mer om dette i fremtiden.  
 
 - Anders: Velkom har utsyr igjen, er det mulig å få oversikt over hva velkom har i boden som ikke ble brukt.  
