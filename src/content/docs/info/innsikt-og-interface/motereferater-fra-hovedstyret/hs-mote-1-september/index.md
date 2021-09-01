@@ -13,24 +13,6 @@ title: "HS MØTE 1. SEPTEMBER"
 
 *Ikke tilstede:* Korona  
 
-*Straffer:* Ingen  
-
-
-## Innsjekk  
-
-**Highlights:** 
- 
-- Thomas er ute av isolasjon i morgen <3  
-- Milla, Anders og Mari lagde tidenes gave  
-- Henrik er veldig syk :(  
-- Mari er frisk nå  
-- Sarmi liker ikke dyr  
-- William og Sindre tar hurtigtest  
-
-
-## TODOS fra forrige gang  
-Ikke noe  
-
 ## 650 - Godkjenning av innkalling  
 Godkjent  
 
