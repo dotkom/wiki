@@ -46,7 +46,7 @@ Godkjent
 - Må sende penger over til IT-dagene når påmeldingen er ferdig  
 - Blir mye styr med å ordne opp i økonomiske ting etter flyttign av jubileet til neste år  
 - Husk å minn på komiteene ders om nye regler for utlegg og onlinepotten  
-- Idrettsinteressegrupper skal flyttes fra Seniorkom til OIL   
+- Skal diskuteres om idrettsinteressegrupper skal flyttes fra Seniorkom til OIL   
 - Har revidert en del, og satser på at dette er ferdig til søndag om halvannen uke.  
 - Diskuterte om appkom økans  
 
@@ -141,16 +141,14 @@ OIL:
 
 ## 654 - Appkom økans (Milla, 15 min)  
 
-- Milla: Jeg har snakket litt om dette i vår også. Men vi har et lite issue, hvor Thomas er både økans i dotkom samt appkom. Dette er fordi det ikke er så mye å gjøre i disse komiteene når det kommer til det økonomiske. Vi har hatt noen caser i bankom hvor folk har mistrivdes hvor de har hatt en alt for liten rolle, og ikke følt seg inkludert ettersom at de ikke har hatt oppgaver.  
-    - Milla: Som regel har folk med alt for små roller mistrivdes veldig, og sluttet ganske tidlig. Det vi i bankom tenker er at vi ikke trenger å hente inn en økans for appkom da det er en alt for liten rolle.  
-    - Milla: Det kan virke som at vi tar bort muligheten fra Appkom, med det handler om trivsel.  
+- Milla: Jeg har snakket litt om dette i vår også. Men vi har et lite issue, hvor Thomas er både økans i dotkom samt appkom. Dette er fordi det ikke er så mye å gjøre i disse komiteene når det kommer til det økonomiske. Det handler om trivsel og å føle seg inkludert i bankom.
 - Thomas: Det å være økans i dotkom er på grensen til lite arbeid allerede, ofte ferdig før de andre ganske mye før på arbeidskvelder. Per nå så har appkom enda mindre å gjøre enn dotkom, så er egentlig enig i at de ikke trenger en økans.  
     - Thomas: Ser derimot et problem i at de ikke får lov til å velge økans selv, som eneste komite i Online.  
-    - Milla: Ønskelige fra bankom er at man beholder Thomas helt til han går av. Funker sånn som det er nå fordi Thomas har mye kontakt med Martin som er leder i appkom. Så det kan bli et issue å prøve å ha det sånn når man skal velge inn en ny økans fra dotkom. Må ta en runde med appkomleder  
+    - Milla: Skal ta en runde med appkomleder  
 - Anders: helt enig i at vi kan ta praten med Martin. Det vitkige er å belyse det at det er veldig kjedelig å være med i Bankom når du ikke har noe å gjøre. Når alle vet det, så tror jeg ikke det skal være et problem.  
 - Sindre: Syntes det er viktig å poengtere at det er appkom sitt valg til syvende og sist. Dersom de ønsker å ha en økans så skal de ha retten til det, vi kan komme med våre tips og råd. Men de har valget.  
-    - Milla: vi tenker jo selvfølgelig å snakke med Martin, men om casen er at Martin er ok med å ha delt økans med Dotkom, så har vi ikke tenkt å søke etter en ny økans fra Appkom.  
-    - Milla og Thomas tar et møte med Martin  
+
+ - Milla og Thomas tar et møte med Martin  
 
 ## 656 - Eventuelt  
 
