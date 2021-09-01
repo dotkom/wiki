@@ -152,11 +152,6 @@ OIL:
     - Milla: vi tenker jo selvfølgelig å snakke med Martin, men om casen er at Martin er ok med å ha delt økans med Dotkom, så har vi ikke tenkt å søke etter en ny økans fra Appkom.  
     - Milla og Thomas tar et møte med Martin  
 
-
-## PAUSE (10 min)  
-
-Gønner på uten  
-
 ## 656 - Eventuelt  
 
 
