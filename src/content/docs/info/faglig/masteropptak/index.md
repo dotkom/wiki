@@ -28,7 +28,7 @@ Hvordan regne snitt:
 -------------------------------------------------------------
 ((Karakter i emnet * Studiepoeng for emnet) + (Karakter i emnet * Studiepoeng for emnet) + ...) / (Studiepoeng for alle emnene) = Snitt
 
-[Enkel kalkulator for å regne ut ditt snitt fra Høgskolen i Molde](http://www.himolde.no/studier/opptak/SiteAssets/snittkarakter.html)
+[Enkel kalkulator for å regne ut ditt snitt fra Høgskolen i Molde](https://www.himolde.no/studier/opptak/master-videreutdanning/snittkalkulator.html)
 
 2,5 regnes som C i snitt og er minstekravet for å kunne søke.
 
