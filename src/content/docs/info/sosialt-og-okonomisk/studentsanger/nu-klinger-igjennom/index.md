@@ -28,7 +28,7 @@ Refreng:
 Studenter i den gamle stad, ta vare på byens ry! (klapp x2)  
 Husk på at jenter, øl og dram var kjempenes meny.  
 Og faller I alle mann alle, skal det gjalle fra alle mot sky.  
-La'kke byen få ro, men la den få merke den er en studenterby.
+La'kke byen få ro, men la den få merke den er en studenterby.  
 Og øl og dram, og øl og dram, og øl og dram, og øl og dram.
 
 I denne gamle staden satt så mangen en konge stor,  
@@ -40,14 +40,14 @@ Refreng..
 
 På Elgeseter var det liv i klosteret dag og natt,  
 der hadde de sin kagge og der hadde de sin skatt.  
-De herjet i Nonnenes gate og rullet og tullet og datt,
+De herjet i Nonnenes gate og rullet og tullet og datt,  
 og nu skuer de fra himmelen ned og griper sin harpe fatt;
 
 Refreng..
 
 (Adagio)
 
-Når vi er vandret hen og staden hviler et øyeblikk,  
+Når vi er vandret hen og staden hviler et øyeblikk, (sakte klapp x2)  
 så kommer våre sønner og tar opp den gamle skikk;  
 En lek mellom muntre butuljer, samt aldri så lit' erotikk. 
 
