@@ -30,7 +30,8 @@ Tilhørende wikisider
 |Linjeforening|BrReg|Linje|Kontor|Facebook|Epost|Avis|
 |---|---|---|---|---|---|---|
 | Akwaaba | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995924226) | Afrikastudier | | [Group](http://fb.com/groups/495389020623/) | akwaabapost.ntnu@gmail.com |
-| [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com |
+| [Apeiron](http://org.ntnu.no/apeiron/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891921632)| Filosofi | | [Group](http://fb.com/groups/85481347058/) | apeiron.ntnu@gmail.com|
+| [Babel]()|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=927298457)| Fremmedspråk (spansk, fransk og tysk)|
 | [CAF](http://www.cafidrett.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=894663782) | Idretts- og bevegelsesfag | | [Page](http://fb.com/citiusaf) | cafidrett@gmail.com |
 | [Communitas](http://sosantntnu.wordpress.com/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998359910) | Sosialantropologi | | [Person](http://fb.com/profile.php?id=100005081378226), [Group](http://fb.com/groups/523915897703998/) | sosant.ntnu@gmail.com |
 | [Det Historiske Selskab](http://org.ntnu.no/historie/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996557405) | Historie | | [Page](http://fb.com/DetHistoriskeSelskab), [Person](http://fb.com/petter.wesseltordenskjold), [Group](http://fb.com/groups/33248463626/) | ntnu_dhs@hotmail.com |
