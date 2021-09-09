@@ -31,6 +31,13 @@ Kjelleren åpnet igjen i fadderukene 2018, og og den 31. August 2018 var den fø
 
 
 ## Onlinere i Kjellerstyret
+###2021/2022
+* Nicolai Dalaaker (Kjellerkontakt)
+* Martin Skatvedt (Barsjef)
+* Tor Jacob Neple (Økonomisjef)
+* August Skarfjord Nyheim
+* Elin Bjerve
+* Magnus Byrkjeland
 
 ###2020/2021
 * Nicolai Dalaaker (Kjellerkontakt)
