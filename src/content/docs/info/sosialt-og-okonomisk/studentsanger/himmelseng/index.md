@@ -191,6 +191,16 @@ så UA måtte deppe
 
 ## Onlines Himmelsengvers, nyeste først
 
+
+_Øyvind Schjerven_
+
+Jeg var en gang på styrevors,
+Jeg ville ha en stor pikk,
+Snart skal jeg på do en tur,
+Da tar jeg med meg Henrik 
+
+—-
+
 _Sigurd Oxaas Wie_
 
 Da jeg var ny i Trondheim by,          
