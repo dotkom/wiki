@@ -61,7 +61,6 @@ title: "Kontorvakt"
 | 43           | Prokom | Bedkom | Fagkom|
 | 44           | Arrkom | Dotkom | Appkom|
 | 45           | OIL | Trikom | Prokom        |
-| 46           | Bedkom | Fagkom | Arrkom         |
 
 
 
