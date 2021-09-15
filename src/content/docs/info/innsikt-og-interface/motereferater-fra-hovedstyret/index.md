@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2021
+- [2021-07-09](2021-09-07) - UKE-toget og onboarding
 - [2021-07-09](2021-09-07) - Jentekom, cloud, seniorkom og daljer
 - [2021-01-09](HS-MOTE-1-SEPTEMBER) - Opptak, seniorkom og pangordning, og appkom økans
 ### Vår 2021  
