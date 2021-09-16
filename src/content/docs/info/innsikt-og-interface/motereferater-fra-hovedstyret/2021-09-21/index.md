@@ -52,6 +52,8 @@ title: "Stormøte 21. september"
 
 #### Trikom:  
 
+#### Velkom:  
+
 #### Økonomiansvarlig: 
 
 #### Nestleder:  
