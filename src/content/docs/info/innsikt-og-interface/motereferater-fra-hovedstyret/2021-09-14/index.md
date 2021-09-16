@@ -2,8 +2,6 @@
 title: "HS MØTE 14. SEPTEMBER"
 ---
 
-# HS MØTE 14. SEPTEMBER
-
 *Møtetidspunkt:* kl. 13:15 - 15:00  
 *Sted:* R21  
 
