@@ -9,6 +9,8 @@ title: "Stormøte 21. september"
 1. ref Mari 
 2. ref Henrik 
 
+*Servering:* Mari
+
 *Tilstede:* 
 
 *Ikke tilstede:* 
