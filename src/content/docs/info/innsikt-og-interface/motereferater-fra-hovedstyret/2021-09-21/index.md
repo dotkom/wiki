@@ -17,7 +17,7 @@ title: "Stormøte 21. september"
 
 ## Velkommen  
 
-## 675 - Godkjenning av innkalling  
+## 675 - Godkjenning av innkalling, servering og referat fra forrige uke
 
 
 ## 676 - Statusrunde (20 min)  
