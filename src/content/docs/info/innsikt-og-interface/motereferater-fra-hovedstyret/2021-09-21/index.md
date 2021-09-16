@@ -36,11 +36,11 @@ title: "Stormøte 21. september"
 
 #### Fagkom: 
 
-#### ITEX:  
+#### ITEX: 
 
-#### Jubkom:  
+#### ITV: 
 
-#### ITV:  
+#### Jubkom:    
 
 #### Online IL: 
 
