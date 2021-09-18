@@ -66,7 +66,8 @@ title: "Stormøte 21. september"
 ## 677 - Interkom (10 min)  
 
 
-## 678 - Sak 1 (x min)  
+## 678 - Ønske om mer bruk av prokom for plakater og bannere (Magne, 10 min)  
+[I det siste har prokom blitt lite brukt av de andre komiteene til å lage bannere og plakater. Dette er noe vi ønsker å få mer oppdrag på da prokom er Online sin egen grafiske komité. Prokom ser også at det har blitt mer og mer stock photos og gamle bannere på OW siden forrige semester. I tillegg merkes det at når komiteer trenger grafikk på kort frist så går det ikke via prokom, men "vennetjenester" fra prokom sine medlemmer.]
 
 
 ## PAUSE (10 min)  
