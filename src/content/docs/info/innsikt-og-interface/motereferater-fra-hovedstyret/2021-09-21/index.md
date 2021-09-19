@@ -72,7 +72,8 @@ title: "Stormøte 21. september"
 
 ## PAUSE (10 min)  
 
-## 679 - Sak 2 (x min)
+## 679 - UKE-toget (Thea, 10 min)  
+[UKE-toget er ]
 
 
 ## 680 - Sak 3 (x min)
