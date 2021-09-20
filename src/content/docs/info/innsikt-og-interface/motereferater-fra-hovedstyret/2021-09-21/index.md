@@ -72,7 +72,7 @@ title: "Stormøte 21. september"
 
 ## PAUSE (10 min)  
 
-## 679 - UKE-toget (Thea - 10 min)  
+## 679 - UKEtoget (Thea - 10 min)  
 [UKE-toget er 9. oktober og vi ønsker å bidra!]  
 
 ## 680 - Tech Talks nettside (Fagkom, Øyvind, 10 min)  
