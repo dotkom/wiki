@@ -72,8 +72,8 @@ title: "Stormøte 21. september"
 
 ## PAUSE (10 min)  
 
-## 679 - UKEtoget (Thea - 10 min)  
-[UKE-toget er 9. oktober og vi ønsker å bidra!]  
+## 679 - UKEtoget (Thea og Thomas - 10 min)  
+[UKE-toget er 9. oktober og vi ønsker å bidra! Online er meldt på UKEtoget 2021, noe som betyr at vi skal gå i toget som en forening. Toget går fra Hovedbygningen kl. 12 og ender på Torget. Siden mange i HS er borte denne dagen trenger vi hjelp til å bære fanen og hjelpe med å spre ordet til Onlinere. Forrige UKA ble det arrangert sjampisfrokost for Onlinere før toget]  
 
 ## 680 - Tech Talks nettside (Fagkom, Øyvind, 10 min)  
 [Det bør tas en beslutning på hvordan Tech Talks nettsiden skal driftes. Det mest naturlige er at enten dotkom eller appkom tar ansvar for det, men hvis ingen ønsker å ta på seg ansvaret må vi diskutere alternative løsninger]  
