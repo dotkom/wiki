@@ -73,14 +73,14 @@ title: "Stormøte 21. september"
 ## PAUSE (10 min)  
 
 ## 679 - UKE-toget (Thea - 10 min)  
-[UKE-toget er ]
+[UKE-toget er 9. oktober og vi ønsker å bidra!]  
 
-
-## 680 -  (Fagkom, Øyvind, 10 min)  
+## 680 - Tech Talks nettside (Fagkom, Øyvind, 10 min)  
 [Det bør tas en beslutning på hvordan Tech Talks nettsiden skal driftes. Det mest naturlige er at enten dotkom eller appkom tar ansvar for det, men hvis ingen ønsker å ta på seg ansvaret må vi diskutere alternative løsninger]  
 
+## 683 - Kontrakt mellom RFK og Online (Kjelleren, Nicolai - 10 min)  
+[Vi i Realfagskjelleren ønsker å formalisere forholdet vårt med våre linjeforeninger. Vi har nå fått på plass en kontrakt med både [Delta](https://drive.google.com/file/d/1nbqwqj4YNdpRtsHMQXmYpch9wucvMreX/view?usp=sharing) og Volvox & Alkymisten, og ønsker nå å gjøre tilsvarende med Online. Vi vil derfor høre litt hva HS tenker og ønsker av oss og vice versa.]
 
-## 681 - Eventuelt         
-
+## 684 - Eventuelt  
 
 ## 682 - Møteevaluering
