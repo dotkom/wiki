@@ -161,6 +161,7 @@ title: "Stormøte 21. september"
 
 ## 678 - Ønske om mer bruk av prokom for plakater og bannere (Prokom, Magne - 10 min)  
 [I det siste har prokom blitt lite brukt av de andre komiteene til å lage bannere og plakater. Dette er noe vi ønsker å få mer oppdrag på da prokom er Online sin egen grafiske komité. Prokom ser også at det har blitt mer og mer stock photos og gamle bannere på OW siden forrige semester. I tillegg merkes det at når komiteer trenger grafikk på kort frist så går det ikke via prokom, men "vennetjenester" fra prokom sine medlemmer.]
+
 - Magne:
     - Opplysningssak
     - Markant nedgang i antall bestillinger
@@ -186,7 +187,8 @@ title: "Stormøte 21. september"
 ## PAUSE (10 min)  
 
 ## 679 - UKEtoget (Thea og Thomas - 10 min)  
-[UKE-toget er 9. oktober og vi ønsker å bidra! Online er meldt på UKEtoget 2021, noe som betyr at vi skal gå i toget som en forening. Toget går fra Hovedbygningen kl. 12 og ender på Torget. Siden mange i HS er borte denne dagen trenger vi hjelp til å bære fanen og hjelpe med å spre ordet til Onlinere. Forrige UKA ble det arrangert sjampisfrokost for Onlinere før toget]  
+[UKE-toget er 9. oktober og vi ønsker å bidra! Online er meldt på UKEtoget 2021, noe som betyr at vi skal gå i toget som en forening. Toget går fra Hovedbygningen kl. 12 og ender på Torget. Siden mange i HS er borte denne dagen trenger vi hjelp til å bære fanen og hjelpe med å spre ordet til Onlinere. Forrige UKA ble det arrangert sjampisfrokost for Onlinere før toget]
+  
 - Thea: 
     - Forrige UKA var det en veldig ivrig gjeng som lagde flåte med en svær planet
     - Frokost på teknobyen
@@ -201,7 +203,8 @@ title: "Stormøte 21. september"
 - Thea: Begynner klokka 12 fra hovedbygget
 
 ## 680 - Tech Talks nettside (Øyvind, 10 min)  
-[Det bør tas en beslutning på hvordan Tech Talks nettsiden skal driftes. Det mest naturlige er at enten dotkom eller appkom tar ansvar for det, men hvis ingen ønsker å ta på seg ansvaret må vi diskutere alternative løsninger]  
+[Det bør tas en beslutning på hvordan Tech Talks nettsiden skal driftes. Det mest naturlige er at enten dotkom eller appkom tar ansvar for det, men hvis ingen ønsker å ta på seg ansvaret må vi diskutere alternative løsninger] 
+ 
 - Øyvind:
     - Hvert år skal vi ha nettside, hvert år blir den laget på nytt virker det som
     - Vil finne en løsning på hvordan nettsiden kan lages ferdig
@@ -224,6 +227,7 @@ title: "Stormøte 21. september"
 
 ## 681 - Kontrakt mellom RFK og Online (Nicolai - 10 min)  
 [Vi i Realfagskjelleren ønsker å formalisere forholdet vårt med våre linjeforeninger. Vi har nå fått på plass en kontrakt med både **[Delta](https://drive.google.com/file/d/1nbqwqj4YNdpRtsHMQXmYpch9wucvMreX/view?usp=sharing)** og Volvox & Alkymisten, og ønsker nå å gjøre tilsvarende med Online. Vi vil derfor høre litt hva HS tenker og ønsker av oss og vice versa.]
+
 - Nicolai:
     - RFK er et samarbeid av 4 linjeforeninger
     - I Online har vi ikke fastsatt forventningene mellom RFK og Online
