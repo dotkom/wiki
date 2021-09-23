@@ -59,15 +59,14 @@ title: "Stormøte 21. september"
 - Ønske om at ny leder tas opp tidligere enn det skjedde i år, gjerne januar
 
 #### Fagkom: 
-- **Diskutert at capgemini og CGI har vært litt dritt på økonomifronten**
+- Kurs har gått bra
 
 #### ITEX: 
 - Fikk gjennomført tur for ca 80 stk
     - Testing på flyplass før avreise, og hver morgen før arr.
 - Alle besøk ble gjennomført som de skulle, ingen positive tester under turen
-- **En som testet svakt positivt før turen**
+
 - Ingen smitte under turen, og ikke hørt om noe etter heller
-- **Alle bedrifter er fakturert, økonomi begynner å bli ferdigstilt**
 - Ta opp ny leder i januar 2022
 
 #### ITV: 
@@ -77,7 +76,6 @@ title: "Stormøte 21. september"
 
 #### Jubkom:    
 - Jubileumet er utsatt til 25-30. april 2022
-- **Fikk ny kontrakt med scandic**
     - Bankett 30.april
 - Ingen store problemer med å flytte jubileum
 
@@ -210,7 +208,6 @@ title: "Stormøte 21. september"
         - Først og fremst for tech talks i januar
         - På sikt finne ut hvordan den kan driftes fra år til år uten at det blir en stor utfordring
         - Egentlig ikke tech talks-domene
-        - **Rap fra Mari**
         - Ligger et repo fra ifjor som ble 3/4 ferdig
     -  Fagkom har hovedansvar for arrangementet, men får hjelp av ekskom
         -  Alle inntektene går til ekskom
@@ -225,7 +222,7 @@ title: "Stormøte 21. september"
     - Øyvind: kan skrive ned en liste med behov og sende på mail
 
 ## 681 - Kontrakt mellom RFK og Online (Nicolai - 10 min)  
-[Vi i Realfagskjelleren ønsker å formalisere forholdet vårt med våre linjeforeninger. Vi har nå fått på plass en kontrakt med både **[Delta](https://drive.google.com/file/d/1nbqwqj4YNdpRtsHMQXmYpch9wucvMreX/view?usp=sharing)** og Volvox & Alkymisten, og ønsker nå å gjøre tilsvarende med Online. Vi vil derfor høre litt hva HS tenker og ønsker av oss og vice versa.]
+[Vi i Realfagskjelleren ønsker å formalisere forholdet vårt med våre linjeforeninger. Vi har nå fått på plass en kontrakt med både Delta og Volvox & Alkymisten, og ønsker nå å gjøre tilsvarende med Online. Vi vil derfor høre litt hva HS tenker og ønsker av oss og vice versa.]
 
 - Nicolai:
     - RFK er et samarbeid av 4 linjeforeninger
@@ -259,4 +256,4 @@ title: "Stormøte 21. september"
     - Gi alle en heads up på kvitteringsskjema og søknad til onlinepotten
     
 ## 683 - Møteevaluering
-- Stormøte oftere!!!!!!!**ÆÆÆÆ woho yeey!!!!!!!!!!** Gjerne mer enn 1 i semesteret
+- Stormøte oftere!!!!!!! Gjerne mer enn 1 i semesteret
