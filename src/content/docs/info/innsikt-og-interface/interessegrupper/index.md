@@ -27,6 +27,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 
 - [X-Sport](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/x-sport/)
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
+- [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
 - [Onski](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/onski/)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
 - [GratIste](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/gratiste)
@@ -34,19 +35,22 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Interessegruppen for folk som er glad i jul](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/interessegruppen-folk-som-er-glad-i-jul/)
-- [Henrik](/wiki/online/info/innsikt-og-interface/interessegrupper/henrik/)
-
+- [Greenline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/greenline/)
+- [Saltgruven](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/saltgruven/)
+- [Racingline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/racingline/)
+- [Klatregruppen](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/klatregruppen/)
 
 ## Tidligere interessegrupper
 
 - [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
 - [Cachekom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/cachekom/)
-- Kobkom - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
+- [Kobkom] - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
 - [Strikk & drikk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
-- [Stipendsushi](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/nodekomiteer/sushikom/)
 - [Sjadam](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjadom)
 - [Makrellgutta](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 - [Quizline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/quizline/)
 - [Maleklubben](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/maleklubben/)
 - [Comitato Di Pizza](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
 - [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
+- [Henrik](/wiki/online/info/innsikt-og-interface/interessegrupper/henrik/)
+- [UX](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ux/)
