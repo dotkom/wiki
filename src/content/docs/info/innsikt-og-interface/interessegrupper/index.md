@@ -29,7 +29,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - [Ontap](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ontap/)
 - [Onski](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/onski/)
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
-- [GratIste](wiki:graiste)
+- [GratIste](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/gratiste)
 - [Questline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/questline/)
 - [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
