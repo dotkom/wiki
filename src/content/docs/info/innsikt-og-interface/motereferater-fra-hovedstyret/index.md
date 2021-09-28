@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2021
+- [2021-28-02](2021-09-28) - Forbedringspotensialer i Online og informasjonsflyt ut til komiteene
 - [2021-21-09](2021-09-21) - Stormøte
 - [2021-14-09](2021-09-14) - UKE-toget og onboarding
 - [2021-07-09](2021-09-07) - Jentekom, cloud, seniorkom og daljer
