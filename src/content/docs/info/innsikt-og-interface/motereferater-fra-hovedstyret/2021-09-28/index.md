@@ -118,7 +118,8 @@ Møteinnkalling ikke godkjent. Alt annet good!
 ## PAUSE (10 min)  
 
 ## 688 - Informasjonsflyt ut i komiteene (Sindre - <5 min)   
-[Viktig at dere oppdaterer komiteene deres om det som skjer!]  
+[Viktig at dere oppdaterer komiteene deres om det som skjer!] 
+ 
 - Sindre: Viktig å presisere at vi er her for å representere komiteenes stemme. Er derfor viktig at man sender beskjed ned til komiteene igjen. Er det dårlig kommunikasjon ta tak i det. Eventuelt si i fra til meg.
 ## 689 - Eventuelt  
 - Thomas: Fikk høre at ledere fikk beskjed på et kurs at HS ikke ønsket at komiteledere skulle sosialiserte seg i mellom. Da det kunne skape to motstridene grupper.
