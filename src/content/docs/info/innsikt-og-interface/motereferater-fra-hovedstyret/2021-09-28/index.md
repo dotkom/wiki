@@ -82,6 +82,7 @@ Møteinnkalling ikke godkjent. Alt annet good!
 2. Online har helt klart nytte av å bruke 2 generalforsamlinger i året. For det første tar generalforsamling ALT for lang tid, og for det andre så bidrar den fullstendige utskiftningen av styret til at vi ikke er komfortable med å gjennomføre noe utenfor vanlig drift etter 6 mnd med arbeid sammen. Det er kritisk at et styre kan iverksette prosjekter så tidlig som mulig, og vår struktur tillater faktisk ikke dette.]  
 
 **Første punkt:**
+
 - Milla: Veldig enig i det første punktet. Veldig slitsomt å måtte få en søknad godkjent av resten HS selv om jeg sitter på mest kunnskap om økonomien.  
 - Anders: Enig med det du sier William. Dumt at overskudden ikke ganger de på studiet nå, og bare havner i fondet.
 - Thomas: Hvis vi skal være mindre rigid, må vi ikke gå gjennom budsjettet hver andre måned?
@@ -98,6 +99,7 @@ Møteinnkalling ikke godkjent. Alt annet good!
 - Sindre: Vi kan jobbe litt næremere med dette 
 
  **Andre punkt:**
+
 - William: Er det noen som kommer på hvorfor man ikke skulle hatt to generalforsamlinger i året?
 - Sindre: Det er nevnet tidligere at færre kanskje møter opp.
 - Milla: Må man sitte i styre i en lengre periode.
