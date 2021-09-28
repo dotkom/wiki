@@ -25,8 +25,7 @@ Møteinnkalling ikke godkjent. Alt annet good!
 - Skjer ikke så mye for tiden
 - Skal på hyttetur i helgen!!!
 - Stauts på Åre er at vi venter på faktura
-    - **Det kommer til å bli dyrere i år enn tidligere**
-    - **Påmelding åpner nok i oktober**
+    
 #### Bedkom:  
 - Har begynt med bookingrunder og sendt ut infomailer
 - Skal i dag sende interesseskjemaer om bedrpress og itex. etc. til bedrifter
