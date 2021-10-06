@@ -6,7 +6,7 @@ Nåværende gjengmedlemmer
 ---------------------------------
 
 - **Leder:** Marcus Schrøder
-- **Arrangører:**Kaja Sofie Lundgaard, Vemund Eggemoen, Elise Stautland, Johan August Østbye og Hanna Thevik
+- **Arrangører:**Kaja Sofie Lundgaard, Vemund Eggemoen, Elise Stautland, Johan August Østbye og Hanna Thevik, Carolina Gunnesdal
 - **Økonomiansvarlig:** Johan August Østbye
 
 Tidligere medlemmer: Emil Schrøder, Christoffer Skar Lofsberg & Camilla Tran
