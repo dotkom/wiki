@@ -31,6 +31,7 @@ Har du en ide til noe vi burde prøve ut? Send oss en mail med forslag! Vi er al
 
 Tidligere Arrangementer
 --------------
+- Toppturer til Oppdal og Meråker
 - Squash
 - Surfetur til Hoddevik
 - Surfetur til Portugal
