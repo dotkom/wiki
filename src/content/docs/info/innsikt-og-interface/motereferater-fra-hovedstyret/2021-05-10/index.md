@@ -186,10 +186,7 @@ Ikke godkjent innkalling, alt annet good:)
 - Sindre: Seniorkom kan finne ut av det, svarer Luka
 
 ## 697 Eventuelt (10 min)  
-- Milla: Kan ikke vi ha vors før UKA-ballet?
-    - Alle er enige
-- Mari: Thomas snakket om han kunne ha spansk aften?
-    -  Alle er gira!
+
 
 #### Sosiale medlemmer
 - Thea: Sosiale medlemmer: Pleier egentlig å godkjennes uansett, men vi har tenkt annerledes på det
