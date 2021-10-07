@@ -22,12 +22,6 @@ title: "HS MØTE 5. OKTOBEr"
 ## Innsjekk  
 
 
-## TODOS fra forrige gang  
-- [ ] Thomas snakker med OIL og X-sport  
-- [x] Sindre planlegger FIF-møte  
-- [x] William ordner med kontrakt med datakameratene  
-- [x] Styrerepresentantene snakker med lederene om at det er lov å finne på sosialt lederene mellom  
-
 ## 691 - Godkjenning av innkalling, servering og referat fra forrige uke  
 Ikke godkjent innkalling, alt annet good:)
 
@@ -229,15 +223,6 @@ Ikke godkjent innkalling, alt annet good:)
 #### Oppdatere chunks
 - Sindre: alle må gå inn på ow og å endre chuncks
     - Hvem som er leder osv
-## TODOs til neste møte  
-- [ ] Anders fikser kontrakten med datakameratene
-- [ ] Sindre lager kake til kakepunkt
-- [ ] Fiks chunks
-- [ ] Sindre svare Luka
-- [ ] Sindre og Thea hører med Debug
-- [ ] Thea snakker med gamle styret
-- [ ] Mari finner ut av vors til UKEgalla 26.10
-- [ ] Sindre skal snakke med Ekskom og høre hvordan det går
 
 ## Møteevaluering  
 
