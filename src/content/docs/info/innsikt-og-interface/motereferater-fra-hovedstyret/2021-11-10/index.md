@@ -27,7 +27,8 @@ title: "Åpen diskusjonskveld 11. oktober"
 
 ## Sak 1: To generalforsamlinger i året
 
-Innledning av saken:
+**Innledning av saken:**
+
 - Online skal gå fra én generalforsamling i året til to.
 - Grunner til at dette burde innføres:
     - Har opplevd begge varianter.
@@ -37,7 +38,8 @@ Innledning av saken:
         - Hvert HS-medlem vil få mer handlingskraft til å gjennomføre faktiske saker. Istedenfor å bruke masse tid på å lære opp et helt nytt styre
     - Genfors vil ikke vare til +3.00 lenger.
 
-Spørsmål:
+**Diskusjon:**
+
 - Skal man kunne ta opp saker og vedtektsendringer på begge genfors?
     - Ja
 - Gjør andre foreninger det slik?
@@ -95,9 +97,11 @@ Spørsmål:
 ## Sak 2: Prikkvarighet
 
 **Innledning av saken:**
+
 - Prikksystemet er ganske rigid, det er slik at når noen får prikk så varer den i 30 dager, og man kan ikke melde seg på et arrangement før det har gått 24 timer siden åpning. Og alle prikker er like uansett om du ikke betaler, møter opp elelr gelmemr å svare på tilbakemeldingsskjema. Jeg synes at grunnen til at man får en prikk ikke samsvarer med straffen man får. I andre foreninger så kan man pådra seg enten 1, 2 eller 3 prikker ut i fra alvorlighetsgraden. Prikkene varer også i 20 dager, og man må kun vente 3 eller 12 timer, ikke hele 24 timer siden da er man ganske hemmet.
 
 **Diskusjon:**
+
 - Jeg tror rundt akkurat det her så er alvorlighetsgrad det som er viktigst å se på. Det er verre å ikke møte på en bedpres og å ikke svare på et spørreskjema burde ikke få like streng straff.
     - Jeg er enig, det er fint at man kan prøve å endre varigheten ut i fra hva man gjør og hvilke arrangementer det er snakk om. Det er viktig at vi håndhever dette riktig, med tanke på bedriftene osv. Kan være litt dumt om varigeheten endres for da kan det være veldig løst hva man blir straffet for. Så det burde kanskje være en fast tid. Alvorlighetsgrad burde nok være variablene her.
     - Enig i det med tanke på at det kan være en fast varighet på prikken, men at det burde for eksempel sees på betalte arrangementer vs. gratis arrangementer
@@ -133,10 +137,12 @@ Spørsmål:
 ## Sak 3: Er Onlines økonomi for rigid?
 
 **Innledning av saken:**
+
 - Gjennomgående at Online sin økonomi er skrekkelig rigid. Jeg satt som økonomiansvarlig i Tihlde, der hadde jeg økonomisk enevelde. Om det er den riktige løsningen å gå for er jeg ganske sikker på at det ikke er. Vi har bankom. Det hadde ikke funket med tanke på Onlines størrelse. Vi forholder oss ganske tett med budsjett. Beslutninger må gjennom gankse mange ledd. Det tar tid å få svar. Og alle leddene, får mer jobb enn det det egentlig trenger å være. Eksempelvis: hvis man ser at noen av komiteene har sanket inn 300 000 mer enn de tenkte det første semesteret så burde det være en no-brainer at en Onlinepott søknad burde kunne godkjennes.
     - Ting tar tid. Søknader må gjennom hele HS før jeg kan godkjenne den. Jeg vil også legge til at overskuddet vi får hvert år går rett inn i Fondet. Men her er det en minstegrense på 10 000,- kr. Vi forholder ganske strengt til budsjett. Dersom vi går 300 000 i overskudd så skal dette per nå gå rett inn i Fondet.
 
 **Diskusjon:**
+
 - Jeg kan si at Fondet var ikke ment som en driftsbuffer når det ble dannet, men en løsning jeg har tenkt på er noe lignende Abakus. Når søknader til overskridelse er under en viss sum (feks 5000 kr) uten at det må gjennom HS. Så lenge de totale rammene er de samme så syns jeg komiteene skal kunne ta det valget.
     - Helt enig i at så lenge komiteer holder seg innenfor rammer så burde det gå helt fint. Men slik det er nå så går f.eks. bedkom masse i voerskudd mtp. karrieresidene. Disse pengene går da automatisk i Fondet.
     - Det er ikke noe i veien for da å åpne for å dele ut det overskuddet. Andre bedrifter reviderer jo sitt budsjett jevnlig slik at man ikke blir så bundet til budsjettet.
@@ -174,9 +180,11 @@ Spørsmål:
 ## Sak 4: Mer fokus på miljøet
 
 **Innledning av saken:**
+
 - Etter å ha vært i online i 4 år. Hver fadderuke så får vi bomullstskjorter. Vi glefser oss på kjøtt osv. Til tross for at vi er så kloke hoder så er det ingen som setter spørsmål ved at vi leier busser og kjører rundt til et sted som ingen vet om. Skal vi gi folk muligheten til å fly ned til oslo, kontra å ta tog. Skal vi tillate folk at vi skal ta fly på ekskursjon langt utenfor Europa.
 
 **Diskusjon:**
+
 - Jeg syns det er veldig bra at dette blir tatt opp spesielt fordi vi har så mye penger. Men det at vi har så mye penger gjør at vi har et høyt forbruk og blir dårlige på å gjenbruke det vi har.
     - Hvor er det naturlig å hendvende seg i Online for å få til slikt. Burde det være retningslinjer rundt det? Burde det være en egen gruppe?
     - Alle er frivillige og det kan være kjipt å bli pålagt noe, så det burde kanskje vært mer kultur for å ønske å gjøre det
