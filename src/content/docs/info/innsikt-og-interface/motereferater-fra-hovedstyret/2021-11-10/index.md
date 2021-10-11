@@ -43,7 +43,7 @@ title: "Åpen diskusjonskveld 11. oktober"
 - Skal man kunne ta opp saker og vedtektsendringer på begge genfors?
     - Ja
 - Gjør andre foreninger det slik?
-    - Ja, Tihlde og Eleketra, og div foreninger på Kalvskinnet.
+    - Ja, Tihlde og Elektra, og div foreninger på Kalvskinnet.
 - Det kommer til å medføre mer jobb for bankom, fordi vi må isåfall presentere budsjettet for to forskjellige styrer.
     - Det kan være en fordel, siden budsjettet nå settes et år i forveien. Dersom det gjøres to ganger kan det være mer reflektert.
     - Enig i at det medfører mer jobb for bankom, men budsjettet blir mer realistisk om vi setter det to ganger i året. Og kan ta i beraktning prisendringer oftere.
