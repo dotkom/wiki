@@ -59,7 +59,7 @@ Tilhørende wikisider
 | [Socius Extremus](http://org.ntnu.no/socius/) | | Sosiologi | | [Group](http://fb.com/groups/6988903797/) | socius.extremus@hotmail.no |
 | [Teaterlosjen](http://teaterlosjen.wordpress.com/) | | Drama/Teater | | [Page](http://fb.com/teaterlosjen), [Group](http://fb.com/groups/460089664086811/) | teaterlosjen@gmail.com |
 | [Theodor](http://lfarkeologi.no/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999078818) | Arkeologi | | [Group](http://fb.com/groups/122741647786/) | theodor.arkeologi@gmail.com |
-| Triple Helix | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915928374) |Master i entreprenørskap, innovasjon og samfunn | | [Group](https://www.facebook.com/linjeforeningentriplehelix/) | info.triplehelix@gmail.com | 
+| Innovatio NTNU | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915928374) |Master i entreprenørskap, innovasjon og samfunn | | [Group](https://www.facebook.com/linjeforeningentriplehelix/) | info.triplehelix@gmail.com | 
 | [Trondheim Klassisk Studentforening](http://klassisk.webs.com/news.htm) | | Klassiske fag | | [Group](https://www.facebook.com/groups/41722135873/) | |
 
 ## Bedriftsforeninger
