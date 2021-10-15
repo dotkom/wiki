@@ -15,27 +15,7 @@ title: "HS møte 12.10.21"
 
 *Ikke tilstede:*  Ingen <3
 
-*Straffer:* Vin: Mari, Thomas, Sindre, Henrik
-
-
-## Innsjekk  
-
-- William koser seg som faen, drakk uendelige mengder alkohol på lørdag  
-- Anders døde nærmest på hyttetur  
-- Sarmi dro på buffet igjen noen dager etter å ha sagt hun aldri skulle igjen  
-- Henrik er endelig frisk!!! og ble syk igjen :( HS sitt dårligst immunforsvar  
-- Milla var på ball og skal lese quote-liste fra ballet   
-    - "Å nei, jeg tar det rolig nå" - Thomas  
-    - "Trenger ikke dele ut pin når man har det båndet der as" - En abakule  
-    - "Er du ny i styret?  
-        - Milla: "Nei?"  
-        - Ei jente: "Åja, du bare har så få pins."   
-    - "Downtown er ikke for oss i styrer" - Et styremedlem  
-    - "And by the way, I like 'em thick" - Damenes taler  
-- Mari var også på hyttetur!! Har for høy toleranse  
-- Sindre er lei seg for sin digitale deltagelse, for han her en *syk* servering!!! Var på UKErevy og middag, sier vi bør glede oss  
-- Var også på immball og koste seg, ble muligens noe drita (men hvem bryr seg?). 3 dager uten sigg, skjelver litt  
-- Thea koste seg på UKE-toget på lørdag, dårlig oppmøte av mange andre linjeforeninger.  
+*Straffer:* Vin: Mari, Thomas, Sindre, Henrik 
 
 
 ## 698 - Godkjenning av innkalling, servering og referat fra forrige uke  
