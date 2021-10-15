@@ -98,8 +98,8 @@ Godkjent under tvil
 [Thea har samlet inn visdom fra de gamle og vi kan nå ta et valg på bakgrunn av denne informasjonen]  
 
 
-- Thea: Vi må ta en avgjørelse på denne casene med hvordan vi skal gjøre det med sosialt medlemskap. Snakket med en del tidligere styrer om hvordan de har gjort det før slik at vi ikke gjør noe helt motsatt. 
-    - Aslak sier følgende: "Vedtektene er veldig vage på dette. De sier at man skal ha en tilknytning til fag. Tidligere hadde vi krav om at man har minst 50% informatikkfag og at man har intensjoner om å komme inn på informatikk." 
+- Thea: Vi må ta en avgjørelse på casen med hvordan vi skal gjøre det med sosialt medlemskap. Snakket med en del tidligere styremedlemmer om hvordan de har gjort det før slik at vi ikke gjør noe helt motsatt. 
+    - Aslak sier følgende: "Vedtektene er veldig vage på dette. De sier at man skal ha en tilknytning til informatikk. Tidligere hadde vi krav om at man har minst 50% informatikkfag og at man har intensjoner om å komme inn på informatikk." 
     - Mer Aslak: Per vedtekstene kan man nesten gi sosialt medlemskap til hvem HS vil. Men det har tidligere blitt gitt til personer som har hatt intensjoner om å bytte over til informatikk. 
     - Sitat 2017: "Kan være vanskelig å si nei til de som søker sosialt medlemskap". Aslak avslutter med at vi har full makt, men sympati er jo noe verdt å tenke på.
 - Mari: Jeg syntes de burde ha en eller annen tilklnytning til oss, eller skal bytte over til oss eller annet. 
