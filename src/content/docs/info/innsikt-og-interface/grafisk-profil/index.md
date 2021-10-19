@@ -96,4 +96,4 @@ Online har også en relativt enkel presentasjonsmal som kan brukes når noen i l
 [Klikk her for å se begge versjonene og for nedlasting](https://drive.google.com/drive/folders/1KqW6iIgtJVHzGW9jis0J_rgGx-Tkkb-1?usp=sharing). Si ifra om du gjerne skulle ha lagt til eller endret noe på malen!
 
 # Henvendelser
-Spørsmål og henvendelser kan sendes til [profil- og aviskomiteen på mail](prokom@online.ntnu.no). Vi tar gjerne imot ris og ros, samt forslag til forbedringer!
+Spørsmål og henvendelser kan sendes til [profil- og aviskomiteen på mail](mailto:prokom@online.ntnu.no). Vi tar gjerne imot ris og ros, samt forslag til forbedringer!
