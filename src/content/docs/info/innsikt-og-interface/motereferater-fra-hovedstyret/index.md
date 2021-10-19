@@ -7,7 +7,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 Møtereferater
 ------------------  
-### Høst 2021
+### Høst 2021  
+- [2021-19-10](2021-19-10) - 
 - [2021-12-10](2021-12-10) - Sosialt medlemskap, fotoarkiv og opptak
 - [2021-11-10](2021-11-10) - Åpen diskusjonskveld
 - [2021-05-10](2021-05-10) - Prikk på ekskursjon og sosialt medlemskap
