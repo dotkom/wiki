@@ -88,6 +88,7 @@ Godkjent
 
 ## 715 - Nye pins (Thea, 10 min)  
 [Online har fått nye pins, men hvem skal få de og når? Jeg tror en av konsekvensene av korona er at mange av oss i dette styret ikke kan så mye om hvem som tradisjonelt sett skal få pins og hvordan det gjøres. Slik det ble gjort på Immball i 2020 (at absolutt alle får) er IKKE sånn det tradisjonelt sett gjøres. Spurte Benedicte om dette og hun sa at det kun er førsteklassinger som skal få pin og at hvis vi vil gi til andre så burde vi vurdere om de skal måtte betale for de ettersom nye pins vil være ettertraktet. Hvis alle skal ha går vi fort tom igjen og det vil bli en stor utgift. Vi må også passe på at vi deler ut et sted hvor mange førsteklassinger deltar og hvor øvrige klassetrinn ikke begynner å forsyne seg. En mulighet kunne vært at vi byttet på å sitte på kontoret og dele ut til førsteklassinger som vil ha. Gjerne legg inn noen tanker her eller sjekk litt opp med andre dere tror kan litt om dette.]  
+
 - Thea: Hva kan vi gjøre og hva kan vi ikke gjøre?
 - William: synes alle skal få den, ettersom den er ny. Videre bør alle som få den få informasjon om greia med pin.
 - Anders: Synes alle som har pin fra før bør betale for ny pin, og de som ikke har fra før vil få den.
@@ -97,7 +98,8 @@ Godkjent
 **Konklusjon**: alle nye medlemmer får pin gratis, alle andre må betale. 
 
 ## 716 - Velkom og ITEX opptak (Sindre, 10 min)  
-[Nye skal tas opp. Vi har fått svar på [skjema](https://drive.google.com/drive/folders/11J-Ur5eeOXmXwTTwLESKuKZUegwKhh0G?usp=sharing) og videre plan legges]  
+[Nye skal tas opp. Vi har fått svar på [skjema](https://drive.google.com/drive/folders/11J-Ur5eeOXmXwTTwLESKuKZUegwKhh0G?usp=sharing) og videre plan legges] 
+ 
 - Velkom: Fått mange søkere, veldig bra!
     - Håvard og Karan blir med på intervjuene
 - ITEX: Ikke like mange søkere, men gode kandidater
@@ -105,6 +107,7 @@ Godkjent
 
 ## 717 - Semesterundersøkelse (Sindre, 5 min)  
 [Vi sendte ikke ut semesterundersøkelse forrige semester. Ønsker vi å lage en nå?]  
+
 - Henrik: hadde undersøkelse i vår
     - Kan se på resultatene
 - William: lite hensiktsmessig, er lite spesifikt
