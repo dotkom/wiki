@@ -6,8 +6,7 @@ title: "Nye pins og klare for UKA-galla"
 *Sted:* @ Mari's crib  
 
 *Referering:*  
-  1. ref: Thea  
-  2. ref: Milla  
+  1. ref: Mari   
 
 *Servering:* Thea  
 
