@@ -10,8 +10,8 @@ Møtereferater
 ### Høst 2021
 
 
-- [2021-02-11](2021-02-11) - 
-- [2021-26-10](nye-pins-og-klare-uka-galla) Nye pins og klare til UKA-galla 
+- [2021-02-11](2021-02-11) - Prikkregler og ølkurs  
+- [2021-26-10](nye-pins-og-klare-uka-galla) - Nye pins og klare til UKA-galla 
 - [2021-19-10](2021-19-10) - Prikkregler og fort gjort møte
 - [2021-12-10](2021-12-10) - Sosialt medlemskap, fotoarkiv og opptak
 - [2021-11-10](2021-11-10) - Åpen diskusjonskveld
