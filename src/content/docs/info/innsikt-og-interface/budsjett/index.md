@@ -7,4 +7,4 @@ title: "Onlines budsjett"
 
 ## Budsjettmøter
 
-- [Budsjettmøte 03.11.2021](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/budsjettmøte-2021-11-03/)
+- [Budsjettmøte 03.11.2021](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/budsjettmote-2021-11-03/)
