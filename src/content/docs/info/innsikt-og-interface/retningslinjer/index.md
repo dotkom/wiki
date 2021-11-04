@@ -26,5 +26,6 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Velkomstkomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/velkom/)
 
 
-### Epost 
+### Diverse 
+- [Budsjettreglement](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/budsjettreglement-online/)
 - [Signatur](/wiki/online/info/innsikt-og-interface/retningslinjer/epostsignatur/)
