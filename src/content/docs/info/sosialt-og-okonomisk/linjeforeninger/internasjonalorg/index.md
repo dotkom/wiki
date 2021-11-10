@@ -33,3 +33,4 @@ Associated wiki pages
 |[Muslim Student Association In Trondheim (MSAT)](http://org.ntnu.no/msat/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990945438)|All|[Page](https://www.facebook.com/msat.ntnu)|msat.styre@gmail.com , msat@msat.org.ntnu.no|
 |[NTNU Ocean Club](http://ntnuoc.no)|  |Marine Technology|[Page](https://www.facebook.com/ntnuoceanclub/)|jon@ntnuoc.no|
 [Chinese Students and Scholars Association (CSSA-NTNU)](https://www.facebook.com/CSSA.NTNU/)| |ALL|[Page](https://www.facebook.com/CSSA.NTNU/)|cssa.ntnu@gmail.com|
+|[Trondheim Christian Student Fellowship](https://www.laget.net/english/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=975698351)|All|[Page](https://www.facebook.com/LagetTKS)|styret@laget.net|
