@@ -9,7 +9,7 @@ Frem til 09/10 var det kun én økonomiansvarlig i Online. Dette
 hovedstyrevervet var ett som tok mye tid, mye hodebry, og gav lite
 tilbake. I 09/10 bestemte daværende økonomiansvarlig seg for at det var
 på tide å fordele arbeidsmengden. Det ble opprettet en spesiell
-komitestilling kalt “økonomiansvarlig” i alle komiteene som hadde større
+komitéstilling kalt “økonomiansvarlig” i alle komiteene som hadde større
 budsjetter og regnskap.
 
 Ved generalforsamlingen 2010 gikk det gjennom et forslag om å fastslå
@@ -33,19 +33,21 @@ Våren 2011 søkte Even Østvold, leder for komiteen, om å få
 linjeforeningen momsregistrert. Dette ble godkjent av skattemyndighetene
 og vi har siden den tid ført momsregnskap som gode samfunnsborgere.
 
-Våren 2015 var for bank- og økonomikomiteen, og spesielt dens leder, en påkjennende periode. Det var nemldig under påsken at den store datax-kræsjen fant sted, som førte til at tilnærmet hele regnskapet for 2014 gikk tapt. Daværende leder Henning M. Wold tok da på seg ansvaret med å føre hele Onlines regnskap på nytt, og satt utallige timer de neste dagene for å få det ferdig før generalforsamlingen. Som følge av at ITEX ble innlemmet under Online på generalforsamlingen den samme våren, fikk ITEX også sin egen økonomiansvarlig i bankom.
+Våren 2015 var for bank- og økonomikomiteen, og spesielt dens leder, en påkjennende periode. Det var nemlig under påsken at den store datax-kræsjen fant sted, som førte til at tilnærmet hele regnskapet for 2014 gikk tapt. Daværende leder Henning M. Wold tok da på seg ansvaret med å føre hele Onlines regnskap på nytt, og satt utallige timer de neste dagene for å få det ferdig før generalforsamlingen. Som følge av at ITEX ble innlemmet under Online på generalforsamlingen den samme våren, fikk ITEX også sin egen økonomiansvarlig i bankom.
 
-Høsten 2015 integrerte Online Stripe i sine systemer, noe som gjorde at betalinger for arrengement ble mye enklere enn før. Som følge trengte ikke arrkom lenger to økonomiansvarlige, og det har siden bare vært 1 som i de andre komiteene.
+Høsten 2015 integrerte Online Stripe i sine systemer, noe som gjorde at betalinger for arrangement ble mye enklere enn før. Som følge trengte ikke arrkom lenger to økonomiansvarlige, og det har siden bare vært 1 som i de andre komiteene.
 
 Våren 2016 tok daværende leder Marius Thingvall initiativ til å holde en egen økonomikveld før generalforsamlingen, slik at man kunne diskutere budsjettene før genfors. På denne måten kunne det fortsatt komme inn innspill og gjøres endringer, ettersom at det er for sent på genfors. Dette var en suksess, og har i ettertid blitt gjennomført hvert år. Samme semester ble ekskursjonskomiteen lagt under Online, som førte med seg at ekskom fikk en egen økonomiansvarlig i bankom.
 
 På høsten samme år vedtok bankom at de ønsket å endre regnskapssystem fra DataX til Fiken, ettersom at DataX var et utdatert og lite brukervennlig system å jobbe med. I DataX kunne man kunne nemlig bare være én person i systemet om gangen, i tillegg til at det var en generelt knotete system å bruke. Det nye systemet kunne derimot brukes av så mange man ville på en gang, samt at brukergrensesnittet var veldig moderne og intuitivt. Ettersom at det nye systemet ville koste en fast semesteravgift, måtte dette godkjennes av hovedstyret. Da saken ble tatt opp var det støtte for forslaget fra styret, og det nye systemet ble tatt i bruk for regnskapsåret 2016.
 
-I 2017 innførte bankom en prøveordning med en uavhengig nesleder som ikke har ansvar for egen komité. Dette var en sukess da bankom fikk et medlem som hadde fleksibiliteten til å hjelpe de andre i komiteen når det trengtes.
+I 2017 innførte bankom en prøveordning med en uavhengig nestleder som ikke har ansvar for egen komité. Dette var en suksess da bankom fikk et medlem som hadde fleksibiliteten til å hjelpe de andre i komiteen når det trengtes.
 
-Fra 2018 ble regnskapet til Online heldigitalt(takk gud) og lagret både på Fiken og på Google Drive og bankoms rutiner endret seg til å utnytte funksjonaliteten i Fiken. I tillegg ble prøveordningen fra 2017 med uavhengig nestleder vidreført til at nestleder ble fungerende komiteleder.
+Fra 2018 ble regnskapet til Online hel-digitalt(takk gud) og lagret både på Fiken og på Google Drive og bankoms rutiner endret seg til å utnytte funksjonaliteten i Fiken. I tillegg ble prøveordningen fra 2017 med uavhengig nestleder videreført til at nestleder ble fungerende komitéleder.
 
-Våren 2019 godtok generalforsamlingen at HS stillingen som leder av bank- og økonomikomiteen ble endret til økonomiansvarlig, og leder av bankom blir valgt internt i bankom. Leder av komiteen har møte og tale rett på hovedstyrets møter.
+Våren 2019 godtok generalforsamlingen at HS stillingen som leder av bank- og økonomikomiteen ble endret til økonomiansvarlig, og leder av bankom blir valgt internt i bankom. Leder av komiteen har møte- og talerett på Hovedstyrets møter.
+
+Våren 2021 vedtok generalforsamlingen at leder av bank- og økonomikomiteen skal godkjennes på generalforsamlingen. I tillegg ble det vedtatt at leder ikke lenger har møte- eller talerett på Hovedstyrets møter.
 
 ## Medlemmer
 
