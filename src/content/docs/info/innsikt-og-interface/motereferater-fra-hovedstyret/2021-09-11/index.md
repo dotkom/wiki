@@ -132,7 +132,7 @@ Tar et møte med bandet og lager et dokument hvor vi kan begynne å forme en int
 Godkjent!
 
 ## 734 - Onlines pin-tradisjon (15 min)  
-[Ridder Håvard <3 har gitt oss masse historie om Online-pin. Diskusjon om hva vi vil gjøre videre.]
+[Online får nå nye pins som erstatter de gamle. Vi tar derfor en titt på tradisjonen om å ikke bytte Online-pinnen. Tradisjonen oppstod når Online ikke hadde kompileringsdalje og pinnen var det man fikk for å kompilere seg. Når vi endelig fikk kompileringsdalje ble ikke tradisjonen om å ikke bytte bort pinnen endret. Nåværende styre har erfart at vi noen ganger blir oppfattet som overlegne av andre linjeforeninger for å ikke ta del i pin-byttetradisjonen, noe som er litt uheldig. Ridder Håvard <3 har gitt oss masse historie om Online-pin. Diskusjon om hva vi vil gjøre videre.]
 
 - Sindre: Føler ikke vi trenger å være så strenge med hvem vi gir til i begynnelsen. Kunne vært mulig å gi tikl Tihlde, Abakus og Delta osv og de vi er veldig kjente med. 
 - Thea: Jeg synes det var veldig fint å få vite mer om dette. Føler at de som har sterkest meninger om dette er riddere, men ingen utenom Håvard har uttrykt meningen sin om tradisjonen.
@@ -154,7 +154,7 @@ Godkjent!
     - Henrik: Vi får en mail, det blir mye som skjer.
 - Thea: Synes ikke prokom skal ha ansvar for det.
 
-Sindre: Man kan bytte nye pin men ikke den gammle.
+Sindre: Man kan bytte nye pin men ikke den gamle.
 
 
 ## 735 - Eventuelt (10 min)  
