@@ -141,10 +141,10 @@ Godkjent!
 - Mari: Syntes også det er litt gøy at pinen vår er litt eksklusiv. Man burde få den pinen man får, også kan man bytte den bort uten konsekvens. 
 - Henrik: Den gamle er fett at er eksklusiv, og at den er for OG onlinere. Men den nye føler jeg kan være litt sånn fritt frem kjør. 
 - Anders: Er enig med Henrik, det er jo enn grunn til hvorfor vi ikke bytter ut den gamle pinnen. Da denne opprinnelig ble brukt som et Bevi på at man fullførte kompileringen vår, nå med den nye pinen har den ikke en slik betydning.   
-- Thomas: Det har ikke åsm ye å si for oss når immball sesongen er over nå. Kan vi gi det til neste styret?
+- Thomas: Det har ikke så mye å si for oss ettersom immballsesongen er over nå. Kan vi gi det til neste styret?
     - William: Om vi kan gjøre noe nå trenger vi ikke å gi den til neste styre og er revy sesong snart.
 - Thea: Det er greit at noen tar valget som kanskje ikke er så påvirket av at man skal kunne få masse pins. Er en risiko for at neste styret bare tenker "jess skal få masse pins", da de går en ballsesong i møte. 
-- Thea: Det vi da må finne ut er hvor lett det skal være å få tak på pins. Synes ikke vi skal selle pins på kontoret. Skal man kunne kjøpe en del pins eller skal det være vanskelig å få tak på dem. 
+- Thea: Det vi da må finne ut er hvor lett det skal være å få tak på pins. Synes ikke vi skal selge pins på kontoret. Skal man kunne kjøpe en del pins eller skal det være vanskelig å få tak på dem. 
     - William: Det er helt fint med at man kan kjøpe pins som man vil. Det kommer litt an på hva man ønsker at pinen skal bety. Dersom man bare ønsker den skal bety at dette er merket til Online så er det jo bare "reklame"
         - Thea: Og sannsynlighet for å stjele. 
         - Anders: Fin løsning at man kan kjøpe fra webshop. 
