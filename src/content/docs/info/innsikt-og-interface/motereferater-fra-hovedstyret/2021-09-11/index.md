@@ -131,12 +131,12 @@ Tar et møte med bandet og lager et dokument hvor vi kan begynne å forme en int
 
 Godkjent!
 
-## 734 - Pinzz (15 min)  
-[Ridder Håvard<3 har svar oss med masse historie om pin. Diskusjon om hva vi vil gjøre videre.]
+## 734 - Onlines pin-tradisjon (15 min)  
+[Ridder Håvard <3 har gitt oss masse historie om Online-pin. Diskusjon om hva vi vil gjøre videre.]
 
 - Sindre: Føler ikke vi trenger å være så strenge med hvem vi gir til i begynnelsen. Kunne vært mulig å gi tikl Tihlde, Abakus og Delta osv og de vi er veldig kjente med. 
-- Thea: Jeg synes det var veldig fint å få vite mor om dette. Føler at de som har sterkest meninger om dette er riddere, men ingen utenom Håvard har uttrykt meningen sin om tradisjonen.
-- William: tenker at det er enten så fortsetter vi som vi gjør eller så åpner vi helt. 
+- Thea: Jeg synes det var veldig fint å få vite mer om dette. Føler at de som har sterkest meninger om dette er riddere, men ingen utenom Håvard har uttrykt meningen sin om tradisjonen.
+- William: tenker at enten så fortsetter vi som vi gjør eller så åpner vi helt. 
     - Sindre: Issuet for meg er ikke det at jeg ikke får pins. Men det at alle føler vi er så mye bedre enn de da vi ikke ønsker å bytte pins med de. 
 - Mari: Syntes også det er litt gøy at pinen vår er litt eksklusiv. Man burde få den pinen man får, også kan man bytte den bort uten konsekvens. 
 - Henrik: Den gamle er fett at er eksklusiv, og at den er for OG onlinere. Men den nye føler jeg kan være litt sånn fritt frem kjør. 
@@ -165,9 +165,3 @@ Sindre: Man kan bytte nye pin men ikke den gammle.
     - ALLE: SKJØR!
 - Prikkregler
     - Utsettes til neste uke
-
-
-## Møteevaluering  
-- Bra diskusjoner
-
-## Diggepunkt (5 min)
