@@ -8,7 +8,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2021
-
+- [2021-23-11](2021-23-11) 
+- [2021-16-11](2021-11-21) - Trivselsundersøkelse
 - [2021-09-11](2021-09-11) - Output og Onlines nye pin
 - [2021-02-11](2021-02-11) - Prikkregler og ølkurs  
 - [2021-26-10](nye-pins-og-klare-uka-galla) - Nye pins og klare til UKA-galla 
