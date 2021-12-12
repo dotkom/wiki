@@ -14,6 +14,14 @@ Forsamlingen har anledning til å gjøre endringer i budsjettforslaget. Dersom d
 
 Ved nytt budsjettmøte skal forslag til endring være offentliggjort til linjeforeningen minst tre dager før det nye budsjettmøtet. Utover dette har budsjettmøte samme makter og plikter vanlig budsjettmøte.
 
+Nummer tre: battery
+
+Da er vi på veis ende, kun ett ord igjen    
+Når du blir ferdig, gi dine nære en klem!    
+Håper du gleder deg til hva neste året bringer    
+Jeg vet hvertfall jeg gleder meg til å høre Nu klinger    
+
+
 Det er Hovedstyret som godkjenner budsjettet for linjeforeningen. Godkjenning av budsjettet, og godkjenning av større endringer på budsjettet må gjøres på et åpent hovedstyremøte, etter at et budsjettmøte er gjennomført.
 
 Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på ordinære styremøter. Ved større endringer i budsjettet må det kalles inn til et nytt budsjettmøte. Forslaget til endring i budsjettet må ligge tilgjengelig for linjeforeningen i én uke før et slikt møte.
