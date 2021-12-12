@@ -25,6 +25,10 @@ synger alle mann, alle mann, alle mann, alle mann, alle mann, alle mann;
 
 Refreng:
 
+SISTE ORD: PRANK
+
+**Gratulerer med fullført kalenderluke <3**
+
 Studenter i den gamle stad, ta vare på byens ry! (klapp x2)  
 Husk på at jenter, øl og dram var kjempenes meny.  
 Og faller I alle mann alle, skal det gjalle fra alle mot sky.  
