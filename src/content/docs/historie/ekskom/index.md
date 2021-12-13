@@ -39,10 +39,18 @@ Etter den faglige uken vil de som hadde lyst til å være lengre i Kina reise ti
 
 Turen i 2020 ville ha hatt faglig uke i Seoul, Sør-Korea, og kulturell uke i Tokyo, Japan. Dessverre ble turen avlyst på grunn av koronaviruset. 
 
+###2021
+
+###2022
+
+Etter spørreundersøkelse på trinnet, ble det bestemt at ekskursjonen i 2022 skulle gå til Japan. På grunn av den pågående koronaviruspandemien, bestemte ekskom seg i desember 2021 derimot for å droppe Japan og heller gå for et mer gjennomførbart alternativ i Europa. Valget falt på en tur til Berlin (faglig uke) og Dresden i Tyskland, og Praha i Tsjekkia.
+
 Medlemmer
 ---------
 |År, sted|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    |||||||||
 |---|---|---|---| --- |---|---|---|---|---|---|---|---|
+|*21/22, Berlin, Dresden og Praha*|*Sigrid Li*|Ingri Holm Nygaardsmoen|Farhad Ismayilov|Anniken Hoff|Fredrik Skaug|Ivar Hembre|Runar Johnsen|Thomas Thingsaker|Yngve Tryggestad Larsen
+|*20/21, Ingen ekskursjon*|*Fredrik August Madsen-Malmo*|Jon-Inge Heggstad|Jonathan Brooks|Andreas Winther Moen|Fredrik Butler Wang|Karl Petter Aubert|Vidar Michaelsen
 |*19/20, Sør-Korea og Japan*|*Liam Svanåsbakken Crouch*|Nina Duong|Andreas Jonassen|Mathias Brekkan|
 |*18/19, Kina*|*Petter Rein*|Morten Falstad|Sigurd Melsom|Lars Kåre Syversen|Therese Federl|Ebba Fingarsen|Tore Stensaker Tefre|Helle Van Den Broek|Minh Ha Do|Kim Duong|
 |*17/18, Sør-Korea*|*Simen Blikeng*|Edvard Bakken|Fride Skarseth|Lars Aders|Maria Rønning|Embrik Einang|Petter Lohne|Magnus Guttormsen|
