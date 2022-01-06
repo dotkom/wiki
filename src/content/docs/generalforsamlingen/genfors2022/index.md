@@ -18,8 +18,8 @@ Referat 2022:
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [attachment:763]  
-Onlines fonds vedtekter finner du her: [attachment:764]  
+Onlines vedtekter finner du her:
+Onlines fonds vedtekter finner du her:
 Referat fra generalforsamlingen 2021 finner du her:
 
 ## Regnskap 2021 og budsjett 2022
