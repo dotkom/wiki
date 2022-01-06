@@ -22,7 +22,8 @@ Passcode: 859489
 * [2021 Kandidater](/wiki/online/generalforsamlingen/genfors2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Onlines vedtekter:  
+Onlines vedtekter:  [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf)
+
 Onlines fonds vedtekter:  
 Referat 2021:  
 
