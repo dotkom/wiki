@@ -22,7 +22,7 @@ Onlines vedtekter finner du her: [Onlines vedtekter](https://github.com/dotkom/O
 
 Onlines fonds vedtekter finner du her: [attachment:808]
 
-Referat fra generalforsamlingen 2021 finner du her:
+Referat fra generalforsamlingen 2021 finner du her: [attachment:810]
 
 ## Regnskap 2021 og budsjett 2022
 
