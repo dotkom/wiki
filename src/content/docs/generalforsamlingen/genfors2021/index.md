@@ -24,7 +24,8 @@ Passcode: 859489
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter:  [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf)
 
-Onlines fonds vedtekter:  
+Onlines fonds vedtekter:  [attachment:764]
+
 Referat 2021:  
 
 
