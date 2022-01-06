@@ -13,16 +13,14 @@ title: "Generalforsamlingen 2022"
 
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter:  
-
 Onlines fonds vedtekter:  
-
 Referat 2022:  
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her:
+Onlines vedtekter finner du her:  
 Onlines fonds vedtekter finner du her:
-Referat fra generalforsamlingen 2021 finner du her:
+Referat fra generalforsamlingen 2020 finner du her:
 
 ## Regnskap 2021 og budsjett 2022
 
