@@ -13,6 +13,7 @@ Medlemmene består hovedsakelig av tidligere komitémedlemmer som ønsker å bid
 ### §2 Seniorkomiteens sammensetning  
 
 Seniorkomiteen består av *ressursgruppen*, som må bestå av:  
+
 - Leder av seniorkomiteen  
 - Nestleder av seniorkomiteen  
 - Økonomiansvarlig av seniorkomiteen  
