@@ -12,11 +12,11 @@ Medlemmene består hovedsakelig av tidligere komitémedlemmer som ønsker å bid
 
 ### §2 Seniorkomiteens sammensetning  
 
-Seniorkomiteen består av ressursgruppen, som må bestå av:  
-* Leder av seniorkomiteen  
-* Nestleder av seniorkomiteen  
-* Økonomiansvarlig av seniorkomiteen  
-* Øvrige medlemmer  
+Seniorkomiteen består av *ressursgruppen*, som må bestå av:  
+- Leder av seniorkomiteen  
+- Nestleder av seniorkomiteen  
+- Økonomiansvarlig av seniorkomiteen  
+- Øvrige medlemmer  
 
 I tillegg til ressursgruppen bør seniorkomiteen bestå av ulike prosjektgrupper. Blant annet prosjektgruppen for interessegrupper. Disse prosjektgruppene skal bestå av en prosjektleder.  
  
