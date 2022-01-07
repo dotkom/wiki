@@ -7,48 +7,56 @@ Seniorkomiteen
 
 ### §1 Seniorkomiteens formål
 
-Seniorkomiteens hovedoppgave er å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift.  
-Medlemmene består av tidligere komitémedlemmer som ønsker å trappe ned på arbeidet sitt i Online, men som fortsatt ønsker å bidra ved behov.  
+Seniorkomiteens hovedoppgave er å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. 
+Medlemmene består hovedsakelig av tidligere komitémedlemmer som ønsker å bidra til å videreutvikle Online. 
 
-### §2 Seniorkomiteens sammensetning
+### §2 Seniorkomiteens sammensetning  
 
-Seniorkomiteen består av følgende medlemmer: 
+Seniorkomiteen består av ressursgruppen, som må bestå av:  
+* Leder av seniorkomiteen  
+* Nestleder av seniorkomiteen  
+* Økonomiansvarlig av seniorkomiteen  
+* Øvrige medlemmer  
 
-* Leder  
-* Nestleder  
-* Økonomiansvarlig  
+I tillegg til ressursgruppen bør seniorkomiteen bestå av ulike prosjektgrupper. Blant annet prosjektgruppen for interessegrupper. Disse prosjektgruppene skal bestå av en prosjektleder.  
+ 
+Seniorkomiteen tar opp sine egne medlemmer når det er hensiktsmessig.  
 
-Samt det antall øvrige medlemmer som kreves for at komiteen skal kunne fungere effektivt.
+Alle medlemmer av ressursgruppen, samt prosjektledere har møteplikt ved seniorkomiteens møter.  
+
+Alle øvrige medlemmer har møterett.  
+
+Alle medlemmer har stemmerett.  
+
 
 
 ### §3 Seniorkomiteens ansvarområder
 
-#### (1) Fadderukene for masterstudentene
+#### (1) Bistå andre komiteer og grupper  
 
-Seniorkomiteen skal arrangere fadderukene for masterstudentene.
+Seniorkomiteen skal være tilgjengelig for å bistå andre komiteer og grupper i Online der det.  
 
-#### (2) Komitékickoff for nye komitémedlemmer
+#### (2) Prosjekter  
 
-Seniorkomiteen skal arrangere komitékickoffet for ny komitémedlemmer
+Seniorkomiteen oppretter prosjekter. I tillegg skal seniorkomiteen sørge for at prosjektene har de midlene prosjektene trenger, og bistå med hjelp der det er nødvendig.  
 
-#### (3) Utmatrikuleringen
+1. Seniorkomiteen skal undersøke om prosjekter er gunstige å gjennomføre før opprettelse.  
+2. Prosjektleder skal i samråd med rekrutteringsansvarlig sørge for at personer blir tatt opp til prosjektet.  
+3. Når nye medlemmer blir tatt opp til et prosjekt skal det nye medlemmet ha en forventningsavklaring i samråd med prosjektleder og en person fra ressursgruppa.  
 
-Seniorkomiteen skal arrangere utmatrikuleringen av 5.klassingene.
+#### (3) Interessegrupper  
 
-#### (4) Bistå andre komiteer
+Ressursgruppen skal sørge for at det eksisterer en prosjektgruppe for interessegrupper. Prosjektgruppen godkjenner interessegrupper og har ansvar for å fordele midler samt bistå med hjelp der det er nødvendig. Dersom prosjektet ikke eksisterer, har ressursgruppen direkte ansvar for interessegruppene.  
 
-Seniorkomiteen skal være tilgjengelig og bistå andre komiteer dersom de trenger hjelp til å gjennomføre sine daglige arbeidsoppgaver.
+#### (4) Komitékickoff for nye komitémedlemmer  
 
-#### (5) Historiebærer
+Seniorkomiteen skal arrangere komitékickoffet for nye komitémedlemmer.  
 
-Seniorkom skal være en historiebærer innad i Online ved å samle inn informasjon fra tidligere år og nåværende år.
+#### (5) Utmatrikulering 
 
-### §4 Seniorkomiteens virke
+Seniorkomiteen skal sørge for at utmatrikuleringen av 5. klassingene skjer i løpet av våren.  
 
-Seniorkomiteen skal skrive erfaringsskriv etter hvert arrangement slik at nest års arrangement har de beste forrutsetningene for å lykkes.  
+### §4 Seniorkomiteens virke  
 
-For å søke seg til seniorkomiteen må man ha hatt et aktivt verv i linjforeningen i fire (4) semester. Seniorkomiteen tar opp sine egne medlemmer, men dersom Seniorkomiteen ikke får gjennomført opptak vil Hovedstyret gjør det.  
-
-Seniorkomiteen skal ha jevnlige møter når det er nødvendig.  
-
-Lederen av seniorkom skal etterstrebe å stille på HS-møtene.
+Seniorkomiteen skal etterstrebe å skrive erfaringsskriv etter hvert arrangement slik at nest års arrangement har de beste forutsetningene for å lykkes.  
+Seniorkomiteen skal ha jevnlige møter når det er nødvendig.
