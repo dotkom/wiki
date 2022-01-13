@@ -43,5 +43,4 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Dotkomleder:*
 * *Fagkomleder:*
 * *Prokomleder:*
-* *Seniorkomleder:*
 * *Trikomleder:*
