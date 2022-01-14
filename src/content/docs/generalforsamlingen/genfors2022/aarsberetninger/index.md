@@ -50,4 +50,6 @@ title: "Årsberetninger 2022"
 
 ## Output
 
+## FeminIT
+
 ## Fondstyret
