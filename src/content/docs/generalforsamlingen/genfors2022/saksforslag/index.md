@@ -10,7 +10,7 @@ title: "Saksforslag 2022"
 * [2022 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2022 Kandidater](/wiki/online/generalforsamlingen/genfors2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
-Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 18. februar kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp. 
+Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 16. februar kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp. 
 
 ** Hva er et saksforslag? **
 
