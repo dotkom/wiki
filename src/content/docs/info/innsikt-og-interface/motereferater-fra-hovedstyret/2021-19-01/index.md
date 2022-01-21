@@ -101,8 +101,6 @@ Bekk ønsker å ha en dag med insta-takeover i forbindelse med at de har signert
 - Milla: Synes vi kan gjøre det uten å si ja til andre, ettersom Bekk er så close til Online.
 - Sindre: Kjør
 ## 759 - Eventuelt (10 min)  
-- Hvem skal på jub?  
-    - Thea og Thomas
 - Semesterundersøkelsen
     - Mari: Har vi delt svarene på undersøkelsen?
     - Henrik: Så lenge man fjerner mail er det bare å dele
@@ -112,8 +110,6 @@ Bekk ønsker å ha en dag med insta-takeover i forbindelse med at de har signert
     - Willy: De er ikke lokale
     - Mari: Jeg tar den diskusjonen i mitt hode <3
 - Thea: Litt småting 
-    - Delta jub er 790,-
-    - Booket møterom: R90
     - Blesting av vedtektskveld må gjøres
     - Seniorkom har lyst på hjelp rundt opptak til ressursgruppen sin
 - Stormøte
