@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
-- [2022-19-01](2021-19-01) - Godkjenning av budsjett og retro
+- [2022-19-01](2021-19-01) - En Psykt Vanlig Uke og insta-takeover
 
 ### Høst 2021
 - [2021-23-11](2021-23-11) - Godkjenning av budsjett og retro
