@@ -18,7 +18,6 @@ title: "HS møte 19.01.22"
 *Straffer:*  
 
 ## Innsjekk  
-Effektiv innsjekk
 
 ## 752 - Godkjenning av innkalling, servering og referat fra forrige uke  
 
