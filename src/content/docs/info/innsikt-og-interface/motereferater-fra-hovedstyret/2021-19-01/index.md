@@ -97,32 +97,6 @@ Som nevnt under runden vi gikk for å dele ut julekort, er det sabla vanskelig �
 - William: Vi kan ta utgangspunkt på det som ligger på OW + Pedde sin
 - Anders: Vi kunne sendt ut en mail og hørt om adressen til kontorene til linjeforeningene. Jeg kan sende en mail på det!
 
-## 757 - FeminIT (Milla, 10 min)  
-Jeg har noen tanker om feminIT jeg gjerne vil lufte med dere:)) Det handler om den økonomiske situasjonen (og hva som skjer fremover der), om blestemengde og fremtiden deres i Online, basert på hvordan jeg synes det funker nå.  
-
-- Milla: 
-    - De har veldig mange arrangementer og det forårsaker veldig mye arbeid for meg. Jeg blir deres økans nå og det er slitsomt. Dette er noe som går an å ta med i neste styret hvis det skulle blitt laget ny gruppe.
-    - Det andre er at de har veldig mye blesting mtp at de kun når ut til jentene.
-    - Det tredje, er hvis de blir nodekomite og er det viktig å tenke over hvor mye penger de får mtp at det kun er 20% av medlemme som kan møte opp
-- William:
-    - Føler ikke det med blesting.
-- Milla:
-    - Hvis de blir nodekomite så får de hvertfall en egen økans. Men synes uansett at det burde prøves ut i større grad før det blir nodekomite.
-- Anders: Seniorkoms nye løsning fikser mye av det problemet, hvor det er lagt opp til at grupperinger blir dynamiske.
-- Thomas: Vi var alle enige om at FeminIT var et godt initiativ, mulig vi tenkte litt lite gjennom det praktiske aspektet av det
-- Sindre: Angående at det er mange arrangementer: Er et veldig bra initiativ, pengene er verdt det i mine øyne. Det vi må være varsom på er at det ikke blir et konkurrerende tilbud, men at FeminIT heller er et sted hvor jentene kan møtes og heller sammen dra på felles arrangement.
-- Mari: Er dette kommunisert til de?
-- Sindre: Har snakket med Mia om det. Fint at de har mange arrangementer for å komme seg i gang, men viktig å passe på at det er et inkluderende tiltak, ikke alternativt opplegg.
-- William: Må de ha forslag til interne retningslinjer om de blir nodekomite?
-- Thomas: De vanskeligste i vedtektene er at det ikke er lov å lage en nodekomite som ikke er for alle.
-    - Hva er konsensus i Online om dette?
-- Milla: Mest aktuelt for de yngre trinnene
-- Anders: Skjønner ikke helt hvorfor de skal bli nodekomite, kunne vært en prosjektbasert løsning under seniorkom. Passer egentlig ikke inn i beskrivelsen av nodekomite sånn den er nå. Er ellers veldig for initiativet generelt.
-- Sindre: Har snakka med Mia om det, tror vi har tenkt gjennom komitestruktur osv litt mer enn de har.
-- William: Spørs på hvordan vi ender med å definere en nodekomite.
-- Thomas: Viktigste er at de skal kunne gjennomføre det de har lyst til.
-- Sindre: Kan ta diskusjon på det neste gang.
-
 ## 758 - Bekk ønsker insta-takeover(5 min)  
 Bekk ønsker å ha en dag med insta-takeover i forbindelse med at de har signert ny HSA med oss. Er dette noe vi vil la dem gjennomføre? Vi har jo diskutert å  ikke la bedrifter bruke instaen før vi selv er mer aktive der, men det har jo ikke skjedd noe særlig der fra vår side siste året - så jeg tenker egentlig dette er en grei måte/tid å prøve det ut på.
 
