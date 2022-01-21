@@ -22,10 +22,6 @@ Effektiv innsjekk
 
 ## 752 - Godkjenning av innkalling, servering og referat fra forrige uke  
 
-## TODOS fra forrige gang  
-
-- [x] Finne møtetid  
-
 ## 753 - Status for komiteene (20 min)  
 
 #### Arrkom:  
@@ -156,14 +152,6 @@ Bekk ønsker å ha en dag med insta-takeover i forbindelse med at de har signert
     - William: Hvis det lar seg gjøre hadde det vært hensiktismessig med et stormøte før økonomi og vedtektskvelden
     - Sindre: Per nå er det to uker igjen. Tirsdag 1.feb er økonomi og vedtektskvelden. Jeg tenker litt at økonomi og vedtektskvelden er et slags stormøte. Men vi kan ta med i blestingen at man må melde fra om saker innen x 
 
-## TODOS til neste gang
-- [ ] Tech talks må fjernes fra felleskalenderen
-- [ ] Alle tar opp PSU i sin komite
-- [ ] Anders sender mail til linjeforeninger angående linjeforeningskontorer på wikien
-- [ ] William blester vedtektskveld på face
-- [ ] Sarmi blester vedtektskveld på insta
-
 ## Møteevaluering  
-Gucci
 
 ## Diggepunkt (5 min)
