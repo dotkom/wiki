@@ -7,6 +7,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 Møtereferater
 ------------------  
+### Vår 2022
+- [2022-19-01](2021-19-01) - Godkjenning av budsjett og retro
+
 ### Høst 2021
 - [2021-23-11](2021-23-11) - Godkjenning av budsjett og retro
 - [2021-16-11](2021-11-21) - Trivselsundersøkelse
