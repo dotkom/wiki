@@ -67,11 +67,6 @@ title: "HS møte 19.01.22"
 - Har gjort forbredelser til genfors
 
 ## 754 - Interkom (10 min)  
-- Hva gjør folk med blåtur?
-    - Bedkom reiser så lenge smittetrykket er lavt og man slipper innreisekarantene
-    - Dotkom skal ha møte om det idag, folk er gira og man skal prøve
-    - Trikom, fagkom og ekskom avlyser
-    - Sindre: Viktigste er å la komiteer ta avgjørelsen selv
 
 ## 755 - En Psykt Vanlig Uke 22 (Thea, 10  min)  
 En Psykt Vanlig Uke holdes i år 14.-20. mars. De to siste årene har planleggingen fra Online sin side begynt alt for sent, så jeg tenker vi prøver å starte tidlig i år. Ønsker gjerne å snakke om hva Online kan gjøre i tillegg til at de det er relevant for tar det med videre til sin komité.  
