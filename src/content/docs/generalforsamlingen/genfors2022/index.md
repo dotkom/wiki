@@ -37,7 +37,7 @@ Referat fra generalforsamlingen 2021 finner du her: [attachment:810]
 
 Generalforsamlingen 2021 finner sted 2. mars 16:15. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
-Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
+Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret på [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
 Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen. Det vil si 16. februar 2022. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
