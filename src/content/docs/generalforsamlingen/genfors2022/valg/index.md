@@ -11,7 +11,7 @@ title: "Kandidater 2022"
 * [2022 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2022 Kandidater](/wiki/online/generalforsamlingen/genfors2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
-
+## Kandidater til verv  
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
 For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret i perioden 22/23 og Fondstyret i perioden 2022-2023. 
