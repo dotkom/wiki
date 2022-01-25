@@ -31,6 +31,10 @@ Referat fra generalforsamlingen 2021 finner du her: [attachment:810]
 
 ## Informasjon
 
+Hva: Onlines generalforsamling  
+Når: 2. mars 2022, kl. 16:15 
+Hvor: Realfagsbygget R7 
+
 Generalforsamlingen 2021 finner sted 2. mars 16:15. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret (hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
@@ -41,10 +45,7 @@ Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på g
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2022/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
-Hva: Onlines generalforsamling  
-Dato: 2. mars  
-Klokken: 16:15  
-Sted: R7 
+
 
 Vel møtt!
 
