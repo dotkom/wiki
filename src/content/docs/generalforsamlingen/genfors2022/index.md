@@ -31,9 +31,9 @@ Referat fra generalforsamlingen 2021 finner du her: [attachment:810]
 
 ## Informasjon
 
-Hva: Onlines generalforsamling  
-Når: 2. mars 2022, kl. 16:15 
-Hvor: Realfagsbygget R7 
+**Hva:** Onlines generalforsamling  
+**Når:** 2. mars 2022, kl. 16:15  
+**Hvor:** Realfagsbygget R7  
 
 Generalforsamlingen 2021 finner sted 2. mars 16:15. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
