@@ -8,7 +8,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden 2022 finner sted 01. februar kl. 16.15 i EL6 og digitalt.**  
 
-* [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden21)  
+* [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden22)  
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2022/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2022/saksforslag)
 
