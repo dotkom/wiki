@@ -2,6 +2,7 @@
 title: "Årsberetninger 2022"
 ---
 
+## Innhold  
 * [2022 Forside](/wiki/online/generalforsamlingen/genfors2022)   - Forside
 * [2022 Forretningsorden](/wiki/online/generalforsamlingen/genfors2022/forretningsorden) - Forretningsorden
 * [2022 Dagsorden](/wiki/online/generalforsamlingen/genfors2022/dagsorden) - Dagsorden for generalforsamlingen
