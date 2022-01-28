@@ -94,10 +94,6 @@ Sen innkalling og bra referat fra forrige uke. Servering godkjent!
 - IT-dagene kontrakt:
     - William sender mail til IT-dagene fyren
 
-- Hyttetur:
-    - Mari: Hvem vil vi ha med på hyttetyr?
-    - William: kjernekomite,nodekomité. Tenker alle komiteer som har leder
-
 - Økonomi- og vedtektskved:
     - Sindre: Skal vi legge rette for de som ikke kan være med fysiskt?
     - Alle: Ja
