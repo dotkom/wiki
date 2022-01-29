@@ -30,10 +30,10 @@ _Hvorfor? Per nå tar det ganske lang tid å bli handlingsdyktige som et helt fe
 
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Hvilke verv som utlyses er avhengig av hvilken generalforsamling det er.
 
-Ved vår-generalforsamlingen utlyses:
-- Leder
-- Nestleder
-- Økonomiansvarlig
+Ved vår-generalforsamlingen utlyses:     
+- Leder     
+- Nestleder     
+- Økonomiansvarlig     
 
-Ved høst-generalforsamlingen utlyses:
+Ved høst-generalforsamlingen utlyses:     
 - Øvrige styrerepresentanter
