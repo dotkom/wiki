@@ -26,7 +26,7 @@ Referat fra generalforsamlingen 2021 finner du her: [attachment:810]
 
 ## Regnskap 2021 og budsjett 2022
 
-- Regnskap:  
+- Regnskap:  [Regnskap 2021](https://docs.google.com/spreadsheets/d/1wVNlsrpw4V_2adJ1IZ6zKffui2cRvxKAjz0wqirjm3c/edit?usp=sharing) 
 - Budsjett: 
 
 ## Informasjon
