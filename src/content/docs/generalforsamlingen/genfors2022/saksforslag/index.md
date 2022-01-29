@@ -21,4 +21,17 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag 
 
-## Sak 1 - Fokus på miljø i organisasjonen (Hovedstyret)
+## Sak 1 - Fokus på miljø i organisasjonen (Henrik Moe Wæhre og Thea Karin Fladby)
+
+### Bakgrunn
+Online er en linjeforening med høyt forbruk, og per dags dato blir det tatt lite hensyn til miljø og klima i linjeforeningen. Eventuelle endringer og tiltak i en så stor linjeforening mener vi kan utgjøre en ganske stor effekt på miljøet.
+
+### Forslag
+Onlines komiteer skal utarbeide tiltak for å gjøre komiteens drift mer miljøvennlig.
+
+Hver komité i Online, både node- og kjernekomiteer, skal utarbeide tiltak eller retningslinjer som har som hensikt å gjøre komiteens drift mer miljøvennlig. Tiltakene, og hvordan gjennomføringen har gått, skal så presenteres på neste års Generalforsamling sammen med årsberetningene. 
+
+#### Eksempler på tiltak:
+- Ha større andel vegetarmat på arrangementer
+- Ha klimaavtrykk i fokus når transportmiddel velges
+- Mer gjenbruk av ting og utstyr i boden
