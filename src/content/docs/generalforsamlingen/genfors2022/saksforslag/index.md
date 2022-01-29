@@ -31,7 +31,7 @@ Onlines komiteer skal utarbeide tiltak for å gjøre komiteens drift mer miljøv
 
 Hver komité i Online, både node- og kjernekomiteer, skal utarbeide tiltak eller retningslinjer som har som hensikt å gjøre komiteens drift mer miljøvennlig. Tiltakene, og hvordan gjennomføringen har gått, skal så presenteres på neste års Generalforsamling sammen med årsberetningene. 
 
-#### Eksempler på tiltak:
+**Eksempler på tiltak:**
 - Ha større andel vegetarmat på arrangementer
 - Ha klimaavtrykk i fokus når transportmiddel velges
 - Mer gjenbruk av ting og utstyr i boden
