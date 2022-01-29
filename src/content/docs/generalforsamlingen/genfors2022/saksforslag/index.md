@@ -21,4 +21,4 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag 
 
-## Sak X - Sakstittel (Saksfremmer)
+## Sak 1 - Fokus på miljø i organisasjonen (Hovedstyret)
