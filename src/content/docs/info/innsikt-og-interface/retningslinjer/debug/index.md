@@ -6,9 +6,9 @@ title: "Retningslinjer Debug"
 Debugs formål er å gi linjeforeningens medlemmer et verktøy for å håndtere saker som oppleves krevende for medlemmer av linjeforeningen. 
 
 ### §2 Debugs sammensetning 
-Debug består av følgende medlemmer: 
- - Leder  
- - Og øvrige medlemmer  
+Debug består av følgende medlemmer:   
+ - Leder    
+ - Og øvrige medlemmer    
  
 Det skal etterstrebes at Debug sammensetning skal reflektere medlemsmassen i Online. 
 
