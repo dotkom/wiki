@@ -24,6 +24,8 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 _Hvorfor? Per nå tar det ganske lang tid å bli handlingsdyktige som et helt ferskt styre, og det går mye tid til å lære seg the basics. Ved å sikre at halve styret sitter på 6 måneder erfaring når resten kommer inn, vil dette forbedres betraktelig. Det vil også gjøre erfaringsoverføringen mer garantert, da styret ikke er avhengig av at tidligere styremedlemmer er i stor grad tilgjengelig for spørsmål og svar. Det vil være lettere å holde en rød tråd i styrets arbeid, som gjør at prosjekter som varer over lengre tid er enklere å gjennomføre som styre._
 
+### Endringer
+
 **Ny paragraf:**
 
 **4.1.4 Valg av Hovedstyret**
