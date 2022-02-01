@@ -103,8 +103,7 @@ Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomi
 
 **Med:**
 
-Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. mai. I tillegg har bank- og økonomikomiteen mulighet til å revidere budsjettet for høsten, mellom 1.mai og 1.september. Det reviderte budsjettet skal godkjennes av Hovedstyret innen 10.september.
-
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
 
 
 
