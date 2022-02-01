@@ -286,24 +286,24 @@ Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud
 ## Fondet forslag 01 - Ta i bruk styringsdokument for Fondstyret  (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Motivasjonen bak denne endringen er hovedsakelig at det nye styredokumentet endelig vil gjøre det mulig for Fondstyret å investere deler fondets kapital inn i diverse indeksfond, som etter tid vil øke midlene vi har tilgjengelig å gi ut og bruke i Online. Grunnen til at styredokumentet er separert fra vedtektene er fordi det er vanskelig å sette maksgrenser på hvor mye midler vi kan gi ut hvert år, når fondet vokser så fort som det har gjort._
 
-
+Forslag til fondets styredokument finnes [er](https://drive.google.com/file/d/1AhxnrynA9znDXXqOxFVcZo2-PQC-Liff/view)
 
 **Endringer:**
 **6 Økonomi**
 
-**Erstatte:**
-6.1 Fondets plassering
+**Erstatte:**  
+6.1 Fondets plassering  
 Fondet er plassert på en egen høyrentekonto som disponeres av Online, og som er separert fra den daglige driften av Online.
 
-6.2 Fondets inntekter
+6.2 Fondets inntekter  
 Fondet henter sine inntekter fra Online. Størrelsen på overføringer fastsettes av Onlines generalforsamling.
 
-6.3 Fondets størrelse
+6.3 Fondets størrelse  
 Fondets størrelse skal minimum være på 50 000 kr. Det er ingen øvre grense.
 
-**Med:**
-6.1 - Styring av fondet
+**Med:**  
+6.1 - Styring av fondet  
 Fondets økonomi styres i samsvar med Fondstyrets styredokument. 
 
-6.2 - Endring av styredokumentet
+6.2 - Endring av styredokumentet  
 Fondstyret kan når som helst endre styredokumentet, men enhver endring krever godkjenning fra både Hovedstyret og Bank- og Økonomikomiteen.
