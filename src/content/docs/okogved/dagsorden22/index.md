@@ -3,7 +3,7 @@ title: "Dagsorden"
 ---
 
 | Start | Tid | Slutt | Sak |
-|---|---|---|---|
+|------|------|------|------|
 | 16:15 | 5 | 16:20 | Velkomst v/ Sindre Langaard |
 | 16:20 | 5 | 16:25 | Utpekelse av ordstyrer |
 | 16:25 | 25 | 16:50 | Gjennomgang regnskap v/Milla Weium og Duvara Nishaharan |
