@@ -22,7 +22,7 @@ title: "Dagsorden"
 | 19:45 | 15 | 20:00 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
 | 20:00 | 15 | 20:15 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
 | 20:15 | 10 | 20:25 | Pause |
-
+| 20:25 | 20:35 | 10 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
 
 --- 
 Oppdateres
