@@ -29,8 +29,8 @@ title: "Dagsorden"
 | 21:30 | 15 | 21:45 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
 | 21:45 | 15 | 22:00 | Vedtekstforslag 13: FeminIT som nodekomite |
 | 22:00 | 10 | 22:10 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
-| 22:10 | 10 | 22:20 | Fondet vedtektsforslag: 01: Ta i bruk Fondets styringsdokument |
-| 22:20 | 10 | 22:30 | Møteevaluering |
+| 22:10 | 20 | 22:30 | Fondet vedtektsforslag: 01: Ta i bruk Fondets styringsdokument |
+| 22:30 | 10 | 22:40 | Møteevaluering |
 
 
 --- 
