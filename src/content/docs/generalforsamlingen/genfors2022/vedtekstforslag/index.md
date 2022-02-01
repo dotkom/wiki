@@ -216,11 +216,7 @@ Komiteens oppgave er å organisere idrettsgrupper og idrettsarrangementer for li
 
 ## Forslag 11 - Definisjon på nodekomité (Sindre Langaard)
 
-_Hvorfor? Forskjellen mellom kjernekomiteer og nodekomiteer er vagt og mangler et tydelig skille. OIL ønsker å bli kjernekomite. Da er det kun Appkom som **IKKE** er sesongbasert av nodekomiteene. Det kan være et mulig tydelig skille mellom hva en kjernekomite er og hva en nodekomite er._
-
-_Tidligere har nyekomiteer blitt opprettet som nodekomiteer fordi det ikke var noen annen naturlig løsning på hvor man skal plassere nyoppstartede ideer. Etter omstruktureringen av Seniorkom -> Backlog er det naturlig å plasserer nye grupperinger der for å "test the water"._
-
-_Organisasjonsstrukturen til Online består av kjernekomiteer, nodekomiteer og grupper med tilknytning Online. Forskjellene mellom kjerne- og nodekomiteer er vag, og vi vil gjerne sette et tydligere skille. Tidligere har ikke organisasjonen hatt en satt måte å håndtere utvidelser med nye komiteer. Etter omorganiseringen av Seniorkom -> Backlog er det nå mulig å opprette grupperinger som kan "test the waters" for nye ideer til prosjekter/komiteer. 4/6 nodekomiteer er i dag "sesongbasert" (velkom, ekskom, itex, jubkom) og de to siste er OIL og Appkom._
+_Hvorfor? Forskjellen mellom kjernekomiteer og nodekomiteer er vagt og mangler et tydelig skille. OIL ønsker å bli kjernekomite. Da er det kun Appkom som **IKKE** er sesongbasert av nodekomiteene. Det kan være et mulig tydelig skille mellom hva en kjernekomite er og hva en nodekomite er. Tidligere har nye komiteer blitt opprettet som nodekomiteer fordi det ikke var noen annen naturlig løsning på hvor man skal plassere nyoppstartede ideer til komiteer. Etter omstruktureringen av Seniorkom -> Backlog er det naturlig å plasserer nye grupperinger der for å "test the water", før man potensielt gjør dem til kjernekomiteer/nodekomiteer ut i fra hva som passer._
 
 
 **Endringer:**
@@ -230,7 +226,7 @@ _Organisasjonsstrukturen til Online består av kjernekomiteer, nodekomiteer og g
 En nodekomite er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 **Med:**
-En nodekomite virker sesongbasert og starter opp for e. Nodekomiteer underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+En nodekomite sitt virke er sesongbasert. Nodekomiteer underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 
 ## Forslag 12 - Applikasjonskomiteen som kjernekomite (Mari Lehne, Sarmi Ponnuthurai)
