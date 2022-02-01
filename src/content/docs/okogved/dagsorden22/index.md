@@ -24,5 +24,5 @@ title: "Dagsorden"
 | 20:15 | 10 | 20:25 | Pause |
 
 
-
-Oppdateres fortsatt
+--- 
+Oppdateres
