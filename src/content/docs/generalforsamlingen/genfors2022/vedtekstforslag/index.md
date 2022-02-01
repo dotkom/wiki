@@ -180,7 +180,7 @@ Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniork
 Disse grupperingene formulerer sine egne retningslinjer og godkjennes av backlog.
 
 ## Forslag 9 - Begrense flere kjernekomiteverv samtidig (Hovedstyret)  
-_Hvorfor? For å kunne tilby flere et verv i linjeforeninger vår og unngå interessekonflikter mellom roller i verv ønsker vi å vedtekstfeste at man skal unngå å ha flere kjernekomiteverv samtidig. Ved behov, mangel på medlemmer eller andre grunner kan hovedstyret fortsatt godkjenne verv i flere kjernekomiteer. Går utenom Bankom og Seniorkom/Backlog.
+_Hvorfor? For å kunne tilby flere et verv i linjeforeninger vår og unngå interessekonflikter mellom roller i verv ønsker vi å vedtekstfeste at man skal unngå å ha flere kjernekomiteverv samtidig. Ved behov, mangel på medlemmer eller andre grunner kan hovedstyret fortsatt godkjenne verv i flere kjernekomiteer. Går utenom Bankom og Seniorkom/Backlog._
 
 **Endring:**
 
