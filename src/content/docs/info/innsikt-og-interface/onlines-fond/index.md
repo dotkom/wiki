@@ -29,6 +29,10 @@ Dette skal være med i søknaden:
 
 Søknader sendes til: fond@online.ntnu.no
 
+## Styredokument
+
+Fondstyrets _potensielle_ styredokument kan man finne [her](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/).
+
 ## Oversikt over godkjente søknader
 
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
