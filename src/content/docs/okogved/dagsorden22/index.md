@@ -17,6 +17,10 @@ title: "Dagsorden"
 | 18:40 | 20 | 19:00 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
 | 19:00 | 20 | 19:20 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
 | 19:20 | 10 | 19:30 | Pause |
-
+| 19:20 | 19:30 | 10 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
+| 19:30 | 19:45 | 15 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
+| 19:45 | 20:00 | 15 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
+| 20:00 | 20:15 | 15 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
+| 20:15 | 20:25 | 10 | Pause |
 
 Oppdateres fortsatt
