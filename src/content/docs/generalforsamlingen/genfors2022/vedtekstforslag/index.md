@@ -87,7 +87,7 @@ _Hvorfor? Å stemme over budsjettoverskridelser krever at man er oppdatert på l
 
 
 
-## Forslag 4 - Endre frist for revidering av budsjett(Milla Weium, Thomas Hasvold)
+## Forslag 4 - Endre frist for revidering av budsjett (Milla Weium, Thomas Hasvold)
 _Hvorfor? For å sikre at Online sine midler blir brukt er det viktigt at budsjette blir revidert før vår og høst. Bankom vil revidere, regnskapsfører og se hvilke midler som ikke har blitt brukt. Hovedstyret godkjenner det reviderte budsjettforslaget bankom presenterer i lik linje med budsjette som presenteres i budsjettskveld._ 
 
 **Eksempel 1:** _Arrkom har ikke brukt 20k på arrangementer posten. Dette flyttes til arrangementer posten arrkom høst._
@@ -138,7 +138,7 @@ _Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i se
 
 Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt. 
 
-## Forslag 7 - Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (Debug, fremmes dersom forslag 6 faller)
+## Forslag 7 - Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (Debug)
 
 **Fremmes dersom forslag 5/6 faller**
 
