@@ -121,7 +121,7 @@ _Hvorfor? Debug har etablert seg som en gruppering med medlemmer og leder, og ha
 Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør komitéledervalg i 4.2.
 
 
-## Forslag 6 - Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen. (Debug)(Fremmes dersom forslag 8 går gjennom)
+## Forslag 6 - Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen. (Debug)(Fremmes dersom forslag 5 går gjennom)
 
 _Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Derfor foreslår vi å gjøre leder av Debug til linjeforeningens hovedtillitsvalgt, og gi denne personen ansvaret for de tillitsvalgte i komiteene._
 
@@ -135,7 +135,7 @@ _Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i se
 
 Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt. 
 
-## Forslag 7 - Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen.(Debug)(Fremmes dersom forslag 9 faller)
+## Forslag 7 - Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen.(Debug)(Fremmes dersom forslag 6 faller)
 
 _Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Dersom denne personen ikke er leder av Debug, foreslår vi at personen velges under generalforsamlingen. Det er viktig at medlemmene av linjeforeningen kan stå inne for personen, og at den ikke har direkte tilknytning til styret._
 
