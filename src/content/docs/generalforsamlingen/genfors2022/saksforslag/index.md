@@ -47,7 +47,7 @@ I løpet av 2021 støttet fondet aktivitet for 162 000 kr (Åre og Jubileum). P�
 Overføre 200 000 kroner til Onlines Fond
 
 
-## Sak 3 - Flytte makten til å gjøre endringer i budsjettet til Bankom (Milla Weium og Thomas Hasvold)
+## Sak 3 - Flytte makten til å gjøre mindre endringer i budsjettet til Bankom (Milla Weium og Thomas Hasvold)
 
 **Bakgrunn:**
 Budsjettreglmenentet tillatter mindre endringer i budsjettet under Hovedstyrets ordinære møter. I dag må endringene godkjennes av Hovedstyret før Bankom kan gjøre noen endringer. Vi vil flytte denne maketen til Bankom, da det er bankom som har innsyn og best forutsetninger for å ta den avgjørelsen. I Bankom er komiteene representert slik at de kan komme med innspill. Det vil gjøre at mindre justeringer i budsjettet kan vedtas uten ekstra godkjenning av Hovedstyret. Endringer skal presenteres for Hovedstyret.
