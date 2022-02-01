@@ -104,3 +104,78 @@ Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomi
 **Med:**
 
 Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. mai. I tillegg har bank- og økonomikomiteen mulighet til å revidere budsjettet for høsten, mellom 1.mai og 1.september. Det reviderte budsjettet skal godkjennes av Hovedstyret innen 10.september.
+
+
+
+
+## Forslag 5 - Legge Debug inn under “4.4 Andre grupper tilknyttet Online”
+_Hvorfor? Debug har etablert seg som en gruppering med medlemmer og leder, og har fått startet opp ordentlig det siste året. Grupperingen står foreløpig ikke i vedtektene, men er i praksis en uavhengig del av Online, med retningslinjer og gjensidig intensjonsavtale med Hovedstyret. Derfor ønsker Debug at dets eksistens skal reflekteres i vedtektene, på lik linje med andre uavhengige grupperinger som Output og Realfagskjelleren. Vi ønsker også at generalforsamlingen skal ha mulighet til å godkjenne leder, da denne personen har et spesielt viktig ansvar overfor linjeforeningens medlemmer._
+
+**Endringer:**
+
+**4.4 Andre grupper tilknyttet Online**
+
+**Legg til:**  
+
+**4.4.5 Debug**
+
+Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør komitéledervalg i 4.2.
+
+
+## Forslag 6 - Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen. (Fremmes dersom forslag 8 går gjennom)
+
+_Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Derfor foreslår vi å gjøre leder av Debug til linjeforeningens hovedtillitsvalgt, og gi denne personen ansvaret for de tillitsvalgte i komiteene._
+
+**Endringer:**
+
+**4.4 Andre grupper tilknyttet Online**
+
+**Legge til:**
+
+**4.4.5 Debug**
+
+Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt. 
+
+## Forslag 7 - Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen. (Fremmes dersom forslag 9 faller)
+
+_Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Dersom denne personen ikke er leder av Debug, foreslår vi at personen velges under generalforsamlingen. Det er viktig at medlemmene av linjeforeningen kan stå inne for personen, og at den ikke har direkte tilknytning til styret._
+
+**Endringer:**
+
+**§4 Struktur, ledelse og organisasjon**
+
+**Legge til:**
+
+**4.10 Hovedtillitsvalgt**
+
+Hovedtillitsvalgt for linjeforeningen har ansvar for de tillitsvalgte i linjeforeningens komiteer, og velges på generalforsamlingen.
+
+
+
+## Forslag 8 - Seniorkomiteens navn endres til backlog
+_Hvorfor? Seniorkom har hatt en strukturell endring i hvordan komiteen operere. Komiteen har ikke lengre et opptakskrav om aktivt verv i fire semestre i Online. Den nye strukturen gjør at komiteen er sammensatt av flere prosjekter. Nye medlemmer søker seg ikke direkte inn til komiteen, men heller til et prosjekt. Seniorkom ønsker på bakgrunn av alt dette å endre navn til Backlog._
+
+**Endringer:**
+
+**4.2 Kjernekomiteer**
+
+**Erstatt:**
+
+**4.2.8 Seniorkomiteen**
+Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Leder av Seniorkomiteen godkjennes av Hovedstyret. Komiteens navn forkortes seniorkom.
+
+**Med:**
+
+**4.2.8 Backlog**
+Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i
+linjeforeningens daglige drift. Komiteens medlemmer skal primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4) semester. Leder av backlog godkjennes av Hovedstyret.
+
+---
+
+**4.5 Interessegrupper**
+
+**Erstatt:**
+Disse grupperingene formulerer sine egne retningslinjer og godkjennes av seniorkomiteen.
+
+**Med:**
+Disse grupperingene formulerer sine egne retningslinjer og godkjennes av backlog.
