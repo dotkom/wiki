@@ -36,3 +36,30 @@ Hver komité i Online, både node- og kjernekomiteer, skal utarbeide tiltak elle
 - Ha større andel vegetarmat på arrangementer
 - Ha klimaavtrykk i fokus når transportmiddel velges
 - Mer gjenbruk av ting og utstyr i boden
+
+
+## Sak 2 - Overføre midler til fondet (Milla Weium og Duvara Nishaharan)
+
+**Bakgrunn**
+I løpet av 2021 støttet fondet aktivitet for 162 000 kr (Åre og Jubileum). På bakgrunn av Onlines regnskapsår for 2021, likvide midler og driftsresultatet, foreslås det å overføre 200 000 kr til fondet.
+
+**Forslag**
+Overføre 200 000 kroner til Onlines Fond
+
+
+## Sak 3 - Flytte makten til å gjøre endringer i budsjettet til Bankom (Milla Weium og Thomas Hasvold)
+
+**Bakgrunn:**
+Budsjettreglmenentet tillatter mindre endringer i budsjettet under Hovedstyrets ordinære møter. I dag må endringene godkjennes av Hovedstyret før Bankom kan gjøre noen endringer. Vi vil flytte denne maketen til Bankom, da det er bankom som har innsyn og best forutsetninger for å ta den avgjørelsen. I Bankom er komiteene representert slik at de kan komme med innspill. Det vil gjøre at mindre justeringer i budsjettet kan vedtas uten ekstra godkjenning av Hovedstyret. Endringer skal presenteres for Hovedstyret.
+
+**Forslag til endring:**
+
+**Budsjettreglement for Online**
+
+**Erstatte:**
+
+Hovedstyret har muligheten til å godkjenne mindre endringer i budsjettet på ordinære styremøter
+
+**Med:**
+
+Bankom har muligheten til å godkjenne mindre endringer i budsjettet på ordinære møter. Alle godkjente endringer må presenteres for Hovedstyret
