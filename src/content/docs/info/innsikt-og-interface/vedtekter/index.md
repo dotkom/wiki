@@ -11,6 +11,8 @@ Gjeldende vedtekter for Online: [attachment:816 title:"Onlines vedtekter" size]
 Gjeldende vedtekter for Onlines fond: [attachment:637 title:"Fondets vedtekter" size]  
 
 ## Ekskursjonskomiteen vedteker 
+Ekskursjonskomiteens vedtekter ble sist oppdatert 24. september 2020.  
+
 Gjeldende vedtekter for ekskom:[attachment:815 title:"Ekskom vedtekter" size]  
 
 ### Komiteenes retningslinjer
