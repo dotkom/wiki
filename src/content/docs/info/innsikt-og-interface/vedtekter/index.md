@@ -12,7 +12,7 @@ Fondets vedtekter ble sist endret 11. mars 2019.
 
 Gjeldende vedtekter for Onlines fond: [attachment:637 title:"Fondets vedtekter" size]  
 
-## Ekskursjonskomiteen vedteker 
+## Ekskursjonskomiteens vedteker 
 Ekskursjonskomiteens vedtekter ble sist oppdatert 24. september 2020.  
 
 Gjeldende vedtekter for ekskom:[attachment:815 title:"Ekskom vedtekter" size]  
