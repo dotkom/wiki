@@ -3,7 +3,7 @@ title: "Vedtekter"
 ---
 
 ## Onlines vedtekter  
-Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å møte opp for å stemme over nye ledere for respektive komiteer, nestleder og leder, samt over nye saksforslag og vedtekter. Onlines vedtekter finnes og så på [GitHub](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf)    
+Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å møte opp for å stemme over nye ledere for respektive komiteer, nestleder og leder, samt over nye saksforslag og vedtekter. Onlines vedtekter finnes og så på [GitHub](https://github.com/dotkom/Onlines_Vedtekter)    
 
 Gjeldende vedtekter for Online: [attachment:816 title:"Onlines vedtekter" size]  
 
