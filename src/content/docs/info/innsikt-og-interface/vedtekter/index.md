@@ -8,6 +8,8 @@ Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å
 Gjeldende vedtekter for Online: [attachment:816 title:"Onlines vedtekter" size]  
 
 ## Fondets vedtekter
+Fondets vedtekter ble sist endret 11. mars 2019.  
+
 Gjeldende vedtekter for Onlines fond: [attachment:637 title:"Fondets vedtekter" size]  
 
 ## Ekskursjonskomiteen vedteker 
