@@ -14,7 +14,7 @@ title: "Kandidater 2022"
 ## Kandidater til verv  
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
-For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret i perioden 22/23 og Fondstyret i perioden 2022-2023. 
+For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret i perioden 2022-2023 og Fondstyret i perioden 2022-2023. 
 
 Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under generalforsamlingen.  
 
