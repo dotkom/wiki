@@ -11,6 +11,7 @@ Her finner dere gjeldende vedtekter: [Vedtekter, (sist endret generalforsamling 
 Her finner dere gjeldende vedtekter for Onlines fond: [attachment:637]	
 
 ## Ekskoms vedteker 
+Her finner dere gjeldende vedtekter for Ekskursjonskomiteen:[attachment:815 title:"Ekskom vedtekter" size].  
 
 ### Komiteenes retningslinjer
 Utover vedtektene har hver komité et sett med retningslinjer. De finnes [her](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/).
