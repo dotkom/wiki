@@ -12,6 +12,7 @@ title: "Generalforsamlingen 2022"
 * [2022 Kandidater](/wiki/online/generalforsamlingen/genfors2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
+Presentasjon: [Generalforsamling 2022](https://docs.google.com/presentation/d/1FrkcYeZrzaAwKnOl6F_Yj9NcrcRok5nhUwZRQhoAu90/edit?usp=sharing)
 Onlines vedtekter:  
 Onlines fonds vedtekter:  
 Referat 2022:  
