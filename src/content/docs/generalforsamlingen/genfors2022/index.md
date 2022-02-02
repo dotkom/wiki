@@ -29,10 +29,10 @@ Referat Generalforsamlingen 2021: [attachment:810]
 ## Informasjon
 
 **Hva:** Onlines generalforsamling  
-**Når:** 2. mars 2022, kl. 16:15  
+**Når:** 2. mars 2022, kl. 16:30  
 **Hvor:** Realfagsbygget R7  
 
-Generalforsamlingen 2021 finner sted **2. mars 16:15 i R7**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen 2021 finner sted **2. mars 16:30 i R7**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret på [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
