@@ -18,7 +18,7 @@ Onlines fonds vedtekter:
 Referat 2022:  
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf)  
+Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [attachment:808]  
 Referat Generalforsamlingen 2021: [attachment:810]  
 
