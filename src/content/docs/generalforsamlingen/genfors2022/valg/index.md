@@ -27,7 +27,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra bedkom:*  
 * *Styremedlem fra dotkom:* 
 * *Styremedlem fra fagkom:* Karan Singh Sandhu
-* *Styremedlem fra prokom:*
+* *Styremedlem fra prokom:* Sondre Aune Stokke
 * *Styremedlem fra trikom:*
 
 **De som har meldt interesse til Fondstyret er:**
