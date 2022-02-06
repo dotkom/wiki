@@ -23,9 +23,9 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Leder:* 
 * *Nestleder:* 
 * *Økonomiansvarlig:* 
-* *Styremedlem fra arrkom:*
+* *Styremedlem fra arrkom:* Maiken Lie  
 * *Styremedlem fra bedkom:*  
-* *Styremedlem fra dotkom:*
+* *Styremedlem fra dotkom:* 
 * *Styremedlem fra fagkom:* Karan Singh Sandhu
 * *Styremedlem fra prokom:*
 * *Styremedlem fra trikom:*
