@@ -51,7 +51,6 @@ Tilhørende wikisider
 | [Notelinjeforeningen](http://notelinja.wordpress.com/) | | Utøvende musikk | | [Page](http://fb.com/pages/Notelinjeforeningen/206686876172728) | notelinja@gmail.com |
 | [Paideia Fadder](http://pedfadder.no/), [Paideia](http://paideiantnu.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideiantnu@gmail.com |
 | [Panoptikon](http://panoptikon.blogg.no/) | | Master STS/KKS, Årsstudium STS | | [Page](http://fb.com/panoptikonlinjeforening) | offisielle.panoptikon@gmail.com|
-| [Pareto](http://pareto-ntnu.no) | | Samfunnsøkonomi | | [Page](http://fb.com/paretolinjeforening), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) | pareto.linjeforening@gmail.com |
 | [Primetime](http://www.primetime.trondheim.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997373197) | Medievitenskap | | [Page](http://fb.com/primetime.ntnu) | primetime.ntnu@gmail.com |
 | [Psi](http://www.psintnu.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990282021) | Psykologi | | [Page](http://fb.com/psi.linjeforening) | psi.linjeforening@gmail.com |[Psykologisk tidsskrift](http://psykologisktidsskrift.no)|
 | [pStimulus](http://limp.webs.com/) | | Master i psykologi | | [Page](http://fb.com/LinjeforeningForMasterIPsykologi) | pstimulus@gmail.com |[Psykologisk tidsskrift](http://psykologisktidsskrift.no)|
