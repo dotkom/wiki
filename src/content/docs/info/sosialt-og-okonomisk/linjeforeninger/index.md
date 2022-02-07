@@ -65,7 +65,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [TIHLDE](http://www.tihlde.org) (1993) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Digital Forretningsutvikling, Digital Infrastruktur og Cybersikkerhet, og Digital Samhandling | Styrebånd (blå med sølvkant) | [A3-116](https://use.mazemap.com/#v=1&zlevel=3&center=10.404638,63.415431&zoom=20.1&campusid=1&sharepoitype=poi&sharepoi=72902&utm_medium=longurl) | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/), [Group](https://www.facebook.com/groups/507122389791558/) | Tøddel
 | Antidot (2020) |  | Farmasi |  |  | antidot.ntnu@gmail.com | | 
 | Ægir (2020) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925625396) | Havbruksingeniør |  | [Kontor](https://link.mazemap.com/d7gTvFxU) | styret@aegirlinjeforening.com |
-| [Tim&Shænko](https://www.facebook.com/Timogshaenko/?ref=pages_you_manage) (1999) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Blått med hvit stripe | [Byggteknisk](https://link.mazemap.com/RFPdeFxz) | |
+| Tim&Shænko (1999) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Blått med hvit stripe | [Byggteknisk](https://link.mazemap.com/RFPdeFxz) | | [Facebook](https://www.facebook.com/Timogshaenko/?ref=pages_you_manage) | 
 
 ## Masterforeninger
 
