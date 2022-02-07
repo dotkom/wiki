@@ -64,7 +64,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Fraktur](http://www.facebook.com/frakturno/) (2009) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993803367) | Radiograf | | [MTFS, Grupperom 5](https://use.mazemap.com/#v=1&left=10.3917226&right=10.3942717&top=63.4207009&bottom=63.4201401&zlevel=2&sharepoitype=poi&sharepoi=70828&campusid=3) | | [Page](http://www.facebook.com/frakturno/) | |
 | [TIHLDE](http://www.tihlde.org) (1993) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=989684183) | Dataingeniør, Digital Forretningsutvikling, Digital Infrastruktur og Cybersikkerhet, og Digital Samhandling | Styrebånd (blå med sølvkant) | [A3-116](https://use.mazemap.com/#v=1&zlevel=3&center=10.404638,63.415431&zoom=20.1&campusid=1&sharepoitype=poi&sharepoi=72902&utm_medium=longurl) | hs@tihlde.org | [Page](https://www.facebook.com/tihlde/), [Group](https://www.facebook.com/groups/507122389791558/) | Tøddel
 | Antidot (2020) |  | Farmasi |  |  | antidot.ntnu@gmail.com | | 
-| Ægir (2020) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925625396) | Havbruksingeniør |  | [Kontor](https://link.mazemap.com/d7gTvFxU) | styret@aegirlinjeforening.com |
+| Ægir (2020) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925625396) | Havbruksingeniør | Maringrønn med lyseblåstripe i midten | [NV-gangen](https://link.mazemap.com/d7gTvFxU) | styret@aegirlinjeforening.com | [Page](https://www.facebook.com/aegirntnu) |
 | Tim&Shænko (1999) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Blått med hvit stripe | [Byggteknisk](https://link.mazemap.com/RFPdeFxz) | | [Facebook](https://www.facebook.com/Timogshaenko/?ref=pages_you_manage) | 
 
 ## Masterforeninger
