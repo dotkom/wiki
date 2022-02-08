@@ -357,7 +357,7 @@ Nye interessegrupper:
 - Martin Skatvedt og Fredrik Skaug valgt som ny leder og nestleder av appkom  
 - totalt frafall: 2  
 
-## Ekskursjonskomiteen 2020
+## Ekskursjonskomiteen 2021
 _De som planla til tur 2021_
 
 **Høst 2019**
