@@ -68,7 +68,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Tim&Shænko](http://www.bygging.no/) (1999) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Blått med hvit stripe | [Byggteknisk](https://link.mazemap.com/RFPdeFxz) | | [Facebook](https://www.facebook.com/Timogshaenko/?ref=pages_you_manage) | 
 | [Pareto](http://pareto-ntnu.no) (1993) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912807177) | Samfunnsøkonomi | Mørkeblått med hvit stripe | [Handels](https://link.mazemap.com/ikjGxAGW) | pareto.linjeforening@gmail.com | [Page](https://www.facebook.com/paretolinjeforening/), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) |
 | Nucleus (2009) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | Mørk og lys lilla | [Laboratoriesenteret](https://link.mazemap.com/ewKejhmU ) | nucleuslinjeforening@gmail.com | [Page](https://www.facebook.com/nucleuslinjeforening) | |
-| [STØH](http://www.sftoh.no) (1967) | Brreg | Studentforeningen for Handelshøyskolen | lyseblått og mørkeblått | [Adolf Øiens bygg](https://link.mazemap.com/Wiz9OvNy) | Rustblekka | ]
+| [STØH](http://www.sftoh.no) (1967) | Brreg | Studentforeningen for Handelshøyskolen | lyseblått og mørkeblått | [Adolf Øiens bygg](https://link.mazemap.com/Wiz9OvNy) | Rustblekka | |
 
 
 ## Masterforeninger
