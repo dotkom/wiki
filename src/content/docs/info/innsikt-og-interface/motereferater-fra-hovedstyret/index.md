@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
+- [2022-09-02](2022-09-02) - Statusoppdateringer
 - [2022-02-02](2022-02-02) - Vedtektskveld retro og genforsplanlegging
 - [2022-26-01](2022-26-01) - Siste møtet før økonomi- og vedtektskveld
 - [2022-19-01](2022-19-01) - En Psykt Vanlig Uke og insta-takeover
