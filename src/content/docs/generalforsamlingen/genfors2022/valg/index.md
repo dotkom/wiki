@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:* 
 * *Nestleder:* 
-* *Økonomiansvarlig:* 
+* *Økonomiansvarlig:* Henrik Horten Hegli
 * *Styremedlem fra arrkom:* Maiken Lie  
 * *Styremedlem fra bedkom:*  
 * *Styremedlem fra dotkom:* 
