@@ -20,7 +20,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder:* 
+* *Leder:* Anders Robstad
 * *Nestleder:* 
 * *Økonomiansvarlig:* Henrik Horten Hegli
 * *Styremedlem fra arrkom:* Maiken Lie  
@@ -43,5 +43,5 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Bedkomleder:*
 * *Dotkomleder:*
 * *Fagkomleder:*
-* *Prokomleder:* Christina Oftedal
+* *Prokomleder:*
 * *Trikomleder:*
