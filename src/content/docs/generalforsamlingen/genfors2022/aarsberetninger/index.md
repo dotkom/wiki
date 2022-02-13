@@ -82,5 +82,21 @@ title: "Årsberetninger 2022"
 
 
 ## FeminIT
+### Generelt
+- FeminIT startet høsten 2021
+- Startet med 3 stk stk som har driftet gruppa frem til Februar
+
+### Høst 2021
+- Har hatt 3 arrangementer, med godt oppmøte og gode tilbakemeldinger
+- Opprettet egen facebook-side for FeminIT 
+
+### Vår 2021
+- Et arrangement med gode tilbakemeldinger
+- Tatt opp nye medlemmer
+
+### Videre fremover
+- Skal fortsette å ha arrangementer og skape et godt miljø for jenter og ikke-binær på informatikk
+- Skal jobbe for å finne vår plass i Online 
+
 
 ## Fondstyret
