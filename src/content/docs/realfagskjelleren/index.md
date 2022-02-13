@@ -36,8 +36,8 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 ## Onlinere i Kjellerstyret
 ###2021/2022
 * Nicolai Dalaaker (Kjellerkontakt)
-* Martin Skatvedt (Barsjef)
-* Tor Jacob Neple (Økonomisjef)
+* Martin Skatvedt (Nestleder)
+* Tor Jacob Neple (Økonomiansvarlig)
 * August Skarfjord Nyheim
 * Elin Bjerve
 * Magnus Byrkjeland
@@ -58,7 +58,7 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 
 
 ###2018/2019
-* Sigurd Oxaas Wie (Økonomisjef)
+* Sigurd Oxaas Wie (Økonomiansvarlig)
 * Sander Lindberg  (Kjellerkontakt)
 * Ida Høyland
 * Nicolai Dalaaker
@@ -68,7 +68,7 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 
 * Martin Bjerke (Kjellerkontakt Høst)
 * Andreas F. Eikeland (Kjellersjef)
-* Sigurd Oxaas Wie (Økonomisjef/Kjellerkontakt Vår)
+* Sigurd Oxaas Wie (Økonomiansvarlig/Kjellerkontakt Vår)
 * Eigil Hjelmstad
 * Sander Lindberg
 
@@ -76,14 +76,14 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 
 * Martin Bjerke
 * Petter Rostrup (Kjellerkontakt)
-* Marius Enerly (Økonomisjef)
+* Marius Enerly (Økonomiansvarlig)
 * Andreas F. Eikeland
 * Sigurd Oxaas Wie
 
 ### 2015/2016
 
 * Martin Bjerke (Kjellersjef)
-* Petter Rostrup (Barsjef)
+* Petter Rostrup (Nestleder)
 * Marius Enerly (Kjellerkontakt)
 * Trine-Lise Helgesen
 * Andreas F. Eikeland
@@ -108,7 +108,7 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 
 * Håvard Slettevold
 * John Hanssen Kolstad
-* Aina  Elisabeth Thunestveit (Økonomisjef)
+* Aina  Elisabeth Thunestveit (Økonomiansvarlig)
 * Jim Frode Hoff (Kjellersjef)
 * Sverre Johann Bjørke
 
@@ -117,13 +117,13 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 * Lorents Gravås
 * Håvard Slettevold
 * John Hanssen Kolstad
-* Elling Overaa (Barsjef)
-* Aina  Elisabeth Thunestveit (Økonomisjef)
+* Elling Overaa (Nestleder)
+* Aina  Elisabeth Thunestveit (Økonomiansvarlig)
 * Jim Frode Hoff
 
 ### 2010/2011
 
-* Juni Angelfos (Barsjef)
+* Juni Angelfos (Nestleder)
 * Lorents Gravås
 * Håvard Slettvold
 * John Hanssen Kolstad
@@ -139,7 +139,7 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 * Håvard Slettvold
 * John Hanssen Kolstad
 * Trond Martin Nyhus
-* Elling Overaa (Barsjef)
+* Elling Overaa (Nestleder)
 * Jenny Rønningen
 * Aina  Elisabeth Thunestveit
 
