@@ -56,6 +56,33 @@ title: "Årsberetninger 2022"
 
 ## Output
 
+### Vår 2021
+
+- Rolig vår pga. korona, få medlemmer og lite aktivitet før sommeren
+
+### Høst 2021
+
+- Hadde en god rekruteringsrunde på starten av semesteret og fikk inn mange nye medlemmer. Er per i dag 12 medlemmer
+- Spilte på julebordet 2021
+- Skulle spille på Battle of the Bands 2021, men grunnet dårlig planlegging av arrangør ble ikke det noe av for oss
+- Fikk kjøpt inn litt nytt utstyr, hovedsakelig en bassforsterker
+- Planla og gjennomførte ledervalg der Jørgen Reimers ble utnevnt som ny leder
+
+### Så langt vår 2022
+
+- Fordelte noen interne roller som innkjøpsansvarlig og sosialansvarlig
+- Lagt fram forslag om å endre økonomiansvarlig fra Seniorkom-økans til Arrkom-økans
+- Lagt fram en intensjonsavtale mellom Online og Output for å klargjøre Output sitt ståsted i linjeforeningen
+- Skulle spille på TechTalks, men det ble avlyst
+
+### Resten av våren 2022
+
+- Planlegger å kjøpe inn mye nytt utstyr
+- Planlegger å søke ulike støtteordninger for å få mer økonomiske midler til utstyr
+- Prøver å finne oss et nytt, permanent øvingslokale
+- Planlegger å spille på tre arrangementer: CatchIDI, Gjennåpningsfest og Jubiléet
+
+
 ## FeminIT
 
 ## Fondstyret
