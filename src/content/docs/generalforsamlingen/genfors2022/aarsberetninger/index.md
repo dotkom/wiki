@@ -70,14 +70,12 @@ title: "Årsberetninger 2022"
 
 ### Så langt vår 2022
 
-- Fordelte noen interne roller som innkjøpsansvarlig og sosialansvarlig
 - Lagt fram forslag om å endre økonomiansvarlig fra Seniorkom-økans til Arrkom-økans
 - Lagt fram en intensjonsavtale mellom Online og Output for å klargjøre Output sitt ståsted i linjeforeningen
 - Skulle spille på TechTalks, men det ble avlyst
 
 ### Resten av våren 2022
 
-- Planlegger å kjøpe inn mye nytt utstyr
 - Planlegger å søke ulike støtteordninger for å få mer økonomiske midler til utstyr
 - Prøver å finne oss et nytt, permanent øvingslokale
 - Planlegger å spille på tre arrangementer: CatchIDI, Gjennåpningsfest og Jubiléet
