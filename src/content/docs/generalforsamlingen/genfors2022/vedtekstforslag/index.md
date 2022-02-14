@@ -125,7 +125,7 @@ Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorg
 ## Forslag 6: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen. (Fremmes dersom forslag 5 går gjennom)
  
 
-_Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Derfor foreslår vi å gjøre leder av Debug til linjeforeningens hovedtillitsvalgt, og gi denne personen ansvaret for de tillitsvalgte i komiteene.
+_Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Derfor foreslår vi å gjøre leder av Debug til linjeforeningens hovedtillitsvalgt, og gi denne personen ansvaret for de tillitsvalgte i komiteene._
 
 **Endringer**  
 
@@ -138,7 +138,7 @@ Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorg
 ## Forslag 7: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen og blir en del av Debug. (Fremmes dersom forslag 6 faller)
 
 
-_Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Dersom denne personen ikke er leder av Debug, foreslår vi at personen velges under generalforsamlingen. Det er viktig at medlemmene av linjeforeningen kan stå inne for personen, og at den ikke har direkte tilknytning til styret.
+_Hvorfor? Hovedtillitsvalgt i Online har før vært et ansvar hos et medlem i seniorkomiteen, men har de senere årene ikke lengre vært praksis. Vi ønsker å tydeliggjøre denne rollen, og sørge for mer struktur rundt tillitsvalgte i linjeforeningen. Dersom denne personen ikke er leder av Debug, foreslår vi at personen velges under generalforsamlingen. Det er viktig at medlemmene av linjeforeningen kan stå inne for personen, og at den ikke har direkte tilknytning til styret._
 
 **Endringer**  
 
