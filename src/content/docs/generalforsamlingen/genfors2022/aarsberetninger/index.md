@@ -20,6 +20,39 @@ title: "Årsberetninger 2022"
 ## Debug
 
 ## Arrangementskomiteen  
+Overordnet: 
+	- Tatt opp 5 nye medlemmer som har kommet godt inn i gruppen! Totalt 15 aktive medlemmer og 2 pensjonister. 
+	- Endelig har vi kunnet arrangere mer fysisk! 
+
+
+Høst 2021
+	- Blåtur. Til Lian igjen mtp Covid.  
+	- Quiz x2. Blitt en suksess under Covid!
+	- Temafest. Rave på "The Mint" med Abakus og TIHLDE. 
+	- UKA selskapsmiddag på Samfundet sammen med Abakus og TIHLDE. 
+	- Casino.
+	- Julebord. Endelig kunne vi arrangere julebord igjen. Lederne av Online hadde underholdning. 
+	- Pirbadet. 
+	- Eksamensfest. 
+
+Vår 2022
+	- Åre 2022. Avlyst igjen pga Covid:(
+	- X-fest. Digitalt pga Covid. 
+	- Paint and sip. 
+	- Vinterleker. Med Volvox & Alkymisten. 
+	- Veldedighetsfest. Fortsetter etter fjorårets suksess! 
+	- Bar til bar/hybel til hybel med etterfest. 
+	- Komiteseminar.
+	- Temafest. 
+	- Quiz. 
+	- Vassfjellet og skitur. 
+	- Pizzakveld på A4.
+	- 1-klassemiddag. Prøver å få sponset middag til nye førsteklassinger som har startet under covid-restriksjoner. 
+	- Kanotur i Nidelven.  
+	- Brunch. 
+	- Utmatrikulering for 3. og 5. klasse. 
+	- Eksamensfest for å feire at semesteret er over<33 
+
 
 ## Bank- og økonomikomiteen
 
