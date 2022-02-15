@@ -43,5 +43,5 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Bedkomleder:*
 * *Dotkomleder:*
 * *Fagkomleder:*
-* *Prokomleder:*
+* *Prokomleder:* Christina Oftedal
 * *Trikomleder:*
