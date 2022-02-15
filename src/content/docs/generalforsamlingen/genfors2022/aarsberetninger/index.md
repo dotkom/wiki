@@ -20,12 +20,12 @@ title: "Årsberetninger 2022"
 ## Debug
 
 ## Arrangementskomiteen  
-Overordnet:     
+### Overordnet:     
 - Tatt opp 5 nye medlemmer som har kommet godt inn i gruppen! Totalt 15 aktive medlemmer og 2 pensjonister.     
 - Endelig har vi kunnet arrangere mer fysisk!     
 
 
-Høst 2021     
+### Høst 2021     
 - Blåtur. Til Lian igjen mtp Covid.     
 - Quiz x2. Blitt en suksess under Covid!     
 - Temafest. Rave på "The Mint" med Abakus og TIHLDE.     
@@ -35,7 +35,7 @@ Høst 2021
 - Pirbadet.    
 - Eksamensfest.     
 
-Vår 2022    
+### Vår 2022    
 - Åre 2022. Avlyst igjen pga Covid:(   
 - X-fest. Digitalt pga Covid.     
 - Paint and sip.     
