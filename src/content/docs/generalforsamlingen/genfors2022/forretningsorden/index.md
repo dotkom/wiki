@@ -46,7 +46,7 @@ Vedtektsendringer avgjøres med kvalifisert flertall.
 Det er ikke mulig å gjøre endringer på vedtektsforslag under generalforsamlingen.
 
 ### 3.3 Personvalg
-Her følges kapittel 3 paragraf 6 i Onlines vedtekter.
+Her følges kapittel 5 paragraf 6 i Onlines vedtekter.
 
 Når det er flere kandidater til ett verv skal kandidatene som ikke presenterer seg vente i et annet rom enn der generalforsamlingen gjennomføres. Kandiater som venter plikter å ikke lytte på de andre kandidatenes presentasjon.
 
