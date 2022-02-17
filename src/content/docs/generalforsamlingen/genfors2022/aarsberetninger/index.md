@@ -58,6 +58,27 @@ title: "Årsberetninger 2022"
 
 ## Bedriftskomiteen
 
+- Tatt opp 5 medlemmer, hvorav 4 førsteklassinger og 1 andreklassing.
+    - Er per nå 11 aktive medlemmer, 1 aktiv pang, 2 pang og 3 permiterte på grunn av utveksling.
+- Signert ny HSA med Bekk.
+- Signert kaffeavtale med Netlight hvert semester.
+- Lagt ned mulighetermailen på grunn av lite bruk og legger heller ut mulighetene på Slack.
+- Lagt ut 149 stillingsannonser på OW.
+- Signerte 13 avtaler ifm. ITEX.
+- Signerte avtaler ifm. Tech Talks, som senere ble avlyst.
+- Skaffet 2 generalsponsorer og 2 tittelsponsorer for fadderukene.
+    - Arrangerte bedriftspresentasjon med generalsponsorne i samarbeid med Velkom.
+- Arrangert 19 arrangement siden forrige generalforsamling, alle med god påmelding:
+    - 2 bedriftsarrangement med Bekk
+    - 4 lunsj-/frokostarrangement.
+    - 9 bedriftsarrangement på kveldstid.
+    - 4 nye arrangementstyper med flere bedrifter:
+        - Bedcrawl - puljevis besøk til flere Trondheimskontorer på én kveld.
+        - Fuckup night - bedriftene legger fram fuckups fra arbeidslivet med hensikt å ufarliggjøre arbeidslivet.
+        - Collabpres - puljevis mini-bedpres med flere bedrifter, før vi dro videre til samfundet for puljevis sosialt opplegg med bedriftene og fri mingling.
+        - Startup-kveld - flere startups samlet til bedriftspresentasjon.
+- Støttet KiD under 2 arrangement.
+
 ## Drifts- og utviklingskomiteen
 
 ## Fag- og kurskomiteen
