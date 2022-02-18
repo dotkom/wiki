@@ -108,6 +108,8 @@ title: "Årsberetninger 2022"
 
 ## Casual Gaming
 
+## Datakameratene
+
 ## Output
 
 ### Vår 2021
