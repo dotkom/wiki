@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Økonomiansvarlig:* Henrik Horten Hegli
 * *Styremedlem fra arrkom:* Maiken Lie  
 * *Styremedlem fra bedkom:* Karen Seim Midtlien
-* *Styremedlem fra dotkom:* Njål
+* *Styremedlem fra dotkom:* Njål Ingersønn Sørland
 * *Styremedlem fra fagkom:* Karan Singh Sandhu
 * *Styremedlem fra prokom:* Sondre Aune Stokke
 * *Styremedlem fra trikom:*
