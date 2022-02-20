@@ -108,6 +108,16 @@ title: "Årsberetninger 2022"
 
 ## Casual Gaming
 
+- Avlyst StudLAN vår og høst samt alle spillkvelder pga. pandemien.
+- Vedlikeholdt crewet på rundt 20 personer til tross for lite sosial aktivitet.
+- TrøndeLAN:
+    - Avholdt i høstferien i Utleirahallen.
+    - Kunne arrangeres i full skala ifm. slakkinger i nasjonale smittevernsføringer kort tid før.
+    - Hadde Bitfix Gaming (BFG) som medarrangør og bl.a. Smash Trondheim, Nord-Norges Beste Gamer, NTNU, NTE, Tiller VGS som samarbeidspartnere. Fikk vi mye støttemidler fra Hyperion, Trondheim kommune, Trøndelag fylkeskommune, Temporal, og SareBank 1 SMN.
+    - Konkurranser med premiepott på 30 000kr.
+    - Totalt antall solgte billetter (inkl. BFGs dagspassordning) ble 395, derav 354 ankomne.
+    - Planlegger for over 400 deltakere i 2022.
+
 ## Datakameratene FK
 
 ## Output
