@@ -99,8 +99,8 @@ title: "Årsberetninger 2022"
 - Nettredaksjon
    - laget 7 nettartikler
 - Merch
-      - Laget Onlinegenser kolleksjon som er tiltenkt å være tilgjengelig gjennom hele semestre.
-- Kjøpt inn sløyfer i Onlinefarger
+       - Laget Onlinegenser kolleksjon som er tiltenkt å være tilgjengelig gjennom hele semestre.
+       - Kjøpt inn sløyfer i Onlinefarger
 
 - Innkjøp
        - Det er kjøpt inn GoPro med utstyr og Greenscreen med stativ (også til backdrop)
