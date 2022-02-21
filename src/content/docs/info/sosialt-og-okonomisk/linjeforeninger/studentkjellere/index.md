@@ -45,15 +45,7 @@ For øyeblikket er kjellerene fordelt slikt:
 |20|Emil- og Smørekoppenkjelleren|
 |27|Dykkergruppen og NTNUI (Dypet)|
 |53|Dragvollkjelleren|
-
-
-###
-Kalenderord: correct
-
-Det første ord du har funnet, på tide å feire    
-Jobb videre nå, kanskje det er du som vil seire?    
-Da vil du ha fri, og kan ta deg noe godt å drikke    
-Eller kanskje du er den som foretrekker å strikke?    
+ 
 
 
 ## Berging
