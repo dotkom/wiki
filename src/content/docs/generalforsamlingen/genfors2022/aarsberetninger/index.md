@@ -84,7 +84,26 @@ title: "Årsberetninger 2022"
 ## Fag- og kurskomiteen
 
 ## Profil- og aviskomiteen
+- Tatt opp 5 nye
+       - 1 førsteklassing og 3 andreklassinger
+       - Er totalt 19 medlemmer inkludert 2 pang og 2 permitterte
+- Plakatbestillinger
+       - Det har blitt bestilt og laget 51 plakater.
+- Daljer og pins
+       - Laget ny Online pin
+       - Startet opp prosjekt for bidragspin i Online
+- Logoer
+       - Laget 2 logoer, en til Debug og en til Vineyard
+- Offline
+       - Sluppet 4 utgaver, hvorav en dobbelt så tor som vanlig i prokom jubileumsutgave
+- Nettredaksjon
+   - laget 7 nettartikler
+- Merch
+      - Laget Onlinegenser kolleksjon som er tiltenkt å være tilgjengelig gjennom hele semestre.
+- Kjøpt inn sløyfer i Onlinefarger
 
+- Innkjøp
+       - Det er kjøpt inn GoPro med utstyr og Greenscreen med stativ (også til backdrop)
 ## Trivselskomiteen
 
 ## Seniorkomiteen
