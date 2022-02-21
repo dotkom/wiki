@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
-- [2022-16-02](2022-16-02) - Statusoppdateringer
+- [2022-16-02](2022-16-02) - Genfors og jubvors
 - [2022-09-02](2022-09-02) - Statusoppdateringer
 - [2022-02-02](2022-02-02) - Vedtektskveld retro og genforsplanlegging
 - [2022-26-01](2022-26-01) - Siste møtet før økonomi- og vedtektskveld
