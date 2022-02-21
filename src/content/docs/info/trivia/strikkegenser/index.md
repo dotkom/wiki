@@ -41,12 +41,6 @@ Legg opp (48) 52 (52) 56 (56) masker med F1 på pinne nr. 3. Strikk 6 cm vrangbo
 ####**Montering:**  
 Damp lett over genseren med strykejern og et fuktig håndkle. Merk av ermevidden med en takletråd i hver side. Sy to doble maskinsømmer på hver side av tråden du har tråklet med små sting. Dette må gjøres grundig så arbeidet ikke rakner. Klipp opp mellom sømmene, og pass på at du ikke klipper i maskinsømmen. Sy deretter sikksakk-søm i kanten så arbeidet ikke rakner. Fest ermet midt på skulderen og i ermhullets underkant. Begynn midt på skulderen og sy hver side for seg. Sy belegget over klippekanten. Sy, strikk eller mask sammen på skuldrene. Pass på at dette gjøres passe løst.
 
-Ord nr 2: horse
-
-Da var du halvveis, nå har du vært rå!    
-Du merker det, dette gavekort er det du som skal få    
-Jepp, dette går nok lett som en plett    
-I motsetning til reglene for Onlines budsjett    
 
 ####**Hals:**  
 Begynn på den ene skulderen. Bruk pinne nummer 3 og garn F2. Strikk opp 11 masker pr. 5 cm rundt halsen og strikk med maskene som ble satt på tråd. Strikk 3 cm med 1 rett og 1 vrang. Fell av passe løst. Brett så kanten ned og sy fast slik at du får en fin avrundet halskant.
