@@ -97,7 +97,7 @@ title: "Årsberetninger 2022"
 - Offline
        - Sluppet 4 utgaver, hvorav en dobbelt så tor som vanlig i prokom jubileumsutgave
 - Nettredaksjon
-   - laget 7 nettartikler
+       - laget 7 nettartikler
 - Merch
        - Laget Onlinegenser kolleksjon som er tiltenkt å være tilgjengelig gjennom hele semestre.
        - Kjøpt inn sløyfer i Onlinefarger
