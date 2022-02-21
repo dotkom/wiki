@@ -103,6 +103,12 @@ title: "Årsberetninger 2022"
 ## Online IL
 
 ## Velkomstkomiteen 2021
+- Velkom besto av 14 medlemmer inkludert leder, nestleder og to masterstudenter.
+- Bachelor hadde 12 grupper med litt variert antall av fadderbarn, ettersom at IDI informerte oss om at det var 155 nye studenter når det kun var 120. 
+- Vi fikk god tilbakemelding fra faddere og fadderbarn om vel gjennomførte arrangementer.
+- Fadderuken måtte ta slutt den andre onsdagen i andre uke på grunn av høyt smittetall innad i gruppene.
+- Dette gjorde at vi gikk glipp av mange arrangementer som Onlinelekene, ølympiskeleker og å være i storsalen med PSI.
+- I løpet av fadderukene var det planlagt 6 edru dager og 8 dager med mulighet til å drikke alkohol.
 
 ## Realfagskjelleren 
 
