@@ -88,7 +88,7 @@ title: "Årsberetninger 2022"
        - 1 førsteklassing og 4 andreklassinger
        - Er totalt 19 medlemmer inkludert 2 pang og 2 permitterte
 - Plakatbestillinger
-       - Det har blitt bestilt og laget 54 plakater.
+       - Det har blitt bestilt og laget 54 plakater og bannere.
 - Daljer og pins
        - Laget ny Online pin
        - Startet opp prosjekt for bidragspin i Online
