@@ -28,7 +28,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra dotkom:* Njål Ingersønn Sørland
 * *Styremedlem fra fagkom:* Karan Singh Sandhu
 * *Styremedlem fra prokom:* Sondre Aune Stokke
-* *Styremedlem fra trikom:*
+* *Styremedlem fra trikom:* Sebastian Hegreberg
 
 **De som har meldt interesse til Fondstyret er:**
 
