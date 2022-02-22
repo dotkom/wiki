@@ -94,6 +94,8 @@ title: "Årsberetninger 2022"
        - Startet opp prosjekt for bidragspin i Online
 - Logoer
        - Laget 2 logoer, en til Debug og en til Vineyard
+-Promovideo
+       - Ferdigstilt en promovideo for linjeforeningen 
 - Offline
        - Sluppet 3 utgaver og laget 1 utgave, hvorav en dobbelt så stor som vanlig i en prokom jubileumsutgave på vårsemesteret 2021
 - Nettredaksjon
