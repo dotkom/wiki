@@ -1,5 +1,5 @@
 ---
-title: "2022-16-02"
+title: "HS MØTE 16.02.22"
 ---
 
 *Møtetidspunkt:* 14:15-16:00  
@@ -24,13 +24,6 @@ title: "2022-16-02"
 
 Godkjent
 
-## TODOS fra forrige gang  
-- [x] Thea finner ut om vi skal legge ut sånn form med hvem man ønsker å nomminere til ridder.  
-- [x] Mari begynner på teksten til Øyvind sin nomminasjon
-- [x] Henrik begynner på teksten til Hanne sin nomminasjon
-- [] Mari og Anders planlegger å ta livet av de nye på inn-ut
-- [x] Mari doodle om sosialkveld 
-- [x] Alle finner ut ting rundt de 17k invitasjonene vi har
 
 ## 779 - Status for komiteene (20 min)  
 
@@ -130,10 +123,6 @@ Godkjent
 - Revidere HS retningslinjer  
     - Ta en kikk på det, og se om det er noe som ser helt corny ut.
 
-## TODO´S til neste gang
-- [] Alle styrerepper: Hør med komitéleder om tid for valg av komitéleder (Genfors saken)
-- [] William: Må ta tak i prikkreglene 
-- [] Alle: Ta en titt på HS retningslinjer på OW wiki
 ## Møteevaluering  
 
 ## Diggepunkt (5 min)
