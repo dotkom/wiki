@@ -30,9 +30,6 @@ Godkjent
 #### Arrkom:  
 - Ting går sin gang
 - X-fest var uheldig gjennomført, og virket som det ikke var så seriøs gjennomførelse fra Abakus sin side. Åse og William skal snakke med dem og høre hva som skjedde. 
-- Årebetaling: Usikker på hva som skjer men MIT har ved et "uhell" betalt.
-    - Nutrix har også betalt.
-    - Vi står fortsatt ved å ikke betale.
 - Folk begynner å bli friske etter Blåtur
 
 #### Bedkom:  
@@ -112,14 +109,6 @@ Godkjent
 - Hopper over interessemelding, bedre å bare sende ut
 
 ## 784 - Eventuelt (10 min) 
-- Status valg av komitéledere  
-    - Arrkom velger 21. februar, minst én interessert
-    - Dotkom velger 23. februar, 2 halv-interesserte, Thomas stiller worst case tror han. Tror også vi har noen som kan stille til styrerep
-    - Bedkom velger 28. februar, minst én interessert
-    - Prokom har valgt, Christina
-    - Trikom velger 18. februar, men er usikre på hvem som stiller
-    - Fagkom velger 23. februar, usikker på interesse
-    - Bankom velger 28.februar
 - Revidere HS retningslinjer  
     - Ta en kikk på det, og se om det er noe som ser helt corny ut.
 
