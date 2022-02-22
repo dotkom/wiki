@@ -95,7 +95,7 @@ title: "Årsberetninger 2022"
 - Logoer
        - Laget 2 logoer, en til Debug og en til Vineyard
 - Offline
-       - Sluppet 4 utgaver, hvorav en dobbelt så tor som vanlig i prokom jubileumsutgave
+       - Sluppet 3 utgaver og laget 1 utgave, hvorav en dobbelt så stor som vanlig i en prokom jubileumsutgave på vårsemesteret 2021
 - Nettredaksjon
        - laget 7 nettartikler
 - Merch
