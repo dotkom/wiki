@@ -22,13 +22,6 @@ title: "HS-møte 23.02"
 
 Godkjent 
 
-## TODOS fra forrige gang  
-- [x] Mari og Anders planlegger å ta livet av de nye på inn-ut
-- [x] Alle styrerepper: Hør med komitéleder om tid for valg av komitéleder (Genfors saken)
-    - Gjør ikke noen endringer på dette nå, men ser på dette på nytt til neste år når man ser hvordan det blir. 
-- [x] William: Må ta tak i prikkreglene 
-- [x] Alle: Ta en titt på HS retningslinjer på OW wiki
-
 ## 785 - Status for komiteene (20 min)  
 
 #### Arrkom:  
