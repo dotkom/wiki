@@ -42,6 +42,6 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Bankomleder:*
 * *Bedkomleder:*
 * *Dotkomleder:*
-* *Fagkomleder:*
+* *Fagkomleder:* Tale Eikenes
 * *Prokomleder:* Christina Oftedal
 * *Trikomleder:* Frida Eriksen Næss
