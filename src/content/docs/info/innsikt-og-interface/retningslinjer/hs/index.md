@@ -38,7 +38,7 @@ Hovedstyret er linjeforeningens talerør mot instituttet (IDI), fakultetet (IE) 
 
 #### (4) Økonomi
 
-Hovedstyret har et overordnet ansvar (v/ økonomiansvarlig) for at linjeforeningens økonomi er sunn og bærekraftig. Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring hvert femte år. 
+Hovedstyret har et overordnet ansvar (v/ økonomiansvarlig) for at linjeforeningens økonomi er sunn og bærekraftig. Det skal tilstrebes å årlig spare minimum 30 000,- kroner øremerket jubileumsfeiring hvert femte år. 
 
 #### (5) Trivsel og arbeidsmiljø
 
