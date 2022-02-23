@@ -193,3 +193,8 @@ title: "Årsberetninger 2022"
 
 
 ## Fondstyret
+- Et rekordår for fondet!!!
+- Støtta jubkom med hele 86 000 kr, for å senke billettprisene til jubileum 
+- 76 000 kr til arrkom for transport til Åre, men det ble avlyst.
+- 75 000 kr til ekskom til ekskursjon, _men_ det ble også avlyst. 
+- Søk fondet!
