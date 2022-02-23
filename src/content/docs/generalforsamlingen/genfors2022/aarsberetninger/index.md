@@ -197,4 +197,5 @@ title: "Årsberetninger 2022"
 - Støtta jubkom med hele 86 000 kr, for å senke billettprisene til jubileum 
 - 76 000 kr til arrkom for transport til Åre, men det ble avlyst.
 - 75 000 kr til ekskom til ekskursjon, _men_ det ble også avlyst. 
+- 15 375 kr til prokom for å senke prisen for de flotte nye genserene deres:)
 - Søk fondet!
