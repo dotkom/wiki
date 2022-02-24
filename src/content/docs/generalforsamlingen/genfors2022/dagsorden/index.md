@@ -175,7 +175,6 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 00:24 | 3 | 00:27 | Evaluering |
-| 00:27 | 0 | 00:27 |  |
 | Total: | 3 | 00:27 |
 
 
