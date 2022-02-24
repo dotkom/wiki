@@ -34,7 +34,7 @@ I løpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage i regi av
 Den 16. Mars 2018 var utbedringene ferdige og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
 Kjelleren åpnet igjen i fadderukene 2018, og og den 31. August 2018 var den første offisielle ordinære åpningen etter alle kjellerne ble stengt over 2 år før.
  
-Den 2. Oktober 2021 feiret kjelleren 20 års jubileum på Thon Hotel Prinsen. Jubileet var en uke etter landet åpnet igjen etter Korona pandemien, som passet yppelig med en hel uke kjelleråpent samt et jubileum hvor alle kunne mingle fritt igjen. 
+Den 2. Oktober 2021 feiret kjelleren 20 års jubileum på Thon Hotel Prinsen. Jubileet var en uke etter landet åpnet igjen etter Korona pandemien, som passet yppelig med en hel uke kjelleråpent samt en bankett hvor alle kunne mingle fritt igjen. 
 
 ## Onlinere i Kjellerstyret
 ###2021/2022
