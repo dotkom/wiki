@@ -213,6 +213,10 @@ Annet:
     - Planlegger for over 400 deltakere i 2022.
 
 ## Datakameratene FK
+- I sesongen 2020/2021 har det vært stor kamp om plassene
+- 11er-laget er godt i gang i studentligaen, og har store ambisjoner for sespngen.
+- 7-er laget skal være åpent for alle, uansett nivå
+- Satt mål for sesongen 2021/2022 som inneholder blant annet å få en større kjerne fra informatikk på alle lag.
 
 ## Output
 
