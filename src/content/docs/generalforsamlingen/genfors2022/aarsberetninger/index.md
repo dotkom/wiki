@@ -111,7 +111,7 @@ title: "Årsberetninger 2022"
 
 ### Overordnet
 - Vi tok opp 5 nye meldemmer i høst.
-     - 3 førsteklassinger og 2 andreklassinger
+     - 3 førsteklassinger og 2 andreklassinger.
 - Totalt er vi 13 aktive medlemmer, og 2 permitterte.
 
 ### Arrangementer
@@ -119,17 +119,16 @@ title: "Årsberetninger 2022"
 - Vi har også mange andre spennende arrangementer planlagt for resten av våren!
 
 ### Kontoret og kiosken
-- Hadde kontor Workshop våren 2021
-    - Vi vasket ut hele kontoret, samt fikk ryddet og flyttet en del ting til IT-boden
-- Vi fikk i samarbeid med Prokom malt og klistret og Online-logoen på kontoret
-- Vi har kjøpt nye hyller til kiosken, samt startet med å merkere hvor de ulike varene hører til for å enklere kunne se hvilke varer som trengs å fylles på. 
+- Hadde kontor-workshop våren 2021.
+    - Vi vasket ut hele kontoret, samt fikk ryddet og flyttet en del ting til IT-boden.
+- Vi fikk i samarbeid med Prokom malt og klistret og Online-logoen på kontoret.
 - Vi endelig fått kjøpt inn nye hyller til kiosken! 
 
 ### Annet
 - Driver fremdeles å bli kvitt plastikk-kniver i kiosken, utenom det er alt bestikk blitt trebestikk <3
 - Gjenbrukskoppene vi fikk fra Netlight virker som har funket veldig bra, har ikke merket et like stor enpgangskopp forbruk etter gjenbrukskoppene.
-- Det er også bestemt av vi ikke skal bruke Netlight kopper på arrangementer og komité-møter, dette er også for å minske forbruket
-- Hadde en del problemer med nibble i høst når OW skulle opp i skyen,  dette så vi veldig godt på regnskapet fra høsten.
+- Det er også bestemt av vi ikke skal bruke Netlight kopper på arrangementer og komité-møter, dette er også for å minske forbruket.
+- Hadde en del problemer med nibble i høst når OW skulle opp i skyen. Dette så vi veldig godt på regnskapet fra høsten.
                                                                     
 
 ## Seniorkomiteen
