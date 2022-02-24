@@ -108,65 +108,16 @@ title: "Årsberetninger 2022"
        - Det er kjøpt inn GoPro med utstyr og Greenscreen med stativ (også til backdrop)
 
 ## Trivselskomiteen
-Generelt:
-- Var på hyttetur i høst
-- Nettopp kommet hjem fra Blåtur i …
 
 ### Overordnet
 - Vi tok opp 5 nye meldemmer i høst.
 - Totalt er vi 13 aktive medlemmer, og 2 permitterte.
 
-Arrangementer:
-             -
 ### Arrangementer
-++++
-- Vi har fått gjennomført en rekke spennende og varierende arrangementer og vi har mange andre spennende arrangementer planlagt for resten av våren!
+- Vi har fått gjennomført en rekke spennende og varierende arrangementer, en del flere en tidligere år.
+- Vi har også mange andre spennende arrangementer planlagt for resten av våren!
 
 ### Kontoret og kiosken
-Vår 2021 (etter genfors):
-- Kino
-- Online Chess Championship 2021
-- Påskeegglotteri
-- Påskeeggjakt
-- Beermile
-- Grilling
-- 17.mai-frokost
-- Eurovision-visning
-
-Høst 2021:
-- Self care Monday
-- Wine walk
-- Vafler på kontoret
-- Halloween på kontoret
-- Hacktober
-- Juleverksted
-- November
-- Julekino
-- Julekalender-visning + frokost
-
-Vinter 2022:
-- Valentines på kontoret
-- Vafler på kontoret ?
-- Isbading og badstue
-
-Og vi har mange andre spennende arrangementer planlagt for resten av våren!
-
-Fremover:
-- Ski + snowboard I gråkallen, i samarbeid med OIL
-- Self care Monday XL
-- Mariokart turnering
-- Samf med Erik og Hallvard
-- Hengekøyetur
-- Påskekrim på kontoret
-- Hangover kino
-- Jubileum-kickoff på kontoret
-- Eurovision finale
-- 17.mai frokost
-- Grilling
-
-Om vi får gjennomført alle disse arrangementene overgår vi oss selv dette halvåret <3
-
-Kontoret:
 - Hadde kontor Workshop våren 2021
     - Vi vasket ut hele kontoret, samt fikk ryddet og flyttet en del ting til IT-boden
 - Vi fikk i samarbeid med Prokom malt og klistret og Online-logoen på kontoret
@@ -174,22 +125,9 @@ Kontoret:
 - Vi endelig fått kjøpt inn nye hyller til kiosken! 
 
 ### Annet
-Medlemmer:
-- Totalt 13 aktive medlemmer, 2 permitterte
-- Vi tok opp 5 nye meldemmer i høst ( 3 førsteklassinger, 2 andreklassinger) (hva er egnt mikkel?)
-
-Annet:
 - Driver fremdeles å bli kvitt plastik-kniver i kiosken, utenom det er alt bestikk blitt trebestikk <3
 - Gjenbrukkoppene vi fikk fra Netlight virker som har funket veldig bra, har ikke merket et like stor enpgangskopp forbruk etter gjenbrukskopyene.
-                                                                            -----           ^ ^ -----                                        ^
-- Gjenbrukkoppene vi fikk fra Netlight virker som har funket veldig bra, har merket et mye mindre enpgangskopp forbruk etter gjenbrukskoppene.
-                                                                                       ^^^^^ ^^^                                         ^
-- Det er også bestemt av vi ikke skal bruke Netlight kopper på arrangementer og komité-møter, dette er også for å minske forbruket
-- Hadde en del problemer med nibble i høst når OW skulle opp i skyen,  dette så vi veldig godt på regnskapet fra høsten.
-                                                                      -
-- Hadde en del problemer med nibble i høst når OW skulle opp i skyen, dette så vi veldig godt på regnskapet fra høsten.
-
-
+                                                                    
 
 
 ## Seniorkomiteen
