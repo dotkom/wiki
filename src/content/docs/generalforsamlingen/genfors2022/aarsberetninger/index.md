@@ -80,7 +80,7 @@ title: "Årsberetninger 2022"
 - 1 197 fakturaer har blitt sendt ut
 
 ### Arrangementer
-- Hatt fattig student kurs
+- Arrangert fattig student kurs
 
 
 
