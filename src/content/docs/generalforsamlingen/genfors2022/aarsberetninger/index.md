@@ -72,14 +72,14 @@ title: "Årsberetninger 2022"
 - Ekskom har nå DNB integrasjon i regnskapssystemet Fiken.
 - Revidert regnskapet til Online 2021
 - Revidert Abakus
-- Utviklet nye retningslinjer for Onlinepotten og utbetaling av kvitterignsskjema
+- Utviklet nye retningslinjer for Onlinepotten og utbetaling av kvitteringsskjema
 - Ryddet opp og oppdaterte wikien til bankom
 - Inkludert Appkom i Onlines økonomi
 - Hatt møte med økans i Abakus og hjulpet med oppstart av bankom i Abakus
 - Har ført 3 195 kjøp
 - 1 197 fakturaer har blitt sendt ut
 
-## Arrangementer
+### Arrangementer
 - Hatt fattig student kurs
 
 
