@@ -157,6 +157,16 @@ title: "Årsberetninger 2022"
 
 ## Realfagskjelleren 
 
+### Hva har skjedd?
+- Tatt opp tre nye onlinere!
+- Har vært preget av pandemien, hvor vi har måtte stenge hele våren, samt deler av høsten og under fadderukene. Utenom nedstengningnene så har vi også vært preget av restriskjoner, men vi har siden februar holdt åpent som normalt.
+- Vi har holdt ukentlig fredagsåpent når det har vært mulig, samt ekstra arrangementer, som jubileumsuke og quiz.
+- Hatt jubileumsgalla, som var en stor suksess!
+
+### Fremover
+- Generalforsamling 21. mars, hvor vi velger nytt styre
+- Vi fortsetter å holde åpent
+
 ## Casual Gaming
 
 - Avlyst StudLAN vår og høst samt alle spillkvelder pga. pandemien.
