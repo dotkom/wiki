@@ -34,10 +34,9 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 16:43  | 0,5 | 16:43 | Godkjenning av referat fra 1. mars 2021 |
 | 16:43  | 1   | 16:44 | Godkjenning av innkalling               |
 | 16:44  | 1   | 16:45 | Godkjenning av saksliste                |
-| 16:45  | 5   | 16:55 | Registrering i stemmesystem             |
-| 16:55  | 5   | 17:00 | Prøvevotering                           |
-| 17:00  | 0   | 17:05 |                                         |
-| Total: | 26  | 17:05 |
+| 16:45  | 5   | 16:50 | Registrering i stemmesystem             |
+| 16:50  | 5   | 16:55 | Prøvevotering                           |
+| Total: | 26  | 16:55 |
 
 
 
@@ -45,10 +44,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 | Start  | Tid | Slutt | Sak                                           |
 |--------|-----|-------|-----------------------------------------------|
-| 16:55  | 20  | 17:15 | Årsberetning for Online og samarbeidspartnere |
-| 17:15  | 0   | 17:15 |                                               |
-| 17:15  | 0   | 17:15 |                                               |
-| 17:15  | 0   | 17:15 |                                               |
+| 16:55  | 20  | 17:15 | Årsberetning for Online og samarbeidspartnere |                                       
 | Total: | 20  | 17:15 |
 
 
@@ -56,11 +52,8 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Regnskap
 
 | Start  | Tid | Slutt | Sak                          |
-|--------|-----|-------|----------------------------------------------|
+|--------|-----|-------|------------------------------|
 | 17:15  | 10  | 17:25 | Gjennomgang av regnskap 2021 |
-| 17:25  | 0   | 17:25 |                              |
-| 17:25  | 0   | 17:25 |                              |
-| 17:25  | 0   | 17:25 |                              |
 | Total: | 10  | 17:25 |
 
 
