@@ -64,23 +64,23 @@ title: "Årsberetninger 2022"
 
 ### Økonomispesifikt
 - Jobbet mot å øke synligheten av arbeidet til bankom og våres økanser.
-- Arrangert 2 budsjettmøter
+- Arrangert 2 budsjettmøter.
 - Autobank har laget en side for å forenkle fakturering og jobber nå videre med andre prosjekter for å digitalisere bankom. 
 - Vi har jobbet målrettet for å forbedre bankom i fremtiden. 
-- Rengskapsført alle kontoene våres i Online
+- Rengskapsført alle kontoene våres i Online.
 - Fått dotkom ut av Onlinepotten.
 - Ekskom har nå DNB integrasjon i regnskapssystemet Fiken.
-- Revidert regnskapet til Online 2021
-- Revidert Abakus
-- Utviklet nye retningslinjer for Onlinepotten og utbetaling av kvitteringsskjema
-- Ryddet opp og oppdaterte wikien til bankom
-- Inkludert Appkom i Onlines økonomi
-- Hatt møte med økans i Abakus og hjulpet med oppstart av bankom i Abakus
-- Har ført 3 195 kjøp
-- 1 197 fakturaer har blitt sendt ut
+- Revidert regnskapet til Online 2021.
+- Revidert Abakus.
+- Utviklet nye retningslinjer for Onlinepotten og utbetaling av kvitteringsskjema.
+- Ryddet opp og oppdaterte wikien til bankom.
+- Inkludert Appkom i Onlines økonomi.
+- Hatt møte med økans i Abakus og hjulpet med oppstart av bankom i Abakus.
+- Har ført 3 195 kjøp.
+- 1 197 fakturaer har blitt sendt ut.
 
 ### Arrangementer
-- Arrangert fattig student kurs
+- Arrangert fattig student kurs.
 
 
 
