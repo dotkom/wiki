@@ -164,8 +164,8 @@ title: "Årsberetninger 2022"
 - Hatt jubileumsgalla, som var en stor suksess!
 
 ### Fremover
-- Generalforsamling 21. mars, hvor vi velger nytt styre
-- Vi fortsetter å holde åpent
+- Skal ha generalforsamling den 21. mars, hvor vi velger nytt styre.
+- Vi fortsetter å holde åpent.
 
 ## Casual Gaming
 
