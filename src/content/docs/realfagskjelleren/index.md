@@ -19,19 +19,22 @@ Ellers kan kjellerstyret bli kontaktet på [styret@realfagskjelleren.no](mailto:
 
 # Historie
 
-I 2000 ble det åpnet for at andre linjeforeninger utenom siv ing-linjene kunne søke om egen kjeller på Moholt, Online søkte samtidig som Volvox & Alkymisten, og da det var en kjeller som var ledig ble de enige om å dele den, slik fikk de tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
+I 2000 ble det åpnet for at andre linjeforeninger utenom siving-linjene kunne søke om egen kjeller  som fritidsareal på Moholt. Online søkte samtidig som Volvox & Alkymisten, å da det var en kjeller som var ledig ble de enige om å dele den. Slik fikk de tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen. Det er fortalt at kjelleren opplevde sitt første ran dagen etter første åpning hvor alle kjellerens penger ble stjålet..
 
-Noen år senere i 2003 ble Delta med og navnet på kjelleren ble Realfagskjellern, Etter Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen.
-Kjelleren feiret sitt 10 årsjubileum 7. Mai 2011, jubileet fant sted på Thon Hotel Prinsen.
+Noen år senere i 2003 ble Delta med og navnet på kjelleren ble Realfagskjellern. Etter Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen da Spanskrørets medlemmer allerede brukte tid der.
 
-Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. Likevel ble kjellerens 15 årsjubileum feiret den 9. April 2016 på Scandic Lerkendal. I løpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage.
+7. Mai 2011 feiret kjelleren sitt 10 årsjubileum på Thon Hotell Prinsen. Noen dager etter jubileet opplevde kjelleren nok et ran, hvor av både penger, drikke og annet utstyr ble stjålet. Heldigvis var kjellerens høytalere fjernet i regi av jubileet og ble dermed ikke tatt.
+
+Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. 
+
+Selv om kjelleren var stengt ble 15. Års jubileet feiret til stor stas 9. April 2016 på Scandic Lerkendal.
+
+I løpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage i regi av Reddkjellerne som paraplyorganisasjon for alle kjellerne.
 
 Den 16. Mars 2018 var utbedringene ferdige og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
-
-Kjelleren åpnet igjen i fadderukene 2018, og og den 31. August 2018 var den første offisielle ordinære åpningen. 
-
-Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/21. Det ble også feiret 20 års jubileum på Thon Hotel Prinsen 2. Oktober 2021, bare en uke etter at landet åpnet igjen, og aller var igjen velkomne til å mingle sammen. 
-
+Kjelleren åpnet igjen i fadderukene 2018, og og den 31. August 2018 var den første offisielle ordinære åpningen etter alle kjellerne ble stengt over 2 år før.
+ 
+2. Oktober 2021 feiret kjelleren 20 års jubileum på Thon Hotel Prinsen. Jubileet var en uke etter landet åpnet igjen etter Korona pandemien, som passet yppelig med en hel uke kjelleråpent samt et jubileum hvor alle kunne mingle fritt igjen. 
 
 ## Onlinere i Kjellerstyret
 ###2021/2022
