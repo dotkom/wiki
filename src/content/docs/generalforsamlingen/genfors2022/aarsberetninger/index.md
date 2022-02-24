@@ -122,6 +122,7 @@ title: "Årsberetninger 2022"
 - Hadde kontor-workshop våren 2021.
     - Vi vasket ut av hele kontoret, samt fikk ryddet og flyttet en del ting til IT-boden.
 - Vi fikk i samarbeid med Prokom malt og klistret Online-logoen på kontoret.
+- Har hatt kontor-til-kontor med Tihlde og Abakus.
 - Vi endelig fått kjøpt inn nye hyller til kiosken! 
 
 ### Annet
