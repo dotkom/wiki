@@ -96,14 +96,14 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 ## Fondets generalforsamling
 
-#### Årsberetning
+### Årsberetning
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:35 | 7 | 20:42 | Årsberetning ved fondstyret |
 | Total: | 7 | 20:42 |
 
 
-#### Saksforslag til fondet
+### Saksforslag til fondet
 
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
@@ -112,13 +112,13 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 
 
-#### Vedtektsforslag til fondet
+### Vedtektsforslag til fondet
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:42 | 15 | 20:57 | Ta i bruk styringsdokument for Fondstyret  |
 | Total: | 15 | 20:57 |
 
-#### Valg for fondet
+### Valg for fondet
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:57 | 5 | 21:02 | Valg av XXX |
