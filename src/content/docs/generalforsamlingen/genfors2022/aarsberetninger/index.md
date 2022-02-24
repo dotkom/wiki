@@ -120,14 +120,14 @@ title: "Årsberetninger 2022"
 
 ### Kontoret og kiosken
 - Hadde kontor-workshop våren 2021.
-    - Vi vasket ut hele kontoret, samt fikk ryddet og flyttet en del ting til IT-boden.
-- Vi fikk i samarbeid med Prokom malt og klistret og Online-logoen på kontoret.
+    - Vi vasket ut av hele kontoret, samt fikk ryddet og flyttet en del ting til IT-boden.
+- Vi fikk i samarbeid med Prokom malt og klistret Online-logoen på kontoret.
 - Vi endelig fått kjøpt inn nye hyller til kiosken! 
 
 ### Annet
 - Driver fremdeles å bli kvitt plastikk-kniver i kiosken, utenom det er alt bestikk blitt trebestikk <3
-- Gjenbrukskoppene vi fikk fra Netlight virker som har funket veldig bra, har ikke merket et like stor enpgangskopp forbruk etter gjenbrukskoppene.
-- Det er også bestemt av vi ikke skal bruke Netlight kopper på arrangementer og komité-møter, dette er også for å minske forbruket.
+- Det virker som gjenbrukskoppene vi fikk fra Netlight har funket veldig bra, har ikke merket et like stort engangskopp forbruk etter vi fikk gjenbrukskoppene.
+- Det er også bestemt av vi ikke skal bruke Netlight-kopper på arrangementer og komité-møter, dette er også for å minske forbruket.
 - Hadde en del problemer med nibble i høst når OW skulle opp i skyen. Dette så vi veldig godt på regnskapet fra høsten.
                                                                     
 
