@@ -56,7 +56,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Regnskap
 
 | Start  | Tid | Slutt | Sak                          |
-|--------|-----|-------|------------------------------|
+|--------|-----|-------|----------------------------------------------|
 | 17:15  | 10  | 17:25 | Gjennomgang av regnskap 2021 |
 | 17:25  | 0   | 17:25 |                              |
 | 17:25  | 0   | 17:25 |                              |
@@ -67,7 +67,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Saksforslag
 
 | Start | Tid | Slutt | Sak |
-|---|---|---|---|
+|--------|-----|-------|----------------------------------------------|
 | 17:25 | 10 | 17:35 | Saksforslag 01: Fokus på miljø i organisasjonen |
 | 17:35 | 5 | 17:40 | Saksforslag 02: Overføre midler til fondet |
 | 17:40 | 5 | 17:45 | Saksforslag 03: Flytte makten til å gjøre endringer i budsjettet til Bankom |
