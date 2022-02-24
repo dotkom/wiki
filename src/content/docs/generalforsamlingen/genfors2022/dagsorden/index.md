@@ -121,9 +121,9 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Valg for fondet
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 20:57 | 5 | 21:02 | Valg av XXX |
-| 21:02 | 5 | 21:07 | Valg av YYY |
-| 21:07 | 5 | 21:12 | Valg av ZZZ |
+| 20:57 | 5 | 21:02 | Valg av Onlinemedlem |
+| 21:02 | 5 | 21:07 | Valg av tidligere hovedstyremedlem |
+| 21:07 | 5 | 21:12 | Valg av Ridder |
 | Total: | 15 | 21:12 |
 
 ---
