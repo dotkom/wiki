@@ -64,7 +64,6 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 17:25 | 10 | 17:35 | Saksforslag 01: Fokus på miljø i organisasjonen |
 | 17:35 | 5 | 17:40 | Saksforslag 02: Overføre midler til fondet |
 | 17:40 | 5 | 17:45 | Saksforslag 03: Flytte makten til å gjøre endringer i budsjettet til Bankom |
-| 17:45 | 0 | 17:45 |  |
 | Total: | 10 | 17:45 |
 
 
@@ -91,9 +90,6 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 20:10 | 15 | 20:25 | Vedtekstforslag 13: FeminIT som nodekomite |
 | 20:25 | 5 | 20:30 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
 | 20:30 | 5 | 20:35 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
-| 20:35 |  | 20:35 |  |
-| 20:35 |  | 20:35 |  |
-| 20:35 |  | 20:35 |  |
 | Total: | 105 | 20:35 |
 
 
@@ -104,8 +100,6 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:35 | 7 | 20:42 | Årsberetning ved fondstyret |
-| 20:42 | 0 | 20:42 |  |
-| 20:42 | 0 | 20:42 |  |
 | Total: | 7 | 20:42 |
 
 
@@ -114,9 +108,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:42 | 0 | 20:42 |  |
-| 20:42 | 0 | 20:42 |  |
-| 20:42 | 0 | 20:42 |  |
-| Total: | 0 | 20:42 |
+| Total: | 0 | 20:42 |  |
 
 
 
@@ -124,8 +116,6 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:42 | 15 | 20:57 | Ta i bruk styringsdokument for Fondstyret  |
-| 20:57 | 0 | 20:57 |  |
-| 20:57 | 0 | 20:57 |  |
 | Total: | 15 | 20:57 |
 
 ### Valg for fondet
