@@ -56,6 +56,34 @@ title: "Årsberetninger 2022"
 
 ## Bank- og økonomikomiteen
 
+### Komitéspesifikt
+
+- Tatt opp 3 nye det året her som har integrert seg godt i komitéen og rutinene våres. 
+- Komiteen består av 12 aktive medlemmer.
+- Fokusert på å opprettholde det sosiale aspekteret og samtidig holde motivasjonen oppe.
+
+### Økonomispesifikt
+- Jobbet mot å øke synligheten av arbeidet til bankom og våres økanser.
+- Arrangert 2 budsjettmøter
+- Autobank har laget en side for å forenkle fakturering og jobber nå videre med andre prosjekter for å digitalisere bankom. 
+- Vi har jobbet målrettet for å forbedre bankom i fremtiden. 
+- Rengskapsført alle kontoene våres i Online
+- Fått dotkom ut av Onlinepotten.
+- Ekskom har nå DNB integrasjon i regnskapssystemet Fiken.
+- Revidert regnskapet til Online 2021
+- Revidert Abakus
+- Utviklet nye retningslinjer for Onlinepotten og utbetaling av kvitterignsskjema
+- Ryddet opp og oppdaterte wikien til bankom
+- Inkludert Appkom i Onlines økonomi
+- Hatt møte med økans i Abakus og hjulpet med oppstart av bankom i Abakus
+- Har ført 3 195 kjøp
+- 1 197 fakturaer har blitt sendt ut
+
+## Arrangementer
+- Hatt fattig student kurs
+
+
+
 ## Bedriftskomiteen
 
 - Tatt opp 5 medlemmer, hvorav 4 førsteklassinger og 1 andreklassing.
