@@ -94,7 +94,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 
 
-### Fondets generalforsamling
+## Fondets generalforsamling
 
 #### Årsberetning
 | Start | Tid | Slutt | Sak |
@@ -118,7 +118,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 20:42 | 15 | 20:57 | Ta i bruk styringsdokument for Fondstyret  |
 | Total: | 15 | 20:57 |
 
-### Valg for fondet
+#### Valg for fondet
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:57 | 5 | 21:02 | Valg av XXX |
