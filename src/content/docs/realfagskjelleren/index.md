@@ -4,7 +4,7 @@ title: "Realfagskjelleren"
 
 Realfagskjelleren er Online's egen kjeller og bar, som driftes sammen med linjeforeningene [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). Kjelleren befinner seg i Herman Krags Veg 12. 
 
-Kjelleren arrangerer lavterskel arrangementer hvor alle er velkomne, til vanlig er det åpent hver Fredag hvor en etter en tung uke kan ta seg en rolig tur for å slappe av og møte andre medstudenter. I tillegg pleier det å arrangeres andre fester nå og da hvor igjen alle er velkomne.
+Kjelleren arrangerer lavterskel arrangementer hvor alle er velkomne. Til vanlig er det åpent hver Fredag, hvor man etter en tung uke kan ta seg en rolig tur for å slappe av og møte andre medstudenter over rolig forfriskninger. I tillegg blir det arrangerte andre former for tema arrangementer hvor igjen alle er velkomne.
 
 Ellers er det mulig å booke kjelleren for egne arrangementer og sammenkomster. 
 
