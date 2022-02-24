@@ -110,12 +110,12 @@ title: "Årsberetninger 2022"
 ## Trivselskomiteen
 
 ### Overordnet
-- Vi tok opp 5 nye meldemmer i høst.
+- Vi tok opp 5 nye medlemmer i høst.
      - 3 førsteklassinger og 2 andreklassinger.
 - Totalt er vi 13 aktive medlemmer, og 2 permitterte.
 
 ### Arrangementer
-- Vi har fått gjennomført en rekke spennende og varierende arrangementer, en del flere en tidligere år.
+- Vi har fått gjennomført en rekke spennende og varierende arrangementer, en del flere enn tidligere år.
 - Vi har også mange andre spennende arrangementer planlagt for resten av våren!
 
 ### Kontoret og kiosken
