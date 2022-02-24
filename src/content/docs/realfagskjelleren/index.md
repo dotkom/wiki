@@ -19,11 +19,11 @@ Ellers kan kjellerstyret bli kontaktet på [styret@realfagskjelleren.no](mailto:
 
 # Historie
 
-I 2000 ble det åpnet for at andre linjeforeninger utenom siving-linjene kunne søke om egen kjeller  som fritidsareal på Moholt. Online søkte samtidig som Volvox & Alkymisten, å da det var en kjeller som var ledig ble de enige om å dele den. Slik fikk de tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen. Det er fortalt at kjelleren opplevde sitt første ran dagen etter første åpning hvor alle kjellerens penger ble stjålet..
+I 2000 ble det åpnet for at andre linjeforeninger utenom siving-linjene kunne søke om egen kjeller  som fritidsareal på Moholt. Online søkte samtidig som Volvox & Alkymisten, å da det var en kjeller som var ledig ble de enige om å dele den. Slik fikk de tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen. Det er fortalt at kjelleren opplevde sitt første innbrudd dagen etter første åpning hvor alle kjellerens penger ble stjålet..
 
 Noen år senere i 2003 ble Delta med og navnet på kjelleren ble Realfagskjellern. Etter Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen da Spanskrørets medlemmer allerede brukte tid der.
 
-Den 7. Mai 2011 feiret kjelleren sitt 10 årsjubileum på Thon Hotell Prinsen. Noen dager etter jubileet opplevde kjelleren nok et ran, hvor av både penger, drikke og annet utstyr ble stjålet. Heldigvis var kjellerens høytalere fjernet i regi av jubileet og ble dermed ikke tatt.
+Den 7. Mai 2011 feiret kjelleren sitt 10 årsjubileum på Thon Hotell Prinsen. Noen dager etter jubileet opplevde flere av Moholtkjellerne nok et innbrudd, hvor både penger, drikke og annet utstyr ble stjålet. Heldigvis var kjellerens musikkanlegg fjernet for bruk på jubileet og ble dermed ikke stjålet.
 
 Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. 
 
