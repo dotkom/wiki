@@ -34,10 +34,10 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 16:43  | 0,5 | 16:43 | Godkjenning av referat fra 1. mars 2021 |
 | 16:43  | 1   | 16:44 | Godkjenning av innkalling               |
 | 16:44  | 1   | 16:45 | Godkjenning av saksliste                |
-| 16:45  | 10  | 16:55 | Registrering i stemmesystem             |
-| 16:55  | 0   | 16:55 |                                         |
-| 16:55  | 0   | 16:55 |                                         |
-| Total: | 26  | 16:55 |
+| 16:45  | 5   | 16:55 | Registrering i stemmesystem             |
+| 16:55  | 5   | 17:00 | Prøvevotering                           |
+| 17:00  | 0   | 17:05 |                                         |
+| Total: | 26  | 17:05 |
 
 
 
