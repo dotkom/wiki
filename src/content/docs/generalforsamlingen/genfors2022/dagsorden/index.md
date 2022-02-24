@@ -52,7 +52,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Regnskap
 
 | Start  | Tid | Slutt | Sak                          |
-|--------|-----|-------|----------|
+|--------|-----|-------|------------------------------|
 | 17:15  | 10  | 17:25 | Gjennomgang av regnskap 2021 |
 | Total: | 10  | 17:25 |
 
