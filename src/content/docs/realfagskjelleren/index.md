@@ -23,18 +23,18 @@ I 2000 ble det åpnet for at andre linjeforeninger utenom siving-linjene kunne s
 
 Noen år senere i 2003 ble Delta med og navnet på kjelleren ble Realfagskjellern. Etter Spanskrøret ble stiftet i 2004 ble de også tatt med inn i varmen da Spanskrørets medlemmer allerede brukte tid der.
 
-7. Mai 2011 feiret kjelleren sitt 10 årsjubileum på Thon Hotell Prinsen. Noen dager etter jubileet opplevde kjelleren nok et ran, hvor av både penger, drikke og annet utstyr ble stjålet. Heldigvis var kjellerens høytalere fjernet i regi av jubileet og ble dermed ikke tatt.
+Den 7. Mai 2011 feiret kjelleren sitt 10 årsjubileum på Thon Hotell Prinsen. Noen dager etter jubileet opplevde kjelleren nok et ran, hvor av både penger, drikke og annet utstyr ble stjålet. Heldigvis var kjellerens høytalere fjernet i regi av jubileet og ble dermed ikke tatt.
 
 Januar 2016 ble alle kjellerne på Moholt stengt grunnet brannfare, for at de skulle åpnes igjen krevde det flere utbedringer. Organisasjonen Reddkjellerne ble opprettet for å få kjellerne åpnet igjen. 
 
-Selv om kjelleren var stengt ble 15. Års jubileet feiret til stor stas 9. April 2016 på Scandic Lerkendal.
+Den 9. April 2016 feiret kjelleren sitt 15 års jubileum. Selv om kjelleren var stengt på den tiden ble jubileet feiret med stor stas.
 
 I løpet av 2017/2018 foregikk kjellerdriften i gamle Moholt barnehage i regi av Reddkjellerne som paraplyorganisasjon for alle kjellerne.
 
 Den 16. Mars 2018 var utbedringene ferdige og Realfagskjelleren fikk nye lokaler i Herman Krags Veg 12. 
 Kjelleren åpnet igjen i fadderukene 2018, og og den 31. August 2018 var den første offisielle ordinære åpningen etter alle kjellerne ble stengt over 2 år før.
  
-2. Oktober 2021 feiret kjelleren 20 års jubileum på Thon Hotel Prinsen. Jubileet var en uke etter landet åpnet igjen etter Korona pandemien, som passet yppelig med en hel uke kjelleråpent samt et jubileum hvor alle kunne mingle fritt igjen. 
+Den 2. Oktober 2021 feiret kjelleren 20 års jubileum på Thon Hotel Prinsen. Jubileet var en uke etter landet åpnet igjen etter Korona pandemien, som passet yppelig med en hel uke kjelleråpent samt et jubileum hvor alle kunne mingle fritt igjen. 
 
 ## Onlinere i Kjellerstyret
 ###2021/2022
