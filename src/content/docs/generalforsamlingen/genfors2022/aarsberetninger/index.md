@@ -111,7 +111,7 @@ title: "Årsberetninger 2022"
 
 ### Overordnet
 - Vi tok opp 5 nye meldemmer i høst.
-  - 3 førsteklassinger og 2 andreklassinger
+     - 3 førsteklassinger og 2 andreklassinger
 - Totalt er vi 13 aktive medlemmer, og 2 permitterte.
 
 ### Arrangementer
