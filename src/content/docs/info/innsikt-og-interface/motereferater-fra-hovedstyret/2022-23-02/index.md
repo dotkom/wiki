@@ -143,6 +143,7 @@ Godkjent
 
 ## 787 - Genfors oversikt(10 min)
 [Hva gjenstår]
+
 - Sjekk slack, ble lagt ut en oversikt over hva som gjenstår. Fristen for å ferdigstille vedtektsforslag osv er i dag.
 - Årsberetninger må fikses og helst i dag.
 - Gå inn på presentasjonen og sjekk at alle sine saker er riktige. 
