@@ -45,3 +45,8 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Fagkomleder:* Tale Eikenes
 * *Prokomleder:* Christina Oftedal
 * *Trikomleder:* Frida Eriksen Næss
+
+### Eventuell godkjenning av debugleder
+Grunnet vedtektsforslag 5 legger vi også inn debugleder for mulig godkjennelse på generalforsamlingen. Dette skjer kun dersom vedtektsforslag 5 - "Legge Debug inn under “4.4 Andre grupper tilknyttet Online” (Debug)" går gjennom.
+
+Debugleder: Aleksander Karlsen
