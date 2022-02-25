@@ -171,7 +171,7 @@ title: "Årsberetninger 2022"
 - Tech Talks 2022 ble også avlyst pga restriksjonene i Norge
 - Avbestillingsgebyrene klarte vi å dekke med dugnadsinntekter, slik at alle fikk tilbakebetalt depositum.
 
-## IT-ekskursjonen
+## IT-ekskursjonen 2021
 
 ## Online IL
 
