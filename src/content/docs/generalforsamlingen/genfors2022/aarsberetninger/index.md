@@ -173,8 +173,8 @@ title: "Årsberetninger 2022"
 
 ## IT-ekskursjonen 2021
 - ITEX besto av 6 medlemmer
-- Gjennomførte tur til Oslo under med 81 deltagere
-- testing ble gjennomført under avreise og hver dag før dagens første bedriftsbesøk
+- Gjennomførte tur til Oslo med 81 deltagere
+- Testing ble gjennomført under avreise og hver dag før dagens første bedriftsbesøk
 - 15 bedriftsbesøk ble gjennomført i løpet av turen
 
 ## Online IL
