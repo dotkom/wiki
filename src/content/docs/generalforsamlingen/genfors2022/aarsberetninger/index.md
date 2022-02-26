@@ -172,6 +172,10 @@ title: "Årsberetninger 2022"
 - Avbestillingsgebyrene klarte vi å dekke med dugnadsinntekter, slik at alle fikk tilbakebetalt depositum.
 
 ## IT-ekskursjonen 2021
+- ITEX besto av 6 medlemmer
+- Gjennomførte tur til Oslo under med 81 deltagere
+- testing ble gjennomført under avreise og hver dag før dagens første bedriftsbesøk
+- 15 bedriftsbesøk ble gjennomført i løpet av turen
 
 ## Online IL
 
