@@ -41,7 +41,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Arrkomleder:* Helena Dypvik Skants
 * *Bankomleder:*
 * *Bedkomleder:*
-* *Dotkomleder:*
+* *Dotkomleder:* Thomas Hasvold
 * *Fagkomleder:* Tale Eikenes
 * *Prokomleder:* Christina Oftedal
 * *Trikomleder:* Frida Eriksen Næss
