@@ -168,8 +168,9 @@ title: "Årsberetninger 2022"
 - Ekskom besto av 9 medlemmer
 - Bestilte tur til Japan, ble avlyst på grunn av korona.
 - Bestilte tur til Berlin, Dresden og Praha, men Ekskom avlyste rett etter jul. FUS bestemte at alle ekskursjoner i vårsemesteret ble avlyst.
-- Tech Talks 2022 ble også avlyst pga restriksjonene i Norge
 - Avbestillingsgebyrene klarte vi å dekke med dugnadsinntekter, slik at alle fikk tilbakebetalt depositum.
+- Tech Talks 2022 ble også avlyst pga restriksjonene i Norge
+- Valgt ny leder og nestleder for Ekskom 2023
 
 ## IT-ekskursjonen 2021
 - ITEX besto av 6 medlemmer
