@@ -163,6 +163,17 @@ title: "Årsberetninger 2022"
 ## Seniorkomiteen
 
 ## Applikasjonskomiteen
+- Opptak og medlemmer
+	- Tok opp 2 nye medlemmer i fjor vår
+	- Tok opp 6 nye medlemmer i høst
+	- Totalt 12 aktive medlemmer
+	- 1 frafall i vår
+- Prosjekter
+	- 4 aktive prosjekter med et par småprosjekter på siden
+	- Har jobbet med techtalks nettsiden som ble avlyst
+- Annet
+	- Robin Tveråen ble valgt til ny leder
+	- Har arbeidsdager annenhver søndag og ukentlige møter
 
 ## Ekskursjonskomiteen 2022
 - Ekskom besto av 9 medlemmer
