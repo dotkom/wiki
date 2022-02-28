@@ -17,6 +17,55 @@ title: "Årsberetninger 2022"
 
 ## Hovedstyret
 
+### Generelt
+* Hatt én åpen diskusjonskveld.
+* Avholdt to stormøter
+* Gjennomført økonomi- og vedtekstkveld.
+* Nominert riddere til immball 21 og jubileum 22.
+* Delt ut særskilt utmerkelse x7
+* Laget og godkjent fadderkontrakt.
+* Laget intensjonsavtale med RFK, Debug og Output
+* Deltatt på forventningsavklaring-kurs med Sit og vært på lederutviklings-workshop med Seniorkom og Bekk.
+* Gjennomført “Den nødvendige samtalen” for tillitsvalgte med Sit
+* Gjennomført kurs i møteledelse for alle komiteledere
+* Fått ny medlemspin.
+* Vedtatt oppstart av FeminIT.
+* Arrangert kompilering for 1. og 2. klasse.
+* Arrangert ny-på-informatikk.
+* Arrangert “kokekveld” på A4 i samarbeid med Trikom, Dotkom og IDI.
+* Arrangert sommerfest for Online i Oslo.
+* Arrangert hyttetur med Hovedstyret og komiteledere.
+* Gjennomført komiteopptak H21.
+* Sendt ut semesterundersøkelse i Online.
+* Endret gjennomføringen av opptak for å begrense innsyn i søknader.
+* Revidert prikkreglene i samarbeid med de alle komitene.
+* Tatt opp velkom 22
+* Tatt opp ITEX 21 og 22
+* Tatt 7x nipple-piercinger for veldedighet
+
+### Samarbeid med andre:
+* Deltatt på møter med IE hver måned.
+* Deltatt på 2x semestermøte med IDI.
+* Arrangert og deltatt på FIF-møte V21 og H21
+* Fikk ny FIF-koordinator, s/o til Thomas Hasvold
+* Deltatt på linjeledermøter hver måned.
+* Deltatt under En psykt vanlig uke 21.
+* Representert på diverse immball, jubileum, revyer og gallaer.
+* Viet Delta og Erudio.
+* Deltatt på UKE-toget
+
+### Studentpolitikk:
+* Utarbeide plan for forbedring av arealer A-blokka.
+* Fått tilbake muligheten til å kontaktet nye studenter ved BIT og MSIT gjennom instituttet, og sendt ut linjeforeningsmateriell.
+* Bidratt til høringssvar rundt tildeling av areal for linjeforeninger.
+
+### Sosialt og kos
+* Laget julekalender.
+* Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
+* Delt ut pepperkaker og snacks på A-blokka under eksamensperioden med Abakus og Tihlde.
+
+
+
 ## Debug
 
 ## Arrangementskomiteen  
