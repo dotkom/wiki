@@ -18,6 +18,7 @@ title: "Årsberetninger 2022"
 ## Hovedstyret
 
 **Generelt**  
+
 * Hatt én åpen diskusjonskveld.
 * Avholdt to stormøter
 * Gjennomført økonomi- og vedtekstkveld.
@@ -44,6 +45,7 @@ title: "Årsberetninger 2022"
 * Tatt 7x nipple-piercinger for veldedighet
 
 **Samarbeid med andre**  
+
 * Deltatt på møter med IE hver måned.
 * Deltatt på 2x semestermøte med IDI.
 * Arrangert og deltatt på FIF-møte V21 og H21
@@ -55,11 +57,13 @@ title: "Årsberetninger 2022"
 * Deltatt på UKE-toget
 
 **Studentpolitikk**  
+
 * Utarbeide plan for forbedring av arealer A-blokka.
 * Fått tilbake muligheten til å kontaktet nye studenter ved BIT og MSIT gjennom instituttet, og sendt ut linjeforeningsmateriell.
 * Bidratt til høringssvar rundt tildeling av areal for linjeforeninger.
 
 **Sosialt og kos**  
+
 * Laget julekalender.
 * Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 * Delt ut pepperkaker og snacks på A-blokka under eksamensperioden med Abakus og Tihlde.
