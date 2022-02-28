@@ -23,8 +23,8 @@ title: "Årsberetninger 2022"
 * Gjennomført økonomi- og vedtekstkveld.
 * Nominert riddere til immball 21 og jubileum 22.
 * Delt ut særskilt utmerkelse x7
-* Laget og godkjent fadderkontrakt.
-* Laget intensjonsavtale med RFK, Debug og Output
+* Utarbeidet og godkjent fadderkontrakt.
+* Laget intensjonsavtale med RFK og Output
 * Deltatt på forventningsavklaring-kurs med Sit og vært på lederutviklings-workshop med Seniorkom og Bekk.
 * Gjennomført “Den nødvendige samtalen” for tillitsvalgte med Sit
 * Gjennomført kurs i møteledelse for alle komiteledere
