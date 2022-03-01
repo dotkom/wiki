@@ -270,7 +270,19 @@ title: "Årsberetninger 2022"
 ## Online IL
 - Tok opp 5 nye medlemmer i høst. Er nå 12 aktive medlemmer med 4 permitterte
 - Har siden sist genfors arrangert 23 arrangementer innen 12 forskjellige idretsgrener
-- Buldring og Padel er de mest populære, men har vært bra oppmøte på nesten alle arrangementene det siste året
+	- Slalom
+	- Sjakk
+	- Volleyball
+	- Kickboksing
+	- E-sport
+	- Jogging
+	- Golf
+	- Bowling
+	- CrossFit x 2
+	- Curling x 3
+	- Padel x 4
+	- Buldring x 6
+- Nen arrangementer er mer populære enn andre, men har vært bra oppmøte på flesteparten av arrangementene det siste året
 - Har nettopp hatt valg av ny leder, Oskar Nesheim
 
 ## Velkomstkomiteen 2021
