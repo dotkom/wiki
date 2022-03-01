@@ -64,7 +64,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 17:35 | 5 | 17:40 | Saksforslag 02: Overføre midler til fondet |
 | 17:40 | 5 | 17:45 | Saksforslag 03: Flytte makten til å gjøre endringer i budsjettet til Bankom |
 | 17:45 | 10 | 17:55 | Pause |
-| Total: | 30 | 17:55 |
+| Total tid: | 30 min | 17:55 |
 
 
 
@@ -88,7 +88,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 20:35 | 15 | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite |
 | 20:50 | 5 | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
 | 20:55 | 5 | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
-| Total: | 130 | 21:00 |
+| Total tid: | 130 min | 21:00 |
 
 
 ## Fondets generalforsamling
@@ -105,7 +105,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:42 | 0 | 20:42 |  |
-| Total: | 0 | 20:42 |  |
+| Total tid: | 0 | 20:42 |  |
 
 
 
@@ -139,7 +139,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 23:07 | 15 | 23:22 | Valg av styremedlem fra trivselskomiteen |
 | 23:22 | 5 | 23:27 | Valg av valgkomiteen |
 | 23:27 | 5 | 23:32 | Valg av hovedtilitsvalgt (hvis vedtektsforslag 7 går gjennom) |
-| Total: | 110 | 23:32 |
+| Total tid: | 110 min | 23:32 |
 
 
 ### Godkjenne komiteledere
@@ -154,7 +154,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 23:50 | 3 | 23:53 | Godkjenning av komitéleder fra trivselskomiteen |
 | 23:53 | 3 | 23:56 | Godkjenning av komitéleder fra Online Idrettslag |
 | 23:56 | 3 | 23:59 | Godkjenning av leder av Debug |
-| Total: | 27 | 23:59 |
+| Total tid: | 27 min | 23:59 |
 
 
 
@@ -162,7 +162,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 23:59 | 3 | 00:02 | Evaluering |
-| Total: | 3 | 00:02 |
+| Total tid: | 3 min | 00:02 |
 
 
 ### Generalforsamlingen heves
