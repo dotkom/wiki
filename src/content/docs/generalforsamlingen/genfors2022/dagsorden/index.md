@@ -36,7 +36,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 16:44  | 1   | 16:45 | Godkjenning av saksliste                |
 | 16:45  | 5   | 16:50 | Registrering i stemmesystem             |
 | 16:50  | 5   | 16:55 | Prøvevotering                           |
-| Total: | 26  | 16:55 |
+| Total tid: | 26 min | 16:55 |
 
 
 
@@ -45,7 +45,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start  | Tid | Slutt | Sak                                           |
 |--------|-----|-------|-----------------------------------------------|
 | 16:55  | 20  | 17:15 | Årsberetning for Online og samarbeidspartnere |                                       
-| Total: | 20  | 17:15 |
+| Total tid: | 20 min | 17:15 |
 
 
 
@@ -54,7 +54,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start  | Tid | Slutt | Sak                          |
 |--------|-----|-------|------------------------------|
 | 17:15  | 10  | 17:25 | Gjennomgang av regnskap 2021 |
-| Total: | 10  | 17:25 |
+| Total tid: | 10 min | 17:25 |
 
 
 ### Saksforslag
@@ -64,39 +64,32 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 17:25 | 10 | 17:35 | Saksforslag 01: Fokus på miljø i organisasjonen |
 | 17:35 | 5 | 17:40 | Saksforslag 02: Overføre midler til fondet |
 | 17:40 | 5 | 17:45 | Saksforslag 03: Flytte makten til å gjøre endringer i budsjettet til Bankom |
-| Total: | 10 | 17:45 |
+| Total tid: | 10 min | 17:45 |
 
 
 ### Vedtektsforslag
-| Start  | Tid | Slutt | Sak                                                                                                                                                        |
-|--------|-----|-------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 17:45  | 15  | 18:00 | Vedtektsforslag 01: To generalforsamlinger                                                                                                                 |
-| 18:00  | 25  | 18:25 | Vedtektsforslag 02: Valg til styre ved begge genfors                                                                                                       |
-| 18:25  | 5   | 18:30 | Pause                                                                                                                                                      |
-| 18:30  | 10  | 18:40 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser                                                                                     |
-| 18:40  | 10  | 18:50 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold)                                                                 |
-| 18:50  | 10  | 19:00 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online”                                                                            |
-| 19:00  | 30  | 19:30 | Pizza pause                                                                                                                                                |
-| 19:30  | 10  | 19:40 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
-| 19:40  | 10  | 19:50 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller)                                            |
-| 19:50  | 5   | 19:55 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog                                                                                                |
-| 19:55  | 5   | 20:00 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig                                                                                               |
-| 20:00  | 10  | 20:10 | Pause                                                                                                                                                      |
-| 20:10  | 15  | 20:25 | Vedtekstforslag 10: Definisjon på nodekomite                                                                                                               |
-| 20:25  | 5   | 20:30 | Vedtekstforslag 11: OIL som kjernekomite                                                                                                                   |
-| 20:30  | 5   | 20:35 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite                                                                                                  |
-| 20:35  | 0   | 20:35 | Pause                                                                                                                                                      |
-| 20:35  | 15  | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite                                                                                                                 |
-| 20:50  | 5   | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online”                                                            |
-| 20:55  | 5   | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant                                                                                            |
-| 21:00  |     | 21:00 |                                                                                                                                                            |
-| 21:00  |     | 21:00 |                                                                                                                                                            |
-| 21:00  |     | 21:00 |                                                                                                                                                            |
-| Total: | 130 | 21:00 |                                                                                                                                                            |
-
-
-
-
+| Start | Tid | Slutt | Sak |
+|---|---|---|---|
+| 17:45 | 15 | 18:00 | Vedtektsforslag 01: To generalforsamlinger |
+| 18:00 | 25 | 18:25 | Vedtektsforslag 02: Valg til styre ved begge genfors |
+| 18:25 | 5 | 18:30 | Pause |
+| 18:30 | 10 | 18:40 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
+| 18:40 | 10 | 18:50 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
+| 18:50 | 10 | 19:00 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
+| 19:00 | 30 | 19:30 | Pizza pause |
+| 19:30 | 10 | 19:40 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
+| 19:40 | 10 | 19:50 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
+| 19:50 | 5 | 19:55 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
+| 19:55 | 5 | 20:00 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
+| 20:00 | 10 | 20:10 | Pause |
+| 20:10 | 15 | 20:25 | Vedtekstforslag 10: Definisjon på nodekomite |
+| 20:25 | 5 | 20:30 | Vedtekstforslag 11: OIL som kjernekomite |
+| 20:30 | 5 | 20:35 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
+| 20:35 | 0 | 20:35 | Pause |
+| 20:35 | 15 | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite |
+| 20:50 | 5 | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
+| 20:55 | 5 | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
+| Total tid: | 130 min | 21:00 |  |
 
 
 ## Fondets generalforsamling
@@ -105,7 +98,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:35 | 7 | 20:42 | Årsberetning ved fondstyret |
-| Total: | 7 | 20:42 |
+| Total tid: | 7 min | 20:42 |
 
 
 ### Saksforslag til fondet
@@ -121,7 +114,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 20:42 | 15 | 20:57 | Ta i bruk styringsdokument for Fondstyret  |
-| Total: | 15 | 20:57 |
+| Total tid: | 15 min | 20:57 |
 
 ### Valg for fondet
 | Start | Tid | Slutt | Sak |
@@ -129,7 +122,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 20:57 | 5 | 21:02 | Valg av Onlinemedlem |
 | 21:02 | 5 | 21:07 | Valg av tidligere hovedstyremedlem |
 | 21:07 | 5 | 21:12 | Valg av Ridder |
-| Total: | 15 | 21:12 |
+| Total tid: | 15 min | 21:12 |
 
 ---
 
@@ -150,7 +143,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 23:57 | 0 | 23:57 |  |
 | 23:57 | 0 | 23:57 |  |
 | 23:57 | 0 | 23:57 |  |
-| Total: | 165 | 23:57 |
+| Total tid: | 165 min | 23:57 |
 
 
 
@@ -173,7 +166,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 00:24 | 0 | 00:24 |  |
 | 00:24 | 0 | 00:24 |  |
 | 00:24 | 0 | 00:24 |  |
-| Total: | 27 | 00:24 |
+| Total tid: | 27 min | 00:24 |
 
 
 ### Evaluering av generalforsamling
