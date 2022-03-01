@@ -97,8 +97,8 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Årsberetning
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 20:35 | 7 | 20:42 | Årsberetning ved fondstyret |
-| Total tid: | 7 min | 20:42 |
+| 21:00 | 7 | 21:07 | Årsberetning ved fondstyret |
+| Total tid: | 7 min | 21:07 |
 
 
 ### Saksforslag til fondet
@@ -113,16 +113,16 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Vedtektsforslag til fondet
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 20:42 | 15 | 20:57 | Ta i bruk styringsdokument for Fondstyret  |
-| Total tid: | 15 min | 20:57 |
+| 21:07 | 15 | 21:22 | Ta i bruk styringsdokument for Fondstyret  |
+| Total tid: | 15 min | 21:22 |
 
 ### Valg for fondet
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 20:57 | 5 | 21:02 | Valg av Onlinemedlem |
-| 21:02 | 5 | 21:07 | Valg av tidligere hovedstyremedlem |
-| 21:07 | 5 | 21:12 | Valg av Ridder |
-| Total tid: | 15 min | 21:12 |
+| 21:22 | 5 | 21:27 | Valg av Onlinemedlem |
+| 21:27 | 5 | 21:32 | Valg av tidligere hovedstyremedlem |
+| 21:32 | 5 | 21:37 | Valg av Ridder |
+| Total tid: | 15 min | 21:37 |
 
 ---
 
