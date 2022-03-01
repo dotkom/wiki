@@ -273,6 +273,7 @@ title: "Årsberetninger 2022"
 #### Prosjekter
 - Vi har opprettet tre nye interessegrupper
 - Vi har laget kollokviegrupper
+- Vi har hatt flere lederutviklingskurs
 - Vi har opprettet nytt prosjekt for å digitalisere bankom
 
 #### Diverse
