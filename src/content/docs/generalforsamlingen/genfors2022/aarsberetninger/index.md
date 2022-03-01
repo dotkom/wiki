@@ -269,7 +269,7 @@ title: "Årsberetninger 2022"
 
 ## Online IL
 - Tok opp 5 nye medlemmer i høst. Er nå 12 aktive medlemmer og 4 permitterte
-- Har siden sist genfors arrangert 23 arrangementer innen 12 forskjellige idretsgrener (plus to arrangementer som måtte avlyses)
+- Har siden sist genfors arrangert 23 arrangementer innen 12 forskjellige idrettsgrener (plus to arrangementer som måtte avlyses)
 	- Slalom
 	- Sjakk
 	- Volleyball
