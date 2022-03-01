@@ -163,6 +163,30 @@ title: "Årsberetninger 2022"
 ## Drifts- og utviklingskomiteen
 
 ## Fag- og kurskomiteen
+- Tatt opp 4 nye
+       - 3 førsteklassinger og 1 andreklassing
+       - Er totalt 21 medlemmer, hvorav 6 er aktive pang
+
+### Høst 2021
+- 3 bedriftskurs
+- Jobbsøkerkurs
+- 2 samarbeidsarrangementer med bedkom
+       - Fuckup-night
+       - Collaborate Press
+- Ikke-bedriftskurs kurs
+       - Git med IDI
+       - Asciidocs
+       - Fond -og aksjekurs med Bankom
+- Midtsemester -og eksamenskurs
+
+### Vår 2022
+- Planla Tech Talks, hvilket ble avlyst pga smitterisiko
+- 10 bedriftskurs (hvorav 4 allerede gjennomført)
+- 3 ikke-bedriftskurs (hvorav ett gjennomført)
+       - Github-kurs
+       - Yoga
+       - Ølsmaking
+- Midtsemester -og eksamenskurs
 
 ## Profil- og aviskomiteen
 - Tatt opp 6 nye
