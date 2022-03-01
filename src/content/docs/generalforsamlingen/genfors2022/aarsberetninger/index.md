@@ -262,6 +262,23 @@ title: "Årsberetninger 2022"
 
 ## Seniorkomiteen
 
+#### Generelt
+- Seniorkom består av 9 medlemmer
+- Tok opp 6 medlemmer
+
+#### Arrangementer
+- Har arrangert utmatrikulering som ikke ble gjennomført
+- Har arrangert komitekickoff
+
+#### Prosjekter
+- Vi har opprettet tre nye interessegrupper
+- Vi har laget kollokviegrupper
+- Vi har opprettet nytt prosjekt for å digitalisere bankom
+
+#### Diverse
+- Ettersom mange komiteer tar i bruk pang ordning har vi sett mindre interesse til seniorkom. På grunn av dette har vi jobbet hardt med å endre strukturen, kulturen og målene til komiteen for å kunne oppnå komiteens ansvar for linjeforeningen.
+- Vi har nye interne retningslinjer som har blitt godkjent av hovedstyret
+
 ## Applikasjonskomiteen
 - Opptak og medlemmer
 	- Tok opp 2 nye medlemmer i fjor vår
