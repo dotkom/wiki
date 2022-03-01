@@ -76,7 +76,7 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 18:30 | 10 | 18:40 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
 | 18:40 | 10 | 18:50 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
 | 18:50 | 10 | 19:00 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
-| 19:00 | 30 | 19:30 | Pizza pause |
+| 19:00 | 30 | 19:30 | **Pizza pause** |
 | 19:30 | 10 | 19:40 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
 | 19:40 | 10 | 19:50 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
 | 19:50 | 5 | 19:55 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
