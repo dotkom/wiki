@@ -268,6 +268,10 @@ title: "Årsberetninger 2022"
 - 15 bedriftsbesøk ble gjennomført i løpet av turen
 
 ## Online IL
+- Tok opp 5 nye medlemmer i høst. Er nå 12 aktive medlemmer med 4 permitterte
+- Har siden sist genfors arrangert 23 arrangementer innen 12 forskjellige idretsgrener
+- Buldring og Padel er de mest populære, men har vært bra oppmøte på nesten alle arrangementene det siste året
+- Har nettopp hatt valg av ny leder, Oskar Nesheim
 
 ## Velkomstkomiteen 2021
 - Velkom besto av 14 medlemmer inkludert leder, nestleder og to masterstudenter.
