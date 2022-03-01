@@ -71,14 +71,14 @@ title: "Årsberetninger 2022"
 
 
 ## Debug
-**Generelt** 
+### Generelt 
 - fikk kurs med Sit 
 - oppstart og videreføring fra si ifra 
 - valg av leder 
 - avklare intensjonsavtale med Online
 
 
-**Høst 21**
+### Høst 21
 - aktive i fadderukene 
 - tok opp et nytt medlem 
 - lagd retningslinjer 
@@ -86,7 +86,7 @@ title: "Årsberetninger 2022"
 - starta arbeid på mange saker som ble ferdigstilte våren 22
 
 
-**Vår 22**
+### Vår 22
  - workshop 
  - knapp på plass ved dotkom
  - artikkel på ow
