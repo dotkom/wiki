@@ -331,7 +331,7 @@ _Hvorfor? **Styrerepresentant fra xxxkomiteen** beskriver bedre oppgavene og hvi
 
 ## Forslag 15 - Fjerne parafering av vedtekter (Sindre Langaard)  
 
-_Hvorfor? Nå som Online bruker AsciiDoc for vedtekter, har vi lagt inn et system for bruk av GitHub og innlemmingsforespørsler ved eventuelle endring av vedtektene. Som informatikkstudenter har vi en gyllen mulighet til å bruke et så godt verktøy som git for kvalitetssikring og versjonskontrollering av vedtektene. Da mener jeg at hensikten bak konstituering av paraferere er unødvendig. Det kommer veldig tydelig fram i commit-historien hvilke endringer som er gjort, og alt av vedtekter ligger open source, som bør være kvalitetssikring nok.
+_Hvorfor? Nå som Online bruker AsciiDoc for vedtekter, har vi lagt inn et system for bruk av GitHub og innlemmingsforespørsler ved eventuelle endring av vedtektene. Som informatikkstudenter har vi en gyllen mulighet til å bruke et så godt verktøy som git for kvalitetssikring og versjonskontrollering av vedtektene. Da mener jeg at hensikten bak konstituering av paraferere er unødvendig. Det kommer veldig tydelig fram i commit-historien hvilke endringer som er gjort, og alt av vedtekter ligger open source, som bør være kvalitetssikring nok._
 
 **Endringer:**
 **5.1 Frister**
