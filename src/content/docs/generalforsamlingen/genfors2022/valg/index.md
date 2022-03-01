@@ -39,7 +39,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som skal godkjennes som komitéledere er:**
 
 * *Arrkomleder:* Helena Dypvik Skants
-* *Bankomleder:*
+* *Bankomleder:* Mia Bjørndal  
 * *Bedkomleder:* Cathrine Libæk  
 * *Dotkomleder:* Thomas Hasvold
 * *Fagkomleder:* Tale Eikenes
