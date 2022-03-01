@@ -68,32 +68,32 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 
 ### Vedtektsforslag
-
-| Tid | Start | Slutt | Sak |
+| Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 15 | 17:45 | 18:00 | Vedtektsforslag 01: To generalforsamlinger |
-| 25 | 18:00 | 18:25 | Vedtektsforslag 02: Valg til styre ved begge genfors |
-| 5 | 18:25 | 18:30 | Pause |
-| 10 | 18:30 | 18:40 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
-| 10 | 18:40 | 18:50 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
-| 10 | 18:50 | 19:00 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
-| 30 | 19:00 | 19:30 | Pizza pause |
-| 10 | 19:30 | 19:40 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
-| 10 | 19:40 | 19:50 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
-| 5 | 19:50 | 19:55 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
-| 5 | 19:55 | 20:00 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
-| 10 | 20:00 | 20:10 | Pause |
-| 15 | 20:10 | 20:25 | Vedtekstforslag 10: Definisjon på nodekomite |
-| 5 | 20:25 | 20:30 | Vedtekstforslag 11: OIL som kjernekomite |
-| 5 | 20:30 | 20:35 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
-| 0 | 20:35 | 20:35 | Pause |
-| 15 | 20:35 | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite |
-| 5 | 20:50 | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
-| 5 | 20:55 | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
-|  | 21:00 | 21:00 |  |
-|  | 21:00 | 21:00 |  |
-|  | 21:00 | 21:00 |  |
+| 17:45 | 15 | 18:00 | Vedtektsforslag 01: To generalforsamlinger |
+| 18:00 | 25 | 18:25 | Vedtektsforslag 02: Valg til styre ved begge genfors |
+| 18:25 | 5 | 18:30 | Pause |
+| 18:30 | 10 | 18:40 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
+| 18:40 | 10 | 18:50 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
+| 18:50 | 10 | 19:00 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
+| 19:00 | 30 | 19:30 | Pizza pause |
+| 19:30 | 10 | 19:40 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
+| 19:40 | 10 | 19:50 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
+| 19:50 | 5 | 19:55 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
+| 19:55 | 5 | 20:00 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
+| 20:00 | 10 | 20:10 | Pause |
+| 20:10 | 15 | 20:25 | Vedtekstforslag 10: Definisjon på nodekomite |
+| 20:25 | 5 | 20:30 | Vedtekstforslag 11: OIL som kjernekomite |
+| 20:30 | 5 | 20:35 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
+| 20:35 | 0 | 20:35 | Pause |
+| 20:35 | 15 | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite |
+| 20:50 | 5 | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
+| 20:55 | 5 | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
+| 21:00 |  | 21:00 |  |
+| 21:00 |  | 21:00 |  |
+| 21:00 |  | 21:00 |  |
 | Total: | 130 | 21:00 |  |
+
 
 
 
