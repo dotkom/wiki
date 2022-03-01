@@ -282,7 +282,7 @@ title: "Årsberetninger 2022"
 	- Curling x 3
 	- Padel x 4
 	- Buldring x 6
-- Noen arrangementer er mer populære enn andre, men har vært bra oppmøte på flesteparten av arrangementene det siste året
+- Noen arrangementer er mer populære enn andre, men har geerelt vært bra oppmøte hele det siste året
 - Har nettopp hatt valg av ny leder, Oskar Nesheim
 
 ## Velkomstkomiteen 2021
