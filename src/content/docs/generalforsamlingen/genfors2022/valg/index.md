@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:* Anders Robstad
 * *Nestleder:* Robin Lund Sadun  
-* *Økonomiansvarlig:* Henrik Horten Hegli
+* *Økonomiansvarlig:* Henrik Horten Hegli, Ruben Kobbeltvedt
 * *Styremedlem fra arrkom:* Maiken Lie  
 * *Styremedlem fra bedkom:* Karen Seim Midtlien
 * *Styremedlem fra dotkom:* Njål Ingersønn Sørland
