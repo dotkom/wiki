@@ -166,6 +166,7 @@ title: "Årsberetninger 2022"
 - Tatt opp 4 nye
        - 3 førsteklassinger og 1 andreklassing
        - Er totalt 21 medlemmer, hvorav 6 er aktive pang
+- Fulgt opp Ekskom og planlagt Tech Talks
 
 ### Høst 2021
 - 3 bedriftskurs
