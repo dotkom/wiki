@@ -47,10 +47,6 @@ Refreng..
 
 (Adagio)
 
-SISTE ORD: PRANK
-
-**Gratulerer med fullført kalenderluke <3**
-
 Når vi er vandret hen og staden hviler et øyeblikk, (sakte klapp x2)  
 så kommer våre sønner og tar opp den gamle skikk;  
 En lek mellom muntre butuljer, samt aldri så lit' erotikk. 
