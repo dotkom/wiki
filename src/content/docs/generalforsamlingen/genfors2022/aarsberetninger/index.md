@@ -71,6 +71,28 @@ title: "Årsberetninger 2022"
 
 
 ## Debug
+### Generelt: 
+- fikk kurs med Sit 
+- oppstart og videreføring fra si ifra 
+- valg av leder 
+- avklare intensjonsavtale med Online
+
+
+### Høst 21
+- aktive i fadderukene 
+- tok opp et nytt medlem 
+- lagd retningslinjer 
+- faste møtetider 
+- starta arbeid på mange saker som ble ferdigstilte våren 22
+
+
+### Vår 22
+ - workshop 
+ - knapp på plass ved dotkom
+ - artikkel på ow
+ - logo på plass ved prokom
+ - vedtektsforslag til genfors
+ - jobbing med videre synliggjøring
 
 ## Arrangementskomiteen  
 ### Overordnet:     
