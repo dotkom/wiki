@@ -59,37 +59,36 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 ### Saksforslag
 
-| Start | Tid | Slutt | Sak |
-|--------|-----|-------|----------------------------------------------|
 | 17:25 | 10 | 17:35 | Saksforslag 01: Fokus på miljø i organisasjonen |
+|---|---|---|---|
 | 17:35 | 5 | 17:40 | Saksforslag 02: Overføre midler til fondet |
 | 17:40 | 5 | 17:45 | Saksforslag 03: Flytte makten til å gjøre endringer i budsjettet til Bankom |
-| Total tid: | 10 min | 17:45 |
+| 17:45 | 10 | 17:55 | Pause |
+| Total: | 30 | 17:55 |
+
 
 
 ### Vedtektsforslag
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 17:45 | 15 | 18:00 | Vedtektsforslag 01: To generalforsamlinger |
-| 18:00 | 25 | 18:25 | Vedtektsforslag 02: Valg til styre ved begge genfors |
-| 18:25 | 5 | 18:30 | Pause |
-| 18:30 | 10 | 18:40 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
-| 18:40 | 10 | 18:50 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
-| 18:50 | 10 | 19:00 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
-| 19:00 | 30 | 19:30 | **Pizza pause** |
-| 19:30 | 10 | 19:40 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
-| 19:40 | 10 | 19:50 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
-| 19:50 | 5 | 19:55 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
-| 19:55 | 5 | 20:00 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
-| 20:00 | 10 | 20:10 | Pause |
-| 20:10 | 15 | 20:25 | Vedtekstforslag 10: Definisjon på nodekomite |
-| 20:25 | 5 | 20:30 | Vedtekstforslag 11: OIL som kjernekomite |
-| 20:30 | 5 | 20:35 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
-| 20:35 | 0 | 20:35 | Pause |
+| 17:55 | 15 | 18:10 | Vedtektsforslag 01: To generalforsamlinger |
+| 18:10 | 25 | 18:35 | Vedtektsforslag 02: Valg til styre ved begge genfors |
+| 18:35 | 10 | 18:45 | Vedtekstforslag 03: Økonomiansvarlig godkjenner budsjettoverskridelser |
+| 18:45 | 10 | 18:55 | Vedtekstforslag 04: Endre frist for revidering av budsjett(v/ Milla Weium, Thomas Hasvold) |
+| 18:55 | 10 | 19:05 | Vedtekstforslag 05: Legge Debug inn under “4.4 Andre grupper tilknyttet Online” |
+| 19:05 | 30 | 19:35 | Pizza pause |
+| 19:35 | 10 | 19:45 | Vedtekstforslag 06: Leder av Debug har rollen som linjeforeningens hovedtillitsvalgt, og godkjennes på generalforsamlingen (fremmes dersom 05 går gjennom) |
+| 19:45 | 10 | 19:55 | Vedtekstforlsag 07: Linjeforeningens hovedtillitsvalgt velges av generalforsamlingen (fremmes dersom 06 faller) |
+| 19:55 | 5 | 20:00 | Vedtekstforslag 08: Seniorkomiteens navn endres til backlog |
+| 20:00 | 5 | 20:05 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
+| 20:05 | 15 | 20:20 | Vedtekstforslag 10: Definisjon på nodekomite |
+| 20:20 | 5 | 20:25 | Vedtekstforslag 11: OIL som kjernekomite |
+| 20:25 | 5 | 20:30 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
+| 20:30 | 5 | 20:35 | Pause |
 | 20:35 | 15 | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite |
 | 20:50 | 5 | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
 | 20:55 | 5 | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
-| Total tid: | 130 min | 21:00 |  |
+| Total: | 130 | 21:00 |
 
 
 ## Fondets generalforsamling
@@ -129,51 +128,41 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 ### Valg av Hovedstyret
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 21:12 | 20 | 21:32 | Valg av leder |
-| 21:32 | 20 | 21:52 | Valg av nestleder |
-| 21:52 | 20 | 22:12 | Valg av økonomiansvarlig |
-| 22:12 | 15 | 22:27 | Valg av styremedlem fra arrangementskomiteen |
-| 22:27 | 15 | 22:42 | Valg av styremedlem fra bedriftskomiteen |
-| 22:42 | 15 | 22:57 | Valg av styremedlem fra drifts- og utviklingskomiteen |
-| 22:57 | 15 | 23:12 | Valg av styremedlem fra fag- og kurskomiteen |
-| 23:12 | 15 | 23:27 | Valg av styremedlem fra profil- og aviskomiteen |
-| 23:27 | 15 | 23:42 | Valg av styremedlem fra trivselskomiteen |
-| 23:42 | 15 | 23:57 | Valg av valgkomiteen |
-| 23:57 | 0 | 23:57 |  |
-| 23:57 | 0 | 23:57 |  |
-| 23:57 | 0 | 23:57 |  |
-| 23:57 | 0 | 23:57 |  |
-| Total tid: | 165 min | 23:57 |
-
+| 21:37 | 15 | 21:52 | Valg av leder |
+| 21:52 | 15 | 22:07 | Valg av nestleder |
+| 22:07 | 10 | 22:17 | Valg av økonomiansvarlig |
+| 22:17 | 10 | 22:27 | Valg av styremedlem fra arrangementskomiteen |
+| 22:27 | 10 | 22:37 | Valg av styremedlem fra bedriftskomiteen |
+| 22:37 | 10 | 22:47 | Valg av styremedlem fra drifts- og utviklingskomiteen |
+| 22:47 | 10 | 22:57 | Valg av styremedlem fra fag- og kurskomiteen |
+| 22:57 | 10 | 23:07 | Valg av styremedlem fra profil- og aviskomiteen |
+| 23:07 | 15 | 23:22 | Valg av styremedlem fra trivselskomiteen |
+| 23:22 | 5 | 23:27 | Valg av valgkomiteen |
+| 23:27 | 5 | 23:32 | Valg av hovedtilitsvalgt (hvis vedtektsforslag 7 går gjennom) |
+| Total: | 110 | 23:32 |
 
 
 ### Godkjenne komiteledere
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 23:57 | 3 | 00:00 | Godkjenning av komitéleder fra arrangementskomiteen |
-| 00:00 | 3 | 00:03 | Godkjenning av komitéleder fra bank- og økonomikomiteen  |
-| 00:03 | 3 | 00:06 | Godkjenning av komitéleder fra bedriftskomiteen |
-| 00:06 | 3 | 00:09 | Godkjenning av komitéleder fra drifts- og utviklingskomiteen |
-| 00:09 | 3 | 00:12 | Godkjenning av komitéleder fra fag- og kurskomiteen |
-| 00:12 | 3 | 00:15 | Godkjenning av komitéleder fra profil- og aviskomiteen |
-| 00:15 | 3 | 00:18 | Godkjenning av komitéleder fra trivselskomiteen |
-| 00:18 | 3 | 00:21 | Godkjenning av komitéleder fra Online Idrettslag |
-| 00:21 | 3 | 00:24 | Godkjenning av leder av Debug |
-| 00:24 | 0 | 00:24 |  |
-| 00:24 | 0 | 00:24 |  |
-| 00:24 | 0 | 00:24 |  |
-| 00:24 | 0 | 00:24 |  |
-| 00:24 | 0 | 00:24 |  |
-| 00:24 | 0 | 00:24 |  |
-| 00:24 | 0 | 00:24 |  |
-| Total tid: | 27 min | 00:24 |
+| 23:32 | 3 | 23:35 | Godkjenning av komitéleder fra arrangementskomiteen |
+| 23:35 | 3 | 23:38 | Godkjenning av komitéleder fra bank- og økonomikomiteen  |
+| 23:38 | 3 | 23:41 | Godkjenning av komitéleder fra bedriftskomiteen |
+| 23:41 | 3 | 23:44 | Godkjenning av komitéleder fra drifts- og utviklingskomiteen |
+| 23:44 | 3 | 23:47 | Godkjenning av komitéleder fra fag- og kurskomiteen |
+| 23:47 | 3 | 23:50 | Godkjenning av komitéleder fra profil- og aviskomiteen |
+| 23:50 | 3 | 23:53 | Godkjenning av komitéleder fra trivselskomiteen |
+| 23:53 | 3 | 23:56 | Godkjenning av komitéleder fra Online Idrettslag |
+| 23:56 | 3 | 23:59 | Godkjenning av leder av Debug |
+| Total: | 27 | 23:59 |
+
 
 
 ### Evaluering av generalforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 00:24 | 3 | 00:27 | Evaluering |
-| Total: | 3 | 00:27 |
+| 23:59 | 3 | 00:02 | Evaluering |
+| Total: | 3 | 00:02 |
 
 
 ### Generalforsamlingen heves
