@@ -100,14 +100,6 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | Total tid: | 7 min | 21:07 |
 
 
-### Saksforslag til fondet
-
-| Start | Tid | Slutt | Sak |
-|---|---|---|---|
-| 20:42 | 0 | 20:42 |  |
-| Total tid: | 0 | 20:42 |  |
-
-
 
 ### Vedtektsforslag til fondet
 | Start | Tid | Slutt | Sak |
