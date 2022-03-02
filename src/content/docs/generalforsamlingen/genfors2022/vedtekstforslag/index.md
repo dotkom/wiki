@@ -227,7 +227,7 @@ _Forlsaget går på å endre definisjon på nodekomite og omgjøre OIL og appkom
 En nodekomite er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 **Med:**
-En nodekomite sitt virke er sesongbasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
+En nodekomite sitt virke er periodebasert. Nodekomiteer er underlagt Hovedstyret, og plikter å holde Hovedstyret løpende oppdatert på sitt virke.
 
 ---
 
