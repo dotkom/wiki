@@ -229,7 +229,7 @@ title: "Årsberetninger 2022"
 - Nettredaksjon
        - laget 7 nettartikler
 - Merch
-       - Laget Onlinegenser kolleksjon som er tiltenkt å være tilgjengelig gjennom hele semestre.
+       - Laget nye Onlinegenser som er tiltenkt å være tilgjengelig gjennom hele semestre.
        - Kjøpt inn sløyfer i Onlinefarger
 
 - Innkjøp
