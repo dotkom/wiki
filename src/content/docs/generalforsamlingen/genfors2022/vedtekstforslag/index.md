@@ -309,7 +309,7 @@ Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud
 
 ## Forslag 14 - Endre fra *Styremedlem* til *Styrerepresentant* (Sindre Langaard)  
 
-_Hvorfor? **Styrerepresentant fra xxxkomiteen** beskriver bedre oppgavene og hvilken rolle komitérepresentantene har enn **Styremedlem fra xxxkomiteen**._
+_Hvorfor? **Styrerepresentant for xxxkomiteen** beskriver bedre oppgavene og hvilken rolle komitérepresentantene har enn **Styremedlem fra xxxkomiteen**._
 
 **Endringer:**  
 **4.1.1 Hovedstyrets sammensetning**  
@@ -323,12 +323,12 @@ _Hvorfor? **Styrerepresentant fra xxxkomiteen** beskriver bedre oppgavene og hvi
 • Styremedlem fra Trivselskomiteen  
 
 **Med:**  
-• Styrerepresentant fra Arrangementskomiteen  
-• Styrerepresentant fra Bedriftskomiteen  
-• Styrerepresentant fra Drifts- og utviklingskomiteen  
-• Styrerepresentant fra Fag- og kurskomiteen  
-• Styrerepresentant fra Profil- og aviskomiteen  
-• Styrerepresentant fra Trivselskomiteen  
+• Styrerepresentant for Arrangementskomiteen  
+• Styrerepresentant for Bedriftskomiteen  
+• Styrerepresentant for Drifts- og utviklingskomiteen  
+• Styrerepresentant for Fag- og kurskomiteen  
+• Styrerepresentant for Profil- og aviskomiteen  
+• Styrerepresentant for Trivselskomiteen  
 
 ---
 
