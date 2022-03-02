@@ -25,15 +25,15 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 16:33  | 0,5 | 16:34 | Valg av tellekorps                      |
 | 16:34  | 0,5 | 16:34 | Valg av paraferer                       |
 | 16:34  | 5   | 16:39 | Gjennomgang av tegnsetting              |
-| 16:39  | 0,5 | 16:40 | Gjennomgang av stemmesystem             |
-| 16:40  | 1   | 16:41 | Godkjenning av forretningsorden         |
-| 16:41  | 0,5 | 16:41 | Godkjenning av gjester                  |
-| 16:41  | 0,5 | 16:42 | Godkjenning av talerett                 |
-| 16:42  | 0,5 | 16:42 | Godkjenning av stemmeberettigede        |
-| 16:42  | 0,5 | 16:43 | Godkjenning av dagsorden                |
-| 16:43  | 0,5 | 16:43 | Godkjenning av referat fra 1. mars 2021 |
-| 16:43  | 1   | 16:44 | Godkjenning av innkalling               |
-| 16:44  | 1   | 16:45 | Godkjenning av saksliste                |
+| 16:39  | 1   | 16:40 | Godkjenning av forretningsorden         |
+| 16:40  | 0,5 | 16:40 | Godkjenning av gjester                  |
+| 16:40  | 0,5 | 16:41 | Godkjenning av talerett                 |
+| 16:41  | 0,5 | 16:41 | Godkjenning av stemmeberettigede        |
+| 16:41  | 0,5 | 16:42 | Godkjenning av dagsorden                |
+| 16:42  | 0,5 | 16:42 | Godkjenning av referat fra 1. mars 2021 |
+| 16:42  | 1   | 16:43 | Godkjenning av innkalling               |
+| 16:43  | 1   | 16:44 | Godkjenning av saksliste                |
+| 16:44  | 1   | 16:45 | Gjennomgang av stemmesystem             |
 | 16:45  | 5   | 16:50 | Registrering i stemmesystem             |
 | 16:50  | 5   | 16:55 | Prøvevotering                           |
 | Total tid: | 26 min | 16:55 |
