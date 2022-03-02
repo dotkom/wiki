@@ -214,7 +214,7 @@ title: "Årsberetninger 2022"
 ## Profil- og aviskomiteen
 - Tatt opp 6 nye
        - 2 førsteklassing og 4 andreklassinger
-       - Er totalt 20 medlemmer inkludert 2 pang og 2 permitterte
+       - Er totalt 20 medlemmer inkludert 2 pang.
 - Plakatbestillinger
        - Det har blitt bestilt og laget 54 plakater og bannere.
 - Daljer og pins
