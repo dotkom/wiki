@@ -183,6 +183,17 @@ title: "Årsberetninger 2022"
 - Støttet KiD under 2 arrangement.
 
 ## Drifts- og utviklingskomiteen
+ 
+Tatt opp 7 nye:
+4 førsteklassinger, 2 andreklassinger og 1 tredjeklassing
+Er totalt 17 medlemmer 
+### Høst 2021
+Onlineweben ble tatt over til cloud.
+Vi hadde hackathon arrangement med fagkom og trikom
+Splash for jub 2022
+### Vår 2021
+Har begynt å jobbe med ny OW (frontend og backend)
+
 
 ## Fag- og kurskomiteen
 - Tatt opp 4 nye
