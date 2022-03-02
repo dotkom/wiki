@@ -235,6 +235,7 @@ title: "Årsberetninger 2022"
 - Innkjøp
        - Det er kjøpt inn GoPro med utstyr og Greenscreen med stativ (også til backdrop)
 
+
 ## Trivselskomiteen
 
 ### Overordnet
