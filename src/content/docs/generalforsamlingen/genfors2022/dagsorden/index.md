@@ -152,8 +152,8 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 23:44 | 3 | 23:47 | Godkjenning av komitéleder fra fag- og kurskomiteen |
 | 23:47 | 3 | 23:50 | Godkjenning av komitéleder fra profil- og aviskomiteen |
 | 23:50 | 3 | 23:53 | Godkjenning av komitéleder fra trivselskomiteen |
-| 23:53 | 3 | 23:56 | Godkjenning av komitéleder fra Online Idrettslag |
-| 23:56 | 3 | 23:59 | Godkjenning av komitéleder fra applikasjonskomiteen |
+| 23:53 | 3 | 23:56 | Godkjenning av komitéleder fra Online Idrettslag (hvis forslag 10 eller 11 går gjennom) |
+| 23:56 | 3 | 23:59 | Godkjenning av komitéleder fra applikasjonskomiteen (hvis forslag 10 går gjennom)|
 | 23:59 | 3 | 00:02 | Godkjenning av leder av Debug |
 | Total tid: | 30 min | 00:02 |
 
