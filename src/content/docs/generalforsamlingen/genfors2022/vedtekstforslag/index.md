@@ -66,6 +66,8 @@ Ved vår-generalforsamlingen utlyses:
 Ved høst-generalforsamlingen utlyses:   
 - Øvrige styrerepresentanter  
 
+Sittende styremedlemmer kan kun stille som kandidat dersom de fratrer vervet sitt samme generalforsamling de stiller.  
+
 ## Forslag 2 V2 - Valg av styre ved begge genfors (William Andersson)
 
 **Faller dersom Forslag 1 faller, eller Forslag 2 går gjennom**
