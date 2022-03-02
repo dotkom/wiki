@@ -83,11 +83,11 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 20:00 | 5 | 20:05 | Vedtekstforslag 09: Begrense flere kjernekomiteverv samtidig |
 | 20:05 | 15 | 20:20 | Vedtekstforslag 10: Definisjon på nodekomite |
 | 20:20 | 5 | 20:25 | Vedtekstforslag 11: OIL som kjernekomite |
-| 20:25 | 5 | 20:30 | Vedtekstforslag 12: Applikasjonskomiteen som kjernekomite |
+| 20:25 | 5 | 20:30 | Vedtekstforslag 12: FeminIT som nodekomite |
 | 20:30 | 5 | 20:35 | Pause |
-| 20:35 | 15 | 20:50 | Vedtekstforslag 13: FeminIT som nodekomite |
-| 20:50 | 5 | 20:55 | Vedtekstforslag 14: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online” |
-| 20:55 | 5 | 21:00 | Vedtekstforslag 15: Endre fra Styremedlem til Styrerepresentant |
+| 20:35 | 15 | 20:50 | Vedtekstforslag 13: Legge inn Datakameratene FK inn under “4.4 Andre grupper tilknyttet Online”  |
+| 20:50 | 5 | 20:55 | Vedtekstforslag 14: Endre fra Styremedlem til Styrerepresentant |
+| 20:55 | 5 | 21:00 | Vedtekstforslag 15: Fjerne parafering av vedtekter v/ William Andersson |
 | Total tid: | 130 min | 21:00 |
 
 
