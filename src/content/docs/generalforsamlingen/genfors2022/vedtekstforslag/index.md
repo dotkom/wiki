@@ -309,24 +309,24 @@ Datakameratene FK Gløshaugens hovedoppgave er å gi et lavterskel fotballtilbud
 
 _Hvorfor? **Styrerepresentant fra xxxkomiteen** beskriver bedre oppgavene og hvilken rolle komitérepresentantene har enn **Styremedlem fra xxxkomiteen**._
 
-**Endringer:**
-**4.1.1 Hovedstyrets sammensetning**
+**Endringer:**  
+**4.1.1 Hovedstyrets sammensetning**  
 
-**Erstatte:**
-• Styremedlem fra Arrangementskomiteen
-• Styremedlem fra Bedriftskomiteen
-• Styremedlem fra Drifts- og utviklingskomiteen
-• Styremedlem fra Fag- og kurskomiteen
-• Styremedlem fra Profil- og aviskomiteen
-• Styremedlem fra Trivselskomiteen
+**Erstatte:**   
+• Styremedlem fra Arrangementskomiteen  
+• Styremedlem fra Bedriftskomiteen  
+• Styremedlem fra Drifts- og utviklingskomiteen  
+• Styremedlem fra Fag- og kurskomiteen  
+• Styremedlem fra Profil- og aviskomiteen  
+• Styremedlem fra Trivselskomiteen  
 
-**Med:**
-• Styrerepresentant fra Arrangementskomiteen
-• Styrerepresentant fra Bedriftskomiteen
-• Styrerepresentant fra Drifts- og utviklingskomiteen
-• Styrerepresentant fra Fag- og kurskomiteen
-• Styrerepresentant fra Profil- og aviskomiteen
-• Styrerepresentant fra Trivselskomiteen
+**Med:**  
+• Styrerepresentant fra Arrangementskomiteen  
+• Styrerepresentant fra Bedriftskomiteen  
+• Styrerepresentant fra Drifts- og utviklingskomiteen  
+• Styrerepresentant fra Fag- og kurskomiteen  
+• Styrerepresentant fra Profil- og aviskomiteen  
+• Styrerepresentant fra Trivselskomiteen  
 
 
 ## Forslag 15 - Fjerne parafering av vedtekter (Sindre Langaard)  
