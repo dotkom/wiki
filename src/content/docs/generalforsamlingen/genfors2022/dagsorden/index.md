@@ -58,9 +58,9 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 
 
 ### Saksforslag
-
-| 17:25 | 10 | 17:35 | Saksforslag 01: Fokus på miljø i organisasjonen |
+| Start  | Tid | Slutt | Sak   |
 |---|---|---|---|
+| 17:25 | 10 | 17:35 | Saksforslag 01: Fokus på miljø i organisasjonen |
 | 17:35 | 5 | 17:40 | Saksforslag 02: Overføre midler til fondet |
 | 17:40 | 5 | 17:45 | Saksforslag 03: Flytte makten til å gjøre endringer i budsjettet til Bankom |
 | 17:45 | 10 | 17:55 | Pause |
