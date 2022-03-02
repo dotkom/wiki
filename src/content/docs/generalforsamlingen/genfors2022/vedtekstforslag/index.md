@@ -40,7 +40,7 @@ Den ordinære generalforsamlingen skal behandle årsmelding, innsendte saker, ve
 
 Generalforsamlingen er linjeforeningens øverste organ. Det avholdes to generalforsamlinger årlig, én i løpet av vårsemesteret, og én i løpet av høstsemesteret.
 
-Begge forsamlingene skal behandle årsmelding, innsendte saker, vedtektsendringer og valg av hovedstyret. Vårforsamlingen skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, samt valg av tre medlemmer til en ny valgkomité.
+Begge forsamlingene skal behandle årsmelding, innsendte saker og vedtektsendringer. Vårforsamlingen skal i tillegg behandle valg av nytt hovedstyre, fondsstyre, regnskap for foregående år, samt valg av tre medlemmer til en ny valgkomité.
 
 
 
