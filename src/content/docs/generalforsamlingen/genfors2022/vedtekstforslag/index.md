@@ -59,12 +59,12 @@ _Hvorfor?_ Per nå tar det ganske lang tid å bli handlingsdyktige som et helt f
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
 
 Ved vår-generalforsamlingen utlyses:  
-- Leder
-- Nestleder
-- Økonomiansvarlig
+- Leder  
+- Nestleder  
+- Økonomiansvarlig  
 
-Ved høst-generalforsamlingen utlyses:  
-- Øvrige styrerepresentanter
+Ved høst-generalforsamlingen utlyses:   
+- Øvrige styrerepresentanter  
 
 ## Forslag 2 V2 - Valg av styre ved begge genfors (William Andersson)
 
@@ -80,13 +80,13 @@ _Hvorfor?_ Denne versjonen tillater at sittende styremedlemmer har anledning til
 
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger.
 
-Ved vår-generalforsamlingen utlyses:  
-- Leder
-- Nestleder
-- Økonomiansvarlig
+Ved vår-generalforsamlingen utlyses:   
+- Leder  
+- Nestleder  
+- Økonomiansvarlig  
 
 Ved høst-generalforsamlingen utlyses:  
-- Øvrige styrerepresentanter
+- Øvrige styrerepresentanter  
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
 
