@@ -213,7 +213,7 @@ _Hvorfor? For å kunne tilby flere et verv i linjeforeninger vår og unngå inte
 
 **Legge til:**
 
-En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom eller Backlog kan kombineres med en annen kjernekomite.
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
 
 
 ## Forslag 10 - Definisjon på nodekomité (Sindre Langaard)
