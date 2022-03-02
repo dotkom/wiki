@@ -328,6 +328,20 @@ _Hvorfor? **Styrerepresentant fra xxxkomiteen** beskriver bedre oppgavene og hvi
 • Styrerepresentant fra Profil- og aviskomiteen  
 • Styrerepresentant fra Trivselskomiteen  
 
+---
+
+**4.1.2 Fravær av hovedstyremedlem**
+
+**Erstatte:**  
+Dersom en komite sitt styremedlem blir fraværende er det komiteleder som tar over styremedlemmets plikter, oppgaver og rettigheter. Dersom komiteleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+
+
+**Med:**
+Dersom en komite sin styrerepresentant blir fraværende er det komiteleder som tar over styrerepresentantens plikter, oppgaver og rettigheter. Dersom komiteleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
 
 ## Forslag 15 - Fjerne parafering av vedtekter (Sindre Langaard)  
 
