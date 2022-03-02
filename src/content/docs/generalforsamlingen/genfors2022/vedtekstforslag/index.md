@@ -263,7 +263,7 @@ Komiteens hovedoppgave er å utvikle og drifte egne it-systemer. Komiteens navn 
 
 
 ## Forslag 11 - Online IL som kjernekomite (Njål Sørland) (Fremmes dersom forslag 10 faller)
-_Hvorfor? Online IL har jevnlig arrangert idrettsarrangementer for onlinere de siste tre årene. Det er en klar interesse for disse arrangementene, vist både gjennom oppmøte og tilbakemeldinger. Aktiviteten i Online IL har jevnlig økt for hvert år så lang, både gjennom antall arrangementer og oppmøtet på dem, og det er ingen tegn til at interessen for arrangementene vil dø ut. Vi ønsker å bli en kjernekomite fordi vi mener at Online IL har bevist seg å være en aktiv og langvarig komite, med en positiv innvikrning på lineforeningen. _ 
+_Hvorfor? Online IL har jevnlig arrangert idrettsarrangementer for onlinere de siste tre årene. Det er en klar interesse for disse arrangementene, vist både gjennom oppmøte og tilbakemeldinger. Aktiviteten i Online IL har jevnlig økt for hvert år så lang, både gjennom antall arrangementer og oppmøtet på dem, og det er ingen tegn til at interessen for arrangementene vil dø ut. Vi ønsker å bli en kjernekomite fordi vi mener at Online IL har bevist seg å være en aktiv og langvarig komite, med en positiv innvikrning på lineforeningen._ 
 
 **Endringer:
 4.2 Kjernekomiteer**
