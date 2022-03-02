@@ -153,16 +153,17 @@ Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalf
 | 23:47 | 3 | 23:50 | Godkjenning av komitéleder fra profil- og aviskomiteen |
 | 23:50 | 3 | 23:53 | Godkjenning av komitéleder fra trivselskomiteen |
 | 23:53 | 3 | 23:56 | Godkjenning av komitéleder fra Online Idrettslag |
-| 23:56 | 3 | 23:59 | Godkjenning av leder av Debug |
-| Total tid: | 27 min | 23:59 |
+| 23:56 | 3 | 23:59 | Godkjenning av komitéleder fra applikasjonskomiteen |
+| 23:59 | 3 | 00:02 | Godkjenning av leder av Debug |
+| Total tid: | 30 min | 00:02 |
 
 
 
 ### Evaluering av generalforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 23:59 | 3 | 00:02 | Evaluering |
-| Total tid: | 3 min | 00:02 |
+| 00:02 | 3 | 00:05 | Evaluering |
+| Total tid: | 3 min | 00:05 |
 
 
 ### Generalforsamlingen heves
