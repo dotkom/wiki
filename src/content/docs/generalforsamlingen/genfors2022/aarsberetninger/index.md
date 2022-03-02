@@ -222,6 +222,7 @@ title: "Årsberetninger 2022"
        - Startet opp prosjekt for bidragspin i Online
 - Logoer
        - Laget 2 logoer, en til Debug og en til Vineyard
+
 -Promovideo
        - Ferdigstilt en promovideo for linjeforeningen 
 - Offline
