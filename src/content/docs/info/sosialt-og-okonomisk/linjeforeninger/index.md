@@ -86,6 +86,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |[Soma (2007)](http://soma-linjeforening.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Folkehelse, Global Helse, Helseinformatikk, Jordmordfag, Klinisk helsevitenskap, Klinisk sykepleie, Medisinsk bildeteknologi, Molekylær medisin, Nevrovitenskap, Fysisk aktivitet og helse, Psykisk helse||[Page](soma-linjeforening.com), [Group](http://fb.com/groups/159591847413555/)||MTFS, Studsalen|
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
 |[GLOBUS](https://www.ntnu.edu/studies/msgloman) ||Global Produksjonsledelse||[Page](https://www.ntnu.edu/studies/msgloman), [Linkedin](https://www.linkedin.com/company/globus-ntnu)|||
+| [SOMA](https://www.soma-linjeforening.com) | | Masterstudenter ved Fakultet for Medisin og Helsevitenskap |  | [Facebook](https://www.facebook.com/SOMANTNU) |  |  |
 
 ## Doktorgradsforeninger
 
