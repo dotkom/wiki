@@ -254,7 +254,7 @@ kaffedrikking.
 
 
 ## Hovedstyrer
-|År|Leder|Nestleder|arrKom|banKom|bedKom|dotKom|fagKom|proKom|triKom|
+|År|Leder|Nestleder|Økonimiansvarlig|Arrkom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|
 |---|---|---|---|---|---|---|---|---|---|
 |2021v-2022v| Sindre Langaard |Thea Karin Fladby|Milla Weium|William Andersson|Anders Robstad|Thomas Hasvold|Mari Lehne|Henrik Moe Wæhre|Sarmi Ponnuthurai|
 
@@ -267,7 +267,7 @@ kaffedrikking.
 |---|---|---|---|---|---|---|---|---|---|---|
 |2018v-2019v| Aslak Hollund |Christoffer Lofsberg|Christian Nyvoll|Johannes Kvamme| Adrian Thompson|Jakob Westermoen|Andreas Aursand|Hanne Brynildsrud|Pål-Edward Larsen|Endre Ulberg (ikke valgt på genfors)|
 
-|År|Leder|Nestleder|Arrkom|Bankom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
+|År|Leder|Nestleder|arrKom|Bankom|Bedkom|Dotkom|Fagkom|Prokom|Trikom|Seniorkom|
 |---|---|---|---|---|---|---|---|---|---|---|
 |2017v-2018v| Didrik Pemmer Aalen |Hege Louise Borge| Edvard Gjessing Bakken|Christoffer Lofsberg| Emil Schrøder|Aslak Hollund|Henrik Munkeberg|Peter Rydberg|Taran Ruge|Erik Wiker (ikke valgt på genfors)|
 |2016v-2017v| Thor Håkon Bredesen |Erik Wiker| Sander Arnesen|Kristoffer Hajem| Didrik Pemmer Aalen|Håkon Solbjørn|Kristiane Westgård|Andrea Bach|Martin Bjerke|Ingrid Myrann (ikke valgt på genfors)|
