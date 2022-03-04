@@ -54,6 +54,7 @@ Medlemmer
 ---------
 | År | Leder                   | Medlemmer |
 | --- | --- | --- |
+| 22/23 | **Christina Oftedal** | Anniken Syvertsen, Hanne Brynildsrud, Benedicte H. Myrvoll, Henrik Giil Liisberg, Sebastian Ellefsen, Leo Gimre, Henrik Moe Wæhre, Tobias Fall Jakobsen, Runar Johnsen, Sondre Stokke, Bendik Brunvoll, Peder Hanch-Hansen Espen, Magne Slåtsveen, Sara Pedersen, Thea Kvinnegard, Are Saltnes Tømmerås, Simen Hjelle, Erik Thiis-Evensen| 
 | 21/22 | **Magne Slåtsveen** | Peter Rydberg, Anniken Syvertsen, Hanne Brynildsrud, Benedicte H. Myrvoll, Henrik Giil Liisberg, Sebastian Ellefsen, Leo Gimre, Henrik Moe Wæhre, Tobias Fall Jakobsen, Runar Johnsen, Sondre Stokke, Bendik Brunvoll, Peder Hanch-Hansen Espen| 
 | 20/21 | **Pål Andreas Morholmen** | Peter Rydberg, Anniken Syvertsen, Thomas Alejandro Ramirez Fernandez, Hanne Brynildsrud, Sebastian Ellefsen, Julie Holte Motland, Elias Vågan, Thomas Rankin, Ole Jacob Brunstad, Henrik Giil Liisberg, Henrik Moe Wæhre, Leo Gimre, Carl Smedstad|
 | 19/20 | **Benedicte H. Myrvoll** | Peter Rydberg, Anniken Syvertsen, Thomas Alejandro Ramirez Fernandez, Hanne Brynildsrud, Sebastian Ellefsen, Egil Uggerud, Julie Holte Motland, Elias Vågan, Thomas Rankin, Phajsi Halvorsen, Ole Jacob Brunstad, Pål Andreas Morholmen, Henrik Giil Liisberg, Henrik Moe Wæhre, Leo Gimre, Carl Smedstad|
