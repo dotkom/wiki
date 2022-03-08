@@ -58,7 +58,7 @@ for den ekstraordinære generalforsamlingen.
 **OG**
 
 Fondstyret skal velges p˚a generalforsamlingen, p˚a samme m˚ate som medlemmer til
-Onlines Hovedstyre som beskrevet i Onlines vedtekter av 5.6, med unntak av følgende:
+Onlines Hovedstyre som beskrevet i Onlines vedtekter av 3.6, med unntak av følgende:
 I oddetalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
 lager-medlem 1, tidligere medlem fra Onlines Hovedstyre 1, og Onlinemedlem 1.
 I partalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
