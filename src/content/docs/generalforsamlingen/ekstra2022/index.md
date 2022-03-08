@@ -5,6 +5,7 @@ title: "Ekstraordinær generalforsamling 2022"
 ## Innhold
 * [2022 Forside](/wiki/online/generalforsamlingen/genfors2022)   - Forside
 * [2022 Vedtektsforslag](/wiki/online/generalforsamlingen/ekstra2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Kandidater](/wiki/online/generalforsamlingen/ekstra2022/valg) - Er du klar for et verv i Fondstyret? 
 
 ## Informasjon
 
