@@ -16,7 +16,7 @@ title: "Ekstraordinær generalforsamling 2022"
 
 **Hvor:** Realfagbygget R51
 
-Vi skal velge inn ridder til fondsstyret.
+Vi skal velge inn ridder til fondsstyret, og fikse litt opp i ting i vedtektene. 
 
 ## Onlinefondets vedtekter
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
