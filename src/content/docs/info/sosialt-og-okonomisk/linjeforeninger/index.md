@@ -83,10 +83,9 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk||[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)|||
 |[ProMan](http://www.mscproman.com/) (est. 2010)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|Styrebånd (vinrødt med kremfarget kant)|[Group](https://www.facebook.com/groups/MScProMan/)||Rom 346, Sentralbygg 2|
 |[Solan](www.solanlinjeforening.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|[NTNUs Entreprenørskole](http://www.entreprenorskolen.no)||[Page](https://www.facebook.com/solanlinjeforening/)||Oppredning/gruvedrift, 4.egt, Rom 453|
-|[Soma (2007)](http://soma-linjeforening.com) |[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559)|Folkehelse, Global Helse, Helseinformatikk, Jordmordfag, Klinisk helsevitenskap, Klinisk sykepleie, Medisinsk bildeteknologi, Molekylær medisin, Nevrovitenskap, Fysisk aktivitet og helse, Psykisk helse||[Page](soma-linjeforening.com), [Group](http://fb.com/groups/159591847413555/)||MTFS, Studsalen|
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
 |[GLOBUS](https://www.ntnu.edu/studies/msgloman) ||Global Produksjonsledelse||[Page](https://www.ntnu.edu/studies/msgloman), [Linkedin](https://www.linkedin.com/company/globus-ntnu)|||
-| [SOMA](https://www.soma-linjeforening.com) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559) | Masterstudenter ved Fakultet for Medisin og Helsevitenskap | Styregenser | [Facebook](https://www.facebook.com/SOMANTNU) |  |  |
+| [SOMA](https://www.soma-linjeforening.com) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559) | Masterstudenter ved Fakultet for Medisin og Helsevitenskap: Folkehelse, Global helse, Helseinformatikk, Jordmorfag, Klinisk helsevitenskap, Klinisk sykepleier, Medisinsk bildeteknologi, Molekylær Medisin, Nevrovitenskap, Fysisk aktivitet og Helse, Helsesykepleie og Psykisk helse | Styregenser | [Facebook](https://www.facebook.com/SOMANTNU) |  |  |
 
 ## Doktorgradsforeninger
 
