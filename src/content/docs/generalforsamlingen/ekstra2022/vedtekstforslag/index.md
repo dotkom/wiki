@@ -9,8 +9,6 @@ _Hvorfor? Vi anser det ikke som nødvendig å måtte kalle inn til ekstraordnin�
 
 
 
-**Endringer:**
-**3 generalforsamlingen**
 
 **Erstatte:**
 3.3 Gjennomføring av valget
@@ -41,8 +39,6 @@ gjennomføre et valg kan Hovedstyret godkjenne en kandidat som oppfyller kravene
 ## Fondet forslag 2 - Endre til stor G (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Det er irriterende og feil._
 
-**Enderinger:**
-**3 generalforsamlingen**
 
 **Erstatte:**
 3 generalforsamlingen
