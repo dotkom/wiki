@@ -85,7 +85,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 |[Solan](www.solanlinjeforening.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|[NTNUs Entreprenørskole](http://www.entreprenorskolen.no)||[Page](https://www.facebook.com/solanlinjeforening/)||Oppredning/gruvedrift, 4.egt, Rom 453|
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
 |[GLOBUS](https://www.ntnu.edu/studies/msgloman) ||Global Produksjonsledelse||[Page](https://www.ntnu.edu/studies/msgloman), [Linkedin](https://www.linkedin.com/company/globus-ntnu)|||
-| [SOMA](https://www.soma-linjeforening.com) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559) | Masterstudenter ved Fakultet for Medisin og Helsevitenskap: Folkehelse, Global helse, Helseinformatikk, Jordmorfag, Klinisk helsevitenskap, Klinisk sykepleier, Medisinsk bildeteknologi, Molekylær Medisin, Nevrovitenskap, Fysisk aktivitet og Helse, Helsesykepleie og Psykisk helse | Styregenser | [Facebook](https://www.facebook.com/SOMANTNU) |  |  |
+| [SOMA](https://www.soma-linjeforening.com) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559) | Masterstudenter ved Fakultet for Medisin og Helsevitenskap: Folkehelse, Global helse, Helseinformatikk, Jordmorfag, Klinisk helsevitenskap, Klinisk sykepleier, Medisinsk bildeteknologi, Molekylær Medisin, Nevrovitenskap, Fysisk aktivitet og Helse, Helsesykepleie og Psykisk helse | Styregenser | [Facebook](https://www.facebook.com/SOMANTNU) |  | MTFS, Studsalen |
 
 ## Doktorgradsforeninger
 
