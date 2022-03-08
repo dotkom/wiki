@@ -2,6 +2,9 @@
 title: "Ekstraordinær generalforsamling 2022"
 ---
 
+## Innhold
+* [2022 Forside](/wiki/online/generalforsamlingen/genfors2022)   - Forside
+
 ## Informasjon
 
 **Hva:** Ekstraordinær generalforsamling
