@@ -49,6 +49,6 @@ title: "Dagsorden 22"
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 16:35 | 3 | 16:38 | Evaluering |
-| Total tid: | 3 min | 16:48 |
+| Total tid: | 3 min | 16:38 |
 
 ### Ekstraordinær generalforsamling heves
