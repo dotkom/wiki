@@ -36,7 +36,41 @@ Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført
 godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å
 gjennomføre et valg kan Hovedstyret godkjenne en kandidat som oppfyller kravene i ettertid.
 
-## Fondet forslag 2 - Endre til stor G (Jonathan Brooks, Henrik Giil)
+## Fondet forslag 2 - Oppdatere vedtektene mens vi først er her (Jonathan Brooks, Henrik Giil)
+_Hvorfor? Online sine vedtekter har endret seg, det har ikke fondets. Fondet sine vedtekter referer derfor feil._
+
+
+**Erstatte:**
+§3 generalforsamlingen
+Generalforsamlingen er fondets øverste organ og er uavhengig av gjeldende fondstyre. Generalforsamlingen avholdes samtidig med Onlines ordinære generalforsamling.
+For fondets generalforsamling gjelder følgende av Onlines vedtekter: 3.1, 3.4 og 3.5.
+Den ordinære generalforsamlingen skal behandle egne punkter med ˚arsberetning,
+innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode. Alle medlemmer i Online har rett til ˚a levere saks- og vedtektsforslag.
+
+**OG**
+
+Denne kan innkalles av Fondstyret, eller om minst det laveste av ti (10) eller 1/8
+av medlemmene i Online ønsker det. Fristene for ˚a kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær, jamfør Onlines vedtekter
+3.1.
+Ekstraordinær generalforsamling skal kun den(de) saken(e) som st˚ar p˚a dagsorden
+for den ekstraordinære generalforsamlingen.
+
+**Med:**
+§3 generalforsamlingen
+Generalforsamlingen er fondets øverste organ og er uavhengig av gjeldende fondstyre. Generalforsamlingen avholdes samtidig med Onlines ordinære generalforsamling.
+For fondets generalforsamling gjelder følgende av Onlines vedtekter: 5.1, 5.4 og 5.5.
+Den ordinære generalforsamlingen skal behandle egne punkter med ˚arsberetning,
+innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode. Alle medlemmer i Online har rett til ˚a levere saks- og vedtektsforslag.
+
+**OG**
+
+Denne kan innkalles av Fondstyret, eller om minst det laveste av ti (10) eller 1/8
+av medlemmene i Online ønsker det. Fristene for ˚a kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær, jamfør Onlines vedtekter
+5.1.
+Ekstraordinær generalforsamling skal kun den(de) saken(e) som st˚ar p˚a dagsorden
+for den ekstraordinære generalforsamlingen.
+
+## Fondet forslag 3 - Endre til stor G (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Det er irriterende og feil._
 
 
