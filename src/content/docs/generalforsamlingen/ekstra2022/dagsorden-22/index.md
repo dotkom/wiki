@@ -5,7 +5,7 @@ title: "Dagsorden 22"
 ### Administrativt
 | Start  | Tid | Slutt | Sak                                     |
 |--------|-----|-------|-----------------------------------------|
-| 16:00  | 2   | 16:32 | Velkommen                               |
+| 16:00  | 2   | 16:32 | Velkommen \v noen                              |
 | 16:02  | 0,5 | 16:32 | Valg av ordstyrer                       |
 | 16:02  | 1   | 16:33 | Valg av referenter                      |
 | 16:03  | 0,5 | 16:34 | Valg av tellekorps                      |
