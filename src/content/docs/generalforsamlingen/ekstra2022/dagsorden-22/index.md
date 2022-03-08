@@ -27,8 +27,8 @@ title: "Dagsorden 22"
 ### Vedtektsforslag
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:20  | 10 | 16:30  |  Vedtekstforslag 01: Valg ikke gjennomført |
-| 16:30  | 10 | 16:40  |  Vedtekstforslag 02: Endre tittel i vedtektene |
+| 16:20  | 10 | 16:30  |  Fondets forslag 01 - Endre krav om ekstraordinær generalforsamling ved manglende kandidat (Jonathan Brooks, Henrik Giil) |
+| 16:30  | 10 | 16:40  | Fondets forslag 01 - Endre til stor G (Jonathan Brooks, Henrik Giil)|
 
 ### Valg
 | Start | Tid | Slutt | Sak |
