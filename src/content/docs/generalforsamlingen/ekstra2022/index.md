@@ -10,7 +10,6 @@ title: "Ekstraordinær generalforsamling 2022"
 
 Vi skal velge inn ridder til fondsstyret.
 
-## Onlines vedtekter og referat fra forrige generalforsamling 
+## Onlinefondets vedtekter
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter: [attachment:808]  
-Referat Generalforsamlingen 2021: [attachment:810]
+Onlines fonds vedtekter: [Vedtekter](https://onlineweb4-prod.s3.eu-north-1.amazonaws.com/media/wiki/attachments/4850/6ce1fe1f2a3d92f7f229c49147d7b4a0/Onlines_Fond_Vedtekter_Signed.pdf)
