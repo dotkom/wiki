@@ -34,7 +34,7 @@ Ved manglende flertall på kandidat med flest stemmer og stemmelikhet på de med
 færrest stemmer vil det avholdes en fullstendig ny runde.
 Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført et
 godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å
-gjennomføre et valg kan Hovedstyret godkjenne en kandidat som oppfyller kravene i ettertid.
+gjennomføre et valg kan Hovedstyret godkjenne en kandidat som oppfyller kravene i 4.3.
 
 ## Fondet forslag 2 - Oppdatere vedtektene mens vi først er her (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Online sine vedtekter har endret seg, det har ikke fondets. Fondet sine vedtekter referer derfor feil._
