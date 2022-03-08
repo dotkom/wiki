@@ -28,18 +28,19 @@ title: "Dagsorden 22"
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 16:20  | 10 | 16:30  |  Fondets forslag 01 - Endre krav om ekstraordinær generalforsamling ved manglende kandidat (Jonathan Brooks, Henrik Giil) |
-| 16:30  | 10 | 16:40  | Fondets forslag 01 - Endre til stor G (Jonathan Brooks, Henrik Giil)|
+| 16:30  | 10 | 16:40  | Fondet forslag 02 - Oppdatere vedtektene mens vi først er her (Jonathan Brooks, Henrik Giil)|
+| 16:40 | 10 | 16:50  |  Fondets forslag 03 - Endre til stor G (Jonathan Brooks, Henrik Giil) |
 
 ### Valg
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:40 | 5 | 16:45 | Valg av Ridder |
+| 16:50 | 5 | 16:55 | Valg av Ridder |
 | Total tid: | 5 min | 16:45 |
 
 ### Evaluering av generalforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:45 | 3 | 16:48 | Evaluering |
-| Total tid: | 3 min | 16:48 |
+| 16:55 | 3 | 16:58 | Evaluering |
+| Total tid: | 3 min | 16:58 |
 
 ### Ekstraordinær generalforsamling heves
