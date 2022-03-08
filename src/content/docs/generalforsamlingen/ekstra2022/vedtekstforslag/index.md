@@ -4,7 +4,7 @@ title: "Vedtektsforslag 2022"
 
 # Forslag til Fondets vedtekter
 
-## Fondet forslag 01 - Endre krav om ekstraordinær generalforsamling ved manglende kandidat  (Jonathan Brooks, Henrik Giil)
+## Fondet forslag 1 - Endre krav om ekstraordinær generalforsamling ved manglende kandidat  (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Vi anser det ikke som nødvendig å måtte kalle inn til ekstraordninær generalforsamling hvis det ikke blir funnet en kandidat til fondstyret under ordinær generalforsamling. Vi ønsker derfor å endre det slik at Hovedstyret kan godkjenne en passende kandidat._
 
 
@@ -38,7 +38,7 @@ Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført
 godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å
 gjennomføre et valg kan Hovedstyret godkjenne en kandidat som oppfyller kravene i ettertid.
 
-## Fondet forslag 01 - Endre til stor G (Jonathan Brooks, Henrik Giil)
+## Fondet forslag 2 - Endre til stor G (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Det er irriterende og feil._
 
 **Enderinger:**
