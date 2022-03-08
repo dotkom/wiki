@@ -42,13 +42,13 @@ title: "Dagsorden 22"
 ### Valg
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:40 | 5 | 16:45 | Valg av Ridder |
-| Total tid: | 5 min | 16:45 |
+| 16:30 | 5 | 16:35 | Valg av Ridder |
+| Total tid: | 5 min | 16:35 |
 
 ### Evaluering av generalforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:45 | 3 | 16:48 | Evaluering |
+| 16:35 | 3 | 16:38 | Evaluering |
 | Total tid: | 3 min | 16:48 |
 
 ### Ekstraordinær generalforsamling heves
