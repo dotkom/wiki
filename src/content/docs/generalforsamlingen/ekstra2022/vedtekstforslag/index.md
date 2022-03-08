@@ -10,7 +10,7 @@ _Hvorfor? Vi anser det ikke som nødvendig å måtte kalle inn til ekstraordnin�
 
 
 **Endringer:**
-**3 Generalforsamlingen**
+**3 generalforsamlingen**
 
 **Erstatte:**
 3.3 Gjennomføring av valget
@@ -37,3 +37,15 @@ færrest stemmer vil det avholdes en fullstendig ny runde.
 Innehavere av verv sitter inntil endt generalforsamling hvor det er gjennomført et
 godkjent valg for det respektive vervet. Dersom generalforsamlingen ikke klarer å
 gjennomføre et valg kan Hovedstyret godkjenne en kandidat som oppfyller kravene i ettertid.
+
+## Fondet forslag 01 - Endre til stor G (Jonathan Brooks, Henrik Giil)
+_Hvorfor? Det er irriterende og feil._
+
+**Enderinger:**
+**3 generalforsamlingen**
+
+**Erstatte:**
+3 generalforsamlingen
+
+**Med:**
+3 Generalforsamlingen
