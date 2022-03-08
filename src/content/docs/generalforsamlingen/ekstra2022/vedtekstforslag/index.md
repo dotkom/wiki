@@ -10,7 +10,7 @@ _Hvorfor? Vi anser det ikke som nødvendig å måtte kalle inn til ekstraordnin�
 
 
 **Endringer:**
-**3 Økonomi**
+**3 Generalforsamlingen**
 
 **Erstatte:**
 3.3 Gjennomføring av valget
