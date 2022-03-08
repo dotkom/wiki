@@ -44,48 +44,48 @@ _Hvorfor? Online sine vedtekter har endret seg, det har ikke fondets. Fondet sin
 §3 generalforsamlingen
 Generalforsamlingen er fondets øverste organ og er uavhengig av gjeldende fondstyre. Generalforsamlingen avholdes samtidig med Onlines ordinære generalforsamling.
 For fondets generalforsamling gjelder følgende av Onlines vedtekter: 3.1, 3.4 og 3.5.
-Den ordinære generalforsamlingen skal behandle egne punkter med ˚arsberetning,
-innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode. Alle medlemmer i Online har rett til ˚a levere saks- og vedtektsforslag.
+Den ordinære generalforsamlingen skal behandle egne punkter med årsberetning,
+innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode. Alle medlemmer i Online har rett til å levere saks- og vedtektsforslag.
 
 **OG**
 
 Denne kan innkalles av Fondstyret, eller om minst det laveste av ti (10) eller 1/8
-av medlemmene i Online ønsker det. Fristene for ˚a kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær, jamfør Onlines vedtekter
+av medlemmene i Online ønsker det. Fristene for å kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær, jamfør Onlines vedtekter
 3.1.
-Ekstraordinær generalforsamling skal kun den(de) saken(e) som st˚ar p˚a dagsorden
+Ekstraordinær generalforsamling skal kun den(de) saken(e) som står på dagsorden
 for den ekstraordinære generalforsamlingen.
 
 **OG**
 
-Fondstyret skal velges p˚a generalforsamlingen, p˚a samme m˚ate som medlemmer til
+Fondstyret skal velges på generalforsamlingen, på samme måte som medlemmer til
 Onlines Hovedstyre som beskrevet i Onlines vedtekter av 3.6, med unntak av følgende:
-I oddetalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+I oddetallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre
 lager-medlem 1, tidligere medlem fra Onlines Hovedstyre 1, og Onlinemedlem 1.
-I partalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre
 lager-medlem 2, tidligere medlem fra Onlines Hovedstyre 2, og Onlinemedlem 2.
 
 **Med:**
 §3 generalforsamlingen
 Generalforsamlingen er fondets øverste organ og er uavhengig av gjeldende fondstyre. Generalforsamlingen avholdes samtidig med Onlines ordinære generalforsamling.
 For fondets generalforsamling gjelder følgende av Onlines vedtekter: 5.1, 5.4 og 5.5.
-Den ordinære generalforsamlingen skal behandle egne punkter med ˚arsberetning,
-innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode. Alle medlemmer i Online har rett til ˚a levere saks- og vedtektsforslag.
+Den ordinære generalforsamlingen skal behandle egne punkter med årsberetning,
+innsendte saker, vedtektsendringer, valg, regnskap og budsjettforslag for neste budsjettperiode. Alle medlemmer i Online har rett til å levere saks- og vedtektsforslag.
 
 **OG**
 
 Denne kan innkalles av Fondstyret, eller om minst det laveste av ti (10) eller 1/8
-av medlemmene i Online ønsker det. Fristene for ˚a kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær, jamfør Onlines vedtekter
+av medlemmene i Online ønsker det. Fristene for å kalle inn til ekstraordinær generalforsamling er halvert i forhold til fristene for ordinær, jamfør Onlines vedtekter
 5.1.
-Ekstraordinær generalforsamling skal kun den(de) saken(e) som st˚ar p˚a dagsorden
+Ekstraordinær generalforsamling skal kun den(de) saken(e) som står på dagsorden
 for den ekstraordinære generalforsamlingen.
 
 **OG**
 
-Fondstyret skal velges p˚a generalforsamlingen, p˚a samme m˚ate som medlemmer til
+Fondstyret skal velges på generalforsamlingen, på samme måte som medlemmer til
 Onlines Hovedstyre som beskrevet i Onlines vedtekter av 5.6, med unntak av følgende:
-I oddetalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+I oddetallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre
 lager-medlem 1, tidligere medlem fra Onlines Hovedstyre 1, og Onlinemedlem 1.
-I partalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+I partallsår skal følgende styremedlemmer velges på nytt: Ridderne av det indre
 lager-medlem 2, tidligere medlem fra Onlines Hovedstyre 2, og Onlinemedlem 2.
 
 ## Fondet forslag 3 - Endre til stor G (Jonathan Brooks, Henrik Giil)
