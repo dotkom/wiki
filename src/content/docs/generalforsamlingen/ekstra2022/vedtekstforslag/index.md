@@ -55,6 +55,15 @@ av medlemmene i Online ønsker det. Fristene for ˚a kalle inn til ekstraordinæ
 Ekstraordinær generalforsamling skal kun den(de) saken(e) som st˚ar p˚a dagsorden
 for den ekstraordinære generalforsamlingen.
 
+**OG**
+
+Fondstyret skal velges p˚a generalforsamlingen, p˚a samme m˚ate som medlemmer til
+Onlines Hovedstyre som beskrevet i Onlines vedtekter av 5.6, med unntak av følgende:
+I oddetalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+lager-medlem 1, tidligere medlem fra Onlines Hovedstyre 1, og Onlinemedlem 1.
+I partalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+lager-medlem 2, tidligere medlem fra Onlines Hovedstyre 2, og Onlinemedlem 2.
+
 **Med:**
 §3 generalforsamlingen
 Generalforsamlingen er fondets øverste organ og er uavhengig av gjeldende fondstyre. Generalforsamlingen avholdes samtidig med Onlines ordinære generalforsamling.
@@ -69,6 +78,15 @@ av medlemmene i Online ønsker det. Fristene for ˚a kalle inn til ekstraordinæ
 5.1.
 Ekstraordinær generalforsamling skal kun den(de) saken(e) som st˚ar p˚a dagsorden
 for den ekstraordinære generalforsamlingen.
+
+**OG**
+
+Fondstyret skal velges p˚a generalforsamlingen, p˚a samme m˚ate som medlemmer til
+Onlines Hovedstyre som beskrevet i Onlines vedtekter av 5.6, med unntak av følgende:
+I oddetalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+lager-medlem 1, tidligere medlem fra Onlines Hovedstyre 1, og Onlinemedlem 1.
+I partalls˚ar skal følgende styremedlemmer velges p˚a nytt: Ridderne av det indre
+lager-medlem 2, tidligere medlem fra Onlines Hovedstyre 2, og Onlinemedlem 2.
 
 ## Fondet forslag 3 - Endre til stor G (Jonathan Brooks, Henrik Giil)
 _Hvorfor? Det er irriterende og feil._
