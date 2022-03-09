@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
+- [2022-02-03](2022-02-03) - Første møtet med nye styret  
 - [2022-23-02](2022-23-02) - Genfors prepping og prikkregler
 - [2022-16-02](2022-16-02) - Genfors og jubvors
 - [2022-09-02](2022-09-02) - Statusoppdateringer
