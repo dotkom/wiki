@@ -15,7 +15,7 @@ title: "Generalforsamlingen 2022"
 Presentasjon: [Generalforsamling 2022](https://docs.google.com/presentation/d/1FrkcYeZrzaAwKnOl6F_Yj9NcrcRok5nhUwZRQhoAu90/edit?usp=sharing)  
 Onlines vedtekter:  
 Onlines fonds vedtekter:  
-Referat 2022:  
+Referat 2022:  [attachment:817]	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
