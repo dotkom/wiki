@@ -56,14 +56,17 @@ title: "Kontorvakt"
 
 | Ukenr        | Mandag          | Onsdag          | Fredag          |
 | ------------ | --------------- | --------------- | --------------- |
-| 6           | Trikom          | Prokom           | Bedkom          |
-| 7           | Fagkom| Arrkom | Dotkom |
-| 8           | Appkom | OIL | Trikom  |
-| 9           | Prokom  | Bedkom | Fagkom |
-| 10           | Arrkom | Dotkom | Appkom|
-| 11           | OIL | Trikom | Prokom        |
-| 12           | Bedkom      | Fagkom      | Arrkom       |
+| 12          | Bedkom      | Fagkom      | Arrkom       |
 | 13          | Dotkom          | Appkom     | OIL             |
+| 14           | Trikom          | Prokom           | Bedkom          |
+| 15           | Fagkom| Arrkom | Dotkom |
+| 16           | Appkom | OIL | Trikom  |
+| 17          | Prokom  | Bedkom | Fagkom |
+| 18           | Arrkom | Dotkom | Appkom|
+| 19           | OIL | Trikom | Prokom        |
+| 20           | Bedkom      | Fagkom      | Arrkom       |
+| 21          | Dotkom          | Appkom     | OIL             |
+
 
 
 
