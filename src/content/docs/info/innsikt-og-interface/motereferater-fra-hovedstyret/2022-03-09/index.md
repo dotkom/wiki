@@ -203,8 +203,6 @@ KONKLUSJON: Infomailen er DØD
 ## 813 Eventuelt
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet]
 
-- Går gjennom invitasjoner og evt. trekker hvem som drar på diverste representasjoner
-
 - Kontor til kontor med Abakus og Tihlde 17. mars. Både gamle og nye styret fra alle tre
 
 - Vårt eget styrevors til jubileet
