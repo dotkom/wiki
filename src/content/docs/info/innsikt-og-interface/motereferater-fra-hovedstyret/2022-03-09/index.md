@@ -203,7 +203,7 @@ KONKLUSJON: Infomailen er DØD
 ## 813 Eventuelt
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet]
 
-- Går gjennom invitasjoner og evnt trekker hvem som drar på diverste representasjoner
+- Går gjennom invitasjoner og evt. trekker hvem som drar på diverste representasjoner
 
 - Kontor til kontor med Abakus og Tihlde 17. mars. Både gamle og nye styret fra alle tre
 
@@ -225,5 +225,5 @@ KONKLUSJON: Infomailen er DØD
 ## 815 Diggepunkt
 [Alle må digge noe]
 
-## TODO´s (boldes)
+## TODO´s
 [Her skal alle gjøremålene som kommer opp i løpet av møtet skrives ned, slik at det er enkelt å sjekke hva man må gjøre i etterkant av møtet. Referent har ansvar for å skrive inn her etter møtet.]
