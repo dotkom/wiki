@@ -85,6 +85,7 @@ Godkjent
 
 #### Nestleder: 
 [Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
+
 - Erfaringsoverføring med Thea gikk greit
 - Velkom: Står stille siden sist
 - Debug: Har startet interne diskusjoner om en Psykt vanlig uke
