@@ -8,7 +8,7 @@ Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å
 Gjeldende vedtekter for Online: [attachment:820 title:"Onlines vedtekter" size]  
 
 ## Fondets vedtekter
-Fondets vedtekter ble sist endret 11. mars 2019.  
+Fondets vedtekter ble sist endret 11. mars 2019.  Fondets vedtekter finnes også på [Github](https://github.com/dotkom/Onlines_Fond_Vedtekter)
 
 Gjeldende vedtekter for Onlines fond: [attachment:637 title:"Fondets vedtekter" size]  
 
