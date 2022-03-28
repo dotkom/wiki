@@ -22,8 +22,6 @@ title: "Sit-kurs, slack-kanal og søknader"
 ## Innsjekk
 [Hvordan har dere det?]  
 
-**Alle har det fint! Karan er syk:(**
-
 - - -
 
 [TOC]
@@ -63,7 +61,7 @@ Godkjent, men øl for manglende agendapunkt.
 
 #### Fagkom:  
 
-- **Alle har vært i budapest og alle er syke**   
+- Alle har kost seg i Budapest 
 
 #### Prokom:  
 
