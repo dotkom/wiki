@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
-- [2022-03-16](2022-03-16) - Kalle den noe
+- [2022-03-16](2022-03-16) - Slack-kanal og Sit-kurs
 - [2022-03-09](2022-03-09) - Infomail og veldedighetsfest
 - [2022-02-03](2022-02-03) - Første møtet med nye styret  
 - [2022-23-02](2022-23-02) - Genfors prepping og prikkregler
