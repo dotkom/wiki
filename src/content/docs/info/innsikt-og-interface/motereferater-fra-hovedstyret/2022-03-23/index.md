@@ -21,8 +21,6 @@ Henrik, Karen, Anders, Thale, Thomas, Robin, Christina
 ## Innsjekk
 [Hvordan har dere det?]
 
-## TODO´s fra forrige møte
-
 
 - - -
 
