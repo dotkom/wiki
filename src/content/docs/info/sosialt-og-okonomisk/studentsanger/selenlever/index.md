@@ -12,15 +12,15 @@ lignende.
 Sangen er skrevet på et nachspiel på kjemi-kjelleren på Moholt sent på 80-tallet. Sangen var ikke en protest mot norsk selfangst som tidligere skrevet, men heller sterkt inspirert av et avisoppslag som omtalte svenskekongens uvettige ferdsel med båt blant seler i skjærgården.
 
 Forfattere:
-Oddbjørn Nupen
-Kyrre Flatval
-Olav Hegland
-Øystein Schjetne
-Jarl Ove Humblen
-Arne Hauge
-Pål Hovdenak
-Jan Bjørnar Vågeskar
-Olav Kåre Ulvestad
+Oddbjørn Nupen,
+Kyrre Flatval,
+Olav Hegland,
+Øystein Schjetne,
+Jarl Ove Humblen,
+Arne Hauge,
+Pål Hovdenak,
+Jan Bjørnar Vågeskar,
+Olav Kåre Ulvestad.
 
 Melodi: He’s got the whole world in his hand
 
