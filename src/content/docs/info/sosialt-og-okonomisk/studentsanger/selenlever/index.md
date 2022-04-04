@@ -9,9 +9,18 @@ Mens man synger denne sangen tar man gjerne en serviett el.l. i hånden
 og bruker som “sel”. Den passer dermed godt på julebord, immball og
 lignende.
 
-Denne sangen er en reaksjon på Norsk selfangst, og den internasjonale
-motstanden selfangsten møtte. Opphavet til sangen er ukjent, men den
-synges hvertfall i en del studentmiljøer.
+Sangen er skrevet på et nachspiel på kjemi-kjelleren på Moholt sent på 80-tallet. Sangen var ikke en protest mot norsk selfangst som tidligere skrevet, men heller sterkt inspirert av et avisoppslag som omtalte svenskekongens uvettige ferdsel med båt blant seler i skjærgården.
+
+Forfattere:
+Oddbjørn Nupen
+Kyrre Flatval
+Olav Hegland
+Øystein Schjetne
+Jarl Ove Humblen
+Arne Hauge
+Pål Hovdenak
+Jan Bjørnar Vågeskar
+Olav Kåre Ulvestad
 
 Melodi: He’s got the whole world in his hand
 
