@@ -32,7 +32,7 @@ Søknader sendes til: fond@online.ntnu.no
 
 ## Styredokument
 
-Fondstyrets _potensielle_ styredokument kan man finne [her](https://drive.google.com/file/d/1AhxnrynA9znDXXqOxFVcZo2-PQC-Liff/view?usp=sharing).
+Fondstyrets styredokument kan man finne [her](https://drive.google.com/file/d/1AhxnrynA9znDXXqOxFVcZo2-PQC-Liff/view?usp=sharing).
 
 ## Oversikt over godkjente søknader
 
@@ -43,12 +43,13 @@ Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt bel�
 13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [attachment:544 title:"Søknad pdf" size]
 26. mai 2019 | 4. april 2019 | Linjeforeningen Online v/ arrkom | Lydanlegg for sosiale arrangementer | 8700 kr | 18 392 kr | 
 2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | [attachment:716]
-30. September 2019 | 24. Oktober 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [attachment:717]
-12. februar 2020|10. april 2020|Trikom|Støtte til oppussing av kontoret| 22 000 kr (11 700 kr betinget) |27 800 kr| |
-7. september 2020| 15. september 2020 | RFK | Nytt kassasystem og nytt lydsystem | 24 312,25 kr | 24 312,25 kr |
-9. Mai 2021| 18. Mai 2021 | Jubkom | Senke billettprisene på jubileum | 86 000 kr | 86 000 kr |
-7. Oktober 2021| 8. Oktober 2021 | Arrkom | Transport til Åre 2022 (AVLYST) | 76 000 kr | 76 000 kr |
-16. Oktober 2021| 19. Oktober 2021 | Ekskom | Ekskursjon til Japan (AVLYST) | 75 000 kr | 75 000 kr | [attachment:806 title:"Søknad pdf" size]
+24. Oktober 2019 | 30. September 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [attachment:717]
+10. april 2020|12. februar 2020|Trikom|Støtte til oppussing av kontoret| 22 000 kr (11 700 kr betinget) |27 800 kr| |
+15. september 2020| 7. september 2020 | RFK | Nytt kassasystem og nytt lydsystem | 24 312,25 kr | 24 312,25 kr |
+18. Mai 2021| 9. Mai 2021 | Jubkom | Senke billettprisene på jubileum | 86 000 kr | 86 000 kr |
+8. Oktober 2021| 7. Oktober 2021 | Arrkom | Transport til Åre 2022 (AVLYST) | 76 000 kr | 76 000 kr |
+19. Oktober 2021| 16. Oktober 2021 | Ekskom | Ekskursjon til Japan (AVLYST) | 75 000 kr | 75 000 kr | [attachment:806 title:"Søknad pdf" size]
+5. April 2022| 4. April 2022 | Floppy Disk | Innkjøp av frisbeegolf-utstyr | 10 157 kr | 10 157 kr | [attachment:806 title:"Søknad pdf" size]
 
 
 ## Søknader
