@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
-- [2022-03-30](2022-03-30) - 
+- [2022-03-30](2022-03-30) - Promoteringsprosjekt og samarbeid med Excited
 - [2022-03-23](2022-03-23) - alumnibånd og IDI støtte
 - [2022-03-16](2022-03-16) - Slack-kanal og Sit-kurs
 - [2022-03-09](2022-03-09) - Infomail og veldedighetsfest
