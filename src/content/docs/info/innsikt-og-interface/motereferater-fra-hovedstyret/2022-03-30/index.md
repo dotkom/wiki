@@ -141,7 +141,9 @@ title: "promoteringsprosjekt og samarbeid med Excited"
 - Ingen saker
 
 ## 842 Excited samarbeid (10 min)
+
 [Planlegge videre hvordan vi kan samarbeide med Excited. De har en støtteordning hvor de i hovedsak støtter faglig sosiale arr. De er også veldig opptatt av bærekraft som er noe som kan være et enda større insentiv til at de vil støtte ting. ]
+
 - Anders: var på møte med dem og fikk vite at de også er en støtteorndning. Feks koke kveld som ble arrangert av trikom og fagkom. De Var gira på å gjøre mer enn økonomisk støtte. De har mindre penger enn IDI, så vite hvor vi skal søke.
     - Robin: hva er excited? 
 - Anders: Excited ligger under IDI, er etelleranna for fremragende IT-utdanning. Et tilleggstilbud til studiene, fordi mye ikke blir dekket av fagene.
@@ -152,6 +154,7 @@ title: "promoteringsprosjekt og samarbeid med Excited"
 - Karan: Har snakket i fagkom om å ha alternative kurs. Kan være noe å ta opp i fagkom 
     - Anders: er en god måte å få mer faglig dybde enn det vi studenter kan gi. 
 ## 843 Kompileringsansvarlige (10 min)
+
 [Vi må velge ansvarlige for kompileringen som vi skal gjennomføre til høsten]
 - Anders: MAIKEN SKAL KOMPILERES TIL HØSTEN.
 - Anders: lurt å være 4 istedenfor 3. Komiteene må stille med flere folk. Hele 2.klasse var ikke kompilert.
