@@ -37,10 +37,13 @@ title: "promoteringsprosjekt og samarbeid med Excited"
 - referat godkjent
 
 ## 838 Studentpolitikk IE og Studentrådet v/ Mathias (20 min)
+    
 [Mathias Fossum kommer innom en tur for å orientere litt rundt det studentpolitiske som skjer rundt på fakultetet for tiden.]
+
 - Mathias: studentpolitikk på NTNU, Mathias er en del av studentrådet til IE.
 - Det er  8 insitutter i fakultet vårt (IE), vi er IDI. Er 2 ITV for hver institutt
 - NTNU er strukturert med 3 nivåer. Nivå 3 er lavest, altså de man kontakter først. Det skal sitte studenter på alle nivåene
+    
     - Nivå 1: Rektroatt , NTNU sentralt, NTNU styret 
     - Nivå 2: Dekanat, Fakultetstyret ig utvidet ledergruppe. (FTV)
     - Nivå 3: Ubstutyttets administrasjon, (ITV)
@@ -48,18 +51,22 @@ title: "promoteringsprosjekt og samarbeid med Excited"
     - NTNU jobber ekstremt prosjektmessig, mange utvalg!
     - Jobber mye med campus prosjektet som skal være ferdig i 2030
     - Det kommer mye endringer i datarelaterte studier :O 
+   
 - Linjeforeningene er selvstendig organisasjoner fra NTNU, Viktig å huske at NTNU er nørmeste samarbeidspartner, men ikke pliktig å følge deres politikk.VIktig at vi noen ganger må gå tjeneste veien ved å kontakte nivå 3, feks våre ITVer. Blir det krise, kontakt nivå 2
 - Et problem med arealproblemet, IE har ikke klart å gi gode plasser hvor studenten kan sitte. 
     - Kommer revidert rapport om A4-overcrowded-problemet. Ingen umiddelbar løsning dessverre.
     - Bråkeromme aka Tihlde rommet kan bli gitt tilbake som sitteplass
     - Campus prosjektet skal prøve å løse mange problemer som finnes
     - Kommer matbutikk på Gløshaugen campus!!!! men ikke før 2030 (yikes)
+    
 #### To sensor ordningen:
+
     - Fra å med August 2022 blir alle karakterer satt av to sensurerer:
 - Mappe vurderinger vil bli fjernet som en vurderingsform.
 - To sensor er vedtat av stortinget
 
 #### Campusamlingen:
+
 - Veldig stort prosjekt, 5 milliarder skal brukes på å sammenslå campusene i Trondheim.
 - Vanskelig å allkoere arealene, veldig usikkert hvordan det skal bli løst med arealproblematikken, pga økonomiske kutt i prosjektet.
 - A Blokka skal det ikke sittes i lenger, skal heller bli et eget IT blokk mellom Rema og A4 nå. Vi får helt gode nye arealer.
@@ -67,14 +74,17 @@ title: "promoteringsprosjekt og samarbeid med Excited"
 - Er ingen nye nominerte ITV fra INformatikk for det neste valget. 
 
 ## 839 Status for komiteene (20 min)
+
 [Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
 
 #### Arrkom:
+
 - Har hatt veldedgihetsfest. Bruke scene neste gang, for å rette mer opppmerkesomhet mot showet og ikke random fulle onlinere.
 -  Planlegger komiteenes natteliv.
 -  Skal ha workshop for å planelegge høstens aktiviteter.
 
 #### Bedkom:  
+
 - Har hatt opptakk, fått 4 meldmemmer, Eivind, Fredrik, Kennedy og Aurora
 - Påmelding gikk veldig fint med fuck ups
 - Har diskutert bærekraft i bedkom - har kommet frem til noen få ting (ikke buss til cap-lokalene)
@@ -83,23 +93,27 @@ title: "promoteringsprosjekt og samarbeid med Excited"
 - Bouvet og Kantega blir med på bedcrawl til høsten.
 
 #### Dotkom:
+
 - Nye Owe så er artikkel siden ferdig, lager scetches i figma
 - Vinyard, sin frontend lages nå.
 - Flytta arbeidsdagen fra søndag til Onsdag
 
 
 #### Fagkom:  
+
 - Har snakket om hvordan få god erfaringsoverføring mtp. mangel på fysiske kurs pga korona.
 - Skal ha workshop om dette og å rydde opp i wikien.
 - Skal kanskje ha merch med Per sitt fjes.
 
 
 #### Prokom:  
+
 - Nytt merch slipp denne uka, litt kort varsel på forrige uke. 
 - Jubileums utgaven av online og årboken jobbes det mye med. 
 
 
 #### Trikom:  
+
 - Hadde jubileum og samf med Sander som var vellykket woho.
 - påskekrim frafall av arrangører
 - Sarmi har permittert seg
