@@ -40,7 +40,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - [Racingline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/racingline/)
 - [Klatregruppen](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/klatregruppen/)
 - [Floppy Disk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/floppy-disk/)
-- [Kulturelle Online sekken](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/kulturelle-online-sekken/)
+- [Kulturelle Onlinesekken](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/kulturelle-onlinesekken/)
 
 ## Tidligere interessegrupper
 
