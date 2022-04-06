@@ -183,10 +183,11 @@ title: "promoteringsprosjekt og samarbeid med Excited"
 - Punk
 
 ## 846 Godkjenning av Intensjonsavtale med Ekskom (5 min)
-[Godkjenning av [denne](https://docs.google.com/document/d/1lX0rvIh5G_ZSPQTjGReQj8PsdqLh2mUILlKCq_BHvqQ/edit#heading=h.gjdgxs) intensjonsavtalen mellom oss og Ekskom]
+[Godkjenning av intensjonsavtalen mellom oss og Ekskom]
+
 - Anders: la ut feil link. Små justeringer
 - Sondre: Online skulle stille med en kontaktperson med ekskom. 
-- Anders: Blir hele HS/nestleder.
+    - Anders: Blir hele HS/nestleder.
 
 - Godkjent ved akklamasjon
 
