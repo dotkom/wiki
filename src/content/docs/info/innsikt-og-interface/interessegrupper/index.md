@@ -39,6 +39,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - [Saltgruven](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/saltgruven/)
 - [Racingline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/racingline/)
 - [Klatregruppen](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/klatregruppen/)
+- [Floppy Disk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/floppy-disk/)
 
 ## Tidligere interessegrupper
 
