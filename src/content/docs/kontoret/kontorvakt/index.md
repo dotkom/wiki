@@ -58,7 +58,7 @@ title: "Kontorvakt"
 | ------------ | --------------- | --------------- | --------------- |
 | 12          | Bedkom      | Fagkom      | Arrkom       |
 | 13          | Dotkom          | Appkom     | OIL             |
-| 14           | Trikom          | Prokom           | Bedkom          |
+| 14           | Trikom          | Prokom   X (gjort kl.15.50)        | Bedkom          |
 | 15           | Fagkom| Arrkom | Dotkom |
 | 16           | Appkom | OIL | Trikom  |
 | 17          | Prokom  | Bedkom | Fagkom |
