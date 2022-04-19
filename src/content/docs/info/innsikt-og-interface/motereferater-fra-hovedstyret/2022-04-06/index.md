@@ -74,25 +74,52 @@ Anders, Robin, Henrik, Karan, Karen, Maiken, Njål, Carolina, Sondre
 - Vi har fått IDI-potten!
 
 #### Nestleder: 
-###### Ekskom:
+##### Ekskom:
 Vi hadde interesseundersøkelse forrige uke, nesten 60 stk som svarte ja til tur. Mange 3. og 4. klassinger! Har fått en god oversikt over hvilke land som er mest populære. Sendt mail til ticket for å begynne å planlegge rute. Sendt mail om dugnader til alle mulige bedrifter. Skal ha workshop etter påske for å forberede infomøtet. Påmelding skjer forhåpentligvis før eksamensperioden!
 
-###### Debug:
+##### Debug:
 Måtte dessverre avlyse Workshoppen vi skulle ha før påske da få medlemmer hadde muligheten til delta. Nytt tidspunkt har blitt satt til etter påske. Etter påske skal vi runde opp semesteret og planlegge for fadderukene. Vi håper også at vi kan få signert intensjonsavtalen med HS!
 
-###### Output:
+##### Output:
 Nærmer seg gjenåpningsfest der vi skal spille så mye av fokuset vårt er på det. Ellers har vi ukentlige øvinger på mandager.
 
-###### RFK:
+##### RFK:
 - Vi har nylig hatt genfors (21. mars) og valgt nytt styrestyret. Da fikk vi inn en gjeng med veldig motiverte folk som har ambisjoner om å pusse opp kjelleren og gjøre oppgraderinger der vi kan. Vi har opprettet en snekker-komite internt som har hovedansvaret her.
 - Akkurat nå holder vi på med en kompetanseoverføring mellom det gamle- og nye styrestyret sånn at vi har det vi trenger til nytt semester i august.
 - Økonomisk har vi gjort det godt på tross av pandemien. Gikk i 2021 nok et år med greit overskudd og satser på å gjøre det enda bedre i 2022 nå som vi kan kjøre på full kapasitet.
 - Ellers har vi har 3 åpninger igjen dette semesteret før vi tar sommerferie, inkludert kvelden-før-kvelden i jubileumsuka vår. Er i dialog med Jubkom i Online og holder på å ferdigstille det arrangementet.
 
-###### Velkom:
+##### Velkom:
 Har fått 2 deilige masterfaddere! Vi har bedrevet mye booking i det siste og snakket med utallige utesteder. Forrige helg var det inn-ut-ut med velkom og vi arrangerte fest for tidligere velkom som gikk veldig smud, god stemning. Vi sendte ut faddersøknad før påsken, men trenger å reklamere mer her og mest sannsynlig sende ut en til etter påsken, virker ikke som alle har fått med seg at søknaden ligger ute. Vi holder nå på å fastsette alle kostnader og få tak i de resterende sponsorene.
 
+##### Backlog:
+- Har hatt sosialt på tirsdag (i går) på kontoret. Var veldig gøy!
+- Vi jobber med å finne en ny møtestruktur.
+- Vi har hatt valg og dette er disse er nå valgt inn:
+       - Leder valgt: Milla
+       - Nestleder valgt: Sarmi
+       - Promoteringsansvarlig (SoMe-ansvarlig) valgt: William
+       - Sosialansvarlig valgt: Anniken
+       - Tillitsvalgt valgt: Anniken
 
+###### FeminIt
+- Hadde quiz på onsdag, var god s og godt oppmøte
+- Planlegger å arrangere skolejobbing hvor man kan bli kjent
+- Har fått penger fra idi til støtte for lunsj
+
+###### Autobank
+- Driver med opptak. Trenger 2-4 nye
+
+###### Interessegrupper
+- Ny interessegruppe for diskgolf: Floppy disk. Har fått støtte fra fondet.
+
+##### Appkom:
+- Infoskjerm utenfor kontoret burde være oppe å kjøre litt etter påske.
+- Fått ny økans, som er dotkom økans.
+- Holder på å bli enige om retningslinjer og kjøreregler for Appkom.
+- Homepage til julekalenderen er ferdig mangler bare oppgavene, planen er å ha de andre komiteene som “temaer” til oppgaver. Webkom fra Abakus har sagt at de var interessert i å samarbeide.
+- Nibble-app er snart ferdig, gjenstår bare noen irriterende feil.
+- Smashpause har blitt lagt litt til side grunnet fokus på andre prosjekter.
 
 #### Leder:
 - Har fiksa intensjonsavtale med Output og Ekskom (redaksjonelle endringer)
