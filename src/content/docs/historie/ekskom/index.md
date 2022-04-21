@@ -47,7 +47,7 @@ Etter spørreundersøkelse på trinnet, ble det bestemt at ekskursjonen i 2022 s
 
 Medlemmer
 ---------
-|År, sted|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    |||||||||||||||
+|År, sted|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    ||||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |---|
 |*22/23, Ikke bestemt*|*Hanna Meland Vestvik*|Silviu Mihai|Ida Matre|David Lekve|Edvard Bjørnevik|Henrik Moe Wæhre|Jakob Keller|Mats Ellingsen|Mats Klevstad|Mats Nylander|Sara Holm Pedersen|Sebastian Hegreberg|Steffen Hæren|Thomas Hasvold
 |*21/22, Berlin, Dresden og Praha*|*Sigrid Li*|Ingri Holm Nygaardsmoen|Farhad Ismayilov|Anniken Hoff|Fredrik Skaug|Ivar Hembre|Runar Johnsen|Thomas Thingsaker|Yngve Tryggestad Larsen
