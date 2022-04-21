@@ -47,7 +47,7 @@ Etter spørreundersøkelse på trinnet, ble det bestemt at ekskursjonen i 2022 s
 
 Medlemmer
 ---------
-|År, sted|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    ||||||||||||
+|År, sted|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    |||||
 |---|---|---|---| --- |---|---|---|---|---|---|---|---|---|
 |*21/22, Berlin, Dresden og Praha*|*Sigrid Li*|Ingri Holm Nygaardsmoen|Farhad Ismayilov|Anniken Hoff|Fredrik Skaug|Ivar Hembre|Runar Johnsen|Thomas Thingsaker|Yngve Tryggestad Larsen
 |*20/21, Ingen ekskursjon*|*Fredrik August Madsen-Malmo*|Jon-Inge Heggstad|Jonathan Brooks|Andreas Winther Moen|Fredrik Butler Wang|Karl Petter Aubert|Vidar Michaelsen
