@@ -6,18 +6,18 @@ Hvordan starte en interessegruppe?
 -----------------------------
 **Dersom du har en interesse for noe er det fritt frem for alle Onlinere å starte sin egen interessegruppe!**
 
-Kravene som stilles er at det skal være en gruppering som åpner for at alle Onlinere får være med. Dersom du har en ide til en interessegruppe sender du en mail til seniorkom@online.ntnu.no og melder interesse. Det trenger ikke være en lang mail, bare en kort forklaring på hva gruppen skal gjøre. For eksempel, skal du starte en Onlineløpegruppe sender du en mail som sier "Jeg vil starte løpegruppe, vi skal jogge en gang i uka." Hva som skjer etter dette punktet kommer an på hva slags interessegruppe du ønsker å starte. Felles for alle er at alle interessegrupper må være åpne for alle, med mindre interessegruppen er begrenset av natur, og at dere må ha en kontaktperson, slik at andre som er interessert vet hvor de skal henvende seg for å bli med!
+Kravene som stilles er at det skal være en gruppering som åpner for at alle Onlinere får være med. Dersom du har en ide til en interessegruppe sender du en mail til backlog@online.ntnu.no og melder interesse. Det trenger ikke være en lang mail, bare en kort forklaring på hva gruppen skal gjøre. For eksempel, skal du starte en Onlineløpegruppe sender du en mail som sier "Jeg vil starte løpegruppe, vi skal jogge en gang i uka." Hva som skjer etter dette punktet kommer an på hva slags interessegruppe du ønsker å starte. Felles for alle er at alle interessegrupper må være åpne for alle, med mindre interessegruppen er begrenset av natur, og at dere må ha en kontaktperson, slik at andre som er interessert vet hvor de skal henvende seg for å bli med!
 
 ## Hvordan søke om støtte til din interessegruppe?
 
-Du kan søke om økonomisk støtte til din interessegruppe ved å sende en mail til seniorkom@online.ntnu.no. 
+Du kan søke om økonomisk støtte til din interessegruppe ved å sende en mail til backlog@online.ntnu.no. 
 I mailen ønskes det at det skrives [Pengesøknad][Navn på interessegruppe] _Hva det søkes støtte til_, i emnefeltet. For å få støtte må det sendes inn søknad på forhånd, altså før pengene skal brukes, og det må legges frem et budsjett over hvor mye som trengs og til hva. Opplys også om antallet medlemmer i interessegruppen/som vil dra nytte av støtten. Alkohol støttes ikke
 
-Seniorkom har i utgangspunktet 10.000kr å støtte interessegrupper med hvert semester. Det vil si at seniorkom tar en avgjørelse på hvorvidt det innvilges full eller delvis støtte. Andelen som støttes avhenger av hvor mange søknader som her kommet inn, altså hvor mye som er igjen av budsjettet, og hvor mange Onlinere som vil kunne dra nytte av støtten.
+Backlog har i utgangspunktet 10.000kr å støtte interessegrupper med hvert semester. Det vil si at backlog tar en avgjørelse på hvorvidt det innvilges full eller delvis støtte. Andelen som støttes avhenger av hvor mange søknader som her kommet inn, altså hvor mye som er igjen av budsjettet, og hvor mange Onlinere som vil kunne dra nytte av støtten.
 
 Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.online.ntnu.no/ etter innkjøp.
 
-- Ansvarlig enhet er seniorkom
+- Ansvarlig enhet er backlog
 - Oppgi hvilken interessegruppe det er snakk om og hva innkjøpet gjelder.
 - Husk å ta vare på alle kvitteringer. Bruk gjerne en scanner-app som CamScanner eller scanning-funksjonen til Google Drive. Kvitteringen skal være leselig.
 
