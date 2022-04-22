@@ -55,7 +55,7 @@ Komitédaljer
     Komitedaljer
 Komitédaljene ble introdusert i 2011 og tok over for komitépinsen for å markere komitémedlemer. Daljene er baserte på komitésymbolene utviklet av Magnus Line og resten av prokom. Komitédaljen deles ut til komitémedlemer mot slutten av første semester med arbeid, ofte i sammenheng med julebordet. Produsert av Trofé.
 
-Seniorkom, Nodekomité, Kompileringsdalje
+Backlog, Nodekomité, Kompileringsdalje
 ==================
 [IMAGE]
     Bilder
@@ -82,7 +82,7 @@ Redaktør av Offline, linjeforeningens tidsskrift, bærer denne daljen. Daljen u
 
 Utmatrikuleringsdaljer
 ==================
-I forbindelse med utmatrikuleringen av ferdige masterstudenter har seniorkomitéen produsert utmatrikuleringsdaljer.
+I forbindelse med utmatrikuleringen av ferdige masterstudenter har backlog tidligere produsert utmatrikuleringsdaljer.
 
 
 Utmatrikuleringen 2013
