@@ -78,8 +78,8 @@ INFORMASJON SØKES
 Medlemmer
 ---------------
 |Milepæl|Leder|Medlemmer|||||||||
-|---|---|---|---|---|---|---|---|---|---|---|
-|35 år|**Jonas Lavik**|Mathias Schulstok|Duvara Nisharan|Mats Ellingsen|Henrik Giil Lisberg|Sigurd Oxaas Wie|Emma Blix|Idunn Stabell|Linn Holst-Dyrnes|Emilie Lia-Rognli
+|---|---|---|---|---|---|---|---|---|---|---|---|
+|35 år|**Jonas Lavik**|Mathias Schulstok|Duvara Nisharan|Mats Ellingsen|Henrik Giil Lisberg|Sigurd Oxaas Wie|Emma Blix|Idunn Stabell|Linn Holst-Dyrnes|Emilie Lia-Rognli|Martin Kvalsund|
 |30 år|**Marthe Øynes**|Sverre Bjørke|Kathrine Steffensen|Caroline Odden|Silje Riseng|Thor Håkon Bredesen|Nils Herde|
 |25 år|**Mathilde Oftedal**|Ingrid Kittelsen|Håvard S. Slettvold|Elling Overaa|Dag O. Prestegarden|John H. Kolstad|||
 |Oppstart|**Trond M. Nyhus**|Steinar Hagen|Magnus Romnes|Hanne C. Lund|Ingrid Kittelsen|Håvard S. Slettvold|Elling Overaa|
