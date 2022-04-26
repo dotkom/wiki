@@ -1,8 +1,6 @@
 ---
-title: "Retningslinjer for kvitteringer for hele Online:"
+title: "Retningslinjer for kvitteringer for hele Online"
 ---
-
-# Retningslinjer for kvitteringer for hele Online:
 
 ## Bakgrunn:  
 Hensikten med disse retningslinjene er å gi forutsigbarhet for arbeidet til alle onlines økonomiansvarlige, slik at de klarer å holde bankoms frister samt følge gjeldene regler for tilbakebetaling og føringer av kjøp. 
