@@ -22,10 +22,13 @@ Utlegg på vegne av online skal alltid avklares med sin økonomiansvarlig før k
 Ved utlegg med ett av online sine kort skal kvitteringsskjema med gyldig kvittering som beskrevet ovenfor sendes til bankom innen tre virkedager.
 Hvis man ikke får kvittering fra kjøpet må man ta kontakt med selger for å skaffe gyldig kvittering. Hvis dette ikke funker skal man varsle umiddelbart til ansvarlig person i bankom.
 
+Ved utlegg med ett av online sine kort skal det sendes ett kvitteringsskjema for hvert kjøp.
+
 
 ## Utlegg med eget bankort:      
 Frist for innsending av kvitteringsskjema for utlegg på egen regning er 7 dager. Kvitteringsskjema kan sendes inn etter dette ved god grunn **og** avtale med økonomiansvarlig fra sin komite. Hvis kvitteringsskjema kommer etter denne fristen uten avtale kan ikke bankom garantere at pengene blir tilbakebetalt. 
 
+Ved utlegg med eget bankkort kan man sende kvitteringsskjema for flere utlegg i ett skjema. Da er det viktig at alle kvitteringene for utlegget blir med, og at summen i skjemaet stemmer med hva som er lagt ut.
 
 ## Onlinepotten      
 Ved kjøp som er godkjent av onlinepotten skal ansvarlig enhent på kvitteringsskjemaet settes til onlinepotten. Slike kvitteringer betales tilbake av økonomiansvarlig. 
