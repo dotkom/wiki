@@ -1,5 +1,5 @@
 ---
-title: "Seniorkomiteens retningslinjer"
+title: "Backlogs retningslinjer"
 ---
 
 Backlog
