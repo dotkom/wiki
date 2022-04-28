@@ -2,62 +2,56 @@
 title: "Seniorkomiteens retningslinjer"
 ---
 
-Seniorkomiteen
+Backlog
 ===========
 
-### §1 Seniorkomiteens formål
+### §1 Backlogs formål 
 
-Seniorkomiteens hovedoppgave er å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift. 
+Backlogs hovedoppgave er å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift der det er hensiktsmessig. 
 Medlemmene består hovedsakelig av tidligere komitémedlemmer som ønsker å bidra til å videreutvikle Online. 
 
-### §2 Seniorkomiteens sammensetning  
 
-Seniorkomiteen består av *ressursgruppen*, som må bestå av:  
+### §2 Backlogs sammensetning
 
-- Leder av seniorkomiteen  
-- Nestleder av seniorkomiteen  
-- Økonomiansvarlig av seniorkomiteen  
+Backlog består av *ressursgruppen*, som må bestå av:  
+
+- Leder av backlog  
+- Nestleder av backlog  
+- Økonomiansvarlig av backlog  
+- Prosjektledere
 - Øvrige medlemmer  
 
-I tillegg til ressursgruppen bør seniorkomiteen bestå av ulike prosjektgrupper. Blant annet prosjektgruppen for interessegrupper. Disse prosjektgruppene skal bestå av en prosjektleder.  
+I tillegg til ressursgruppen bør backlog bestå av ulike prosjektgrupper. Disse prosjektgruppene skal bestå av en prosjektleder.  
  
-Seniorkomiteen tar opp sine egne medlemmer når det er hensiktsmessig.  
+Backlog tar opp sine egne medlemmer når det er hensiktsmessig.  
 
-Alle medlemmer av ressursgruppen, samt prosjektledere har møteplikt ved seniorkomiteens møter.  
-
-Alle øvrige medlemmer har møterett.  
-
-Alle medlemmer har stemmerett.  
+Kun ressursgruppen har stemmerett. 
 
 
-
-### §3 Seniorkomiteens ansvarområder
+### §3 Backlogs ansvarsområder 
 
 #### (1) Bistå andre komiteer og grupper  
 
-Seniorkomiteen skal være tilgjengelig for å bistå andre komiteer og grupper i Online der det.  
+Backlog skal være tilgjengelig for å bistå andre komiteer og grupper i Online der det.  
 
 #### (2) Prosjekter  
 
-Seniorkomiteen oppretter prosjekter. I tillegg skal seniorkomiteen sørge for at prosjektene har de midlene prosjektene trenger, og bistå med hjelp der det er nødvendig.  
+Backlog oppretter prosjekter. I tillegg skal backlog sørge for at prosjektene har de midlene prosjektene trenger, og bistå med hjelp der det er nødvendig.  
 
-1. Seniorkomiteen skal undersøke om prosjekter er gunstige å gjennomføre før opprettelse.  
-2. Prosjektleder skal i samråd med rekrutteringsansvarlig sørge for at personer blir tatt opp til prosjektet.  
+1. Backlog skal undersøke om prosjekter er gunstige å gjennomføre før opprettelse.  
+2. Prosjektleder skal i samråd med rekrutteringsansvarlige sørge for at personer blir tatt opp til prosjektet.  
 3. Når nye medlemmer blir tatt opp til et prosjekt skal det nye medlemmet ha en forventningsavklaring i samråd med prosjektleder og en person fra ressursgruppa.  
 
 #### (3) Interessegrupper  
 
-Ressursgruppen skal sørge for at det eksisterer en prosjektgruppe for interessegrupper. Prosjektgruppen godkjenner interessegrupper og har ansvar for å fordele midler samt bistå med hjelp der det er nødvendig. Dersom prosjektet ikke eksisterer, har ressursgruppen direkte ansvar for interessegruppene.  
+Ressursgruppen har ansvar for interessegrupper. Ressursgruppen godkjenner interessegrupper og har ansvar for å fordele midler samt bistå med hjelp der det er nødvendig. 
 
 #### (4) Komitékickoff for nye komitémedlemmer  
 
-Seniorkomiteen skal arrangere komitékickoffet for nye komitémedlemmer.  
+Backlog skal arrangere komitékickoffet for nye komitémedlemmer.  
 
-#### (5) Utmatrikulering 
 
-Seniorkomiteen skal sørge for at utmatrikuleringen av 5. klassingene skjer i løpet av våren.  
+### §4 Backlogs virke 
 
-### §4 Seniorkomiteens virke  
-
-Seniorkomiteen skal etterstrebe å skrive erfaringsskriv etter hvert arrangement slik at nest års arrangement har de beste forutsetningene for å lykkes.  
-Seniorkomiteen skal ha jevnlige møter når det er nødvendig.
+Backlog skal etterstrebe å skrive erfaringsskriv etter hvert arrangement slik at neste års arrangement har de beste forutsetningene for å lykkes.  
+Backlog skal ha jevnlige møter når det er nødvendig.
