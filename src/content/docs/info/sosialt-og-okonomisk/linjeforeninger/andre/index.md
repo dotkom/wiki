@@ -71,13 +71,13 @@ Tilhørende wikisider
         arbeid blant studenter” på [akan.no](http://akan.no)
     -   Send inn skjema og budsjett for aktiviteten det søkes penger for
     -   Legg merke til frist
--   **Tilretteleggingstjenesten** ved Studentservice på NTNU deler ut
-    25.000,- i året
-    -   Les mer på [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement](https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement)
-    -   Midlene det søkes om skal bidra til å øke muligheten for at
-        studenter med funksjonsnedsettelse kan delta
-    -   Foreningen/organisasjonen må være Brønnøysundsregistrert
-    -   Kontakt tilrettelegging@adm.ntnu.no
+- **Støtte til studentfrivilligheten** 
+	- Krav om at foreningen er en studentforening i tilknytning til NTNU. 
+	- Krav om at foreningen er registrert som ideell organisasjon med organisasjonsnummer i Brønnøysundregisteret. For foreninger som ikke er registrert i Brønnøysundregisteret settes det et maks tak på tildeling av midler på kr 10.000,-. 
+	- Støtte innvilges til arrangement som bidrar til sosial integrering av studenter. Støtte innvilges også til aktiviteter det ikke er lagt planer for i budsjettåret. Det er et krav om at arrangementet er rettet mot NTNU studenter. 
+	- Det kan innvilges kortsiktig støtte til drift. 
+	- Det stilles krav om levering av organisasjonens regnskap, kontoutskrift, samt budsjett for tiltaket det søkes midler til. 
+	- Mer informasjon [her](https://i.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentfrivilligheten).
 
 ### Tjene penger
 
