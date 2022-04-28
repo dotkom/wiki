@@ -66,9 +66,9 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | Antidot (2020) |  | Farmasi |  |  | antidot.ntnu@gmail.com | | 
 | Ægir (2020) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=925625396) | Havbruksingeniør | Maringrønn med lyseblåstripe i midten | [NV-gangen](https://link.mazemap.com/d7gTvFxU) | styret@aegirlinjeforening.com | [Page](https://www.facebook.com/aegirntnu) |
 | [Tim&Shænko](http://www.bygging.no/) (1999) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991494952) | Bygg og Miljø | Blått med hvit stripe | [Byggteknisk](https://link.mazemap.com/RFPdeFxz) | | [Facebook](https://www.facebook.com/Timogshaenko/?ref=pages_you_manage) | 
-| [Pareto](http://pareto-ntnu.no) (1993) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912807177) | Samfunnsøkonomi | Mørkeblått med hvit stripe | [Handels](https://link.mazemap.com/ikjGxAGW) | pareto.linjeforening@gmail.com | [Page](https://www.facebook.com/paretolinjeforening/), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) |
-| Nucleus (2009) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | Mørk og lys lilla | [Laboratoriesenteret](https://link.mazemap.com/ewKejhmU ) | nucleuslinjeforening@gmail.com | [Page](https://www.facebook.com/nucleuslinjeforening) | |
-| [STØH](http://www.sftoh.no) (1967) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Studentforeningen for Handelshøyskolen | lyseblått og mørkeblått | [Adolf Øiens bygg](https://link.mazemap.com/Wiz9OvNy) | Rustblekka | |
+| [Pareto](http://pareto-ntnu.no) (1993) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=912807177) | Samfunnsøkonomi | Mørkeblått med hvit stripe | [Handels](https://link.mazemap.com/ikjGxAGW) | pareto.linjeforening@gmail.com | [Page](https://www.facebook.com/paretolinjeforening/), [Person](http://fb.com/vilfredo.pareto.370), [Group](http://fb.com/groups/2249582621/) |
+| Nucleus (2009) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994544306) | Bioingeniør | Mørk og lys lilla | [Laboratoriesenteret](https://link.mazemap.com/ewKejhmU ) | nucleuslinjeforening@gmail.com | [Page](https://www.facebook.com/nucleuslinjeforening) | |
+| [STØH](http://www.sftoh.no) (1967) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990542791) | Studentforeningen for Handelshøyskolen | lyseblått og mørkeblått | [Adolf Øiens bygg](https://link.mazemap.com/Wiz9OvNy) | Rustblekka | |
 
 
 ## Masterforeninger
@@ -144,31 +144,19 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Les mer på [www.studenttinget.no/repromidler](http://www.studenttinget.no/repromidler)
     -   På høsten er søknadsfristen 1. oktober
     -   På våren er søknadsfristen 1. mars
--   **Rektorpotten**, rektor på NTNU deler ut 1.000.000 i året
-    -   NTNU-studenter kan søke til arrangementer som gjelder mange
-        studenter
-    -   Søknad stilles til rektor og sendes til postmottak@adm.ntnu.no,
-        søknaden må inneholde arrangementsbeskrivelse, søknadsbeløp og
-        budsjett
-    -   Den lille rektorpotten er på 1 million der første prioritet er
-        studentprosjekter, mens den store rektorpotten er på 10
-        millioner og går til strategisk arbeid
-    -   Begrensning: Tildeles ikke til studier eller deler av dem
-        (f.eks. ekskursjoner), heller ikke til gjentakende arrangement
-    -   Denne ordningen er ustabil, den revurderes hvert år
-    -   Søknader behandles fortløpende
+-   **Støtte til studentfrivilligheten**
+    - Krav om at foreningen er en studentforening i tilknytning til NTNU.
+    - Krav om at foreningen er registrert som ideell organisasjon med organisasjonsnummer i Brønnøysundregisteret. For foreninger som ikke er registrert i Brønnøysundregisteret settes det et maks tak på tildeling av midler på kr 10.000,-.
+    - Støtte innvilges til arrangement som bidrar til sosial integrering av studenter. Støtte innvilges også til aktiviteter det ikke er lagt planer for i budsjettåret. Det er et krav om at arrangementet er rettet mot NTNU studenter.
+    - Det kan innvilges kortsiktig støtte til drift.
+    - Det stilles krav om levering av organisasjonens regnskap, kontoutskrift, samt budsjett for tiltaket det søkes midler til.
+    - Mer informasjon [her](https://i.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentfrivilligheten).
 -   **Akan**, støtter alkoholfrie arrangementer
     -   Finn søknadsskjemaet for “Midler til rusmiddelforebyggende
         arbeid blant studenter” på [akan.no](http://akan.no)
     -   Send inn skjema og budsjett for aktiviteten det søkes penger for
     -   Legg merke til frist
--   **Tilretteleggingstjenesten** ved Studentservice på NTNU deler ut
-    25.000,- i året
-    -   Les mer på [innsida.ntnu.no/../Økonomisk-støtte-til-studentarrangement](https://innsida.ntnu.no/wiki/-/wiki/Norsk/%C3%98konomisk+st%C3%B8tte+til+studentarrangement)
-    -   Midlene det søkes om skal bidra til å øke muligheten for at
-        studenter med funksjonsnedsettelse kan delta
-    -   Foreningen/organisasjonen må være Brønnøysundsregistrert
-    -   Kontakt tilrettelegging@adm.ntnu.no
+
 -   **Velferdstinget** i Gjøvik, Ålesund og Trondheim deler ut 500.000,- i året. 
     -   Formålet med Velferdstingets sponsormidler er å bygge opp 
         under studentfrivillighet og virksomheter i Gjøvik, Ålesund 
