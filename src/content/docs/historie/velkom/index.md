@@ -79,6 +79,7 @@ Medlemmer
 ---------
 |År|Leder|Nestleder|Økonomiansvarlig|    Medlemmer    |||||||||||||||
 |---|---|---|---| --- | --- | --- |  --- |  --- | --- | --- | --- | --- | --- |--- |--- |--- |--- |---|
+|*2022*|*Erlend Golten Persen*|Hilmir Straumland|Johanna Wilmers|Martine Nilsen|Torunn Mikkelsen Bårdstu|August Skarsjord Nyheim|Elin Bjerve|Bily Steen Barret|Mats Nyfløt|Frida Eriksen Næss|Johannes Meldal|Magnus Ouren|Tale Eikernes|Vebjørn Blom-Hagen|Per Håvard Skogli Holte|Sigbjørn Berdal|
 |*2021*|*Karan Singh Sandhu*|Haavard Brummenæs|Mia Bjørndal|Hanna Meland Vestvik|Carolina Gunnesdal|Daniel Axlid|Ida Matre|Magne Slåtsveen|Sebastain Sole|Synne Ødegaard|Tage Munthe|Victoria Kallerud|Peshwas Mofak|Vegard Utseth|Kristoffer Nyvoll|Øyvind Jalland Schjerven|
 |*2020*|*Robin Lund Sadun*|Anders Robstad|Duvara Nishaharan|Ivar Hembre|Amund Skuggevik Foss|Henrik Horten Hegli|Torjus Ødegård|Martin Kvalsund|Gabriel Hanssen|Hanna Thevik|Siri Arnesen|Leo Gimre|Sarmi Ponnuthurai|Marius Holm Johansen|Pål Larsen|
 |*2019*|*Øyvind Jalland Schjerven*|Carl Smestad|Johanne Tronstad|Henrik Hørlück Berg|Jørgen Sveberg|Petter Charles Redfern|Andread Netteland|Benedicte Myrvoll|Bendik Brunvoll|Magnus Holtet|Sepehr Nasiri|Amund Lunke Røhne|Emilie Lia-Rognli|Kristoffer Nyvoll|Ahnkha Nguyen|Fredrik Wang|Erling Wisløff|Marius Aarsnes|
