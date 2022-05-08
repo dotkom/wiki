@@ -2,7 +2,7 @@
 title: "Ridderne av Det Indre Lager"
 ---
 
-Riddere av Det Indre Lager består av onlinere som gjennom sine verv eller arbeidsinnsats utmerket seg over en hver forventningSiden tidenes morgen har linjeforeningen Online hatt en tradisjon for de eldste styrelederne ved utmatrikulering. Dette innebærer en innlemmelse i Eldsterådet i Linjeforeningen, i en rekke med oppløftede skikkelser som holder tradisjoner i live.
+Riddere av Det Indre Lager består av onlinere som gjennom sine verv eller arbeidsinnsats utmerket seg over en hver forventning.
 
 ## Formål
 
