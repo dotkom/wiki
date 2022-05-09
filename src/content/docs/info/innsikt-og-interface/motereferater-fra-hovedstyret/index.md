@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
+- [2022-05-04](2022-05-04) - FeminIT besøker, hovedopptak og masse småting   
 - [2022-04-20](2022-04-20) - Påskeoppdatering
 - [2022-04-06](2022-04-06) - Håndaballag og redigeringsrettigheter
 - [2022-03-30](2022-03-30) - Promoteringsprosjekt og samarbeid med Excited
