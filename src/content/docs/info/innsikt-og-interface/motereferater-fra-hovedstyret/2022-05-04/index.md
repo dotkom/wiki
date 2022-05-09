@@ -2,3 +2,252 @@
 title: "FeminIT besøker, hovedopptak og masse småting"
 ---
 
+**Møtetidspunkt:** 12.15  
+**Sted:** [MA23](https://link.mazemap.com/2MHTZhTu)
+
+**Servering og referering:**  
+*1. ref*: Robin  
+*2. ref*: Karen  
+*Servering*:  Njål
+
+
+**Straff:**  
+Karan: burde sagt ifra at han ikke kom på møtet 24 t før. 
+Henrik: vinstraff for mobilbruk.
+Njål: ikke møtereferat på åpen wiki
+
+**Tilstede:** Resten
+
+**Mangler:** Karan
+
+## Innsjekk
+[Hvordan har dere det?]
+
+- - -
+
+[TOC]
+
+- - -
+
+## 879 Godkjenning av innkalling, servering og referat fra forrige uke
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]   
+Godkjent, bortsett fra referat. Vinstraff på njål 
+
+## 880 Feminit kommer innom (15 min)
+[Feminit kommer for å snakke om planene sine for veien videre osv] 
+
+Hva tenker feminIT, og hva ønsker de å oppnå?   
+- Mål er å bli en komite til høsten. Det er viktig at det er et lavterskel supplement for jenter.  
+- Skal ikke ta medlemmer og arrangement fra andre komiteer.  
+- Jobber for å få flere jenter til å bli med på andre arrangement i linjeforeningen.  
+- Skal ikke være en jentegjeng og skal ikke være ekskluderende.  
+- Skal ikke kun holde arrangement for de som er med i feminIT. 
+- Om feminIT arrangerer noe med en annen komite, skal arrangementer fortsatt være reservert til jenter.    
+- Avtalt og snakket med trikom om å ikke bruke kontoret på dagtid (mellom 08-16), da det er forbeholdt alle Onlinere.   
+- Trikom har førstepri på f.eks vors, da det får med mest mulig folk.   
+- I 5.klasse er det kun 18% jenter, og i andre er det kun 22%. Jenter melder seg ikke på arrangementer alene.    
+- Bruke fb for å få flere jenter med, da blesting senker terskelen for å få jenter med.   
+- Er ikke noe tiltak for å få med folk som faller utenfor. De jentene som er med i Online er kjempeaktive, og de som ikke er det faller helt ut.    
+- Trenger ikke være med masse, men bli mer synlig og få folk med. Spesielt i fadderukene.   
+- Ønsker å legge seg på samme nivå som bank og backlog. Viktig å opprettholde også etter at de nåværende aktive faller fra. De som er med i feminit må også få være med i andre komiteer. FeminIT skal heller fungere som et tillegg.     
+- Ift. vedtektene må de ha leder, nestleder og økans.    
+- Ulempene om å være under backlog er at det er midlertidig, og hverken feminit eller backlog syntes det er riktig slik det er nå. Ja det er midlertidig, men det er snakk om år og ikke måneder.   
+
+- Ønsker å ha en checkboks på siden til hovedopptaket, slik at feminit kan ta kontakt med søkere direkte. Ønsker å kombinere med andre verv.    
+- Dette fordi de som søker gjør det fordi de kjente folk fra før, og det var ikke mange som søkte på supplering.    
+- På feminit-arrangement har det blitt sett nye folk, som ikke vanligvis er med. Understreker behovet.    
+
+
+
+**Spm**: Dere snakker om egen økans - skal dere ha egen post, eller fortsatt med støtte? 
+**Svar**: Må se an, per nå er det lett å få støtte. Kanskje en liten sosialpost hadde vært naturlig. Gjerne en kombinasjon.  Typ det samme som ekskom. Greit å slippe å søke om små summer. 
+
+
+**Spm**: Dere har lyst til å bli komitee, men ikke lyst til å stjele medlemmer? 
+**Sv**: Samme som backlog og bankkom nå. 
+
+**saksopplysning:**. Kun lov med en kjernekomite per nå. 
+
+**Innlegg:** Per nå er det unntak for bankkom og backlog. Vil evt legge til ekstra unntak på genfors. 
+
+**spm:** Hvor mange medlemmer ser dere for dere?  
+**Svar**: Nå er de 6. Alle nå har andre verv. Det er naturlig at det fortsetter sånn. Heller for mange enn for få. 8-10 stykk er en god gjeng, da det ikke vil gå utover andre verv. 
+
+**Spm**: Dere ville ikke ta fra andre komiteer, men det vil skje mtp. på budsjett? 
+**Svar**: Akkurat nå klarer vi oss med støtten, men vi vil ha også støtte fra online. Vi føler vi bidrar til hele online selv om det er et bidrag til jentene, og på den måten føler vi at vi burde få egen budsjettpost. 
+
+**Innlegg**: Om de ikke vil stjele folk, er det mulig at feminit tar opp etter at de har blitt tatt opp andre. Kan fort bli til at man takker nei om man får tilbud fra feminit. 
+**Kommentar feminit**: Hvis vi kan ha en checkbox på hovedopptaket og heller venter med å ta opp medlemmer til etter hovedopptaket. 
+
+**Feminit**: Synligheten er den som er viktig. Være med på speedating o.l under fadderukene. Ønsker å understreke at det er mulig å kombinere. 
+
+**spm**: Har dere prata med dotkom for å få den checkboxen? 
+**Dotkom Svar**: Skal gå bra. 
+
+**Innlegg**: Hva med å ha samme opptaksmodell som velkom? 
+**svar**: Ikke diskutert. Kan ta det innad. Hadde vært en mulighet, men tror de sitter i samme problemet. 
+**Kommentar**: Da forsvinner hele poenget med synlighet fra starten. 
+**Kommentar**: de som ikke fikk tilbud i online vil se på samf eller isfit og kanskje forsvunnet til jul. 
+
+**spm**: Hvilke klassetrinn? 
+**Svar**: Alle, spesielt master. De er ikke representert per nå. De som kommer inn i 4. detter lett ut. 
+
+**Spm feminit**: Hva skjer videre? 
+**svar**: Generalforsamlingen er de som bestemmer. Spørre om hjelp om dere trenger. Koker ned til at det må fremmes på genfors. Mye å sette seg inn i. Alt som må til er å si ifra at dere ønsker det. 
+
+## 881 FeminIT hovedopptaket (5 min)
+[Ta en beslutning på hvordan vi vil deale med FeminIT under hovedopptaket] 
+
+**--- Nå har feminit dratt ---** 
+
+
+**Innlegg**: Føler det er good, mtp. de løsningene vi har diskutert over. 
+
+**Innlegg**: Det må komme tydelig frem at det er mulig å søke det *i tillegg* 
+
+**Innlegg**: Likte forslaget som kom: begynne opptaket etter at hovedopptaket er ferdig. 
+
+**Innlegg**: Hva er grunnen (...)    
+**Svar**: De går helt parallelt med oss, men at de sender tilbud etter. 
+
+**spm**: intervjuer samtidig som alle andre?    
+**svar**: ja 
+ 
+**Innlegg**: Om feminit har intervjuer samtidig som alle andre så kan intervjuobjektene vente med å svare komiteene, da de venter på svar fra feminit. 
+
+**Innlegg**: Vi må obs på meldinga rundt. MÅ kunne kombineres med andre verv. 
+
+**Innlegg:** Ikke prob med intervju samtidig som alle andre. Det er kjipt med avslag to ganger.    
+**kmt**: Det viktiste er hva feminit selv informerer om (på typ komiteespeeddatingen). 
+
+**Innlegg**: Stiller seg bak å vente med intervjuer til etter hovedrunden. Allerede mye som skjer, med både intervju og informasjon og generelt mye. Vanskelig å orge også. Mye styr. 
+
+**Innlegg**: Hvordan funker backlog?    
+**Sv**: løpende opptak, litt annerledes. Endret krav 
+
+**Innlegg**: mye av fokuset var synligheten, den vil de ivareta selv om de har intervjuer etterpå.  
+
+**Innlegg**: Må tenke på avslagsmail.  
+
+**Innlegg**: Fjorårets kluss rundt prioriteringer var litt pga. nettsiden og generelt mye rart. Legger tydelig inn at det er en prioritering på komiteene, og legger inn en checkbox for de. Det vil gjøre det ryddig og tydelig. Jeg tror ikke det har noe å si for hovedopptaket.  
+
+**Innlegg**: Blir uansett endret om de blir komite. Kanskje greit å holde igjen, til de faktisk blir en komite. 
+
+**Innlegg**: Er vel HS som bestemmer logistikken rundt opptaket. 
+
+**Innlegg**: Litt forskjellige meninger. Mener at det er best med intervjuer samtidig. 
+
+Går til votering. 
+
+Står mellom at feminit har intervjuer samtidig som resten av komiteene, eller om at feminit skal ha intervjuer etter tilbud utsendt fra de andre komiteene. 
+
+**Resultat:** Feminit har intervjuer parallelt med kjerne.  
+ 
+
+**Spm**: Skal man kunne søke feminit uten å søke andre? Ja. 
+
+**Innlegg**: annet perspektiv, kan man ende opp med å si nei til feminite fordi man allerede har verv.     
+**Kmt**: Blir sånn begge veier. 
+
+
+
+## 883 Status for komiteene (20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom:
+- Ikke tilstede lengre  
+
+#### Bedkom:  
+- Stille
+
+#### Dotkom:
+- Siste møtet i dag. Lite som skjer. Eksamensperiode.  
+
+#### Fagkom: 
+- Bookingrunde; har fordelt kursansvarlige  
+- har satt nye mål  
+
+#### Prokom:  
+- litt problemer med trykk for årboka, MEN den skal bli årbok og ikke fjorbok  
+- skal velge ny redaktør  
+
+#### Trikom:  
+- Tatt opp tilbakemeldinger  
+- Handla inn til eksamensperioden og grilling. Skal ikke gå tomt  
+- booka 17. mai på ravnkloa  
+- Overnevnt ble ikke blestet for, men god påmelding   
+- Eurovision neste lørdag   
+- Koppene kommer neste år  
+- Siste møte fredag  
+
+#### Økonomiansvarlig:
+
+- Betalt kvitteringskjemaer  
+- Godkjent budskjettoverskridelser.  
+- godkjent en pottesøknad<3  
+- gave til renhold etter etg. fest - overskridelse  
+
+
+#### Nestleder: 
+[Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
+
+- Ordner bodkort  
+- Litt div  
+
+#### Leder:
+
+- Snakket med Milla ang møte  
+- Finne igjen gavene fra styrevorset  
+- Signert debug intensjonsavtale  
+
+
+
+## 884 Interkom (10 min) 
+[Her skal saker som angår tre eller flere komiteer]  
+
+**Innlegg**: Hvordan var tilbakemeldingene på retningslinjene som ble sendt ut?   
+**Sv**: kommer svar senere, folk har ikke hatt møter enda.   
+
+## 885 Hovedopptaket til høsten (10 min)
+[Hvordan ønsker vi gjøre det med prioriteringer osv med tanke på hvordan det fungerte i fjor.]
+
+I fjor var det nytt system. Komiteene får ikke tilgang på prioriteten. Nå er det kun HS som vet hva folk søker, også brukes det kun til å løse låste situasjoner. Slipper det taktiske, og man setter opp en mye mer rettferdig liste.   
+
+**Innlegg**: Støtter veldig sånn som det var i fjor. Bra erfaringer med det. Alle valgte de man ville ha, og når ting ble låst var det kun leder/nestleder som sa hva det ble til.   
+
+**Innlegg**: Viktig at de som intervjuer IKKE spør om prioriteten, og viktig å si til de som søker at de skal holde det hemmelig.   
+**kmt**: Om intervjuobjektene sier det er det vel good. Veeeeldig vanskelig å gjøre noe med. Om det blir en diskusjon går det vel til pri uns.   
+
+**spm**: Styrerep burde kanskje ikke være med på opptaket?   
+**svar**: Uenig, man har en sterk stemme og burde være med å få lov å bestemme.   
+
+
+Heller viktig at folk ikke sjekker.   
+Ingen i HS har lov til å sjekke prioriteringen.   
+
+## 886 Gavekort i Nibble til førsteklassinger (5 min)
+[Velkom foreslo å gi alle nye førsteklassinger et gavekort på 100 kr på Nibble som et tiltak for å få folk til kontoret etter fadderukene. 100 kr * 150 studenter.]
+
+**Innlegg**: Det går ikke å gi folk gavekort i nibble, så da må man evt legge inn manuelt.    
+
+**Innlegg**: Mulig det er bortkasta å legge inn penger, om man uns ikke dukker opp.   
+
+**Innlegg**: Trikom kan ha et arr for førsteklassingene på kontoret. Mat og kos<33   
+
+**Innlegg**: Bedre investering å legge 15k i arr enn nibble.    
+
+
+## 000 Eventuelt
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet] 
+
+**Sak**: Møte med a-blokka gjengen. Litt retro med tilbakemeldinger o.l. Kommer et nytt møte frem i tid. 
+
+**Sak**: KID-konferanse dagen etter genfors.   
+ **kmt**: Hoddevik har begynt å bli planlagt.    
+**Innlegg**: Bytte dato da? ja.   
+
+**Sak**: Mail om markering om kutt i campus-sammenslåing. Bleste til alle på slack.    
+
+## Møteevaluering
+[Ris/ros til hvordan møtet har gått]
+- Legge fra seg pcer og mobiler. Pcforbud når man får bøker.
