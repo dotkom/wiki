@@ -69,4 +69,4 @@ Til jubileet i 2016 laget Håvard Svae Slettvold sverdet som har fått navnet Ho
 
 Sverdet er laget i hovedsak at gamle minnebrikker, og flesteparten av de brukte brikkene er av typen [EDORAM](https://en.wikipedia.org/wiki/Dynamic_random-access_memory#Extended_data_out_DRAM) og de rundt 70 brikkene av denne typen som er brukt til sverdet utgjør mindre enn 1GB med minne. Noen nyere brikker er brukt for større detaljer, Og disse er av nyere type DDR3.
 
-[attachment:823 title:"Bilde av Sverdet Holme]
+[attachment:823 title:"Bilde av Sverdet Holme"]
