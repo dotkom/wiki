@@ -2,7 +2,7 @@
 title: "Ridderne av Det Indre Lager"
 ---
 
-Riddere av Det Indre Lager består av onlinere som gjennom sine verv eller arbeidsinnsats utmerket seg over en hver forventning.
+Riddere av Det Indre Lager består av onlinere som gjennom sine verv eller arbeidsinnsats utmerket seg over enhver forventning.
 
 ## Formål
 
@@ -17,7 +17,7 @@ Vi besvarer med glede spørsmål om det meste!
 
 Det første skikkelige programmeringsfaget som mange av studentene på infomatikk måtte gjennom før Arvid Holme pensjonerte seg, og pensum ble lagt om, var Programmering Grunnkurs. Her skulle man lære om datamaskinen, hovedlageret, kompilatoren, Java og selvfølgelig hva tilstanden var i "Indre Lager" etter at man hadde kjørt en liten snutt med kode. Alt dette var sirlig nedtegnet på transparenter (gjennomsiktig papir) og kjørt på overhead i klasserommet! Her var det ikke snakk om pdf eller power point slides, nei.
 
-Som en hyllest til denne sjargongen som mange av de eldre studentene endte opp med å legge seg til i begynnelsen av sin karriere valgte vi å bruke dette navnet på ridderordenen når vi kom så langt. Holme er også foreviggjort vet eget navn som det første sverdet som ble laget!
+Som en hyllest til denne sjargongen som mange av de eldre studentene endte opp med å legge seg til i begynnelsen av sin karriere valgte vi å bruke dette navnet på ridderordenen når vi kom så langt. Holme er også foreviggjort ved eget navn som det første sverdet som ble laget!
 
 ## Historien
 
