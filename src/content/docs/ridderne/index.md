@@ -25,8 +25,8 @@ Som en hyllest til denne sjargongen som mange av de eldre studentene endte opp m
 Da det en gang i tidenes morgen, kanskje bedre kjent som Y2K, ble vedtatt å holde opptak for linjeforeningen ble Eldsterådet dannet fra Hovedstyret som satt den gangen. Det er viktig å påpeke at Hovedstyret nesten var hele linjeforeningen på det tidspunktet, og arbeidet som komiteene gjør i dag ble den gang gjort av enkeltpersoner.
 
 Oppgaven til Eldsterådet var å avholde et opptak, men var også en fin måte å fremheve de som hadde avholdt noen av de tyngre vervene i linjeforeningen. For å sørge for at Eldsterådet beholdt en viss tyngde i organisasjonen måtte man oppfylle ett av to krav for å bli innlemmet i Eldsterådet:  
-- 1 år som leder av Online
-- 3 år som styremedlem
+* 1 år som leder av Online  
+* 3 år som styremedlem
 
 Et godt tiår gikk med denne tradisjonen gående, og linjeforeningen vokste ekstremt i løpet av denne perioden. Hele studiet holdt på å forsvinne da DotCom-bobla sprakk, og det tok tid å bygge opp Online i et marked der IT ikke lenger var like ettertraktet. Dette endret seg heldigvis relativt kjapt, og i årene 2002 - 2014 vokste Online fra 8 til nesten 100 aktive medlemmer. Med dette kom aktivitet med andre linjeforeninger på Gløshaugen, og rundt i Norge. Hovedstyret ble gjennom nærmere kontakt med andre styrer, og egentlig generelt på studiet, oppfordret til å utvide opptaket, og Kompileringen i mer kjent stil gikk av stabelen for første gang i 2011.
 
