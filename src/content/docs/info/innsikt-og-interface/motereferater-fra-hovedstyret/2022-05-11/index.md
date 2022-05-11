@@ -12,8 +12,8 @@ title: "HS møte 11.05.2022"
 
 
 **Straff:**  
-Ølstraff: Sondre (kom for sent), Sondre (telefon i møte)
-Vinstraff: Sondre (ikke gjort TODO)
+- Ølstraff: Sondre (kom for sent), Sondre (telefon i møte)
+- Vinstraff: Sondre (ikke gjort TODO)
 
 **Tilstede:** 
 Alle
