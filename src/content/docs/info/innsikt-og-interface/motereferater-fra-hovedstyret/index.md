@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
+- [2022-05-11](2022-05-11) - Siste møte for semesteret! 
 - [2022-05-04](2022-05-04) - FeminIT besøker, hovedopptak og masse småting   
 - [2022-04-27](2022-04-27) - Masse retningslinjer
 - [2022-04-20](2022-04-20) - Påskeoppdatering
