@@ -11,7 +11,8 @@ title: "HS møte 11.05.2022"
 *Servering*:  Robin  
 
 
-**Straff:**  
+**Straff:** 
+ 
 - Ølstraff: Sondre (kom for sent), Sondre (telefon i møte)
 - Vinstraff: Sondre (ikke gjort TODO)
 
