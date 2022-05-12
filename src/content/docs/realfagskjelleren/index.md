@@ -3,7 +3,7 @@ title: "Realfagskjelleren"
 ---
 
 Realfagskjelleren er Online's egen kjeller/bar, som driftes sammen med linjeforeningene [Volvox & Alkymisten](http://www.volvox.no/), [Delta](https://www.deltahouse.no/) og [Spanskrøret](http://www.spanskroret.no). 
-Grunnen til detter samarbeidet er at de tre første er gamle linjeforeninger som ble opprettet på AVH lade, mens Spanskrørets ulike spesialiserings retninger går innenfor fagområdet til alle tre, derav navnet Realfagskjelleren.
+Grunnlaget til detter samarbeidet er at de tre første er gamle linjeforeninger som ble opprettet på AVH lade, mens Spanskrørets ulike spesialiserings retninger går innenfor fagområdet til alle tre, derav navnet Realfagskjelleren.
 
 Kjelleren befinner seg i Herman Krags Veg 12. 
 
