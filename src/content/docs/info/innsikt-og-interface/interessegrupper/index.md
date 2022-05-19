@@ -41,6 +41,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - [Klatregruppen](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/klatregruppen/)
 - [Floppy Disk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/floppy-disk/)
 - [Kulturelle Onlinesekken](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/kulturelle-onlinesekken/)
+- [Goodfellas](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/goodfellas/)
 
 ## Tidligere interessegrupper
 
