@@ -9,7 +9,7 @@ Informasjonskanal for fadderukene 2021
 ** OBS: Er du syk, nylig reist til utlandet eller i karantene, ikke møt opp på arrangementer(!!!) og ta kontakt med oss på velkom@online.ntnu.no ** 
 
 
-* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2022/PraktiskInfo)
+* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2022-/PraktiskInfo)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2022/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/search)  
