@@ -26,7 +26,7 @@ Her er en oversikt over alle faddere i fadderukene 2021. Om du ønsker å komme 
 * Mats Nyfløt
 * Trym Eidsten
 
-###Delta -4
+###Delta - 4
 * Johanna Wilmers
 * Elin Bjerve
 * Oskar Iglebæk Nesheim
