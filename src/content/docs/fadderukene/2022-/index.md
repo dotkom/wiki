@@ -6,7 +6,6 @@ Informasjonskanal for fadderukene 2021
 
 
 * [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2022-/PraktiskInfo)
-* [Arrangementer](https://online.ntnu.no/splash#calendar)  
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2022-/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/search)  
 * [Program - Bachelor](https://splash.online.ntnu.no/)    
