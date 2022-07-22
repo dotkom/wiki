@@ -25,7 +25,7 @@ Vi er tilgjengelig 24/7 ved behov.
 
 
 ### Har du opplevd noe ugreit?
-Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Onlines kontaktpersoner under fadderukene, Thea Karin Fladby og Sindre Langaard. Vi har full taushetsplikt og er du usikker på hva vi kan hjelpe med så er det bare å sende oss en melding.
+Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Onlines kontaktpersoner under fadderukene, Robin Lund Sadun og Anders Robstad. Vi har full taushetsplikt og er du usikker på hva vi kan hjelpe med så er det bare å sende oss en melding.
 
 - E-post: siifra@online.ntnu.no  
 - Telefon: 966 46 705  
