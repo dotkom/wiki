@@ -27,7 +27,7 @@ Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Online
 
 - E-post: siifra@online.ntnu.no  
 - Telefon: 966 46 705  
-- Nett: [online.ntnu.no/splash](online.ntnu.no/splash)  
+- Nett: [splash.online.ntnu.no](https://splash.online.ntnu.no/#warning)  
 
 
 Akutt hjelp
