@@ -16,8 +16,8 @@ Informasjonskanal for fadderukene 2021
 ### Kontakt
 Er det noe du lurer på? Ta kontakt med:
 
-- [Erlend Golten Persen]() (leder, velkom) ()  
-- [Hilmir Straumland]() (nestleder, velkom) (46855967)
+- [Erlend Golten Persen](https://online.ntnu.no/profile/public/2194) (leder, velkom) (40060277)  
+- [Hilmir Straumland](https://online.ntnu.no/profile/public/2215) (nestleder, velkom) (46855967)
 
 Vi er tilgjengelig 24/7 ved behov.  
 
