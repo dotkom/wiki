@@ -20,8 +20,8 @@ Referat 2022:
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter: [attachment:808]  
-Referat Generalforsamlingen 2021: [attachment:810]  
+Onlines fonds vedtekter:  
+Referat Generalforsamlingen 2021:   
 
 ## Regnskap 2021 og budsjett 2022
 
@@ -31,8 +31,8 @@ Referat Generalforsamlingen 2021: [attachment:810]
 ## Informasjon
 
 **Hva:** Onlines generalforsamling  
-**Når:** 2. mars 2022, kl. 16:30  
-**Hvor:** Realfagsbygget R7  
+**Når:** 19. Oktober 2022, kl. 16:30  
+**Hvor:** Verkstedteknisk VE1  
 
 Generalforsamlingen 2021 finner sted **2. mars 16:30 i R7**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
