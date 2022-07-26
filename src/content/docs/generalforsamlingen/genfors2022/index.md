@@ -1,5 +1,5 @@
 ---
-title: "Generalforsamlingen 2022"
+title: "Generalforsamlingen våren 2022"
 ---
 
 ## Innhold
