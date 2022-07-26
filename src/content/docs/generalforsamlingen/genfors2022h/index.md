@@ -16,11 +16,11 @@ Presentasjon:
 Onlines vedtekter GitHub: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
 Online vedtekter PDF:   
 Onlines fonds vedtekter:  [Vedtekter på GitHub](https://github.com/dotkom/Onlines_Fond_Vedtekter)  
-Referat 2022:  
+Referat høsten 2022:  
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter:  [Vedtekter på GitHub](https://github.com/dotkom/Onlines_Fond_Vedtekter)
+Onlines fonds vedtekter:  [Vedtekter på GitHub](https://github.com/dotkom/Onlines_Fond_Vedtekter)  
 Referat Generalforsamlingen 2021: [attachment:824]  
 
 ## Regnskap 2021 og budsjett 2022
