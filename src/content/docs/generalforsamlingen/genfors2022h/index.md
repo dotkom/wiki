@@ -42,7 +42,7 @@ Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](https://old.online.ntnu.no/wiki/online/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2022/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2022h/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 
