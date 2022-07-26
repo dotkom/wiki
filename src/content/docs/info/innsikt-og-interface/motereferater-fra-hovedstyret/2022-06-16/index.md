@@ -144,18 +144,6 @@ SV: Etter
 ### Oppdatering fra X-Sport
 De fleste er gira på å få til noe annet enn surfing. Rafting, juling elns. Vil ikke være "surfegruppa"
 
-### Hyttejakt
-Funnet en hytte med 20 sengeplasser. Vi blir 21, tror ikke det blir noe problem (bare kos). Men virker som det er familiehytte, typ du kan hjelpe til å mate dyrene. Skal vi være veldig rett fram og si at vi skal feste med soundboks og sånn?
-
-I: Ja, bedre å miste hytta enn at de blir sur i etterkant
-
-I: Lurest å bare være upfront, så vi har noe å referere til hvis de klager i etterkant
-
-Sp: Legger du ut hytta?
-
-Sv: Ja
-
-I: Ikke lås dere inn på dette forslaget, bare å finne andre forslag til hytter vi kan se på
 
 ### Faddervakt
 Anders, Robin, Caro og Njål skal. Har noen andre lyst?
