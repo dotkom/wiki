@@ -3,7 +3,7 @@ title: "saksforslag høsten 2022"
 ---
 
 ## Innhold  
-* [2022 Forside](/wiki/online/generalforsamlingen/genfors2022)   - Forside
+* [2022 Forside](/wiki/online/generalforsamlingen/genfors2022h)   - Forside
 * [2022 Forretningsorden](/wiki/online/generalforsamlingen/genfors2022h/forretningsorden) - Forretningsorden
 * [2022 Dagsorden](/wiki/online/generalforsamlingen/genfors2022h/dagsorden) - Dagsorden for generalforsamlingen
 * [2022 Årsberetninger](/wiki/online/generalforsamlingen/genfors2022h/aarsberetninger) - Årsberetninger
