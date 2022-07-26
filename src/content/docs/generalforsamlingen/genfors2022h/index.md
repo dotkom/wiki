@@ -3,19 +3,12 @@ title: "Generalforsamlingen Høsten 2022"
 ---
 
 ## Innhold
-* [2022 Forside](/wiki/online/generalforsamlingen/genfors2022h)   - Forside
 * [2022 Høst - Forside](/wiki/online/generalforsamlingen/genfors2022h)   - Forside
-* [2022 Forretningsorden](/wiki/online/generalforsamlingen/genfors2022h/forretningsorden) - Forretningsorden
 * [2022 Høst - Forretningsorden](/wiki/online/generalforsamlingen/genfors2022h/forretningsorden) - Forretningsorden
-* [2022 Dagsorden](/wiki/online/generalforsamlingen/genfors2022h/dagsorden) - Dagsorden for generalforsamlingen
 * [2022 Høst - Dagsorden](/wiki/online/generalforsamlingen/genfors2022h/dagsorden) - Dagsorden for generalforsamlingen
-* [2022 Årsberetninger](/wiki/online/generalforsamlingen/genfors2022h/aarsberetninger) - Årsberetninger
 * [2022 Høst - Årsberetninger](/wiki/online/generalforsamlingen/genfors2022h/aarsberetninger) - Årsberetninger
-* [2022 Saksforslag](/wiki/online/generalforsamlingen/genfors2022h/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2022 Høst - Saksforslag](/wiki/online/generalforsamlingen/genfors2022h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2022 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2022h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2022 Høst - Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2022h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Kandidater](/wiki/online/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 * [2022 Høst - Kandidater](/wiki/online/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
