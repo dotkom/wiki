@@ -12,7 +12,7 @@ title: "Generalforsamlingen Høsten 2022"
 * [2022 Kandidater](/wiki/online/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Presentasjon: (https://docs.google.com/presentation/d/1FrkcYeZrzaAwKnOl6F_Yj9NcrcRok5nhUwZRQhoAu90/edit?usp=sharing)  
+Presentasjon:  
 Onlines vedtekter GitHub: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
 Online vedtekter PDF:   
 Onlines fonds vedtekter:  [Vedtekter på GitHub](https://github.com/dotkom/Onlines_Fond_Vedtekter)
