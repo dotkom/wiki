@@ -15,7 +15,7 @@ title: "Generalforsamlingen Høsten 2022"
 Presentasjon:  
 Onlines vedtekter GitHub: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
 Online vedtekter PDF:   
-Onlines fonds vedtekter:  [Vedtekter på GitHub](https://github.com/dotkom/Onlines_Fond_Vedtekter)
+Onlines fonds vedtekter:  [Vedtekter på GitHub](https://github.com/dotkom/Onlines_Fond_Vedtekter)  
 Referat 2022:  
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
