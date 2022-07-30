@@ -2,7 +2,7 @@
 title: "Fadderukene 2022"
 ---
 
-Informasjonskanal for fadderukene 2021
+Informasjonskanal for fadderukene 2022
 
 
 * [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2022-/PraktiskInfo)
