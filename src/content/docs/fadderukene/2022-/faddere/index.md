@@ -2,7 +2,7 @@
 title: "Faddere"
 ---
 
-Her er en oversikt over alle faddere i fadderukene 2021. Om du ønsker å komme i kontakt med noen kan det gjøres [her](https://online.ntnu.no/profile/user_search/), høre med noen som kjenner vedkommende, eller snakke med noen i velkom.
+Her er en oversikt over alle faddere i fadderukene 2022. Om du ønsker å komme i kontakt med noen kan det gjøres [her](https://online.ntnu.no/profile/user_search/), høre med noen som kjenner vedkommende, eller snakke med noen i velkom.
 
 
 ###Alfa - 1
