@@ -12,6 +12,6 @@ Hvert år så må semesteravgiften betales inn. Dette gjøres på [studentweb](h
 
 Blackboard er nettsiden hvor forelesere legger ut oppgaver, forelesningsnotater og annen relevant informasjon til fagene. Det er forelesernes måte å kommuniserer med alle studentene. Du vil få tilgang til denne siden når semesteravgift er betalt Her blir også pensumlister lagt ut nærmere studiestart. Innsida er nettsiden hvor mye av informasjonen fra NTNU kommer. Timeplan vil du også finne her, når NTNU gjør dette klart.
 
-Igjen, skulle det være noe så er vi ikke skumle! Bare å ta kontakt, enten ved å sende mail til velkom@online.ntnu.no eller så kan jeg nås ved hjelp av kontakinformasjonen [her](https://online.ntnu.no/profile/public/1963) 
+Igjen, skulle det være noe så er vi ikke skumle! Bare å ta kontakt, enten ved å sende mail til velkom@online.ntnu.no eller så kan så kan dere ta kontakt med leder [Erlend](https://online.ntnu.no/profile/public/2194) eller nestleder [Hilmir](https://online.ntnu.no/profile/public/2215) igjennom kontakinformasjonen
 
 Med vennlig hilsen Hilmir Straumland, nestleder av velkomstkomiteen 2022
