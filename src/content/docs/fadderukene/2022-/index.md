@@ -23,7 +23,7 @@ Vi er tilgjengelig 24/7 ved behov.
 
 
 ### Har du opplevd noe ugreit?
-Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Onlines kontaktperson  under fadderukene, Aleksander Westergaard Karlsen. Han har full taushetsplikt og er du usikker på hva vi kan hjelpe med så er det bare å sende oss en melding.
+Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Onlines kontaktperson  under fadderukene, Aleksander Westergaard Karlsen. Han har full taushetsplikt og er du usikker på hva han kan hjelpe med så er det bare å sende en melding.
 
 - E-post: siifra@online.ntnu.no  
 - Telefon: 952 03 046    
