@@ -12,7 +12,6 @@ Våren 2014 ble Gulleblekka arrangert for første gang, etter initiativ fra Offl
 God lesing!
 
 Redaktører:
-- 2022-2023: Runar Johnsen
 - 2021-2022: Benedicte Helen Myrvoll
 - 2020-2021: Henrik Giil Liisberg
 - 2019-2020: Elias B. Vågan
