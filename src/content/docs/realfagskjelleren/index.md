@@ -37,6 +37,11 @@ Kjelleren fortsatte å holde oppe best mulig, selv under Korona pandemien 2020/2
 
 
 ## Onlinere i Kjellerstyret
+### 2022/2023
+* August Skarfjord Nyheim (Kjellerkontakt)
+* Resten er TBA etter hovedopptaket:)
+
+
 ###2021/2022
 * Nicolai Dalaaker (Kjellerkontakt)
 * Martin Skatvedt (Nestleder)
