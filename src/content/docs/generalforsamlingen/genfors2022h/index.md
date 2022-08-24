@@ -19,7 +19,7 @@ Referat høsten 2022:
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Referat Generalforsamlingen 2021: [attachment:824]  
+Referat Generalforsamlingen 2022: [attachment:824]  
  
 
 
