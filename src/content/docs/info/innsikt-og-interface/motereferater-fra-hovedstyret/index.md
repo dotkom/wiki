@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2022
-- [2022-08-30](2022-08-30) - Revidert Budsjett møte
+- [2022-08-30](2022-08-30) - Omøblering og revidert Budsjett møte
 - [2022-06-16](2022-06-16) - Sommermøte
 - [2022-05-11](2022-05-11) - Siste møte for semesteret! 
 - [2022-05-04](2022-05-04) - FeminIT besøker, hovedopptak og masse småting   
