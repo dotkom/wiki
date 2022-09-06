@@ -27,6 +27,8 @@ title: "Stormøte 14.09.2022"
 
 #### Arrkom:  
 
+#### Band:
+
 #### Bedkom:  
 
 #### Debug: 
@@ -36,6 +38,10 @@ title: "Stormøte 14.09.2022"
 #### Ekskom:  
 
 #### Fagkom: 
+
+#### FeminIT
+
+#### Fondet
 
 #### ITEX: 
 
