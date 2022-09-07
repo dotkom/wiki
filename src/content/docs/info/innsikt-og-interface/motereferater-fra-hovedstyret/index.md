@@ -10,7 +10,8 @@ Møtereferater
 ### Høst 2022
 - [2022-09-14](2022-09-14) - Stormøte
 - [2022-09-07](2022-09-07) - 
-- [2022-08-31](2022-08-31) - Omøblering og revidert Budsjett møte
+- [2022-08-31](2022-08-31) - Omøblering og revidert Budsjett møte   
+- [2022-08-24](2022-08-24) - Årets første møte<3
 
 ### Vår 2022
 - [2022-06-16](2022-06-16) - Sommermøte
