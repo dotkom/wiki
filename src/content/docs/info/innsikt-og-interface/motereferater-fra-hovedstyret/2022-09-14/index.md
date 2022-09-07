@@ -31,6 +31,8 @@ title: "Stormøte 14.09.2022"
 
 #### Band:
 
+#### Bankom: 
+
 #### Bedkom:  
 
 #### Debug: 
