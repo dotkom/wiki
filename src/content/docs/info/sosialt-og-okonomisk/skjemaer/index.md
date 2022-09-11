@@ -6,7 +6,7 @@ title: "Skjemaer"
 
 [attachment:799 title:"Avtale for utleie av utstyr"]
 
-[attachment:826 title:"Kjøpsavtale for bruktkjøp"]
+[attachment:827 title:"Kjøpsavtale for bruktkjøp"]
 
 ## Kvitteringsskjema
 
