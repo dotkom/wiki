@@ -6,6 +6,8 @@ title: "Skjemaer"
 
 [attachment:799 title:"Avtale for utleie av utstyr"]
 
+[attachment:826 title:"Kjøpsavtale for bruktkjøp"]
+
 ## Kvitteringsskjema
 
 Dersom du har hatt et privat utlegg i forbindelse med ditt komiteearbeid, kan du få dette refundert. Utlegget skal være rimelig til komitearbeidet, og i tråd med din komitees budsjett. **De fleste komiteene har allerede egne bankkort**, og vi etterstreber å bruke disse, så langt det lar seg gjøre. Økonomiansvarlig kan gi deg nærmere detaljer. 
