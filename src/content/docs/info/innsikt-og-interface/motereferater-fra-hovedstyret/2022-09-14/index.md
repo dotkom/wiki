@@ -235,20 +235,19 @@ Prokom: Påminnelse om at det er to uker frist på plakatbestilling. Altså to 
 
 Trikom: veldig mye som står på kontoret nå, alle må ta en runde og rydde. 
 
-
 ## 000 - Eventuelt  
 
-Anders: Ledervalg av komiteer skjer på våren, mens representanter skjer på høsten. Problemet vi ser er at det kan være utfordrende å bytte den ene rollen midt i perioden til den andre. De to alternativene er å enten la det stå eller flytte ledervalget til høsten.
-- Mia: Vil bankom fortsatt velges på våren? Sammen med økans?
+- Anders: Ledervalg av komiteer skjer på våren, mens representanter skjer på høsten. Problemet vi ser er at det kan være utfordrende å bytte den ene rollen midt i perioden til den andre. De to alternativene er å enten la det stå eller flytte ledervalget til høsten.
+    - Mia: Vil bankom fortsatt velges på våren? Sammen med økans?
     - Henrik: Ja, mye av denne oppstarten er felles for bankomleder og økans. 
 - Elise: Fordel med forskjellig, du vil alltid ha en som kan litt mer. Erfaringsøverføring! Blir litt overflødig med to generalforsamlinger hvis det skal skje veldig mange endringer på en
 - Henrik: Tenk på det før økonomi og vedtekstkveld. 
 
-Karen: Bedkom merker det er kjempepress for studenter i starten av året for å søke sommerjobb. Frist er 1. oktober, men det er løpende opptak. 
-- Robin: ta opp dette på FiF, ha en felles forståelse for når vi legger ut annonser.   
-    - Anders: Det korter ned tiden man har på å skrive og sende søknad så blir bare mer stress over kortere tid.  
-- Elise: For bedriftene er det veldig uaktuelt å gjøre noe med det. De begynner å ta opp folk rett etter summerinternship, og vil utnytte denne tiden. De holder av mange plasser til første oktober, for at det også skal være mulig å få jobb når man har søkt innen fristen  
-- Henrik: Vi har ikke så mye makt over når bedriftene legger ut annonsene sine. 
+- Karen: Bedkom merker det er kjempepress for studenter i starten av året for å søke sommerjobb. Frist er 1. oktober, men det er løpende opptak. 
+    - Robin: ta opp dette på FiF, ha en felles forståelse for når vi legger ut annonser. 
+    - Anders: Det korter ned tiden man har på å skrive og sende søknad så blir bare mer stress over kortere tid. 
+    - Elise: For bedriftene er det veldig uaktuelt å gjøre noe med det. De begynner å ta opp folk rett etter summerinternship, og vil utnytte denne tiden. De holder av mange plasser til første oktober, for at det også skal være mulig å få jobb når man har søkt innen fristen
+    - Henrik: Vi har ikke så mye makt over når bedriftene legger ut annonsene sine. 
 
 
 Anders: Tar en prat med ekskom om hvordan tidligere nevnte utfordringer løses. 
