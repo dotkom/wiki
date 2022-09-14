@@ -245,9 +245,9 @@ Anders: Ledervalg av komiteer skjer på våren, mens representanter skjer på h
 - Henrik: Tenk på det før økonomi og vedtekstkveld. 
 
 Karen: Bedkom merker det er kjempepress for studenter i starten av året for å søke sommerjobb. Frist er 1. oktober, men det er løpende opptak. 
-- Robin: ta opp dette på FiF, ha en felles forståelse for når vi legger ut annonser. 
-    - Anders: Det korter ned tiden man har på å skrive og sende søknad så blir bare mer stress over kortere tid. 
-- Elise: For bedriftene er det veldig uaktuelt å gjøre noe med det. De begynner å ta opp folk rett etter summerinternship, og vil utnytte denne tiden. De holder av mange plasser til første oktober, for at det også skal være mulig å få jobb når man har søkt innen fristen
+- Robin: ta opp dette på FiF, ha en felles forståelse for når vi legger ut annonser.   
+    - Anders: Det korter ned tiden man har på å skrive og sende søknad så blir bare mer stress over kortere tid.  
+- Elise: For bedriftene er det veldig uaktuelt å gjøre noe med det. De begynner å ta opp folk rett etter summerinternship, og vil utnytte denne tiden. De holder av mange plasser til første oktober, for at det også skal være mulig å få jobb når man har søkt innen fristen  
 - Henrik: Vi har ikke så mye makt over når bedriftene legger ut annonsene sine. 
 
 
