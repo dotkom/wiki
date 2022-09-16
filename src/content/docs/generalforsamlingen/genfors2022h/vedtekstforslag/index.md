@@ -19,8 +19,16 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter
 
-## Forslag 1 - 
+## Vedtektsforslag 01: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
 
-# Forslag til Fondets vedtekter
+## Vedtektsforslag 02: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
 
-## Fondet Forslag 01 -
+## Vedtekstforslag 03: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli
+
+## Vedtekstforslag 04: Regler for medlemsskap v/ Anders Robstad og Maiken Lie
+
+## Vedtekstforslag 05: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
+
+## Vedtekstforslag 06: Ledervalg på høsten v/ ??? og ???
+
+## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Mia Bjørndal
