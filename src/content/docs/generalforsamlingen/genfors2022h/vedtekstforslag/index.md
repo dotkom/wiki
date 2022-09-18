@@ -31,4 +31,4 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ## Vedtekstforslag 06: Ledervalg på høsten v/ ??? og ???
 
-## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre & Hanne Sofie Haugland
+## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
