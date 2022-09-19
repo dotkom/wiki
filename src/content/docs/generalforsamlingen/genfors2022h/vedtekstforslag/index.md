@@ -29,7 +29,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ## Vedtekstforslag 05: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
 
-## Vedtekstforslag 06: Ledervalg på høsten v/ ??? og ???
+## Vedtekstforslag 06: Ledervalg på høsten v/ Sondre Stokke og ???
 
 ## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
 
