@@ -32,3 +32,21 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 ## Vedtekstforslag 06: Ledervalg på høsten v/ ??? og ???
 
 ## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
+
+Hvorfor? På informatikk er det ca. 25% jenter. Generelt sett har frafallet av jenter vært høyt gjennom årene, et eksempel på dette er 2020-kullet hvor etter ett år var halvparten av frafallet jenter. FeminITs mål er å senke frafallet av jenter på studiet, ved å gi mulighet for å bli kjent med jenter på tvers av trinn, for å øke trivsel og beholde motivasjonen til å fullføre studiet. Vi ønsker at FeminIT skal bli en komité for å bevare vårt mål og styrke grupperingens posisjon i Online, også i fremtiden.
+
+Dette vil innebære endring av vedtekt 4.2 (fjerde avsnitt):
+
+Fra:
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
+
+Til:
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog og FeminIT kan kombineres med en annen kjernekomite.
+
+Og et tillegg 4.2.11:
+
+Females in IT
+Komiteens hovedoppgave er å øke trivselen blant jenter på informatikk for å på sikt øke kvinneandelen. Komiteen legges ned etter at kvinneandelen på informatikk har nådd 40% over tre år på bachelornivå og 30% på masternivå. Komiteens navn forkortes FeminIT.
+
+Annet:
+Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
