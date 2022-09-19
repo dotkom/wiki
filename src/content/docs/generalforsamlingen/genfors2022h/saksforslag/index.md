@@ -25,7 +25,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 Bakgrunn: Online-daljen er symbolet på å være med i linjeforeningen Online. Denne daljen fås ved å delta i en ydmykende, nedverdigende og kjip kompilering. Vi frykter at dette tidlige inntrykket av Online sender feil melding til, og i verste fall skremmer vekk våre nye medlemmer. Kompileringen har også elementer som gjør den utilgjengelig for folk med funksjonsnedsettelse og allergier. Vi ønsker å reformere kompileringen til bedre å reflektere verdiene vi står for i Online.
 
-Forslag: 
-1. Kompileringen endres til å handle om lagarbeid og oppgaveløsning sammen med gruppen sin. Fjern de ekle, ydmykende elementene. Dropp å drite ut individer og flytt fokuset på lagånd og samarbeid. Kompileringen kan fortsatt være utfordrende og litt skummel, men ikke ubehagelig slik den er nå.
+Forslag:  
+1. Kompileringen endres til å handle om lagarbeid og oppgaveløsning sammen med gruppen sin. Fjern de ekle, ydmykende elementene. Dropp å drite ut individer og flytt fokuset på lagånd og samarbeid. Kompileringen kan fortsatt være utfordrende og litt skummel, men ikke ubehagelig slik den er nå.  
 
 2. Online-daljen er ikke lenger belønningen for kompileringen. I stedet gis daljen til alle nye medlemmer, f.eks. i sammenheng med et arrangement i fadderukene. En alternativ belønning for selve kompileringen kan være en unik pin.
