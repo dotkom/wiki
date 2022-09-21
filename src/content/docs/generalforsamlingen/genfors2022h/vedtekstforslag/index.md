@@ -62,7 +62,7 @@ Fra:
 En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
 
 Til:
-En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog og FeminIT kan kombineres med en annen kjernekomite.
+En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog **og FeminIT** kan kombineres med en annen kjernekomite.
 
 Og et tillegg 4.2.11:
 
