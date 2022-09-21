@@ -31,6 +31,23 @@ til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og e
 
 ## Vedtekstforslag 03: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli
 
+**Bakgrunn**
+
+- Per nå har bankom 2 uker på revidering av siste måned i halvåret, regnskapsføre og lage nytt budsjett.
+- Disse to ukene faller midt i fadderuka.
+- Må også godkjennes av HS, som kan ta litt tid hvis de har innvendinger eller endringsforslag til det nye budsjettet.
+- Bankom ønsker derfor å utsette fristen med 14 dager, slik at vi har bedre tid til å lage et så bra og rettferdig budsjett som overhodet mulig. 
+
+Endre vedtekt §7.1.3 Revidering av budsjett
+
+Fra: 
+
+- Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
+
+Til: 
+
+- Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen **15.** september.
+
 ## Vedtekstforslag 04: Regler for medlemsskap v/ Anders Robstad og Maiken Lie
 
 ## Vedtekstforslag 05: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
