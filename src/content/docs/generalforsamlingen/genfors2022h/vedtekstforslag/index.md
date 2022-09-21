@@ -126,8 +126,7 @@ Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet s
 
 
 
-## Vedtekstforslag 06: Ledervalg på høsten v/ Sondre Stokke
-På genfors i vår valgte vi å flytte valgene av styrerepresentantene i Hovedstyret til genfors på høsten. Dette medførte at komitéledere og styrerepresentanter ikke lenger velges samtidig. Vi i Hovedstyret lurer på om denne konsekvensen burde tas stilling til ved å flytte valgene av komitélederne til høsten.
+## Vedtekstforslag 06: Ledervalg på høsten v/ Sondre Stokke og ???
 
 ## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
 
@@ -148,3 +147,23 @@ Komiteens hovedoppgave er å øke trivselen blant jenter på informatikk for å 
 
 Annet:
 Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
+
+
+## Vedtekstforlsag 08: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
+
+
+**Bakgrunn**
+
+-   Vedtektenes betydning er tvetydig slik den står nå.    
+-   Et medlem av en/flere nodekomiteer kan gjøre en vel så god jobb som en i kjernekomite.
+-   Opp til generalforsamlingen å avgjøre hvem kandidater som er best egnet, ikke hvorvidt de kan stille pga. en gammel vedtekt.
+
+**Endringer**
+
+§ 4.1.3 Krav til kandidater
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
+
+§ 4.1.3 Krav til kandidater
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat **til styrerepresentant** ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
