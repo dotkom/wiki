@@ -16,7 +16,7 @@ title: "Dagsorden høsten 2022"
 | 17:30 | 17:50 | 20  | Vedtekstforslag 06: Ledervalg på høsten v/ Sondre Stokke                                                                                |
 | 17:50 | 18:05 | 15  | Pause                                                                                                                                   |
 | 18:05 | 18:20 | 15  | Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Mia Bjørndal                                                               |
-| 18:20 | 18:25 | 5  | Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun                                                                |
+| 18:20 | 18:25 | 5  | Vedtektsforslag 08: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun                                                                |
 | 18:25 | 18:35 | 10  | Eventuelt                                                                                                                               |
 | 18:35 | 18:45 | 10  | Møteevaluering 
 
