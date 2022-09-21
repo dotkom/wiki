@@ -56,11 +56,13 @@ Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomi
 
 Fra:
 Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Ved vår-generalforsamlingen utlyses: 
+
 - Leder 
 - Nestleder 
 - Økonomiansvarlig 
 
 Ved høst-generalforsamlingen utlyses: 
+
 - Øvrige styrerepresentanter 
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
@@ -68,11 +70,13 @@ Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet s
 
 Til:
 Verv i Hovedstyret varer normalt i to **semestre** og utlyses ved generalforsamlinger. Ved vår-generalforsamlingen utlyses: 
+
 - Leder 
 - Nestleder 
 - Økonomiansvarlig 
 
 Ved høst-generalforsamlingen utlyses: 
+
 - Øvrige styrerepresentanter 
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. **Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen.** Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen. 
