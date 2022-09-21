@@ -38,7 +38,7 @@ til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og e
 - Må også godkjennes av HS, som kan ta litt tid hvis de har innvendinger eller endringsforslag til det nye budsjettet.
 - Bankom ønsker derfor å utsette fristen med 14 dager, slik at vi har bedre tid til å lage et så bra og rettferdig budsjett som overhodet mulig. 
 
-Endre vedtekt §7.1.3 Revidering av budsjett
+**Endre vedtekt §7.1.3 Revidering av budsjett**
 
 Fra:  
 Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
