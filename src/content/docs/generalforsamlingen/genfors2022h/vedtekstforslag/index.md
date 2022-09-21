@@ -25,7 +25,7 @@ Endre §4.2 første setning
 
 fra: "Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig."
 
-til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt."
+til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig **og en tillitsvalgt.**"
 
 ## Vedtektsforslag 02: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
 
