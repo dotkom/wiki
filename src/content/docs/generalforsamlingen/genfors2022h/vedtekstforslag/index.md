@@ -40,13 +40,11 @@ til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig og e
 
 Endre vedtekt §7.1.3 Revidering av budsjett
 
-Fra: 
+Fra:  
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
 
-- Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen 1. september.
-
-Til: 
-
-- Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen **15.** september.
+Til:  
+Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen **15.** september.
 
 ## Vedtekstforslag 04: Regler for medlemsskap v/ Anders Robstad og Maiken Lie
 
