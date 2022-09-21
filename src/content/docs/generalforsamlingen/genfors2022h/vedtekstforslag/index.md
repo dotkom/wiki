@@ -50,6 +50,36 @@ Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomi
 
 ## Vedtekstforslag 05: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
 
+**Bakgrunn**
+
+**Endre vedtekt §4.1.4 Valg av Hovedstyre**
+
+Fra:
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Ved vår-generalforsamlingen utlyses: 
+- Leder 
+- Nestleder 
+- Økonomiansvarlig 
+
+Ved høst-generalforsamlingen utlyses: 
+- Øvrige styrerepresentanter 
+
+Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.
+
+
+Til:
+Verv i Hovedstyret varer normalt i to **semestre** og utlyses ved generalforsamlinger. Ved vår-generalforsamlingen utlyses: 
+- Leder 
+- Nestleder 
+- Økonomiansvarlig 
+
+Ved høst-generalforsamlingen utlyses: 
+- Øvrige styrerepresentanter 
+
+Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. **Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen.** Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen. 
+
+
+
+
 ## Vedtekstforslag 06: Ledervalg på høsten v/ Sondre Stokke og ???
 
 ## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
