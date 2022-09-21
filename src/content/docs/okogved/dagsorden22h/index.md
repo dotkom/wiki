@@ -7,8 +7,8 @@ title: "Dagsorden høsten 2022"
 | 16:15 | 16:20 | 5   | Velkomst v/ Anders Robstad                                                                                                              |
 | 16:20 | 16:25 | 5   | Utpekelse av ordstyrer                                                                                                                  |
 | 16:25 | 16:35 | 10  | Sakforslag 01: Kompilering v/ Sebastian Hegreberg og Sondre Stokke                                                                      |
-| 16:35 | 16:40 | 5   | Vedtektsforslag 02: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli                                                                 |
-| 16:40 | 16:50 | 10  | Vedtektsforslag 01: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke                              |
+| 16:35 | 16:40 | 5   | Vedtektsforslag 01: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli                                                                 |
+| 16:40 | 16:50 | 10  | Vedtektsforslag 02: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke                              |
 | 16:50 | 17:05 | 15  | Pause                                                                                                                                   |
 | 17:05 | 17:10 | 5   | Vedtekstforslag 03: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli                                          |
 | 17:10 | 17:20 | 10  | Vedtekstforslag 04: Regler for medlemsskap v/ Anders Robstad og Maiken Lie                                                              |
