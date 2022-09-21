@@ -93,7 +93,7 @@ Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomi
 **Bakgrunn**
 
 Endringer på fjorårets generalforsamling åpner for potensielt sett tre (3) ekstra, plutselige, valg om tre sittende styrerepresentanter stiller til leder, nestleder og økonomiansvarlig.
-Kom frem på fjorårets generalforsamling at dette ikke var ønskelig da det:
+På fjorårets generalforsamling kom det frem at dette ikke var ønskelig da det:
 
 - Kreves mye arbeid å sette opp dagsorden, og ved plutselige endringer kan dette gi stort utslag på tidsbruk, struktur og surr.
 - Skaper mindre  forutsigbarhet for deltakerne på generalforsamlingen, og folk gjør et mindre informert valg.
