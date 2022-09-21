@@ -39,6 +39,13 @@ I et desperat forsøk etter å finne et annet sted å spille inn podden enn på 
 - Emilie Lia-Rognli
 - August Solvang
 
+Gangen skiftes ut, IGJEN
+------------------
+Johanna og Frida får aldri nok verv i Online, så hvorfor ikke ta over Podline?
+
+###### Den nye nye gjengen:
+- Johanna Wilmers
+- Frida Eriksen Næss
 
 Du finner oss her:
 ------------------
