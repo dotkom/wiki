@@ -22,7 +22,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - Husk å ta vare på alle kvitteringer. Bruk gjerne en scanner-app som CamScanner eller scanning-funksjonen til Google Drive. Kvitteringen skal være leselig.  
 
 ## Retningslinjer for interessegrupper  
-[Retningslinjer](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/retningslinjer)
+Disse retningslinjene er utarbeidet av backlog:[Retningslinjer](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/retningslinjer)
 
 ## Aktive interessegrupper
 
