@@ -33,7 +33,7 @@ title: "Årsberetninger høsten 2022"
 
 ## Trivselskomiteen
 
-## Seniorkomiteen
+## Backlog
 
 ## Applikasjonskomiteen
 
