@@ -14,7 +14,7 @@ title: "Generalforsamlingen Høsten 2022"
 ## Dokumenter fra årets generalforsamling
 Presentasjon:  
 Onlines vedtekter: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
-Referat økonomi og vedtektskveld: [attachment:828]
+Referat økonomi og vedtektskveld: [attachment:829]  
 Referat høsten 2022:  
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
