@@ -19,8 +19,10 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 
 - Ansvarlig enhet er backlog
 - Oppgi hvilken interessegruppe det er snakk om og hva innkjøpet gjelder.
-- Husk å ta vare på alle kvitteringer. Bruk gjerne en scanner-app som CamScanner eller scanning-funksjonen til Google Drive. Kvitteringen skal være leselig.
+- Husk å ta vare på alle kvitteringer. Bruk gjerne en scanner-app som CamScanner eller scanning-funksjonen til Google Drive. Kvitteringen skal være leselig.  
 
+## Retningslinjer for interessegrupper  
+[Retningslinjer](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/retningslinjer)
 
 ## Aktive interessegrupper
 
