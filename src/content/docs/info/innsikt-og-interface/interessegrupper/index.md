@@ -43,6 +43,7 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Klatregruppen](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/klatregruppen/)
 - [Floppy Disk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/floppy-disk/)
 - [Kulturelle Onlinesekken](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/kulturelle-onlinesekken/)
+- [MVKG](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/mvkg/)
 
 ## Tidligere interessegrupper
 
