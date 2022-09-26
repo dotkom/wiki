@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2022
+- [2022-09-21](2022-09-21) - ØoV, Genfors, Notion
 - [2022-09-14nr2](2022-09-14nr2) - Genfors, FIF-møte og valg av styrerepresentanter
 - [2022-09-14](2022-09-14) - Stormøte
 - [2022-09-07](2022-09-07) - Planlegger genfors
