@@ -13,10 +13,13 @@ title: "HS-møte 21.09.22"
 
 **Straff:**  
 Henrik - vinstraff (ikke gjort todo)
+
 **Tilstede:** 
 Maiken, Anders, Njål, Robin, Sondre, Carolina, Karan, Karen
+
 **Mangler:** 
 Henrik
+
 ## Innsjekk
 [Hvordan har dere det?]
 
