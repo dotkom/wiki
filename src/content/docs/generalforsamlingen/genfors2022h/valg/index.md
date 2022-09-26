@@ -23,6 +23,6 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra arrkom:*  
 * *Styremedlem fra bedkom:*  
 * *Styremedlem fra dotkom:* Njål Ingersønn Sørland
-* *Styremedlem fra fagkom:*  
+* *Styremedlem fra fagkom:*  Erlend Golten Persen
 * *Styremedlem fra prokom:*  Sondre Stokke
 * *Styremedlem fra trikom:*
