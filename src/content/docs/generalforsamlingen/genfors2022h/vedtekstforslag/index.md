@@ -157,6 +157,7 @@ En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid u
 Og et tillegg 4.2.11:
 
 Females in IT
+
 Komiteens hovedoppgave er å øke trivselen blant jenter på informatikk for å på sikt øke kvinneandelen. Komiteen legges ned etter at kvinneandelen på informatikk har nådd 40% over tre år på bachelornivå og 30% på masternivå. Komiteens navn forkortes FeminIT.
 
 Annet:
