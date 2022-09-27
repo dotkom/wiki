@@ -77,7 +77,7 @@ Godkjent!
 
 #### Nestleder: 
 [Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
-- [https://docs.google.com/document/d/14PFZQLkplkjXgko62MD_5Cq22ZjnrWcv1PJOeEITHPk/edit?usp=sharing](https://docs.google.com/document/d/14PFZQLkplkjXgko62MD_5Cq22ZjnrWcv1PJOeEITHPk/edit?usp=sharing)  
+- [Bruk Onlinemail for å åpne](https://docs.google.com/document/d/14PFZQLkplkjXgko62MD_5Cq22ZjnrWcv1PJOeEITHPk/edit?usp=sharing)
 
 #### Leder:
 - Orga retrospektiv møte for fordelingsmøte
