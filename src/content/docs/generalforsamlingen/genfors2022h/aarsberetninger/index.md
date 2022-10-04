@@ -17,6 +17,38 @@ title: "Årsberetninger høsten 2022"
 
 ## Hovedstyret
 
+**Generelt**
+
+- Avholdt et stormøte 
+- Gjennomført økonomi og vedtektskvelden
+- Planlagt og gjennomfører Onlines første andre genfors
+- Nominert riddere til Jubileum 2022 og Immball 2022
+- Gjennomført "Den nødvendige samtalen" for tillitsvalgte med SIT
+- Arrangert første koronafrie kompilering på 2 år
+- Avholdt ny-på-informatikk kurset for de nye studentene
+- Arrangert sommerfest for Online i Oslo
+- Arrangert hyttetur med Hovedstyret og komiteledere
+- Gjennomført komiteopptaket høsten 2022
+- Lagt ut nye prikkeregler
+- Skinnet et par hoder for veldedighet
+- Vedtatt av vi skal lage leder-bånd og alumni-bånd i Online
+
+**Samarbeid med andre**
+
+- Støttet RFK med midler til utbedring av kjelleren
+- Deltatt på IE-møter
+- Deltatt på IDI-møter
+- Sendt to representanter til Oslo for FIF-møte
+- Deltatt på Linjeledermøter hver måned
+- Deltatt på En psykt vanlig uke 2022
+- Representert på diverste revyer, immball, jubileum og gallaer
+
+**Studentpolitikk**
+
+- Hjulpet til med forbedring av arealene i A-blokka
+- Mistet muligheten til å sende ut linjeforeningsmateriell til nye studenter igjen :/
+
+
 ## Debug
 
 ## Arrangementskomiteen  
@@ -37,13 +69,13 @@ title: "Årsberetninger høsten 2022"
 
 ## Applikasjonskomiteen
 
-## Ekskursjonskomiteen 2022
+## Ekskursjonskomiteen 2023
 
-## IT-ekskursjonen 2021
+## IT-ekskursjonen 2022
 
 ## Online IL
 
-## Velkomstkomiteen 2021
+## Velkomstkomiteen 2022
 
 ## Realfagskjelleren 
 
