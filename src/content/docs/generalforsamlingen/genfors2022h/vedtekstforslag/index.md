@@ -19,7 +19,16 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter
 
-## Vedtektsforslag 01: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
+## Vedtektsforslag 01: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
+
+Endre §4.2 første setning
+
+fra: "Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig."
+
+til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig **og en tillitsvalgt.**"
+
+
+## Vedtektsforslag 02: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
 
 **Bakgrunn**
 -   Historisk sett har kjernekomiteer hett det fordi de har vært “kjernen” av virksomhet i Online - ikke lengre tilfelle.
@@ -58,14 +67,6 @@ Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjen
 **6.2 Retningslinjer for komiteene**
 
 Hver **komité** og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
-
-## Vedtektsforslag 02: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
-
-Endre §4.2 første setning
-
-fra: "Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig."
-
-til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig **og en tillitsvalgt.**"
 
 ## Vedtekstforslag 03: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli
 
