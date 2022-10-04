@@ -77,6 +77,8 @@ title: "Årsberetninger høsten 2022"
 
 ## Velkomstkomiteen 2022
 
+## Jubileumskomiteen 2022
+
 ## Realfagskjelleren 
 
 ## Casual Gaming
