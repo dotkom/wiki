@@ -138,11 +138,7 @@ Ved høst-generalforsamlingen utlyses:
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. **Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen.** Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen. 
 
 
-
-
-## Vedtekstforslag 06: Ledervalg på høsten v/ Sondre Stokke og ???
-
-## Vedtekstforlsag 07: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
+## Vedtekstforlsag 06: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
 
 Hvorfor? På informatikk er det ca. 25% jenter. Generelt sett har frafallet av jenter vært høyt gjennom årene, et eksempel på dette er 2020-kullet hvor etter ett år var halvparten av frafallet jenter. FeminITs mål er å senke frafallet av jenter på studiet, ved å gi mulighet for å bli kjent med jenter på tvers av trinn, for å øke trivsel og beholde motivasjonen til å fullføre studiet. Vi ønsker at FeminIT skal bli en komité for å bevare vårt mål og styrke grupperingens posisjon i Online, også i fremtiden.
 
@@ -164,7 +160,7 @@ Annet:
 Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
 
 
-## Vedtekstforlsag 08: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
+## Vedtekstforlsag 07: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
 
 
 **Bakgrunn**
