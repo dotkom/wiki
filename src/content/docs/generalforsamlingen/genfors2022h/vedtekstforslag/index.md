@@ -218,6 +218,8 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 
 ## Vedtektsforslag 09: Komiteledere velges før vår generalforsamlingen v/ Anders Robstad
 
+**Bakgrunn**
+
 - I vedtektene våre står ikke spesifisert ved hvilken genfors ledere av kjærnekjomiteene skal velges.
 - Dermed ønsker vi å legge inn at lederne velges før vårens generalforsamling
     - Dette var hensikten med vedtektsendringer som ble fremmet i vår, så det er egentlig bare en formell opprydning etter dette. 
