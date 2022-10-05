@@ -100,9 +100,11 @@ På bakgrunn av at denne vedtekten er definert veldig vagt i forhold til hva som
 Vedtekten som legges til er for å håndtere sjeldne unntakssituasjoner hvor Hovedstyret finner det hensiktsmessig å gi noen fullverdig medlemsskap.
 
 
-**Endre vedtekt §3.4 Adgang for andre til å bli medlem**  
+**Endre vedtekt §3.4**  
 
 Fra: 
+
+§3.4  Adgang for andre til å bli medlem
 
 På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre å bli medlem. Dette gjelder primært studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier.
 
