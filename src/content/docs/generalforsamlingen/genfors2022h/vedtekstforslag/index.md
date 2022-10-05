@@ -19,16 +19,8 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter
 
-## Vedtektsforslag 01: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
 
-Endre §4.2 første setning
-
-fra: "Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig."
-
-til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig **og en tillitsvalgt.**"
-
-
-## Vedtektsforslag 02: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
+## Vedtektsforslag 01: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
 
 **Bakgrunn**
 -   Historisk sett har kjernekomiteer hett det fordi de har vært “kjernen” av virksomhet i Online - ikke lengre tilfelle.
@@ -68,6 +60,17 @@ Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjen
 
 Hver **komité** og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
 
+
+
+## Vedtektsforslag 02: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
+
+Endre §4.2 første setning
+
+fra: "Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig."
+
+til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig **og en tillitsvalgt.**"
+
+
 ## Vedtekstforslag 03: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli
 
 **Bakgrunn**
@@ -88,6 +91,34 @@ Til:
 Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen **15.** september.
 
 ## Vedtekstforslag 04: Regler for medlemsskap v/ Anders Robstad og Maiken Lie
+
+
+Vedtekt §3.4 i dagens vedtekter tilsier at man kan søke om fullt medlemskap, selv om man ikke har informatikk som studieretning. Dette er ikke slik praksisen i dag fungerer, da ingen studenter som ikke har studierett på informatikk vil bli godkjent som fullt medlem - de vil kun kunne få godkjent sosialt medlemskap. I vedtekten er det heller ikke spesifisert hva slags medlemskap man kan søke om.
+
+På bakgrunn av at denne vedtekten er definert veldig vagt i forhold til hva som er praksis ønsker vi derfor å endre den til å bedre matche hvordan søknader behandler og hva slags medlemskap forskjellige personer her rett på.
+
+Vedtekten som legges til er for å håndtere sjeldne unntakssituasjoner hvor Hovedstyret finner det hensiktsmessig å gi noen fullverdig medlemsskap.
+
+
+**Endre vedtekt §3.4 Adgang for andre til å bli medlem**  
+
+Fra: 
+
+På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre å bli medlem. Dette gjelder primært studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier.
+
+Til: 
+
+§3.4 Adgang for andre til å bli sosialt medlem
+
+Studenter ved andre fakulteter og linjer som har informatikk som et av sine hovedstudier kan søke om sosialt medlemskap. Søknaden sendes inn til Hovedstyret med dokumentasjon på at vedkommende tar alle obligatoriske emner ved informatikk. 
+
+Legge til:
+
+§3.5 Adgang for andre til å bli fullverdig medlem
+
+På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre studenter å bli fullverdig medlem.
+
+
 
 ## Vedtekstforslag 05: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
 
