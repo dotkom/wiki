@@ -194,7 +194,10 @@ Annet:
 Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
 
 
-## Vedtekstforlsag 07: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
+## Vedtektsforslag 07: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
+
+
+## Vedtekstforlsag 08: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
 
 
 **Bakgrunn**
@@ -212,3 +215,27 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 § 4.1.3 Krav til kandidater
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat **til styrerepresentant** ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
+
+## Vedtektsforslag 09: Komiteledere velges før vår generalforsamlingen v/ Anders Robstad
+
+- I vedtektene våre står ikke spesifisert ved hvilken genfors ledere av kjærnekjomiteene skal velges.
+- Dermed ønsker vi å legge inn at lederne velges før vårens generalforsamling
+    - Dette var hensikten med vedtektsendringer som ble fremmet i vår, så det er egentlig bare en formell opprydning etter dette. 
+
+**Endre §4.2 Kjernekomiteer**
+
+Fra: 
+
+...
+
+Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. 
+
+...
+
+Til: 
+
+...
+
+Komiteens lederkandidat velges internt i komiteen før **vår** generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. 
+
+...
