@@ -69,7 +69,8 @@ title: "Årsberetninger høsten 2022"
 - Generelt
     - 11 medlemmer, der to av de er prosjektledere
     - Backlog har offisielt satt i gang med den nye strukturen der vi drifter prosjekter, samt gjennomfører andre ting for å være en ressurs for linjeforeningen.
-    - Arrangert et meget suksessfullt komitekickoff
+    - Arrangert et meget suksessfullt komitekickoff. 
+    - Er i prosess med å arrangere lederkurs for HS og komiteledere
     - Var med i hovedopptaket for første gang nå i høst og har rett og slett bare prøvd oss fram på hva som funker for oss.
     - Jobber generelt med hvordan backlog skal få fotfeste i Online med ny struktur, hvordan vi skal få vist frem hvem vi er og hva vi gjør.
 
