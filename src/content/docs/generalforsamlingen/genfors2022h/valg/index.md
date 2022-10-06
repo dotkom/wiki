@@ -27,7 +27,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra prokom:*  Sondre Stokke
 * *Styremedlem fra trikom:*
 
-
+### Godkjenning av Profil- og aviskomiteen-leder
 
 ### Eventuell godkjenning av FemniIT-leder
 Grunnet vedtektsforslag 6 legger vi også inn FeminIT-leder for mulig godkjennelse på generalforsamlingen. Dette skjer kun dersom vedtektsforslag 6 - "FeminIT som kjernekomite" går gjennom.
