@@ -46,6 +46,7 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Padelpiratene](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/padelpiratene/)
 - [Meme og Vin og Klin og Grin](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/mvkg/)
 
+
 ## Tidligere interessegrupper
 
 - [Linjekoret C#](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/koret/)
