@@ -65,6 +65,23 @@ title: "Årsberetninger høsten 2022"
 
 ## Trivselskomiteen
 
+Overordnet
+Vi tok opp 7 nye medlemmer i høst.
+4 førsteklassinger, 1 andreklassing, 1 tredjeklassing og 1 fjerdeklassing.
+Totalt er vi 18 aktive medlemmer, og 1 aktiv pang.
+
+Arrangementer
+Vi har innført noen nye arrangementer som for eksempel Bytte og gjenbruksdag. Dette noe som vi kan tenke oss å få gjort flere ganger. Vi har planlagt å ha åpne vors før alle store arrangementer i Online som feks oktoberfest og julebord slik at alle har et vors de kan komme til enten alene eller med en gjeng.
+
+Kontoret og kiosken
+Helt i starten av semesteret så ryddet vi boden og ga bort varer gratis eller billigere på grunn av holdbarhet. Vi har ordnet et litt bedre system i boden slik at vi slipper å tape så mye penger på at varene går ut på dato, og dette prøver vi å opprettholde så godt vi kan.
+Vi har hatt workshop i starten av dette semesteret der vi fikk satt opp datoer for alle arrangementene våre for høsten.
+
+Annet
+Vi lurer litt på om vi skal fortsette med bestikk og tallerkener i kiosken, i og med at vi øsnker å bli mer bærekraftige som linjeforening, som ble innført på genvors nå i vår.
+Vi har fortsatt en del problemer med nibble så vi skal snakke om å prøve ut noe mer lignende løsningene til Abakus eller TIHLDE. Når nibble er nede har vi bestemt at vi stenger kiosken helt, og man må vente til den er oppe og går igjen før man kan kjøpe noe. Dette er for å unngå så mye svinn.
+
+
 ## Backlog  
 - Generelt
     - 11 medlemmer, der to av de er prosjektledere
