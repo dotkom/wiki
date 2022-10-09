@@ -98,8 +98,8 @@ title: "Årsberetninger høsten 2022"
     - Vi har hatt workshop i starten av dette semesteret der vi fikk satt opp datoer for alle arrangementene våre for høsten.
 
 - Annet
-    - Vi er litt frem og tilbake om hva vi tenker om bestikk og papptallerkener i kiosken, i og med at vi øsnker å bli mer bærekraftige som linjeforening, som ble innført på genvors nå i vår.
-    -Vi har fortsatt en del problemer med nibble så vi skal snakke om å prøve ut noe mer lignende løsningene til Abakus eller TIHLDE. Når nibble er nede har vi bestemt at vi stenger kiosken helt, og man må vente til den er oppe og går igjen før man kan kjøpe noe. Dette er for å unngå så mye svinn.
+    - Vi er litt frem og tilbake om hva vi tenker om bestikk og papptallerkener i kiosken, i og med at vi ønsker å bli mer bærekraftige som linjeforening, som ble innført på genvors nå i vår.
+    - Vi har fortsatt en del problemer med nibble så vi skal snakke om å prøve ut noe mer lignende løsningene til Abakus eller TIHLDE. Når nibble er nede har vi bestemt at vi stenger kiosken helt, og man må vente til den er oppe og går igjen før man kan kjøpe noe. Dette er for å unngå så mye svinn.
 
 
 ## Backlog  
