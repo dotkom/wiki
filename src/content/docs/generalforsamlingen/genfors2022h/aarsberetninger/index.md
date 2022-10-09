@@ -51,6 +51,21 @@ title: "Årsberetninger høsten 2022"
 
 ## Debug
 
+Generelt:
+- Forbedret samarbeid med HS
+
+Vår
+- Workshop
+- Åpent kontor med trikom
+	
+Høst
+- Tatt opp nytt medlem (og forhåpentligvis flere)
+- Plakater på A4
+- Planlegging av felles kommunikasjonskanal for tillitsvalgte
+- Planlegging av kulturpåvirkningsarrangement
+- Samarbeidet med HS om vedtekter
+- Sendt "How to" til komiteer
+
 ## Arrangementskomiteen  
 
 ## Bank- og økonomikomiteen
