@@ -134,6 +134,25 @@ title: "Årsberetninger høsten 2022"
 
 ## Realfagskjelleren 
 
+- Generelt:
+    - Tatt opp 3 nye Onlinere, 10 medlemmer totalt i høst
+    - Vært booket mye siden fadderuka, både av interne og eksterne
+    - Hatt fredagsåpninger siden fadderuken
+    - Begynt med Happy Hour fra 18:00-19:00 på fredagsåpninger
+    - Holdt styrevors før immball for 5 linjeforeninger, deriblant Online
+    - Representert på diverse immball, galler, deriblant Online immball
+    - Avholdt stormøte og ukentlige styrestyremøter
+    - Deltatt på møte med kjellersamarbeidet
+- Oppussing:
+    - Har drevet med et omfattende oppussingsprosjekt siden generalforsamling i mars
+    - Kjøpt nye laserlys til dansegulvet
+    - Fikset mye nytt dekor på veggene og malt
+    - Snekret nye benker, hyller og skap, samt fikset nytt beerpongbord
+    - Fått støtte fra linjeforeningene
+    - Fått ekstra støtte fra Deltafondet for ryggputer
+    - Har søkt Onlinefondet om penger til nye lys i alle rom
+    - Oppdatert barkartet vårt
+
 ## Casual Gaming
 
 ## Output
