@@ -51,14 +51,14 @@ title: "Årsberetninger høsten 2022"
 
 ## Debug
 
-Generelt:
+**Generelt**
 - Forbedret samarbeid med HS
 
-Vår
+**Vår**
 - Workshop
 - Åpent kontor med trikom
 	
-Høst
+**Høst**
 - Tatt opp nytt medlem (og forhåpentligvis flere)
 - Plakater på A4
 - Planlegging av felles kommunikasjonskanal for tillitsvalgte
