@@ -282,3 +282,63 @@ b ) Etter at Hovedstyret har mottatt mistillitsforslaget skal det gå minimum en
 c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.   
 d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
+
+## Vedtektsforslag 11: Innlemme Debug i behandlingen av mistillitsforslag
+
+**Bakgrunn** 
+
+- Bakgrunn
+
+Endre § 4.7.1 Fremme mistillit
+
+Fra: 
+
+a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
+
+1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.  
+2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
+3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.  
+
+b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
+
+Til: 
+
+a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
+
+1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.  
+2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
+3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.  
+
+b) **Ved et mistillitsforslag skal man henvende seg skriftlig til Debug.**
+
+
+Endre § 4.7.2 Saksbehandling
+
+Gammel: 
+
+a ) Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg.  
+b ) Etter at Hovedstyret har mottatt mistillitsforslaget skal det gå minimum en (1) uke før saken skal behandles.  
+c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.   
+d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
+e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
+
+Ny: 
+
+a ) Mistillitsforslaget presenteres for Hovedstyret av **Debug**
+b ) Etter at Hovedstyret har mottatt mistillitsforslaget skal det gå minimum en (1) uke før saken skal behandles.  
+c ) **Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.**  
+d ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.   
+e ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
+f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.  
+
+
+
+## Vedtektsforslag 12: Legge til muligheten for å klage på mistillitsvedtak
+
+
+
+## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens
+
+
+
+## Vedtektsforslag 14: Presisere suspensjon ved mistillitsforslag
