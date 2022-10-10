@@ -12,7 +12,7 @@ title: "Generalforsamlingen Høsten 2022"
 * [2022 Høst - Kandidater](/wiki/online/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Presentasjon:  
+Presentasjon: [Her](https://docs.google.com/presentation/d/1pxRdneaszn3vbcsiq7GwBaUz2_UPJu2t/edit#slide=id.p1)  
 Onlines vedtekter: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
 Referat økonomi og vedtektskveld: [attachment:829]  
 Referat høsten 2022:  
