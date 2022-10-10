@@ -364,6 +364,21 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 ## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens
 
+**Bakgrunn**
+
+- Bakgrunn
+
+**Legge til tekst under paragraf 4.7 Mistillit**
+
+Gammel:
+
+§ 4.7 Mistillit
+
+Ny: 
+
+4.7 Mistillit 
+
+**Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og skal derfor fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit. **
 
 
 ## Vedtektsforslag 14: Presisere suspensjon ved mistillitsforslag
