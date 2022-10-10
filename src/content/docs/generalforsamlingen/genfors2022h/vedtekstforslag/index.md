@@ -269,7 +269,7 @@ Til:
 
 a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
 
-1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert  inntil Hovedstyret har kommet med en avgjørelse.  
+1. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse.   
 2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
 
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
