@@ -241,3 +241,42 @@ Til:
 Komiteens lederkandidat velges internt i komiteen før **vår** generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. 
 
 ...
+
+
+## Vedtektsforslag 10: Oppdeling av paragraf §4.7 Mistillit
+
+**Bakgrunn**
+
+- Paragrafen er i dag bare et veldig langt avsnitt med mye tekst, som gjør det veldig rotete og vanskelig å lese
+- Vi ønsker å gjøre noen endringer på paragrafen senere, men ønsker at den skal være litt mer strukturert først
+- Innholdsmessig er det helt likt som før, gjør det bare mer lesbart og forståelig
+
+
+**Endre §4.7 Mistillit**
+
+Fra: 
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+
+Til: 
+
+§ 4.7 Mistillit
+
+§ 4.7.1 Fremme mistillit
+
+a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
+
+1) Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.  
+2) Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
+3) Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.  
+
+b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
+
+§ 4.7.2 Saksbehandling  
+
+a ) Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg.  
+b ) Etter at Hovedstyret har mottatt mistillitsforslaget skal det gå minimum en (1) uke før saken skal behandles.  
+c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.   
+d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
+e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
