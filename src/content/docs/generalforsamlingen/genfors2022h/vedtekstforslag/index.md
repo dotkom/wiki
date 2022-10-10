@@ -335,6 +335,31 @@ f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 ## Vedtektsforslag 12: Legge til muligheten for å klage på mistillitsvedtak
 
+**Bakgrunn**
+
+- Bakgrunn
+
+**Legge til § 4.7.3 Klage**
+
+a) Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
+
+b) Klagefristen er én måned etter at vedtaket ble fattet.
+
+c) En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom 7/9 medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
+
+**Endre: §4.1.4 Valg av Hovedstyret**
+
+Fra: 
+
+Verv i Hovedstyret varer normalt i to semestre og utlyses ved generalforsamlinger.
+
+...
+
+Til: 
+
+Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamlinger. **Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten. **
+
+...
 
 
 ## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens
