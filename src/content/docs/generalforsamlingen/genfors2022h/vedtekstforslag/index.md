@@ -282,7 +282,10 @@ c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
-## Vedtektsforslag 11: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+## Vedtektsforslag 11 V1: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+
+**Faller dersom forslag 10 faller** 
+
 
 **Bakgrunn** 
 
@@ -330,9 +333,16 @@ d ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 e ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.  
 
+## Vedtektsforslag 11 V2: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+
+**Fremmes dersom forslag 10 faller**
+
+Endringer kommer.
 
 
-## Vedtektsforslag 12: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
+## Vedtektsforslag 12 V1: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
+
+**Faller dersom forslag 10 faller**
 
 **Bakgrunn**
 
@@ -360,8 +370,17 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 ...
 
+## Vedtektsforslag 12 V2: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
 
-## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens v/ Debug
+**Fremmes dersom forslag 10 faller**
+
+Endringer kommer.
+
+
+## Vedtektsforslag 13 V1: Konkretisere mistillit, og definere konsekvens v/ Debug
+
+**Faller dersom forslag 10 faller**
+
 
 **Bakgrunn**
 
@@ -379,8 +398,16 @@ Ny:
 
 **Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og skal derfor fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit. **
 
+## Vedtektsforslag 13 V2: Konkretisere mistillit, og definere konsekvens v/ Debug 
 
-## Vedtektsforslag 14: Presisere suspensjon ved mistillitsforslag v/ Debug
+**Fremmes dersom forslag 10 faller**
+
+Endringer kommer.
+
+
+## Vedtektsforslag 14 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
+
+**Faller dersom forslag 10 faller**
 
 **Bakgrunn**
 
@@ -406,3 +433,10 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver
 **3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.**   
 
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
+
+
+## Vedtektsforslag 14 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
+
+**Fremmes dersom forslag 10 faller**
+
+Endringer kommer.
