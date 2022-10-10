@@ -269,9 +269,8 @@ Til:
 
 a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
 
-1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.  
+1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert  inntil Hovedstyret har kommet med en avgjørelse.  
 2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
-3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.  
 
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
 
@@ -382,3 +381,28 @@ Ny:
 
 
 ## Vedtektsforslag 14: Presisere suspensjon ved mistillitsforslag
+
+**Bakgrunn**
+
+- Bakgrunn
+
+**Endre §4.7.1 Fremme mistillit**
+
+Fra: 
+
+a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
+
+1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert  inntil Hovedstyret har kommet med en avgjørelse.  
+2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
+
+b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
+
+Til: 
+
+a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver innehaver av et verv i linjeforeningen.
+
+1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert **fra sin rolle i Hovedstyret** inntil Hovedstyret har kommet med en avgjørelse.  
+2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
+**3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.**   
+
+b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
