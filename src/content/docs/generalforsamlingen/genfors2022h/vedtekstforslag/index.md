@@ -277,7 +277,7 @@ b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle
 § 4.7.2 Saksbehandling  
 
 a ) Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg.  
-b ) Etter at Hovedstyret har mottatt mistillitsforslaget skal det gå minimum en (1) uke før saken skal behandles.  
+b ) Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget.    
 c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.   
 d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
