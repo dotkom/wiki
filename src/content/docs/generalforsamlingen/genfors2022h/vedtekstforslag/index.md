@@ -243,7 +243,7 @@ Komiteens lederkandidat velges internt i komiteen før **vår** generalforsamlin
 ...
 
 
-## Vedtektsforslag 10: Oppdeling av paragraf §4.7 Mistillit
+## Vedtektsforslag 10: Oppdeling av paragraf §4.7 Mistillit v/ Debug
 
 **Bakgrunn**
 
@@ -282,7 +282,7 @@ c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
-## Vedtektsforslag 11: Innlemme Debug i behandlingen av mistillitsforslag
+## Vedtektsforslag 11: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
 
 **Bakgrunn** 
 
@@ -332,7 +332,7 @@ f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 
 
-## Vedtektsforslag 12: Legge til muligheten for å klage på mistillitsvedtak
+## Vedtektsforslag 12: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
 
 **Bakgrunn**
 
@@ -361,7 +361,7 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 ...
 
 
-## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens
+## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens v/ Debug
 
 **Bakgrunn**
 
@@ -380,7 +380,7 @@ Ny:
 **Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og skal derfor fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit. **
 
 
-## Vedtektsforslag 14: Presisere suspensjon ved mistillitsforslag
+## Vedtektsforslag 14: Presisere suspensjon ved mistillitsforslag v/ Debug
 
 **Bakgrunn**
 
