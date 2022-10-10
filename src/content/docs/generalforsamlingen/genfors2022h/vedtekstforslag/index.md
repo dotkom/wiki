@@ -289,7 +289,7 @@ e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 - Bakgrunn
 
-Endre § 4.7.1 Fremme mistillit
+**Endre § 4.7.1 Fremme mistillit**
 
 Fra: 
 
@@ -312,7 +312,7 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver
 b) **Ved et mistillitsforslag skal man henvende seg skriftlig til Debug.**
 
 
-Endre § 4.7.2 Saksbehandling
+**Endre § 4.7.2 Saksbehandling**
 
 Gammel: 
 
