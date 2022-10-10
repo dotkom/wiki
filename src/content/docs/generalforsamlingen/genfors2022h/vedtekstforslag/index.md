@@ -324,7 +324,7 @@ e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 Ny: 
 
-a ) Mistillitsforslaget presenteres for Hovedstyret av **Debug**
+a ) Mistillitsforslaget presenteres for Hovedstyret av **Debug**  
 b ) Etter at Hovedstyret har mottatt mistillitsforslaget skal det gå minimum en (1) uke før saken skal behandles.  
 c ) **Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.**  
 d ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget.   
