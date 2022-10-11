@@ -92,6 +92,10 @@ title: "Årsberetninger høsten 2022"
 - Maskeradefest med annen linjeforening
 - Immball 2023, begynt planlegging, booking av lokale, håper på 9 september
 
+**Annet**
+
+- Vi har merket en enorm økning i generelle priser. Spesielt merkbart på arrangementer som Immball, Åre og Julebord
+
 ## Bank- og økonomikomiteen
 
 ## Bedriftskomiteen
