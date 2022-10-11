@@ -280,7 +280,6 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver
 
 1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.  
 2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
-3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.  
 
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
 
@@ -289,8 +288,7 @@ Til:
 a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen.
 
 1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert fra sin rolle i Hovedstyret inntil Hovedstyret har kommet med en avgjørelse.  
-2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
-3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.  
+2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.   
 
 b) **Ved et mistillitsforslag skal man henvende seg skriftlig til Debug.**
 
@@ -434,7 +432,7 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver
 
 1. Dersom mistillitsforslaget stilles mot et hovedstyremedlem blir den anklagede suspendert **fra sin rolle i Hovedstyret** inntil Hovedstyret har kommet med en avgjørelse.  
 2. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.  
-**3. Avhengig av sakens grad kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte.**   
+**3. Avhengig av sakens grad, kan hovedstyret velge å midlertidig suspendere en eller flere av de involverte fra sine verv.**   
 
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
 
@@ -451,7 +449,7 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 
 Til: 
 
-Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert **fra sin rolle i Hovedstyret** inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling. Avhengig av sakens grad, kan Hovedstyret velge å midlertidig suspendere en eller flere av de involverte**
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert **fra sin rolle i Hovedstyret** inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling. **Avhengig av sakens grad, kan Hovedstyret velge å midlertidig suspendere en eller flere av de involverte fra sine verv.**
 
 ## Vedtektsforslag 13: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
 
