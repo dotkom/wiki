@@ -75,6 +75,44 @@ title: "Årsberetninger høsten 2022"
 
 ## Bedriftskomiteen
 
+**Overordnet:** 
+
+- Signert ny kaffeavtale med Netlight
+- Fokusert på å ta mindre buss til arr
+- Deltatt på Linjesamarbeidmøter (2-3 møter hvert semester)
+
+**Vår** 
+
+- Gjennomført suppleringsopptak, tok opp fire nye medlemmer (3 andreklassinger og en 1 tredjeklassing)
+- Gjennomført 
+- Signert 24 kontrakter ifm. ITEX.
+- Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
+- Skaffet to generalsponsor og en tittelsponsor for fadderukene
+-- Arrangert og planlagt bedriftspresentasjon med de nye under fadderukene.
+- Støttet Kid under 1 arrangement. 
+- Gjennomført 11 bedriftsarrangementer:
+-- Samarbeid m Abakus og Tilhde (Kahoot) - engelsk bedarr
+-- Bedcrawl
+-- 7 vanlige bedarr
+-- 2 arr med Bekk
+- Skaffet bedriftsannonser til Offline
+
+**Høst**
+
+- Tok opp seks nye medlemmer (6 førsteklassinger)
+- Planlegging av Tech talks
+- Gjennomført 
+- Lagt ut x stillingsannonser 
+- Sendt ut semesterundersøkelse der studentene fra Online kan gi tilbakemeldinger og forslag til arrangementer.
+- Støttet kid under 2 arr(sommerrebus og kid konferanse)
+- Gjennomført og planlagt 6 bedarr: 
+-- 1 samarbeid med Abakus - Bredvid
+-- Bedcrawl 
+-- 3 vanlig bedarr
+-- 1 arr m Bekk
+- Skaffet bedriftsannonser til Offline
+
+
 ## Drifts- og utviklingskomiteen
 
 ## Fag- og kurskomiteen
