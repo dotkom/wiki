@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2022
-- [2022-10-05](2022-10-05) - 
+- [2022-10-05](2022-10-05) - Status på genfors og engelske arrangementer
 - [2022-09-28](2022-09-28) - Ægir i RFK, Genfors, Daljer og t-skjorter til oil, retrospekt hovedopptak
 - [2022-09-21](2022-09-21) - ØoV, Genfors, Notion
 - [2022-09-14nr2](2022-09-14nr2) - Genfors, FIF-møte og valg av styrerepresentanter
