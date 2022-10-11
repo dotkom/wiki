@@ -187,6 +187,16 @@ title: "Årsberetninger høsten 2022"
 
 ## Ekskursjonskomiteen 2023
 
+- 12 aktive medlemer, 2 permiterte ut semesteret
+- Bestilt tur til Amsterdam, Zürich, Milano, Firenze og Roma
+- Turen varer fra 25. mars til 9. april
+- 48 stk + 2 ekskursjonsledere.
+- Ferdig med innbetaling av depositum
+- Samarbeider med Fagkom og Bedkom om Tech Talks 2023
+- Jobber med opplegg for faglig uke.
+- Flere dugnader i november, generelt vanskelig å få tak i
+- Ser på flere inntektskilder for å senke egenandelen
+
 ## IT-ekskursjonen 2022
 
 - ITEX besto av 8 medlemmer
