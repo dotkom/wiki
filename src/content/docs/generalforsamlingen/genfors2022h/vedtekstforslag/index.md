@@ -20,49 +20,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 # Forslag til Onlines vedtekter
 
 
-## Vedtektsforslag 01: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
-
-**Bakgrunn**
--   Historisk sett har kjernekomiteer hett det fordi de har vært “kjernen” av virksomhet i Online - ikke lengre tilfelle.
--   Ønsker heller å få inn så mange som mulig → utvidet antallet komiteer, vannet ut “kjerne”.
--   Flere som sitter med oppfatningen om at nodekomiteer er mindre “viktige”/”prestisje” enn kjernekomiteene
--   Eneste reelle forskjellen er at nodekomiteer er periodisk. (Gikk gjennom på genfors i fjor)
--   Fjerne “kjerne”, men beholde “node” - hvorfor?
--   Ryddig når det kommer til unntak. (F.eks § 4.2 der man ikke kan være i flere kjernekomiteer)
-
-**Endre:**
-
-**4.1.3 Krav til kandidater**
-
-Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
-
-**4.1.3 Krav til kandidater**
-
-Kandidater til Hovedstyret må ha innehatt et verv i en av **komiteene** eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en **komité**, må kandidaten foreslås av valgkomiteen.
-
--------------------
-
-**4.2 Kjernekomiteer**
-
-Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem. Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3. Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret. En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
-
-**4.2 Komiteer**
-
-Alle **komiteer** består av minimum en leder, og en økonomiansvarlig. **Komiteer** med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem. Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3. Kun medlemmer av linjeforeningen kan inneha verv i en **komité**. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret. En person kan ikke inneha verv i flere av Onlines komiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog **og nodekomiteer** kan kombineres med en annen **komite**.
-
---------
-
-**6.2 Retningslinjer for komiteene**
-
-Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
-
-**6.2 Retningslinjer for komiteene**
-
-Hver **komité** og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
-
-
-
-## Vedtektsforslag 02: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
+## Vedtektsforslag 01: Tillitsvalgt v/ Karan Singh Sandhu og Sondre Stokke
 
 Endre §4.2 første setning
 
@@ -71,7 +29,7 @@ fra: "Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig."
 til: "Alle kjernekomiteer består av minimum en leder, en økonomiansvarlig **og en tillitsvalgt.**"
 
 
-## Vedtekstforslag 03: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli
+## Vedtekstforslag 02: Utvide fristen for høstrevidering til 15. september v/ Henrik Horten Hegli
 
 **Bakgrunn**
 
@@ -90,7 +48,7 @@ Til:
  
 Linjeforeningens budsjett for høstsemesteret kan revideres av Bank- og økonomikomiteen i løpet av våren og sommeren. Revidert budsjett skal godkjennes av Hovedstyret innen **15.** september.
 
-## Vedtekstforslag 04: Regler for medlemsskap v/ Anders Robstad og Maiken Lie
+## Vedtekstforslag 03: Regler for medlemsskap v/ Anders Robstad og Maiken Lie
 
 
 Vedtekt §3.4 i dagens vedtekter tilsier at man kan søke om fullt medlemskap, selv om man ikke har informatikk som studieretning. Dette er ikke slik praksisen i dag fungerer, da ingen studenter som ikke har studierett på informatikk vil bli godkjent som fullt medlem - de vil kun kunne få godkjent sosialt medlemskap. I vedtekten er det heller ikke spesifisert hva slags medlemskap man kan søke om.
@@ -122,7 +80,7 @@ På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate and
 
 
 
-## Vedtekstforslag 05: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
+## Vedtekstforslag 04: Frister for å trekke seg fra styrerepprollen for å stille til en ny rolle v/ Robin Lund Sadun og Carolina Gunnesdal
 
 **Bakgrunn**
 
@@ -172,7 +130,7 @@ Ved høst-generalforsamlingen utlyses:
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. **Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen.** Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen. 
 
 
-## Vedtekstforlsag 06: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
+## Vedtekstforlsag 05: FeminIT som kjernekomite v/ Ida Matre og Hanne Sofie Haugland
 
 Hvorfor? På informatikk er det ca. 25% jenter. Generelt sett har frafallet av jenter vært høyt gjennom årene, et eksempel på dette er 2020-kullet hvor etter ett år var halvparten av frafallet jenter. FeminITs mål er å senke frafallet av jenter på studiet, ved å gi mulighet for å bli kjent med jenter på tvers av trinn, for å øke trivsel og beholde motivasjonen til å fullføre studiet. Vi ønsker at FeminIT skal bli en komité for å bevare vårt mål og styrke grupperingens posisjon i Online, også i fremtiden.
 
@@ -194,7 +152,7 @@ Annet:
 Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
 
 
-## Vedtektsforslag 07 V1: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
+## Vedtektsforslag 06 V1: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
 
 **Bakgrunn**
 
@@ -215,8 +173,9 @@ Kandidater til Hovedstyret må ha hatt et fullverdig medlemskap i linjeforeninge
 
 
 
-## Vedtekstforlsag 07 V2: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
+## Vedtekstforlsag 06 V2: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
 
+**Faller dersom 06 v1 går gjennom**
 
 **Bakgrunn**
 
@@ -234,7 +193,7 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat **til styrerepresentant** ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
 
-## Vedtektsforslag 08: Komiteledere velges før vår generalforsamlingen v/ Anders Robstad
+## Vedtektsforslag 07: Komiteledere velges før vår generalforsamlingen v/ Anders Robstad
 
 **Bakgrunn**
 
@@ -261,7 +220,7 @@ Komiteens lederkandidat velges internt i komiteen før **vårens** generalforsam
 ...
 
 
-## Vedtektsforslag 09: Oppdeling av paragraf §4.7 Mistillit v/ Debug
+## Vedtektsforslag 08: Oppdeling av paragraf §4.7 Mistillit v/ Debug
 
 **Bakgrunn**
 
@@ -300,9 +259,9 @@ c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
-## Vedtektsforslag 10 V1: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+## Vedtektsforslag 09 V1: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
 
-**Faller dersom forslag 09 faller** 
+**Faller dersom forslag 08 faller** 
 
 
 **Bakgrunn** 
@@ -351,9 +310,9 @@ d ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 e ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.  
 
-## Vedtektsforslag 10 V2: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+## Vedtektsforslag 09 V2: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
 
-**Fremmes dersom forslag 09 faller**
+**Fremmes dersom forslag 08 faller**
 
 **Bakgrunn**
 
@@ -371,9 +330,9 @@ Til:
 Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. **Ved et mistillitsforslag skal man henvende seg skriftlig til Debug**. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. **Mistillitsforslaget presenteres for Hovedstyret av Debug. Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.** Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
 
-## Vedtektsforslag 11 V1: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
+## Vedtektsforslag 10 V1: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
 
-**Faller dersom forslag 09 faller**
+**Faller dersom forslag 08 faller**
 
 **Bakgrunn**
 
@@ -401,9 +360,9 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 ...
 
-## Vedtektsforslag 11 V2: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
+## Vedtektsforslag 10 V2: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
 
-**Fremmes dersom forslag 09 faller**
+**Fremmes dersom forslag 08 faller**
 
 **Bakgrunn**
 
@@ -429,7 +388,7 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 
 
-## Vedtektsforslag 12: Konkretisere mistillit, og definere konsekvens v/ Debug
+## Vedtektsforslag 11: Konkretisere mistillit, og definere konsekvens v/ Debug
 
 **Bakgrunn**
 
@@ -442,9 +401,9 @@ Nytt avsnitt:
 **Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og skal derfor fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit. **
 
 
-## Vedtektsforslag 13 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
+## Vedtektsforslag 12 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
 
-**Faller dersom forslag 09 faller**
+**Faller dersom forslag 08 faller**
 
 **Bakgrunn**
 
@@ -472,9 +431,9 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
 
 
-## Vedtektsforslag 13 V2: Presisere suspensjon ved mistillitsforslag v/ Debug
+## Vedtektsforslag 12 V2: Presisere suspensjon ved mistillitsforslag v/ Debug
 
-**Fremmes dersom forslag 09 faller**
+**Fremmes dersom forslag 08 faller**
 
 **Endre §4.7 Mistillit**
 
@@ -485,3 +444,43 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 Til: 
 
 Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert **fra sin rolle i Hovedstyret** inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling. Avhengig av sakens grad, kan Hovedstyret velge å midlertidig suspendere en eller flere av de involverte**
+
+## Vedtektsforslag 13: Endre betegnelse på komite/nodekomite/gruppe v/ Robin Lund Sadun og Henrik Horten Hegli
+
+**Bakgrunn**
+-   Historisk sett har kjernekomiteer hett det fordi de har vært “kjernen” av virksomhet i Online - ikke lengre tilfelle.
+-   Ønsker heller å få inn så mange som mulig → utvidet antallet komiteer, vannet ut “kjerne”.
+-   Flere som sitter med oppfatningen om at nodekomiteer er mindre “viktige”/”prestisje” enn kjernekomiteene
+-   Eneste reelle forskjellen er at nodekomiteer er periodisk. (Gikk gjennom på genfors i fjor)
+-   Fjerne “kjerne”, men beholde “node” - hvorfor?
+-   Ryddig når det kommer til unntak. (F.eks § 4.2 der man ikke kan være i flere kjernekomiteer)
+
+**Endre:**
+
+**4.1.3 Krav til kandidater**
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
+
+**4.1.3 Krav til kandidater**
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av **komiteene** eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en **komité**, må kandidaten foreslås av valgkomiteen.
+
+-------------------
+
+**4.2 Kjernekomiteer**
+
+Alle kjernekomiteer består av minimum en leder, og en økonomiansvarlig. Kjernekomiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem. Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3. Kun medlemmer av linjeforeningen kan inneha verv i en kjernekomité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret. En person kan ikke inneha verv i flere av Onlines kjernekomiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom og Backlog kan kombineres med en annen kjernekomite.
+
+**4.2 Komiteer**
+
+Alle **komiteer** består av minimum en leder, og en økonomiansvarlig. **Komiteer** med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem. Komiteens lederkandidat velges internt i komiteen før generalforsamlingen avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3. Kun medlemmer av linjeforeningen kan inneha verv i en **komité**. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret. En person kan ikke inneha verv i flere av Onlines komiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog **og nodekomiteer** kan kombineres med en annen **komite**.
+
+--------
+
+**6.2 Retningslinjer for komiteene**
+
+Hver kjernekomité og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
+
+**6.2 Retningslinjer for komiteene**
+
+Hver **komité** og nodekomité har et sett med retningslinjer. Retningslinjene skal være tilgjengelig for alle medlemmer av Online. Komiteen skal utarbeide sine egne retningslinjer som skal legges frem for, og godkjennes av, Hovedstyret.
