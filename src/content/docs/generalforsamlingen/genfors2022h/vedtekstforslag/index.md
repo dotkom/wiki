@@ -465,7 +465,7 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
 
 
-## Vedtektsforslag 14 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
+## Vedtektsforslag 14 V2: Presisere suspensjon ved mistillitsforslag v/ Debug
 
 **Fremmes dersom forslag 10 faller**
 
