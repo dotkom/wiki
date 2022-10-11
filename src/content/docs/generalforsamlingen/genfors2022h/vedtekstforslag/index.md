@@ -194,7 +194,7 @@ Annet:
 Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
 
 
-## Vedtektsforslag 07: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
+## Vedtektsforslag 07 V1: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
 
 **Bakgrunn**
 
@@ -215,7 +215,7 @@ Kandidater til Hovedstyret må ha hatt et fullverdig medlemskap i linjeforeninge
 
 
 
-## Vedtekstforlsag 08: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
+## Vedtekstforlsag 07 V2: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
 
 
 **Bakgrunn**
@@ -234,7 +234,7 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat **til styrerepresentant** ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
 
-## Vedtektsforslag 09: Komiteledere velges før vår generalforsamlingen v/ Anders Robstad
+## Vedtektsforslag 08: Komiteledere velges før vår generalforsamlingen v/ Anders Robstad
 
 **Bakgrunn**
 
@@ -261,7 +261,7 @@ Komiteens lederkandidat velges internt i komiteen før **vårens** generalforsam
 ...
 
 
-## Vedtektsforslag 10: Oppdeling av paragraf §4.7 Mistillit v/ Debug
+## Vedtektsforslag 09: Oppdeling av paragraf §4.7 Mistillit v/ Debug
 
 **Bakgrunn**
 
@@ -300,9 +300,9 @@ c ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 d ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.
 
-## Vedtektsforslag 11 V1: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+## Vedtektsforslag 10 V1: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
 
-**Faller dersom forslag 10 faller** 
+**Faller dersom forslag 09 faller** 
 
 
 **Bakgrunn** 
@@ -351,9 +351,9 @@ d ) Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedsty
 e ) Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar.  
 f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede.  
 
-## Vedtektsforslag 11 V2: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
+## Vedtektsforslag 10 V2: Innlemme Debug i behandlingen av mistillitsforslag v/ Debug
 
-**Fremmes dersom forslag 10 faller**
+**Fremmes dersom forslag 09 faller**
 
 **Bakgrunn**
 
@@ -371,9 +371,9 @@ Til:
 Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. **Ved et mistillitsforslag skal man henvende seg skriftlig til Debug**. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. **Mistillitsforslaget presenteres for Hovedstyret av Debug. Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.** Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
 
-## Vedtektsforslag 12 V1: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
+## Vedtektsforslag 11 V1: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
 
-**Faller dersom forslag 10 faller**
+**Faller dersom forslag 09 faller**
 
 **Bakgrunn**
 
@@ -401,9 +401,9 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 ...
 
-## Vedtektsforslag 12 V2: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
+## Vedtektsforslag 11 V2: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
 
-**Fremmes dersom forslag 10 faller**
+**Fremmes dersom forslag 09 faller**
 
 **Bakgrunn**
 
@@ -429,7 +429,7 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 
 
-## Vedtektsforslag 13: Konkretisere mistillit, og definere konsekvens v/ Debug
+## Vedtektsforslag 12: Konkretisere mistillit, og definere konsekvens v/ Debug
 
 **Bakgrunn**
 
@@ -442,9 +442,9 @@ Nytt avsnitt:
 **Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og skal derfor fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit. **
 
 
-## Vedtektsforslag 14 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
+## Vedtektsforslag 13 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
 
-**Faller dersom forslag 10 faller**
+**Faller dersom forslag 09 faller**
 
 **Bakgrunn**
 
@@ -472,9 +472,9 @@ a) Ethvert medlem av linjeforeningen kan fremme mistillitsforslag **mot** enhver
 b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken.
 
 
-## Vedtektsforslag 14 V2: Presisere suspensjon ved mistillitsforslag v/ Debug
+## Vedtektsforslag 13 V2: Presisere suspensjon ved mistillitsforslag v/ Debug
 
-**Fremmes dersom forslag 10 faller**
+**Fremmes dersom forslag 09 faller**
 
 **Endre §4.7 Mistillit**
 
