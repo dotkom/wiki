@@ -189,6 +189,11 @@ title: "Årsberetninger høsten 2022"
 
 ## IT-ekskursjonen 2022
 
+- ITEX besto av 8 medlemmer
+- Turen varte fra 30. august - 2. september 2022
+- Var 89 studenter som reiste til Oslo
+- Besøkte 15 bedrifter
+
 ## Online IL
 
 ## Velkomstkomiteen 2022
