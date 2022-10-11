@@ -20,12 +20,12 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Styremedlem fra arrkom:* Ingeborg Elly Skori-Holm
+* *Styremedlem fra arrkom:*  Ingeborg Elly Skori-Holm
 * *Styremedlem fra bedkom:*  
-* *Styremedlem fra dotkom:* Njål Ingersønn Sørland
-* *Styremedlem fra fagkom:* Erlend Golten Persen
-* *Styremedlem fra prokom:* Sondre Stokke
-* *Styremedlem fra trikom:* Carolina Gunnesdal
+* *Styremedlem fra dotkom:*  Njål Ingersønn Sørland
+* *Styremedlem fra fagkom:*  Erlend Golten Persen
+* *Styremedlem fra prokom:*  Sondre Stokke
+* *Styremedlem fra trikom:*  Carolina Gunnesdal
 
 ### Godkjenning av Profil- og aviskomiteen-leder
 
