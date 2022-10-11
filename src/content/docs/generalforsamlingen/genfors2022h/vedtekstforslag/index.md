@@ -454,7 +454,11 @@ Ny:
 
 **Fremmes dersom forslag 10 faller**
 
-Endringer kommer.
+**Legge til nytt avsnitt på 4.7 Mistillit**
+
+Nytt avsnitt: 
+
+**Mistillitsforslag foreligger når et medlem i Online foreslår å vedta at noen som innehar verv, ikke lenger har linjeforeningens tillit og skal derfor fjernes fra vervet. Hovedstyret har til enhver tid i sin makt, å enstemmig fatte et vedtak om mistillit. **
 
 
 ## Vedtektsforslag 14 V1: Presisere suspensjon ved mistillitsforslag v/ Debug
