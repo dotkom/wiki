@@ -342,7 +342,10 @@ Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver in
 
 **Bakgrunn**
 
-- Bakgrunn
+- Per i dag er eneste mulighet til å klage på et vedtak å ta det opp på generalforsamlingen
+- Dette er i prinsippet det samme som å ikke ha mulighet til å klage.
+- Det et mer rettferdig om man har en mulighet til å klage før man outes foran hele linjeforeningen.
+
 
 **Legge til § 4.7.3 Klage**
 
@@ -372,7 +375,9 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 **Bakgrunn**
 
-- Bakgrunn
+- Per i dag er eneste mulighet til å klage på et vedtak å ta det opp på generalforsamlingen
+- Dette er i prinsippet det samme som å ikke ha mulighet til å klage.
+- Det et mer rettferdig om man har en mulighet til å klage før man outes foran hele linjeforeningen.
 
 **Legge til avsnitt på 4.7 Mistillit**
 
@@ -398,7 +403,8 @@ Verv i Hovedstyret varer normalt i to semestre, og utlyses ved generalforsamling
 
 **Bakgrunn**
 
-- Bakgrunn
+- Står ikke noe om hva et mistillitsforslag innebærer
+
 
 **Legge til nytt avsnitt under paragraf 4.7 Mistillit**
 
@@ -413,7 +419,7 @@ Nytt avsnitt:
 
 **Bakgrunn**
 
-- Bakgrunn
+- Nåværende beskrivelse av suspensjon er mangelfull
 
 **Endre §4.7.1 Fremme mistillit**
 
@@ -440,6 +446,10 @@ b) Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle
 ## Vedtektsforslag 12 V2: Presisere suspensjon ved mistillitsforslag v/ Debug
 
 **Fremmes dersom forslag 08 faller**
+
+**Bakgrunn**
+
+- Nåværende beskrivelse av suspensjon er mangelfull
 
 **Endre §4.7 Mistillit**
 
