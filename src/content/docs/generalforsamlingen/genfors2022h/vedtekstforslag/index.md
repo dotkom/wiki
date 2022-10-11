@@ -355,7 +355,20 @@ f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 **Fremmes dersom forslag 10 faller**
 
-Endringer kommer.
+**Bakgrunn**
+
+- Bakgrunn
+
+
+**Endre §4.7 Mistillit**
+
+Fra: 
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. Mistillitsforslaget skal leveres skriftlig til Hovedstyret, som skal behandle saken. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. Mistillitsforslaget leses opp i Hovedstyret av Leder av Online, deretter skal den anklagede få en mulighet til å forsvare seg. Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
+
+Til: 
+
+Ethvert medlem av linjeforeningen kan fremme mistillitsforslag ovenfor enhver innehaver av et verv i linjeforeningen. **Ved et mistillitsforslag skal man henvende seg skriftlig til Debug**. Saken kan ikke behandles før minimum en -1- uke etter at Hovedstyret mottok mistillitsforslaget. Den anklagede har rett til innsyn i saksdokumentene i det øyeblikk Hovedstyret mottar mistillitsforslaget. Ved mistillitsforslag mot et hovedstyremedlem blir den anklagede suspendert inntil Hovedstyret har kommet med en avgjørelse. **Mistillitsforslaget presenteres for Hovedstyret av Debug. Den anklagde skal få mulighet til å forsvare seg, dersom vedkommende ønsker det.** Den anklagede har rett til å ha en tillitsvalgt til stede under sitt forsvar. Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede tilstede. Dersom det stilles mistillitsforslag til flere styremedlemmer av gangen, skal disse behandles ved ekstraordinær generalforsamling.
 
 
 ## Vedtektsforslag 12 V1: Legge til muligheten for å klage på mistillitsvedtak v/ Debug
