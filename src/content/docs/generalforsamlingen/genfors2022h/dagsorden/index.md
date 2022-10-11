@@ -16,4 +16,4 @@ title: "Dagsorden høsten 2022"
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
 
 
-[Dagsorden Generalforsamlingen Høsten 2022](https://docs.google.com/spreadsheets/d/1ra0532bq3b1Sn6s_J1mG04yU2N0fRcYjjFBOm9_2MLg/edit#gid=0)
+## [Dagsorden Generalforsamlingen Høsten 2022](https://docs.google.com/spreadsheets/d/1ra0532bq3b1Sn6s_J1mG04yU2N0fRcYjjFBOm9_2MLg/edit#gid=0)
