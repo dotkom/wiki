@@ -197,9 +197,9 @@ Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalfor
 ## Vedtektsforslag 07: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
 
 **Bakgrunn**
-- Alle kan være gode kandidater, uavhengig av hvilke verv de har hatt.
-- Bedre å ta vurdering av individer på genfors, heller enn å begrense hvem som får lov til å bli vurdert.
-- Opp til generalforsamlingen å avgjøre hvilke kandidater som er best egnet, gir ikke mening å begrense hvem som skal kunne stille.
+-   Alle kan være gode kandidater, uavhengig av hvilke verv de har hatt.
+-   Bedre å ta vurdering av individer på genfors, heller enn å begrense hvem som får lov til å bli vurdert.
+-   Opp til generalforsamlingen å avgjøre hvilke kandidater som er best egnet, gir ikke mening å begrense hvem som skal kunne stille.
 
 
 **Endringer**
