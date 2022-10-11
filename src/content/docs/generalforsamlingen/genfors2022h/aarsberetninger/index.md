@@ -84,7 +84,6 @@ title: "Årsberetninger høsten 2022"
 **Vår** 
 
 - Gjennomført suppleringsopptak, tok opp fire nye medlemmer (3 andreklassinger og en 1 tredjeklassing)
-- Gjennomført 
 - Signert 24 kontrakter ifm. ITEX.
 - Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
 - Skaffet to generalsponsor og en tittelsponsor for fadderukene
