@@ -266,7 +266,11 @@ e ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 **Bakgrunn** 
 
-- Bakgrunn
+- Online vedtok på generalforsamlingen V22 at debug offisielt skulle ha tilknytning til Online
+Hensikten til debug er å _“gi linjeforeningens medlemmer et verktøy for å håndtere saker som oppleves krevende for medlemmer av linjeforeningen”_
+- Det er de som har mest kompetanse på dette området
+- Vil gjøre prosessen bedre for alle involverte parter.
+
 
 **Endre § 4.7.1 Fremme mistillit**
 
@@ -316,7 +320,11 @@ f ) Videre skal Hovedstyret komme frem til sin avgjørelse uten den anklagede ti
 
 **Bakgrunn**
 
-- Bakgrunn
+- Online vedtok på generalforsamlingen V22 at debug offisielt skulle ha tilknytning til Online
+Hensikten til debug er å _“gi linjeforeningens medlemmer et verktøy for å håndtere saker som oppleves krevende for medlemmer av linjeforeningen”_
+- Det er de som har mest kompetanse på dette området
+- Vil gjøre prosessen bedre for alle involverte parter.
+
 
 
 **Endre §4.7 Mistillit**
