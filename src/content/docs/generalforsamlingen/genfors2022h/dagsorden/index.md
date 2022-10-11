@@ -16,24 +16,4 @@ title: "Dagsorden høsten 2022"
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
 
 
-### Administrativt
-| Start  | Tid | Slutt | Sak                                     |
-|--------|-----|-------|-----------------------------------------|
-| 16:30  | 2   | 16:32 | Velkommen ved Anders Robstad           |
-
-
-### Årsberetninger
-
-### Regnskap
-
-### Saksforslag
-
-### Valg av Hovedstyret
-
-### Godkjenne komiteledere
-
-### Generalforsamlingen heves
-
-### Medaljeutdeling og bilde
-
-### Post-genfors-pils på kontoret
+[Dagsorden Generalforsamlingen Høsten 2022](https://docs.google.com/spreadsheets/d/1ra0532bq3b1Sn6s_J1mG04yU2N0fRcYjjFBOm9_2MLg/edit#gid=0)
