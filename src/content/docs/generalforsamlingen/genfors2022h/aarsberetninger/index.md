@@ -208,7 +208,28 @@ title: "Årsberetninger høsten 2022"
 
 ## Velkomstkomiteen 2022
 
-## Jubileumskomiteen 2022
+## Jubileumskomiteen 2021-2022
+
+**Overordnet:** 
+    - Startet og tatt opp en hel komite (21)
+    - Planlagt et helt jubileum for september 2021. Dette ble avlyst pga. korona (21)
+    - Inaktiv frem til januar 2022
+    - Planlagt eget jubileums-lø
+    - Hadde en dårlig opplevelse med Scandic Lerkendal, hvor et arrangement ble avsluttet tidlig
+
+**Vår 2022**
+    - Kakeslipp på kontoret
+    - Barista på A4
+    - Kickoff på Lager11
+    - Paint and sip
+    - Ølympics
+    - Amazing race med BEKK
+    - Kvelden før kvelden på RFK
+    - Jubileumsbankett på Scandic Lerkendal
+
+**Underordnet:**
+    -  Hendelsen på "SL" har hatt litt ringvirkninger, og andre hoteller har bitt seg merke i dette
+    - Forbereder for øyeblikket en meglingsprosess for å reparere forholdet med hotellene.
 
 ## Realfagskjelleren 
 
