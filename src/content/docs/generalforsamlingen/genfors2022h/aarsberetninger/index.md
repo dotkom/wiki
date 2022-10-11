@@ -70,6 +70,25 @@ title: "Årsberetninger høsten 2022"
 - Sendt "How to" til komiteer
 
 ## Arrangementskomiteen  
+**Overordnet:**     
+- Tatt opp 7 nye medlemmer i høst som har kommet godt inn i gruppen! Totalt 19 aktive medlemmer.     
+
+**Høst 2022**    
+- Immball
+- Komitekickoff, vellykket samarbeid med Backlog 
+- Blåtur. Ikke til Lian denne gangen, ble Orkanger! 
+- Hybel til hybel
+- Quiz x2, en allerede gjennomført
+- Oktoberfest
+- Paint'n sip
+- Casino
+- Pirbadet
+- Pizzakveld på A4 
+- Julebord
+- Thanksgiving middag
+- Åre 2023, hytter ble booket før sommeren
+- Maskeradefest med annen linjeforening
+- Immball 2023, begynt planlegging, booking av lokale, håper på 9 september
 
 ## Bank- og økonomikomiteen
 
@@ -84,6 +103,7 @@ title: "Årsberetninger høsten 2022"
 **Vår** 
 
 - Gjennomført suppleringsopptak, tok opp fire nye medlemmer (3 andreklassinger og en 1 tredjeklassing)
+- Gjennomført 
 - Signert 24 kontrakter ifm. ITEX.
 - Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
 - Skaffet to generalsponsor og en tittelsponsor for fadderukene
