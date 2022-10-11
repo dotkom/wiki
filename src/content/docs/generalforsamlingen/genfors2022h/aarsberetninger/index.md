@@ -71,9 +71,11 @@ title: "Årsberetninger høsten 2022"
 
 ## Arrangementskomiteen  
 **Overordnet:**     
+
 - Tatt opp 7 nye medlemmer i høst som har kommet godt inn i gruppen! Totalt 19 aktive medlemmer.     
 
-**Høst 2022**    
+**Høst 2022**   
+ 
 - Immball
 - Komitekickoff, vellykket samarbeid med Backlog 
 - Blåtur. Ikke til Lian denne gangen, ble Orkanger! 
