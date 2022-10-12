@@ -250,12 +250,11 @@ title: "Årsberetninger høsten 2022"
 
 ## Applikasjonskomiteen
 
-**Høst 2022**
-- Tok opp 10 nye 
+- Tok opp 10 nye
 - Totalt 15 aktive, 2 permiterte
-- Påbegynt lønsning for komiteopptak
+- Påbegynt løsning for komiteopptak
 - Satt opp infoskjerm på kontoret
-- Påbegynt Chrome extension for Onlinere 
+- Påbegynt Chrome extension for onlinere
 - Fortsetta med OnlineApp
 
 ## Ekskursjonskomiteen 2023
