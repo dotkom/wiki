@@ -108,7 +108,6 @@ title: "Årsberetninger høsten 2022"
 - Revidert og regnskapsført alle kontoer for våren
 - Appkom har fått egen økans  
 - Fokusert på å senke terskelen i Bankom for å stille spørsmål  
-- Hatt møte med Abakus og Thilde om pengende fra idi, for å kunne budsjettere disse  
 - 1 354 fakturaer er sendt i 2022  
 - 3 722 kjøp er gjort i 2022  
 
