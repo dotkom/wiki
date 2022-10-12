@@ -357,3 +357,10 @@ Annet:
 - Har hatt god kontakt med trikom og etablert et godt samarbeid
 
 ## Fondstyret
+
+Investering:
+- Satt opp Nordnet konto, skal investere over de neste 12 månedene i henhold til styredokumentet
+
+Søknader:
+- 10 157kr til innkjøp av utlånbart disc-golf utstyr / Floppy Disk
+- Opptil 30k til RFK for innstallering av splitter nytt lysdesign
