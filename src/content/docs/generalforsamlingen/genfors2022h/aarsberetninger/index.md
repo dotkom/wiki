@@ -305,4 +305,30 @@ title: "Årsberetninger høsten 2022"
 
 ## FeminIT
 
+Overordnet:
+- Tok opp 3 nye medlemmer på våren og 6 medlemmer på høsten
+- Er 11 medlemmer, 1 permittert medlem på utveksling
+- Hatt ledervalg
+
+Vår 2022:
+- Arrangert blindmiddag
+- Lunsj 
+- Quiz
+- Eksamenslesing
+
+Høst 2022:
+- Førsteklassemiddag
+- Vinonsdag
+- Blindbaking
+- Julefilm
+- Eksamenslesing
+- Treningsøkt
+- Secret santa
+- Selvforsvarskurs
+- Lunsj
+
+Annet:
+- Har arbeidet med interne retningslinjer og veien frem til å fremme FeminIT som egen komite på generalforsamlingen
+- Har hatt god kontakt med trikom og etablert et godt samarbeid
+
 ## Fondstyret
