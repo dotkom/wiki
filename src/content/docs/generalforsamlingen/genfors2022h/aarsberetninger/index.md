@@ -250,6 +250,14 @@ title: "Årsberetninger høsten 2022"
 
 ## Applikasjonskomiteen
 
+**Høst 2022**
+- Tok opp 10 nye 
+- Totalt 15 aktive, 2 permiterte
+- Påbegynt lønsning for komiteopptak
+- Satt opp infoskjerm på kontoret
+- Påbegynt Chrome extension for Onlinere 
+- Fortsetta med OnlineApp
+
 ## Ekskursjonskomiteen 2023
 
 - 12 aktive medlemer, 2 permiterte ut semesteret
