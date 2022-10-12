@@ -159,6 +159,36 @@ title: "Årsberetninger høsten 2022"
 
 ## Profil- og aviskomiteen
 
+
+ - Opptak
+	 - Tatt opp 10 nye, 1 til vår 9 til høst
+	 - Nå er vi 17 aktive medlemmer (6 permittert, 3 pang)
+ - Plakatbestillinger
+	 - 46 plakatbestillinger
+ - Offline
+	 - Sluppet 2 utgaver pluss jubileumsutgave (35 år) på våren
+ - Nettredaksjon
+	 - Laget 4 nettartikler
+ - Årbok
+	 - Laget Årbok i vår
+ - Merch
+	 - Kjøpt inn og solgt Offlinegensere
+	 - Kjøpt inn og solgt sløyfer
+	 - Solgt jubileumsglass
+ - Innkjøp
+	 - Kjøpte ny blitz til kamera
+	 - Kjøpt 9 Affinity lisenser
+ - SoMe
+	 - Har begynt en ny prosess om prokoms tilnærming til sosiale medier i linjeforeningen, diskusjon om hva vi skal gjøre videre
+	 - Laget grafisk profil for sosiale medier på wikien
+ - Fadderuke
+	 - Laget Newbie
+	 - Laget fadderuke t-skjorter
+ - Annet
+	 - Har hatt CV fotografering
+	 - Har deltatt på møte om å få igjen Gullblekka
+	 - Har laget miljøprofil, byttet til annen type plakatpapir (som er mer miljøvennlig)
+
 ## Trivselskomiteen
 
 - Overordnet
