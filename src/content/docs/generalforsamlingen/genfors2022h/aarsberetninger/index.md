@@ -97,12 +97,13 @@ title: "Årsberetninger høsten 2022"
 - Vi har merket en enorm økning i generelle priser. Spesielt merkbart på arrangementer som Immball, Åre og Julebord
 
 ## Bank- og økonomikomiteen  
-Komitespesifikt:  
+
+**Komitespesifikt:**  
 - Fått 8 nye medlemmer  
 - Totalt 14 aktive   
 
-Økonomispesifikt:  
-- Revidert og regnskapsført alle kontoer for våren  
+**Økonomispesifikt:**   
+- Revidert og regnskapsført alle kontoer for våren
 - Appkom har fått egen økans  
 - Fokusert på å senke terskelen i Bankom for å stille spørsmål  
 - Hatt møte med Abakus og Thilde om pengende fra idi, for å kunne budsjettere disse  
