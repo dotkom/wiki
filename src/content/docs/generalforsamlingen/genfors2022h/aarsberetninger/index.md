@@ -155,6 +155,27 @@ title: "Årsberetninger høsten 2022"
 ## Drifts- og utviklingskomiteen
 
 ## Fag- og kurskomiteen
+- Tatt opp 6 nye medlemmer, 3 førsteklassinger, 2 andreklassinger og 1 fjerdeklassing
+- 17 aktive medlemmer
+
+**Vår 2022**
+
+- 10 bedriftskurs
+- 2 ikke-bedriftskurs
+    - Github-kurs
+    - Yogakurs
+- Lightening talks med Abakus og Thilde
+- Midtsemester -og eksamenskurs
+
+**Høst 2022**
+
+- Totalt 9 bedriftskurs
+    - et samarbeid med Abakus
+    - en temakveld: Impostor syndrome
+- 1 ikke berdrifts-kurs
+    - Brattkortkurs
+- Midtsemester- og eksamenskurs
+- er med å planlegge tech talks, planlegger å gjennomføre flere temakvelder
 
 ## Profil- og aviskomiteen
 
