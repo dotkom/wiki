@@ -99,10 +99,12 @@ title: "Årsberetninger høsten 2022"
 ## Bank- og økonomikomiteen  
 
 **Komitespesifikt:**  
+
 - Fått 8 nye medlemmer  
 - Totalt 14 aktive   
 
-**Økonomispesifikt:**   
+**Økonomispesifikt:**  
+ 
 - Revidert og regnskapsført alle kontoer for våren
 - Appkom har fått egen økans  
 - Fokusert på å senke terskelen i Bankom for å stille spørsmål  
