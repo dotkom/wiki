@@ -278,6 +278,30 @@ title: "Årsberetninger høsten 2022"
 
 ## Online IL
 
+### Oversikt:
+ - 14 aktive medlemmer, og 2 inaktive.
+ - Tok opp 5 nye medlemmer denne høsten. Hvorav disse var det 2 førsteklassinger, 2 andreklassinger, og en fjerdeklassing.
+###Arrangement:
+ - Vi har arrangert en rekke aktiviteter innenfor idretter som:
+        Slalom
+        Sjakk
+        Volleyball
+        Kickboksing
+        E-sport
+        Bowling
+        CrossFit 
+        Curling 
+        Padel
+        Buldring
+        Og frem til jul skal vi også ha:
+        GoCart
+        Trampolinepark
+        PistolSkyting
+        
+Noen arrangementer er mer populære enn andre, men har generelt vært bra oppmøte hele det siste året. 
+Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Barret.
+
+
 ## Velkomstkomiteen 2022
 
 ## Jubileumskomiteen 2021-2022
