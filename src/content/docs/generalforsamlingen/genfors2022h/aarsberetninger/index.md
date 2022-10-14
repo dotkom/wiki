@@ -154,6 +154,16 @@ title: "Årsberetninger høsten 2022"
 
 ## Drifts- og utviklingskomiteen
 
+- Tok opp 7 nye (1 andreklassing og 6 førsteklassinger)
+- 18 aktive medlemer, 5 permiterte 
+-  jobber med nye ow (backend og frontend)
+- Startet med demo på møter
+- Flyttet arbeidskvelder til onsdager på kontoret
+- Delt inn komiteen i teams som jobber med forskjellige domener
+- Jobber med nye ow
+- Snart ferdig med nye vinnstraffssystemet
+- Flytter alle systemer fra fysisk server i IT-bygge til skytjenester (grades og kvitteringer er ikke flytta enda)
+
 ## Fag- og kurskomiteen
 - Tatt opp 6 nye medlemmer, 3 førsteklassinger, 2 andreklassinger og 1 fjerdeklassing
 - 17 aktive medlemmer
