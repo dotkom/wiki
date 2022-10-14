@@ -373,6 +373,30 @@ Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Bar
 
 ## Output
 
+## Datakameratene
+
+Datakam er endelig tilbake i vanlig drift. Hele denne sesongen har vært preget med normal drift av studentligaen i arrangement av TSFF. Det vil si at alle treninger arrangert av Datakam, og alle kamper har foregått som vanlig uten noen form for restriksjoner. Det har vært solid engasjement for Datakam dette året, spesielt i oppstart av den nye sesongen på høsten 2022. Det har nesten utelukkende vært 25-30 spillere på fellestreninger, noe som viser til at tilbudet til Datakam utgjør en sentral del av hverdagen til flere studenter. 11-er laget er i gang med ligaen, men har fått en litt treg start med 4 spilte kamper med 2 tapt og 2 vunnet. Likevel Har vi funnet fram fjorårets momentum og lagets nivå begynner virkelig å komme på plass. Våren 22 ble det valgt nytt styre.
+
+Å ta over for det gamle styret har gått veldig fint, da det har blitt gjennomført et godt erfaringsoverskriv og opplæring av Datakams drift. Dette har medført til at laget er godt samkjørt, og det nye styret har satt for seg nye mål og ambisjoner for den kommende sesongen:
+- Ha et arrangement i fadderperioden for å vise oss frem for nye spillere. (Allerede
+gjennomført)
+- Få en ny pallplassering i Studentligaen, da vi har fått tilbake mange viktige spillere fra
+utveksling, selv om vi derimot har mistet noen andre sentrale spillere.
+- Fortsette å bygge på en større kjeren i 7’er laget og øke interessen for å delta i dette laget.
+- Få en større kjerne fra informatikk på alle lag i tillegg til å rekruttere flere
+masterstudenter.
+- Sikre en god plassering for 7’er laget i første div.
+- Mulighet for alle til å dra på minst en lagfest.
+- Opprettholde et sosialt og sportslig fotballtilbud for alle nivå.
+- Finne treningstider slik at alle ved Datateknologi, Kommunikasjonsteknologi og Informatikk har mulighet til minst én trening i uken som ikke krasjer med forelesning.
+
+11-er laget ønsker en topp 3 plassering i tabellens slik at vi kan rykke A-sluttspillet, da dette ikke gikk helt veien i fjor. Datakam har igjen store ambisjoner om vinne sluttspillet da vi har fått tilbake erfarne og essensielle spillere fra utveksling, og ser på dette målet som fullt oppnåelig.
+
+7-er laget har ambisjoner om å komme seg høyt opp på tabellen etter et vellykket år som sørget for opprykk til første divisjon. Nå fortsetter ambisjonene mot toppen av 7-dentligaen.
+
+Datakameratene har også et mål om å få flere fra informatikk og linjeforeningen Online. Slik situasjonen er idag er det kun ca 25% av de på trening som er fra Online. Dette er et utappet potensiale, og med aktivitet på sosiale medier, og blæsting på Onlines kontorer håper vi å rekuruttere flere Onlinere.
+En stor takk til alle støttespillere, supportere og spillere for å ha hjulpet oss komme gjennom koronaperioden. Vi gleder oss til resten av sesongen og fremtidige eventyr.
+
 ## FeminIT
 
 Overordnet:
