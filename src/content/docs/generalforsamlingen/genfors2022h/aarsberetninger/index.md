@@ -375,11 +375,11 @@ Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Bar
 
 Output
 
-### Vår 2022
+*Vår 2022*
 
 I løpet av våren fant Output seg ett semi-permanent øvingslokale for å erstatte F1-auditoriet. Lokalet tilhører AKKS og ligger nede på Buran. Vi gjennomførte to konserter: Catch IDI og gjennåpningsfesten. Fikk dessverre ikke spilt på jubiléet slik vi hadde planlagt.
 
-### Høst 2022
+*Høst 2022*
 
 Høsten 2022 startet med at vi holdt konsert på immatrikuleringsballet til både Abakus og Online. Deretter har vi fokusert på Battle of the Bands som skal holdes 4. november og 18. november. Vi har også fått inn et tre nye medlemmer ettersom det var ett par medlemmer som ble ferdige med studiet våren 2022.
 
