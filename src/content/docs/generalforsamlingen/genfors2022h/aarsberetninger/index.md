@@ -373,6 +373,18 @@ Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Bar
 
 ## Output
 
+Output
+
+### Vår 2022
+
+I løpet av våren fant Output seg ett semi-permanent øvingslokale for å erstatte F1-auditoriet. Lokalet tilhører AKKS og ligger nede på Buran. Vi gjennomførte to konserter: Catch IDI og gjennåpningsfesten. Fikk dessverre ikke spilt på jubiléet slik vi hadde planlagt.
+
+### Høst 2022
+
+Høsten 2022 startet med at vi holdt konsert på immatrikuleringsballet til både Abakus og Online. Deretter har vi fokusert på Battle of the Bands som skal holdes 4. november og 18. november. Vi har også fått inn et tre nye medlemmer ettersom det var ett par medlemmer som ble ferdige med studiet våren 2022.
+
+Videre planlegger vi å spille på julebordet til Online.
+
 ## Datakameratene
 
 Datakam er endelig tilbake i vanlig drift. Hele denne sesongen har vært preget med normal drift av studentligaen i arrangement av TSFF. Det vil si at alle treninger arrangert av Datakam, og alle kamper har foregått som vanlig uten noen form for restriksjoner. Det har vært solid engasjement for Datakam dette året, spesielt i oppstart av den nye sesongen på høsten 2022. Det har nesten utelukkende vært 25-30 spillere på fellestreninger, noe som viser til at tilbudet til Datakam utgjør en sentral del av hverdagen til flere studenter. 11-er laget er i gang med ligaen, men har fått en litt treg start med 4 spilte kamper med 2 tapt og 2 vunnet. Likevel Har vi funnet fram fjorårets momentum og lagets nivå begynner virkelig å komme på plass. Våren 22 ble det valgt nytt styre.
