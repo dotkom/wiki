@@ -125,7 +125,7 @@ title: "Årsberetninger høsten 2022"
 - Gjennomført suppleringsopptak, tok opp fire nye medlemmer (3 andreklassinger og en 1 tredjeklassing)
 - Gjennomført 
 - Signert 24 kontrakter ifm. ITEX.
-- Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
+- Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
 - Skaffet to generalsponsor og en tittelsponsor for fadderukene
 -- Arrangert og planlagt bedriftspresentasjon med de nye under fadderukene.
 - Støttet Kid under 1 arrangement. 
@@ -352,6 +352,24 @@ Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Bar
     - Oppdatert barkartet vårt
 
 ## Casual Gaming
+-   Årsmøte avholdt 5. mars.  
+    
+-   StudLAN vår og spillkvelder på Gløshaugen avlyst.
+-   Deltatt i ekstraordinært landsmøte i Norsk Digital Kultur og Regionstinget til Hyperion Midt.
+-   Deltatt på spillkveld under Onlines jubileum i vår ("Kvelden før kvelden"), samt interessegrupperouletten og en spillkveld under fadderukene.  
+    
+-   Deltatt på Den Fantastiske Spilldagen (Hyperion) og Torucon.
+
+-   Deltatt i planleggingen av Nidaros Spillfest, samt avholdt premiert CS-turnering på Kultursenteret ISAK under festivalen.
+-   Lånt utstyr til BuvikLAN (Buvik IL), Prototype LAN ([dataparty.gg](http://dataparty.gg/)), UKM  Gaming, The Gathering: Online (KANDU) og Skandia Cup (Bitfix  Gaming-teltet).
+-   Vedlikeholder et permanent crew på rundt 10 personer.
+-   **TrøndeLAN (hovedarrangementet vårt):**
+
+-   	Avholdes i Utleirahallen i høstferien, i samarbeid med bl.a. Bitfix  Gaming, Smash Trondheim, Norges Beste  Gamer  og AbaTek (Abakus).
+-   	Sponset av bl.a. Trondheim kommune, NTNU, Telenor, SpareBank 1 SMN og Explo, samt med utstyrslån fra bl.a. Tiller VGS og Output (Online).  
+    
+-   	Planla for 300–500 deltakere, men forventer nærmere 200, tilsynelatende som følge av redusert interesse i miljøet.
+-   	Konkurranser med samlet premiepott på 40.000kr.
 
 ## Output
 
