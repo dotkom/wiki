@@ -23,7 +23,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra arrkom:*  Ingeborg Elly Skori-Holm
 * *Styremedlem fra bedkom:*  
 * *Styremedlem fra dotkom:*  Njål Ingersønn Sørland
-* *Styremedlem fra fagkom:*  Erlend Golten Persen
+* *Styremedlem fra fagkom:*  Erlend Golten Persen, Johannes Meldal
 * *Styremedlem fra prokom:*  Sondre Stokke
 * *Styremedlem fra trikom:*  Carolina Gunnesdal
 
