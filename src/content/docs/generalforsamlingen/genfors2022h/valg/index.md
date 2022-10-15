@@ -21,7 +21,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Styremedlem fra arrkom:*  Ingeborg Elly Skori-Holm
-* *Styremedlem fra bedkom:*  
+* *Styremedlem fra bedkom:*  Magnus Ouren
 * *Styremedlem fra dotkom:*  Njål Ingersønn Sørland
 * *Styremedlem fra fagkom:*  Erlend Golten Persen, Johannes Meldal
 * *Styremedlem fra prokom:*  Sondre Stokke
