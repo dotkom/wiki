@@ -152,30 +152,8 @@ Annet:
 Dersom vedtektsforslaget går gjennom, må også leder godkjennes på generalforsamlingen.
 
 
-## Vedtektsforslag 06 V1: Alle fullverdige medlemmer kan stille til HS v/ Njål Ingersønn Sørland
 
-**Bakgrunn**
-
--   Alle kan være gode kandidater, uavhengig av hvilke verv de har hatt.
--   Bedre å ta vurdering av individer på genfors, heller enn å begrense hvem som får lov til å bli vurdert.
--   Opp til generalforsamlingen å avgjøre hvilke kandidater som er best egnet, gir ikke mening å begrense hvem som skal kunne stille.
-
-
-**Endringer**
-
-§ 4.1.3 Krav til kandidater
-
-Fra:
-Kandidater til Hovedstyret må ha innehatt et verv i en av kjernekomiteene eller nodekomiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en kjernekomité, må kandidaten foreslås av valgkomiteen.
-
-Til:
-Kandidater til Hovedstyret må ha hatt et fullverdig medlemskap i linjeforeningen i minst ett (1) semester. Om en kandidat er på sitt første semester, må de foreslås av valgkomiteen.
-
-
-
-## Vedtekstforlsag 06 V2: Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
-
-**Faller dersom 06 v1 går gjennom**
+## Vedtekstforlsag 06 : Nodekomite-medlemmer kan stille til HS v/ Robin Lund Sadun
 
 **Bakgrunn**
 
@@ -220,7 +198,7 @@ Komiteens lederkandidat velges internt i komiteen før **vårens** generalforsam
 ...
 
 
-## Vedtektsforslag 08: Oppdeling av paragraf §4.7 Mistillit v/ Debug
+## Vedtektsforslag 07: Oppdeling av paragraf §4.7 Mistillit v/ Debug
 
 **Bakgrunn**
 
