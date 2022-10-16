@@ -198,7 +198,7 @@ Komiteens lederkandidat velges internt i komiteen før **vårens** generalforsam
 ...
 
 
-## Vedtektsforslag 07: Oppdeling av paragraf §4.7 Mistillit v/ Debug
+## Vedtektsforslag 08: Oppdeling av paragraf §4.7 Mistillit v/ Debug
 
 **Bakgrunn**
 
