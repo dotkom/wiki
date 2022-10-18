@@ -312,7 +312,7 @@ Noen arrangementer er mer populære enn andre, men har generelt vært bra oppmø
 Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Barret.
 
 
-## Velkomstkomiteen 2022. 
+## Velkomstkomiteen 2022  
 
 **Overordnet**  
 
