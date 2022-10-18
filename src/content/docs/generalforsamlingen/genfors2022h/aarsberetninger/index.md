@@ -75,6 +75,13 @@ title: "Årsberetninger høsten 2022"
 
 - Tatt opp 7 nye medlemmer i høst som har kommet godt inn i gruppen! Totalt 19 aktive medlemmer.     
 
+**Vår 2022**   
+
+- Temafest (karaoke)
+- brunch
+- Eksamensfest 1.klasse 
+- utmatrikulering for 3. og 5. klasse
+
 **Høst 2022**   
  
 - Immball
