@@ -117,8 +117,7 @@ title: "Årsberetninger høsten 2022"
 
 **Overordnet:** 
 
-- Signert ny kaffeavtale med Netlight
-- Fokusert på å ta mindre buss til arr
+- Fokusert på å ta mindre buss til arr og gjøre arr mer miljøvennlig.
 - Deltatt på Linjesamarbeidmøter (2-3 møter hvert semester)
 
 **Vår** 
@@ -135,13 +134,13 @@ title: "Årsberetninger høsten 2022"
 -- 7 vanlige bedarr
 -- 2 arr med Bekk
 - Skaffet 4 bedriftsannonser til Offline, 2 bekk og 2 knowit
+- Signert ny LS avtale 
 
 **Høst**
 
 - Tok opp seks nye medlemmer (6 førsteklassinger)
 - Planlegging av Tech talks
-- Gjennomført 
-- Lagt ut 119 stillingsannonser 
+- Signert ny kaffeavtale med Netlight
 - Sendt ut semesterundersøkelse der studentene fra Online kan gi tilbakemeldinger og forslag til arrangementer.
 - Støttet kid under 2 arr(sommerrebus og kid konferanse)
 - Gjennomført og planlagt 6 bedarr: 
@@ -150,7 +149,8 @@ title: "Årsberetninger høsten 2022"
 -- 3 vanlig bedarr
 -- 1 arr m Bekk
 - Skaffet 4 bedriftsannonser til Offline, 2 bekk og 1 knowit
-
+- Signert ny Uka avtale i forbindelse med LS 
+- Lagt ut 119 stillingsannonser 
 
 ## Drifts- og utviklingskomiteen
 
