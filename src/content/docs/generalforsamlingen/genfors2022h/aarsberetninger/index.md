@@ -68,6 +68,7 @@ title: "Årsberetninger høsten 2022"
 - Planlegging av kulturpåvirkningsarrangement
 - Samarbeidet med HS om vedtekter
 - Sendt "How to" til komiteer
+- Skrive OW artikkel om rollen til Hovedtillitsvalgt og sammenhengen med Debug
 
 ## Arrangementskomiteen  
 **Overordnet:**     
