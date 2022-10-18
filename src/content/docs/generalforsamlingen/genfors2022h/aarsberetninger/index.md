@@ -312,7 +312,32 @@ Noen arrangementer er mer populære enn andre, men har generelt vært bra oppmø
 Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Barret.
 
 
-## Velkomstkomiteen 2022
+## Velkomstkomiteen 2022. 
+
+**Overordnet**  
+
+ - Holdt første fadderuken uten corona-restriksjoner siden 2019  
+    - Utfordrende erfaringsoverføring, måtte finne ut av mye selv da Corona ikke lenger over oss  
+    - Gikk veldig bra, skal sikre bedre overføring til neste år  
+ - Har fått meget gode tilbakemeldinger fra faddere, fadderbarn og eksterne  
+ - Gode erfaringer fra samarbeid med andre linjeforeninger i fadderuken  
+
+**Bachelor**  
+
+ - 13 Bachelormedlemmer i Velkom 2022
+ - 57 Bachelorfaddere (ned fra 91 i 2021)
+ - 140 Bachelorfadderbarn (opp fra cirka 120 i 2021)
+ - Kjørte 12 faddergrupper med 4-5 faddere og cirka 10-13 fadderbarn
+ - Veldig få jentefaddere, kjørte 4 rene "guttegrupper"
+
+**Master**  
+
+ - 2 masteransvarlige i Velkom 2022. 
+ - 24 masterfaddere
+ - 75 masterfadderbarn
+ - Master deltok på mye av Bacheloropplegget  
+    - Gode tilbakemeldinger på det, de fleste arrangement var lett å tilpasse  
+ - Kjørte som vanlig egne arrangement (Gokart osv.)  
 
 ## Jubileumskomiteen 2021-2022
 
@@ -348,18 +373,17 @@ Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Bar
     - Hatt fredagsåpninger siden fadderuken
     - Begynt med Happy Hour fra 18:00-19:00 på fredagsåpninger
     - Holdt styrevors før immball for 5 linjeforeninger, deriblant Online
-    - Representert på diverse immball, galler, deriblant Online immball
+    - Representert på diverse immball, gallaer og jubileum 
     - Avholdt stormøte og ukentlige styrestyremøter
     - Deltatt på møte med kjellersamarbeidet
 - Oppussing:
-    - Har drevet med et omfattende oppussingsprosjekt siden generalforsamling i mars
+    - Har drevet med et omfattende oppussingsprosjekt siden generalforsamlingen vår i mars
     - Kjøpt nye laserlys til dansegulvet
-    - Fikset mye nytt dekor på veggene og malt
+    - Fikset mye nytt dekor på veggene og malt vegger ventilasjonsrør
     - Snekret nye benker, hyller og skap, samt fikset nytt beerpongbord
-    - Fått støtte fra linjeforeningene
+    - Fått støtte fra linjeforeningene til oppussingen
     - Fått ekstra støtte fra Deltafondet for ryggputer
-    - Har søkt Onlinefondet om penger til nye lys i alle rom
-    - Oppdatert barkartet vårt
+    - Fått ekstra støtte fra Onlinefondet for oppgradering av lys i hele lokalet
 
 ## Casual Gaming
 -   Årsmøte avholdt 5. mars.  
