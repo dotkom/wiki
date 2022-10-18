@@ -125,24 +125,23 @@ title: "Årsberetninger høsten 2022"
 
 - Gjennomført suppleringsopptak, tok opp fire nye medlemmer (3 andreklassinger og en 1 tredjeklassing)
 - Gjennomført 
-- Signert 24 kontrakter ifm. ITEX.
 - Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
 - Skaffet to generalsponsor og en tittelsponsor for fadderukene
--- Arrangert og planlagt bedriftspresentasjon med de nye under fadderukene.
+-- Arrangert og planlagt bedriftspresentasjon under fadderukene.
 - Støttet Kid under 1 arrangement. 
 - Gjennomført 11 bedriftsarrangementer:
 -- Samarbeid m Abakus og Tilhde (Kahoot) - engelsk bedarr
 -- Bedcrawl
 -- 7 vanlige bedarr
 -- 2 arr med Bekk
-- Skaffet bedriftsannonser til Offline
+- Skaffet 4 bedriftsannonser til Offline, 2 bekk og 2 knowit
 
 **Høst**
 
 - Tok opp seks nye medlemmer (6 førsteklassinger)
 - Planlegging av Tech talks
 - Gjennomført 
-- Lagt ut x stillingsannonser 
+- Lagt ut 119 stillingsannonser 
 - Sendt ut semesterundersøkelse der studentene fra Online kan gi tilbakemeldinger og forslag til arrangementer.
 - Støttet kid under 2 arr(sommerrebus og kid konferanse)
 - Gjennomført og planlagt 6 bedarr: 
@@ -150,7 +149,7 @@ title: "Årsberetninger høsten 2022"
 -- Bedcrawl 
 -- 3 vanlig bedarr
 -- 1 arr m Bekk
-- Skaffet bedriftsannonser til Offline
+- Skaffet 4 bedriftsannonser til Offline, 2 bekk og 1 knowit
 
 
 ## Drifts- og utviklingskomiteen
