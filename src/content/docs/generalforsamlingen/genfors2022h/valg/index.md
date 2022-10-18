@@ -29,7 +29,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 ### Godkjenning av Profil- og aviskomiteen-leder
 
-Prokom-leder: 
+Prokom-leder: Henrik Moe Wæhre  
 
 ### Eventuell godkjenning av FemniIT-leder
 Grunnet vedtektsforslag 6 legger vi også inn FeminIT-leder for mulig godkjennelse på generalforsamlingen. Dette skjer kun dersom vedtektsforslag 6 - "FeminIT som kjernekomite" går gjennom.
