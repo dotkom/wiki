@@ -317,7 +317,7 @@ Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Bar
 **Overordnet**  
 
  - Holdt første fadderuken uten corona-restriksjoner siden 2019  
-    - Utfordrende erfaringsoverføring, måtte finne ut av mye selv da Corona ikke lenger over oss  
+    - Utfordrende erfaringsoverføring, måtte finne ut av mye selv da Corona ikke lenger en begrensning  
     - Gikk veldig bra, skal sikre bedre overføring til neste år  
  - Har fått meget gode tilbakemeldinger fra faddere, fadderbarn og eksterne  
  - Gode erfaringer fra samarbeid med andre linjeforeninger i fadderuken  
