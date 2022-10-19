@@ -145,6 +145,9 @@ title: "Årsberetninger høsten 2022"
 -- 7 vanlige bedarr
 -- 2 arr med Bekk
 - Skaffet 4 bedriftsannonser til Offline, 2 Bekk og 2 Knowit
+                                            ^         ^
+- Skaffet 4 bedriftsannonser til Offline, 2 bekk og 2 knowit
+                                            ^         ^
 - Signert ny LS avtale 
 
 **Høst**
@@ -152,6 +155,9 @@ title: "Årsberetninger høsten 2022"
 - Signert ny kaffeavtale med Netlight
 - Tok opp seks nye medlemmer (6 førsteklassinger)
 - Støtter ved planlegging av Tech talks
+  ^^^^^^^^^^^^^
+- Planlegging av Tech talks
+  ^
 - Signert ny kaffeavtale med Netlight
 - Sendt ut semesterundersøkelse der studentene fra Online kan gi tilbakemeldinger og forslag til arrangementer.
 - Støttet kid under 2 arr(sommerrebus og kid konferanse)
@@ -163,6 +169,9 @@ title: "Årsberetninger høsten 2022"
 - Skaffet 4 bedriftsannonser til Offline, 2 bekk og 1 knowit
 - Signert ny Uka avtale i forbindelse med LS 
 - Lagt ut 139 stillingsannonser 
+           ^
+- Lagt ut 119 stillingsannonser 
+           ^
 
 
 ## Drifts- og utviklingskomiteen
@@ -306,6 +315,11 @@ title: "Årsberetninger høsten 2022"
  - Tok opp 5 nye medlemmer denne høsten. Hvorav disse var det 2 førsteklassinger, 2 andreklassinger, og en fjerdeklassing.
 ###Arrangement:
  - Vi har arrangert en rekke aktiviteter innenfor idretter som:
+- Sjakk x 1  
+- E-sport x 1  
+- Bowling x 1  
+- CrossFit x  
+- Padel x 2  
         Slalom
         Sjakk x 1
              ----
@@ -326,14 +340,33 @@ title: "Årsberetninger høsten 2022"
              ----
         Padel
         Buldring x 2
+^^^^^^^
+- Buldring x 2  
+^             ++
                 ----
         Buldring
         Brattkortkurs x 1
+^^^^^^^
+- Brattkortkurs x 1  
+^                  ++
         Trampolinepark x 1
+^^^^^^^
+- Trampolinepark x 1  
+^                   ++
         Og frem til jul skal vi også ha:
+^^^^^^^
+- Og frem til jul skal vi også ha:  
+^                                 ++
         GoCart
+- GoCart   
         Trampolinepark
+^^^^^^^
+- Trampolinepark  
+^               ++
         PistolSkyting
+^^^^^^^
+- PistolSkyting  
+^              ++
         
 Noen arrangementer er mer populære enn andre, men har generelt vært bra oppmøte hele det siste året. 
 Vi har valgt ny økonomianvarlig: Brinje Marie Haugli som tok over for Billy Barret.
