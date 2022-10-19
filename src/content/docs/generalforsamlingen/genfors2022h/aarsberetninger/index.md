@@ -484,6 +484,7 @@ Annet:
 
 Investering:
 - Satt opp Nordnet konto, skal investere over de neste 12 månedene i henhold til styredokumentet
+- Tatt lenger tid å sette opp enn planlagt, men har vært en blessing in disguise siden markedet har gått i dass siden forrige genfors. Gir oss et bedre innkjøpstidspunkt.
 
 Søknader:
 - 10 157kr til innkjøp av utlånbart disc-golf utstyr / Floppy Disk
