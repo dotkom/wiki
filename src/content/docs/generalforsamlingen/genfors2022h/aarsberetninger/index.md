@@ -488,3 +488,5 @@ Investering:
 Søknader:
 - 10 157kr til innkjøp av utlånbart disc-golf utstyr / Floppy Disk
 - Opptil 30k til RFK for innstallering av splitter nytt lysdesign
+- 88k for å senke Åre-priser
+- 20k for kjøp av ny sofa til kontoret
