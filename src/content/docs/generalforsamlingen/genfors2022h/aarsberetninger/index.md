@@ -300,16 +300,14 @@ title: "Årsberetninger høsten 2022"
  - Tok opp 5 nye medlemmer denne høsten. Hvorav disse var det 2 førsteklassinger, 2 andreklassinger, og en fjerdeklassing.
 ###Arrangement:
  - Vi har arrangert en rekke aktiviteter innenfor idretter som:
-        Slalom
-        Sjakk
-        Volleyball
-        Kickboksing
-        E-sport
-        Bowling
-        CrossFit 
-        Curling 
-        Padel
-        Buldring
+        Sjakk x 1
+        E-sport x 1
+        Bowling x 1
+        CrossFit x 2
+        Padel x 2
+        Buldring x 2
+        Brattkortkurs x 1
+        Trampolinepark x 1
         Og frem til jul skal vi også ha:
         GoCart
         Trampolinepark
