@@ -102,7 +102,7 @@ title: "Årsberetninger høsten 2022"
 
 **Annet**
 
-- Vi har merket en enorm økning i generelle priser. Spesielt merkbart på arrangementer som Immball, Åre og Julebord
+- Vi har merket en enorm økning i generelle priser, dermed også økning i billettpriser. Spesielt merkbart på arrangementer som Immball, Åre og Julebord
 
 ## Bank- og økonomikomiteen  
 
