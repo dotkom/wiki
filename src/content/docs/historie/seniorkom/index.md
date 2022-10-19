@@ -21,7 +21,7 @@ Komiteen består for øyeblikket av 11 engasjerte studenter.
 
 |År|Leder|Nestleder|Økonomiansvarlig|Medlemmer|||||||||||||||||||||| 
 |--------------|------------------|------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|  
-| 2022H         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Christoffer Stensrud|Luka Grujic|Emma Blix|William Andersson|Anniken Hoff|Johan August Østbye |Mia Bjørndal|Thomas Iversen Ramm|
+| 2022H         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Duvara Nishaharan|Luka Grujic|Emma Blix|Hilmir Straumland|Anniken Hoff|Billy Steen Barrett |Farhad Ismayilov||
 | 2022V         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Christoffer Stensrud|Luka Grujic|Emma Blix|William Andersson|Anniken Hoff|Johan August Østbye |Mia Bjørndal|Thomas Iversen Ramm|
 | 2021V         |Luka Grujic|Lars Gjelstad|Kaja Sofie Lundgaard|Birgitte Swensson|Christoffer Stensrud|Henrik Tobias Liodden|Marius Sjøberg|Mathias Fossum|Monika Muzyk|Sander Lindberg|Sigurd Oxaas Wie|Thomas Alejandro Ramirez Fernandez|Thomas Iversen Ramm|Vilde Almestad
 | 2020h         |Marius Holm Johansen|Luka Grujic|Sigurd Oxaas Wie|Birgitte Swensson|Henrik Tobias Liodden|Kaja Sofie Lundgaard|Kasper Maagerø Svendsen|Katarina Gjendem Murphy|Marius Sjøberg|Sander Lindberg|Thomas Alejandro Ramirez Fernandez|Thomas Iversen Ramm|Vilde Almestad
