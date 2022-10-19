@@ -132,21 +132,26 @@ title: "Årsberetninger høsten 2022"
 - Gjennomført suppleringsopptak, tok opp fire nye medlemmer (3 andreklassinger og en 1 tredjeklassing)
 - Gjennomført 
 - Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
+- Gjennomført Oslotur(Besøkt relevante mulige samarbeidspartnere bedrifter i Oslo)
+ ++++++++++++
 - Skaffet to generalsponsor og en tittelsponsor for fadderukene
 -- Arrangert og planlagt bedriftspresentasjon under fadderukene.
 - Støttet Kid under 1 arrangement. 
 - Gjennomført 11 bedriftsarrangementer:
 -- Samarbeid m Abakus og Tilhde (Kahoot) - engelsk bedarr
+-- 1 Samarbeid m Abakus og Tilhde (Kahoot) - engelsk bedarr
+  ++
 -- Bedcrawl
 -- 7 vanlige bedarr
 -- 2 arr med Bekk
-- Skaffet 4 bedriftsannonser til Offline, 2 bekk og 2 knowit
+- Skaffet 4 bedriftsannonser til Offline, 2 Bekk og 2 Knowit
 - Signert ny LS avtale 
 
 **Høst**
 
+- Signert ny kaffeavtale med Netlight
 - Tok opp seks nye medlemmer (6 førsteklassinger)
-- Planlegging av Tech talks
+- Støtter ved planlegging av Tech talks
 - Signert ny kaffeavtale med Netlight
 - Sendt ut semesterundersøkelse der studentene fra Online kan gi tilbakemeldinger og forslag til arrangementer.
 - Støttet kid under 2 arr(sommerrebus og kid konferanse)
@@ -157,7 +162,8 @@ title: "Årsberetninger høsten 2022"
 -- 1 arr m Bekk
 - Skaffet 4 bedriftsannonser til Offline, 2 bekk og 1 knowit
 - Signert ny Uka avtale i forbindelse med LS 
-- Lagt ut 119 stillingsannonser 
+- Lagt ut 139 stillingsannonser 
+
 
 ## Drifts- og utviklingskomiteen
 
@@ -300,12 +306,28 @@ title: "Årsberetninger høsten 2022"
  - Tok opp 5 nye medlemmer denne høsten. Hvorav disse var det 2 førsteklassinger, 2 andreklassinger, og en fjerdeklassing.
 ###Arrangement:
  - Vi har arrangert en rekke aktiviteter innenfor idretter som:
+        Slalom
         Sjakk x 1
+             ----
+        Sjakk
+        Volleyball
+        Kickboksing
         E-sport x 1
+               ----
+        E-sport
         Bowling x 1
+               ----
+        Bowling
         CrossFit x 2
+                 ---
+        CrossFit 
+        Curling 
         Padel x 2
+             ----
+        Padel
         Buldring x 2
+                ----
+        Buldring
         Brattkortkurs x 1
         Trampolinepark x 1
         Og frem til jul skal vi også ha:
