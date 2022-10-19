@@ -50,7 +50,9 @@ Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt bel�
 8. Oktober 2021| 7. Oktober 2021 | Arrkom | Transport til Åre 2022 (AVLYST) | 76 000 kr | 76 000 kr |
 19. Oktober 2021| 16. Oktober 2021 | Ekskom | Ekskursjon til Japan (AVLYST) | 75 000 kr | 75 000 kr | [attachment:806 title:"Søknad pdf" size]
 5. April 2022| 4. April 2022 | Floppy Disk | Innkjøp av frisbeegolf-utstyr | 10 157 kr | 10 157 kr | [attachment:822 title:"Søknad pdf" size]
-30. September 2022| 12. Oktober 2022 | RFK | Nytt lysdesign | 30 000 kr | 41 000 kr | [attachment:835 title:"Søknad pdf" size]
+12. September 2022| 17. Oktober 2022 | RFK | Nytt lysdesign | 30 000 kr | 41 000 kr | [attachment:835 title:"Søknad pdf" size]
+30. September 2022| 12. Oktober 2022 | Arrkom | Transport til Åre | 88 000 kr | 88 000 kr |
+18. Oktober 2022| 19. Oktober 2022 | Trikom | Ny sofa til kontoret | 20 000 kr | 20 000 kr |
 
 
 ## Søknader
