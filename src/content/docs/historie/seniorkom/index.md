@@ -21,7 +21,6 @@ Komiteen består for øyeblikket av 11 engasjerte studenter.
 
 |År|Leder|Nestleder|Økonomiansvarlig|Medlemmer|||||||||||||||||||||| 
 |--------------|------------------|------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|  
-
 | 2022H         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Christoffer Stensrud|Luka Grujic|Emma Blix|William Andersson|Anniken Hoff|Johan August Østbye |Mia Bjørndal|Thomas Iversen Ramm|
 | 2022V         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Christoffer Stensrud|Luka Grujic|Emma Blix|William Andersson|Anniken Hoff|Johan August Østbye |Mia Bjørndal|Thomas Iversen Ramm|
 | 2021V         |Luka Grujic|Lars Gjelstad|Kaja Sofie Lundgaard|Birgitte Swensson|Christoffer Stensrud|Henrik Tobias Liodden|Marius Sjøberg|Mathias Fossum|Monika Muzyk|Sander Lindberg|Sigurd Oxaas Wie|Thomas Alejandro Ramirez Fernandez|Thomas Iversen Ramm|Vilde Almestad
