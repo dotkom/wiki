@@ -100,7 +100,7 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Bedriftskomiteens wiki](/wiki/komiteer/bedkom/)
     - [Drifts- og utviklingskomiteens wiki](/wiki/komiteer/dotkom/)
     - [Fag- og kurskomiteens wiki](/wiki/komiteer/fagkom/)
-    - [FeminIT](/wiki/komiteer/jentekom/)
+    - [FeminITs wiki](/wiki/komiteer/jentekom/)
     - [Fondstyrets wiki](/wiki/komiteer/fondstyret/)
     - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
     - [Trivselskomiteens wiki](/wiki/komiteer/trikom/)
