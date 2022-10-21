@@ -108,5 +108,4 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [IT-Ekskursjonens wiki](/wiki/komiteer/it_ekskursjonen/)
     - [Jubileumskomiteens wiki](/wiki/komiteer/jubkom/)
     - [Velkomstkomiteens wiki](/wiki/komiteer/velkom/)
-    - [Bedrift-, Fag- og kurskomiteens felleswiki]
-(https://online.ntnu.no/wiki/komiteer/bedfagkom/)
+    - [Bedrift-, Fag- og kurskomiteens felleswiki](https://online.ntnu.no/wiki/komiteer/bedfagkom/)
