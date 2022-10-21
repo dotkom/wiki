@@ -100,6 +100,7 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [Bedriftskomiteens wiki](/wiki/komiteer/bedkom/)
     - [Drifts- og utviklingskomiteens wiki](/wiki/komiteer/dotkom/)
     - [Fag- og kurskomiteens wiki](/wiki/komiteer/fagkom/)
+    - [FeminIT](/wiki/komiteer/jentekom/)
     - [Fondstyrets wiki](/wiki/komiteer/fondstyret/)
     - [Profil- og aviskomiteens wiki](/wiki/komiteer/prokom/)
     - [Trivselskomiteens wiki](/wiki/komiteer/trikom/)
@@ -107,4 +108,5 @@ Du kan også finne disse via prosjektsiden til din komite.
     - [IT-Ekskursjonens wiki](/wiki/komiteer/it_ekskursjonen/)
     - [Jubileumskomiteens wiki](/wiki/komiteer/jubkom/)
     - [Velkomstkomiteens wiki](/wiki/komiteer/velkom/)
-    - [Bedrift-, Fag- og kurskomiteens felleswiki](https://online.ntnu.no/wiki/komiteer/bedfagkom/)
+    - [Bedrift-, Fag- og kurskomiteens felleswiki]
+(https://online.ntnu.no/wiki/komiteer/bedfagkom/)
