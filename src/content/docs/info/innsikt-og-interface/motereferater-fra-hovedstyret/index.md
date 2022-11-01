@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2022
-- [2022-10-26](2022-10-26) - Prikker og opptak av velkom og itex
+- [26-10-2022](26-10-2022) - Prikker og opptak av velkom og itex
 - [2022-10-19](2022-10-19) - Snart generalforsamling! 
 - [2022-10-12](2022-10-12) - Status på genfors og datakam kontrakter
 - [2022-10-05](2022-10-05) - Status på genfors og engelske arrangementer
