@@ -1,0 +1,258 @@
+---
+title: "26.10.2022"
+---
+
+**Møtetidspunkt:** 10.15  
+**Sted:** [Gamle Elektro G022](https://link.mazemap.com/fUql7wkZ)
+
+**Servering og referering:**  
+*1. ref*: Henrik    
+*2. ref*:  Sondre   
+*Servering*: Henrik   
+
+
+**Straff:** 
+
+**Tilstede:** 
+
+**Mangler:** 
+
+## Innsjekk
+[Hvordan har dere det?]
+
+- - -
+
+[TOC]
+
+- - -
+
+## 109 Godkjenning av innkalling, servering og referat fra forrige uke
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+
+Godkjent
+
+
+## 111 Status for komiteene (20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom:
+- Var oktoberfest med bra oppmøte
+- Paint & sip på mandag, litt trøbbel med blesting så litt labert oppmøte. 
+- Skal ha workshop for vårens arrangementer i dag
+- påmelding på quiz 2 i dag
+- Skal snakke om Åre ang søknaden som IDI skulle behandle til i morgen, må kanskje utsette påmelding igjen
+
+
+
+#### Bedkom:  
+
+- Bra oppmøte av kommiteen på genfors 
+- Har hatt to bedpreser med Bredvid og Sopra
+- Diskuterte priser på arrangementer og annonser
+- Fordelte datoer for arrangementer til våren med fagkom (holder oss til tirsdager og torsdager)
+- Satt opp 8 bedpresser. 7 vanlige og en fra bekk
+- Tekst på arrangementer bør være på engelsk , men usikker på om arrangementet bør være på engelsk.
+
+
+#### Dotkom:
+
+- Vi hadde ikke møte sist uke, bar under genfors.
+- prøver bare å jobbe jevnt og få fremgang på prosjektene våre.
+- Demo av Vengeful Vineyards for to uker siden, ser nice ut!
+
+
+
+#### Fagkom:  
+
+- Har diskutert litt rund kurs med excited. (f.eks. kokekveld)
+- Snakket om hvordan vi kan være mer miljøvennlige
+
+#### Prokom:  
+
+- Ikke møte forrige uke pga genfors
+- Hyttetur i helga
+- Arbeidskveld i kveld. 
+
+#### Trikom:  
+
+- Hadde vors før oktoberfest og lånte soundboks fra Abakus, for høytaleren ødelagt siden A-blokka-fest
+- Rosa onsdag i dag
+- Høstmat i dag
+- Halloweenvors i helga, videre til rfk etter det.
+- SKal bestille sofa asap, fikk godkjent fra Fondet.
+- Snakket om lukking av døra på kveldstid, spesielt etter mailen fra Delta. 
+
+
+#### Økonomiansvarlig:
+
+- Budsjetterer i bankom nå
+- Venter egt på priser fra bedkom/fagkom
+- Har 100.000 ufordelte midler, som foreløpig settes på arrkom pga. dyre priser (vurderer trikom hvis de også påvirkes)
+
+#### Nestleder: 
+[Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]  
+[For status klikk her](https://docs.google.com/document/d/1DLYzv_pg5lyEseK4raOnN5FI0aK86f_T0AiIaxvuGgk/edit?usp=sharing) 
+
+#### Leder:
+
+- Signert samarbeidsavtale med rfk
+- Datakam skal signere ny avtale
+- Renskrevet referat fra genfors og lagt ut på ow
+- Linjeleder på mandag og presenterte en sak
+    - Ble tatt opp at styregaver har tatt av og må roes ned fremover
+    - Det ble tatt opp delta innbruddet, alle i nv gangen skal få beslag på døren 
+- Lagt inn pr på vedtekter
+- Gitt alle tilganger de trenger (fb, ow osv.)
+
+## 112 Interkom (10 min) 
+[Her skal saker som angår tre eller flere komiteer]  
+
+**Nevnt mange ganger før, men trikom setter pris på om det ikke blir satt utstyr på kontoret**
+- Kan det settes på boden på A4?
+    - Ikke egt, kan vi bruke gamle boden på A4?
+    - Vi har ikke den boden lenger
+    - Det ligger ting igjen fra kompileringen, så gjerne gå over og rydd opp det kompileringsgjengen.
+
+
+
+
+## 114 Være konsekvente ved setting av prikk (10 min)
+[per nå er d noen komiteer som følger prikkreglene, og noen som ikke gjør det. Dette er uheldig da to stykker kan gjøre akkurat det samme, men ende opp med forskjellige konsekvenser.]
+
+Merkes mest på de bedriftsrelaterte kontra de sosiale arrangementene. Synes det er viktig at samme fremgangsmåte gir samme konsekvenser. 
+
+i: Husk at vi reviderte prikkreglene i vår, vi burde gjøre en innsats på å følge dem.
+- Et fint skille er om det koster noe å ikke møte opp, og om det er bedriftsrelaterte greier som fører til at online blir satt i  dårlig lys.
+
+i: Enkelte komiteer har gitt slack nylig pga kommende Årepåmelding og de vil ikke vøre kjipe. Det er kjipt og burde ikke ha noe å si.
+
+i: Tror alle er enig, men at det er så mange som håndhever prikker rundt om i komiteene som fører til at det bli gjort litt forskjellig fra gang til gang. 
+
+i: Backer at dersom mange er på venteliste og det ikke koster ekstra og gjør noe skade, at man ikke skal vær såå strenge og rigide.
+- Det kan godt være en løsning, men da må alle følge samme baseline. Har ikke noe å si om vi blir strengere eller snillere, så lenge vi er konsekvente. 
+
+i: Har en praksis nå med at man kan sende en mail om at man er syk og slippe å få prikk.
+
+i: Det er skummelt å åpne for skjønn, da er det helt opp til enkeltpersonen.
+
+i: Syns ikke alle type arrangmenter burde gi prikk
+- uenig, burde gjelde samme for alle, det er skadelig for arrangøren hvis man ikke møter
+- Enig, det handler om respekt for arrangørene. Man kan ta en gjennomgang på prikkreglene som helhet og endre de litt til nye ow kommer. 
+
+i: Dumt dette ikke ble tatt opp i vår.
+- mange av disse endringene ble ikke gjennomført grunnet lite ønske om siste liten arbeid med avmelding og varling av folk på ventelista. 
+- Dette påvirker kun arrkom.
+
+i: Jeg synes ikke prikkreglene er så strenge. De er veldig overkommelige hvis man går inn for å følge de. 
+- Eneste jeg kan være uenig med er at man må si ifra senest 5 timer før dersom man blir syk.
+- Den ansvarlige komiteen kan ta det på skjønn i følge reglene.
+
+i: Hvis det påvirker Online økonomisk at man ikke kommer burde man få prikk eller det er ingen som kan ta plassen din.
+
+i: Rimelig sikker på at man kan melde seg av selv om avmeldingsfristen har gått ut hvis man er på venteliste. 
+- ikke hvis man faktisk får plassen.
+
+i: Syns det kan bli for mye å forholde seg til å ha andre regler for feks arrkom-arrangement.
+- 
+
+i: Fra arrkom sitt perspektiv er det hensiktsmessig å kunne ta ting på skjønn av og til, spess hvis deltakeren har betalt, men ikke kan komme.
+- Da bør det være egne regler for arrkom, hvis det er slik at det gjøres skjønnsmessige unntak relativt ofte. Speiler seg dårlig på andre komiteer som gir prikk i samme situasjoner. 
+
+i: Det er forskjell fra feks bedpres hvor man lover en bedrift x antall deltakere ift en fest arrkom arrangerer.
+
+## 115 Notion-kurs (5 min)
+[Fagkom har flyttet stort sett hele wiki inn i notion og det er funker som en drøm. Vi ønsker å holde et kurs i notion og dele erfaringer med alle komiteene. Kurset vil i førsteomgang være for minst en rep fra hver komite.  
+Når passer det best for folk?]
+
+Når skal det holdes?
+- Foreslår at dere setter en dato og sier til komiteene at kurset holdes på den dagen. de som har tid får komme.
+
+s: Hvorfor er det ikke et åpent kurs?
+- Blir mange hvis ikke, pluss vi vil rette det for hvordan bruke Notion for komiteer.
+- Hvis det blir en suksess kan det gjennomføres igjen hvis det er ønske om det. 
+
+i: Blir det dette eller neste semester?
+- Fagkom kan finne ut av det, helst dette semester, hvis ikke; tidlig neste
+
+## 116 opptak velkom 2023 (5 min)
+[Hvem vil ta ansvar for dette? Vet vi om no bra kandidater som vi kan pushe litt?]
+
+Når holdes opptaket?
+- nå, frist om sånn 2 uker elns. 
+
+Kreves det mye headhunting?
+- ja litt
+
+Leder og nestleder tar opp resten av komiteen sin, vi må bare ta opp de.
+
+Robin og Caro fikser. 
+
+## 117 opptak itex 2023 (5 min)
+[Hvem vil ta ansvar for dette? Vet vi om no bra kandidater som vi kan pushe litt?]
+
+
+må Leder og nestleder være fra bedkom eller fagkom?
+- Nei men det kan være lurt. 
+
+Vi må huske å fremme at tidligere erfaring ikke er nødvendig. 
+
+Sondre og Ingeborg fikser
+
+## 118 Online løper Trondheim maraton for barnekreftforeningen (10 min)
+[Forslag: Online løper Trondheim maraton for barnekreftforeningen  
+Tanken er at Online som linjeforening skal samle flest mulig som vil løpe enten maraton eller halvmaraton i september for å samle inn penger til barnekreftforeningen.  
+Pengene kommer fra bedrifter som bedkom spør om å sponse x antall kroner per onliner som fullfører halv- eller helmaraton.  
+I tillegg til bedkom har jeg et par tanker om noe som kan bli gjort, men som de andre komiteene får bestemme helt selv om de vil være med på:  
+
+- Organisert løpetrening med OIL
+- Profilering i form av videoer, artikler e.l. fra prokom
+- Egen nettside med for eksempel bedrifter som er med, folk som er påmeldt e.l. fra appkom
+
+I tillegg kan kanskje andre representanter ta med konseptet videre til komiteen sin og høre om det er noe komiteen kan bidra med.  
+Håper dette er noe som hørtes interessant ut :):)] 
+
+Tenker eneste problemet er at det kommer samme semester som veldedighetsfest.
+- korreksjon: Det er ikke samme semester som veldedighetsfest. satt til 3. september. 
+
+Er ikke en HS ting å orge, men mener det er noe vi kan stå for som linjeforening. 
+- Jazz hands
+
+## 119 Eventuelt
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+Bruk bøker på møter, dere fikk de utlevert i går.
+
+**Mail fra delta om innbrudd. Ikke så mye vi kan gjøre annet enn å ha kultur for å låse døra på kvelden.**
+
+- Sto i mailen at det var flere personer som har brytt seg inn. Vi kan jo ikke vite om de har tilgang på A4 eller ikke. 
+    - Det er ikke studenter, de fysisk bryter istykker dørene.
+- Skulle vi hatt automatisk dørlås feks kl 19?
+    - Kunne vært en idé
+
+Man må allerede knuse glasset på vei inn til A4, samme gjelder for kontoret, vi burde passe på hva vi har av verdier på kontoret.
+- Er det ikke stålnetting i døra på a4, så man må ha med vinkelsliper for å komme seg gjennom. 
+
+Vi vil jo ikke bare forhindre innbrudd, men også at folk bruker kontoret som nach lokale. 
+
+
+
+**Bod-tilganger i Prokom**
+
+- Sondre og Robin fikser
+
+**Representasjon:**
+
+- Siste mulighet nå snart, nye bli med!!
+- Skal oppdatere oversikten på driven.
+
+
+
+## TODO´s
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+
+
+## Diggepunkt
+[Alle må digge noe] 
+
+## Møteevaluering
+[Ris/ros til hvordan møtet har gått]
