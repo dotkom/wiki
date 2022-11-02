@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2022
+- [ny_link](ny_link) -
 - [02-11-2022](02-11-2022) - Backlog, interessegrupper og kalenderkrasj
 - [26-10-2022](26-10-2022) - Prikker og opptak av velkom og itex
 - [2022-10-19](2022-10-19) - Snart generalforsamling! 
