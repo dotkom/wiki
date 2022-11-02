@@ -210,16 +210,6 @@ Skal vi si at sittende har prioritet så får påtroppende restene eller skal vi
 ## 131 Eventuelt
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet]
 
-#### Utestenge folk ved dårlig oppførsel på arrangement?
-- I denne situasjonen har personen sagt unnskyld, så en adrvarsel er passende  
-- I: Kan dele ut prikk i en sånn situasjon  
-- I: Jeg kasta han ut, har snakka med han. Burde ha det i mente at det er mange kull som ikke har vært borti i mye alkohol pga. korona.  
-- I: Vi burde være strenge på dette  
-- I: Det står i prikkreglene at hvis man blir kastet ut skal man få prikk, så burde være konsekvent på dette  
-- I: Ønsket å ta det opp her før vi satt prikk  
-    - Tenker å sende ut mail i forkant av julebord, om at det har vært flere situasjoner med dårlig advarsel for å forhindre  
-- I: Er lov å si fra til folk at de må skjerpe seg, eventelt ta det opp flere sammen  
-
 
 #### Backlog ansvar for ITEX og Velkom?
 - I: Er vedtektsfesta at HS skal ha ansvaret for dette, så får ikke gjort noe med det nå  
