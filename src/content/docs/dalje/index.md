@@ -4,8 +4,8 @@ title: "Hvordan bære daljer"
 
 #### Medaljer
 
-* Gutt: Medaljene henges på venstre side av dressjakken, fra åpningen av brystlommen og nedover. Antall medaljer som henger i bredden er helt opp til hver enkelt å bestemme selv, men tenk symmetri/det helhetlige bildet.
-* Jente: Medaljene henges nederst på styrebåndet, altså ved hoften. Fra skjøten og oppover, og det er viktig at selve anhenget (selve daljedelen) er fullt synlig.
+* Dress: Medaljene henges på venstre side av dressjakken, fra åpningen av brystlommen og nedover. Antall medaljer som henger i bredden er helt opp til hver enkelt å bestemme selv, men tenk symmetri/det helhetlige bildet.
+* Kjole: Medaljene henges nederst på styrebåndet, altså ved hoften. Fra skjøten og oppover, og det er viktig at selve anhenget (selve daljedelen) er fullt synlig.
 
 #### Rekkefølge på medaljer
 
