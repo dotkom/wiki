@@ -99,6 +99,7 @@ Referat: gOOD!
 - Noe oppdatert om bod-rydding?
 
 SV: backlog ville ikke ta det, ikke noe de ville bruke tid på
+
 SV: Snakket med Tihlde leder igår, de var gira på å bare leie en container og så drar alle samtidig
 
 SP: Skal vi gjøre det samtidig?
