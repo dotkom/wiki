@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2022
-- [2022-11-09](2022-11-09)
+- [2022-11-09](2022-11-09) . Kalenderkræsj vol.2, FIF-erfaringsbank
 - [02-11-2022](02-11-2022) - Backlog, interessegrupper og kalenderkrasj
 - [26-10-2022](26-10-2022) - Prikker og opptak av velkom og itex
 - [2022-10-19](2022-10-19) - Snart generalforsamling! 
