@@ -39,7 +39,7 @@ Referat: gOOD!
 
 #### Arrkom:
 - Påmelding julebort forrige fredag, OW krasja så det var et godt tegn. 
-- - Casino søndag, en del som ikke møtte opp men ellers veldig gøy, virket som folk koste seg.
+    - Casino søndag, en del som ikke møtte opp men ellers veldig gøy, virket som folk koste seg.
 - Pirbadet i dag, det blir bra!
 - Julebord neste uke, planleggingen er asjur
 
