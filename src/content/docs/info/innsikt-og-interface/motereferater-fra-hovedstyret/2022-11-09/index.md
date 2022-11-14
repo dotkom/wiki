@@ -30,7 +30,9 @@ title: "Kalenderkræsj vol.2, FIF-erfaringsbank, Ny blæste-ansvarlig"
 [Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
 
 Inkalling: goodie
+
 Servering: gucci
+
 Referat: gOOD!
 
 
