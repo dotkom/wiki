@@ -206,7 +206,6 @@ Ingen saker
 
 - Ny frist: 23:59 på kvelden to dager etter møtet
     - Eks: Fredag 23:59 om møtet er onsdag kl 12
-- Njål oppdaterer redwine 
 
 ### Sukkerhus som vorssted
 
