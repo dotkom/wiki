@@ -219,6 +219,7 @@ Ingen saker
 ### Lang og tro dalje
 
 Deles nå ut på genvors på våren, hva er praksisen?
+
 - I: Står litt div på wiki
 - I: Praktiseres: Gjennomført 5 semester. 
 - Robin og Anders ser på hvordan dette er formulert i forhold til hvordan det praktiseres
