@@ -7,6 +7,7 @@ Det at du har aktive prikker innebærer at du vil måtte vente 24 timer etter or
 
 ##Hva gir prikk?
 Dette er en kort punktliste. Unntak og videre forklaringer finner du lenger ned.
+
 - Å melde seg av etter avmeldingsfristen.
 - Å ikke møte opp på et arrangement man har plass på.
 - Å møte opp etter arrangementets start eller innslipp er ferdig.
