@@ -31,6 +31,6 @@ Associated wiki pages
 |[PPIT (Perhimpunan Pelajar Indonesia di Trondheim)](http://org.ntnu.no/ppitrondheim)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990767580)|All|[Page](https://www.facebook.com/ppitrondheim/)|ppit.norway@gmail.com|
 |[Pakistan Students Association(PSA),Trondheim](http://org.ntnu.no/psa)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=918823220)|All|[Page](https://www.facebook.com/org.ntnu.no.psa/)|psatrondheim@gmail.com|
 |[Muslim Student Association In Trondheim (MSAT)](http://org.ntnu.no/msat/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990945438)|All|[Page](https://www.facebook.com/msat.ntnu)|msat.styre@gmail.com , msat@msat.org.ntnu.no|
-|[NTNU Ocean Club](http://ntnuoc.no)|  |Marine Technology|[Page](https://www.facebook.com/ntnuoceanclub/)|jon@ntnuoc.no|
+|[NTNU Ocean Club](http://ntnuoc.no)| [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=916836767) |Marine Technology|[Page](https://www.facebook.com/ntnuoceanclub/)|leader@ntnuoc.no|
 [Chinese Students and Scholars Association (CSSA-NTNU)](https://www.facebook.com/CSSA.NTNU/)| |ALL|[Page](https://www.facebook.com/CSSA.NTNU/)|cssa.ntnu@gmail.com|
 |[Trondheim Christian Student Fellowship](https://www.laget.net/english/)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=975698351)|All|[Page](https://www.facebook.com/LagetTKS)|styret@laget.net|
