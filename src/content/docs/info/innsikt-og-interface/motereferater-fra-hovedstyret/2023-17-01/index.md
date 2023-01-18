@@ -94,10 +94,13 @@ Mindre komitearbeid på økansene i komiteene hadde vært fint, da de får mye i
 ## 156 ITEX-opptak (10 min)
 [Er det noen dere kan se for dere som kandidater? Må vurdere andre strategier for å få tak i folk, eventuelt gå litt hardere til verks]
 Må begynne å tenke litt nytt. Forslag på genfors og legge det under bedkom. Gir mening at mange fra ITEX at det kan passe seg bra. Ble nedstemt forrige genfors, men høre igjen. 
+
 I: Har snakket om det med fagkom, og folk er gira? Lurer på om det er gratis tur. 
 Ja, er gratis for alle. 
 
-I: Skal vi prøve nå i to uker og tenke litt og prate rundt med folk? Før vi eventuelt lener det på bedkom. 
+I: Skal vi prøve nå i to uker og tenke litt og prate rundt med folk? Før vi eventuelt lener det på bedkom.  
+
+
 Ja god stemning
 
 
@@ -105,15 +108,15 @@ I: Bedkom er mange nye, mange som forsvinner. Nok med å bare komme inn i komite
 
 I: Ingen grunn til å ta bedkom over fagkom i det vervet. Er kun booking. Strukturere litt, booke hotell og fly. Hvis mer kapasitet i fagkom så er det kanskje bedre. 
 
-?: Når blir mesteparten av vervet gjort?
+?: Når blir mesteparten av vervet gjort? 
 S: Spør når man starter. Var godtigang og ferdigbooka godt før sommerferien.
 
 
-?: når er det?
+?: når er det? 
 S: uken etter fadderuken, rundt 1.september. 
 
 
-I: synes det er en god ide og legge det under bedkom fra neste år av. Så kan bedkom nå med suppulering og til høsten ha det i mente. Har alltid vært stress hvert år. Er jo egentlg ikke så mye arbeid, sier jeg som ikke vil selv, men ja. 
+I: synes det er en god ide og legge det under bedkom fra neste år av. Så kan bedkom nå med suppulering og til høsten ha det i mente. Har alltid vært stress hvert år. Er jo egentlig ikke så mye arbeid, sier jeg som ikke vil selv, men ja.     
 
 ?: Magnus, kan du ta opp i bedkom?
 S: Jepp skal gjøre det. 
@@ -125,13 +128,17 @@ I: Ish timeline er starte intervju i begynnelsen av februar.
 I: Har snakket med noen i dag ang. et arr for jenter innenfor doktorgrad. Vil derfor ha et arr for å gå videre i akadamia og vil gjerne belyse mer om det. Siden de er i feminIT havnet det litt der. Vil derfor bli med IDI med studenter, postdok, doktorstudenter osv. Foredrag også middag og mingling etterpå. Satser på støtte fra IDI til middag, burde ikke være et problem. Heller ikke ta noe betalt fro det som en bedpres eller et kurs. Lurte derfpr på om dette går litt over i fagkom og bedkom tenker, da det kan gå litt over i deres virke. Lurte også på om de går imot noen prinsipper i Online. Om vi har noen innvendinger. Ellers noe de bør ta hensyn til? Tentativt satt til slutten av April, per nå ikke gå utover noen arr, spesielt ikke for bedkom og fagkom sin del. 
 
 I: Ser ingen problemer for det
+
 I: Samme her. Tema som kunne vært attraktivt for hele Online, Kan bruke feminit som prøvekanin og se om folk er invitert. Føler ikke det går utover noen prinsipper. 
 
-?: Når var det?
+?: Når var det? 
+
 S: Slutten av april.
 
 I: Det eneste jeg kommer på er at litt det vi snakket om at det vi snakket om med kalenderkræsj. Men hvis det er da så burde jo ikke det bli noe problem. Som nevnt kan det jo være relevant for alle. Hva hvis IDI tenker at been there done that og ikke vil holde det to ganger, altså for gutter og. 
+
 S: IDI sliter sykt med å få postdok på datafag, så de vil nok gjerne gjøre det. 
+
 K: Ser ikke problemet med det. Ja er kult for alle, men det betyr ikke at vi ikke kan arrangere det for kvinner hvis vi er redd for at det skal floppe.
 
 
@@ -145,12 +152,15 @@ Orakeltjenesten og ISfit har sendt mail ang. promotering.]
 I: Fått inn en del i det siste. Er mye kult. Men eneste jeg ser på som problematisk er når det kræsjer med egne opptak. Er velkom, backlog, ITEX og enda mer. Synes det er litt vanskelig. Kanskje orakel er mer rett da det er jobb. ISfit er jo verv 
 
 S: Orakel er blestet allerede. 
+
 I: Er enig, bra med å bleste verv. Synes bare timingen er litt dårlig. Blir dumt hvis vi mister kandidater til andre ting. Orakel er noe annet da det er jobb. 
 
 I: Kan jo også bare legge det ut i karriere hvis vi er redd for at det skal ta fokus fra andre
+
 K: Synes egt det ikke bør være på karriere. 
 
 ?: Med tanke på opptaksfrist, enten legger vi ut samtidig eller kan vi legge ut senere?
+
 S: Isfit arrangerer fra 8-20.februar. Så de holder nok på nå. 
 
 I: Tror folk er enige i at vi er gira for å bleste, men kanskje legge det mest etter våre egne og prioritere det. Passer det seg, så gjør vi det. Prioriterer egne verv.
@@ -166,7 +176,9 @@ Folk er enige.
 I: Vi får sykt mye mails ang. utveksling. Vet at folk er lei av spam på slack. Samtidig så er det nok mange som har nytte av det. En slackside eller en epost-liste man kan melde seg på?
 
 I: Tenker #utveksling på slack er nice. 
+
 ?: Finnes ikke den allerede
+
 S: tror ikke det. 
 
 I: Går veldig i bølger. Søker første feb og på høsten en gang. 
@@ -199,7 +211,9 @@ I: Var ikke litt av poenget at de ikke ville konkurrere og vil at andre skal leg
 I: Tenker og at det ikke burde legges på kalenderen.
 
 I: Blir lettere å planlegge for alle hvis det ligger der.
+
 ?: Er ikke hele poenget at de ikke skal måtte planlegge rundt det?
+
 S: Jo men hvorfor er det ikke greit at alle vet det i tilfelle man mister folk pga man ikke vet om arrangementene deres. 
 
 I: Når man ser på kalenderen så ser man ikke på ha det er, men heller bare når det er tatt. Så da hvis man ser noe så kan det godt hende at folk ikke arrangerer noe da siden da ser man at den treningen er der. 
@@ -207,9 +221,11 @@ I: Når man ser på kalenderen så ser man ikke på ha det er, men heller bare n
 I: kan jo kalle det morgentrening eller lunsj, eller lignende så man ser det er på dagtid. 
 
 I: Man ser det jo, er jo bare å trykke seg inn. 
+
 S: Det jeg mente er at si den treningen er på mandag og trikom har lunsj onsdag. Da er det jo en forskjell for onsdag er for alle. Vi vet jo hvordan det funker, men kan jo godt hende andre ikke gjør det. 
 
 ?: Har de avklart det her med OIL?
+
 s: Ja
 
 I: Er jo digg å ha det der, men problemet er at det blir lagt inn som heldags. Så kan se fullt ut når det egt ikke er det. Er jo helt fint å bare koordinere og spørre komiteene. Man kan jo se når arrangementet er og avklare. 
@@ -225,13 +241,16 @@ Føler folk er mer positive nå og at det å legge det i kalenderen. Spre til ko
 Om det er noe som dukker opp er det bare å ta kontakt å høre.
 
 ?: Hvis vi skal ha et kurs hva gjør vi da?
+
 S: Bare å sende mail og spør også tar vi det derfra. 
+
 K: Ja og de er jo veldig fleksible så det burde ikke være noe problem.
 
 De legger det inn i kalender og hvis man skal ha noe den mandagen så sender man bare en mail og spør. 
 
 ## Hvorfor ingen bed-arr og kurs etter påske?
 I: Eksamensperiode.
+
 S: Ja men er jo flere som ikke har eksamner før langt ute i mai.
 
 I: Så en trend i høst og tidligere år at det blir mer labert utover, da folk har fokus på eksamen. Kjipt for begge parter når det er labert oppmøte. Ser dumt uttad.
@@ -241,14 +260,16 @@ I: Bachelor fristen vår var jo 5.mai og ha god tid før det.
 
 I: Litt det som har blitt sagt. Er jo veldig varierende. Er jo mange andre arrangement. 
 
-I: Fint med rom for lavterksel arr i den perioden. 
+I: Fint med rom for lavterskel arr i den perioden. 
 
 ?: Får vi inn like mye vederlag?
+
 S: Ja er 9-10. Har fylt opp kvota til det vi pleier å ha ++. 
 
 I: Ser gjerne mindre ut fordi flere samarbeids-arr. 
 
 I: Når vi har workshop kan man jo også komme inn på at man kan ha senere og pushe det litt. Eller synes dere det er en dårlig ide?
+
 S: Jeg synes det er bra å ha det tidlig. Ser dumt ut at vi har veldig få som kommer helt på slutten. 
 
 I: Bra med rom for mer lavterskel-arrangementer i eksamensperioden, så folk får litt avbrekk.
@@ -259,9 +280,15 @@ Kommer. Trengte litt juleferie.
 
 ## TODO´s
 [Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+
 []Magnus - Ta opp ITEX i bedkom. 
+
 []ALLE - Høre om ITEX, snakke med minst en person.
+
 []Robin - Ta med feminit-sak videre til feminit
+
 []Njål - Fikse slack-kanal for utveksling.
+
 []Soskom - Doodle om en plan.
+
 []Julekalender - Dele ut gavekort.
