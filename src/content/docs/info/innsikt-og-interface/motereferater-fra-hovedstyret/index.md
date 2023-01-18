@@ -7,6 +7,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 Møtereferater
 ------------------  
+### Vår 2023
+- [2023-17-01](2023-17-01) - Første møte i 2023 woho!
 ### Høst 2022
 - [2022-11-15](2022-11-15) - Jub-støtte, frister for referat, stormøter
 - [2022-11-09](2022-11-09) - Kalenderkræsj vol.2, FIF-erfaringsbank
