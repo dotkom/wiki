@@ -1,0 +1,267 @@
+---
+title: "Første møte i 2023 woho!"
+---
+
+**Møtetidspunkt:** 14.15  
+**Sted:** [R20](https://link.mazemap.com/v8zE7dHm)
+
+
+**Servering og referering:**  
+*1. ref*: Ingeborg   
+*2. ref*: Robin  
+*Servering*: Anders fix 
+
+
+**Straff:**  
+
+
+
+**Tilstede:** 
+Alle
+              
+
+
+**Mangler:** 
+
+
+## Innsjekk
+[Hvordan har dere det?]
+
+Alle har det bra og gleder seg til å starte. Sondre har hvit måned og er alene om det. 
+- - -
+
+[TOC]
+
+- - -
+
+## 152 Godkjenning av innkalling, servering og referat fra forrige uke
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+Innkalling - underkjent. 
+Servering - godkjent. 
+Referat - godkjent. 
+
+## 153 TODO´s fra forrige møte
+Ingen:)
+ 
+## 154 Status for komiteene (20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom: 
+Første møte. Meste er good. Arr på lokal (bar) avlyst, da de ikke kunne ha det. Går fint for er mye som skjer uken senere. Meld dere på maskeradeball folkens!
+
+#### Bedkom:  
+Ikke noe særlig som har skjedd. Booket techtalks, litt kaotisk og en del som må gjøres. Hatt juleferie. Mye stillingsannonser. 
+
+#### Dotkom:
+Starta opp med møte forrige onsdag, men var eksamen så lite ble gjort. Nye OW er oppstarta, og resten blir startet i morgen. Redwine er fungerende i praksis, men må fikse noen småting før den lanseres. 2 av 3 som jobbet der har sluttet, så må se an litt. 
+
+#### Fagkom:  
+Ikke gjort så mye siden sist. Booket ferdig ting til dette semesteret. Viktigste som står igjen er booking/workshop for å være tidlig på ballen til neste semester, for å slippe unødvendig kaos. Kanskje arrangement med Abakus og. Første kurs om 9 dager. 
+
+#### Prokom:  
+Første møte på torsdag, ingenting å melde frem til da.
+
+#### Trikom:  
+Har fått ny sofa! Første møte på torsdag med workshop for våren. En måned til blåtur, så det blir gøy!
+
+#### Økonomiansvarlig:
+Kaos når regnskapsåret er ferdig. Fakturerte Bekk 7,5k men skulle vært 10k. Mye surr. Revidert litt, mye føringer. Mye oppfølging. Avtalt revidering med abakus i tidlig februar. To uker på å gå over å se gjennom. 
+
+Planer om å snakke med bedkomøkans for å fakturere hsa. Snakket med Mia om hvordan gjøre ting lettere for neste leder og økans, slik at det blir bedre enn når de tok over.
+ 
+#### Nestleder: 
+[Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
+Gått fra wiki til notion. Vil ha generalforsamling for å få inn andreklassinger en uke før genfors. 
+
+Ikke snakket med de andre komiteene. 
+
+Har bare svart på mail, booket rom og annet kjedelig admin.
+
+#### Leder:
+Brukt en måned på å svare på mail. Hørt at alt går fint med alle. Mast på idi ang. bruk av deres møterom. Møte med IE i morgen ang. bruk av arealer. Maila med K og Heri ang. webtekeksamen og åre-kræsj. Funka Noice. Linjeledermøte i går. Imm blir fysisk på frimerket whoooop. Møte med studieprogram FØR frimerke sånn at alle har noen å gå med. Litt faddere og deling i faddergrupper o.l. Frivillighetsdagen til samf blir større. Få med velkom her.
+
+Se på priser på immball på tvers av alle, eller om noen betaler mer enn andre. Syke priser nå. STØH er flinke til å prute, og mange hoteller er villige til å godta dette - så det kan være noe å ha i mente.
+
+Samf ba oss om penger for å promotere kronerulling til nye bygget. Laget konkurranse for hvilken linjeforening som donerer mest penger. 
+
+Alle studenter har fått gratis adresseavisa fra og med nyttår. 
+
+## 155 Interkom (10 min) 
+[Her skal saker som angår tre eller flere komiteer]  
+Mindre komitearbeid på økansene i komiteene hadde vært fint, da de får mye i perioden fremover.
+
+
+## 156 ITEX-opptak (10 min)
+[Er det noen dere kan se for dere som kandidater? Må vurdere andre strategier for å få tak i folk, eventuelt gå litt hardere til verks]
+Må begynne å tenke litt nytt. Forslag på genfors og legge det under bedkom. Gir mening at mange fra ITEX at det kan passe seg bra. Ble nedstemt forrige genfors, men høre igjen. 
+I: Har snakket om det med fagkom, og folk er gira? Lurer på om det er gratis tur. 
+Ja, er gratis for alle. 
+
+I: Skal vi prøve nå i to uker og tenke litt og prate rundt med folk? Før vi eventuelt lener det på bedkom. 
+Ja god stemning
+
+
+I: Bedkom er mange nye, mange som forsvinner. Nok med å bare komme inn i komiteen. 
+
+I: Ingen grunn til å ta bedkom over fagkom i det vervet. Er kun booking. Strukturere litt, booke hotell og fly. Hvis mer kapasitet i fagkom så er det kanskje bedre. 
+
+?: Når blir mesteparten av vervet gjort?
+S: Spør når man starter. Var godtigang og ferdigbooka godt før sommerferien.
+
+
+?: når er det?
+S: uken etter fadderuken, rundt 1.september. 
+
+
+I: synes det er en god ide og legge det under bedkom fra neste år av. Så kan bedkom nå med suppulering og til høsten ha det i mente. Har alltid vært stress hvert år. Er jo egentlg ikke så mye arbeid, sier jeg som ikke vil selv, men ja. 
+
+?: Magnus, kan du ta opp i bedkom?
+S: Jepp skal gjøre det. 
+
+
+I: Ish timeline er starte intervju i begynnelsen av februar. 
+
+## 157 Feminit arrangement
+I: Har snakket med noen i dag ang. et arr for jenter innenfor doktorgrad. Vil derfor ha et arr for å gå videre i akadamia og vil gjerne belyse mer om det. Siden de er i feminIT havnet det litt der. Vil derfor bli med IDI med studenter, postdok, doktorstudenter osv. Foredrag også middag og mingling etterpå. Satser på støtte fra IDI til middag, burde ikke være et problem. Heller ikke ta noe betalt fro det som en bedpres eller et kurs. Lurte derfpr på om dette går litt over i fagkom og bedkom tenker, da det kan gå litt over i deres virke. Lurte også på om de går imot noen prinsipper i Online. Om vi har noen innvendinger. Ellers noe de bør ta hensyn til? Tentativt satt til slutten av April, per nå ikke gå utover noen arr, spesielt ikke for bedkom og fagkom sin del. 
+
+I: Ser ingen problemer for det
+I: Samme her. Tema som kunne vært attraktivt for hele Online, Kan bruke feminit som prøvekanin og se om folk er invitert. Føler ikke det går utover noen prinsipper. 
+
+?: Når var det?
+S: Slutten av april.
+
+I: Det eneste jeg kommer på er at litt det vi snakket om at det vi snakket om med kalenderkræsj. Men hvis det er da så burde jo ikke det bli noe problem. Som nevnt kan det jo være relevant for alle. Hva hvis IDI tenker at been there done that og ikke vil holde det to ganger, altså for gutter og. 
+S: IDI sliter sykt med å få postdok på datafag, så de vil nok gjerne gjøre det. 
+K: Ser ikke problemet med det. Ja er kult for alle, men det betyr ikke at vi ikke kan arrangere det for kvinner hvis vi er redd for at det skal floppe.
+
+
+I: Litt av grunnen til at det blir satt da er for å ikke kræsje med annet. Det er kanskje litt for sent for 4.klassingene, men får hvert fall hentet inn de yngre.
+
+I: Helt enig, føler folk er enige og. Tenker vi sier det er good. Så lenge det passer seg inn i kalenderen. 
+
+ --------                                       
+## 158 Promotering av eksterne vern/jobber(5 min)
+Orakeltjenesten og ISfit har sendt mail ang. promotering.]
+I: Fått inn en del i det siste. Er mye kult. Men eneste jeg ser på som problematisk er når det kræsjer med egne opptak. Er velkom, backlog, ITEX og enda mer. Synes det er litt vanskelig. Kanskje orakel er mer rett da det er jobb. ISfit er jo verv 
+
+S: Orakel er blestet allerede. 
+I: Er enig, bra med å bleste verv. Synes bare timingen er litt dårlig. Blir dumt hvis vi mister kandidater til andre ting. Orakel er noe annet da det er jobb. 
+
+I: Kan jo også bare legge det ut i karriere hvis vi er redd for at det skal ta fokus fra andre
+K: Synes egt det ikke bør være på karriere. 
+
+?: Med tanke på opptaksfrist, enten legger vi ut samtidig eller kan vi legge ut senere?
+S: Isfit arrangerer fra 8-20.februar. Så de holder nok på nå. 
+
+I: Tror folk er enige i at vi er gira for å bleste, men kanskje legge det mest etter våre egne og prioritere det. Passer det seg, så gjør vi det. Prioriterer egne verv.
+
+Folk er enige.
+
+
+## 159 Kan det være en ide å opprette noe for all infoen vi får ang. utveksling? (5 min)
+[Kan det være en ide å opprette noe for all infoen vi får ang. utveksling?]
+                                                                     
+[Mye spam, lite gira på å legge ut der alle som ikke bryr seg får infoen. Gjøre noe med det?]
+
+I: Vi får sykt mye mails ang. utveksling. Vet at folk er lei av spam på slack. Samtidig så er det nok mange som har nytte av det. En slackside eller en epost-liste man kan melde seg på?
+
+I: Tenker #utveksling på slack er nice. 
+?: Finnes ikke den allerede
+S: tror ikke det. 
+
+I: Går veldig i bølger. Søker første feb og på høsten en gang. 
+
+
+I: Synes #utveksling er en god ide. Ryddig og uten så mye spam. 
+
+Legger det bare ut på general og blester den der. 
+
+
+## 160 Budsjettoverføring fra forrige semester til maskeradeball (5 min)
+                                                   
+[Arrkom ønsker å flytte over penger til maskaradefesten som var satt av i fjorårets budsjett (ref mail)]
+
+Godkjennes ved akklamasjon.
+
+
+##  Eventuelt
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+FeminIT- Må de legge inn små arr i kalenderen hvis de ikke skal ha de på OW? De tenker å ha trening hver siste mandag i måneden, og tenker ikke OW arrangement så tenkte heller ikke å legge det i kalender. Lurte derfor på om det var greit.
+
+I: Tenker hvis ikke påmelding på OW så trenger man ikke kalender heller. 
+
+I: Så og si det samme. Det som ligger på kalenderen burde være på ow.
+
+I: Jeg er litt uenig. Kan være noe man tar hensyn til. Hvis det ikke ligger på kalenderen så kan det være fort gjort og arrangere noe da. Skjønner ikke hvorfor ikke ha det på OW og.
+
+I: Var ikke litt av poenget at de ikke ville konkurrere og vil at andre skal legge inn noe hvis de har det. 
+
+I: Tenker og at det ikke burde legges på kalenderen.
+
+I: Blir lettere å planlegge for alle hvis det ligger der.
+?: Er ikke hele poenget at de ikke skal måtte planlegge rundt det?
+S: Jo men hvorfor er det ikke greit at alle vet det i tilfelle man mister folk pga man ikke vet om arrangementene deres. 
+
+I: Når man ser på kalenderen så ser man ikke på ha det er, men heller bare når det er tatt. Så da hvis man ser noe så kan det godt hende at folk ikke arrangerer noe da siden da ser man at den treningen er der. 
+
+I: kan jo kalle det morgentrening eller lunsj, eller lignende så man ser det er på dagtid. 
+
+I: Man ser det jo, er jo bare å trykke seg inn. 
+S: Det jeg mente er at si den treningen er på mandag og trikom har lunsj onsdag. Da er det jo en forskjell for onsdag er for alle. Vi vet jo hvordan det funker, men kan jo godt hende andre ikke gjør det. 
+
+?: Har de avklart det her med OIL?
+s: Ja
+
+I: Er jo digg å ha det der, men problemet er at det blir lagt inn som heldags. Så kan se fullt ut når det egt ikke er det. Er jo helt fint å bare koordinere og spørre komiteene. Man kan jo se når arrangementet er og avklare. 
+
+I: Alle her vet jo at det blir tilfellet. At man tenker det er fullt. Og da kan jo vi si at det er good. 
+
+I: Arrkom har satt arr samtidig som bedkom. Er jo bare å høre. Går som regel fint når folk bare snakker sammen. De vurderte og å legge ut på ow sånn at folk skal få det med seg, og hva feminit driver med.
+
+I: Kort oppsummert, er jo ikke mer informasjon noe negativt. 
+
+Føler folk er mer positive nå og at det å legge det i kalenderen. Spre til komiteen at dette ikke ødelegger for andre arr. 
+
+Om det er noe som dukker opp er det bare å ta kontakt å høre.
+
+?: Hvis vi skal ha et kurs hva gjør vi da?
+S: Bare å sende mail og spør også tar vi det derfra. 
+K: Ja og de er jo veldig fleksible så det burde ikke være noe problem.
+
+De legger det inn i kalender og hvis man skal ha noe den mandagen så sender man bare en mail og spør. 
+
+## Hvorfor ingen bed-arr og kurs etter påske?
+I: Eksamensperiode.
+S: Ja men er jo flere som ikke har eksamner før langt ute i mai.
+
+I: Så en trend i høst og tidligere år at det blir mer labert utover, da folk har fokus på eksamen. Kjipt for begge parter når det er labert oppmøte. Ser dumt uttad.
+
+
+I: Bachelor fristen vår var jo 5.mai og ha god tid før det. 
+
+I: Litt det som har blitt sagt. Er jo veldig varierende. Er jo mange andre arrangement. 
+
+I: Fint med rom for lavterksel arr i den perioden. 
+
+?: Får vi inn like mye vederlag?
+S: Ja er 9-10. Har fylt opp kvota til det vi pleier å ha ++. 
+
+I: Ser gjerne mindre ut fordi flere samarbeids-arr. 
+
+I: Når vi har workshop kan man jo også komme inn på at man kan ha senere og pushe det litt. Eller synes dere det er en dårlig ide?
+S: Jeg synes det er bra å ha det tidlig. Ser dumt ut at vi har veldig få som kommer helt på slutten. 
+
+I: Bra med rom for mer lavterskel-arrangementer i eksamensperioden, så folk får litt avbrekk.
+
+
+## Notion
+Kommer. Trengte litt juleferie. 
+
+## TODO´s
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+[]Magnus - Ta opp ITEX i bedkom. 
+[]ALLE - Høre om ITEX, snakke med minst en person.
+[]Robin - Ta med feminit-sak videre til feminit
+[]Njål - Fikse slack-kanal for utveksling.
+[]Soskom - Doodle om en plan.
+[]Julekalender - Dele ut gavekort.
