@@ -96,7 +96,8 @@ Mindre komitearbeid på økansene i komiteene hadde vært fint, da de får mye i
 Må begynne å tenke litt nytt. Forslag på genfors og legge det under bedkom. Gir mening at mange fra ITEX at det kan passe seg bra. Ble nedstemt forrige genfors, men høre igjen. 
 
 I: Har snakket om det med fagkom, og folk er gira? Lurer på om det er gratis tur. 
-Ja, er gratis for alle. 
+
+S:Ja, er gratis for alle. 
 
 I: Skal vi prøve nå i to uker og tenke litt og prate rundt med folk? Før vi eventuelt lener det på bedkom.  
 
@@ -109,16 +110,19 @@ I: Bedkom er mange nye, mange som forsvinner. Nok med å bare komme inn i komite
 I: Ingen grunn til å ta bedkom over fagkom i det vervet. Er kun booking. Strukturere litt, booke hotell og fly. Hvis mer kapasitet i fagkom så er det kanskje bedre. 
 
 ?: Når blir mesteparten av vervet gjort? 
+
 S: Spør når man starter. Var godtigang og ferdigbooka godt før sommerferien.
 
 
 ?: når er det? 
+
 S: uken etter fadderuken, rundt 1.september. 
 
 
 I: synes det er en god ide og legge det under bedkom fra neste år av. Så kan bedkom nå med suppulering og til høsten ha det i mente. Har alltid vært stress hvert år. Er jo egentlig ikke så mye arbeid, sier jeg som ikke vil selv, men ja.     
 
 ?: Magnus, kan du ta opp i bedkom?
+
 S: Jepp skal gjøre det. 
 
 
@@ -281,14 +285,14 @@ Kommer. Trengte litt juleferie.
 ## TODO´s
 [Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
 
-[]Magnus - Ta opp ITEX i bedkom. 
+[] Magnus - Ta opp ITEX i bedkom. 
 
-[]ALLE - Høre om ITEX, snakke med minst en person.
+[] ALLE - Høre om ITEX, snakke med minst en person.
 
-[]Robin - Ta med feminit-sak videre til feminit
+[] Robin - Ta med feminit-sak videre til feminit
 
-[]Njål - Fikse slack-kanal for utveksling.
+[] Njål - Fikse slack-kanal for utveksling.
 
-[]Soskom - Doodle om en plan.
+[] Soskom - Doodle om en plan.
 
-[]Julekalender - Dele ut gavekort.
+[] Julekalender - Dele ut gavekort.
