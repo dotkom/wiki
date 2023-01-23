@@ -1,0 +1,50 @@
+---
+title: "Kandidater våren 2023"
+---
+
+## Innhold  
+* [2023 Forside](/wiki/online/generalforsamlingen/genfors2023v)   - Forside
+* [2023 Forretningsorden](/wiki/online/generalforsamlingen/genfors2023v/forretningsorden) - Forretningsorden
+* [2023 Dagsorden](/wiki/online/generalforsamlingen/genfors2023v/dagsorden) - Dagsorden for generalforsamlingen
+* [2023 Årsberetninger](/wiki/online/generalforsamlingen/genfors2023v/aarsberetninger) - Årsberetninger
+* [2023 Saksforslag](/wiki/online/generalforsamlingen/genfors2023v/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2023 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2023v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Kandidater](/wiki/online/generalforsamlingen/genfors2023v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+
+
+
+
+
+## Kandidater til verv  
+Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
+
+For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret i perioden 2023-2024.
+
+Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under generalforsamlingen.  
+
+**De som har meldt interesse til Hovedstyret er:**
+
+* *Leder:* 
+* *Nestleder:*   
+* *Økonomiansvarlig:*   
+
+
+**De som har meldt interesse til Fondstyret er:**
+
+* *Onlinemedlem:* 
+* *Tidligere hovedstyremedlem:* 
+* *Ridder:*
+
+**De som skal godkjennes som komitéledere er:**
+
+* *Appkomleder:*  
+* *Arrkomleder:*  
+* *Bankomleder:*   
+* *Bedkomleder:*   
+* *Dotkomleder:*  
+* *Debug:*  
+* *Fagkomleder:*  
+* *FeminIT:*  
+* *OIL-leder:*  
+* *Prokomleder:*  
+* *Trikomleder:*
