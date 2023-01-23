@@ -2,6 +2,7 @@
 title: "Smashkom"
 ---
 
+##Om interessegruppen:
 Interessegruppa for de som liker å spille Super Smash Bros. Gruppa er spesielt siktet inn mot de som spiller spillet på kontoret på vår Nintendo Switch. Gruppens aktiviteter består av casual spilling, småprat og turneringer.
 
 
