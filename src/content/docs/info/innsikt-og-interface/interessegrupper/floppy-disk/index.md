@@ -2,6 +2,7 @@
 title: "Floppy Disk"
 ---
 
+##Om interessegruppen:
 Dette er interessegruppen for de som liker å spille disk golf. Om du er nysgjerrig på sporten, bli gjerne med i #floppy-disk på Online slacken, og spør om å bli med!
 
 ## Historie
