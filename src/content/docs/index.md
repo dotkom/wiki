@@ -22,6 +22,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
 - [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
 - [Budsjett](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
+- [Generalforsamlingen](/wiki/online/generalforsamlingen)
 
 
 ### [Faglig](/wiki/online/info/faglig/)
