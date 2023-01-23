@@ -9,6 +9,21 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 [Informasjon til deg som Informatiker](/wiki/online/info/)
 ----------------------------------------------------------
 
+### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
+
+- [**Møtereferater fra Hovedstyret**](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
+- [Blæstekalender](https://docs.google.com/spreadsheets/d/1N4c01zclcgD0xs_RtDCqOVgs2GPOZB2Tx3pO7AIZrqI/edit#gid=1408777825) - Onlines blæstekalender. Alt som skal promoteres i Onlines sosiale kanaler må bli lagt inn først.
+- [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
+- [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
+- [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
+- [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
+- [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
+- [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
+- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
+- [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
+- [Budsjett](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
+
+
 ### [Faglig](/wiki/online/info/faglig/)
 
 - [Eksamen](/wiki/online/info/faglig/eksamen/) - Om konting, klaging, forbedring, og mer
@@ -31,20 +46,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - Ekstern: [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"} - Oversikt over alle vaffeldager og møter på kontoret
 - [Gullblekka](/wiki/online/gullblekka/) - Prisutdeling for linjeredaksjonene på Gløshaugen
 - [Skjemaer](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer/) - Kvitteringsskjema og andre hvis du har lagt ut for Online
-
-### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
-
-- [**Møtereferater fra Hovedstyret**](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
-- [Blæstekalender](https://docs.google.com/spreadsheets/d/1N4c01zclcgD0xs_RtDCqOVgs2GPOZB2Tx3pO7AIZrqI/edit#gid=1408777825) - Onlines blæstekalender. Alt som skal promoteres i Onlines sosiale kanaler må bli lagt inn først.
-- [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
-- [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-- [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
-- [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
-- [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
-- [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
-- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
-- [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
-- [Budsjett](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
 
 ### [Trivia](/wiki/online/info/trivia/)
 
