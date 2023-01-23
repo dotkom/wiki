@@ -3,7 +3,7 @@ title: "Generalforsamling våren 2023"
 ---
 
 ## Innhold
-* [2023 Forside](/wiki/online/generalforsamlingen/genfors2023)   - Forside
+* [2023 Forside](/wiki/online/generalforsamlingen/genfors2023v)   - Forside
 * [2023 Forretningsorden](/wiki/online/generalforsamlingen/genfors2023/forretningsorden) - Forretningsorden
 * [2023 Dagsorden](/wiki/online/generalforsamlingen/genfors2023/dagsorden) - Dagsorden for generalforsamlingen
 * [2023 Årsberetninger](/wiki/online/generalforsamlingen/genfors2023/aarsberetninger) - Årsberetninger
