@@ -8,7 +8,9 @@ Hvert år holder Online sin generalforsamling hvor alle onlinere har rett til å
 Gjeldende vedtekter for Online: [GitHub](https://github.com/dotkom/Onlines_Vedtekter)
 
 ## Fondets vedtekter
-Fondets vedtekter ble sist endret 22. mars 2022.  Fondets vedtekter finnes også på [Github](https://github.com/dotkom/Onlines_Fond_Vedtekter).
+Fondets vedtekter ble sist endret 22. mars 2022.  
+
+Gjeldende vedtekter for Fondet:  [Github](https://github.com/dotkom/Onlines_Fond_Vedtekter).
 
 ## Ekskursjonskomiteens vedteker 
 Ekskursjonskomiteens vedtekter ble sist oppdatert 24. september 2020.  
