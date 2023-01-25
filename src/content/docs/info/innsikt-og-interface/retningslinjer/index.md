@@ -31,3 +31,4 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Budsjettreglement](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/budsjettreglement-online/)
 - [Signatur](/wiki/online/info/innsikt-og-interface/retningslinjer/epostsignatur/)
 - [Debug](/wiki/online/info/innsikt-og-interface/retningslinjer/debug)
+- [Instagram](/wiki/online/info/innsikt-og-interface/retningslinjer/instagram)
