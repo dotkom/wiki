@@ -1,0 +1,227 @@
+---
+title: "23-01-2023"
+---
+
+**Møtetidspunkt:** 10.15  
+**Sted:** [Hovedbygget 423](https://link.mazemap.com/gpUD3VVU)
+
+**Servering og referering:**  
+*1. ref*: Robin   
+*2. ref*: Johannes  
+*Servering*: Robin  
+
+**Straff:**  
+
+**Tilstede:** 
+Røkla
+
+**Mangler:** 
+Ingeborg
+
+## Innsjekk
+[Hvordan har dere det?]
+
+- - -
+
+[TOC]
+
+- - -
+
+## 161 Godkjenning av innkalling, servering og referat fra forrige uke
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+
+
+
+
+
+## 163 Status for komiteene (20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom: 
+
+- Ikke har hatt møte siden sist
+- Maskeradeball neste lørdag blir første arrangement
+- Skal legge inn masse plakatbestillinger nå. 
+- Ikke så mye mer spennende enda
+
+#### Bedkom:  
+- Første møte og press på torsdag. God påmelding. 
+- Valgt nye bookingansvarlige, ws med fagkom.
+- Supperleringsopptak, intervju er allerede nå.
+- Tilbakemelding fra bedkom til hs om å ikke sende samme mail flere ganger. Skyldes glemt bcc ved videresending.
+
+#### Dotkom:
+- Litt vel optimistiske med nye vinstraffsystemet. Om vi legger ut det nye systemet nå, har det mindre funksjonalitet enn det gamle. 
+- Nye OW går faktisk fremover.
+
+#### Fagkom:  
+- Mest interne ting. Fremtidige kurs og sånt. Tatt opp nye i bookingrunden. 
+
+#### Prokom:  
+- Det kommer innkalling til årboksbilder innen måneden. Kan velge tidspunkt innenfor en ramme på to dager.
+
+#### Trikom:  
+- Har hatt første møte og ws. Lagt alle arr for semesteret. Mye arr som de hadde lyst til å ha, men ble litt mye. Folk ville ha flere arr enn i fjor. 
+- Vaffel i morgen og vors på fredag<3
+- Overgang til notion er påbegynt.
+
+
+#### Økonomiansvarlig:
+- Maskeradeballsaken er ikke noe hs kan godskjenne. Overføring av midler fra fjoråret til i år må gå gjennom fondet. Økte søknad for å få billettprisene litt billigere.
+- Første møte i går, reviderte, ferdig, regnskapsføring til helgen. ferdig før fellesrevidering m abakus.
+ 
+#### Nestleder: 
+[Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
+
+- Hatt intervju m velkomkandidater, og tatt opp ny leder og nestleder. 
+- Svart på mail og ymse admin<3 
+- Booka rom til ish alle komiteer.
+- Genfors styr allerede
+
+
+#### Leder:
+
+- Hørt med idi om å få tilgang på semesterundersøkelsen.  
+- Litt genfors. Nevn det i komiteene. Bleste valgene. Også komiteledervalg før generalforsamling, slik at de kan godkjennes. 
+- Medarbeidersamtaler
+
+## 164 Interkom (10 min) 
+[Her skal saker som angår tre eller flere komiteer]  
+
+#### Burde det være fellesopptak på våren?
+Mye opptak på våren. burde ha fellesopptak på høsten og våren.
+
+I: Kom mye på en gang. Pleier ikke være sånn. Kanskje samkjøre itex og velkom, men burde ikke gå sammen med vanlig opptak.
+
+I: Bedkom har hatt opptak på våren de siste tre årene
+
+I: vanskelig å planlegge at man skal ha opptak på våren, allerede på høsten, mange som finner ut at de skal på utveksling i mellomtiden.
+
+I: Tror det hadde vært mer surr om det hadde vært samtidig.
+S: Uenig.
+
+I: Forskjellige målgrupper på node og komite. Kan gjøre ting vanskeligere. Supplering til komiteene kunne vært samkjørt.
+
+?: Er det noe kalender på det? Burde man ha noe sånt system?
+S: Backlog spurte i høst, bedkom fant ut denne uka. Blir vanskelig å planlegge.
+
+?: Er det noe som er vedtektsfesta ifb. opptak på våren?
+S: Står ikke noe i vedtektene til Online.
+
+Konklusjon: Ble uoversiktlig i år. Bedkom og backlog burde vært samkjørt. Neste styret kan vurdere på høsten neste år om det er behov for å samkjøre suppelering på våren. 
+
+
+
+
+## 165 Blæsting av diverse arrangement som kommer inn (10 min)
+[Hva skal vi gjøre med forespørsler om blæsting av ulike former for undersøkelser og arrangement som skjer. Gjelder vel generelt for Online i hovedsak, men bedkom opplever også å få en del forespørsler om å blæste for arrangementer fra bedrifter. Ønsker vi å etablere en mer konsekvent vurdering av hva som skal blæstes for og ikke?]
+
+I: Kan påvirke vårt virke om det er tett på våre arrangementer, og kan oppfattes som sniking i køen og spam.
+
+I: Vi selger et produkt, så vi kan ikke dele tilsvarende arrangementer gratis - da skyter vi oss selv i foten. Greit dersom det ikke kræsjer med noen av våre arrangementer, og at det ikke er kommersielt, feks maraton osv. 
+
+I: Bleste eksterne bedriftsarrangementer skader bare oss selv. Andre arrangementer tas på case-2-case basis fra HS sin side. Bra som det er.
+
+I: Sitter m samme intrykk; uheldig for vår del.
+
+
+## 166 ITEX til Bedkom (10 min)
+[Har tatt opp i bedkom om vi kunne sett for oss å ha ansvaret for ITEX. Ja vi kan få til dette om det er ønskelig. Trenger da å ha dette i bakhodet når vi skal ha opptak. Dette er ikke noe vi opplever at, “vi bare må ha” til  oss, men jobben i seg selv er overkommelig og er noe vi kunne fått til.
+
+Pros:
+
+- Lettere med erfaringsoverføring
+- Kompetanse og erfaring på booking og dialog med bedrifter eksisterer allerede
+- Kunne brukt som en ekstra inntektskilde til Online
+- Per nå er det et mer nullprosjekt, vi mener vi kan ta mer betalt fra bedriftene
+
+Cons:
+
+- Vi i Bedkom opplever allerede at vi gjør ganske mye jobb på mange områder i Online, dette vil gi oss enda mer.
+- Fjerner en nodekomite fra Online, færre muligheter for folk å kunne få verv
+- Det er mye som gjøres i ITEX som ikke krever “bedkom-ansvar”, og kunne passet like bra for andre. Ref pkt. over]
+
+
+I: Er allerede en inntektskilde i det nye budskjettet, ikke lengre et nullprosjekt. Når det kommer til at man tar bort et verv har det historisk sett nesten bare folk som har verv som søker itex fra før.
+
+?: Hvordan ville det fungert i praksis? Er det da bedkom som er leder/nestleder, eller får de ansvar for å finne.
+S: Bedkom fikser alt er det som blir forspeilet.
+
+I: Om ikke annet blir det mest sannsynlig flere som får mulighet til verv, da bedkom må ta opp flere for å dekke arbeidet.
+
+?: Må det legges frem på generalforsamlingen? Og hvordan er det mtp. at det er blitt stemt ned før?
+S: Ja, må legges frem på generalforsamlingen. Burde gå bedre denne gangen. Ble rotete lagt frem sist, og litt annet ymse som trakk ned inntrykket rundt forslaget.
+
+I: Ble lagt frem litt rotete på genfors.
+
+I: Det gjøres sånn i abakus (at bedkom tar det).
+K: Burde være lett å selge inn ila. bookingrunden.
+
+I: Blir mye for økans.
+K: To økanser i bedkom.
+K: Å ta opp en økans som kun skal ta itex er lite kurant.
+K: Enig i å ta ha to økanser
+
+I: Enig i forslaget. Mindre overhead for hele Online. Det man kommer på som er dumt er at det blir lite frivillig internt i bedkom, da 3.klasse må ta det.
+K: Hender at folk som ikke egt. skal være med på turen blir med som arrangører. typ 2.klassinger.  ikke problematisk  
+
+I: Opp til bedkom om dette er noe de vil eller ikke. HS ser en fordel i det.
+
+?: Hvor mange er med i itex?
+S: Var 8 i fjor, og 6 året før.
+
+I: Virker som 8 er mye, krever ikke så mange så burde være ait.
+
+I: Tar mindre tid siden det (bedkom) er folk som har med dette å gjøre til vanlig.
+
+I: Bedkom burde fremme på generalforsamlingen, men HS burde absolutt være med.
+
+?: Er det en sak for denne generalforsamlingen, eller neste?
+S: Burde avklares  dette genforset, slik at bedkom kan ha det i mente i høstens opptak.
+
+I: 4 stykk fra bedkom i HS, så burde ha det i mente når det fremmes slik at folk ikke får feil inntrykk.
+
+## 167 Retningslinjer for innlegg/posting på instagram (10 min)
+[Det har vist seg at vi ikke har noe skrevet ned, kan være greit å få dunket ned noen setninger vi har å forholde oss til.]
+
+I: Viktig at de som er some-ansvarlige har adgang på ig. Er ikke hs som skal fikse.
+
+I: HS-wikien er kanskje dumt siden alle skal ha tilgang. mtp. selve retningslinjene burde det forbeholdes til online og deres arr. Ikke eksterne.
+
+I: Komitee-wiki, legge skriv der så alle komiteer har tilgang og det er nice å ha det et sted. 
+
+I: Blestekalenderen ligger på wikien, legge retningslinjene på samme sted?
+
+I: Ig er for onlinere og online-arrangementer, ikke for bedrifter, it-dager o.l.
+K: Blir litt som vi snakket om tidligere - sneket i køen. Gratis promotering >:(
+
+I: Har en egen oversikt med retningslinjer, har some-retningslinjer fra før - kan bare legge det der og formidle bra i ulike kanaler.
+
+I: Går ann å legge ut i slack-kanal i some-slacken, siden reglene allerede ligger der.
+
+I: På fb har vi blestekalender. Burde vi ha noe likt på IG?  
+K: Kun en per komite som har tilgang, så litt lettere å kordinere.
+
+I: Om det blir mye så er det bare å mekke blestekalender v2 for IG. 
+
+IG og some tas videre i prokom på ws på torsdag.
+
+## 168 For vagt kontaktskjema? (Debug)
+[Broderskabet holder på å opprette et varslingsorgan typ. Debug, og har sett på andre linjeforeninger til inspirasjon. Jeg fikk verbal kritikk på at vårt varslingskjema er av de dårligere, med høyere terskel for å sende inn noe. Per nå har vi tre felter: et obligatorisk e-postfelt, fritekst, og hvordan man vil bli kontaktet. Tanken var at det kan være lettere å komme i gang med å ta kontakt dersom man har flere del-spørsmål å svare på ("Har du forslag eller ønsker til saksgangen i din henvendelse?", "Ønsker du å være anonym?", "Ønsker du å ekskludere noen i Debug fra saken?" etc.) Bruk av kategoriel el. kan også senke terskelen for hva folk føler de kan sende inn. Tanker rundt dette? Er det noe vi vil ta videre til Debug?]
+
+I: Enig, skader ikke å ta det opp med debug. Anonymitet har blitt tatt opp før.  Vanskelig med anonymitet, da vi ikke vil så i en situasjon hvor det ikke er mulig å følge opp og verifisere situasjoner. Overveldende med mye felt, som ikke nødvendigvis er så relevante. Slik det er nå er det åpent, og det blir som man gjør det til og man kan styre ettersom det man er komfortabel med. Ekskludering av medlemmer i debug i skjemaet blir rart når alle mottar skjemaet. Må isåfall finne en løsning for kontakt på et annet vis. 
+
+I: Kan sende videre til debug uns. All input er god input.
+
+I: Enig. Lite informasjon. Mer tekst om hvordan ting blir behandlet.
+
+I: Burde stå mer. Kort tekst, lang tekst o.l. Ble tatt opp på genfors at en løsning kanskje burde være at kun leder av debug får innsendingene. Har ikke automatisk tillit til alle sammen.
+
+I: Kontaktskjemaet burde være så enkelt at selv en førsteklassing som har vært her i en dag burde skjønne det.
+
+
+## Diggepunkt
+[Alle må digge noe] 
+
+## Møteevaluering
+[Ris/ros til hvordan møtet har gått]
