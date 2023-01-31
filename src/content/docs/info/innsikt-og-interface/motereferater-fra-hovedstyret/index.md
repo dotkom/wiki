@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2023
+- [2023-30-01](2023-30-01) - Lederbånd & SOME
 - [2023-23-01](2023-23-01) - Komiteer, opptak og IG
 - [2023-17-01](2023-17-01) - Første møte i 2023 woho!
 ### Høst 2022
