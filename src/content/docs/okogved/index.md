@@ -6,6 +6,13 @@ I forkant av Onlines generalforsamling arrangerer Hovedstyret en økonomi- og ve
 
 Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
+**Økonomi- og vedtektskvelden Våren 2023 finner sted 15. Februar kl. 16.15 i ???.**  
+
+* [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden23v)  
+* [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2023v/vedtekstforslag)
+* [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2023v/saksforslag)
+* [attachment:828]
+
 **Økonomi- og vedtektskvelden høsten 2022 finner sted 21. September kl. 16.15 i Verkstedteknisk: VE1.**  
 
 * [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden22h)  
