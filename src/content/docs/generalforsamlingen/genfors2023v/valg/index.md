@@ -27,7 +27,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Leder:* Carolina Gunnesdal
 * *Nestleder:* Ida Matre  
 * *Økonomiansvarlig:* Johanna Wilmers
-* *Styrerepresentant for Trikom (Dersom Carolina blir leder):*
+* *Styrerepresentant for Trikom (Dersom Carolina blir leder):* Frida Eriksen Næss
 
 
 **De som har meldt interesse til Fondstyret er:**
