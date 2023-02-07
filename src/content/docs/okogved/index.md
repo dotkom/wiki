@@ -8,7 +8,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden Våren 2023 finner sted 15. Februar kl. 16.15 i Hovedbygninger: H3.**  
 
-* [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden23v)  
+* [Dagsorden](https://docs.google.com/spreadsheets/d/1qeyaBaib49N1UWHiVj5FqUcoujfN0kPGiuQqPCAeBqo/edit?usp=sharing)  
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2023v/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2023v/saksforslag)
 
