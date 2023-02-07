@@ -12,7 +12,7 @@ title: "Generalforsamling våren 2023"
 * [2023 Kandidater](/wiki/online/generalforsamlingen/genfors2023v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Presentasjon: [Generalforsamling 2023](https://docs.google.com/presentation/d/17-HMuvhAHn0pFBuJEWHEe1OR3LuXiJ1LsygS1bGVNrw/edit#slide=id.g117e74ac807_2_94)  
+Presentasjon: [Generalforsamling 2023](https://docs.google.com/presentation/d/17-HMuvhAHn0pFBuJEWHEe1OR3LuXiJ1LsygS1bGVNrw/edit?usp=sharing)  
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)    
 Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Referat 2023:  []	
