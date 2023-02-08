@@ -34,7 +34,7 @@ For at en generalforsamling skal være beslutningsdyktig må det laveste mellom 
 
 Blanke stemmer er ikke tellende, med mindre annet er spesifisert.
 
-Votering gjennomføres ved bruk av elektronisk stemmesystem utviklet av drift- og utviklingskomiteen, så lenge dette er tilgjengelig. Ved mangel på elektronisk stemmesystem benyttes stemmegiving på papir.
+Votering gjennomføres ved bruk av elektronisk stemmesystem på [vedtatt.no](https://vedtatt.no/), så lenge dette er tilgjengelig. Ved mangel på elektronisk stemmesystem benyttes stemmegiving på papir.
 
 ### 3.1 Saker
 Alle saker på generalforsamlingen avgjøres ved alminnelig flertall, med mindre annet er spesifisert.
