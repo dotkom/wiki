@@ -49,6 +49,6 @@ Vel møtt!
 
 ## Link til stemmesystem
 
-[https://genfors.online.ntnu.no/](https://genfors.online.ntnu.no/)
+[https://vedtatt.no/](https://vedtatt.no/)
 
 Du må være tilstede for å ha stemmerett og kunne bli stemmeberettiget.
