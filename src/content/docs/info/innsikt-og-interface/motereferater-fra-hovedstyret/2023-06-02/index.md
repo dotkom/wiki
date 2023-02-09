@@ -92,19 +92,17 @@ title: "06.02.2023"
 - Sett på litt saker og ting som neste styre kan jobbe med.
 - Laga genfors trello, og begynt å se på det
 
-## 185 Interkom (10 min) 
+## 185 Interkom (10 min)  
 [Her skal saker som angår tre eller flere komiteer]  
 
-[sak]: Lang og tro skal deles ut.
+[sak]: Lang og tro skal deles ut.   
 - Alle ledere må sende inn hvem som skal få LOT til genfors.
 
-[sak]: Endring av tilbakemeldingskjema
+[sak]: Endring av tilbakemeldingskjema 
 - Ha en idéboks på kontoret med forslag til ulike typer ideer til arrangement.
 - spm: Er det noen fordel å ha fysisk boks istedet for digitalt skjema?
     - sparer tid på utvikling
     - lavere terskel for å sende inn. 
-
-[TODO] Johannes fikser idéboks til kontoret!
 
 
 
@@ -113,12 +111,11 @@ title: "06.02.2023"
 
 
 Usikkert hvilket lokale det blir på, så vet ikke om det blir scene eller ikke Vanskelig å finne lokale ettersom det er på en lørdag
-Forslag:
+Forslag: 
 - Sjømanns
 - schiboli
 - nardo klubbhus
-- sukkerhuset
-    - tatt
+
 
 Vi har også diskutert premier man kan auksjonere bort
 
@@ -141,7 +138,7 @@ Vi har også diskutert premier man kan auksjonere bort
 
 Tar saken om representasjons budsjett videre neste møte.
 
-[Sak] Prikkregler 
+[Sak] Prikkregler  
 - Føler ikke det er nødvendig å få med det at man selv er ansvarlig for å sjekke om man har plass, ettersom det er egentlig en bug.
 - Synes og det er helt fair å ha oblig oppmøte på mingling på bed. arr. 
 - spm: Når det er mingling på et arrangement, er tiden for mingling også inkludert i tiden på ow?
