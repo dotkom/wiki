@@ -99,6 +99,7 @@ title: "06.02.2023"
 - Alle ledere må sende inn hvem som skal få LOT til genfors.
 
 [sak]: Endring av tilbakemeldingskjema 
+
 - Ha en idéboks på kontoret med forslag til ulike typer ideer til arrangement.
 - spm: Er det noen fordel å ha fysisk boks istedet for digitalt skjema?
     - sparer tid på utvikling
