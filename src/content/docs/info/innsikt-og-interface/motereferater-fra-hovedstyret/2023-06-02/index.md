@@ -140,6 +140,7 @@ Vi har også diskutert premier man kan auksjonere bort
 Tar saken om representasjons budsjett videre neste møte.
 
 [Sak] Prikkregler  
+
 - Føler ikke det er nødvendig å få med det at man selv er ansvarlig for å sjekke om man har plass, ettersom det er egentlig en bug.
 - Synes og det er helt fair å ha oblig oppmøte på mingling på bed. arr. 
 - spm: Når det er mingling på et arrangement, er tiden for mingling også inkludert i tiden på ow?
