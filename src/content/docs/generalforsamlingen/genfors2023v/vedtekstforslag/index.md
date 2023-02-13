@@ -115,7 +115,7 @@ Det å legge ansvaret underlagt Itex over til Bedkom ser vi på som en god mulig
  
 Vi vil gjerne gjenta at hovedintensjonen med dette vedtektsforslaget er å bidra til å sikre at Itex blir mulig å gjennomføre hvert år. Ved å flytte dette over til Bedkom tror vi at vi vil kunne skape dette til et mer solid produkt vi kan tilby våre samarbeidspartnere. Dette vil uten tvil være med på å sikre at flere Onlinere sikrer seg gode jobbtilbud tidlig, og vil skape et viktig fortrinn i forhold til andre konkurrerende søkere.  
 
-**Før**:
+**Før**:  
 4.3.4 Informatikeres IT-ekskursjon  
 
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.
