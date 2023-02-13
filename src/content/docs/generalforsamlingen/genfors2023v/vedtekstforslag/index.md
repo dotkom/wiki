@@ -120,5 +120,5 @@ Vi vil gjerne gjenta at hovedintensjonen med dette vedtektsforslaget er å bidra
 
 Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst. Komiteens navn forkortes Itex.
 
-**Endring:** 
+**Endring:**   
 **Stryke vedtekt 4.3.4 Informatikeres IT-ekskursjon**
