@@ -107,7 +107,9 @@ minst to (2) semester.** Leder av backlog godkjennes av Hovedstyret.
 **Bakgrunn:**   
 Informatikeres IT-ekskursjon, heretter kalt «Itex» er i dag en nodekomité underlagt Bedriftskomiteen, heretter kalt «Bedkom». «Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter hver høst» der studentene har muligheten til å møte potensielle arbeidsgivere. Turen innebærer at Onlines studenter besøker bedrifter i Oslo på dagsbesøk og kveldsbesøk på lokalene til forskjellige bedrifter over flere dager. Arbeidsoppgavene til komiteen går ut på å booke bedrifter, planlegge og arrangere turen.
 
-**Begrunnelse:**  Itex er et viktig tilbud for arbeids-aktuelle informatikkstudenter. Dette gir en unik mulighet til å besøke høyst sentrale bedrifter i IT-bransjen. Turen har vært arrangert siden 2014 og vært en viktig arena for at mange sikrer seg både fast-jobb og sommerjobber allerede i starten av august. Dette er allerede et produkt vi i Bedkom tilbyr våre samarbeidspartnere gjennom våre samarbeidsavtaler. I det siste har det å rekruttere kandidater til å ta ansvar for denne turen vært en vanskelig prosess. I år har søknaden vært åpen i over to måneder, uten noen kandidater til leder/nest-leder. Dette er også noe som har vært vanskelig å rekruttere til de siste årene. En ekskursjon i omfang som Itex er svært avhengig av at studenter i Online bidrar til gjennomføring og arrangering av en slik tur, slik er det ikke i dag. 
+**Begrunnelse:**   
+
+Itex er et viktig tilbud for arbeids-aktuelle informatikkstudenter. Dette gir en unik mulighet til å besøke høyst sentrale bedrifter i IT-bransjen. Turen har vært arrangert siden 2014 og vært en viktig arena for at mange sikrer seg både fast-jobb og sommerjobber allerede i starten av august. Dette er allerede et produkt vi i Bedkom tilbyr våre samarbeidspartnere gjennom våre samarbeidsavtaler. I det siste har det å rekruttere kandidater til å ta ansvar for denne turen vært en vanskelig prosess. I år har søknaden vært åpen i over to måneder, uten noen kandidater til leder/nest-leder. Dette er også noe som har vært vanskelig å rekruttere til de siste årene. En ekskursjon i omfang som Itex er svært avhengig av at studenter i Online bidrar til gjennomføring og arrangering av en slik tur, slik er det ikke i dag. 
  
 Etter dialog i Hovedstyret er det kommet frem til å legge dette ansvaret over til Bedkom. Vi har diskutert dette internt i Bedkom og kommet frem til at dette er noe vi kunne sett for oss å ha ansvaret for. 
 
@@ -122,3 +124,59 @@ Komiteens hovedoppgave er å arrangere ekskursjon til Oslo for masterstudenter h
 
 **Endring:**   
 **Stryke vedtekt 4.3.4 Informatikeres IT-ekskursjon**
+
+## Vedtektsforslag 04: Spesifisere sekundær genfors v/ Anders Robstad
+
+**Bakgrunn:**
+
+Etter tilbakemeldinger fra Organisasjonskollegiet etter de hadde sett over noen av vedtektene våre ønsker vi å endre spesifiserignen av to generalforsamlinger i året. En organisasjon kan ikke ha mer enn en generalforsamling i året, men vi kan planlegge å avholde en sekundær generalforsamling. 
+
+Derfor er dette forslaget bare en spesifisering av at generalforsamlingen som holdes på våren er den ordinære forsamlingen vår, mens den på høsten er en sekundær forsamling. 
+
+**Før:**  
+
+§ 5 Generalforsamlingen
+
+Generalforsamlingen er linjeforeningens øverste organ. **Det avholdes to generalforsamlinger årlig, én i løpet av vårsemesteret, og én i løpet av høstsemesteret.**
+
+Begge forsamlingene skal behandle **årsmelding**, innsendte saker og vedtektsendringer. **Vårforsamlingen** skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, valg av tre medlemmer til en ny valgkomité og valg av hovedstyret. 
+
+§ 4.1.4 Valg av Hovedstyre
+
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
+
+Ved **vår-**generalforsamlingen utlyses:
+
+- Leder
+- Nestleder
+- Økonomiansvarlig
+
+Ved **høst-**generalforsamlingen utlyses:
+
+- Øvrige styrerepresentanter
+
+...
+
+**Etter:**
+
+§ 5 Generalforsamlingen
+
+Generalforsamlingen er linjeforeningens øverste organ. **Det skal avholdes ordinær generalforsamling på vårsemesteret, og sekundær generalforsamling på høsten. **
+
+Begge forsamlingene skal behandle **halvårsmelding**, innsendte saker og vedtektsendringer. **Ordinær generalforsamling** skal i tillegg behandle valg av nytt fondsstyre, regnskap for foregående år, valg av tre medlemmer til en ny valgkomité og valg av hovedstyret.
+
+§ 4.1.4 Valg av Hovedstyre
+
+Verv i Hovedstyret varer normalt i to semestere og utlyses ved generalforsamlinger. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
+
+Ved **ordinær** generalforsamlingen utlyses:
+
+- Leder
+- Nestleder
+- Økonomiansvarlig
+
+Ved **sekundær** generalforsamlingen utlyses:
+
+- Øvrige styrerepresentanter
+
+...
