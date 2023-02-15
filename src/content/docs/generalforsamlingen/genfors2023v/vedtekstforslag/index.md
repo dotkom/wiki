@@ -180,3 +180,36 @@ Ved **sekundær** generalforsamlingen utlyses:
 - Øvrige styrerepresentanter
 
 ...
+
+## Vedtektsforslag 05: TechTalks som gruppering v/ Hanna Vestvik og Ida Matre
+
+**Bakgrunn**:   
+
+Tech Talks er Onlines fagdager som arrangeres for inntekt til hovedekskursjonen. Ansvaret for arrangementet fordeles mellom ekskom, fagkom og bedkom, og rollefordelingen blir utarbeidet mellom HS og ekskom i form av en intensjonsavtale. Da Tech Talks ikke har blitt arrangert på flere år, mangler det både erfaringsoverføring og kunnskap rundt arrangeringen av et slikt arrangement. Dette har ført til at komiteene har hatt vanskeligheter med å følge opp intensjonsavtalen. Samtidig har medlemmene fra de ulike komiteene allerede mye å gjøre i sine respektive verv, noe som har resultert i at planleggingsfasen har blitt nedprioritert, og at bookingrunden ble pushet til slutten av desember. Mye av planleggingen ble derfor gjort i måneden før Tech Talks, noe som føltes både hastet og uorganisert.
+
+Ved å vedtektsfeste Tech Talks i Onlines vedtekter er formålet å tydeliggjøre for komiteene hvilke ansvarsområder de har, samt styrke og forbedre samarbeidet mellom komiteene. Vedtekten vil ikke ha noen påvirkning på komiteenes virke, men mer en forsikring om at komiteenes ansvarsområder følges opp.
+
+**Endring: **  
+**Legge til ny vedtekt**  
+
+Legge til vedtekt 4.4.7 Tech Talks
+
+Tech Talks er et faglig arrangement som arrangeres  av medlemmer fra Bedriftskomiteen, Fag- og kurskomiteen, og Ekskursjonskomiteen. Gruppens hovedoppgave er å sammen planlegge og gjennomføre Tech Talks. Fagkom har hovedansvar for organiseringen av Tech Talks, bedkom har ansvar for å bistå i bookingprossessen av bedrifter. Medlemmer fra ekskom stilles disponibel til å aktivt kunne delta i gjennomføringen av Tech Talks.
+
+## Vedtektsforslag 06: Debugmedlemmer kan ikke være med i HS v/ Robin Sadun og Carolina Gunnesdal
+
+**Bakgrunn:** 
+
+Både HS og Debug har tillitsroller, uten at disse rollene nødvendigvis overlapper i f.eks personalsaker. Det er og visse ting som kommer til debug som ikke trenger å dukke opp hos noen i Hovedstyret, og motsatt. Dette har ikke vært en case tidligere, da Debug er en relativt ny ting og de som har overlappet frivillig har permittert seg derfra. Vi ønsker at dette ikke skal være opp til personen, da interessekonflikten uansett vil være der.
+
+**Før:**  
+
+4.1.3 Krav til kandidater
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen.
+
+**Etter:**  
+
+4.1.3 Krav til kandidater
+
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. **Dersom kandidaten er med i Debug, må de permitteres fra dette vervet.**
