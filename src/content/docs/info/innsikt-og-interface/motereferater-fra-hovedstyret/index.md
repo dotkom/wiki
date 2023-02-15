@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2023
-- [2023-13-02](2023-13-02) - 
+- [2023-13-02](2023-13-02) - Debug i styret, representasjonsmidler, prikkregler mingling
 - [2023-06-02](2023-06-02) - Forb. generalforsamling og representasjon
 - [2023-30-01](2023-30-01) - Lederbånd & SOME
 - [2023-23-01](2023-23-01) - Komiteer, opptak og IG
