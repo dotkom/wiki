@@ -100,6 +100,7 @@ Innkalling er godkjent, begge serveringene er good.
 
 ## 193 Debug-medlemmer i Hovedstyret (10 min)
 [Jeg kom til å tenke på at per nå er det en mulighet for at debug-medlemmer kan sitte i HS. Ettersom Debug skal være et separat organ i Online, mener jeg det går litt mot sin hensikt om man da kan ha verv i både Debug og HS samtidig. En annen tanke er at terskelen for å varsle og melde inn saker kan bli høyere dersom man vet at det medlemmer i Debug som også sitter i styret. Mulig vi burde legge til noe om dette i interne retningslinjer. Er dette noe vi ønsker å se på?]
+
 + Jeg er enig, kan bli interessekonflikt å sitte både i Debug og i HS samtidig. Er greit å skille rollene gjennom vedtekter f.eks. 
 + Forslår endring i vedtekter. Enten under HS eller Debug. 
 + Tenker det er mest hensynsmessig at det står under hs, ettersom man mest sannsynlig søker hs når man er i debug og ikke motsatt.  
