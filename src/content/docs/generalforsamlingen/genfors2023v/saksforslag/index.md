@@ -23,6 +23,16 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag 
 
-## Sak x - Tittel
+## Sak 01: Øke støtten til jubileum v/ Henrik Horten Hegli
+
+**Bakgrunn:**  
+
+Grunnet økende utgifter ved arrangering av jubileum ser vi et økt behov for mer penger til jubileum. Det ble satt av penger til dette ved budsjettmøte i november, slik at vi kan starte med den ekstra sparingen til neste jubileum allerede i år uten å måtte kutte noen andre steder i budsjettet. Hvis generalforsamlingen ikke ønsker å godkjenne dette saksforslaget vil disse pengene bli omfordelt i sommer og brukes på høstsemesteret. 
+
+**Forslag:**  
+
+Øke den årlige støtten til jubkom med 20.000,- til totalt 50.000,- i året.
+
+## Sak 02: Organisasjonsstrukturen til Online v/ Anders Robstad og Robin Lund Sadun
 
 **Forslag:**
