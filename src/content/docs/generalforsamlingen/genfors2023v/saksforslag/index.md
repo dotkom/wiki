@@ -33,7 +33,7 @@ Grunnet økende utgifter ved arrangering av jubileum ser vi et økt behov for me
 
 Øke den årlige støtten til jubkom med 20.000,- til totalt 50.000,- i året.
 
-## Sak 02: Organisasjonsstrukturen til Online v/ Anders Robstad og Robin Lund Sadun
+## Sak 02: Sette ned Arbeidsgruppe for Onlines organisasjonsstruktur v/ Anders Robstad og Robin Lund Sadun
 
 Ordlyd kommer fortløpende.
 
