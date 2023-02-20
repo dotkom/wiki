@@ -25,7 +25,25 @@ title: "Årsberetninger våren 2023"
 
 
 ## Arrangementskomiteen  
+- De nye medlemmene har kommet godt inn i gruppa!
+- Generelt har de fleste arrangementene vært fra gjennomført, hadde en case med medbrakt drikke på Rockheim og dårlig oppførsel på noen arrangementer. Sendt ut mail om dette og håper at folk forstår alvoret med at vi får dårlig forhold til lokaler i fremtiden.  
+- Miljøtiltak 
 
+### Vår 2023
+- Åre 
+- Maskeradeball
+- Paint n sip
+- Rave
+- Cava
+- Quiz
+- Bar til bar
+- Veldedighetsfest
+- Samarbeidsarrangement med TIHLDE og Abakus
+- Hybel til hybel
+- Komiteseminar
+- Havet
+- Utmatrikulering 3. og 5. klasse
+- Immatrikuleringsball 2023
 
 
 ## Bank- og økonomikomiteen  
