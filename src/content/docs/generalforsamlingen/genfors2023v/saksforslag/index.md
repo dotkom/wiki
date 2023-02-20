@@ -35,19 +35,8 @@ Grunnet økende utgifter ved arrangering av jubileum ser vi et økt behov for me
 
 ## Sak 02: Organisasjonsstrukturen til Online v/ Anders Robstad og Robin Lund Sadun
 
-**Bakgrunn:**  
+Ordlyd kommer fortløpende.
 
+## Sak 03: Techtalks v/ Hanna Vestvik og Ida Matre
 
-Online har vokst mye de siste årene, og vi har i løpet av kort tid fått tre nye komiteer. Til tross for dette så har ikke organisasjonsstrukturen til Online endret seg noe, og man kan se litt problemer med dette når det kommer til kommunikasjonsflyt i linjeforeningen. 
-
-Vi har per i dag 11 komiteer og 4 nodekomiteer. Av disse så er det kun 6 av komiteene som er direkte representert i Hovedstyret gjennom en styrerepresentant. Komiteene uten styrerepresentant har nestleder av Online som kontaktpunkt, kontra de andre som har en spesifikk styrerepresentant. Dette kan gjøre at terskelen for å ta kontakt med HS, og få informasjon fra HS blir vanskeligere. 
-
-Man kan se eksempler hos andre linjeforeninger, som feks [Abakus Organisasjonskart](https://abakus.no/pages/organisasjon/109-organisasjonskart). De valgt å samle flere komiteer i grupper, også blir det valgt inn én gruppeansvarlig fra hver av de som sitter i hovedstyret. Dette gjør at alle komiteene får en person som har ansvaret for at komiteen deres har et enkelt kontaktpunkt til styret, uten at styret trenger å bli for stort. 
-
-Vi har ikke noe konkret forslag til løsning på dette, men ønsker å diskutere litt her slik at vi kan se an om det er noe vi burde fremme et saksforslag på generalforsamlingen om. 
-
-**Forslag:**
-
-Ingen konkret forslag enda, men vi ønsker å starte en liten diskusjon på punktet for å se om dette er noe Online burde ta en titt på til neste generalforsamling. 
-
-Dersom noen har forslag til hva som burde gjøres, eller tanker om dette med Online sin organisasjonsstruktur ønsker vi veldig gjerne høre det her.
+Ordlyd kommer veldig snart.
