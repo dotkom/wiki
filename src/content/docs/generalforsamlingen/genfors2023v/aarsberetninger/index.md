@@ -77,7 +77,19 @@ title: "Årsberetninger våren 2023"
 
 
 ## Profil- og aviskomiteen
-
+- Plakatbestillinger
+- Offline
+     - Sluppet 2 utgaver
+- Nettredaksjon
+     - 1 nettartikkel
+- Årbok
+    - Tatt bilde av alle komiteer
+- Merch
+    - Holdt merchkonkurranse
+- SoMe
+    - Laget Slack med 3 prokomrepresentanter
+- Miljø
+    - Kortreist merch for mindre klimaavtrykk
 
 
 ## Trivselskomiteen
