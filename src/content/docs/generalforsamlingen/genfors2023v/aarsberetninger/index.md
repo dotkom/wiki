@@ -53,6 +53,20 @@ title: "Årsberetninger våren 2023"
 ## Bedriftskomiteen
 
 
+- Gjennomført suppleringsopptak v23, tok opp tre nye medlemmer 
+- Planlagt Oslotur
+- Signert ny kaffeavtale med Netlight.
+
+- Støttet Kid under 1 arrangement. 
+- Gjennomført  bedriftsarrangementer:
+- Annonse til offline
+- Vært med på planleggingen av Tech Talks. 
+- Støttet kid under 1 arrangement. 
+- Gjennomført og planlagt x bedarr. 
+- Deltatt på LS møte.
+- Signert ny Uka avtale i forbindelse med LS 
+- Lagt ut 139 +++ stillingsannonser 
+
 
 ## Drifts- og utviklingskomiteen
 
