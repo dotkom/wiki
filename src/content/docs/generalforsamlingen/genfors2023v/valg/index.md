@@ -41,7 +41,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Appkomleder:*  
 * *Arrkomleder:*  
 * *Bankomleder:*   
-* *Bedkomleder:*   
+* *Bedkomleder:* Ingrid Helene Kvitnes. 
 * *Dotkomleder:*  
 * *Debug:*  
 * *Fagkomleder:*  
