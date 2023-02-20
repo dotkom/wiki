@@ -260,21 +260,6 @@ HS godkjenner Sebastian Hegreberg og Sondre Stokke som leder og nest-leder av IT
 ## TODO´s
 [Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
 
-
-- [ ] Hegli må følge opp datakam dame kontrakt
-- [ ] Anders følger opp Hanna og leder-valg for tirsdag. (Ekskom)
-- [ ] Magnus mailer kristika
-- [ ] Robin skal se over finskrevet referat fra genVORS
-- [ ] Tråd på slack for kandidater til debug. Frist onsdag
-- [ ] Anders snakker med leder i OIL om arrangør t-skjorter 
-- [ ] Sondre hører med prokom angående merch-diskusjonen
-- [ ] Hegli hører med bankkom angående merch-diskusjonen
-- [ ] Anders fikser ordlyd om arbeidsgruppe om organisasjonsstrukturen i Online.
-- [ ] Hegli, Robin, Caro og Anders skal skrive erfaringsskriv. (Før nye styret)
-- [ ] Alle som fortsetter. Chat for fortsettende styre om veldedighetsfest. 
-- [ ] Ta opp veldedighetsfest internt i komite. 
-
-
 Årsberetning og lang og tro tjeneste fra alle komiteer. Ny leder skal legges inn for genfors-wiki. Ledere må skrive erfaringsskriv. Helst innen onsdag. 
 
 ## Diggepunkt
