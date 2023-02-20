@@ -160,3 +160,5 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjefore
 4.1.3 Krav til kandidater
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. **Dersom kandidaten er med i Debug, må de permitteres fra dette vervet.**
+
+# Forslag til Fondets vedtekter
