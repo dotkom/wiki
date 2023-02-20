@@ -23,7 +23,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 # Forslag til Onlines vedtekter
 
 
-## Vedtektsforslag 01: Godkjenning av Backlogleder V1 v/ Milla Weium
+## Vedtektsforslag 01: Godkjenning av Backlogleder v/ Milla Weium
 
 **Bakgrunn**: I vedtektene under 4.2 Komiteer står det at alle komiteers lederkandidat, med
 unntak av nodekomiteer, skal godkjennes på generalforsamlingen. I backlogs vedtekter (4.2.8)
@@ -46,27 +46,7 @@ assistanse i linjeforeningens daglige drift. Komiteens medlemmer skal
 primært bestå av medlemmer som har hatt et aktivt verv i linjeforeningen
 i fire (4) semester.
 
-## Vedtektsforslag 01: Godkjenning av Backlogleder V2 v/ Milla Weium
-
-**Bakgrunn:** Samme som over, men fremmes kun dersom det første forslaget ikke blir fremmet. 
-
-**Endre vedtekt 4.2 Komiteer**
-
-Fra:  
-...  
-
-Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i
-komiteen før vårens generalforsamlingen avholdes, og godkjennes av
-generalforsamlingen ved alminnelig flertall.
-
-Til:  
-...  
-
-Komiteens lederkandidat, med unntak av nodekomiteer **og backlog**,
-velges internt i komiteen før vårens generalforsamlingen avholdes, og
-godkjennes av generalforsamlingen ved alminnelig flertall.
-
-## Vedtektsforslag 02: Backlogs medlemssammensetning V1 v/ Milla Weium 
+## Vedtektsforslag 02: Backlogs medlemssammensetning v/ Milla Weium 
 
 **Bakgrunn:** I vedtektene til backlog (4.2.8) står det at backlog skal primært (flertallet) bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire semester. Dette er noe som henger igjen fra seniorkom sin struktur da komiteen hovedsaklig bestod av medlemmer som var permittert fra sin opprinnelige komite for å være med som medlem i seniorkom. Dette er
 noe vi ønsker å endre slik at det ikke er lagt noen føringer eller krav på hvor mye erfaring man må ha for å være med i backlog.
@@ -83,24 +63,6 @@ Til:
 Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og
 assistanse i linjeforeningens daglige drift. Leder av backlog godkjennes av
 Hovedstyret.
-
-## Vedtektsforslag 02: Backlogs medlemssammensetning V2 v/ Milla Weium 
-
-**Bakgrunn:** Samme som over, fremmes kun dersom første forslaget ikke fremmes. 
-
-**Endre vedtekt 4.2.8 Backlog**
-
-Fra:  
-Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og
-assistanse i linjeforeningens daglige drift. **Komiteens medlemmer skal primært
-bestå av medlemmer som har hatt et aktivt verv i linjeforeningen i fire (4)
-semester.** Leder av backlog godkjennes av Hovedstyret.
-
-Til:  
-Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og
-assistanse i linjeforeningens daglige drift. **Flertallet av komiteens medlemmer,
-med unntak av prosjektledere, skal ha hatt et aktivt verv i linjeforeningen i
-minst to (2) semester.** Leder av backlog godkjennes av Hovedstyret.
 
 ## Vedtektsforslag 03: Overføre IT-ekskursjonens arbeidsoppgaver til Bedriftskomiteen v/ Cathrine Libæk
 
@@ -181,22 +143,7 @@ Ved **sekundær** generalforsamlingen utlyses:
 
 ...
 
-## Vedtektsforslag 05: TechTalks som gruppering v/ Hanna Vestvik og Ida Matre
-
-**Bakgrunn**:   
-
-Tech Talks er Onlines fagdager som arrangeres for inntekt til hovedekskursjonen. Ansvaret for arrangementet fordeles mellom ekskom, fagkom og bedkom, og rollefordelingen blir utarbeidet mellom HS og ekskom i form av en intensjonsavtale. Da Tech Talks ikke har blitt arrangert på flere år, mangler det både erfaringsoverføring og kunnskap rundt arrangeringen av et slikt arrangement. Dette har ført til at komiteene har hatt vanskeligheter med å følge opp intensjonsavtalen. Samtidig har medlemmene fra de ulike komiteene allerede mye å gjøre i sine respektive verv, noe som har resultert i at planleggingsfasen har blitt nedprioritert, og at bookingrunden ble pushet til slutten av desember. Mye av planleggingen ble derfor gjort i måneden før Tech Talks, noe som føltes både hastet og uorganisert.
-
-Ved å vedtektsfeste Tech Talks i Onlines vedtekter er formålet å tydeliggjøre for komiteene hvilke ansvarsområder de har, samt styrke og forbedre samarbeidet mellom komiteene. Vedtekten vil ikke ha noen påvirkning på komiteenes virke, men mer en forsikring om at komiteenes ansvarsområder følges opp.
-
-**Endring: **  
-**Legge til ny vedtekt**  
-
-Legge til vedtekt 4.4.7 Tech Talks
-
-Tech Talks er et faglig arrangement som arrangeres  av medlemmer fra Bedriftskomiteen, Fag- og kurskomiteen, og Ekskursjonskomiteen. Gruppens hovedoppgave er å sammen planlegge og gjennomføre Tech Talks. Fagkom har hovedansvar for organiseringen av Tech Talks, bedkom har ansvar for å bistå i bookingprossessen av bedrifter. Medlemmer fra ekskom stilles disponibel til å aktivt kunne delta i gjennomføringen av Tech Talks.
-
-## Vedtektsforslag 06: Debugmedlemmer kan ikke være med i HS v/ Robin Sadun og Carolina Gunnesdal
+## Vedtektsforslag 05: Debugmedlemmer kan ikke være med i HS v/ Robin Sadun og Carolina Gunnesdal
 
 **Bakgrunn:** 
 
