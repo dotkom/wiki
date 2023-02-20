@@ -34,14 +34,14 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* 
-* *Ridder:*
+* *Ridder:* Thea Karin Fladby
 
 **De som skal godkjennes som komitéledere er:**
 
 * *Appkomleder:*  
 * *Arrkomleder:*  
 * *Bankomleder:*   
-* *Bedkomleder:* Ingrid Helene Kvitnes. 
+* *Bedkomleder:* Ingrid Helene Kvitnes 
 * *Dotkomleder:*  
 * *Debug:*  
 * *Fagkomleder:*  
