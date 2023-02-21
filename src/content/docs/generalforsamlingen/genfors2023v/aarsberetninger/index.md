@@ -54,22 +54,22 @@ title: "Årsberetninger våren 2023"
 
 
 - Gjennomført suppleringsopptak v23, tok opp tre nye medlemmer 
-- Planlagt Oslotur
+- Planlagt Oslotur(21-25.februar)
 - Signert ny kaffeavtale med Netlight.
-
+- Planlagt og gjennomført  bedriftsarrangementer: (9 bedarr)
 - Støttet Kid under 1 arrangement. 
-- Gjennomført  bedriftsarrangementer:
-- Annonse til offline
-- Vært med på planleggingen av Tech Talks. 
-- Støttet kid under 1 arrangement. 
-- Gjennomført og planlagt x bedarr. 
-- Deltatt på LS møte.
-- Signert ny Uka avtale i forbindelse med LS 
-- Lagt ut 139 +++ stillingsannonser 
+- Skaffet bedriftsannonser til Offline. 
+- Vært med på planleggingen og gjennomførelsen av Tech Talks, skaffet 
+- Signert ny Uka avtale i forbindelse med LS og ser på avtale med Sit gjennom LS. 
+- Skaffet sponsorpremier til veldedighetsfest. 
+- Begynt planleggingen av høstens arrangementer.
+- Gjennomført fellesmøte med fag og kurs komiteen. 
+- Begynt å sponsoravtaler til fadderukene, veldedighetsløp og revy.
+- Lagt ut 46 stillingsannonser siden forrige genforsamling.
+- Miljøtiltak: Ingen buss til arrangment.
 
 
 ## Drifts- og utviklingskomiteen
-
 
 
 ## Fag- og kurskomiteen
