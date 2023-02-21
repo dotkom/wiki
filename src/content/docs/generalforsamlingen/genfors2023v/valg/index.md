@@ -39,7 +39,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som skal godkjennes som komitéledere er:**
 
 * *Appkomleder:*  
-* *Arrkomleder:*  
+* *Arrkomleder:* William Bie
 * *Bankomleder:*   
 * *Bedkomleder:* Ingrid Helene Kvitnes 
 * *Dotkomleder:*  
