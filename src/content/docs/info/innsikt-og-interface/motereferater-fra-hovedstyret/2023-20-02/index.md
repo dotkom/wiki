@@ -123,11 +123,6 @@ Innkalling er good, servering er good og referat er good
 - Forberedelser med genfors, fikse i tallene til presentasjonen. 
 - Første gang vi går i minus, men er mye fuckups som gjør det litt merkelig. 
 
-- Ekskom økonomi:
-    - Snakket med Ida, forrige uke. Kan ikke bedkom-økansjobben.
-    - Det er litt kaos i ekskom, vær litt tålmodig :)
-    - Alt er nytt, vi må bare være snille og sørge for at de får hjelpen de trenger
-
 
 #### Nestleder: 
 [Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
