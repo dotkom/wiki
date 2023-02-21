@@ -97,12 +97,12 @@ Overordnet
 Totalt er vi 16 aktive medlemmer, og 1 aktiv pang.
 
 Arrangementer
-Vaffelsteking - vi tenker å ha det som en ting 2 ganger hvert semester
-Valentines - delte ut roser på valentines
-Strikkekveld
-Vors før arrkom arrangementer
-Prøver å få til lunsjlounge annenhver uke
-Prøver å få litt mer kultur for "ute"-arrangementer som grilling, tur og overnattingstur ute. 
+- Vaffelsteking - vi tenker å ha det som en ting 2 ganger hvert semester
+- Valentines - delte ut roser på valentines
+- Strikkekveld
+- Vors før arrkom arrangementer
+- Prøver å få til lunsjlounge annenhver uke
+- Prøver å få litt mer kultur for "ute"-arrangementer som grilling, tur og overnattingstur ute. 
 
 Workshop i starten av semesteret der vi har planlagt arrangementer og diskutert hvordan vi kan unngå så mye svinn i kiosken. Opprettet et bedre system for å unngå svinn i kiosken slik at vi kan kartlegge hva som faktisk går ut på dato og hva som eventuelt blir stjelt.
 
