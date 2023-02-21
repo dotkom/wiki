@@ -155,12 +155,11 @@ Innkalling er good, servering er good og referat er good
 
 
 ## 204 Komitemerch (10 min)
-[Hva tenker vi om dette? Bedkom er eneste som har fått lov av hs fra tidligere av, og hadde mest sannsynlig ikke fått lov igjen. Trikom mekka til blåturen og flere har reagert, OIL ble nekta av prokom - og det var kun arrangørtskjorter. Prokom vil ha mye å si på slikt. Hvor vil vi legge lista? Skal vi gjøre del lov? Skal vi stoppe d? Arrangør/vanlig bruk osv]
+[Hva tenker vi om dette? Bedkom er eneste som har fått lov av hs fra tidligere av, og hadde mest sannsynlig ikke fått lov igjen. Trikom mekka til blåturen og flere har reagert. Prokom har tidligere hatt mye å si på slikt. Hvor vil vi legge lista? Skal vi gjøre del lov? Skal vi stoppe d? Arrangør/vanlig bruk osv]
 
 - Robin: Har sett i arkivet og ser at det er en evig diskusjon i Online. 
 - I Sondre: Husker ikke helt hva som skjedde. De ville ha to former for t-skjorte. En variant for arrangør, en for alle. 
-    - Syntes arrangør-tskjorte var lurt
-    - Frykter også litt lav etterspørsel om dette. 
+    - Syntes arrangør-tskjorte var lurt, men at den for alle ville bli for lite etterspurt til at det var økonomisk realistisk å kjøpe. 
 - SO Robin: HS vedtok at det kun skulle vært støtte til arrangør t-skjorte.
 - Sp Caro: Hva definerer merch
     - Vi tar dette senere
