@@ -40,6 +40,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Appkomleder:*  
 * *Arrkomleder:* William Bie
+* *Backlogleder (Dersom vedtektsforslag 01 går gjnennom):* Milla Weium  
 * *Bankomleder:*   
 * *Bedkomleder:* Ingrid Helene Kvitnes 
 * *Dotkomleder:*  
