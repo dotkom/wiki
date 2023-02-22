@@ -114,7 +114,29 @@ Workshop i starten av semesteret der vi har planlagt arrangementer og diskutert 
 Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og pen.
 
 ## Backlog  
+- Tatt opp 5 nye medlemmer
+- Har bestemt oss å fokusere på følgende arrangementer:
+    - Rydde i boden
+    - Komitekickoff
+    - Hundekos i eksamensperioden
+    - Kurs for komiteledere og styret
+    - Arrangere kollokviegrupper
 
+- Vi jobber med 3 prosjekter:
+    - Autobank
+        -  Fortsetter å jobbe med digitaliseringen av bankom 
+        - Tar opp nye medlemmer fortløpende.
+    - Revy
+        - Har et innholdsrikt og spennende år foran seg og har fortsatt som mål å få til revy på starten av 2024. 
+        - Midt i prosessen av å etablere et revystyre.
+        - Deltar på revyarrangementer og har god dialog med mange andre revyer for å få tips og råd til Onlines første revy.
+    - Maraton med Martin som prosjektleder
+        - Har akkurat startet å målet er at så mange som mulig i Online løper halv eller hel maraton til høsten for veldedighet. Ønsker å få bidrag fra bedrifter per person som fullfører. 
+        - Ønsker å samarbeide med OIL om løpetreninger, prokom om merch, arrkom om etterfest og appkom om egen nettside. 
+
+Miljøvennlighet:
+- Ikke arrangert så mye siden komiteen har vært i oppstartsfasen, så blir mer aktuelt fremover. 
+- På arrangementet kickoff så returnerte vi varer vi ikke brukte og gjenbrukte det som lå i boden før vi kjøpte nytt. 
 
 
 ## Applikasjonskomiteen
