@@ -43,6 +43,13 @@ Vi har per i dag 11 komiteer og 4 nodekomiteer. Av disse så er det kun 7 av kom
 
 **Forslag:**
 
+Hovedstyret skal nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer, som frem til Generalforsamlingen våren 2024  skal vurdere positive og negative sider ved en eventuell ny struktur. 
+
+Det vil forventes at arbeidsgruppen skal  forhøre seg med tidligere medlemmer av Hovedstyret, aktive medlemmer av Hovedstyret, komitémedlemmer og andre medlemmer for å ivareta fellesskapets interesser. 
+
+Forslag til hva som kan gjøres skal fremmes for Online i forkant av den ordinære generalforsamlingen på diskusjonskveld, eller ved en tidligere anledning. 
+
+
 ## Sak 03: Techtalks v/ Hanna Vestvik og Ida Matre
 
 Ordlyd kommer veldig snart.
