@@ -120,13 +120,13 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
     - Komitekickoff
     - Hundekos i eksamensperioden
     - Kurs for komiteledere og styret
-    - Arrangere kollokviegrupper
+    - Organisere kollokviegrupper
 - Vi jobber med 3 prosjekter:
     - Autobank
         -  Fortsetter å jobbe med digitaliseringen av bankom 
         - Tar opp nye medlemmer fortløpende.
     - Revy
-        - Har et innholdsrikt og spennende år foran seg og har fortsatt som mål å få til revy på starten av 2024. 
+        - Har fortsatt som mål å få til revy på starten av 2024. 
         - Midt i prosessen av å etablere et revystyre.
         - Deltar på revyarrangementer og har god dialog med mange andre revyer for å få tips og råd til Onlines første revy.
     - Maraton 
