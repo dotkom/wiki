@@ -123,12 +123,12 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
     - Organisere kollokviegrupper
 - Vi jobber med 3 prosjekter:
     - Autobank
-        -  Fortsetter å jobbe med digitaliseringen av bankom 
+        - Fortsetter å jobbe med digitaliseringen av bankom 
         - Tar opp nye medlemmer fortløpende.
     - Revy
-        - Har fortsatt som mål å få til revy på starten av 2024. 
+        - Har fortsatt som mål å få til revy i starten av 2024. 
         - Midt i prosessen av å etablere et revystyre.
-        - Deltar på revyarrangementer og har god dialog med mange andre revyer for å få tips og råd til Onlines første revy.
+        - Deltatt på revyarrangementer og hatt god dialog med mange andre revyer for å få tips og råd til Onlines første revy.
     - Maraton 
         - Har akkurat startet med mål om at så mange som mulig i Online løper halv eller hel maraton til høsten for veldedighet. 
         - Startet planlegging av samarbeid med OIL om løpetreninger, prokom om merch, arrkom om etterfest og appkom om egen nettside. 
