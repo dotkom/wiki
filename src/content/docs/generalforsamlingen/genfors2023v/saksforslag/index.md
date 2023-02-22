@@ -50,7 +50,7 @@ Det vil forventes at arbeidsgruppen skal  forhøre seg med tidligere medlemmer a
 Forslag til hva som kan gjøres skal fremmes for Online i forkant av den ordinære generalforsamlingen på diskusjonskveld, eller ved en tidligere anledning. 
 
 
-## Sak 03: Techtalks v/ Hanna Vestvik og Ida Matre
+## Sak 03: Spesifisere arbeidsoppgaver rundt Techtalks v/ Hanna Vestvik og Ida Matre
 
 
 **Bakgrunn**
