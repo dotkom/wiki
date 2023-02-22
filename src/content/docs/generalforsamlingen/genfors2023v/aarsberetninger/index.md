@@ -145,7 +145,7 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 ## Ekskursjonskomiteen 2023
 
 - Reiser til Amsterdam, Zürich, Milano, Firenze, og Roma
-- 25. mars til 9. april
+- Reiser fra 25. mars til 9. april
 - Gjennomført flere dugnader, har en siste før avreise
 - Har hatt flere innbetalinger til Ticket (reisebyrået)
 - Vært med på planleggingen og gjennomførelsen av Tech Talks
