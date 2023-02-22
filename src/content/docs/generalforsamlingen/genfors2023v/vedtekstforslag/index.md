@@ -119,6 +119,13 @@ Ved **høst-**generalforsamlingen utlyses:
 
 ...
 
+
+§ 4.2 Komiteer
+
+Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Komiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+
+Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før **vårens generalforsamlingen** avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
+
 **Etter:**
 
 § 5 Generalforsamlingen
@@ -142,6 +149,12 @@ Ved **sekundær** generalforsamlingen utlyses:
 - Øvrige styrerepresentanter
 
 ...
+
+§ 4.2 Komiteer
+
+Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Komiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+
+Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før **ordinær generalforsamling** avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3.
 
 ## Vedtektsforslag 05: Debugmedlemmer kan ikke være med i HS v/ Robin Sadun og Carolina Gunnesdal
 
