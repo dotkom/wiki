@@ -12,7 +12,7 @@ title: "Forretningsorden våren 2023"
 * [2023 Kandidater](/wiki/online/generalforsamlingen/genfors2023v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## 1 Generalforsamlingen
-Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og velge nytt Hovedstyre.
+Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag og velge nytt Hovedstyre.
 
 ## 2 Deltakere
 Alle medlemmer av Online, jfr. kapittel 5 i vedtektene har møte-, tale- og stemmerett under generalforsamlingen.
