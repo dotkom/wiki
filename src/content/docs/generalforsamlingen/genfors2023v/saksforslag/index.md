@@ -60,5 +60,7 @@ Forslag til hva som kan gjøres skal fremmes for Online i forkant av den ordinæ
 -   De som fikk ansvar for arrangeringen har allerede mye å gjøre i respektive verv. Planleggingsfasen ble nedprioritert, føltes både hastet og uorganisert. Ble surr med økonomien.
 -   Erfaringsskriv fra tidligere ekskom indikerer at dette har vært et problem før. Ytret ønske om at Tech Talks blir separert fra ekskom/ekster gruppering.
 
-Ved å fremme forslaget om å sette interne retningslinjer for arrangerende komiteer, er målet å tydeliggjøre og sikre forståelsen av hvilke ansvarsområder de ulike komiteene har.**Forslag**  
-Hovedstyret går gjennom intensjonsavtalen mellom Ekskursjonskomiteen Online og Linjeforeningen Online, og gir en mer detaljert beskrivelse av ansvarsområdene for Tech Talks.Arrangerende komiteer setter interne retningslinjer for hvilke ansvarsområder komiteen har, både i planleggingen og gjennomførelsen av Tech Talks. Disse skal utarbeides i samarbeid med Hovedstyret og de andre arrangerende komiteene.
+Ved å fremme forslaget om å sette interne retningslinjer for arrangerende komiteer, er målet å tydeliggjøre og sikre forståelsen av hvilke ansvarsområder de ulike komiteene har.  
+
+**Forslag**  
+Hovedstyret går gjennom intensjonsavtalen mellom Ekskursjonskomiteen Online og Linjeforeningen Online, og gir en mer detaljert beskrivelse av ansvarsområdene for Tech Talks. Arrangerende komiteer setter interne retningslinjer for hvilke ansvarsområder komiteen har, både i planleggingen og gjennomførelsen av Tech Talks. Disse skal utarbeides i samarbeid med Hovedstyret og de andre arrangerende komiteene.
