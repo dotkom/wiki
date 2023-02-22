@@ -33,9 +33,15 @@ Grunnet økende utgifter ved arrangering av jubileum ser vi et økt behov for me
 
 Øke den årlige støtten til jubkom med 20.000,- til totalt 50.000,- i året.
 
-## Sak 02: Sette ned Arbeidsgruppe for Onlines organisasjonsstruktur v/ Anders Robstad og Robin Lund Sadun
+## Sak 02: Arbeidsgruppe for Onlines organisasjonsstruktur v/ Anders Robstad og Robin Lund Sadun
 
-Ordlyd kommer fortløpende.
+**Bakgrunn:**
+
+Online har vokst mye de siste årene, og vi har i løpet av kort tid fått tre nye komiteer. Til tross for dette så har ikke organisasjonsstrukturen til Online endret seg noe, og man kan se litt problemer med dette når det kommer til kommunikasjonsflyt i linjeforeningen. 
+
+Vi har per i dag 11 komiteer og 4 nodekomiteer. Av disse så er det kun 7 av komiteene som er direkte representert i Hovedstyret gjennom en styrerepresentant eller økonomiansvarlig. Komiteene uten styrerepresentant har nestleder av Online som kontaktpunkt, kontra de andre som har en spesifikk representant. Dette kan gjøre at terskelen for å ta kontakt med HS, og få informasjon fra HS blir vanskeligere. 
+
+**Forslag:**
 
 ## Sak 03: Techtalks v/ Hanna Vestvik og Ida Matre
 
