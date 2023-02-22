@@ -45,7 +45,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Bedkomleder:* Ingrid Helene Kvitnes 
 * *Dotkomleder:*  
 * *Debug:*  
-* *Fagkomleder:*  
+* *Fagkomleder:*  Sara Seeberg-Rommetveit
 * *FeminIT:*  Hanna Meland Vestvik
 * *OIL-leder:*  
 * *Prokomleder:* Markus Johansen
