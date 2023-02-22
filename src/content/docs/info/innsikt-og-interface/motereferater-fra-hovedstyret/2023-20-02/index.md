@@ -41,25 +41,6 @@ Vi har det bra <3
 Innkalling er good, servering er good og referat er good
 
 
-## 200 TODO´s fra forrige møte
-
-- Johannes: Fikse boks for tilbakemelding og forslag på kontoret. Skal stå på kontoret. []. (Ikke sett, vinstraff?)
-- Anders kaller inn til refleksjonsmøte eksom, fagkom og bedkom techtalks. [X].
-- Anders fikser hs+leder slack ting greier [X].
-- Robin legger ut powerpoint om velferdsmidler i leder-slack [X].
-- Carolina og Robin, fikser vedtektsfoslag for debug medlemmer i hs [X].
-- Carolina sier i fra til Frida om at debug ikke kan sitte i styret [X].
-- Johannes tar opp prikkregler om mingling i fagkom []. (Vet ikke, mulig straff)
-- Alle som sitter i styret etter 1. mars: tenke på utfordringer og underholding til veldedighetsfest. [X]
-- Alle sørger for at det blir sendt inn forslag til veldedighetsfest til arrkom [X] 
-- Robin tar videre at det vurderes koordinering av suppleringsopptak på våren [X]
-- Anders skal sende ut melding om å sende inn årsberetninger til ledere [X]
-- Hegli må følge opp datakam dame kontrakt [] (NOPE, Vinstraff)
-- Robin sender inn sak til vakt og sikring om dama på A4 [X] 
-- Ingeborg sender mail til appkom ang kort registrering [X]
-- Ingeborg og Sondre, ITEX skal ha klart leder og nestleder til neste møte [X]
-- Robin og Henrik: Fikse HS inn-ut [X]
-
 ## 201 Status for komiteene (20 min)
 [Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
 
