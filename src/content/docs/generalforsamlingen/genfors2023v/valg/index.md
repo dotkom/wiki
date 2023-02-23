@@ -38,7 +38,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som skal godkjennes som komitéledere er:**
 
-* *Appkomleder:*  
+* *Appkomleder:* David Lekve
 * *Arrkomleder:* William Bie
 * *Backlogleder (Dersom vedtektsforslag 01 går gjnennom):* Milla Weium  
 * *Bankomleder:*   
