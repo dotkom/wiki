@@ -74,7 +74,16 @@ title: "Årsberetninger våren 2023"
 
 ## Fag- og kurskomiteen
 
-
+- Planlagt/gjennomført 8 bedriftskurs
+- Planlegger 3 eksamenskurs
+- planlegger 2 ikke-bedriftskurs
+- Planlegger lightening talks
+- Hatt fellesmøte med bedkom
+- Bidratt til arrangering av Tech Talks
+- Bookingrunde workshop
+- Begynt å planlegge høstens kurs
+- Planlagt Oslotur denne våren
+- Miljøtiltak: Prøver å redusere å leie buss, heller gå, eventuelt kollektivt. 
 
 ## Profil- og aviskomiteen
 - Plakatbestillinger
