@@ -181,6 +181,10 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 ## Datakameratene
 
+-   Høsten 2022 har Datakameratene fått rekruttert flere nye medlemmer, det er også en større andel spillere fra informatikk i år sammenlignet med i fjor.
+-   11er-laget er godt i gang i studentligaen, og ligger foreløpig an til A-sluttspill for vårsesongen.
+-   7-er laget skal være åpent for alle, uansett nivå.
+-   Vi har arrangert lagfest for hele klubben i høst på LaBamba-kjelleren. Planlegger også en ny lagfest nå på vårsesongen.  
 
 
 ## FeminIT
