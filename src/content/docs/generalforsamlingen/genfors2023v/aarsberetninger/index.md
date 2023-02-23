@@ -164,15 +164,7 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 
 
-## IT-ekskursjonen 2023
-
-
-
 ## Online IL
-
-
-
-## Velkomstkomiteen 2023  
 
 
 
