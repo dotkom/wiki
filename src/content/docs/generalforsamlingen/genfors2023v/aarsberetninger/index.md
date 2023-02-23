@@ -159,9 +159,11 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 - Vært med på planleggingen og gjennomførelsen av Tech Talks
 - Sendt søknad til IE ang økonomisk støtte pr. deltaker
 - Laget public Notion side med info om turen, og Slak for kommunikasjon med deltakerene 
-- Faglig uke: skal besøke universiteter, bedrifter, og museum
-- Kulturell uke: fotballkamp, vingård, og generell turisme
 
+- Foreløpige planer for turen
+    - Faglig uke: skal besøke universiteter, bedrifter, og museum
+    - Kulturell uke: fotballkamp, vingård, og generell turisme
+- Miljøtiltak: drar ikke til Asia:)
 
 
 ## Online IL
