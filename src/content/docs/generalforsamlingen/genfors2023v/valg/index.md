@@ -47,6 +47,6 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Debug:*  
 * *Fagkomleder:*  Sara Seeberg-Rommetveit
 * *FeminIT:*  Hanna Meland Vestvik
-* *OIL-leder:*  
+* *OIL-leder:*  Erik Menkin Lysfjord
 * *Prokomleder:* Markus Johansen
 * *Trikomleder:* Ida Tandberg
