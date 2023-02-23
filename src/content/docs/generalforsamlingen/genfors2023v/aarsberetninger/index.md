@@ -27,7 +27,7 @@ title: "Årsberetninger våren 2023"
 ## Arrangementskomiteen  
 - De nye medlemmene har kommet godt inn i gruppa!
 - Generelt har de fleste arrangementene vært fra gjennomført, hadde en case med medbrakt drikke på Rockheim og dårlig oppførsel på noen arrangementer. Sendt ut mail om dette og håper at folk forstår alvoret med at vi får dårlig forhold til lokaler i fremtiden.  
-- Miljøtiltak 
+- Miljøtiltak, prøvd å ta mindre buss til arrangementer og mindre fysisk plakater, men dette er noe vi må jobbe mer med fremover. 
 
 ### Vår 2023
 - Åre 
