@@ -198,6 +198,11 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 ## FeminIT
 
+- Ble komite på forrige generalforsamling
+- Har arrangert blindbaking, julefilm, lunsj, trening, vinonsdag, feiring for at vi er komite og eksameslesing
+- Workshop i starten av semesteret for å planlegge alle arrangement
+- Miljøtiltak: generelt fokus på å ikke kaste mat etter arrangementer, kjøper ikke inn unødvendig utstyr
+
 
 
 ## Fondstyret
