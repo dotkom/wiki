@@ -171,7 +171,10 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 ## Realfagskjelleren 
 
-
+- Ferdigstilt oppussingsprosjektet mye takket være støtten fra Onlinefondet. Har fått et utrolig stilig lysanlegg!
+- Holdt ordinære fredagsåpninger hver fredag utomen eksamenstiden
+- Hatt ekstra åpningner på lørdager med Quiz, temafester og slikt.
+- Skal avholde egen generalforsamling 15. mars og velge nytt styre inkludert ny kjellerkontakt i Online.
 
 ## Casual Gaming
 
