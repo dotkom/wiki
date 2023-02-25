@@ -55,7 +55,7 @@ title: "Årsberetninger våren 2023"
 
 - Gjennomført suppleringsopptak v23, tok opp tre nye medlemmer 
 - Planlagt Oslotur(21-25.februar)
-- Signert ny kaffeavtale med Netlight.
+- Signert ny kaffeavtale med Netlight. 
 - Planlagt og gjennomført  bedriftsarrangementer: (9 bedarr)
 - Støttet Kid under 1 arrangement. 
 - Skaffet bedriftsannonser til Offline. 
@@ -66,7 +66,7 @@ title: "Årsberetninger våren 2023"
 - Gjennomført fellesmøte med fag og kurs komiteen. 
 - Begynt å sponsoravtaler til fadderukene, veldedighetsløp og revy.
 - Lagt ut 46 stillingsannonser siden forrige genforsamling.
-- Miljøtiltak: Ingen buss til arrangment.
+- Miljøtiltak: Ingen buss til arrangment og revidert kaffeavtalen og begynt å se på mulighetene for å kutte bruk av engangskopper og heller fokusere på gjenbrukbarekopper. 
 
 
 ## Drifts- og utviklingskomiteen
