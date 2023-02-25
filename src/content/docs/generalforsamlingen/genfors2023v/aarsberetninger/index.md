@@ -59,14 +59,14 @@ title: "Årsberetninger våren 2023"
 - Planlagt og gjennomført  bedriftsarrangementer: (9 bedarr)
 - Støttet Kid under 1 arrangement. 
 - Skaffet bedriftsannonser til Offline. 
-- Vært med på planleggingen og gjennomførelsen av Tech Talks, skaffet 
+- Vært med på planleggingen og gjennomførelsen av Tech Talks. 
 - Signert ny Uka avtale i forbindelse med LS og ser på avtale med Sit gjennom LS. 
 - Skaffet sponsorpremier til veldedighetsfest. 
 - Begynt planleggingen av høstens arrangementer.
 - Gjennomført fellesmøte med fag og kurs komiteen. 
 - Begynt å sponsoravtaler til fadderukene, veldedighetsløp og revy.
 - Lagt ut 46 stillingsannonser siden forrige genforsamling.
-- Miljøtiltak: Ingen buss til arrangment og revidert kaffeavtalen og begynt å se på mulighetene for å kutte bruk av engangskopper og heller fokusere på gjenbrukbarekopper. 
+- Miljøtiltak: Ingen buss til arrangment og revidert kaffeavtalen der vi ser på mulighetene for å kutte bruken av engangskopper og erstatte det med Cgjenbrukbarekopper sponset av Netlight.
 
 
 ## Drifts- og utviklingskomiteen
