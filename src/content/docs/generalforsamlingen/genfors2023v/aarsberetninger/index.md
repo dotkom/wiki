@@ -71,6 +71,11 @@ title: "Årsberetninger våren 2023"
 
 ## Drifts- og utviklingskomiteen
 
+- Fortsetter å utvikle nye OW, hvor arrangementer, nye dashbordet, profil og bedriftsiden begynner å ta form. 
+- Vi har gått over til å bruke mer Scrum.
+- Første år hvor OW ikke krasjer på Åre. 
+- Miljøtiltak sikkret en bedre bruk av skytjenester og slette ubrukte eller mindre brukte tjenester. 
+
 
 ## Fag- og kurskomiteen
 
