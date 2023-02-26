@@ -166,7 +166,10 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 
 ## Applikasjonskomiteen
-
+- Komiteopptakssystem, Online App og Chrome extension begynner å ta form.
+- Påbegynt oppdatering av Nibble. 
+- Sett på løsning å registrere oppmøte på arrangementer.
+- Miljøtiltak: Gjenbrukt gammel elektronikk istedenfor å kjøpe nytt. 
 
 
 ## Ekskursjonskomiteen 2023
