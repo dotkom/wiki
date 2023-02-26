@@ -47,6 +47,19 @@ title: "Årsberetninger våren 2023"
 
 
 ## Bank- og økonomikomiteen  
+### Komitespesifikt:  
+- Får/har fått 7 nye medlemmer  
+- Totalt 18 aktive i en overgangsperiode  
+- Revyen skal få egen økonomiansvarlig inn i bankom i løpet av våren  
+
+### Økonomispesifikt:  
+- Revidert, regnskapsført og bankavstemt  alle kontoer for 2022  
+- Revidert Abakus  
+- 300 kjøp er gjort siden forrige genfors  
+- 136 fakturaer er sendt siden forrige genfors  
+### Bærekraftig:   
+- Bankom har funnet en måte komiteene kan kjøpe brukt på som er godkjent som føring i regnskapet, metoden er ikke brukt enda, men den finnes  
+
 
 
 
