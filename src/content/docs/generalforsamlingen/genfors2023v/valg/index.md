@@ -43,7 +43,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Backlogleder (Dersom vedtektsforslag 01 går gjnennom):* Milla Weium  
 * *Bankomleder:*   Brinje Marie Haugli  
 * *Bedkomleder:* Ingrid Helene Kvitnes 
-* *Dotkomleder:*  
+* *Dotkomleder:*  Mats Jun Larsen
 * *Debug:*  
 * *Fagkomleder:*  Sara Seeberg-Rommetveit
 * *FeminIT:*  Hanna Meland Vestvik
