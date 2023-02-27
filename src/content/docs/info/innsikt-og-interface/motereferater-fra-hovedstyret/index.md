@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2023
+- [2023-27-02](2023-27-02) - Mer Komitemerch, overgangsfase rundt genfors
 - [2023-20-02](2023-20-02) - Komitemerch, Ny leder/nest-leder ITEX, Organisasjonsstruktur
 - [2023-13-02](2023-13-02) - Debug i styret, representasjonsmidler, prikkregler mingling
 - [2023-06-02](2023-06-02) - Forb. generalforsamling og representasjon
