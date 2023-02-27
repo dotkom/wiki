@@ -31,7 +31,7 @@ title: "Mer Komitemerch, overgangsfase rundt genfors"
 [Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
 
 #### Arrkom: 
-- Koser oss masse på blåtur wohooo  
+- Koser oss masse på blåtur wohoooo  
 - Quiz på tirsdag gikk bra, veldig gøy.  
 - Bar til bar neste lørdag.  
 - Veldedighetsfest 11.mars blir på skolen på R2 men mangler fortsatt litt finpussing men blir nok bra.  
