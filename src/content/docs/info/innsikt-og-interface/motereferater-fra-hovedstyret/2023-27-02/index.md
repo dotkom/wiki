@@ -97,7 +97,7 @@ title: "Mer Komitemerch, overgangsfase rundt genfors"
 - Ida jobber på med å fakturere alle bedriftene fra TT. Har mottatt bedriftskort vi skal ta med på reisen.  
 - Skal ha infomøte med deltakerene ang turen 16. mars  
 ##### FeminIT
-- Vi skal arrangere lunsj på mandag, har valgt ny leder som ble Hanna. Ingen andre ville være.  Vi skal også ha et møte med en representant fra Bekk på tirsdag, hun tok kontakt med oss og ønsket å bli bedre kjent med FeminIT.  
+- Vi skal arrangere lunsj på mandag, har valgt ny leder. Vi skal også ha et møte med en representant fra Bekk på tirsdag, hun tok kontakt med oss og ønsket å bli bedre kjent med FeminIT.  
 ##### OIL
 - Vi har valgt nye leder og nestleder. Disse er Erik Menkin Lysfjord og Karen Bakke. Ellers har vi hatt litt lite arrangementer da plutselig lite folk kunne arrangere.  
 
