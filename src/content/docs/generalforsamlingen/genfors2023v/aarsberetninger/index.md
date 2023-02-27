@@ -18,7 +18,38 @@ title: "Årsberetninger våren 2023"
 
 ## Hovedstyret
 
+Generelt:
 
+- Gjennomført økonomi- og vedtekstkveld.
+- Delt ut særskilt utmerkelse x5
+-Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
+- Gjennomført “Den nødvendige samtalen” for tillitsvalgte med Sit
+- Tatt opp velkom 23
+- Tatt opp ITEX 23
+- Fått ned instagramretningslinjer som komiteene skal følge
+-Hatt søppelplukking sammen med IE
+- Gjennomført trivselsundersøkelse
+- Lagt ned nye rutiner for å bedre koordinere arrangementer i kalenderen
+- Utarbeidet  en samarbeidsavtale med datakameratene jentelaget
+- Rebrandet økonomi og vedtektskveld. Fortsetter arbeidet med dette til høsten
+- Deltatt på FIF-møte på høstsemesteret
+
+Samarbeid med andre:
+
+- Deltatt på møter med IE
+- Deltatt på 2x semestermøte med IDI.
+- Deltatt på linjeledermøter hver måned.
+- Representert på diverse jubileum, revyer og gallaer.
+
+Studentpolitikk:
+
+- Gjennomført plan for å forbedre arealene på A-blokka og gjort endringer for å prøve å forbedre det igjen 
+- Startet dialog med IDI angående bruken av alle rommene på a-blokka til saltider
+
+Sosialt og kos
+
+- Laget julekalender.
+- Sendt julekort til linjeforeninger, samarbeidspartnere og fler.
 
 ## Debug
 
