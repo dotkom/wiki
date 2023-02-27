@@ -227,3 +227,16 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 
 ## Fondstyret
+
+- Endret på styredokumentet
+- Lagt til prinsipper Fondet vurderer søknader etter
+- Fondet skal vektlegge nye initiativer og prosjekter
+- Fondet skal i utgangspunktet ikke brukes til vedlikehold og drift
+- 2021/2022 var unntaksår der mange arrangementer ble mye dyrere enn budsjettert for
+- Gjentagende arrangement og vedlikehold av utstyr skal tas gjennom den ordinære budsjettprosessen
+- Det skal komme tydelig fram hvordan bevilgninger skal håndteres i årene etter. Fondsstyret vil unngå søknader for vedlikehold av utstyr, fornyelse av lisenser o.l for utstyr kjøpt med Fondets midler
+
+- Endelig fått satt opp Nordnet konto og begynt å investere 
+- Kom oss inn på et forholdsvis gunstig tidspunkt
+- Vi er opp 6,69% allerede!
+- En fastsatt sum skal investeres månedelig de neste 9 månedene i fem forskjellige indeksfond, for å spre risikoen (Dollar Cost Averaging).
