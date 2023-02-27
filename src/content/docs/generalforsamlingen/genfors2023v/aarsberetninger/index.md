@@ -22,7 +22,11 @@ title: "Årsberetninger våren 2023"
 
 ## Debug
 
-
+- I høst tok vi opp to nye medlemmer, i vår tar vi opp flere
+- Ferdigstilt ny artikkel til OW
+- Dokumentert saksbehandlingsprotokoller
+- Har jobbet med å forbedre varslingsskjemaet
+- Planlagt ny nominasjonsbasert opptaksvariant til Debug
 
 ## Arrangementskomiteen  
 - De nye medlemmene har kommet godt inn i gruppa!
