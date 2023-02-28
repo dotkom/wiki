@@ -223,7 +223,15 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 
 ## Online IL
 
+Siden sist generalforsamling har vi valgt ny leder og ny nesteleder. Disse er Erik Menkin Lysfjord og Karen Bakke. Økans i OIL har byttet stilling og vi må derfor bestemme oss for nye ila et uke eller to.
 
+Vi har vært på blåtur til Athen. 
+
+Når det kommer til arrangementer har vi hatt.
+- Padel x 2
+- Pistolskyting
+- Buldring x 4
+- GoCart
 
 ## Realfagskjelleren 
 
