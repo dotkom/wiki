@@ -232,8 +232,31 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 - Hatt ekstra åpningner på lørdager med Quiz, temafester og slikt.
 - Skal avholde egen generalforsamling 15. mars og velge nytt styre inkludert ny kjellerkontakt i Online.
 
-## Casual Gaming
+## Casual Gaming  
+-   Årsmøter avholdt 5. mars 2022 og 11. februar 2023.  
+-   Ikke avholdt StudLAN vår eller høst, samt veldig få spillkvelder og crewkvelder.  
+-   Deltatt på ekstraordinært landsmøte i Norsk Digital Kultur, Regionstinget til Hyperion Midt og Landstinget til Hyperion.  
+-   Deltatt på spillkveld under Onlines jubileum i vår ("Kvelden før kvelden"), samt interessegrupperouletten og en spillkveld under fadderukene.  
+-   Deltatt på Den Fantastiske Spilldagen til Hyperion.  
+-   Deltatt i planleggingen av Nidaros Spillfest, samt avholdt premiert CS-turnering på Kultursenteret ISAK under festivalen.  
+-   Deltatt med eget spillrom og turnering på Torucon.  
+-   Deltatt på arrangement på Solsiden sammen med bl.a. Nidaros E-sport og Smash Trondheim.  
+-   Deltatt som gjester og crew på HordaLAN i Bergen/Sotra, for egen kompetanseheving (2023).    
+    
+-   Lånt utstyr til BuvikLAN (Buvik Esport), Prototype LAN ([dataparty.gg](http://dataparty.gg/)), UKM Gaming, The Gathering: Online (KANDU) og Skandia Cup (Bitfix Gaming-teltet) gjennom 2022.  
+-   Lånt utstyr til BuvikLAN (Buvik Esport) gjennom 2023.    
+    
+-   Vedlikeholdt et permanent crew på rundt 10 personer.  
+-   TrøndeLAN (hovedarrangement):  
 
+-   Avholdt i Utleirahallen i høstferien, i samarbeid med bl.a. Bitfix Gaming, Smash Trondheim, Norges Beste Gamer og AbaTek (Abakus).  
+-   Sponset av bl.a. Trondheim kommune, NTNU, Telenor, SpareBank 1 SMN, Explo, Temporal AS, Trønder-Avisa, Multicom og Elon, samt med utstyrslån fra bl.a. Tiller VGS og Output (Online).
+-   Hadde 186 deltakere, forventet rundt 300 ved starten av planleggingen.  
+-   Av deltakerene var 89% under 26 år (altså "barn og ungdom"), som treffer perfekt med målgruppen vår på 15–25 år.  
+-   Avholdt rundt 15 konkurranser med total premiepott på 40.000kr.  
+-   Bedre mediaproduksjon gjennom livestream og scene ifm. utstyrsinvesteringer, intern kompetanseheving og samarbeid med andre frivillige grupper/organisasjoner.  
+-   Bedre samarbeid med komersielle aktører gjennom eksempelvis kioskavtaler og stands.  
+-   Slet med med crewmangel og delvis organiseringen av crewet, som førte til forsinkelser i riggingen og gjennomføringen.  
 
 
 ## Output
