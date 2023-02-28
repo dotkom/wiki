@@ -269,7 +269,13 @@ Når det kommer til arrangementer har vi hatt.
 
 ## Output
 
+**Høst 2022**
 
+Høsten 2023 gjennomførte Output fire konserter (Abakus immball, Online imball, Battel of the Bands og Online julebord) og tok opp tre nye medlemmer.
+
+**Vår 2023**
+
+Våren 2023 startet med en åpen øving i F1 (arrangement på OW) som endte opp med at vi fikk tre nye medlemmer. Videre har vi fortsatt å ha øvinger på AKKS, Buran som har blitt vårt faste øvingslokale. Vi planlegger å spille minimum to konserter denne våren: CatchIDI (allerede avholdt) og Battle of the Bands (semifinale og forhåpentligvis finale). Kommer muligens til å avholde et arrangement for 5-årsjubiléet til Output (startet i 2018) men dette er ikke planlagt i noe særlig detalj.
 
 ## Datakameratene
 
