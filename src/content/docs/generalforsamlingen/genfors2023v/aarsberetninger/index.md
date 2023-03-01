@@ -128,11 +128,11 @@ Sosialt og kos
 ## Fag- og kurskomiteen
 
 - Planlagt/gjennomført 8 bedriftskurs
-- Planlegger 3 eksamenskurs
-- planlegger 2 ikke-bedriftskurs
-- Planlegger lightening talks med Abakus og Tihlde
-- Hatt fellesmøte med bedkom
+- Skal gjennomføre 2 ikke-bedriftskurs
+- Planlegger å ha 3 eksamenskurs
+- Har planlagt og snart gjennomført lightening talks med Abakus og Tihlde
 - Bidratt til arrangering av Tech Talks
+- Hatt fellesmøte med bedkom
 - Bookingrunde workshop
 - Begynt å planlegge høstens kurs
 - Planlagt Oslotur denne våren
