@@ -8,7 +8,7 @@ Onlines fondstyre
 |År|Økonomiansvarlig Online|Onlinemedlem 1|Onlinemedlem 2|Tidligere HS 1|Tidligere HS 2|Ridder 1|Ridder 2|
 --|--|--|--|--|--|--|--|
 |2023|Johanna Wilmers|Magnus Byrkjeland|Hilmir Straumland|Maiken Lie|William Andersson|Thea Karin Fladby|Johanne Tronstad|
-|2022|Henrik Horten Hegli|Anh-Kha Vo Nguyen|Hilmir Straumland|Henrik Giil Liisberg (Leder)|William Andersson|Michael Johansen|Johanne Tronstad|
+|2022|Henrik Horten Hegli|Anh-Kha Vo Nguyen (tok over for Jonathan)|Hilmir Straumland|Henrik Giil Liisberg (Leder)|William Andersson|Michael Johansen|Johanne Tronstad|
 |2021|Milla Weium|Jonathan Brooks (Leder)| Jan Arild Brobak|Henrik Giil Liisberg|Kaja Sofie Lundgaard|Michael Johansen|Marius Enerly|
 |2020|Christoffer Stensrud|Nicolai Andre Dalaaker (Leder)| Jan Arild Brobak|Christian Nyvoll|Kaja Sofie Lundgaard|Christoffer Skar Lofsberg|Marius Enerly|
 |2019|Kaja Sofie Lundgaard|Nicolai Andre Dalaaker|Sigurd Oxaas Wie (Leder)|Christian Nyvoll|Martin Bjerke|Christoffer Skar Lofsberg|Sverre Bjørke|
