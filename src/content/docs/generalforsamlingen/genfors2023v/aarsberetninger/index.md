@@ -152,6 +152,7 @@ Sosialt og kos
     - Laget Slack med 3 prokomrepresentanter
 - Miljø
     - Kortreist merch for mindre klimaavtrykk
+    - Laget mindre plakater, mer fokus på kun banner
 
 
 ## Trivselskomiteen
