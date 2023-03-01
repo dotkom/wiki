@@ -47,7 +47,7 @@ Tilhørende wikisider
 | [Kultura](www.kulturalinjeforening.no ) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911761157) | Kulturminneforvaltning | Bygg 6 nivå 4, rom 6430C | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
 | [Leviathan](https://www.leviathanntnu.com//) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998131715) | Statsvitenskap | Rom 5424C, bygg 5, nivå 4 | [Page](https://www.fb.com/linjeforeningenleviathan/), [Person](https://www.fb.com/thomashobbesleviathan) | leviathan.ntnu@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
-| [Lydmurerlosjen](https://lydmurerlosjen.no/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915955630)| Musikkteknologi | F303  | [Group](https://www.facebook.com/lydmurerlosjen) | styret@lydmurerlosjen  |
+| [Lydmurerlosjen](https://lydmurerlosjen.no/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915955630)| Musikkteknologi | F303  | [Group](https://www.facebook.com/lydmurerlosjen) | styret@lydmurerlosjen.no  |
 | [Notelinjeforeningen](http://notelinja.wordpress.com/) | | Utøvende musikk | | [Page](http://fb.com/pages/Notelinjeforeningen/206686876172728) | notelinja@gmail.com |
 | [Paideia Fadder](http://pedfadder.no/), [Paideia](http://paideiantnu.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995406578) | Pedagogikk | | [Page](http://fb.com/pages/Paideia/101907713211815), [Group](http://fb.com/groups/5845119185/) | paideiantnu@gmail.com |
 | [Panoptikon](http://panoptikon.blogg.no/) | | Master STS/KKS, Årsstudium STS | | [Page](http://fb.com/panoptikonlinjeforening) | offisielle.panoptikon@gmail.com|
