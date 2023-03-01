@@ -130,7 +130,7 @@ Sosialt og kos
 - Planlagt/gjennomført 8 bedriftskurs
 - Planlegger 3 eksamenskurs
 - planlegger 2 ikke-bedriftskurs
-- Planlegger lightening talks
+- Planlegger lightening talks med Abakus og Tihlde
 - Hatt fellesmøte med bedkom
 - Bidratt til arrangering av Tech Talks
 - Bookingrunde workshop
