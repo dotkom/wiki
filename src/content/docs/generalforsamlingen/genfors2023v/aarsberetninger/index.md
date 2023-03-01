@@ -139,7 +139,7 @@ Sosialt og kos
 - Miljøtiltak: Prøver å redusere å leie buss, heller gå, eventuelt kollektivt. 
 
 ## Profil- og aviskomiteen
-- Plakatbestillinger
+- 24 plakatbestillinger
 - Offline
      - Sluppet 2 utgaver
 - Nettredaksjon
