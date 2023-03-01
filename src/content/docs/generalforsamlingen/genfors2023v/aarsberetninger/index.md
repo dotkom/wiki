@@ -218,6 +218,7 @@ Også har vi nylig kjøpt inn støvsuger til kontoret for å holde sofaen ren og
 - Foreløpige planer for turen:
     - Faglig uke: skal besøke universiteter, bedrifter, og museum
     - Kulturell uke: fotballkamp, vingård, og generell turisme
+- Avholdt valg for ny leder og nestleder
 - Miljøtiltak: drar ikke til Asia:)
 
 
