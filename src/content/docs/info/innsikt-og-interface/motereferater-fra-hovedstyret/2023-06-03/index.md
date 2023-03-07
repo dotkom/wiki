@@ -112,6 +112,7 @@ title: "Stappet kalender, organisasjonsstruktur"
 
 ## 005 Full Online-kalender (5 min)
 [Vi ser at selv om det ble gjort tiltak i høst for å unngå full kalender, er problemet videreført til dette semesteret. Flere komiteer sliter med å finne plass til sine arrangement, samtidig som andre komiteer har veldig mange arrangement]
+
 * I: Av 32 arr den siste tiden er kun 19 av de fulle. Er på en måte ikke alle som er like "viktige" men likevel synd.
 * I: Vi hadde en diskusjon på det i høst, med mye av de samme punktene. Da kom det forslag om semestermøte der arrangerende komiteer planlegger hva de skal gjøre. Trenger ikke ha alle detaljer, men går ann å reservere hvem som skal ha når
     * K : Tror det er veldig kritisk å gjøre det dette her semesteret, for er både UKA og mye annet denne høsten. 
