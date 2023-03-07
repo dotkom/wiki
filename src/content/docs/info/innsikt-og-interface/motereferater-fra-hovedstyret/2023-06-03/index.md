@@ -136,6 +136,7 @@ title: "Stappet kalender, organisasjonsstruktur"
 
 ## 007 Arbeidsgruppe organisasjonsstrukturen i Online (5-10 min)
 [På genfors gikk ble det vedtatt et saksforslag om å sette ned en arbeidsgruppe som skal se på organisasjonsstrukturen i Online. Det ble også stilt spørsmål rundt hvorfor vi ikke gikk gjennom backlog. Hva tenker vi er beste løsningen her?]
+
 * I : Jeg synes å ta det mellom backlog er veldig fint. Føler det blir for mye jobb mellom oss. 
 * I : Jeg synes at det var vedig bra at den saken ble tatt opp. Gjerne at Backlog informerer om at dette er for alle å bli med på, ikke kun backlog. 
     * Det jazzes
