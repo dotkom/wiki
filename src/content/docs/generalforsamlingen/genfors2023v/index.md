@@ -16,7 +16,7 @@ Presentasjon: [Generalforsamling 2023](https://docs.google.com/presentation/d/17
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)    
 Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Referat fra genVORS: [attachment:840]  
-Referat 2023:  []	
+Referat 2023:  [attachment:843]	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
