@@ -96,6 +96,80 @@ title: "Stappet kalender, organisasjonsstruktur"
 #### Nestleder: 
 [Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK] 
 
+Backlog
+
+- Velger ny økans på mandag  
+- Arrangerer interessedag for revyen på A4 18.april  
+- Forbereder til kurs med komiteledere og hs  
+- Tatt kontakt med IDI i planleggingen av kollokviegrupper som vi vil organisere rett etter fadderukene  
+- Er i planleggingsfasen av å arrangere rydding av boden nå i vårsemesteret  
+    - Dato kommer  
+    - Fikser kontainer  
+    - Forventer at alle i styret + et par stk til fra hver komite møter slik at man ikke ender opp med å kaste noe en komite bruker.  
+    - Vil lage oversikt over absolutt alt vi har i boden så man kan gjenbruke det til arrangementer i stedet for å kjøpe nytt  
+    - Planlegger vors/fest etter man har ryddet for å få opp motivasjonen til å bli med  
+
+
+Itex
+
+- Har startet samarbeidet med bedkom  
+- Hatt onboarding med Elise  
+- Skal sende ut søknadsskjema ASAP zulu  
+
+
+Ekskom
+
+- Skal ha erfaringsoverføring med ny leder og nestleder, på mandag. Forhåpentligvis får de satt i gang med opptaksprosess i løpet av kommende uke.  
+- Laget årshjul for kommende ekskom.   
+- Generalforsamling på tirsdag. Skal godkjenne ny leder og nestleder.  
+- Saksforslaget om Tech Talks gikk gjennom på genfors. Vil så fort som mulig se på ny intensjonsavtale mellom HS og ekskom 2024. Samt begynne å se på interne retningslinjer for ekskom i sammenheng med Tech Talks.  
+- Faglig opplegg i Zürich er spikret, Heri jobber med saken i Amsterdam.  
+- Kulturelt opplegg er good!!  
+
+FeminIT
+
+- Kun 8 stk som er aktive, 4 stk er permittert. Veldig gøy at jentene i feminIT er så engasjerte i Online, men vi skulle gjerne vært et par til, så sammensetningen av medlemmer er noe å ta med seg til opptak til høsten.  
+- Har vært på en kaffeprat med Bekk. Rebekka, som vi møtte, ønsket å få til noe faglig eller “motivasjonsrettet”, må bare høre litt internt i Bekk først. Synes FeminIT var et bra intiativ. Vi nevne at bedkom burde involveres dersom det blir et samarbeid.  
+- Skal velge logo på mandag. Fått mange fine logoer fra prokom.  
+- Mail fra fagkom om hjelp til rekruttering av jenter på kurs med Kodeworks. Skal diskutere konkrete tiltak på mandag. Veldig hyggelig at de engasjerer oss, og vi vil veldig gjerne hjelpe flere ganger også!  
+- Har hatt en undersøkelse ang engasjement på våre arrangementer. Skal gå gjennom den på mandag. Fint med innspill slik at vi kan forbedre oss, og sette inn konkrete tiltak for å få enda flere til å melde seg på arrangementene.  
+- Cageball med oil på mandag. Egen påmelding til jentene.
+- 8. mars feiring på kontoret kl. 11! Kake og Kahoot. Åpent for alle. Kom kom<3  
+
+RFK
+
+- Planlegger generalforsamlingen 15. mars  
+- Velge nytt styre og ny kjellerkontakt for Online  
+- Drifter som normalt med ordinære fredagsåpninger og utleie av kjelleren til linjeforeningene  
+
+OIL
+
+- Arrangerte padel denne helge, skal ha cageball og curling  
+- Crossfit neste uke og tentativ League of Legends-turngering og enten curling eller noe annet populært  
+- Etter påsken er det ikke så mye planlagt, sjakkturnering 12.april  
+- Cavasøndag med trikom senere denne måneden  
+
+Debug
+
+- Arbeider med å ordne nye medlemmer og finne en ny leder/hovedtillitsvalg  
+- Dokumenterer interne rutiner for å sikre god kunnskapsoverføring  
+- Workshop i går  
+
+
+Output
+
+- Kommet i gang med ukentlige øvinger  
+- Spilt første konsert for våren på CatchIDI  
+- Fortsetter med ukentlige øvinger  
+- Skal delta på Battle of the Bands senere denne måneden  
+
+Appkom
+
+- Har tatt på seg å lage nettside til maraton-prosjektet og kommer til å fokusere på dette  
+- Føltes nødvendig med mer motiverende oppgaver, artig at hele komiteen arbeider på en felles ting  
+- Har føltes litt som at appkom blir litt nedprioritert av flere medlemmer, men ønsker å motivere og spre ansvar i komiteen  
+- Alle skal få prøvd seg på oppgaver de synes er morsomme  
+- Arbeidsdagene er en fin måte å arbeide med prosjekter på, ønsker å søke støtte til mat til resterende arbeidsdager (annenhver uke)  
 
 #### Leder:
 * For det meste brukt tid på å sette seg inn i ting.
