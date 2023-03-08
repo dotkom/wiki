@@ -196,7 +196,7 @@ Appkom
 * I: Snakket om dette forrige møte. Tror det kan være en god ide å ha typ en blestekalender for kalendern
 * I: Kan også være lurt å love bort dagen før og etter for HSA slik at vi sikrer at det blir bra påmelding. Catch IDI feks har ikke vi noe med og kan ikke flytte. 
 * I: det er jo en viss terskel for når noe har noe å si. Liksom veldedighetsfest kan påvirke men lunsj lounge med trikom burde ikke ha noe å si.
-    * Hegli: enig, men dette semesteret vært veldig uheldig med noen datoer
+    * K: enig, men dette semesteret vært veldig uheldig med noen datoer
 * 
 * I : Men hvis dere skal ha bookingrunde nå snart, er det ikke meningen at andre komiteer skal være med på det?
     * K: slik jeg ser på det som mest lønnsomt er det best om fag-bedkom gjør det slik som nå, og når de datoene er satt kan resten av komiteer inkluderes. Kan være vanskelig å inkludere alle med en gang. Nå til høsten har også uka 7 reserverte datoer der vi ikke får gjøre noe
@@ -235,11 +235,11 @@ Appkom
 Frida og Johanna melder seg
 
 ### Premie beste genfors-meme?
-* I Anders: Jeg meldte at det kom til å bli premie, så dere burde gi premie hehe
-* I Caro: Er det noen som vil ta ansvar for dette?
+* I: Jeg meldte at det kom til å bli premie, så dere burde gi premie hehe
+* I: Er det noen som vil ta ansvar for dette?
     * Frida: Jeg kan gjøre det
     * Magnus: Kan samkjøre det med trivselsundersøkelsen
 
 ### Mail med spørsmål ang. klassebilder?
-* S Caro: Bruker vi å ha klassebilder
-    * Anders: Nei
+* S: Bruker vi å ha klassebilder
+    * SR: Nei
