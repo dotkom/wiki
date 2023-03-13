@@ -111,25 +111,25 @@ ikke til stede
  
 #### Nestleder: 
 [Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
-Velkom:
-- Har laget en grov plan for opplegget
+Velkom:  
+- Har laget en grov plan for opplegget 
 - Godt i gang med design av t-skjorter
-- Startet kontakt med lokaler
-Ekskom
-- Heri droppa ut som faglig ekskursjonsansvarlig. Har fått en ny. Kom veldig brått på. De faglige ekskursjonslederene har generelt vært ubrukelige. Har gitt tilbakemelding til fakultetet om dette.
-- Sendt inn endelig søknad til IE ang støtte til ekskursjonen.
-- Infomøte med deltakerene på torsdag
+- Startet kontakt med lokaler  
+Ekskom  
+- Heri droppa ut som faglig ekskursjonsansvarlig. Har fått en ny. Kom veldig brått på. De faglige ekskursjonslederene har generelt vært ubrukelige. Har gitt tilbakemelding til fakultetet om dette.  
+- Sendt inn endelig søknad til IE ang støtte til ekskursjonen.  
+- Infomøte med deltakerene på torsdag. 
 - Hadde sosial med hybel til hybel. Brukte team building støtten, satt det på faktura.
-FeminIT
-- Må velge ny SoMe ansvarlig
-- Feiret kvinnedagen med kake og kahoot på kontroet.
-- Cageball med OIL, tror det gikk fint! FeminIT hadde egen bane.
-- Gikk gjennom spørreundersøkelsen, veldig ulike svar. Litt vanskelig å vite hva vi skal gjøre anderledes. Tar det uansett med oss til planleggingen av høstarrangement.
-Backlog:
-- Gjennomførte vellykket kurs med Støttehjulet
-- Går gjennom retningslinjene våre så kommer nok en mail om godkjenning av nye retningslinjer etterhvert
-- Prosjektet om maraton har endret seg fra å løpe maraton til å ha en løpeuke i samarbeid med mange av de andre komiteene
-- Ellers fortsetter vi å jobbe med div arrangementer (hundekos i eksamensperioden, rydding av boden, komitekickoff, interessedag for revyen, kollokvieorganisering)
+FeminIT  
+- Må velge ny SoMe ansvarlig  
+- Feiret kvinnedagen med kake og kahoot på kontroet.  
+- Cageball med OIL, tror det gikk fint! FeminIT hadde egen bane.  
+- Gikk gjennom spørreundersøkelsen, veldig ulike svar. Litt vanskelig å vite hva vi skal gjøre anderledes. Tar det uansett med oss til planleggingen av høstarrangement.  
+Backlog:  
+- Gjennomførte vellykket kurs med Støttehjulet. 
+- Går gjennom retningslinjene våre så kommer nok en mail om godkjenning av nye retningslinjer etterhvert. 
+- Prosjektet om maraton har endret seg fra å løpe maraton til å ha en løpeuke i samarbeid med mange av de andre komiteene. 
+- Ellers fortsetter vi å jobbe med div arrangementer (hundekos i eksamensperioden, rydding av boden, komitekickoff, interessedag for revyen, kollokvieorganisering). 
 
 #### Leder:
 - Har svart på mail. 
