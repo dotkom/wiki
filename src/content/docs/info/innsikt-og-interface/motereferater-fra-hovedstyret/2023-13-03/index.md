@@ -200,7 +200,8 @@ Er det noen som ønsker å dra?]
 ## 019 Eventuelt
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet]
 
-**[Sak 1] Overgang til Notion**
+**[Sak 1] Overgang til Notion**  
+
 - I: Har gått gjennom hele HS wiki og lagt det inn på notion. Har fjernet noe og, for mye gammelt og utadert. Mister det heller ikke fra wiki. 
 - S: Informasjon fra wiki blir ikke fjernet når nye OW kommer da?
     - Aner ikke, må høre med dotkom kanskje. 
@@ -208,22 +209,26 @@ Er det noen som ønsker å dra?]
 - I: kan også kanskje gjøre de om til pdf hvis det gjør det lettere å lime inn. 
 - I: Og hvis noen andre komiteer trenger hjelp til å gå over til notion, så må dere bare komme til meg. For har en mail som gir oss notion education gratis, som er mega nice. Og den mailen kan enkelt overføres til andre. 
 
-**[Sak 2] Instagram ansvarsområde**
+**[Sak 2] Instagram ansvarsområde**  
+
 - I: I perioder så får vi litt meldinger på Online sin insta. Er fint om noen har hovedansvar for innboksen der og passe på at de blir svart på.
 - Frida tar ansvar for det sammen med some. 
 
-**[Sak 3] Trivselsundersøkelsen**
+**[Sak 3] Trivselsundersøkelsen**  
+
 - I: Kommet en del svar, oppe i 160 nå. Så kanskje greit om folk går inn og ser på svarene til neste gang. Tenkte å trekke to vinnere nå på onsdag. 
 - I: Tenker at vi bare ser gjennom og de tingene som vi legger merke til. 
 - S: Var det noe som gikk igjen?
     - Eneste var at det var mange som hadde studert før. Fikk tilbakemelding fra Kristin at den burde være på engelsk. 
 
-**[Sak 4] Skjorter til bedkom og fagkom**
+**[Sak 4] Skjorter til bedkom og fagkom**  
+
 - I: Vi har bare XL igjen. Er det mulighet for å bestille noen flere? 
 - Jeg kan undersøke. 
 - I: Tenker at man burde samle inn skjortene til de som har gått ut uansett. Ingen vits for dem å beholde de. 
 
-**[Sak 5] Mer blest rundt offline**
+**[Sak 5] Mer blest rundt offline** 
+
 - Kalenderarrg for slipp av offline?
     - gøy om mange vet at det blir slipp, gjøre mye ut av det
     - Litt i mot d, men kan høre på stemningen
@@ -231,17 +236,18 @@ Er det noen som ønsker å dra?]
 - Det backes, det fører til at fler vet at det "slippes", og flere leser avisa.
 - I: Kalender på OW; Flere arrangement på en dag kan gjøre den lite oversiktlig og gjør at man ikke ser kveldsarrangement
 - I: Lista med arrangementer har blitt bedre.
-- Kveldsarrangemnt forsvinner, så da kan man heller bleste på slack osv kvelden før. Eller så kan dotkom gjøre kalendern bedre.
+- Kveldsarrangment forsvinner, så da kan man heller bleste på slack osv kvelden før. Eller så kan dotkom gjøre kalenderen bedre.
 - I: Før så var kalenderen stor nok til å se flere arr på samme dag, så muligens lett for dotkom å fikse opp i det igjen.
 - I: Da kommer det når dere minst venter det! Dette blir bra. Får se om det blir problemer med morgen/kveldsarrangement som kræsjer i kalender-UI.
 
-**[Sak 6] Intensjonavtalen med Ekskom og tech talks**
+**[Sak 6] Intensjonavtalen med Ekskom og tech talks**  
+
 - I: Veldig rotete. Mitt ønske er at bedkom og fagkom tar det på sine møter og blir enige innad i komiteene hva de faktisk skal bidra med. Slik at man skjønner hva som skal gjøres. For fagkom kan jo egentlig ta alt. 
 - I: Hvordan gjør man det egentlig? For vi booker de, ringer de, avtaler kurs også holder man kontakten med en person på mail nærmere datoen. For dere i bedkom har litt mer kontinuerlig kontakt?
 - I: Ja vi har snakket litt om det. For vi kan godt ta den første kontakten også sende det videre til fagkom. 
 - I: det tror jeg hadde hjulpet mye av den prosessen, for nå i år ble det jo mye rot. Fagkom må jo være interessert i å gjøre det, for jeg vil ikke gå til fagkom å tvinge de til å gjøre det hvis de ikke vil. 
-- Johannes: Føler det er viktig å delegere og dele det opp, slik at man slipper å bli skuffet. 
-- Magnus: Vi ønsker ikke å være med på ukentlig techtalksmøter. Vi booker bedrifter og Fagkom har ansvar for selve arrangementene.   
+- I: Føler det er viktig å delegere og dele det opp, slik at man slipper å bli skuffet. 
+- I: Vi ønsker ikke å være med på ukentlig techtalksmøter. Vi booker bedrifter og Fagkom har ansvar for selve arrangementene.   
 - I: Fagkom er interessert, men folk vet ikke helt hva man skal gjøre. Vi må lære av det som skjedde i år og ta med oss erfaringene til neste år. 
 - K: Fagkom tar det opp internt, for å få ned retningslinjer. 
 
@@ -251,18 +257,21 @@ Er det noen som ønsker å dra?]
 
 
 
-**[Sak 7] Arr planlegging**
+**[Sak 7] Arr planlegging** 
+
 - I: har laget et utkast, så dere må gjerne se på det. Fint med tilbakemelding. Legger det ut på slack. 
 
 
 
-**[Sak 8] Postboks på kontoret**
+**[Sak 8] Postboks på kontoret**  
+
 - S: Skulle ikke du ha en postboks på kontoret, hva skjer der?
     - Jo, men vet ikke helt hvordan jeg skal lage den så stoppet litt opp. 
 
 - I: Har muligens en postboks i kjelleren kan ta den med også kan du male den. 
 
-**[Sak 9] Styre post på insta**
+**[Sak 9] Styre post på insta**  
+
 - I: presentere oss i styret på instagram, slik at folk er litt klar over hvem vi er og bli litt synligere. 
 - I: Ja for på insta kan man jo poste 10 bilder i en serie. Så da kunne vi hatt gruppebildet også et bilde av hvert medlem med en liten tekst ved siden av bilde av personen hvor det står litt om hva man gjør og hvem man er. 
 - I: vet ikke om det kræsjer med psykt vanlig uke. 
