@@ -130,8 +130,7 @@ Alt er goodkjent
     - Komme litt greit i gang.
 
 #### Leder:  
-- HAr svart på mail, linjemøte mandag
-- **Snakket m linjeledere om dama**
+- Har svart på mail, linjemøte mandag
 - Semestermøte med IDI i morgen
     - Høre om plassmangelen
     - Kan anders sende mailen han sendte Heri
