@@ -213,7 +213,7 @@ Godkjennes med akklamasjon
 [Vi trenger en gjeng som har lyst å ha ansvar for planlegging av høstens kompilering. Er dette noe du kunne tenke deg?]
 
 - Frida har lyst.
-- Johannes er med. **(Godt partnerskap <3)**
+- Johannes er med.
 - Magnus også 
 - I: er ikke så mye jobb, men vi kan bestemme litt hva som blir tradisjon og 
 - I: Se på erfaringsskriv fra i fjor høst, og genfors.
