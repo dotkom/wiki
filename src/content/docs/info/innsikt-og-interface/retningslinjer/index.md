@@ -5,6 +5,7 @@ title: "Retningslinjer"
 Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
 - [Hovedstyret](/wiki/online/info/innsikt-og-interface/retningslinjer/hs/)
+- [Debug](/wiki/online/info/innsikt-og-interface/retningslinjer/debug)
 
 ### Kjernekomiteer
 
@@ -30,5 +31,4 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Komitémedlemsretningslinjer](/wiki/komiteer/retningslinjer/) - Felles retningslinjer for alle komitémedlemer
 - [Budsjettreglement](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/budsjettreglement-online/)
 - [Signatur](/wiki/online/info/innsikt-og-interface/retningslinjer/epostsignatur/)
-- [Debug](/wiki/online/info/innsikt-og-interface/retningslinjer/debug)
 - [Instagram](/wiki/online/info/innsikt-og-interface/retningslinjer/instagram)
