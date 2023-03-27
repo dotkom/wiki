@@ -7,7 +7,7 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Hovedstyret](/wiki/online/info/innsikt-og-interface/retningslinjer/hs/)
 - [Debug](/wiki/online/info/innsikt-og-interface/retningslinjer/debug)
 
-### Kjernekomiteer
+### Komiteer
 
 - [Arrangementskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/arrkom/)  
 - [Backlog](/wiki/online/info/innsikt-og-interface/retningslinjer/senkom/)
