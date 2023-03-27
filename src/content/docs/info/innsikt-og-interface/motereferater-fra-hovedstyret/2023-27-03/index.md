@@ -176,6 +176,7 @@ Godkjenner ved akklamasjon
 
 ## 038 Dalje- og pins-status i Online (5 min)
 [Fra sist møte hadde Frida og jeg ansvar for å telle opp daljer og pins for å vite hva som trengs å bestilles inn. Her kommer en oppdatering på dette!]
+
 - Har telt daljer og pins
 - Kompileringsdaljer: 323
 - Alt er ganske good. 
