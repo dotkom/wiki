@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2023
+- [2023-27-03](2023-27-03) - HS i andre komiteer og Daljer & Pins
 - [2023-20-03](2023-20-03) - Fond og kompilering
 - [2023-13-03](2023-13-03) - Psykt vanlig uke og masse workshop-mails
 - [2023-06-03](2023-06-03) - Stappet kalender, organisasjonsstruktur
