@@ -196,6 +196,15 @@ jeg skulle inn på teppet
 men det vakke kjeft å få  
 så UA måtte deppe
 
+--
+
+_Skrevet i anledning Teknologiportens 20års jubileum av Berg_
+
+Jeg møtte ei jente på bedpress 
+Med teknologiporten
+Hun spurte meg om speedintervju
+Det endte med aborten 
+
 ## Onlines Himmelsengvers, nyeste først
 
 
