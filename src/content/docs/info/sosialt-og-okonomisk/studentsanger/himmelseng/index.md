@@ -171,8 +171,11 @@ Og kysser litt på stokken.
 _teknologiporten 20-årsjubileum_  
 
 Jeg møtte ei jente på bedpress   
+
 Med teknologiporten  
+
 Hun spurte meg om speedintervju  
+
 Det endte med aborten   
 
 ## Linjeforeningenes Himmelsengvers, nyeste først
