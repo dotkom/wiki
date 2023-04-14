@@ -2,7 +2,7 @@
 title: "Vedtektsforslag 2022"
 ---
 
-# Forslag til Onlines vedtekter
+# Forslag til Fondets vedtekter
 
 ## Innhold
 * [2022 Forside](/wiki/online/generalforsamlingen/ekstra2022)   - Forside
@@ -12,5 +12,5 @@ title: "Vedtektsforslag 2022"
 * [2022 Kandidater](/wiki/online/generalforsamlingen/ekstra2022/valg) - Er du klar for et verv i Fondstyret? 
 
 
-
-## Ingen
+## Fondet forslag 1 - Endre krav om ekstraordinær generalforsamling ved manglende kandidat  (Jonathan Brooks, Henrik Giil)
+_Hvorfor? Vi anser det ikke som nødvendig å måtte kalle inn til ekstraordninær generalforsamling hvis det ikke blir funnet en kandidat til fondstyret under ordinær generalforsamling. Vi ønsker derfor å endre det slik at Hovedstyret kan godkjenne en passende kandidat._
