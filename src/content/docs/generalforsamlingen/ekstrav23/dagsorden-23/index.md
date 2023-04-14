@@ -33,24 +33,16 @@ title: "Dagsorden 2023"
 | Total tid: | 20 min | 16:20 |
 
 
-### Vedtektsforslag
+### Godkjenning av komitéledere
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:20  | 10 | 16:30  |  Fondets forslag 1 - Endre krav om ekstraordinær generalforsamling ved manglende kandidat (Jonathan Brooks, Henrik Giil) |
-| 16:30  | 5 | 16:35 | Fondets forslag 2 - Fjerne paraferer fra vedtektene (William Andersson) |
-| Total tid: | 15 min | 16:35 |
-
-
-### Valg
-| Start | Tid | Slutt | Sak |
-|---|---|---|---|
-| 16:35 | 10 | 16:40 | Valg av Ridder |
-| Total tid: | 5 min | 16:40 |
+| 16:21 | 5 | 16:26 | Godkjenning av leder av Debug |
+| Total tid: | 5 min | 16:26 |
 
 ### Evaluering av generalforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:38 | 3 | 16:41 | Evaluering |
-| Total tid: | 3 min | 16:41 |
+| 16:27 | 3 | 16:30 | Evaluering |
+| Total tid: | 3 min | 16:30 |
 
 ### Ekstraordinær generalforsamling heves
