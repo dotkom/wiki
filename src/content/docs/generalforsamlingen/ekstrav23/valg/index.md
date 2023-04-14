@@ -11,3 +11,6 @@ title: "Kandidater"
 
 
 ## Kandidater til verv
+
+**De som skal godkjennes som komitéledere er:**
+* *Debug:*  Mats Klevstad
