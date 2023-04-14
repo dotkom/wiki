@@ -39,7 +39,7 @@ title: "Dagsorden 2023"
 | 16:21 | 5 | 16:26 | Godkjenning av leder av Debug |
 | Total tid: | 5 min | 16:26 |
 
-### Evaluering av generalforsamling
+### Evaluering av ekstraordinærgeneralforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
 | 16:27 | 3 | 16:30 | Evaluering |
