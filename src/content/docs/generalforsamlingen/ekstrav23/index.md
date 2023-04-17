@@ -11,9 +11,9 @@ title: "Ekstraordinærgeneralforsamling  våren 2023"
 
 **Hva:** Ekstraordinær generalforsamling
 
-**Når:** ??
+**Når:** 2.mai kl.10:00
 
-**Hvor:** ??
+**Hvor:** ?
 
 Vi skal godkjenne ny leder av Debug
 
