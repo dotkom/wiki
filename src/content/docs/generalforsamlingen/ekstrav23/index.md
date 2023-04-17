@@ -13,7 +13,7 @@ title: "Ekstraordinærgeneralforsamling  våren 2023"
 
 **Når:** 2.mai kl.10:00
 
-**Hvor:** R60 [https://use.mazemap.com/#v=1&center=10.406884,63.415779&zoom=18&zlevel=3&campusid=1&sharepoitype=poi&sharepoi=7074]
+**Hvor:** R60 (R60)[https://use.mazemap.com/#v=1&center=10.406884,63.415779&zoom=18&zlevel=3&campusid=1&sharepoitype=poi&sharepoi=7074]
 
 Vi skal godkjenne ny leder av Debug
 
