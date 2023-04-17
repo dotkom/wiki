@@ -14,33 +14,33 @@ title: "Dagsorden 2023"
 ### Administrativt
 | Start  | Tid | Slutt | Sak                                     |
 |--------|-----|-------|-----------------------------------------|
-| 16:00  | 2   | 16:32 | Velkommen \v noen                              |
-| 16:02  | 1   | 16:32 | Valg av ordstyrer                       |
-| 16:02  | 1   | 16:33 | Valg av referenter                      |
-| 16:03  | 1   | 16:34 | Valg av tellekorps                      |
-| 16:04  | 5   | 16:39 | Gjennomgang av tegnsetting              |
-| 16:09  | 1   | 16:40 | Godkjenning av forretningsorden         |
-| 16:10  | 1   | 16:40 | Godkjenning av gjester                  |
-| 16:10  | 1   | 16:41 | Godkjenning av talerett                 |
-| 16:11  | 1   | 16:41 | Godkjenning av stemmeberettigede        |
-| 16:11  | 1   | 16:42 | Godkjenning av dagsorden                |
-| 16:12  | 1   | 16:43 | Godkjenning av innkalling               |
-| 16:13  | 1   | 16:44 | Godkjenning av saksliste                |
-| 16:14  | 1   | 16:45 | Gjennomgang av stemmesystem             |
-| 16:15  | 5   | 16:50 | Registrering i stemmesystem             |
-| Total tid: | 22 min | 16:23 |
+| 10:00  | 2   | 10:02 | Velkommen \v noen                              |
+| 10:02  | 1   | 10:03 | Valg av ordstyrer                       |
+| 10:03  | 1   | 10:04 | Valg av referenter                      |
+| 10:04  | 1   | 10:05 | Valg av tellekorps                      |
+| 10:05  | 3   | 10:08 | Gjennomgang av tegnsetting              |
+| 10:08  | 1   | 10:09 | Godkjenning av forretningsorden         |
+| 10:09  | 1   | 10:10 | Godkjenning av gjester                  |
+| 10:10  | 1   | 10:11 | Godkjenning av talerett                 |
+| 10:11  | 1   | 10:12 | Godkjenning av stemmeberettigede        |
+| 10:12  | 1   | 10:13 | Godkjenning av dagsorden                |
+| 10:13  | 1   | 10:14 | Godkjenning av innkalling               |
+| 10:14  | 1   | 10:15 | Godkjenning av saksliste                |
+| 10:15  | 1   | 10:16 | Gjennomgang av stemmesystem             |
+| 10:16  | 5   | 10:21 | Registrering i stemmesystem             |
+| Total tid: | 21 min | 10:21 |
 
 
 ### Godkjenning av komitéledere
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:23 | 5 | 16:28 | Godkjenning av leder av Debug |
-| Total tid: | 5 min | 16:28 |
+| 10:21 | 5 | 10:26 | Godkjenning av leder av Debug |
+| Total tid: | 5 min | 10:26 |
 
 ### Evaluering av ekstraordinærgeneralforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 16:28 | 3 | 16:31 | Evaluering |
-| Total tid: | 3 min | 16:31 |
+| 10:26 | 3 | 10:29 | Evaluering |
+| Total tid: | 3 min | 10:29 |
 
 ### Ekstraordinær generalforsamling heves
