@@ -26,22 +26,21 @@ title: "Dagsorden 2023"
 | 10:12  | 1   | 10:13 | Godkjenning av dagsorden                |
 | 10:13  | 1   | 10:14 | Godkjenning av innkalling               |
 | 10:14  | 1   | 10:15 | Godkjenning av saksliste                |
-| 10:15  | 1   | 10:16 | Gjennomgang av stemmesystem             |
-| 10:16  | 5   | 10:21 | Registrering i stemmesystem             |
-| Total tid: | 21 min | 10:21 |
+| 10:15  | 2   | 10:17 | Gjennomgang av stemmesystem             |
+| Total tid: | 21 min | 10:17 |
 
 
 ### Godkjenning av komitéledere
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 10:21 | 3 | 10:24 | Godkjenning av leder av Appkom |
-| 10:24 | 3 | 10:27 | Godkjenning av leder av Debug |
-| Total tid: | 5 min | 10:27 |
+| 10:17 | 3 | 10:20 | Godkjenning av leder av Appkom |
+| 10:20 | 3 | 10:23 | Godkjenning av leder av Debug |
+| Total tid: | 6 min | 10:23 |
 
 ### Evaluering av ekstraordinærgeneralforsamling
 | Start | Tid | Slutt | Sak |
 |---|---|---|---|
-| 10:27 | 3 | 10:30 | Evaluering |
-| Total tid: | 3 min | 10:30 |
+| 10:23 | 3 | 10:26 | Evaluering |
+| Total tid: | 3 min | 10:26 |
 
 ### Ekstraordinær generalforsamling heves
