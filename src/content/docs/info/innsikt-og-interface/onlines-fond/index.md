@@ -33,7 +33,7 @@ Søknader sendes til: fond@online.ntnu.no
 
 ## Styredokument
 
-Fondstyrets styredokument kan man finne [her](https://drive.google.com/file/d/1AhxnrynA9znDXXqOxFVcZo2-PQC-Liff/view?usp=sharing).
+Fondstyrets styredokument kan man finne [her](https://docs.google.com/document/d/1m9z9iEusRxHdKggtVNthJ37A3WJsQ-tGNSzo0pO9hy8/edit?usp=sharing).
 
 ## Oversikt over godkjente søknader
 
