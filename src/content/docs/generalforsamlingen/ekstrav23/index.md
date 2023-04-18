@@ -22,3 +22,6 @@ Vi skal godkjenne ny leder av Debug og Appkom
 Referat: [Referat]()
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter)
+
+## Dokumenter fra årets ordinæregeneralforsamling
+Referat Generalforsamlingen 2022:
