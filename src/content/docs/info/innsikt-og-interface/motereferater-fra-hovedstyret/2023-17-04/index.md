@@ -57,11 +57,11 @@ Møte for to uker siden mangler overskrift, ellers er alt godkjent
 - Har begynt å flytte over alt til Notion, ferdig med OW-wiki  
 - OW kræsja i påsken, tror det er noe som kan automatiseres å fikse   
 - Sett på ny funksjonalitet på arrangement, f.eks at man kan legge til arrangementer fra OW rett i kalender  
-- Oppmøteregistrering med QR-kode sees på, Tihlde har dette og fungerer godt  
+- Oppmøteregistrering med QR-kode sees på
 
 #### Fagkom:  
 - Booking går litt sakte, har hatt litt uflaks i år med mindre engasjement   
-- Har hatt kurs med bouvet, 13/30 påmeldte men var fortsatt gøy   
+- Har hatt kurs med bouvet
 - LinkedIn kurs på onsdag, veldig bra påmelding.   
 - Fellesmøte med bedkom i dag (17.04)
 #### Prokom:  
@@ -84,7 +84,7 @@ Møte for to uker siden mangler overskrift, ellers er alt godkjent
     - Ting som tilhører IT-boden ligger utenfor kontoret  
     - Gått helt over til Notion  
 #### Økonomiansvarlig:
-- Har hatt møte med Fondet, valgt ny leder: Hilmir  
+- Har hatt møte med Fondet, valgt ny leder
 - Ønsker nettside til Fondet  
 - Sendt ut mail om å huske å søke IDI-potten  
 - Kvittering for komitelederbånd må fås tak i  
@@ -144,7 +144,6 @@ Litt generell status:
     - Hundekos (23.mai)  
     - Løpeuke arrangementer: Rebusløp (11.sept), Morgentrening&lunsj (12.sept), Beermile (13.sept), Morgentrening&lunsj (14.sept), Avsluttende løp og fest (16.sept)  
     - Komitekickoff (23.september), og boooket nardo klubbhus  
-- Sosialt med Abakus sin backup på torsdag for å knytte tettere bånd<3  
 
 ********Itex:********  
  
@@ -219,7 +218,7 @@ Under ligger link til et dokument med nye regler markert i gult, gjerne legg inn
 [Debug har valgt ny leder, vi må orge ekstraordinærgeneralforsmaling]
 - Også appkom-leder?  
     - Må vite det i løpet av en uke mtp. dagsorden.  
-    - Dersom de får det til; sure, ellers er det ikke helt krise om David står som leder til høsten.  
+    - Dersom de får det til; sure, ellers er det ikke helt krise om forrige leder står som leder til høsten.  
     - Trenger ikke navn på dagsorden, kun "Godkjenning av appkom"  
     - Skal egentlig kun ha ekstraordinær generalforsamling for de sakene som ikke ble ferdig på forrige generalforsamling.  
 - Det er laget en ny side på OW. Tenker å ha generalforsamlingen 2. mai.  
