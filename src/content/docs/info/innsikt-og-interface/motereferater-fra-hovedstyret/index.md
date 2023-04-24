@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2023
+- [2023-24-04](2023-24-04) - Revy-opptak, betaling på arrangement og nominasjonsskjema
 - [2023-17-04](2023-17-04) - Ekstraordinær generalforsamling, Appkom pizzastøtte og prikkregler
 - [2023-27-03](2023-27-03) - HS i andre komiteer og Daljer & Pins
 - [2023-20-03](2023-20-03) - Fond og kompilering
