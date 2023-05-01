@@ -14,5 +14,5 @@ title: "Kandidater"
 
 **De som skal godkjennes som komitéledere er:**
 
-* *Appkom:* 
+* *Appkom:* Mats Nyfløt
 * *Debug:*  Mats Klevstad
