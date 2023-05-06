@@ -9,7 +9,7 @@ title: "HS-møte 02/05/2023 - Fase ut Nibble, ny støtteordning, og detaljer run
 Møtetidspunkt: May 2, 2023 12:00 PM
 Servering: Njål Sørland
 
-Tilstede: Njål Sørland, Johanna Wilmers, Sondre Stokke, Ingeborg Elly Skori-Holm, Magnus, Carolina Gunnesdal, Johannes Meldal
+Tilstede: Njål Sørland, Johanna Wilmers, Sondre Stokke, Ingeborg Elly Skori-Holm, Magnus, Carolina Gunnesdal, Johannes Meldal, Ida Matre
 
 ## Innsjekk
 
