@@ -45,6 +45,7 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Kulturelle Onlinesekken](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/kulturelle-onlinesekken/)
 - [Padelpiratene](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/padelpiratene/)
 - [Meme og Vin og Klin og Grin](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/mvkg/)
+- [Golfline](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/golfline/)
 
 
 ## Tidligere interessegrupper
