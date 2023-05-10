@@ -162,7 +162,7 @@ I starten av semesteret neste år, få opp litt QR koder for facebook-grupper, s
 * Kunne brukt kullgruppa på facebook  
 
 * Kan nevne det for 3.klassinger  
-* 
+
 ## 081 TODO´s
 
 [Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
