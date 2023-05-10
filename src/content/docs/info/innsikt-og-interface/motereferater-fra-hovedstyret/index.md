@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2023
+- [2023-08-05](2023-08-05) - Komitévors, masterfaddere
 - [2023-02-05](2023-02-05) - Fase ut Nibble, ny støtteordning, og detaljer rundt opptak
 - [2023-24-04](2023-24-04) - Revy-opptak, betaling på arrangement og nominasjonsskjema
 - [2023-17-04](2023-17-04) - Ekstraordinær generalforsamling, Appkom pizzastøtte og prikkregler
