@@ -34,7 +34,6 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Podline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/podline)
 - [GratIste](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/gratiste)
 - [Questline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/questline/)
-- [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
 - [Smashkom](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Interessegruppen for folk som er glad i jul](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/interessegruppen-folk-som-er-glad-i-jul/)
 - [Greenline](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/greenline/)
@@ -43,7 +42,6 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Klatregruppen](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/klatregruppen/)
 - [Floppy Disk](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/floppy-disk/)
 - [Kulturelle Onlinesekken](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/kulturelle-onlinesekken/)
-- [Padelpiratene](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/padelpiratene/)
 - [Meme og Vin og Klin og Grin](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/mvkg/)
 - [Golfline](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/golfline/)
 
@@ -62,3 +60,5 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Sjampismandag](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/sjampismandag)
 - [Henrik](/wiki/online/info/innsikt-og-interface/interessegrupper/henrik/)
 - [UX](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/ux/)
+- [PremLine](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/premline/)
+- [Padelpiratene](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/interessegrupper/padelpiratene/)
