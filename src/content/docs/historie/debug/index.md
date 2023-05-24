@@ -15,5 +15,5 @@ Medlemmer
 
 |År   | Medlemmer |
 | --- | --------- |  
-|2023V| **Mats Klevstad(L)**, Aleksander Westergaard Karlsen, Hanne Sofie Haugland, Ingvild Løver Thon, Sunniva Bjerke, Torunn Bårdstu|
-|2022H| **Aleksander Westergaard Karlsen(L)**, Frida Eriksen Næss, Ingvild Løver Thon, Sunniva Bjerke, Torunn Bårdstu|
+|2023V| **Mats Klevstad (L)**, Aleksander Westergaard Karlsen, Hanne Sofie Haugland, Ingvild Løver Thon, Sunniva Bjerke, Torunn Bårdstu|
+|2022H| **Aleksander Westergaard Karlsen (L)**, Frida Eriksen Næss, Ingvild Løver Thon, Sunniva Bjerke, Torunn Bårdstu|
