@@ -4,6 +4,7 @@ title: "Historie"
 
 - [Historien om linjeforeningen](/wiki/online/historie/om)
     - [Hovedstyret](/wiki/online/historie/hs)
+    - [Debug](/wiki/online/historie/debug)
     - [Arrangementskomiteen](/wiki/online/historie/arrkom)
     - [Bank- og økonomikomiteen](/wiki/online/historie/bankom)
     - [Bedriftskomiteen](/wiki/online/historie/bedkom)
