@@ -53,6 +53,7 @@ Våren 2021 vedtok generalforsamlingen at leder av bank- og økonomikomiteen ska
 
 |Semester|Økonomiansvarlig|Leder|Nestleder|arrkom|bedkom|dotkom|ekskom|fagkom|HS|prokom|ITEX|trikom|velkom|jubkom|seniorkom|appkom|OIL|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+|21/22|**Henrik Horten Hegli**|**Mia Bjørndal**||Idunn Stabell|Jacob Gullesen Hagen / Klara Wüstenberg|Mats Jun Larsen|Ida Matre|Ruben Kobbeltvedt / Aurora Nergaard|---|Magne Slåtsveen|Farhad Ismayilov|Johanna Wilmers|Johanna Wilmers|Duvara Nishaharan|Christoffer Stensrud|Lea Aas-Jakobsen|Brinje Marie Haugli|
 |21/22|**Milla Johanne Lund Weium**|**Duvara Nishaharan**||Maiken Lie|Henrik Hegli|Thomas Hasvold|Farhad Ismayilov|Johan August Østbye|---|Sondre Stokke|Johanne Trondstad|Johanna Wilmers|Mia Bjørndal|Duvara Nishaharan|Christoffer Stensrud|Thomas Hasvold|Mia Bjørndal|
 |20/21|**Christoffer Stensrud**|**Johanne Trondstad**|Kaja Sofie Lundgaard|Milla Weium|Henrik Hegli|Børge Dreyer/Thomas Hasvold|Jonathan Brooks|Johan August Østbye|---|Carl Smestad/Sondre Stokke|Johanne Trondstad|Jørgen Nummedal|Duvara Nishaharan|---|Sigurd Oxaas Wie/Kaja Sofie Lundgaard|
 |19/20|**Kaja Sofie Lundgaard**|**Mathias Fossum**|Christian Nyvoll|Thomas Iversen Ramm|Luka Grujic|Jonathan Brooks|Sigurd Melsom|Christoffer Stensrud|---|Ole Jacob Brunstad|Mathias Müller|Jon-Inge Heggstad|Johanne Tronstad|---|Sigurd Oxaas Wie|
