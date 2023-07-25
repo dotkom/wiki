@@ -9,7 +9,7 @@ Møtereferater
 ------------------  
 ### Vår 2023
 
-- [2023-21-07](2023-21-07) - Sommermøte, fjerdeklasse søknader og div.
+- [2023-20-07](2023-20-07) - Sommermøte, fjerdeklasse søknader og div.
 - [2023-08-05](2023-08-05) - Komitévors, masterfaddere
 - [2023-02-05](2023-02-05) - Fase ut Nibble, ny støtteordning, og detaljer rundt opptak
 - [2023-24-04](2023-24-04) - Revy-opptak, betaling på arrangement og nominasjonsskjema
