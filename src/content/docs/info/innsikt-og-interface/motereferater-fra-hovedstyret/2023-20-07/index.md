@@ -1,5 +1,5 @@
 ---
-title: "Sommermøte, fjerdeklasse søknader og div."
+title: "Sommermøte,  medlemsskap søknader og div."
 ---
 
 yoyo
