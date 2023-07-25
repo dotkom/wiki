@@ -2,4 +2,98 @@
 title: "Sommermøte,  medlemsskap søknader og div."
 ---
 
-yoyo
+## Innsjekk
+
+[Hvordan har dere det?]
+
+---
+
+## 082 Godkjenning av innkalling, servering og referat fra forrige uke
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+Alt OK!
+
+## 084 Status for komiteene (20 min)
+
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+### **🎉** Arrkom:
+
+- Ikke her
+
+### **👔** Bedkom:
+
+- Har smått startet å planlegge ting som er tidlig i semesteret
+- og ting til goodiebags
+
+### **🖥️** Dotkom:
+
+- Ikke her
+
+### **📚** Fagkom:
+
+- Startet så vidt å se på de tidligste kursene, de det gjelder
+
+### **🖋️** Prokom:
+
+- Ingenting å melde
+
+### **☕**Trikom:
+
+- Ikke her
+
+### **💰** Økonomiansvarlig:
+
+- Har hatt møte med Brinje og fikset ting som har oppstått i løpet av sommeren
+- Startet på forberedelser til budsjettrevidering
+- Oppfordrer komiteer til å finne ny økans i starten av semesteret dersom de skal bytte
+
+### 👩🏻‍🦰 Nestleder:
+
+- Svart på litt mail her og der
+- Booka rom
+- Vanskelig å få rom til cv-kurs, må muligens mixe og trikse litt
+
+### 👩🏾 Leder:
+
+- Svart på mail her og der
+- Sendt litt meldinger her og der
+- Følger opp litt folk, masterfadder, itex og kompileringsgjengen<3
+
+## 085 Interkom (10 min)
+
+[Her skal saker som angår tre eller flere komiteer]
+
+## 086 Medlemsskap søknader (10 min)
+
+[Tidligere har HS noen ganger godkjent søknader fra 4.klassinger som ikke har fått plass på master men tar alle fagene (Gjelder også andre trinn). I år tror jeg vi burde ta en ny vurdering på dette ettersom det høye snittet på master retningene muligens kan medfører et høyere antall slike søknader, og det kan føre til at vi godkjenner medlemmer som ikke vil komme inn neste år heller og dermed tar plassen til andre på ulike arrangementer som feks ITEX.]
+
+- I: Tenker at det var en annen case i fjor, tidligere har snittet vært lavt så de fleste kommer inn, i år der det ikke sånn. Snittet har gått mye opp. Dumt ovenfor de vi selger et produkt til. De som har hatt plass på bachelor i informatikk tidligere men ikke har fått masterplass har uansett automatisk 4 års online medlemskap på OW.
+- Spm: Hva mener du med 4 år?
+- Sv: Du er registrert som 3.klassing i to år på OW.
+- I: Vi har pleid å være strenge med 1.klasse, så syns det er fair å gjøre det sånn videre. Er kjipt, men lurt å sette grensa samme plass for alle, uavhengig av trinn.
+- I: Er enig i det som har blitt sagt, i fjor ga vi fjerdeklassestatus til noen som det ikke er sikkert har komt inn nå. Vi selger masterstudenter som kanskje ikke går master. Vi burde være strengere i år.
+- I: Er også enig, det er folk som har tatt fjerdeklasse fag nå og ikke kom inn på master i år. Kjipt for de det gjelder, men enklere å argumentere for ved å sette samme retningslinjer for alle.
+- I: Du kan fremdeles søke sosialt medlem.
+- I: Er kun snakk om bedrifts arrangementer og det gir mening.
+- I: De har jo fortsatt tredjeklasse status, det er kun lukka master arrangementer de ikke kan delta på.
+- I: ITEX er den største grunnen til å ha denne diskusjonen nå.
+- **Konklusjon**: Vi gir kun master-status til de som har kommet inn på master og kan vise gyldig dokumentasjon på dette.
+
+## 090 Eventuelt
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+**Hva skal vi delta på i fadderuken?**
+
+- Har komt en mail om faddervaktordning. Hver dag i fadderukene står det telt i sentrum og ved samf som deler ut brød, vann og saft til de som skal hjem på natta. Skikkelog viktig og koselig ordning! Legger ut faddervaktordning ting på slack.
+- Sender en mail til Velkom ang hvilke av arrangementene de ønsker vi skal være til stede på.
+
+## Diggepunkt
+
+[Alle må digge noe]
+
+## Møteevaluering
+
+[Ris/ros til hvordan møtet har gått]
