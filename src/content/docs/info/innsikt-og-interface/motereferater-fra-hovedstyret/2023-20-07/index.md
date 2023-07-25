@@ -87,7 +87,7 @@ Alt OK!
 
 **Hva skal vi delta på i fadderuken?**
 
-- Har komt en mail om faddervaktordning. Hver dag i fadderukene står det telt i sentrum og ved samf som deler ut brød, vann og saft til de som skal hjem på natta. Skikkelog viktig og koselig ordning! Legger ut faddervaktordning ting på slack.
+- Har komt en mail om faddervaktordning. Hver dag i fadderukene står det telt i sentrum og ved samf som deler ut brød, vann og saft til de som skal hjem på natta. Skikkelig viktig og koselig ordning! Legger ut faddervaktordning ting på slack.
 - Sender en mail til Velkom ang hvilke av arrangementene de ønsker vi skal være til stede på.
 
 ## Diggepunkt
