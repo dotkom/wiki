@@ -17,9 +17,7 @@ Er det noe du lurer på?
 Send en mail til velkom@online.ntnu.no eller ring oss på:
 
 - [Nicolai Skjerven](https://online.ntnu.no/profile/public/2606/) (leder, velkom) (40470075)  
-- [Fredrik Carsten Hansteen](https://online.ntnu.no/profile/public/2595) (nestleder, velkom) (47630231)
-
-Vi er tilgjengelig 24/7 ved behov.  
+- [Fredrik Carsten Hansteen](https://online.ntnu.no/profile/public/2595) (nestleder, velkom) (47630231) 
 
 
 ### Har du opplevd noe ugreit?
