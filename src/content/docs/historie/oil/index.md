@@ -4,7 +4,10 @@ title: "Online Idrettslag"
 
 Historie
 --------
-Online IL (også kjent som OIL) ble opprettet som en nodekomite under Arrkom høsten 2019, med det formål å organisere idrett for informatikkere. Orginalt sett var målet med OIL å ha egne idrettslag for informatikkere, derav navnet, men komiteen endte opp med å gå i en annen retning. Våren 2020 gikk OIL fra å være nodekomite under Arrkom, til nodekomite under HS. Våren 2022 ble OIL en kjernekomite.
+Online IL (også kjent som OIL) ble opprettet som en nodekomite under Arrkom høsten 2019, med det formål å organisere idrett for informatikkere. Orginalt sett var målet med OIL å ha egne idrettslag for informatikkere, derav navnet, men komiteen endte opp med å gå i en annen retning. Hovedfokuset til komiteen ble å aktivisere informatikkere, og prøve ut nye sporter og idretter.
+
+Våren 2020 gikk OIL fra å være nodekomite under Arrkom, til nodekomite under HS. 
+Våren 2022 ble OIL en kjernekomite.
 
 
 Online IL til daglig
