@@ -19,7 +19,8 @@ Medlemmer
 
 |År   | Medlemmer |
 | --- | --------- |  
-|2022-2023| |
-|2021-2022| **Njål Ingersønn Sørland(L)** |
-|2020-2021| |
-|2019| |
+|2023-| **Erik Menkin Lysfjord(L)**, Karen Bakke(N), Oskar Nesheim(Ø)  |
+|2022-2023| **Oskar Nesheim(L)**, Brage Brataas(N), Brinje Marie Haugli(Ø) |
+|2021-2022| **Njål Ingersønn Sørland(L)**, Emilie Lia-Rognli(N), Mia Bjørndal(Ø) |
+|2020-2021| **Joel Nicolaysen(L)**, Adrian Røstgård Flatner(N), Johanne Tronstad(Ø), Emil Ommundsen, Emilie Lia-Rognli, Henrik Viken Lied, Håkon Groven, Marcus Schrøder Njål Ingersønn Sørland, Robin Rognerud |
+|2019|**Tord Standnes(L)**, Joel Nicolaysen(N), Johanne Tronstad(Ø), Adrian Røstgård Flatner, Bjørn Spangelo, Emil Ommundsen, Emilie Lia-Rognli, Henrik Viken Lied, Håkon Groven, Karen Dahl Aarhus, Marcus Schrøder Njål Ingersønn Sørland, Robin Rognerud |
