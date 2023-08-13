@@ -73,6 +73,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Bedriftskomiteen](/wiki/online/historie/bedkom)
     - [Drifts- og utviklingskomiteen](/wiki/online/historie/dotkom)
     - [Fag- og kurskomiteen](/wiki/online/historie/fagkom)
+    - [Online Idrettslag] (/wiki/online/historie/oil)
     - [Profil- og aviskomiteen](/wiki/online/historie/prokom)
     - [Trivselskomiteen](/wiki/online/historie/trikom)
     - [Ekskursjonskomiteen](/wiki/online/historie/ekskom)
