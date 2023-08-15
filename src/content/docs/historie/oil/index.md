@@ -24,7 +24,7 @@ Medlemmer
 |År   | Medlemmer |
 | --- | --------- |  
 |2023-| **Erik Menkin Lysfjord (L)**, Karen Bakke (N), Oskar Nesheim (Ø)  |
-|2022-2023| **Oskar Nesheim (L)**, Brage Brataas (N), Brinje Marie Haugli (Ø) |
-|2021-2022| **Njål Ingersønn Sørland (L)**, Emilie Lia-Rognli(N), Mia Bjørndal (Ø), Billy Barret, Brage Brataas, Christian Garmann Sørli, Elin Bjerve, Håkon Groven, Karen Bakke, Mia Bjørndal, Mattis Hembre, Njål Ingersønn Sørland, Oskar Nesheim, Robin Rognerud(v), Steffen Hæren, Victoria Biering  |
+|2022-2023| **Oskar Nesheim (L)**, Brage Brataas (N), Brinje Marie Haugli (Ø), Njål Ingersønn Sørland, Mia Bjørndal, Elin Bjerve, Mattis Hembre, Robin Espinosa, Kristian Myklebust, Sondre Kolberg, Victoria Biering, Steffen Hæren, Håkon Grove |
+|2021-2022| **Njål Ingersønn Sørland (L)**, Emilie Lia-Rognli(N), Mia Bjørndal (Ø), Billy Barret, Brage Brataas, Christian Garmann Sørli, Elin Bjerve, Håkon Groven, Karen Bakke, Mia Bjørndal, Mattis Hembre, Oskar Nesheim, Robin Rognerud(v), Steffen Hæren, Victoria Biering  |
 |2020-2021| **Joel Nicolaysen (L)**, Adrian Røstgård Flatner (N), Johanne Tronstad (Ø), Christian Garmann Sørli, Emil Ommundsen, Emilie Lia-Rognli, Henrik Viken Lied (v), Håkon Groven, Mia bjørndal, Marcus Schrøder (v), Mattis Hembre, Njål Ingersønn Sørland, Preben sylvester Jensen, Robin Rognerud, Steffen Hæren, Victoria Biering |
 |2019|**Tord Standnes (L)**, Joel Nicolaysen (N), Johanne Tronstad (Ø), Adrian Røstgård Flatner, Bjørn Spangelo, Emil Ommundsen, Emilie Lia-Rognli, Henrik Viken Lied, Håkon Groven, Karen Dahl Aarhus, Marcus Schrøder, Njål Ingersønn Sørland, Robin Rognerud |
