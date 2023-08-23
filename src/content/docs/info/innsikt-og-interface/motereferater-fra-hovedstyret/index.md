@@ -7,8 +7,9 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 Møtereferater
 ------------------  
+### Høst 2023
+- [2023-23-08](2023-23-08) - Opptak, styrevors, genfors/vors
 ### Vår 2023
-
 - [2023-20-07](2023-20-07) - Sommermøte,  medlemsskap søknader og div.
 - [2023-08-05](2023-08-05) - Komitévors, masterfaddere
 - [2023-02-05](2023-02-05) - Fase ut Nibble, ny støtteordning, og detaljer rundt opptak
