@@ -127,8 +127,6 @@ Skal vi ha GenVORS?
 
 - Kunne sett på mulgiheter til å gjøre det til et arrangement, hver gang man handler til lunsj så er det kaffe. Så blir det et arrangement så kunne man søkt IDI.  
     - Ikke en dum ide! For pga UKA er det en del penger igjen som kunne blitt brukt på IDI.  
-    - Er det ikke sus når vi sender kvittering til IDI?  
-    - Tror ikke vi må sende den faktiske kvitteringen, bare en oversikt over hvilke arrangementer vi har brukt den på  
     - Kunne kalt det kaffe-mandag og hatt det som et lite arrangement også hatt det flere dager.  
 
 - Johanna prøver først å søke velferdstinget.  
