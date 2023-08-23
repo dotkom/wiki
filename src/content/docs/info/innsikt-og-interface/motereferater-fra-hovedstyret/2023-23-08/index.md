@@ -95,7 +95,7 @@ Alle komiteer som vet at økans slutter må ha det i bakhodet under opptaket av 
 
 - Vi kunne hatt feks dagen etter et stort UKA-arrangement siden de ikke kommer til å ta et annet stort arrangement dagen etter  
 
-- Onsdag 11. okt eller 18.oktober kunne vært options?  
+- Onsdag 11. okt eller 18. okt kunne vært options?  
 
 Organisasjonsstruktur  
 - Blir kanskje et tema på genfors  
