@@ -2,150 +2,202 @@
 title: "Opptak, styrevors, genfors/vors"
 ---
 
-## Innsjekk
+# HS-møte 28.08.2023
+
+# Innsjekk
 
 [Hvordan har dere det?]
 
+- Hyttetur, hundepass og kos
+- Folk er litt småsyke men ellers good
+
 ---
 
-## 092 Godkjenning av innkalling, servering og referat fra forrige uke
+## 104 Godkjenning av innkalling, servering og referat fra forrige uke
 
 [Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
 
-## 094 Status for komiteene (20 min)
+- innkalling -> underkjent
+- servering -> godkjent
+- referat -> godkjent
+
+## 105 TODO´s fra forrige møte **✅**
+
+- [x]  Ingeborg: Mas på RFK om medbrakt på styrevors
+- [x]  Magnus: Ta kontakt med revyen og RFK ang. opptak
+- [x]  Ida: Lage nettartikkel om opptaket
+- [ ]  Sondre: Plakatbestilling generalforsamling + genVORS
+    - Må være knyttet til et arr på OW før jeg kan bestille
+- [x]  Alle: Melde seg diskusjonskveld (hvis man har tid)
+- [ ]  Magnus: Legge ut om prikker og allergier på Facebook
+    - Snakket med immball-gjeng og de tok allergier, så jeg tar jeg prikker nå når det roer seg litt
+
+## 106 Status for komiteene (20 min)
 
 [Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
 
 ### **🎉** Arrkom:
-- Første møte i morgen  
-- Immball-ting som må ordnes, men ellers greit  
+
+- Første møte sist uke
+- Snakket om immball; booket at vi skal ha 300 men hotellet var strenge og vi fikk så vidt gått ned fra 300 til 280. 7 ledige, det blir bra (har funding til å dekke). mangler avtale med Output. Fikse tekniske ansvarlige etc.
+- Begynt med intervjuer i dag og kjøret går
 
 ### **👔** Bedkom:
-- twoday-bedpres forige onsdag og Bekk i går  
-- Prøver å få liv i bedriftskontoen på Instagram  
-- Tilbakemeldingsskjema er fortsatt ustødig  
-- Bekk har fått ny logo, blir litt jobb med rebranding overalt her  
+
+- Har ikke skjedd noe veldig stort
+- Sliter fortsatt med tilbakemeldingskjema, er viktig for oss så må finne en god løsning på det
+- Snakket litt om kaffeavtalen, vil prøve å få en lignende avtale
+    - Ha det som en arbeidskontrakt med oppsigelsestid.
+- Ellers også intervjuer.
 
 ### **🖥️** Dotkom:
-- Ikke hatt møte enda  
-- Hackaton i sommer med Capra  
-- Vengeful Vineyard er nesten ferdig (som alltid)  
-- Slitt med å registerer brukere med ntnu-mail, prøver fortsatt å finne ut av det. Virker som det ligger hos ntnu. Ber derfor folk ikke registrere med stud-mail.  
+
+- Ikke skjedd noe
 
 ### **📚** Fagkom:
-- Hadde første møte i går  
-- Opptaksprep skjer  
+
+- Har ikke skjedd så mye
+- Startet litt med intervjuer
 
 ### **🖋️** Prokom:
-- Skal ha møte torsdag denne uken  
-- SKjer ikke mye utenom vanlige opptaksforberedelser  
 
+- Rolig her også.
+- Gjort vanlige ting, opptaksgreier og plakatarbeid.
 
 ### **☕**Trikom:
-- Er veldig få igjen i trikom  
-- Satser på å ta opp en del folk  
+
+- Har ikke hatt møte siden sist.
+- Som alle andre, hatt intervjuer.
 
 ### **💰** Økonomiansvarlig:
-- Jobbet med å holde styr på ting over sommeren  
-- Møtt Brinje og fikset litt ting  
-- Kommet i gang med Vipps og slå sammen kjøp automatisk  
-- Satser på å ha Vipps klart om noen uker  
-- Skal revidere budsjettet snart og lage nytt budsjett  
-- Godkjente en søknad til IDI-potten for DJ på immball.  
+
+- Sendt inn MVA melding.
+- Sendt faktura for styrer til immball
+- Skal ha arbeidskveld i kveld og se på revidering og rydde før semesteret.
+- Søkt penger for kaffe, men må gjøre på nytt siden ny link.
 
 ### 👩🏻‍🦰 Nestleder:
-- Mye rombooking og administrering  
-- Fikset bod-tilgang  
 
+- Ikke så mye utenom det vanlige
+- Venter til neste uke med å høre med resten av komiteene om status fra de.
 
 ### 👩🏾 Leder:
-- Masse admin og forskjellig  
-- Vært synlig i fadderukene  
-- Faddervakt  
-- Styrevors prep  
 
-## 095 Interkom (10 min)
+- Har ikke gjort så mye
+- Har satt dato for linjeledermøte
+- Prøvd å få kontakt med velkom angående vors før immball, men har ikke fått noe svar.
+    - Snakket med Snurrix og de er fortsatt gira på å ha det.
+
+## 107 Interkom (10 min)
 
 [Her skal saker som angår tre eller flere komiteer]
 
-### Nye økansker
-Alle komiteer som vet at økans slutter må ha det i bakhodet under opptaket av nye. Gjerne ta det opp på interjuer.
+- Hadde intervju i sted og det var en som spurte om man kunne endre på prioriteringen. Visste ikke svaret så spør her.
+    - Fikk mail om å kunne få endre prioritering, og syns det burde være akseptabelt om man vil det.
+- I stedet for mail kun sende til Caro eller Njål
+- Hvis de vil endre prioriteringen er det jo inne på søknadsskjema, så det kan vi endre på lett hvis de sier ifra.
+- Hvis noen spør spesifikt så burde det være mulig, men trenger ikke legge det ut noe sted. De som ønsker kan sende mail.
+- Sende mail til leder også kan Caro eller Njål endre prioriteringen deres. Ikke noe vi trenger å fortelle før folk spør.
 
+## 108 Abakus styregave (5min)
 
-## 097 Styrevors og invitasjon (5 min)
+[Ettersom mange skal på ITEX og Abakus sitt immball er på søndag, burde vi brainstorme hva vi kan gi til dem i gave, og hvem som skal ha hovedansvar for at det blir fikset]
 
-[Hva er status her?]
+- Hva har blitt gitt før?
+    - Forrige jub fikk de et gavekort for å kjøpe noe bedre enn en rokkering.
+    - De steppa ned, så vi gjorde det samme.
+    - Terskelen er altså lav, men vi kan gå ut sterkere fra start.
+- På tihlde ga de jo en bøtte med slush så spørs om de har så høyre forhåpninger.
+- Bilde med ansiktene deres, redigert inn noe gøy og ramma inn.
+- Til tihlde printet vi jo logoen og lagde en boksåpner, det var gøy.
+- Vi kan redigere oss inn eller faktisk ta et midtsidebilde til de.
+- Vi har jo den rosa grisen oppe på kontoret som egt er Abakaus sin, kunne jo pimpet den opp og gitt den tilbake.
+    - De vet kanskje ikke bakgrunnshistorien.
+- Magnus og Johanna får ansvaret til å følge opp på slack.
 
-- Fikk spørsmål om ridderne skal melde seg på alumniversjonen av ballet.  
-    - Svarte de skulle melde seg på via skjema de har fått.  
+## 109 GenFors
 
-- Har redusert litt antall plasser på styrevors for å sikre at det er flertall av Onlinere på immball.  
+- Snakket jo litt om det forrige uke, og tror 16.oktober passer best. Er en mandag, en virker som beste alternativ.
+- Er det noe som stopper oss for å kjøre på med mandag 16.oktober?
+    - Nei egentlig ikke! Har lagt det inn i kalenderen så burde være good.
+- Burde være en torsdag typ.
+    - Mye som skjer på de bra dagene før.
+- Onsdag 27.september da?
+    - Til genVors
+    - Hvis vi er realistiske så er d et ikke så mange som kommer om det er den minste ting som skjer enten dagen før eller etter. Burde se på perioder der det skjer lite.
 
-- Fins det en oversikt over hvem som har immball når?
-    - Trodde det var diskutert og at linjeforeninger skulle unngå å ha samtidig.  
+Generalforsamling mandag 16.oktober og genVors onsdag 27.september.
 
-- Til neste år burde vi prioritere å sende invitasjon tidlig, heller med lite informasjon, for å passe på at andre ikke kommer oss i forkjøpet på samme dato.  
+- Er det dumt med Handels?
+    - Ja egt fordi trikom må flytte hele kiosken, så absolutt best å være på Gløs.
+    - Da blir det EL3
+        - No wait, vonde seter
+- Da blir det muligens på Handels
+    - Så får trikom kanskje låne bil med tanke på kiosken.
 
-
-## 099 Generalforsamlingen H2023 (10min)
-
-[Vi må begynne å tenke på å få satt en dato, innkalling til genfors skal ut minst 4 uker i forveien. Vi burde også få en oversikt over hva som må gjøres klart av organisatoriske ting.]
-
-- I fjor hadde vi 19.oktober, tenker rundt den datoen er greit, men nå er det jo uka.  
-
-- Vi kunne hatt feks dagen etter et stort UKA-arrangement siden de ikke kommer til å ta et annet stort arrangement dagen etter  
-
-- Onsdag 11. okt eller 18. okt kunne vært options?  
-
-Organisasjonsstruktur  
-- Blir kanskje et tema på genfors  
-- Har sett litt på det  
-- Diskusjonskveld kommende mandag  
-
-Skal vi ha GenVORS?  
-- Det må være 2 uker før genfors  
-- Skal vi ha det på en tordag sånn folk kan stikke på dt etter genVORS??  
-
-- Så snart vi finner dato må vi booke rom og fikse alt administrativt. Også huske at noen her skal nok byttes ut så ta med det til komiteen din hvis det gjelder deg.  
-
-
-## 100 Overraskelse
-
-[surprise!]
-
-- Noe jeg har lyst til å ta med fra trikom er at på punkt 100 og 200 osv så har vi kakepunkt!!  
-- Caro har med is!! NAM  
-
-## 101 Kaffe høsten 2023
-
-[Den tidligere sponsoren av kaffe har valgt å ikke forlenge kaffeavtalen grunnet kutt i rekrutteringsbudsjett. Bedkom vil prøve å lande en ny sponsor gjennom høsten, men dette vil kunne ta tid. Er det aktuelt å søke IE-velferdsmidler eller IDI-potten for kaffe-støtte for å beholde dette tilbudet?]
-
-- Snakket litt i bedkom om å endre avtalen. Eventuelt søke IDI eller IE.  
-    - IDI-potten er ment til arrangementer, så vi må nok søke et annet sted  
-    - Fikk nylig mail om velferdsstøtte, kan prøve å argumentere for det  
-    - Finnes også noe som heter fri-fond, arrkom fikk noe støtte til immball der  
-
-- Kunne sett på mulgiheter til å gjøre det til et arrangement, hver gang man handler til lunsj så er det kaffe. Så blir det et arrangement så kunne man søkt IDI.  
-    - Ikke en dum ide! For pga UKA er det en del penger igjen som kunne blitt brukt på IDI.  
-    - Kunne kalt det kaffe-mandag og hatt det som et lite arrangement også hatt det flere dager.  
-
-- Johanna prøver først å søke velferdstinget.  
-- Kan også prøve å søke støtte fra Excited, fagkom har brukt disse.  
-
-## 102 Eventuelt
+## 110 Eventuelt
 
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet]
 
-### ITEX bot
-- Fikk spørsmål angående bot på ITEX. De som har utestående betaling på feks et arrkom-arrangement kan ikke melde seg på andre arrangementer til betalingen er gjort. Kan man gjøre det samme for de som ikke betaler en bot man kan få på ITEX? Med bot menes manglende oppmøte på ITEX-arrangement.  
+### Innsyn i mails
 
-    - Kanskje letteste løsning er å lage et dummy-arrangmenet for å gi bot via utestående betaling.  
+- Plukke opp ting som skjer overalt. Leder og nestleder sitter på mye erfaring som de kan bidra med der det trengs.
+- Skummer gjennom hele Onlines meldinger.
+- Brukes til beste hensikter.
 
+### T-skjorter velkom
+
+- Mange andre linjeforeninger gjenbruker t-skjorter, synes det er lurt med tanke på gjenbruk og miljø. Er mye med 200 t-skjorter eller hva det er hvert år
+- Problemet ligger bare i spons, for den kan endre seg. I tillegg kan det bli problematisk med vasking av de, hvem skal gjøre det.
+- Bra mtp. bærekraft.
+- Er jo gøy for velkom å lage egne, tror de trives med det.
+- Kanskje viktig å tenke på, må man bestille inn to til hver, kanskje heller bestille ekstra hvis noen ødelegger.
+    - Er jo litt nasty med samme hver dag, er ikke sikkert alle rekker å vaske og tørke.
+    - Er jo ikke alle som bruker de hver dag heller. Faller litt bort mot slutten. Også viktig å nevne at t-skjortene er veldig dyre og.
+    - De som gjenbruker er kanskje de som ikke får spons hvert år.
+- Tskjorten følger tema til fadderuken, og det faller bort om vi gjenbruker.
+    - Tema er ikke så sentralt uansett, så det går an å se på alternativ.
+- Hvis man har en fast fadder t-skjorte så går det jo an å trykke på logoer med tanke på spons. Men det er jo jævlig ork og stress. Og blir jo egentlig ikke noe bedre.
+- Det er mange temafester og man ender opp med å ikke bruke de hver dag. Om man legger opp til det så kan man unngå det, typ ha temafest annenhver dag (der den ikke trengs).
+- Apropos velkom: Hvem sender ut tilbakemeldinsgsskjema for fadderukene.
+- Apropos tilbakemeldingsskjema: Sebbi sin forslag om å sende tilbakemelding etter kompileringen, går det?
+    - Mellomløsning for tilbakemeldingsskjema funker så kan vi jo sende ut en google form og høre fra de.
+    - Problemet ligger ikke i skjema men heller i at folk ikke får beskjed om at de har et skjema å fylle ut
+    - Skjemaet finnes ikke (?), og vi må huke av på alle oppmøtte og det er vanskelig å lage en link.
+- Spø: Vet vi hvor mange det gjelder som bruker studmail og derfor ikke fått varsel?
+    - Har ikke noe konkret, av og til 3 stykk, noen ingen og noen ganger 50
+    - Kan vi ikke ha en ekstern undersøkelse da? De som opplever kompileringen som ubehagelig, eller har noe de ønsker å si om det vil nok ha motivasjon til å fylle ut skjema på slack face etc. Uten at det trengs å bli tatt gjennom OW
+
+¨
+
+
+### Bekk vil ha enda mer kontakt med oss
+
+- De vil gjerne ha mer kontakt med oss når de kommer hit på arrangement. Så feks før ping så skal Ingrid og Caro bli med på lunsj. Kommer til å rullere på det. 
+
+## 111 TODO´s
+
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig
+
+- [] Johanna: Søker velferdstinget for kaffe
+- [] Magnus: Legg ut om prikker på Facebook
+- [] Magnus: Sende mail til velkom om tilbakemeldingsskjema og tskjorter
+- [] Caro: Legge ut innlegg om at hvis folk ikke er kontaktet ang. intervju så kontakt oss
 
 ## Diggepunkt
 
 [Alle må digge noe]
 
+- Digger HAK
+- Digger DiscoKveld :)
+- Digger hunden
+- Digger tuba
+- Digger cookie
+- Digger pizzasnurr
+- Digger jobbintervju i morgen
+- Digger bra påmelding på DiscoKveld
+- ITEX i morgen
+
 ## Møteevaluering
 
-[Ris/ros til hvordan møtet har gått]
+## [Ris/ros til hvordan møtet har gått]
