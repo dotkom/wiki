@@ -119,14 +119,6 @@ som sa han tilbød Allah.
 Jeg fortalte mannen fort  
 at guden hans var jalla.  
 
-_RFK
-
-Møtte på en dragvolling
-Rimmet hun på festen
-Svir og klør i munnen min
-Klamydia i kjeften
-
---
   
 _Ymse Bergjubileumsvers_
 
@@ -293,6 +285,15 @@ hun viste oss den lange pikk
 men vi vil helst se fitta
 
 -- 
+
+_RFK_
+
+Møtte på en dragvolling
+Rimmet hun på festen
+Svir og klør i munnen min
+Klamydia i kjeften
+
+--
 
 ## Avslutningsverset
 
