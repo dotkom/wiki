@@ -119,6 +119,14 @@ som sa han tilbød Allah.
 Jeg fortalte mannen fort  
 at guden hans var jalla.  
 
+_RFK
+
+Møtte på en dragvolling
+Rimmet hun på festen
+Svir og klør i munnen min
+Klamydia i kjeften
+
+--
   
 _Ymse Bergjubileumsvers_
 
