@@ -196,6 +196,7 @@ Godkjent!
 ## 126 Refleksjon rundt immball og kompilering (5 min)
 
 [Denne helgen har vi hatt både kompilering og immball! Hadde vært fint å høre hvordan folk synes det gikk og reflektere rundt det ridderne kom med som Feedback i går]
+
 - Immball
     - Litt for liten Scene
     - Mere online-merch som viser at det er vårt ball hadde vært kult
