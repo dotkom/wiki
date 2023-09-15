@@ -13,6 +13,7 @@ God lesing!
 
 Redaktører:
 
+- 2023-2024: Are Saltnes Tømmerås
 - 2022-2023: Runar Johnsen
 - 2021-2022: Benedicte Helen Myrvoll
 - 2020-2021: Henrik Giil Liisberg
