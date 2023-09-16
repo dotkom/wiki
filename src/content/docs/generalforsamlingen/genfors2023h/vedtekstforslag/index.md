@@ -11,7 +11,7 @@ title: "Vedtektsforslag Høsten 2023"
 * [2023 Høst Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2023h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2023 Høst Kandidater](/wiki/online/generalforsamlingen/genfors2023h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
-Om du ønsker å fremme vedtektsforslag foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før **dato her** kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp.
+Om du ønsker å fremme vedtektsforslag foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før **02.oktober kl. 23.59**, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp.
 
 **Hva er et vedtektsforslag?**
 
