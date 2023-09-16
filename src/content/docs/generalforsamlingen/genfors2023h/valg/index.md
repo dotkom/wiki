@@ -10,3 +10,20 @@ title: "Kandidater Høsten 2023"
 * [2023 Høst Saksforslag](/wiki/online/generalforsamlingen/genfors2023h/saksforslag) - Alle innsendte saker vil bli tatt opp.
 * [2023 Høst Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2023h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2023 Høst Kandidater](/wiki/online/generalforsamlingen/genfors2023h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+
+
+## Kandidater til verv  
+Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
+
+For åpenhet, og for å gi alle bedre tenketid, har valgkomiteen laget denne listen over personer som har meldt sin interesse for verv i Hovedstyret i perioden 2023-2024. 
+
+Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under generalforsamlingen.  
+
+**De som har meldt interesse til Hovedstyret er:**
+
+* *Styremedlem fra arrkom:*  
+* *Styremedlem fra bedkom:*  
+* *Styremedlem fra dotkom:*  
+* *Styremedlem fra fagkom:*  
+* *Styremedlem fra prokom:*  
+* *Styremedlem fra trikom:*
