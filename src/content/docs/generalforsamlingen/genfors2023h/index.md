@@ -23,7 +23,7 @@ Referat 2023: (Må legges til)
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)   
-Referat Generalforsamlingen Våren 2023: [attachment:838]  
+Referat Generalforsamlingen Våren 2023: [attachment:843]  
 
 ## Regnskap 2022 og budsjett 2023
 
