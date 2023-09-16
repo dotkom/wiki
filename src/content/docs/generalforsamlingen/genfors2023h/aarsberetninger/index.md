@@ -27,7 +27,7 @@ Samarbeid med andre:
 Studentpolitikk:
 
 
-Sosialt og kos
+Sosialt og kos:
 
 
 
