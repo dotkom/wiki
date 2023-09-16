@@ -2,8 +2,17 @@
 title: "Dagsorden Høsten 2023"
 ---
 
-# Dagsorden 2022
+## Innhold  
+* [2023 Høst Forside](/wiki/online/generalforsamlingen/genfors2023h)   - Forside
+* [2023 Høst Forretningsorden](/wiki/online/generalforsamlingen/genfors2023h/forretningsorden) - Forretningsorden
+* [2023 Høst Dagsorden](/wiki/online/generalforsamlingen/genfors2023h/dagsorden) - Dagsorden for generalforsamlingen
+* [2023 Høst Halvårsberetninger](/wiki/online/generalforsamlingen/genfors2023h/aarsberetninger) - Halvårsberetninger
+* [2023 Høst Saksforslag](/wiki/online/generalforsamlingen/genfors2023h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2023 Høst Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2023h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Høst Kandidater](/wiki/online/generalforsamlingen/genfors2023h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+
+# Dagsorden Høsten 2023
+
+## [Dagsorden Generalforsamlingen høsten 2023](må legges til)
 
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
-
-## [Dagsorden Generalforsamlingen våren 2023](https://docs.google.com/spreadsheets/d/1ymuTj7lWaTExEngfrxGNOONA3rDGuD-IB9-7QUgTkmk/edit#gid=0)
