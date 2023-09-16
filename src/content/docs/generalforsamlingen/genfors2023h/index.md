@@ -13,6 +13,7 @@ title: "Generalforsamlingen Høsten 2023"
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2023 Høst] (Må legges til)
+
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)    
 Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Referat fra genVORS: [attachment:840]  
