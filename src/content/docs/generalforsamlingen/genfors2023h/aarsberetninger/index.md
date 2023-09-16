@@ -2,7 +2,7 @@
 title: "Halvårsberetninger høsten 2023"
 ---
 
-## Innhold  
+- ## Innhold  
 * [2023 Høst Forside](/wiki/online/generalforsamlingen/genfors2023h)   - Forside
 * [2023 Høst Forretningsorden](/wiki/online/generalforsamlingen/genfors2023h/forretningsorden) - Forretningsorden
 * [2023 Høst Dagsorden](/wiki/online/generalforsamlingen/genfors2023h/dagsorden) - Dagsorden for generalforsamlingen
@@ -71,6 +71,8 @@ Sosialt og kos
 
 ## Applikasjonskomiteen
 
+## FeminIT
+
 
 ## Ekskursjonskomiteen 2023?2024?
 
@@ -91,9 +93,6 @@ Sosialt og kos
 
 ## Datakameratene
 
-
-
-## FeminIT
 
 
 
