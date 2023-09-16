@@ -11,8 +11,8 @@ title: "Dagsorden Generalforsamlingen våren 2023"
 * [2023 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2023v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2023 Kandidater](/wiki/online/generalforsamlingen/genfors2023v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
-# Dagsorden 2022
+# Dagsorden Høsten 2023
+
+## [Dagsorden Generalforsamlingen høsten 2023](må legges til)
 
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
-
-## [Dagsorden Generalforsamlingen våren 2023](https://docs.google.com/spreadsheets/d/1ymuTj7lWaTExEngfrxGNOONA3rDGuD-IB9-7QUgTkmk/edit#gid=0)
