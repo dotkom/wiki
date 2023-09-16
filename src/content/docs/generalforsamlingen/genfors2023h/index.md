@@ -15,9 +15,10 @@ title: "Generalforsamlingen Høsten 2023"
 Presentasjon: [Generalforsamling 2023 Høst] (Må legges til)
 
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)    
-Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
-Referat fra genVORS: [attachment:840]  
-Referat 2023:  [attachment:843]	
+Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc) 
+ 
+Referat fra genVORS: (Må legges til)
+Referat 2023: (Må legges til)	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
@@ -32,10 +33,10 @@ Referat Generalforsamlingen 2022: [attachment:838]
 ## Informasjon
 
 **Hva:** Onlines generalforsamling  
-**Når:** 1. mars 2023, kl. 16:30  
-**Hvor:** Realfagsbygget R7  
+**Når:** 16. oktober 2023, kl. 16:00 
+**Hvor:** 
 
-Generalforsamlingen 2023 finner sted **1. mars 16:30 i R7**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen Høsten 2023 finner sted **må endres**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 23/24 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret på [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
