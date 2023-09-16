@@ -18,6 +18,7 @@ Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_V
 Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc) 
  
 Referat fra genVORS: (Må legges til)
+
 Referat 2023: (Må legges til)	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
