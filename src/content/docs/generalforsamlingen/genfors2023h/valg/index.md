@@ -21,9 +21,9 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Styremedlem fra arrkom:*  
-* *Styremedlem fra bedkom:*  
-* *Styremedlem fra dotkom:*  
-* *Styremedlem fra fagkom:*  
-* *Styremedlem fra prokom:*  
-* *Styremedlem fra trikom:*
+* *Styrerepresentant fra arrkom:*  
+* *Styrerepresentant fra bedkom:*  
+* *Styrerepresentant fra dotkom:*  
+* *Styrerepresentant fra fagkom:*  
+* *Styrerepresentant fra prokom:*  
+* *Styrerepresentant fra trikom:*
