@@ -35,7 +35,7 @@ Referat Generalforsamlingen Våren 2023: [attachment:843]
 
 **Hva:** Onlines generalforsamling  
 
-**Når:** 16. oktober 2023, kl. 17:00 
+**Når:** 16. oktober 2023, kl. 17:15 
 
 **Hvor:** Hovedbygningen, H3
 
