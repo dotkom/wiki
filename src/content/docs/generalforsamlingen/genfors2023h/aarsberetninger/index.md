@@ -20,16 +20,6 @@ title: "Halvårsberetninger høsten 2023"
 Generelt:
 
 
-Samarbeid med andre:
-
-
-
-Studentpolitikk:
-
-
-Sosialt og kos:
-
-
 
 ## Debug
 
@@ -38,13 +28,7 @@ Sosialt og kos:
 
 
 ## Bank- og økonomikomiteen  
-### Komitespesifikt:  
 
-
-### Økonomispesifikt:  
- 
-### Bærekraftig:   
- 
 
 
 
