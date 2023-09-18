@@ -35,6 +35,7 @@ Referat Generalforsamlingen Våren 2023: [attachment:843]
 
 **Hva:** Onlines generalforsamling  
 **Når:** 16. oktober 2023, kl. 17:00 
+
 **Hvor:** Hovedbygningen, H3
 
 Generalforsamlingen Høsten 2023 finner sted **16.oktober på Hovedbygningen, H3.**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
