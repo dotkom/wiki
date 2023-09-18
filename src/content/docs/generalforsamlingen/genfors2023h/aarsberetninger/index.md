@@ -17,7 +17,6 @@ title: "Halvårsberetninger høsten 2023"
 
 ## Hovedstyret
 
-Generelt:
 
 
 
