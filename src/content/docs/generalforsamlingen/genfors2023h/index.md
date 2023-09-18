@@ -34,11 +34,12 @@ Referat Generalforsamlingen Våren 2023: [attachment:843]
 ## Informasjon
 
 **Hva:** Onlines generalforsamling  
+
 **Når:** 16. oktober 2023, kl. 17:00 
 
 **Hvor:** Hovedbygningen, H3
 
-Generalforsamlingen Høsten 2023 finner sted **16.oktober på Hovedbygningen, H3.**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen Høsten 2023 finner sted **16.oktober på Hovedbygningen, H3**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 23/24 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret på [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
