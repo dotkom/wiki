@@ -1,5 +1,5 @@
 ---
-title: "HS-møte 18.09.2023"
+title: "HS-møte 18.09.2023- GenVORS og generalforsamling oppstart"
 ---
 
 # HS-møte 18.09.2023
