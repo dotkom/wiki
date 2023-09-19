@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2023
+- [2023-11-09](2023-18-09) - GenVORS og Generalforsamling oppstart
 - [2023-11-09](2023-11-09) - Revidering av budsjett, kaffe og div.
 - [2023-04-09](2023-04-09) - 
 - [2023-28-08](2023-28-08) - Diverse, opptak, genfors/vors
