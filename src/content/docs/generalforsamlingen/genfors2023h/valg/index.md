@@ -27,3 +27,5 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styrerepresentant fra fagkom:*  
 * *Styrerepresentant fra prokom:*  
 * *Styrerepresentant fra trikom:*
+
+**NB! Det kan komme endringer i organisasjonsstrukturen på neste generalforsamling. Mer informasjon kommer på denne siden, så snart det er klart.**
