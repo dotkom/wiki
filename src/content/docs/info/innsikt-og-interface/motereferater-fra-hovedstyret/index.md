@@ -10,7 +10,7 @@ Møtereferater
 ### Høst 2023
 - [2023-18-09](2023-18-09) - GenVORS og Generalforsamling oppstart
 - [2023-11-09](2023-11-09) - Revidering av budsjett, kaffe og div.
-- [2023-04-09](2023-04-09) - 
+- [2023-04-09](2023-04-09) - Fadderukene, NTNU snapchat takeover
 - [2023-28-08](2023-28-08) - Diverse, opptak, genfors/vors
 - [2023-23-08](2023-23-08) - Opptak, styrevors, genfors/vors
 ### Vår 2023
