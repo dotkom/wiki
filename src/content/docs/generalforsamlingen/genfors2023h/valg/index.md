@@ -21,6 +21,8 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
+**Dersom vedtektsforslaget om organisasjonsstrukturen faller:**
+
 * *Styrerepresentant fra arrkom:*  
 * *Styrerepresentant fra bedkom:* Frederik Farstad  
 * *Styrerepresentant fra dotkom:*  
@@ -28,4 +30,8 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styrerepresentant fra prokom:*  
 * *Styrerepresentant fra trikom:*
 
-**NB! Det kan komme endringer i organisasjonsstrukturen på denne generalforsamlingen. Mer informasjon kommer på denne siden, så snart det er klart.**
+**Dersom vedtektsforslaget om organisasjonsstrukturen går gjennom:**
+
+* *Styremedlem:*  
+
+Dersom vedtektsforslaget om organisasjonsstrukturen gjennom vil Hovedstyret bestå av leder, nestleder, økonomiansvarlig og tre styremedlemmer. Alle kandidater stiller til samme rollen og vil bli stemt inn samtidig.
