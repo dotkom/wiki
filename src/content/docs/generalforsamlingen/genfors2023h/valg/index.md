@@ -34,4 +34,4 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Styremedlem:*  
 
-Dersom vedtektsforslaget om organisasjonsstrukturen gjennom vil Hovedstyret bestå av leder, nestleder, økonomiansvarlig og tre styremedlemmer. Alle kandidater stiller til samme rollen og vil bli stemt inn samtidig.
+Dersom vedtektsforslaget om organisasjonsstruktur går gjennom vil Hovedstyret bestå av leder, nestleder, økonomiansvarlig og tre styremedlemmer. Alle kandidater stiller til samme rollen og vil bli stemt inn samtidig.
