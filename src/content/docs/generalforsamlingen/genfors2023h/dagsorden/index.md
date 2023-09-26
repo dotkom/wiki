@@ -13,6 +13,6 @@ title: "Dagsorden Høsten 2023"
 
 # Dagsorden Høsten 2023
 
-## [Dagsorden Generalforsamlingen høsten 2023](må legges til)
+## [Dagsorden Generalforsamlingen høsten 2023](https://docs.google.com/spreadsheets/d/1T0KI6jsIOLYZyA7fBdL98Ae30fAv2YB5RzbNoDO0LL0/edit?usp=sharing)
 
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
