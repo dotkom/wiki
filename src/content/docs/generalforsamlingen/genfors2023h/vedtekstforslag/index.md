@@ -122,7 +122,7 @@ Ved Sekundær generalforsamlingen utlyses:
 
 
 
-## Vedtektsforslag 03: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 går gjennom)
+## Vedtektsforslag 02: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 går gjennom)
 		v/ Carolina Gunnesdal og Frida Eriksen Næss
 
 **Bakgrunn**:
