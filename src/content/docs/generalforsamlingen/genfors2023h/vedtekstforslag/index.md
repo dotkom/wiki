@@ -25,7 +25,8 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ## Vedtektsforslag 01: Endre på strukturen til HS v/ Njål Ingersønn Sørland
 
-**Bakgrunn**: 
+**Bakgrunn**:
+
 Ble stemt gjennom saksforslag i vår om å nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer.
 
 Online har vokst mye de siste årene, og vi har i løpet av kort tid fått tre nye komiteer. Til tross for dette så har ikke organisasjonsstrukturen til Online endret seg noe, og man kan se litt problemer med dette når det kommer til kommunikasjonsflyt i linjeforeningen.
@@ -123,7 +124,8 @@ Ved Sekundær generalforsamlingen utlyses:
 
 ## Vedtektsforslag 02: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret
 
-**Bakgrunn**: 
+**Bakgrunn**:
+
 Vedtektsforslaget om at Debug medlemmer ikke kan sitte i hovedstyret gikk gjennom i vår, etter dette var det litt usikkerhet rundt når et medlem av Debug må permittere seg for å stille til hovedstyret. 
 
 Hovedstyret har nå lagt til en litt klarere vedtekt rundt når man må permittere seg fra Debug når man ønsker å stille til hovedstyret.
