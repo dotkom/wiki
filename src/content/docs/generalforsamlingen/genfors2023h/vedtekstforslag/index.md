@@ -122,7 +122,8 @@ Ved Sekundær generalforsamlingen utlyses:
 
 
 
-## Vedtektsforslag 02: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 går gjennom)
+## Vedtektsforslag 03: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 går gjennom)
+		v/ Carolina Gunnesdal og Frida Eriksen Næss
 
 **Bakgrunn**:
 
@@ -148,6 +149,7 @@ Til:
 Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan, et medlem av Debug kan derfor ikke være i både hovedstyret og Debug samtidig. Et medlem av Debug kan stille til hovedstyret, men må permittere seg fra vervet dersom de blir stemt inn i hovedstyret. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
 
 ## Vedtektsforslag 03: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 ikke går gjennom)
+		v/ Carolina Gunnesdal og Frida Eriksen Næss
 
 Bakgrunn:
 Vedtektsforslaget om at Debug medlemmer ikke kan sitte i hovedstyret gikk gjennom i vår, etter dette var det litt usikkerhet rundt når et medlem av Debug må permittere seg for å stille til hovedstyret.
