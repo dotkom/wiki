@@ -23,7 +23,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 
 
-## Vedtektsforslag 01: Endre på strukturen til HS v/ Njål Ingersønn Sørland
+## vedtektsforslag 01: Endre på Hovedstyrets sammensetning v/ Njål Ingersønn Sørland
 
 **Bakgrunn**:
 
