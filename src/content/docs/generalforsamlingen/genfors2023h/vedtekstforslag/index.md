@@ -20,3 +20,124 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 [TOC]
 
 # Forslag til Onlines vedtekter
+
+
+## Vedtektsforslag 01: Endre på strukturen til HS v/ Njål Ingersønn Sørland
+
+**Bakgrunn**: 
+Ble stemt gjennom saksforslag i vår om å nedsette en arbeidsgruppe for undersøkelse av vår organisasjonsstruktur og alternative strukturer.
+
+Online har vokst mye de siste årene, og vi har i løpet av kort tid fått tre nye komiteer. Til tross for dette så har ikke organisasjonsstrukturen til Online endret seg noe, og man kan se litt problemer med dette når det kommer til kommunikasjonsflyt i linjeforeningen.
+
+Vi har per i dag 11 komiteer og 4 nodekomiteer. Av disse så er det kun 7 av komiteene som er direkte representert i Hovedstyret gjennom en styrerepresentant eller økonomiansvarlig. Komiteene uten styrerepresentant har nestleder av Online som kontaktpunkt, kontra de andre som har en spesifikk representant. Dette kan gjøre at terskelen for å ta kontakt med HS, og få informasjon fra HS blir vanskeligere.
+
+**Endre vedtekt 4.1.1 Hovedstyrets sammensetning **
+
+Fra:  
+Hovedstyret består av:
+	Leder
+	Nestleder
+	Økonomiansvarlig
+	Styrerepresentant for Arrangementskomiteen
+	Styrerepresentant for Bedriftskomiteen
+	Styrerepresentant for Drifts- og utviklingskomiteen
+	Styrerepresentant for Fag- og kurskomiteen
+	Styrerepresentant for Profil- og aviskomiteen
+	Styrerepresentant for Trivselskomiteen
+
+
+Til:  
+Hovedstyret består av Leder, Nestleder, Økonomiansvarlig, og tre styremedlemmer
+
+**Endre vedtekt 4.2 Komiteer **
+
+Fra:  
+Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt. Komiteer med stemmerett i Hovedstyret skal i tillegg bestå av et styremedlem.
+
+Til:  
+Alle komiteer består av minimum en leder, en økonomiansvarlig, en tillitsvalgt og en kommunikasjonsansvarlig. Rollen som kommunikasjonsansvarlig kan kombineres med hvilken som helst annen rolle i komiteen.
+
+**Endre vedtekt 4.1 Hovedstyret **
+
+Fra: 
+[…]
+For at Hovedstyret skal være beslutningsdyktig må minst halvparten (1/2) av representantene være tilstede.
+Ingen kan inneha to verv i Hovedstyret. Leder har dobbeltstemme ved stemmelikhet. Hovedstyrets møter er lukket, men gjester kan inviteres dersom Hovedstyret ønsker dette. 
+[…]
+
+Til:  
+[…]
+For at Hovedstyret skal være beslutningsdyktig må minst halvparten (1/2) av styremedlemmene være tilstede.
+
+Ingen kan inneha to verv i Hovedstyret. Leder har dobbeltstemme ved stemmelikhet. Hovedstyrets møter er lukket, men gjester kan inviteres dersom Hovedstyret ønsker dette. Ved saker som angår en eller flere komiteer har kommunikasjonsansvarlig(e) fra komiteen(e) rett til å enten møte selv, eller sende noen andre fra komiteen sin.
+[...]
+
+
+**Endre vedtekt 4.1.2 Fravær av hovedstyremedlem**
+
+Fra: 
+Dersom en komité sin styrerepresentant blir fraværende er det komitéleder som tar over styrerepresentantens plikter, oppgaver og rettigheter. Dersom komitéleder ikke er tilgjengelig plikter Hovedstyret å fylle stillingen.
+
+Dersom leder, nestleder og/eller økonomiansvarlig av linjeforeningen blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+
+
+Til:  
+Dersom noen av Hovedstyrets medlemmer blir fraværende i den grad at det går utover vervets arbeidsoppgaver skal det innkalles til ekstraordinær generalforsamling for å fylle vervet.
+
+**Endre vedtekt 4.1.3 Krav til kandidater**
+
+Fra: 
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet. 
+
+Til:  
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer og nodekomiteer, og kan ikke inneha disse vervene så lenge de sitter i styret.
+
+
+**Endre vedtekt 4.1.4 Valg av hovedstyre **
+
+Fra: 
+[...]
+Ved Ordinær generalforsamlingen utlyses:
+	Leder
+	Nestleder
+	Økonomiansvarlig
+
+Ved Sekundær generalforsamlingen utlyses:
+	Øvrige styrerepresentanter
+[...]
+
+Til:  
+[...]
+Ved Ordinær generalforsamlingen utlyses:
+	Leder
+	Nestleder
+	Økonomiansvarlig
+
+Ved Sekundær generalforsamlingen utlyses:
+	Øvrige styremedlemmer
+[...]
+
+
+## Forslag 02: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret
+
+**Bakgrunn**: 
+Vedtektsforslaget om at Debug medlemmer ikke kan sitte i hovedstyret gikk gjennom i vår, etter dette var det litt usikkerhet rundt når et medlem av Debug må permittere seg for å stille til hovedstyret. 
+
+Hovedstyret har nå lagt til en litt klarere vedtekt rundt når man må permittere seg fra Debug når man ønsker å stille til hovedstyret.
+
+**Endre vedtekt 4.1.3 Krav til kandidater**
+
+Fra:
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet.
+
+Til:  
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet så snart kandidaten har vunnet valget.
+
+
+**Endre vedtekt 4.4.5 Debug **
+
+Fra:
+Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
+
+Til:
+Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan, et medlem av Debug kan derfor ikke være i både hovedstyret og Debug samtidig. Et medlem av Debug kan stille til hovedstyret, men må permittere seg fra vervet dersom de blir stemt inn i hovedstyret. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
