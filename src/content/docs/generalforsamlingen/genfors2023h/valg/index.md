@@ -32,8 +32,6 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **Dersom vedtektsforslaget om organisasjonsstrukturen går gjennom:**
 
-* *Styremedlem:* Frederik Farstad,  
-* *Styremedlem:*
-* *Styremedlem:*
+En av tre styremedlem:* Frederik Farstad,  
 
 Dersom vedtektsforslaget om organisasjonsstruktur går gjennom vil Hovedstyret bestå av leder, nestleder, økonomiansvarlig og tre styremedlemmer. Alle kandidater stiller til samme rollen og vil bli stemt inn samtidig.
