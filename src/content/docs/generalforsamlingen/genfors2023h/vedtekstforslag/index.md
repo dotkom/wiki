@@ -22,6 +22,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 # Forslag til Onlines vedtekter
 
 
+
 ## Vedtektsforslag 01: Endre på strukturen til HS v/ Njål Ingersønn Sørland
 
 **Bakgrunn**: 
@@ -30,6 +31,7 @@ Ble stemt gjennom saksforslag i vår om å nedsette en arbeidsgruppe for unders�
 Online har vokst mye de siste årene, og vi har i løpet av kort tid fått tre nye komiteer. Til tross for dette så har ikke organisasjonsstrukturen til Online endret seg noe, og man kan se litt problemer med dette når det kommer til kommunikasjonsflyt i linjeforeningen.
 
 Vi har per i dag 11 komiteer og 4 nodekomiteer. Av disse så er det kun 7 av komiteene som er direkte representert i Hovedstyret gjennom en styrerepresentant eller økonomiansvarlig. Komiteene uten styrerepresentant har nestleder av Online som kontaktpunkt, kontra de andre som har en spesifikk representant. Dette kan gjøre at terskelen for å ta kontakt med HS, og få informasjon fra HS blir vanskeligere.
+
 
 **Endre vedtekt 4.1.1 Hovedstyrets sammensetning **
 
@@ -118,7 +120,8 @@ Ved Sekundær generalforsamlingen utlyses:
 [...]
 
 
-## Forslag 02: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret
+
+## Vedtektsforslag 02: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret
 
 **Bakgrunn**: 
 Vedtektsforslaget om at Debug medlemmer ikke kan sitte i hovedstyret gikk gjennom i vår, etter dette var det litt usikkerhet rundt når et medlem av Debug må permittere seg for å stille til hovedstyret. 
