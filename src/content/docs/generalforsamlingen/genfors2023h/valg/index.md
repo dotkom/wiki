@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styrerepresentant fra arrkom:*  
 * *Styrerepresentant fra bedkom:* Frederik Farstad  
 * *Styrerepresentant fra dotkom:*  
-* *Styrerepresentant fra fagkom:*  
+* *Styrerepresentant fra fagkom:* Anja Ødegård 
 * *Styrerepresentant fra prokom:*  
 * *Styrerepresentant fra trikom:*
 
