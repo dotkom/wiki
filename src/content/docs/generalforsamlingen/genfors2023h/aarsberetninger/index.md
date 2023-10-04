@@ -49,7 +49,24 @@ title: "Halvårsberetninger høsten 2023"
 ## Trivselskomiteen
 
 
-## Backlog  
+## Backlog    
+- Arrangementer:
+    - Arrangerte rydding av boden i et samarbeid med andre komiteer
+    - Arrangerte kurs for HS og komiteledere etter vårens generalforsamlingen, og planlegger en etter denne generalforsamlingen
+    - Arrangerte hundekos i eksamensperioden i vår
+    - Arrangerte komitekickoff
+- Prosjekter
+    - Løpeuke: Hadde løpeuke som ble gjennomført i samarbeid med andre komiteer
+    - Autobank har hatt opptak
+    - Revy: Grunnet lave søkertall var det dessverre ikke mulig å få gjennomført. Takk til revystyret som har stått på!
+    - Organisasjonsstruktur: Tatt en nøye vurdering av Onlines nåværende organisasjonsstruktur og kommer med vedtektsforslag til endringer
+- Diverse
+    - Tatt opp ett nytt medlem
+    - 8 aktive interessegrupper
+    - I løpende dialog med backup i Abakus for å finne ut hvordan vi kan definere oss og vår rolle i Online mer
+- Miljøtiltak
+    - Ryddet i boden så komiteer kan gjenbruke det de har uten å kjøpe inn nytt
+    - Servert vegetarmat på kurs
 
 
 ## Applikasjonskomiteen
