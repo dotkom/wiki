@@ -43,15 +43,13 @@ title: "Kontorvakt"
 | Sprite ned Switch kontrollene og legg i kurv                 | Sprite ned Switch kontrollene og legg i kurv                 | Sprite ned Switch kontrollene og legg i kurv                 |
 | Bytte papir i Toastjern                                      | Vaske mikrobølgovn                                           | Kaste utgått mat fra venstre kjøleskap                       
 |
-| Vaske toastjern om nødvendig                                 | Vaske toastjern om nødvendig                                 | Vaske toastjern om nødvendig                                 |
+| Vaske toastjern om nødvendig                                 | Vaske toastjern om nødvendig                                 | Vaske toastjern om nødvendig                                 
 | Gå over kaffekroken med klut om nødvendig                    | Gå over kaffekroken med klut om nødvendig                    | Gå over kaffekroken med klut om nødvendig                    |
 | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              |
 | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         |
-| Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende 
-|
-|tømme kaffebøtta|tømme kaffebøtta|tømme kaffebøtta
-|
-|Vaske og støvsuge gulv |Vaske og støvsuge gulv |Vaske og støvsuge gulv 
+| Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende|
+|tømme kaffebøtta|tømme kaffebøtta|tømme kaffebøtta |
+|Vaske og støvsuge gulv |Vaske og støvsuge gulv |Vaske og støvsuge gulv |
 
 
 
