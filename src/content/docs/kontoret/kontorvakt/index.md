@@ -41,8 +41,7 @@ title: "Kontorvakt"
 | Mandag                                                       | Onsdag                                                       | Fredag                                                       |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | Sprite ned Switch kontrollene og legg i kurv                 | Sprite ned Switch kontrollene og legg i kurv                 | Sprite ned Switch kontrollene og legg i kurv                 |
-| Bytte papir i Toastjern                                      | Vaske mikrobølgovn                                           | Kaste utgått mat fra venstre kjøleskap                       
-|
+| Bytte papir i Toastjern                                      | Vaske mikrobølgovn                                           | Kaste utgått mat fra venstre kjøleskap |
 | Vaske toastjern om nødvendig                                 | Vaske toastjern om nødvendig                                 | Vaske toastjern om nødvendig                                 
 | Gå over kaffekroken med klut om nødvendig                    | Gå over kaffekroken med klut om nødvendig                    | Gå over kaffekroken med klut om nødvendig                    |
 | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              |
