@@ -50,9 +50,9 @@ title: "Kontorvakt"
 | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende 
 
 |tømme kaffebøtta|tømme kaffebøtta|tømme kaffebøtta
-
+|
 |Vaske og støvsuge gulv |Vaske og støvsuge gulv |Vaske og støvsuge gulv 
-
+|
 
 
 
