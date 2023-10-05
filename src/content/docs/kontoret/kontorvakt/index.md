@@ -49,7 +49,7 @@ title: "Kontorvakt"
 | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         |
 | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende 
 |
-|tømme kaffebøtta||tømme kaffebøtta||tømme kaffebøtta
+|tømme kaffebøtta|tømme kaffebøtta|tømme kaffebøtta
 |
 |Vaske og støvsuge gulv |Vaske og støvsuge gulv |Vaske og støvsuge gulv |
 
