@@ -48,7 +48,11 @@ title: "Kontorvakt"
 | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              | Gå over bord, kjøkkenbenk og kaffebord med klut              |
 | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         | Rydde stoler inntil bord på kontoret                         |
 | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende | Kaste generelt søppel som ligger strødd og rydde Offline og lignende |
-| Tømme kaffebøtta                                             | Tømme kaffebøtta                                             | Tømme kaffebøtta                                             |
+| Tømme kaffebøtta                                             | Tømme kaffebøtta                                             | Tømme kaffebøtta                                             | Vaske og støvsuge gulv
+| Vaske og støvsuge gulv
+| Vaske og støvsuge gulv
+
+
 
 
 
