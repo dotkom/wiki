@@ -75,7 +75,6 @@ Vi har det bra i dag også :)
 
 - Ikke så mye å si
 - Skal begynne å lage nytt budsjett i dag.
-- Blitt oppmerksom på at iTEX har budsjettert med 50 000 fra HSP
 - Litt usikker på om budjsettet er dobbelt, må sjekke opp med bedkom økans
     - Skal snakke med bedkomleder Ingrid, hun har mest kontroll på den avtalen
 - kommer til å bli en liten case med surfeturen, litt misforståelse av pris for turen.
