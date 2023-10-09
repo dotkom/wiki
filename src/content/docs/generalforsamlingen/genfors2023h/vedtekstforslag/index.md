@@ -136,7 +136,7 @@ Fra:
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet.
 
 Til:  
-Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, **må de permitteres fra dette verve så snart kandidaten blir tatt opp i Hovedstyret og kan ikke inneha dette vervet så lenge de sitter i styret.**
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, **må de permitteres fra dette vervet så snart kandidaten blir tatt opp i Hovedstyret og kan ikke inneha dette vervet så lenge de sitter i styret.**
 
 
 ## Vedtektsforslag 03: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 ikke går gjennom) v/ Carolina Gunnesdal og Frida Eriksen Næss
