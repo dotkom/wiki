@@ -136,16 +136,8 @@ Fra:
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet.
 
 Til:  
-Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, må de permitteres fra dette vervet så snart kandidaten har vunnet valget.
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom kandidaten er med i Debug, **må de permitteres fra dette verve så snart kandidaten blir tatt opp i Hovedstyret og kan ikke inneha dette vervet så lenge de sitter i styret.**
 
-
-**Endre vedtekt 4.4.5 Debug **
-
-Fra:
-Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
-
-Til:
-Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan, et medlem av Debug kan derfor ikke være i både hovedstyret og Debug samtidig. Et medlem av Debug kan stille til hovedstyret, men må permittere seg fra vervet dersom de blir stemt inn i hovedstyret. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
 
 ## Vedtektsforslag 03: Endre ordlyden i vedtekten om medlemmer av Debug som stiller til hovedstyret (Faller dersom 01 ikke går gjennom) v/ Carolina Gunnesdal og Frida Eriksen Næss
 
@@ -161,18 +153,8 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjefore
 
 Til:
 
-Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret.
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat til styrerepresentant ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer**,** nodekomiteer **og Debug**, og kan ikke inneha disse vervene så lenge de sitter i styret.
 
-
-**Endre vedtekt 4.4.5 Debug **
-
-Fra:
-
-Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
-
-Til:
-
-Gruppens hovedoppgave er å fungere som linjeforeningens uavhengige varslingsorgan, et medlem av Debug kan derfor ikke være i både hovedstyret og Debug samtidig. Et medlem av Debug kan stille til hovedstyret, men må permittere seg fra vervet dersom de blir stemt inn i hovedstyret. Gruppen står fritt fra linjeforeningen, men er underlagt de retningslinjene og avtaler som er inngått med linjeforeningen. Leder velges jamfør ledervalg i 4.2, og er linjeforeningens hovedtillitsvalgt.
 
 ## Vedtektsforslag 04: Bedkom ansvarlige for ITEX						1/5 v/ Ingrid Kvitnes og Magnus Ouren		
 
