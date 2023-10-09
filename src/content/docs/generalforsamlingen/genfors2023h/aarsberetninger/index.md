@@ -94,6 +94,11 @@ Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke 
 
 
 ## Ekskursjonskomiteen 2023
+## Ekskursjonskomiteen 2023?2024?
+                           ++++++
+
+
+**Ekskom 2023**
 
 - Gjennomført en vellykket ekskursjon
 - Mye styr med ekskursjonsledere og IDI
