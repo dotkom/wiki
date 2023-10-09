@@ -96,8 +96,8 @@ Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke 
 ## Ekskursjonskomiteen 2023
 
 - Gjennomført en vellykket ekskursjon
-- Mye styr med ekskursjonsledere og IDI
 - 48 stk, fordelt mellom da 3. 4. og 5-klassinger
+- Mye styr med ekskursjonsledere og IDI. Har gitt tilbakemelding om dette.
 - Turen ble mye billigere enn forventet. Fikk tilbakebetalt deltakerene rundt 35% av innbetalt depositum
 - Brukt mye tid på erfaringsskriv og retrospekt for å sikre at Ekskom 2024 kan dra nytte av våre erfaringer. Leder av Ekskom 2023 har innsyn i Ekskom 2024s arbeid for god erfaringsoverføring og for å bistå dersom det trengs.
 - **Miljøtiltak**: Dro ikke til Asia for den kulturelle uken:)
