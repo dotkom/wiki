@@ -95,7 +95,6 @@ Miljøtiltak
 
 
 ## Ekskursjonskomiteen 2023?2024?
-
 Ekskom 2023 (idk om dette er relevant??)
 - Gjennomført en vellykket ekskursjon
 - Mye styr med ekskursjonsledere og IDI
