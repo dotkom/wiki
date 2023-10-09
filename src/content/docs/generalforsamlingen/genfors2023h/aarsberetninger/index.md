@@ -99,7 +99,7 @@ Miljøtiltak:
 - Vi har kjøpt bakstvarer fra lokalt bakeri    
 - Bruker kollektiv transport når det lar seg gjøre  
 
-# ITEX
+## ITEX
 - Besto av 6 medlemmer som ikke var fra bedkom eller fagkom
 - Arrangerte bedriftstur til Oslo til tross for nedgangstider
 - Fikk med veldig mange nye 4. klassinger på turen
