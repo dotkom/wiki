@@ -24,7 +24,7 @@ title: "Halvårsberetninger høsten 2023"
 - to medlemmer har blitt ferdig med master.  
 - tatt opp to nye medlemmer.  
 - tatt i bruk nominasjonsskjema hvor man kan nominere folk inn i Debug.  
-- Arrangert perling+kake på kontoret
+- Arrangert perling+kake på kontoret på torsdagen etter genfors
 
 ## Arrangementskomiteen  
 
