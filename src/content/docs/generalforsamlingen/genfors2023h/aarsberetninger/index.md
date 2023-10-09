@@ -93,10 +93,7 @@ Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke 
 - **Miljøtiltak**: Ikke bestilt plakater fra prokom i like stor grad som tidligere
 
 
-## Ekskursjonskomiteen 2023?2024?
-
-
-Ekskom 2023 (idk om dette er relevant??)
+## Ekskursjonskomiteen 2023
 
 - Gjennomført en vellykket ekskursjon
 - Mye styr med ekskursjonsledere og IDI
@@ -104,6 +101,18 @@ Ekskom 2023 (idk om dette er relevant??)
 - Turen ble mye billigere enn forventet. Fikk tilbakebetalt deltakerene rundt 35% av innbetalt depositum
 - Brukt mye tid på erfaringsskriv og retrospekt for å sikre at Ekskom 2024 kan dra nytte av våre erfaringer. Leder av Ekskom 2023 har innsyn i Ekskom 2024s arbeid for god erfaringsoverføring og for å bistå dersom det trengs.
 - **Miljøtiltak**: Dro ikke til Asia for den kulturelle uken:)
+
+## Ekskursjonskomiteen 2024
+
+- Ekskom består av 13 aktive medlemmer, 1 permittert  
+- Bestilt tur til Milano, Praha og Amsterdam  
+- Turen er fra 16. mars til 31. mars  
+- Blir totalt 29 deltakere  
+- Ferdig med innbetaling av depositum  
+- Samarbeider med Fagkom og Bedkom om Tech Talks 2024  
+- Har hatt en dugnad i sommer, skal ha flere i november og til våren  
+Miljøtiltak:  
+- Holder ekskursjonsreisen innen Europa!  
 
 ## Online IL
 - Vi har arrangert 7 arrangementer  
