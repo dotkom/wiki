@@ -64,21 +64,25 @@ title: "Halvårsberetninger høsten 2023"
 
 
 ## Drifts- og utviklingskomiteen
+
 Prosjekter:
 - Vi har jobbet på nye OW, og åpnet 73 pull requests siden forrige generalforsamling
 - Vi har byttet til Linear for issues, og åpnet 312 issues
 - Vi har jobbet mot en MVP på det nye vinstraff systemet som er rett rundt hjørnet (for real denne gangen)
 - Vi har begynt et sideprosjekt om å kicke liv i Grades igjen
 - Vi har shippet diverse fikses og QoL endringer til OW4
+
 Admin:
 - Vi har tatt opp 7 nye medlemmer, og er i dag 18 aktive medlemmer fordelt på 3 utviklingsteam
 - Vi har redusert skykostnader med opp til 40% sammenlignet med i fjor
 - Vi har tatt i bruk et nytt ticketing system på hjelp@online.ntnu.no
 - Vi har gjennomført intern retrospektiv ifbm arbeidsprosess og miljø
 - Vi har fått et nytt GDPR-compliant analytics dashboard (istedenfor Google Analytics)
+
 Miljøtiltak:
 - Vi har enten migrert eller eri prosessen å migrere alt fra on-prem på IT-bygget til sky
 - Vi har sluttet å bestille levering på pizzaen, og henter den selv
+
 Diverse:
 - Arrangert blåtur og hyttetur
 
@@ -92,7 +96,8 @@ Diverse:
 - Planlagt og gjennomført Lightning talks i samarbeid med Abakus og Thilde   
 - Gjennomført Oslo tur   
 - Begynt å planlegge vårens arrangementer   
-- Er med å planlegge Tech Talks   
+- Er med å planlegge Tech Talks 
+  
 Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke er oppført som preferanse på online webben.
 
 
