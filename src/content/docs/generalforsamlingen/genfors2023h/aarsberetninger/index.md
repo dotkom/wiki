@@ -42,6 +42,17 @@ title: "Halvårsberetninger høsten 2023"
 
 ## Fag- og kurskomiteen
 
+- Tok opp 6 nye medlemmer.   
+- Planlagt og gjennomført 7 bedriftskurs og et ikke-bedriftskurs   
+- Planlagt og gjennomført 2 eksamensforelesinger i samarbeid med Abakus   
+- Gjennomført ideworkshop med bedkom   
+- Planlagt og gjennomført Lightning talks i samarbeid med Abakus og Thilde   
+- Gjennomført Oslo tur   
+- Begynt å planlegge vårens arrangementer   
+- Er med å planlegge Tech Talks   
+Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke er oppført som preferanse på online webben.
+
+
 ## Profil- og aviskomiteen
 
 
