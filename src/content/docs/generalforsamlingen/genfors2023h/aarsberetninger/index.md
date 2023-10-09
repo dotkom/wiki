@@ -126,17 +126,16 @@ Vi er 21 aktive medlemmer og tok opp 8 prokommere dette opptaket.
 - Vi har tatt opp 7 nye medlemmer. Totalt er vi 17 aktive medlemmer og en aktiv pang
 - Arrangementer 2023:
     - Male handlenett
+    - Strikk og drikk
+    - Kontoret for førsteklassinger
+    - Blanda vors før halloween
+    - Julegrøt og høstsuppe
+    - Vors før julebord
+    - Diverse lavterskel på kontoret i skoletiden
+    - LunsjLounge annenhver uke
+    - Vaffelsteking ca. to ganger i semesteret
+- Miljøtiltak: rester fra lunsjlounge blir fryst ned/satt i kjøleskap og spart til neste gang, for å forhindre matsvinn og spare penger.
 
-
-- Strikk og drikk
-Kontoret for førsteklassinger
-Blanda vors før halloween
-Julegrøt og høstsuppe
-Vors før julebord
-Diverse lavterskel på kontoret i skoletiden
-LunsjLounge annenhver uke
-Vaffelsteking ca. to ganger i semesteret
-Miljøtiltak: rester fra lunsjlounge blir fryst ned/satt i kjøleskap og spart til neste gang, for å forhindre matsvinn og spare penger.
 I tillegg har vi hatt vaskeworkshop hvor vi vaset kontoret grundig, ryddet og vasket boden og vasket kaffekroken.
 
 
