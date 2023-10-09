@@ -135,7 +135,11 @@ Miljøtiltak:
 
 
 ## Casual Gaming  
-
+- Deltatt med gamingstand på FinnFramFest på Spektrum.   
+- Medarrangert gamingsonen på UKM Norge i Olavshallen.   
+- Deltatt med gamingstand på Torucon.   
+- Deltatt på fadderspillkveld hos Online.   
+- Brukt mye tid på planlegging av TrøndeLAN (arrangeres i oktober).   
 
 
 ## Output
