@@ -90,7 +90,7 @@ Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke 
 - Gjennomført arrangement i fadderuken
 - Arrangert 1. - 4. klasse middag, samt lunsj
 - Har 4 arrangementer igjen for semesteret
-- **Miljøtiltak**: Ikke bestille plakater fra prokom i like stor grad som tidligere
+- **Miljøtiltak**: Ikke bestilt plakater fra prokom i like stor grad som tidligere
 
 
 ## Ekskursjonskomiteen 2023?2024?
