@@ -143,7 +143,14 @@ Miljøtiltak:
 
 ## Datakameratene
 
-
+- 11'-er endte 22/23 sesongen på 5. plass i B-sluttspill   
+- 7'-er endte på delt 2. plass i 1. divisjon   
+- Vi har fått rekruttert nye studenter. Fra informatikk har vi fått noen nye spillere og de gamle spillerne fortsetter å være aktive.   
+- Fra informatikk er det mest aktivitet på 7'er.   
+- 7'er er som alltid åpent for alle.   
+- 11'er ligger nå på 3. plass etter 4 spilte kamper.   
+- 7'er ligger nå på 2.plass etter 5 spilte kamper.   
+- Vi skal arrangere lagfest denne høsten (litt vanskelig å sette dato på grunn av Uka). Vi skal også arrangere lagfest til våren, forhåpentligvis med Datakameratene FKJ.   
 
 
 
