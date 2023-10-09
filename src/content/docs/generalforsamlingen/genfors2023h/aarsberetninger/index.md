@@ -86,10 +86,22 @@ Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke 
 ## Applikasjonskomiteen
 
 ## FeminIT
+- Tatt opp 6 nye medlemmer
+- Gjennomført arrangement i fadderuken
+- Arrangert 1. - 4. klasse middag og lunsj
+- Har 4 arrangementer igjen for semesteret
+Miljøtiltak
+- Ikke bestille plakater fra prokom i like stor grad som tidligere
 
 
 ## Ekskursjonskomiteen 2023?2024?
 
+Ekskom 2023 (idk om dette er relevant??)
+- Gjennomført en vellykket ekskursjon
+- Mye styr med ekskursjonsledere og IDI
+- 48 stk, fordelt mellom da 3. 4. og 5-klassinger
+- Turen ble mye billigere enn forventet. Fikk tilbakebetalt deltakerene rundt 35% av innbetalt depositum
+- Brukt mye tid på erfaringsskriv og retrospekt for å sikre at Ekskom 2024 kan dra nytte av våre erfaringer. Leder av Ekskom 2023 har innsyn i Ekskom 2024s arbeid for god erfaringsoverføring og for å bistå dersom det trengs.
 
 ## Online IL
 - Vi har arrangert 7 arrangementer  
