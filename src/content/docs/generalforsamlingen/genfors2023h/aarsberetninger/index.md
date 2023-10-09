@@ -78,6 +78,12 @@ title: "Halvårsberetninger høsten 2023"
 
 
 ## Online IL
+- Vi har arrangert 7 arrangementer  
+- Vi har tatt opp 5 nye medlemmer   
+Miljøtiltak:
+- Vi har løpt til løpearrangementene våres  
+- Vi har kjøpt bakstvarer fra lokalt bakeri    
+- Bruker kollektiv transport når det lar seg gjøre  
 
 
 ## Realfagskjelleren 
