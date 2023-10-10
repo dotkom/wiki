@@ -23,7 +23,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **Dersom vedtektsforslaget om organisasjonsstrukturen faller:**
 
-* *Styrerepresentant fra arrkom:*  
+* *Styrerepresentant fra arrkom:* Jacob Alveberg
 * *Styrerepresentant fra bedkom:* Frederik Farstad  
 * *Styrerepresentant fra dotkom:* Brage Baugerød 
 * *Styrerepresentant fra fagkom:* Anja Ødegård 
