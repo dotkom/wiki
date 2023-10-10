@@ -168,9 +168,9 @@ I tillegg har vi hatt vaskeworkshop hvor vi vaset kontoret grundig, ryddet og va
 
 ## FeminIT
 - Tatt opp 6 nye medlemmer
-- Gjennomført arrangement i fadderuken
-- Arrangert 1. - 4. klasse middag, samt lunsj
-- Har 4 arrangementer igjen for semesteret
+- Gjennomført et arrangement i fadderuken
+- Arrangert kafe-onsdag, eksamenslesning, aktiv mandag, 1. - 4. klasse middag, lunsj, markering av kvinnedagen
+- Samarbeider med Bedkom om et arrangement med Bekk
 - **Miljøtiltak**: Ikke bestilt plakater fra prokom i like stor grad som tidligere
 
 
