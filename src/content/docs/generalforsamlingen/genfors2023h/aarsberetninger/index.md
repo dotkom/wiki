@@ -213,6 +213,14 @@ Miljøtiltak:
 
 ## Realfagskjelleren 
 
+- Nye lys på beerpong rommet (Nye uvlys og taklampe).  
+- Prosjektor i «stua», nå med mulighet for karaoke.  
+- Nye puter i alle rom.  
+- Nye lys på hele kjellern (både Philips hue og led strips).  
+- Inntak av nye medlemmer (alle linjeforeninger har tatt opp nye).  
+- Ny Discord server for både eksterne og interne.  
+- Klar for ny ridder ordning på kjellern i nær framtid.  
+
 
 
 ## Casual Gaming  
