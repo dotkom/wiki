@@ -5,7 +5,7 @@ title: "X-Sport"
 Nåværende gjengmedlemmer
 ---------------------------------
 
-- **Arrangører:** Vemund Eggemoen, Marcus Schrøder, Johan August Østbye, Carolina Gunnesdal, Karen Gjersem Bakke, Jørgen Nummedal og Magne Slåtsveen.
+- **Arrangører:** Vemund Eggemoen, Marcus Schrøder, Johan August Østbye, Carolina Gunnesdal, Jørgen Nummedal og Magne Slåtsveen.
 - **Økonomiansvarlig:** Johan August Østbye
 
 Tidligere medlemmer: Emil Schrøder, Christoffer Skar Lofsberg, Camilla Tran,  Elise Stautland, Kaja Sofie Lundgaard, Hanna Thevik, 
