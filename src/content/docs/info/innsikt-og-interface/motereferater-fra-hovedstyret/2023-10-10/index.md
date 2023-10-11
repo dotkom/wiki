@@ -1,5 +1,5 @@
 ---
-title: "HS-møte 10/10/2023 - Lite som skjer"
+title: "HS-møte 10/10/2023 - IDI takeover og engelske prikkeregler"
 ---
 
 ## Innsjekk
