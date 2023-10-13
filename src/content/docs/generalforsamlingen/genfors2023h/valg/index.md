@@ -28,7 +28,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styrerepresentant fra dotkom:* Brage Baugerød 
 * *Styrerepresentant fra fagkom:* Anja Ødegård 
 * *Styrerepresentant fra prokom:*  
-* *Styrerepresentant fra trikom:*
+* *Styrerepresentant fra trikom:* Markus Helgø Wathle
 
 **Dersom vedtektsforslaget om organisasjonsstrukturen går gjennom:**
 
