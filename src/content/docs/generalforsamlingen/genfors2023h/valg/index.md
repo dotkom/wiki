@@ -27,11 +27,11 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styrerepresentant fra bedkom:* Frederik Farstad  
 * *Styrerepresentant fra dotkom:* Brage Baugerød 
 * *Styrerepresentant fra fagkom:* Anja Ødegård 
-* *Styrerepresentant fra prokom:*  
+* *Styrerepresentant fra prokom:* Erik David Thiis-Evensen
 * *Styrerepresentant fra trikom:* Markus Helgø Wathle
 
 **Dersom vedtektsforslaget om organisasjonsstrukturen går gjennom:**
 
-* *En av tre styremedlem:* Frederik Farstad, Brage Baugerød 
+* *En av tre styremedlem:* Frederik Farstad, Brage Baugerød, Erik David Thiis-Evensen
 
 Dersom vedtektsforslaget om organisasjonsstruktur går gjennom vil Hovedstyret bestå av leder, nestleder, økonomiansvarlig og tre styremedlemmer. Alle kandidater stiller til samme rollen og vil bli stemt inn samtidig.
