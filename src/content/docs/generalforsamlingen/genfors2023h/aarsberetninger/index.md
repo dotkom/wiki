@@ -67,9 +67,9 @@ title: "Halvårsberetninger høsten 2023"
 
 Prosjekter:
 
-- Vi har jobbet på nye OW, og åpnet 73 pull requests siden forrige generalforsamling
-- Vi har byttet til Linear for issues, og åpnet 312 issues
-- Vi har jobbet mot en MVP på det nye vinstraff systemet som er rett rundt hjørnet (for real denne gangen)
+- Vi har jobbet på nye OW, og åpnet 87 pull requests siden forrige generalforsamling
+- Vi har byttet til Linear for issues, og åpnet 336 issues
+- Vi har jobbet mot en MVP på det nye vinstraff systemet
 - Vi har begynt et sideprosjekt om å kicke liv i Grades igjen
 - Vi har shippet diverse fikses og QoL endringer til OW4
 
@@ -85,10 +85,6 @@ Miljøtiltak:
 
 - Vi har enten migrert eller eri prosessen å migrere alt fra on-prem på IT-bygget til sky
 - Vi har sluttet å bestille levering på pizzaen, og henter den selv
-
-Diverse:
-
-- Arrangert blåtur og hyttetur
 
 
 ## Fag- og kurskomiteen
