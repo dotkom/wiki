@@ -248,3 +248,7 @@ Miljøtiltak:
 
 
 ## Fondstyret
+
+- I fondet så har det blitt investert en sum hver måned siden nyttår og dette har gitt en avkastning på ca 21%.  
+- I tillegg så er en nettside med oversikt over fondet og veksten til fondet under utvikling.  
+- Fondet har fått 0 søknader i år.
