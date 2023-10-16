@@ -17,22 +17,24 @@ title: "Halvårsberetninger høsten 2023"
 
 ## Hovedstyret
 Generelt:
-* Gjennomført GenVORS.
-* Delt ut lang og tro
-* Nominert riddere til Immball 2023
-* Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
-* Gjennomført “Den nødvendige samtalen” for tillitsvalgte med Sit
-* Fått ned merchretningslinjer som komiteene skal følge 
-* Arrangert kompilering
-* Arrangert sommerfest for Online i Oslo
-* Gjennomført komiteopptaket høsten 2023
-* Utarbeidet en samarbeidsavtale med datakameratene guttelaget
-* Deltatt på FIF-møte på vårsemesteret
+- Gjennomført GenVORS.
+- Delt ut lang og tro
+- Nominert riddere til Immball 2023
+- Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
+- Gjennomført “Den nødvendige samtalen” for tillitsvalgte med Sit
+- Fått ned merchretningslinjer som komiteene skal følge 
+- Arrangert kompilering
+- Arrangert sommerfest for Online i Oslo
+- Gjennomført komiteopptaket høsten 2023
+- Utarbeidet en samarbeidsavtale med datakameratene guttelaget
+- Deltatt på FIF-møte på vårsemesteret
+
 Samarbeid med andre:
-* Deltatt på møter med IE
-* Deltatt på linjeledermøter hver måned.
-* Representert på diverse jubileum, revyer og gallaer.
-* Deltatt på En psykt vanlig uke 2023
+- Deltatt på møter med IE
+- Deltatt på linjeledermøter hver måned.
+- Representert på diverse jubileum, revyer og gallaer.
+ Deltatt på En psykt vanlig uke 2023
+
 Sosialt og kos
 - Hatt styrevors med eksterne og riddere på realfagskjelleren før immball
 - Representert Online på diverse immball og gallaer
