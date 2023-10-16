@@ -17,6 +17,7 @@ title: "Halvårsberetninger høsten 2023"
 
 ## Hovedstyret
 Generelt:
+
 - Gjennomført GenVORS.
 - Delt ut lang og tro
 - Nominert riddere til Immball 2023
@@ -30,12 +31,14 @@ Generelt:
 - Deltatt på FIF-møte på vårsemesteret
 
 Samarbeid med andre:
+
 - Deltatt på møter med IE
 - Deltatt på linjeledermøter hver måned.
 - Representert på diverse jubileum, revyer og gallaer.
  Deltatt på En psykt vanlig uke 2023
 
-Sosialt og kos
+Sosialt og kos:
+
 - Hatt styrevors med eksterne og riddere på realfagskjelleren før immball
 - Representert Online på diverse immball og gallaer
 - Har deltatt på Thilde og Abakus kompilering
