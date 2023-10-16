@@ -228,7 +228,10 @@ Miljøtiltak:
 
 
 ## Output
-
+- Output fortsetter å øve på AKKS. 
+- Vi har gjennomført to konserter: Catch IDI og immatrikuleringsballet til online. 
+- Vi har hatt litt utveksling av medlemmer, og planlegger å ha en åpen øvelse. 
+- Vi har gjort innkjøp av nytt trommeteppe.
 
 ## Datakameratene
 
