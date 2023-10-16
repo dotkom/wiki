@@ -115,16 +115,15 @@ Miljøtiltak:
 
 ## Fag- og kurskomiteen
 
-- Tok opp 6 nye medlemmer.   
-- Planlagt og gjennomført 7 bedriftskurs og et ikke-bedriftskurs   
+- Tok opp 6 nye medlemmer, og er totalt 16 aktive medlemmer.   
+- Planlagt og gjennomført 7 bedriftskurs og ett ikke-bedriftskurs   
 - Planlagt og gjennomført 2 eksamensforelesinger i samarbeid med Abakus   
-- Gjennomført ideworkshop med bedkom   
+- Gjennomført ideworkshop, oslotur og fellesmøte med bedkom   
 - Planlagt og gjennomført Lightning talks i samarbeid med Abakus og Thilde   
-- Gjennomført Oslo tur   
-- Begynt å planlegge vårens arrangementer   
-- Er med å planlegge Tech Talks 
+- Godt i gang med planlegging og booking av vårens arrangemneter
+- Er med på å planlegge Tech Talks som skal gjennomføres 
   
-Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke er oppført som preferanse på online webben.
+Miljøtiltak: Vi etterstreber å tilby kollektivtransport eller felles-spasering mellom kurs og mingling. I tillegg har vi gjennomført felles bookingmøter med abakus for å etterstrebe fellesarrangementer eller back-to-back -kurs for å minke transport-utslipp.
 
 
 ## Profil- og aviskomiteen
