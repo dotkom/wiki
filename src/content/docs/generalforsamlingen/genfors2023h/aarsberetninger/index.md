@@ -131,18 +131,17 @@ Miljøtiltak: vi etterstreber å tilby vegetar og vegansk mat, selv om det ikke 
 Vi er 21 aktive medlemmer og tok opp 8 prokommere dette opptaket.
 
 - Plakatbestillinger/bongbestillinger: 18 plakatbestillinger
-- Gitt ut to utgaver av offline.
-- Nettartikler: 6
-- Vi lagde Årbok for 22/23
-- Slapp ny online merch
-- Holdt et SoMe møte
+- Gitt ut to utgaver av offline
+- Gitt ut 6 Nettartikler
+- Vi lagde Årbok
+- Slapp ny Online merch
+- Holdt møte med SoMe-gruppa
 - Miljøtiltak: Senket antall opplag av offline
 - Gått over til bruk av Notion
-- Vi har valgt ny redaktør: Are Tømmerås
-- Vi har vært på blåtur i Riga
-- Begynt planlegging for en Online TikTok
-- Deltatt på gullblekka - en prisutdeling for linjeaviser → vi kom på andre plass i folkeprisen og slo readme
+- Vi har valgt ny redaktør
+- Begynt planlegging for en Online-TikTok
 - Revidert interne retningslinjer
+- Deltatt på gullblekka - en prisutdeling for linjeaviser → vi kom på andre plass i folkeprisen og slo readme
 
 ## Trivselskomiteen
 - Vi har tatt opp 7 nye medlemmer. Totalt er vi 17 aktive medlemmer og en aktiv pang
