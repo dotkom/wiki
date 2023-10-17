@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2023
-- [2023-16-10](2023-16-10) - Søknader, valgkaos og retrospekt på splittelsen av valg til HS
+- [2023-16-10](2023-16-10) - Søknader, valg og retrospekt på splittelsen av valg til HS
 - [2023-10-10](2023-10-10) - IDI takeover og engelske prikkeregler
 - [2023-02-10](2023-02-10) - Immatrikuleringsball 2024 og noe prikkeregler
 - [2023-25-09](2023-25-09) - FIF, kompilering og mer generalforsamling
