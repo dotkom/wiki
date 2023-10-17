@@ -16,6 +16,9 @@ Bli med i [slacken vår](https://onlinentnu.slack.com/messages/CE5UC26BT) for å
 
 ### 🎄🤶🎅 Aktive nisser 🎅🤶🎄
 
+- Amund Dahlmo Berge 🎅
+
+### 🎄🤶🎅 Nissehelter fra Fortiden 🎅🤶🎄
 - Jakob Westermoen 🎅
 - Andrea Bach 🤶
 - Edvard Gjessing Bakken 🎅
