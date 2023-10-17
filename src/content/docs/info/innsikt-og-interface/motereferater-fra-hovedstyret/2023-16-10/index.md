@@ -1,5 +1,5 @@
 ---
-title: "Søknader, valgkaos og retrospekt på splittelsen av valg til HS"
+title: "Søknader, valg og retrospekt på splittelsen av valg til HS"
 ---
 
 ## Innsjekk
