@@ -19,7 +19,7 @@ Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_F
  
 Referat fra genVORS: [Referat genVORS](https://docs.google.com/document/d/1ZMs7TwrfPDKu9Z8rNt9lT2k-LWK4fu2PMjIDwm32FfU/edit#heading=h.66tuakl5lpm)
 
-Referat 2023 Høst: [Referat generalforsamlingen](https://docs.google.com/document/d/1HtbLPFK5rKbsQ796-F6A3y3fOkKCjq_S52a7Fwpg0uA/edit)
+Referat 2023 Høst: [attachment:847]
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
