@@ -1,0 +1,140 @@
+---
+title: "Retningslinjer, nyhetsbrev og ansvarsområder"
+---
+
+## Innsjekk  
+
+[Hvordan har dere det?]  
+
+---
+
+## 180 Godkjenning av innkalling, servering og referat fra forrige uke  
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+Godkjent.  
+
+## 181 TODO´s fra forrige møte **✅**  
+
+
+
+## 182 Status fra styret (20 min)  
+
+[Her er det kun meningen at det skal være status for styret. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner skal skrives ned og ta på eventuelt.]  
+
+
+### **Styremedlem**:  
+- Ingenting  
+
+### **Styremedlem**:  
+- Ingenting  
+
+### **Styremedlem**:  
+- Ingenting  
+
+### **💰** Økonomiansvarlig:  
+- Møte med Fondet, prøvd å sette opp nettside  
+- Noe rart med Nordnet, får kun logget inn som seg selv  
+- Gjort ferdig budsjettet, blæstet det.  
+- Godkjent appkom og brekkhelg pizza  
+- Fått inn søknad fra arrkom om julebord  
+
+### 👩🏻‍🦰 Nestleder:  
+
+- Bodtilganger er endelig fikset!  
+    - Måtte skrive 19.09.**2023** for at det skulle funke  
+- Fikset referat fra generalforsamlingen med Caro  
+
+### 👩🏾 Leder:  
+
+- Var ikke på linjeledermøte sist uke, krasjet med hs inn-ut  
+    - Ønsker kontakt med Dotkom for å ha møte om serverer  
+- Svart på mails  
+- Godkjent medlemssøknader  
+- Godkjent pullrequests på github om endring av struktur  
+- Skal på IDI møte i morra  
+
+## 184 Godkjenne referat fra generalforsamlingen (5 min)  
+[Hovedstyret må godkjenne referatet. Caro og Ida har finskrevet det så alt skal se good ut, men gjerne ta en titt så godkjenner vi det på møtet.]  
+- Godkjent ved akklamasjon.  
+
+## 185 Forslag retningslinjer (10 min)  
+
+[Vi har utformet et forslag til nye retningslinjer, og ønsker å gå gjennom disse. På linken under finner dere forskjellen mellom de mest oppdaterte retningslinjene vi fant og vårt forslag. Gjerne se over endringene på forhånd!]  
+
+- Laget forslag om nye retningslinjer  
+- Bedkom og fagkom pratet om FIF-møtet. At vi kanskje burde ha det i våres retningslinjer hvem som burde dra på det.   
+    - Bedkom og fagkom er de som er naturlige å sende  
+- HS kan ha ansvar om at noen fra bedkom og fagkom reiser  
+- S: Hva er fif?  
+    - Forente IT-foreninger, ett møte i semesteret der det sendes noen representanter hvor det snakkes om ulike saker som angår oss.  
+    - F.eks. frister på sommerjobber.  
+- Hva om vi har i retningslinjene at minst én fra bedkom eller fagkom drar, så er det også plass til en fra HS dersom noen ønsker å dra.  
+    - Kan skrive noe ala at HS har ansvar for å sørge for at minst én fra Online drar og representerer Online på fif møte og etterstrebe at minst én av de er fra Bedkom eller Fagkom  
+- Legge til en setning i paragraf 4.🧑‍⚖️   
+- Lang og tro på julebord!  
+- Tok bort setning om ITV.  
+- Ta bort setning om uklarheter og leder.  
+- Endret setning om HS sitt ansvar til å følge opp at nødvendige verv blir fylt  
+- Inkludere setning om periodevis oppdatering av retningslinjer  
+    - Skal se på hvor ofte dette trengs å gjøre   
+    - Beholder å ha det etter endt generalforsamling og ser hvordan det fungerer  
+- S: Burde det stå at vi har ansvar for kompileringen?  
+    - I: Tror det kan være greit å ha skrevet ned, står vel ikke noe sted hvem som har ansvar.  
+    - Legger til setning om ansvar for kompilering🧑‍⚖️  
+- Legger til ansvar om å holde fordelingsmøte i komiteopptak  
+
+## 187 Nyhetsbrev (10 min)  
+
+[Diskutere tanker/ideer om periodisk nyhetsbrev, ref kurset med støttehjulet]  
+
+
+- På kurset med støttehjulet hadde vi i oppgave i å finne tiltak for å forbedre kommunikasjonen i linjeforeningen.  
+- Mange snakket om at det hadde vært gøy med jevnlige oppdateringer på hva de ulike komiteene gjør, samt opp og ned mellom komiteer og HS  
+- Ide å sende ut nyhetsbrev på mail og slack  
+- Sette det som et ansvarsområde for kommunikasjonsansvarlig  
+- Vi kan også bli bedre på å blæste referat fra møtene våre på Slack  
+- Kan være med på å øke engasjement  
+- Passe på å gjøre det gøy slik at folk faktisk leser.  
+- Liker det, må tenke litt på hvor vi har lyst til å sende det ut.   
+- Kommer ikke til å stå noe der som er sensitivt, så også mulig å dele med resten av online  
+    - Er med på å inkludere resten av Online  
+- Når skal vi starte?  
+    - Fint med første i løpet av høsten.  
+- Må ha på plass kommunkasjonsansvarlig først. Egentlig bare å komme i gang når det er på plass.  
+- Tanker om hvor ofte det burde sendes ut?  
+    - Liker tanken om to ganger i semesteret.  
+    - Tenkte først månedtlig, men hopper over ferier osv. Da er to ganger i semesteret ganske greit.  
+    - Kan prøve to ganger i semesteret først også sjekke hvordan det funker.  
+
+## 188 Valg av nye ansvarsområder (10 min)  
+
+[Hvilke nye ansvarsområder vil det nye styret ha, og hvem skal ha hvem?]  
+- Kommunikasjonsansvarlig:  
+    - Ida blir ny kommunikasjonsansvarlig  
+- Vara mailingliste:  
+    - Brage blir ny vara mailinglister  
+- Some-ansvarlig:  
+    - Frederik blir ny some-ansvarlig  
+- Representasjonsasvarlig:  
+    - Erik David blir ny representasjonsansvarlig  
+
+
+## 191 Eventuelt
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+
+
+
+## 192 TODO’s  
+
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+
+## Diggepunkt  
+
+[Alle må digge noe]  
+Døgnvill og kino ikveld, kan gå med jakke uten å bli dritkald eller dritvarm, pizza til frokost, sove lenge, workshop på onsdag, keramikkurs  
+
+## Møteevaluering  
+
+[Ris/ros til hvordan møtet har gått]
