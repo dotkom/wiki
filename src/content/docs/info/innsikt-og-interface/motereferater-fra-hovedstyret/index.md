@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2023
+- [2023-30-10](2023-30-10) - Retningslinjer, nyhetsbrev og ansvarsområder
 - [2023-23-10](2023-23-10) - Nytt styre!
 - [2023-16-10](2023-16-10) - Søknader, valg og retrospekt på splittelsen av valg til HS
 - [2023-10-10](2023-10-10) - IDI takeover og engelske prikkeregler
