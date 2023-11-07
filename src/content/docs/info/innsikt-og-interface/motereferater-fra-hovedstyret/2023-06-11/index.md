@@ -60,15 +60,15 @@ Godkjent.
 - Vært på IDI møte
     - Byttes ut ventelasjonssystem på IT-bygget
         - Alt av presentasjoner på IT-bygget vil bli flytett
-    - Ferdig 2024 en gang
+    - Starter 2024 en gang
     - Påvirker IKKE IT-Boden
     - Abakus vil være med og samarbeide på teknostart
     - De som har salplass ved handels må bruke de, hvis ikke mister vi de. Oppfordre folk til å bruke de.
-    - Vil at vi skal hjelpe de med oppstart/svar på studentbarometeret
+    - Vil at vi skal hjelpe de med svar på studentbarometeret
     - Skal få tilsendt referat og dele det med oss
-- Skal ha møte på torsdag med en person mtp evakuering fra A4 hvis det skal skje en gang
-- På møte i morgen med Abakus og Thilde mtp sommerjobbssaken før FIF.
-- Skal på bedkom-møte på tordag.
+- Skal ha møte på torsdag med en person mtp evakuering fra A4 hvis det skal skje en gang.
+- På møte i morgen med Abakus og Thilde før FIF.
+- Skal på bedkom-møte på torsdag.
 - Svart på mails og litt sånn
 
 ## Mailpunkt (5 min)
@@ -84,7 +84,7 @@ Godkjent.
 
 [I mai diskuterte vi Abakus sitt tiltak for å inkludere flere første klassinger, 1.klasse taskforce, og spurte om dette var noe Backlog kunne vært interessert i. De svarte at de følte det gikk mer under Trikom og at de ikke hadde helt kapasitet til det akkurat nå. Så vil gjerne ta opp tråden igjen og kanskje høre med Trikom om dette er noe de vil se mer på]
 
-- Snakket om dette på workshoppen, problem at vi kan miste folk som faller av. Enig at vi må prøve å ta opp tråden igjen.
+- Snakket om dette på workshoppen, problem at vi mister folk som faller av. Enig at vi må prøve å ta opp tråden igjen.
     - Usikker på om det skal være et eget prosjekt eller om vi bare skal oppfordre til mer inkludering
 - Kan involvere mange andre komiteer
     - Arrkom har sett på 1.klasse eksamensfest
@@ -110,19 +110,19 @@ Godkjent.
     - Funker dette bra gir det gode ringvirkninger senere.
 - Ta kontakt med Trikom og høre hva de synes. Evt. gi de et forslag på hvordan vi tenker at det hadde funket. Kunne invitert med oss noen fra Trikom på neste møte.
 - S: Hvordan ser vi for oss at Taskforce skal være
-    - Likte forslaget om at noen førsteklassinger i Trikom har hovedansvaret. De kan ordne litt selv, enklere om de fikser det også gir vi de litt space for det.
+    - Likte forslaget om at noen andreklassinger i Trikom har hovedansvaret. De kan ordne litt selv, enklere om de fikser det også gir vi de litt space for det.
     - De kan f.eks. sende ut spørreundersøkelse til Online og høre om hva som er interessant
 - Fint om resten av Online også vet at vi prøver å satse litt på det.
     - F.eks. kan Arrkom prioritere 1.klasse vors/kollokviegrupper så det ikke bare går på Trikom
-- Starte med at Økans sender mail og tar det videre derfra.
-- Kan legge ut en generell post på facebook og et skjema der vi ønsker input fra alle trinnene.
+- Starte med å sende mail til trikom og tar det videre derfra.
+    - Kan legge ut en generell post på facebook og et skjema der vi ønsker input fra alle trinnene.
 
 ## Diskutere mulig refactor av offentlig komitéinformasjon på wikien (10 min)
 
 [Som vi snakket om under workshoppen, burde vi diskutere hvordan vi ønsker at offentlig komitéinformasjon (som bruk av kontoret, lån av soundboxes osv.) skal være tilgjengelig for andre komitemedlemmer. Stikkord: gamle ow, wiki, notion]
 
 - Offentlig notion?
-    - Ihvertfall mulig å lage ny notion som noen har redigeringstilgang og noen har lesetilgang.
+    - I hvert fall mulig å lage ny notion som noen har redigeringstilgang og noen har lesetilgang.
     - Tror man kan dele linker til sider. F.eks. en side på HS notion som vi kan dele link til.
     - Høyere terskel for ikke-komite medlemmer å laste ned Notion kun for å lese sånne åpne ting osv.
 - Føler åpne ting burde ligge på OW
@@ -143,7 +143,7 @@ Godkjent.
 [For å flette inn både mer sosialt, og refleksjon rundt online bør vi legge til noe mer om dette i møtene. Forestår et "sosialt" punkt og et "Online"/"Hva har du tenkt på om online den siste uka"/"Hva lurer du på om online" punkt i møtemal.]
 
 - Sosialpunkt er enkelt å slenge inn som et møtepunkt
-- Redd for at siste forslaget blir litt mer som et ekstra eventuelpunkt.
+- Redd for at siste forslaget blir litt mer som et ekstra eventueltpunkt.
 - Lavterskel ranting?
 - Erfaringsmessig ryddig å sende inn saker og sånn, men ofte kommer det opp saker underveis i møtet og da er det veldig lurt å ha senket terskelen for det.
 - Ikke verre enn å prøve og feile.
@@ -160,7 +160,7 @@ Godkjent.
     - Tenker det kan være lurt, skrivefeilene her endrer ikke betydningen av retningslinjene.
 - Utenom de små tingene der ser det bra ut.
 - Godkjenner retningslinjene til Fagkom med forbehold om skrivefeil, vedtatt ved akklamasjon <3
-- Invitere noen fra komiteene vi ser på retningslinjene til på et møte.
+- Burde vi invitere noen fra komiteene vi ser på retningslinjene til på et møte?
     - Tror det kan bli mye ekstraarbeid for både oss og de
     - Vår oppgave er å godkjenne de, ikke forme de.
     - Nå har vi tid til å lese igjennom før møte, så vi rekker å sende invitasjon hvis det er noe vi lurer på.
@@ -196,9 +196,7 @@ Godkjent.
 
 Tilganger IT-boden?
 
-## TODO’s
-
-[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+- Skal sjekke opp!
 
 ## Diggepunkt
 
