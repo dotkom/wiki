@@ -10,12 +10,15 @@ Retningslinjer (1) Man skal sende inn søknad minst 2 dager før workshopen/arbe
 
 Søknadsform Søknader om støtte fra IDIpotten skal sendes på mail til hovedstyret@online.ntnu.no med følgende felter for å være gyldig:
 
-Emne: [IDI-potten] “eventuell enkel beskrivelse” 
-Formål: Hva som er hensikten med arrangementet 
-Dato: Dato for eventet Varighet: Antatt varighet 
-Hva og beskrivelse: Hva det søkes om støtte til (hva skal pengene brukes til). 
-Antall: En antagelse om hvor mange Onlinere som skal delta 
-Hvordan skal betalingen foregå: Skal komitemedlemmer legge ut eller sendes det inn faktura? Annen relevant informasjon Det anbefales å søke om det antatte maksimale antall deltakere, så får man heller tilbakebetalt mindre hvis ikke alle møter opp.
+- **Emne:** [IDI-potten] “eventuell enkel beskrivelse” 
+- **Formål:** Hva som er hensikten med arrangementet 
+- **Dato:** Dato for eventet Varighet: Antatt varighet 
+- **Hva og beskrivelse:** Hva det søkes om støtte til (hva skal pengene brukes til). 
+- **Antall:** En antagelse om hvor mange Onlinere som skal delta 
+- **Hvordan skal betalingen foregå:** Skal komitemedlemmer legge ut eller sendes det inn faktura? 
+- **Annen relevant informasjon**
+
+ Det anbefales å søke om det antatte maksimale antall deltakere, så får man heller tilbakebetalt mindre hvis ikke alle møter opp.
 
 Økonomiansvarlig vil ta stilling til søknaden, og vil innvilge eller avslå basert på en helhetlig vurdering.
 
