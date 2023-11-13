@@ -4,7 +4,7 @@ title: "IDI-potten"
 
 Onliepotten er en støtte-pott vi får årlig tildelt av IDI. Summen varierer år for år, avhengig av hvor mye vi bruker året før.
 
-Retningslinjer (1) Man skal sende inn søknad minst 2 dager før workshopen/arbeidskvelden skal finne sted.
+Retningslinjer (1) Man skal sende inn søknad minst 1 uke før arrangementet skal finne sted.
 
 (2) Frist på 2 uker på å sende inn kvitteringsskjema, ellers er det ingen garanti for å få utbetalt pengene. Unntak: Dersom det benyttes faktura som sendes til okonomi@online.ntnu.no. I så fall skal det gis beskjed i søknaden om at dette benyttes.
 
