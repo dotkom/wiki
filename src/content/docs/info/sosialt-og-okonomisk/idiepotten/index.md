@@ -15,6 +15,7 @@ Søknadsform Søknader om støtte fra IDIpotten skal sendes på mail til hovedst
 - **Dato:** Dato for eventet Varighet: Antatt varighet 
 - **Hva og beskrivelse:** Hva det søkes om støtte til (hva skal pengene brukes til). 
 - **Antall:** En antagelse om hvor mange Onlinere som skal delta 
+- **Pris**: Hvor mye penger søkes det om
 - **Hvordan skal betalingen foregå:** Skal komitemedlemmer legge ut eller sendes det inn faktura? 
 - **Annen relevant informasjon**
 
