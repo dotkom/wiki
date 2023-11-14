@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2023
+- [2023-13-11](2023-13-11) - Mer retningslinjer, velkomopptak og forberedelse til stormøte
 - [2023-06-11](2023-06-11) - 1. klasse taskforce, retningslinjer
 - [2023-30-10](2023-30-10) - Retningslinjer, nyhetsbrev og ansvarsområder
 - [2023-23-10](2023-23-10) - Nytt styre!
