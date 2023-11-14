@@ -122,7 +122,7 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
 - Burde ta opp masterfadderleder i samme slengen. 
 - Styremedlem tar ansvaret. 
 
-## 214 **Saker til stormøte (10 min)** 
+## 214 Saker til stormøte (10 min) 
 
 [Vi har invitert til stormøte på onsdag, alle burde tenke på om det er noe som burde bli tatt opp der.] 
 
@@ -137,7 +137,7 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
 
 - Godkjent ved akklamasjon. 
 
-## 216 **Bolding av offentlige møtereferat (10 min)** 
+## 216 Bolding av offentlige møtereferat (10 min) 
 
 [Ref. mail angående bolding av uavklarte saker.] 
 
@@ -146,7 +146,7 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
 - Viktig for kommunikasjonsansvarlige at de får så mye info som mulig. 
 - Generelt burde vi skrive om enkelte saker som vi tidligere ville ha boldet, slik at de kan ligge i det sensurerte referatet. 
 
-## 217 **Uautorisert bruk av Online-logoen (10 min)** 
+## 217 Uautorisert bruk av Online-logoen (10 min) 
 
 [Jeg fikk en melding om at noen har brukt Online-logoen for å promotere egne ting utenfor studiet.] 
 
@@ -155,7 +155,7 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
     - Blir kanskje større enn det trenger å være. Vi kan heller ta det internt her. 
 - Caro håndterer det og sender melding til personen(e) det gjelder. 
 
-## 218 **Miksebord (5 min)** 
+## 218 Miksebord (5 min) 
 
 [Hva gjør vi med miksebordet Online har akk nå? Ref mail fra Output] 
 
@@ -166,7 +166,7 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
     - Disse pengene er bandet sine penger og burde gå til utstyr, så hvis man leier bandet, burde de som leier dekke transport av utstyr o.l. 
 - Svarer at de kan velge å selge, det er deres instrument. 
 
-## 219 **Secret santa-trekning (5 min)** 
+## 219 Secret santa-trekning (5 min) 
 
 [Trekke secret santa] 
 
