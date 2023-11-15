@@ -177,10 +177,6 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
     - Litt sent å endre på dette nå, ta en ny vurdering til neste år 
     - Litt sent å ha det på vårens generalforsamling, får ikke mulighet til å bruke daljen hvis man ikke skal gå master 
 
-## 221 Rante punkt 
-
-[Hva tenker du på? Har du noe å rante om i Online] 
-
 ## Diggepunkt 
 
 [Alle må digge noe] 
