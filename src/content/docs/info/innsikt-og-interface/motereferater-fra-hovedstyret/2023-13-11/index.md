@@ -54,10 +54,6 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
 
 ### 👩🏾 Leder: 
 
-- Har vært på møte med abakus og tihlde om sommerjobbsaken med FIF. 
-    - Abakus ville ha møte siden de var litt uenige med datoene. 
-    - Kom frem til at abakus ikke hadde sendt inn saken bra nok, og dermed ble det ikke noe avstemning. 
-    - Vi kommer ikke til å legge ut stillingsannonser før 15. september neste år. 
 - Har vært på møte med bedkom. 
     - Diskuterte HSA 
 - Hadde møte med BEKK. 
