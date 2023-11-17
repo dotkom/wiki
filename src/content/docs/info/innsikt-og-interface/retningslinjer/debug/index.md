@@ -11,8 +11,11 @@ Debugs formål er å gi linjeforeningens medlemmer et verktøy for å håndtere 
 **§2** Debugs sammensetning
 
 Debug består av følgende medlemmer: 
-Leder (Hovedtillitsvalgt i Online Linjeforening) 
-Og øvrige medlemmer 
+
+- Leder (Hovedtillitsvalgt i Online Linjeforening) 
+
+- Og øvrige medlemmer 
+
 Det skal etterstrebes at Debug medlemssammensetning skal reflektere medlemsmassen i Online. Dette innebærer representasjon fra ulike trinn, verv-status og en jevn kjønnsfordeling. Grupperingen skal etterstrebe å være 5-6 medlemmer, maksimalt 7 medlemmer i en overgangsperiode der personer fratrer sitt verv. 
 
 
@@ -31,11 +34,13 @@ Dersom et av Debugs medlemmer stiller som kandidat til Hovedstyret i Linjeforeni
 
 **§5** Debug ansvarsområder
 
-(1) Konflikthåndtering 
+1. **Konflikthåndtering.** 
 I interne konflikter som hindrer samarbeid mellom to eller flere medlemmer i Online kan Debug bistå med hjelp for å håndtere saken. Dette skal gjøres på en måte som ivaretar alle parters interesser, slik at konflikten ikke eskaleres ytterligere. 
-(2) Rådgivning 
+
+2. **Rådgivning.** 
 Debugs ansvar er å være en samtalepartner, om noen av Onlines medlemmer har behov for å snakke om ting de synes er vanskelig. Debug har et ekstra ansvar for å følge opp alle saker eller henvendelser de er kjent med. 
-(3) Varslingssaker 
+
+3. **Varslingssaker.** 
 Debug er ansvarlige for å behandle varslingssaker. Dette innebærer å ha rutinene for å kunne ta imot, behandle og følge opp saker som oppleves som vanskelige for medlemmer av Online. I dette så ligger det også et ansvar om å ivareta alle parter sine interesser.
 
 
