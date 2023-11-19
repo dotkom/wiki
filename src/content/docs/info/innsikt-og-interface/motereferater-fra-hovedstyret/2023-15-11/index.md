@@ -114,8 +114,7 @@ Erik David - ikke møte opp🤔
 - Ferdige med alle vanlige bedriftskurs for semesteret
 - En del eksamenskurs igjen, f.eks. ITGK og Algdat, og Datdig
 - Driver med booking til vanlige kurs
-    - **Går ikke sånn kjempebra**
-    - **Tror vi kommer i mål, men har vært en krevende prosess**
+    
 
 ### FeminIT
 
