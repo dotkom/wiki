@@ -170,12 +170,24 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
 
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet] 
 
-- Arrkom vil helst ikke ha lang og tro på julebordet 
-    - Blir litt mindre stas å få dalje på generalforsamling 
-    - Burde ikke ta så lang tid å dele ut 
-    - Kan potensielt inspirere førsteklassinger 
-    - Litt sent å endre på dette nå, ta en ny vurdering til neste år 
-    - Litt sent å ha det på vårens generalforsamling, får ikke mulighet til å bruke daljen hvis man ikke skal gå master 
+# Utdeling av lang og tro på julebord
+[Arrkom sendte inn sak om at de ikke ønsker at vi skal dele ut lang og tro på julebordet. Hovedårsaken til dette er at Online kan oppfattes veldig komiterettet og immball og julebord blir kjedelig og utestengende for ikke-komitemedlemmer. Immball har tradisjonelt sett hatt mange av denne type innsalg, men arrkom ønsker å ikke ha for mye av dette på julebordet. De har også gjort andre tiltak for å minske følelsen av utenforskap for ikke-komite-onlinere.]
+
+
+- Jeg synes poengene er gode, men skulle gjerne hatt bedre tid til sette meg inn i saken. Sent å sende inn sak i møtetiden.
+    - enig
+- Jeg tenker det blir litt mindre stas å få daljen på generalforsamling.
+- Det tar ikke veldig lang tid å dele ut.
+- Kan potensielt inspirere førsteklassinger.
+- Jeg syns det er litt sent å gi på vårens generalforsamling, da får ikke de som ikke skal gå master mulighet til å bruke sin.
+- Er enig i mye av det som kommer frem, men blir litt sent for oss å endre på dette nå, kan ta en ny vurdering til neste år.
+- Saken kommer ganske sent inn til HS og vi har allerede sagt i fra til komiteer og gitt en forventning om at den blir delt ut på julebordet.
+
+Konklusjon: Sender melding til arrkom å sier at vi er enige i poengene og synes det er en viktig diskusjon å ta, men at vi ønsker å gjennomføre den prosessen vi har startet. Men at vi ønsker at diskusjonen skal ses på til et senere tidspunkt.
+
+
+
+
 
 ## Diggepunkt 
 
