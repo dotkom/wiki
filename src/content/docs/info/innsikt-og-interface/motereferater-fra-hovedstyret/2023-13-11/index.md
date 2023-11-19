@@ -171,6 +171,7 @@ title: "Mer retningslinjer, velkomopptak og forberedelse til stormøte"
 [Saker som har oppstått i løpet av møtet eller kort tid før møtet] 
 
 **Utdeling av lang og tro på julebord**
+
 [Arrkom sendte inn sak om at de ikke ønsker at vi skal dele ut lang og tro på julebordet. Hovedårsaken til dette er at Online kan oppfattes veldig komiterettet og immball og julebord blir kjedelig og utestengende for ikke-komitemedlemmer. Immball har tradisjonelt sett hatt mange av denne type innsalg, men arrkom ønsker å ikke ha for mye av dette på julebordet. De har også gjort andre tiltak for å minske følelsen av utenforskap for ikke-komite-onlinere.]
 
 
