@@ -146,9 +146,9 @@ Innkalling, servering ikke godkjent, referat good.
     - Konklusjon: Tar opp bare leder og nestleder nå. Hjelper velkom med å ta opp masterfadderansvarlige før første velkommøte etter nyttår.  
 
 
-## 233 Rante punkt  
+## 233 Hva har du på hjertet? 
 
-[Hva tenker du på? Har du noe å rante om i Online]  
+[Hva tenker du på? Har du noe på hjertet om det som skjer i Online]  
 
 ## 234 TODO’s  
 
