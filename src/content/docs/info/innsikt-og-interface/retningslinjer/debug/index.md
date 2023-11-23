@@ -22,7 +22,7 @@ Det skal etterstrebes at Debug medlemssammensetning skal reflektere medlemsmasse
 
 **§3** Opptak
 
-Opptak av nye medlemmer skjer ved  anbefalinger fra nominasjonsskjema eller fra en av Debug sine medlemmer.  Debug vurderer anbefalingene og tar opp i henhold til §2. Opptak skjer fortløpende ved behov, og er uavhengig Online sitt felles opptak. Kandidaten skal vurderes ut i fra egnethet og motivasjon under et intervju. 
+Opptak av nye medlemmer skjer ved  anbefalinger fra nominasjonsskjema eller fra en av Debug sine medlemmer. Nominasjonsskjemaet er Google Form som ligger åpent hele året hvor alle Online sine medlemmer kan nominere andre personer. Debug vurderer anbefalingene og tar opp i henhold til §2. Opptak skjer fortløpende ved behov, og er uavhengig Online sitt felles opptak. Kandidaten skal vurderes ut i fra egnethet og motivasjon under et intervju. 
 
 
 
