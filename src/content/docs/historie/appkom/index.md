@@ -35,8 +35,8 @@ Appkom's historie er en fabel av gjenfødelse, kreativitet og fellesskap, en for
 TL;DR:
 
 Applikasjonskomiteen (Appkom) er en del av Online, en studentorganisasjon ved NTNU. Den ble opprinnelig oppløst i 2017, men gjenoppsto i 2020. Appkom fokuserer på å utvikle tekniske løsninger som er nyttige og underholdende for studentene. Gruppen jobber med interne prosjekter og svarer på forespørsler fra andre komiteer innen Online. De har ukentlige arbeidsdager på søndager for å samarbeide på prosjekter, spise pizza og sosialisere.
-Medlemmer
 
+Medlemmer
 --------
 | År | Leder | Nestleder | Medlemmer  |
 | --- | --- | ---  | :---: |
