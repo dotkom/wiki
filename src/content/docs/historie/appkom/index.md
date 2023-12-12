@@ -19,4 +19,5 @@ Medlemmer
 --------
 | År | Leder | Nestleder | Medlemmer  |
 | --- | --- | ---  | :---: |
+|2023-2024| *Mats Nyfløt* | *Jørgen Galdal* | Mads Hermansen, Fredrik Carsten Hansteen, Julian Ottosen, Aksel Fosaas, Adele Strysse, Amy Andrea Sitte, Sander Skogh Linnerud, Dina Marie Stenrud, Emily Malcolmson, Erlend Strøm, Johannes Hage, Robin Tveråen, Sinder Emil Halleraker |
 |2022-2023| *Robin Tveråen* | *David Lekve* | Endre Gilje Sørnes, Hanna Meland Vestvik, Ida Matre, Julian Ottosen, Aksel Fosaas, Jørgen Galdal, Lea Aas-jakobsen, Matias Opsahl, Mats Nyfløt, Sander Skogh Linnerud, Siri Arnesen, Viktor Tingstad |
