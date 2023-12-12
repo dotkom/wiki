@@ -9,7 +9,9 @@ Appkom jobber med å lage diverse programvare som skal være til hjelp for Onlin
 Vi har flere interne prosjekter som vi mener vil være til stor nytte for informatikkstudenter, i tillegg til at vi aktivt tar på oss forespørsler fra resten av komiteene i Online.
 
 Vi har arbeidsdager hver søndag hvor vi møtes for å jobbe på prosjekter, spise pizza, og hygge oss sammen! Dette er hvor vi gjør det meste av arbeidet vårt, men hvor mye man jobber utenfor møter og arbeidsdager er helt opp til hver enkelt.
+TL;DR:
 
+Applikasjonskomiteen (Appkom) er en del av Online, en studentorganisasjon ved NTNU. Den ble opprinnelig oppløst i 2017, men gjenoppsto i 2020. Appkom fokuserer på å utvikle tekniske løsninger som er nyttige og underholdende for studentene. Gruppen jobber med interne prosjekter og svarer på forespørsler fra andre komiteer innen Online. De har ukentlige arbeidsdager på søndager for å samarbeide på prosjekter, spise pizza og sosialisere.
 Historie
 --------
 Applikasjonskomiteen, kjent som Appkom, ble grunnlagt i det mytiske riket av Online, en verden hvor teknologi og innovasjon blomstrer. I det herrens år 2017, under en stor samling kjent som Generalforsamlingen, ble Appkom oppløst, forsvant inn i tåken av historien. Men som en føniks reiste Appkom seg fra asken i 2020, gjenfødt med nye visjonære hoder, klare til å forme fremtiden.
@@ -30,8 +32,11 @@ I denne epoken ble Appkom kjent som en titan av teknologi, et fyrtårn av innova
 
 Appkom's historie er en fabel av gjenfødelse, kreativitet og fellesskap, en fortelling som fortsetter å vokse og inspirere i riket av Online.
 
+TL;DR:
 
+Applikasjonskomiteen (Appkom) er en del av Online, en studentorganisasjon ved NTNU. Den ble opprinnelig oppløst i 2017, men gjenoppsto i 2020. Appkom fokuserer på å utvikle tekniske løsninger som er nyttige og underholdende for studentene. Gruppen jobber med interne prosjekter og svarer på forespørsler fra andre komiteer innen Online. De har ukentlige arbeidsdager på søndager for å samarbeide på prosjekter, spise pizza og sosialisere.
 Medlemmer
+
 --------
 | År | Leder | Nestleder | Medlemmer  |
 | --- | --- | ---  | :---: |
