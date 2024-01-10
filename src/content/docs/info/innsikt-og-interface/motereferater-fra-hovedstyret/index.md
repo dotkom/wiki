@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2023
+- [2024-10-01](2024-10-01) - Nytt år nye muligheter 
 - [2023-20-11](2023-20-11) - Ti retningslinjer, dato for kompilering og suppleringsopptak 
 - [2023-15-11](2023-15-11) - Stormøte
 - [2023-13-11](2023-13-11) - Mer retningslinjer, velkomopptak og forberedelse til stormøte
