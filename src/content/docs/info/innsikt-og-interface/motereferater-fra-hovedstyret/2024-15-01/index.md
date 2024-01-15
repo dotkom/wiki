@@ -24,7 +24,7 @@ title: "HS MØTE 15.01.2024 - SLITEN GJENG ETTER ÅRE"
 
 ### **Styremedlem**:  
 
-- Satt opp møte med leder og nestleder  
+- Satt opp møte med nye Velkom leder og nestleder  
 - Velkom kommer tidligere i gang i år enn i fjor  
 - Hadde vært deilig å få fikset tilganger til wiki og drive før det møte  
 
