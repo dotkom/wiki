@@ -1,0 +1,145 @@
+---
+title: "HS MØTE 15.01.2024 - SLITEN GJENG ETTER ÅRE"
+---
+
+## Innsjekk  
+
+[Hvordan har dere det?]  
+
+---  
+
+## 249 Godkjenning av innkalling, servering og referat fra forrige uke  
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+
+- Innkalling godkjent  
+- Servering godkjent  
+- Forrige ukes referat godkjent  
+
+## 250 TODO´s fra forrige møte **✅**  
+
+## 251 Status fra styret (15 min)  
+
+[Her er det kun meningen at det skal være status for styret. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner skal skrives ned og ta på eventuelt.]  
+
+### **Styremedlem**:  
+
+- Satt opp møte med leder og nestleder  
+- Velkom kommer tidligere i gang i år enn i fjor  
+- Hadde vært deilig å få fikset tilganger til wiki og drive før det møte  
+
+### **Styremedlem**:  
+
+- Forsøkt å gi ut gavekort i åre  
+
+### **Styremedlem**:  
+
+- Sendte melding til tihlde fyren  
+- Ridderne har fått mail  
+- Søkt om inn ut på kontoret.  
+    - Fikk godkjent  
+
+### **💰** Økonomiansvarlig:  
+
+- Har møte i kveld og vil få til et forslag slik at komiteene får innstilt seg på nye budsjettet.  
+- Fredigstiller regnskapsføring for forrige året  
+    - revidert t.o.m november.  
+- Godkjent online-potten greier for Trikom  
+
+### 👩🏻‍🦰 Nestleder:  
+
+- Har sendt ut invitasjon til stormøtet.  
+    - Har noen mulighet til å referere?<3  
+- Skal vi inve nye velkom-leder? Jeg tenker litt ja, like greit å bare kaste vedkommende litt ut i det, samt at HSA er høyst relevant.  
+- Sendt melding til backlog angående opptak, ikke fått svar enda  
+- Har ikke hatt tid til å fylle inn “til neste styret”-pagen:(((( vært på hyttetur siden torsdag og er litt knekt uwu  
+
+### 👩🏾 Leder:  
+
+- Holdt på med applegreiene  
+    - Fått en ny mail så vi må ringe og bekrefte noe greier  
+- Svart på litt andre mails og sånt  
+- Begynt å sende ut møteinnkalling til kommanser  
+    - Får reflektere om det er effektivt sånn det er nå eller om vi burde endre ting  
+
+## 252 Mailpunkt (5 min)  
+
+[Før hvert møte skal det sjekkes om det ligger noen ubesvarte mails i innboksen, ansvar for å besvare ubesvarte mail blir fordelt på møtet]  
+
+- Tihldemail om sommerarrangement og om å mikse linjeforeninger.  
+- Sp: pleier vi i HS å arrangere dette?  
+    - Ja  
+- Sp: Var ikke her i fjor, hvordan funka det da? Er det typ samme sted med med flere linjeforeninger?  
+    - Har ikke vært samarbeid på den sommerfesten tidligere tror jeg.  
+- Tenker det kunne ha vært gøy, mange kjenner ofte noen fra andre linjeforeninger, så hadde vært koselig å også møte disse.  
+- Fortsette dialog med Tihlde.  
+    - Styremedlem svarer Tihlde.  
+    
+## 253 Sosialt (5 min)  
+
+[Vi sjekker stemmingen for sosialt]  
+
+- Har lagt ut whentomeet.  
+    - Helst svare ila dagen.  
+
+## 254 Tilbakemeldinger Organisasjonsstrukturgruppa (10 min)  
+
+[Organisasjonsstrukturgruppa ønsker at vi skal svare på noen spørsmål om hvordan vi synes det har gått til nå.]  
+
+- Spm ang endring av org. struktur til HS:  
+    - Hvordan har dere opplevd endringen? Både for leder/nestleder/økans, samt for de nye styremedlemmene (SM)  
+    - Har dere ulike ansvarsområder/roller? Har SM noen spesifikke ansvar?  
+    - Har dere merket endringene mtp effektivitet og arbeidsmengde?  
+    - Statuspunkter har blitt mye kortere  
+    - Må gå igjennom mer mails for å få info.  
+    - Har SM tatt over ansvar/roller som tidligere har falt på leder/nestleder?  
+    - Er dere fornøyde?  
+    - Hvordan synes dere kommunikasjonen med komiteene har vært så langt?  
+- Føler ikke vi har hatt den nye strukturen lenge nok til å kunne komme med ordentlige tilbakemeldinger.  
+- Svare på forms med tilbakemeldinger til neste gang.  
+
+## 255 Godkjenne retningslinjer fra komiteer og oppdatere dem på OW (10 min)  
+
+[Vi må godkjenne retningslinjer for komiteer som ble utsatt til etter nyttår og be komiteer oppdatere dem på ow]  
+
+- Så at vi hadde en som så ut til å ikke vare svart på den.  
+- Backlog også?  
+- Mulig noen kanskje har svart prokom men glemt å sette oss på blindkopi?  
+- Hva med OIL? De hadde ikke svart innen fristen.  
+    - *Ser på de*  
+    - Ser bra ut utenom noen små skrivefeil  
+    - Caro hører med Ida om hun har sendt svar til OIL allerede  
+    - Godkjent ved akklamasjon  
+- Minne alle komiteer om å også oppdatere retningslinjene på OW.  
+
+## 256 Eventuelt  
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+
+- Var litt kluss med hvordan agendaen for møtet ble sendt ut til kommanser.  
+    - Kunne det ha vært en god ide at alle kommanser har et eget møte for stormøtet  
+    - Caro hører med kommanser om de tror det kunne vært nyttig.  
+
+## 257 Refleksjonspunkt  
+
+[Hva tenker du på? Har du noe du lurer på om Online?]  
+
+- Under åre så kom noen med en ide til arrkom. Ha to tiers til åre-påmelding, én med skikort og en uten.  
+    - I: Tror det er pakkedeal. Vi må nok ha det for å få hyttene.  
+
+## 258 TODO’s  
+
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]  
+
+## Diggepunkt  
+
+[Alle må digge noe]  
+
+## Møteevaluering  
+
+[Ris/ros til hvordan møtet har gått]  
+
+- Gått fort!  
+- Huske litt på det som ble forklart under workshop at vi burde bruke tiden vi har reservert sammen.  
+
+Møtet hevet 12:57.
