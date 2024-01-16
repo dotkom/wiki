@@ -58,15 +58,23 @@ title: "Kontorvakt"
 
 | Ukenr        | Mandag          | Onsdag          | Fredag          |
 | ------------ | --------------- | --------------- | --------------- |
-| 38 | Trikom|
-| 39 | Prokom | Bedkom | Fagkom |
-| 40 | Arrkom | Dotkom |Appkom |
-| 41 | OIL | FeminIT | Backlog |
-| 42 | Trikom | Prokom | Bedkom |
-| 43 | Fagkom | Arrkom | Dotkom |
-| 44 | Appkom | OIL | FeminIT |
-| 45 | Baclog | Trikom | Prokom |
-| 46 | Bedkom | Fagkom | Arrkom|
+| 3 | Trikom |
+| 4 | Dotkom | Appkom | OIL |
+| 5 | FeminIT | Backlog |Prokom |
+| 6 | Bedkom | Fagkom | Arrkom |
+| 7 | Dotkom | Appkom | OIL |
+| 8 | FeminIT | Baclog | Trikom |
+| 9  | Dotkom | Appkom | OIL |
+| 10 | FeminIT | Backlog |Prokom |
+| 11 | Bedkom | Fagkom | Arrkom |
+| 12 | Dotkom | Appkom | OIL |
+| 13 | FeminIT | Baclog | Trikom |
+| 14  | Dotkom | Appkom | OIL |
+| 15 | FeminIT | Backlog |Prokom |
+| 16 | Bedkom | Fagkom | Arrkom |
+| 17 | Dotkom | Appkom | OIL |
+| 18 | FeminIT | Baclog | Trikom |
+
 
 
 
