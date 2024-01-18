@@ -140,6 +140,4 @@ title: "HS MØTE 15.01.2024 - SLITEN GJENG ETTER ÅRE"
 [Ris/ros til hvordan møtet har gått]  
 
 - Gått fort!  
-- Huske litt på det som ble forklart under workshop at vi burde bruke tiden vi har reservert sammen.  
-
-Møtet hevet 12:57.
+- Huske litt på det som ble forklart under workshop at vi burde bruke tiden vi har reservert sammen.
