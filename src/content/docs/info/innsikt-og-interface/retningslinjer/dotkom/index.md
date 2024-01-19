@@ -23,7 +23,7 @@ Dotkom skal også etterstrebe å fylle disse stillingene:
 * Sosialansvarlig
 * SoMe ansvarlig
 * Vinstraffansvarlig
-* Team ledere
+* Teamledere
 
 Hvis stillingene ikke er fylt tilfaller deres ansvar leder av dotkom.
 
