@@ -2,13 +2,13 @@
 title: "Online idrettlags retningslinjer"
 ---
 
-1. Online idrettslags formål
-
+§1 Online idrettslags formål
+-------------------------
 Online IL skal tilby lavterskel arrangementer for Online sine medlemmer, der målet er å
 aktivisere studentene.
 
-2. Online IL’s sammensetning
-
+§2 Online IL’s sammensetning
+-------------------------
 Online IL har følgende roller:
 
 - Leder
@@ -22,8 +22,8 @@ Online IL har følgende roller:
 Alle ordinære medlemmer har møteplikt, og Online IL har som mål at alle medlemmer skal
 arrangere minst ett arrangement per semester.
 
-3. Online ILs ansvarsområder
-
+§3 Online ILs ansvarsområder
+-------------------------
 (1) Arrangementer
 
 Ettersom hverdagen til en informatiker kan i stor grad være stillesittende, skal Online IL tilby en mulighet for medlemmer i Online å komme seg ut i fysisk aktivitet. Komiteen skal gjøre en innsats for å arrangere rundt ett arrangement per uke.
@@ -32,8 +32,8 @@ Ettersom hverdagen til en informatiker kan i stor grad være stillesittende, ska
 
 Online IL har ansvar for å forsøke å inkludere flest mulig av linjeforeningens medlemmer. Dette skal komiteen oppnå ved å veksle på hvilke arrangementer som holdes, og regelmessig få tilbakemeldinger fra medlemmer om hvilke aktiviteter de ønsker å se.
 
-4. Online ILs virke
-
+§4 Online ILs virke
+-------------------------
 4.1 Leders ansvar
 
 Lederen har ansvar for å fasilitere og gjennomføre ukentlige møter. Møteinnkallinger skal utstedes minst 48 timer før møtet tar plass. Leder har også ansvar for at arbeidsoppgaver blir fordelt jevnt på medlemmer av komiteen til enhver tid. 
