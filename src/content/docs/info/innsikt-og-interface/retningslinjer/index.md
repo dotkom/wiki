@@ -15,7 +15,7 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 - [Bedriftskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/bedkom/)
 - [Drifts- og utviklingskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/dotkom/)
 - [Fag- og kurskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/fagkom/)
-- [Online idrettslag] (/wiki/online/info/innsikt-og-interface/retningslinjer/onlineil/)
+- [Online idrettslag](/wiki/online/info/innsikt-og-interface/retningslinjer/onlineil/)
 - [Profil- og aviskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/prokom/)
 - [Trivselskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/trikom/)
 
