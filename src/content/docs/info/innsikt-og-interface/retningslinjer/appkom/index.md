@@ -26,31 +26,36 @@ Komiteen etterstreber også å fylle disse rollene:
 
 Rollene har følgende ansvarsområder:
 
-1. Leder
+1. Leder:
 Leder har ansvar for å besvare henvendelser fra andre komitéer og delegere arbeid og ansvarsområder til resten av medlemmene.
 Leder har ansvar for opptak av nye komitemedlemmer.
 Leder har et overordnet ansvar for å tilrettelegge for erfaringsoverføring.
 Leder har ansvar for å styre ukentlige møter.
 Leder har ansvar for å sende innkallinger til møter og arbeidsdager.
 
-2. Nestleder
+
+2. Nestleder:
 I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer.
 Nestleder skal også samarbeide med leder og bistå leder i den ukentlige driften.
 
-3. Økonomiansvarlig
+
+3. Økonomiansvarlig:
 Økonomiansvarlig har ansvar for komiteens økonomi og skal møte på Bank- og økonomikomiteens møter.
 
-4. Kommunikasjonsansvarlig
+
+4. Kommunikasjonsansvarlig:
 Kommunikasjonsansvarlig har det overordnede ansvar for kommunikasjonen mellom komitéen og hovedstyret. 
 Kommunikasjonsansvarlig skal delta i møter med hovedstyret i saker som angår komitéen og informere komitéen om hva som har blitt gjennomgått. Dersom ikke kommunikasjonsansvarlig selv kan møte, har vedkommende ansvar for å finne et annet medlem som sin stedfortreder.
 Kommunikasjonsansvarlig har ansvar for å lese Hovedstyrets møtereferater, følge med på deres saker, og informere komiteen om relevante saker.
 Kommunikasjonsansvarlig har ansvar for å sende oppdateringer til HS om komiteens virke.
 
-5. Tillitsvalgt
+
+5. Tillitsvalgt:
 Tillitsvalgt skal være komitéens interne tillitsorgan og har ansvar for å følge opp varslingssaker fra andre medlemmer.
 
-6. Straffeansvarlig
-Straffeansvarlig skal ha ansvar for å utdele straffer i henhold til forhåndsbestemte     strafferegler (se §4.2).
+
+6. Straffeansvarlig:
+Straffeansvarlig skal ha ansvar for å utdele straffer i henhold til forhåndsbestemte     strafferegler.
 
 Vervene, utenom leder, velges demokratisk innad i komitéen. Leder foreslås av komitéen og blir deretter valgt av generalforsamlingen. 
 
