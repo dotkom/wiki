@@ -8,7 +8,7 @@ title: "Stormøte 23.01.2024"
 
 ***Referering:***
 
-1. ref Erikd David
+1. ref Erik David
 2. ref Brage
 
 ***Servering:***
