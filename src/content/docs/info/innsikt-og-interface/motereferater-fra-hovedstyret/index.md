@@ -9,7 +9,7 @@ Møtereferater
 ------------------  
 ### Vår 2024
 - [2024-23-01](2024-23-01) - Stormøte
-- [2024-22-01](2024-22-01)
+- [2024-22-01](2024-22-01) - Nibble i chokehold, genfors prep
 - [2024-15-01](2024-15-01) - Sliten gjeng etter Åre  
 - [2024-10-01](2024-10-01) - Nytt år nye muligheter 
 ### Høst 2023
