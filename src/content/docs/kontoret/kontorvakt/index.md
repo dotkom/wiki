@@ -58,22 +58,22 @@ title: "Kontorvakt"
 
 | Ukenr        | Mandag          | Onsdag          | Fredag          |
 | ------------ | --------------- | --------------- | --------------- |
-| 3 | Trikom |
-| 4 | Dotkom | Appkom | OIL |
-| 5 | FeminIT | Backlog |Prokom |
-| 6 | Bedkom | Fagkom | Arrkom |
-| 7 | Dotkom | Appkom | OIL |
-| 8 | FeminIT | Baclog | Trikom |
-| 9  | Dotkom | Appkom | OIL |
-| 10 | FeminIT | Backlog |Prokom |
-| 11 | Bedkom | Fagkom | Arrkom |
-| 12 | Dotkom | Appkom | OIL |
-| 13 | FeminIT | Baclog | Trikom |
-| 14  | Dotkom | Appkom | OIL |
-| 15 | FeminIT | Backlog |Prokom |
-| 16 | Bedkom | Fagkom | Arrkom |
-| 17 | Dotkom | Appkom | OIL |
-| 18 | FeminIT | Baclog | Trikom |
+| 4 | Trikom |
+| 5 | Dotkom | Appkom | OIL |
+| 6 | FeminIT | Backlog |Prokom |
+| 7 | Bedkom | Fagkom | Arrkom |
+| 8 | Dotkom | Appkom | OIL |
+| 9 | FeminIT | Baclog | Trikom |
+| 10  | Dotkom | Appkom | OIL |
+| 11 | FeminIT | Backlog |Prokom |
+| 12 | Bedkom | Fagkom | Arrkom |
+| 13 | Dotkom | Appkom | OIL |
+| 14 | FeminIT | Baclog | Trikom |
+| 15  | Dotkom | Appkom | OIL |
+| 16 | FeminIT | Backlog |Prokom |
+| 17 | Bedkom | Fagkom | Arrkom |
+| 18 | Dotkom | Appkom | OIL |
+| 19 | FeminIT | Baclog | Trikom |
 
 
 
