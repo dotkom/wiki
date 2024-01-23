@@ -40,7 +40,7 @@ tvingende nødvendig.
 
 Dokumenter
 ----------
-
+- [Generalforsamlingen 2024 (Vår)](/wiki/online/generalforsamlingen/genfors2024V)
 - [Generalforsamlingen 2023 (Høst)](/wiki/online/generalforsamlingen/genfors2023H)
 - [Ekstraordinær generalforsamling 2023 (Vår)](/wiki/online/generalforsamlingen/ekstrav23)
 - [Generalforsamlingen 2023 (Vår)](/wiki/online/generalforsamlingen/genfors2023V)
