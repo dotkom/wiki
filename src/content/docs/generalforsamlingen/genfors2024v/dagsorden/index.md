@@ -15,4 +15,4 @@ title: "Dagsorden Generalforsamlingen Våren 2024"
 
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
 
-## **Dagsorden**
+## **TODO** Dagsorden
