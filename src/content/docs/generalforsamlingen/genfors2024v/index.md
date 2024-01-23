@@ -4,7 +4,7 @@ title: "Generalforsamlingen Vår 2024"
 
 ## Innhold
 * [2024 Vår Forside](/wiki/online/generalforsamlingen/genfors2024v)   - Forside
-* [2024 Vår Forretningsorden](/wiki/online/generalforsamlingen/genfors2023v/forretningsorden) - Forretningsorden
+* [2024 Vår Forretningsorden](/wiki/online/generalforsamlingen/genfors2024v/forretningsorden) - Forretningsorden
 * [2024 Vår Dagsorden](/wiki/online/generalforsamlingen/genfors2024v/dagsorden) - Dagsorden for generalforsamlingen
 * [2024 Vår Halvårsberetninger](/wiki/online/generalforsamlingen/genfors2023h/aarsberetninger) - Årsberetninger
 * [2024 Vår Saksforslag](/wiki/online/generalforsamlingen/genfors2024v/saksforslag) - Alle innsendte saker vil bli tatt opp.
