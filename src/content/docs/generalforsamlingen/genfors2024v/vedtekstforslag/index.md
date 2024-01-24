@@ -21,7 +21,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 # Forslag til Onlines vedtekter
 
 
-## Vedtektsforslag 01: _Tittel_
+## Vedtektsforslag 01: _Tittel på vedtektsforslag_
 
 **Bakgrunn**: 
 _Bakgrunn for endring_
