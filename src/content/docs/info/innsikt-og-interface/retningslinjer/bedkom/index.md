@@ -2,10 +2,10 @@
 title: "Bedriftskomiteens retningslinjer"
 ---
 
-### §1 Bedriftskomiteens formål
+### **§1 Bedriftskomiteens formål**
 Bedriftskomiteen skal være et bindeledd mellom studenter ved informatikk og næringslivet.
 
-### §2 Bedriftskomiteens sammensetning
+### **§2 Bedriftskomiteens sammensetning**
 Bedriftskomiteen består av følgende medlemmer:
 
 <![if !supportLists]>· <![endif]>Komitéleder
@@ -24,7 +24,7 @@ Samt det antall øvrige medlemmer som kreves for at komiteen skal kunne fungere 
 
 I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer.
 
-### §3 Bedriftskomiteens ansvarsområder
+### **§3 Bedriftskomiteens ansvarsområder**
 
 #### (1) Profilering
 Komiteen skal profilere studentene som potensielle arbeidstakere overfor bedrifter, og gjøre studentene kjent med aktuelle arbeidsgivere.
