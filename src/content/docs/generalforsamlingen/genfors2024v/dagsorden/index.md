@@ -13,6 +13,6 @@ title: "Dagsorden Generalforsamlingen Våren 2024"
 
 # Dagsorden våren 2024
 
-Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
+[Dagsorden Generalforsamlingen våren 2024](https://docs.google.com/spreadsheets/d/1CxAIvcdaiEtIMPkYO8Rt0WH8gF_Dpc2N1VgjNI8TSm0/edit?usp=sharing)
 
-## **TODO** Dagsorden
+Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.
