@@ -12,7 +12,7 @@ title: "Generalforsamlingen Vår 2024"
 * [2024 Vår Kandidater](/wiki/online/generalforsamlingen/genfors2024v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Presentasjon: **TODO**
+Presentasjon: [Generalforsamling 2024 Vår](https://docs.google.com/presentation/d/1dsZ-7JkZeU4GnbNN-GOqJdgYicYE5B0YlHEnqDqBvi0/edit?usp=sharing)
 
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)    
 Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc) 
