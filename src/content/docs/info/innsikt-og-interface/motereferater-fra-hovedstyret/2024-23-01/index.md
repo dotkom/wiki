@@ -17,7 +17,7 @@ title: "Stormøte 23.01.2024"
 
 ***Tilstede:** Hanna, Sara, Ingrid, Magnus, Erik, Amund, Frederik, Carolina, Ida, Eskild, Mats, Jo, Ida, Brage, Erik-David, Brinje, Ådne*
 
-- **Ikke tilstede:** *Arrkom, Debug, Fondet, Økans*
+**Ikke tilstede:** *Arrkom, Debug, Fondet, Økans*
 
 ***Straffer:***
 
