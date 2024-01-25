@@ -31,6 +31,10 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Tidligere hovedstyremedlem:* 
 * *Ridder:* 
 
+**De som har meldt interesse til Valgkomiteen er:**
+
+* *Kandidater:* 
+
 **De som skal godkjennes som komitéledere er:**
 
 * *Appkomleder:* 
