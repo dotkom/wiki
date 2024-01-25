@@ -33,11 +33,11 @@ Referat Generalforsamlingen Høst 2023: [attachment:847]
 
 **Hva:** Onlines generalforsamling  
 
-**Når:** 26. februar 2024, **TODO** 
+**Når:** 26. februar 2024, kl.16:15
 
-**Hvor:** **TODO**
+**Hvor:** Gamle elektro, EL6
 
-Generalforsamlingen Høsten 2024 finner sted **26.februar på ??, H3**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
+Generalforsamlingen Høsten 2024 finner sted **26.februar på Gamle elektro, EL6**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen. 
 
 Om du har en sak du vil at Hovedstyret for perioden 24/25 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret på [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
