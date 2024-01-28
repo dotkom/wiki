@@ -20,7 +20,7 @@ title: "Nibble i chokehold, genfors prep"
 
 ## **Nibble i minus (15 min)**
 
-[Kiosken gikk 50k i minus i 2023, det er alt for mye og må gjøres noe med asap. Det er snakk om å stenge kiosken, men vi må diskutere muligheter. Jeg har gitt beskjed til trikom at de ikke skal handle noe enda før vi har landet på hva vi skal gjøre med saken]
+[Kiosken gikk i minus i 2023, det må gjøres noe med asap. Det er snakk om å stenge kiosken, men vi må diskutere muligheter. Jeg har gitt beskjed til trikom at de ikke skal handle noe enda før vi har landet på hva vi skal gjøre med saken]
 
 - Litt avansert å holge følge med på økonomisk. Avhengig av å kunne få "solgt" ut kiosken før man finner ut hvordan man ligger an. Dette skjer ofte i sommer og vinter.
 - I: Har vært minimalt med svinn registrert. Mer sannsynlig at det er tyveri.
