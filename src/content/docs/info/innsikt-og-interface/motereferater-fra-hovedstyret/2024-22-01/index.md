@@ -23,23 +23,19 @@ title: "Nibble i chokehold, genfors prep"
 [Kiosken gikk 50k i minus i 2023, det er alt for mye og må gjøres noe med asap. Det er snakk om å stenge kiosken, men vi må diskutere muligheter. Jeg har gitt beskjed til trikom at de ikke skal handle noe enda før vi har landet på hva vi skal gjøre med saken]
 
 - Litt avansert å holge følge med på økonomisk. Avhengig av å kunne få "solgt" ut kiosken før man finner ut hvordan man ligger an. Dette skjer ofte i sommer og vinter.
-- Sp: er vi i minus eller er de vanskelig å føre at vi er så mye i minus
-    - Sv: Per nå er vi rundt 52 000 i minus.
 - I: Har vært minimalt med svinn registrert. Mer sannsynlig at det er tyveri.
     - Saksopplysning: Fryseren er full.
     - K: Det går ut i Mai-Juni, så god tid på å selge
 - Sp: Blir skjemaet på drive oppdatert når det blir svinn?
     - Sv: Ja. Har erfart at før hver innkjøpsrunde så er det veldig tomt i kiosken.
 - I: Snakket innad. Problemet kan være den nye ordningen. Kan være komplikasjoner med vipps og folk kan stjele med uhell. Folk må inn to ganger inn i vipps før det blir kjøpt. Kanskje en sammenheng.
-- I: Har vært et problem før tidepay i kiosken også. Var et svinn på rundt 60 000 før den nye ordningen kom inn.
+- I: Har vært et problem før tidepay i kiosken også.
 - K: Vipps har vært nede noen ganger også. Folk kan tenke at de vippser senere og kan glemme det.
     - Sv: Da burde man bli bedre på å stenge kiosken for å forhindre tyveri.
         - K: Kan kun huske en gang det har vært nede, tv-aksjonen, da stengte vi kiosken.
 - I: Systemet er mye mer basert på tillit nå enn før når man hørte den pipelyden hver gang noe ble kjøpt.
 - I: Tror i realiteten er at vi ikke kommer til å gå tilbake til sånn det var før. Vi burde diskutere hvordan vi i den eksisterende løsningen kan forbedre.
     - K: Kan være lurt å høre med Abakus og Tihlde, de bruker også Tidepay.
-    - K: De har ganske ille svinn de også, men ikke så høyt.
-    - K: Tror Økans har snakket med de om det, men de vil ikke gi konkrete tall.
 - I: Ligger en nøkkel på kontoret som alle kan bruke for å komme seg inn i boden og bare "forsyne" seg. Kan være en idé å begrense hvem som har adgang til f.eks. kun Trikom og HS.
 - I: Trikom hadde kontorvakt tidligere, kunne man hatt en overgangsperiode der folk viser kvittering slik at folk blir skjønt med systemet?
 - I: Har også kommet et helt nytt kull, var veldig lite svinn i Vår. Vipps-systemet burde ihvertfall forklares til alle nye.
@@ -54,15 +50,13 @@ title: "Nibble i chokehold, genfors prep"
 - Sp: Er det en måte å gjøre tidepay raskere/enklere?
     - Sv: Økans holdt på med det systemet der, kan spørre hen men vet ikke om det er en måte å gjøre det raskere på?
 - I: Tror ikke det er en generalforsamlingssak. Kan presentere potensielle løsninger på genfors.
-- Sp: Hvor mye var vi i minus forrige vår?
-    - Sv: 60 000 for hele året.
 - I: Det var en prokom-plakat der før, men det kom en case hvor QR-koden ble brukt så mye at den ikke kunne brukes lenger
     - Saksopplysning: Er besilt ny plakat men den forsvant. Skal etterspørre ny.
 - I: Føler vi burde enten diskutere om dette skal opp til genfors eller ikke. Føler dette er to diskusjoner: “Skal vi ta det opp i generalforsamlingen” og “skal vi holde det stengt”.
     - K: Fint å ha det på genralforsamlingen. Kan ta det opp forran alle og forklare at kiosken er i fare om å bli stengt.
     - K: Hvis formålet er å ta det opp bare for å skremme blir det også litt dumt
 - I: Helt håpløst å gå så mye i svinn. Helt reelt mulighet å stenge kiosken.
-    - K: Mulig å redusere omfanget til kiosken? F.eks. kutte ned innkjøp med halvparten og at vi da går "kun" halvparten i minus. På den måten kan vi sjekke om nye løsninger fungerer uten å blø 60 000.
+    - K: Mulig å redusere omfanget til kiosken? F.eks. kutte ned innkjøp med halvparten og at vi da går "kun" halvparten i minus. På den måten kan vi sjekke om nye løsninger fungerer uten å blø.
 - I: Føler at hvis vi stenger kiosken mister kontoret en stor del av "identiteten" sin.
 - I: På genfors burde vi komme med et ganske strengt forslag.
 - I: Tenker at vi uansett holder den stengt til generalforsamlingen. Hvis vi skal åpne må det være en overgangsperiode hvor det er veldig strengt.
