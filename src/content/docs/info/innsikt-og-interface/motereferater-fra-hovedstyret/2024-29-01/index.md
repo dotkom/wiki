@@ -1,5 +1,5 @@
 ---
-title: "2024-29-01 - Lån ekskom, nyhetsbrev Aba IL?"
+title: "2024-29-01 - Nyhetsbrev Aba IL?"
 ---
 
 ## Innsjekk
@@ -85,58 +85,6 @@ Innkalling godkjent, servering godkjent (under tvil men sure), referat fra forri
     - God idé. Har mest sannsynlig kapasitet
 - Poenget er å nå ut til flest mulig.
 - Grunnen til at innholdet var mer retrospektivt, var at det kom sent på semesteret. Tenker mer fremtidsrettet i neste versjon.
-
-## 279 **Lån ekskom (5 min)**
-
-[Ekskom har søkt om lån, skal vi godkjenne?]
-
-- De må bruke penger nå, men får ikke støtte fra fakultet før i mars. Litt samme som forrige gang.
-- Innvilget i fjor, fordi de ikke fikk billettinntekter enda
-- Ekskom er en annen organisasjon, men teknisk sett er det slik som at Online legger ut for hytter i Åre og får deretter inn billettinntekter som dekker det.
-- Så lenge det ikke går ut over andre komiteer, så er det good.
-- Eneste er konsekvensene i det lange løp, kommer dette til å være en case hvert semester?
-- Hvis ekskom fortsetter som nå er ikke det bærekraftig. Lånesøknader vil fortsette
-- Vi ser på casen om å fikse det og gjøre det annerledes med Tech Talks.
-- Er nedgangstider, så kanskje vanskelig å si om det fortsetter.
-- Hvis vi låner dem penger, så er vi avhengige av at de får ie-søknad godkjent.
-- Har dere noen avtale med IE?
-    - Krav om å ha fem fulle dager, fjorårets ekskom fikk godkjent med fire dager. I år er det også litt vanskelig. NTNU burde også skjønne at kravet er urealistisk.
-- Sp:Regler for hva faglig er, kan man dra på f.eks. teknisk museum?
-- Ja, man kan dra på museum.
-- Hva skjer om det ikke går?
-    - Hvem har ansvaret for at pengene kommer tilbake til Online?
-    - Da blir det en billettinntekt de ikke har fått. Blir dyrere for de påmeldte. Kontrakten melder at de ikke kan kreve mer enn depositum
-    - Uten støtte går ekskom i minus
-- Vi kan stemme over det, med forbehold om at de får den støtten. Forrige gang lagde vi en kontrakt. Vi kan ikke låne ut penger uten å få de tilbake.
-- Synes ikke det er strengt å skrive kontrakt.
-- Worst case: dreper ekskom for neste kull hvis vi gjør det.
-- S: Hvorfor er søknaden så sen?
-- Tar litt tid før man får pengene inn.
-- Eneste vi trenger er bekreftelse på at de får pengene
-- Sp: Hvor mange faglige dager er det per nå?
-    - Én planlagt atm
-- Sp: Konskekvens hvis vi ikke godkjenner nå
-    - Siste ticket-faktura med forfall tidlig januar, som de ikke har penger til å betale uten lån.
-- Sp: Hvor vanskelig var det å få støtte i fjor, med 4 dager faglig?
-    - Måtte krige litt, hadde gode argumenter mtp ekskursjonsledere.
-- Sp: Hvor mye er det per pers i egenandel?
-    - 18k
-- Sp: Fondet?
-    - Avslo i fjor, ville ikke søtte arrangementer som skjer årlig
-    - R: Kan prøve på nytt i år
-- Kan ta kontakt med økans til ekskom og høre hvor sikkert det er at de får støtten.
-- Sp: Én spikra faglig dag per nå. Realistisk sett hvor mange klarer dere å fikse?
-    - Har ikke helt innsikt. Tar ny mailrunde nå.
-    - Fem er det man trenger, fire gikk akkurat i fjor. Litt sketch med 1 dag sikra per nå
-- Var dårlig med hjelp fra NTNU sin side.
-- Sp: Noen som har dialog med fakultetet (andre linjeforeninger)?
-    - Vet ikke
-- Abakus hadde faglig uke i Europa, også var de i Asia etterpå på den kulturelle delen.
-- Ta opp tråden litt senere, når vi har litt mer informasjon?
-- Hva var betalingsfristen?
-    - februar, allerede utsatt, egentlig 2. februar.
-- Kan være idé å prøve å søke fondstøtte og samle info asap.
-    - Tror det er greit å sikre at lånet kan betales tilbake, så online ikke går i tap.
 
 ## 280 Online sommerfest 2024 (5 min)
 
