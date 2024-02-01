@@ -9,7 +9,7 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
 ### Komiteer
 
-- [Appilkasjonskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/appkom/)
+- [Applikasjonskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/appkom/)
 - [Arrangementskomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/arrkom/)    
 - [Backlog](/wiki/online/info/innsikt-og-interface/retningslinjer/senkom/)
 - [Bank- og økonomikomiteen](/wiki/online/info/innsikt-og-interface/retningslinjer/bankom/)
