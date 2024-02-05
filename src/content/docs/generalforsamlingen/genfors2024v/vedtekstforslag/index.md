@@ -44,17 +44,15 @@ Bakgrunn: Som økonomiansvarlig må man sitte i bankom. Ut i fra denne vedtekte
 
 Fra:
 
-**[4.1.3 Krav til kandidater]**
+[4.1.3 Krav til kandidater]
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. 
 
 Til:
 
-**[4.1.3 Krav til kandidater]**
+[4.1.3 Krav til kandidater]
 
-Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. 
-
-Det eneste unntaket er Økonomiansvarlig av online som plikter å sitte i bankom.
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. **Det eneste unntaket er Økonomiansvarlig av online som plikter å sitte i bankom.**
 
 ## Vedtektsforslag 01: _Tittel på vedtektsforslag_
 
