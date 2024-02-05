@@ -54,6 +54,24 @@ Til:
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. **Det eneste unntaket er Økonomiansvarlig av online som plikter å sitte i bankom.**
 
+## **Vedtektsforslag 03: Styrerepresentant i bank og økonomikomiteen**
+
+**Bakgrunn**: Etter overgangen fra styrerepresentanter til styremedlemmer skal ingen komiteer per definisjon ha styrerepresentanter. Dette vedtektsforslaget er for å rydde opp i vedtektene, og endrer praktisk ingen ting. 
+
+**Endre vedtekt 4.2.2 *og styrerepresentant i bank og økonomikomiteen***
+
+Fra:
+
+4.2.2 Bank- og økonomikomiteen
+
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. **Økonomiansvarlig i Online er komiteens styremedlem.** Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
+
+Til:
+
+4.2.2 Bank- og økonomikomiteen
+
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
+
 ## Vedtektsforslag 01: _Tittel på vedtektsforslag_
 
 **Bakgrunn**: 
