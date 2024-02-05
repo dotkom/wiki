@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
-- [2024-05-02](2024-05-02) - Ridderordning, genfors og t-skjorter
+- [2024-05-02](2024-05-02) - Genfors og t-skjorter
 - [2024-29-01](2024-29-01) - Nyhetsbrev og Aba IL?
 - [2024-23-01](2024-23-01) - Stormøte
 - [2024-22-01](2024-22-01) - Nibble i chokehold, genfors prep
