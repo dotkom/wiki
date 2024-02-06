@@ -62,15 +62,9 @@ Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, ti
 **Endre vedtekt 4.2.2 *og styrerepresentant i bank og økonomikomiteen***
 
 Fra:
-
-4.2.2 Bank- og økonomikomiteen
-
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. **Økonomiansvarlig i Online er komiteens styremedlem.** Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
 Til:
-
-4.2.2 Bank- og økonomikomiteen
-
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
 ## Vedtektsforslag 04: _Tittel på vedtektsforslag_
@@ -78,7 +72,7 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 **Bakgrunn**: 
 Det er ikke lenger Hovedstyret, men Backlog som har ansvar for og drifter Onlines interessegrupper.
 
-**3.2 Medlemmers rettigheter**
+**Endre 3.2 Medlemmers rettigheter**
 
 Fra:  
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. Alle medlemmer av linjeforeningen har rett til å søke **Hovedstyret** om å starte opp interessegrupper. Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
@@ -93,7 +87,7 @@ Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, ti
 **Bakgrunn**: 
 Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
 
-**4.7.3 Klage**
+**Endre 4.7.3 Klage**
 
 Fra:  
 
@@ -117,7 +111,7 @@ Til:
 **Bakgrunn**: 
 Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
 
-**5.3 Konstituering**
+**Endre 5.3 Konstituering**
 
 Fra:  
 
