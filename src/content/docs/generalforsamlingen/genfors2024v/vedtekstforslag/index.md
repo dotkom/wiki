@@ -72,7 +72,7 @@ Til:
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
 
-## Vedtektsforslag 04: _Tittel på vedtektsforslag_ v. Carolina Gunnesdal
+## Vedtektsforslag 04: Endre antall tidligere hovedstyremedlemmer som må være tilstede ved klage v. Carolina Gunnesdal
 
 **Bakgrunn**: 
 Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
@@ -97,7 +97,7 @@ Til:
 3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **4/6** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
 
 
-## Vedtektsforslag 05: _Tittel på vedtektsforslag_
+## Vedtektsforslag 05: Presisering av antall referenter ved generalforsamlingen v. Carolina Gunnesdal
 
 **Bakgrunn**: 
 Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
