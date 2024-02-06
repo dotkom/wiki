@@ -20,6 +20,20 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter
 
+
+## Eksempel Vedtektsforslag 01: _Tittel på vedtektsforslag_
+
+**Bakgrunn**: 
+_Bakgrunn for endring_
+
+**Endre vedtekt _vedtektsnummer og overskrift_**
+
+Fra:  
+_Gammel vedtekt_
+
+Til:  
+_Ny vedtekt_
+
 ## Vedtektsforslag 01: Fjerne permittering av økonomiansvarlig v. Johanna Wilmers
 
 **Bakgrunn:** Som økonomiansvarlig må man sitte i bankom. Ut i fra denne vedtekten er det teknisk sett ikke lov. Vi ønsker å endre denne vedtekten for å tydeliggjøre at Økonomiansvarlig skal være medlem i bankom. 
@@ -57,22 +71,8 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 Til:
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
+
 ## Vedtektsforslag 04: _Tittel på vedtektsforslag_ v. Carolina Gunnesdal
-
-**Bakgrunn**: 
-Det er ikke lenger Hovedstyret, men Backlog som har ansvar for og drifter Onlines interessegrupper.
-
-**Endre 3.2 Medlemmers rettigheter**
-
-Fra:  
-Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. Alle medlemmer av linjeforeningen har rett til å søke **Hovedstyret** om å starte opp interessegrupper. Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
-
-Til:  
-Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. Alle medlemmer av linjeforeningen har rett til å søke **Backlog** om å starte opp interessegrupper. Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
-
-
-
-## Vedtektsforslag 05: _Tittel på vedtektsforslag_ v. Carolina Gunnesdal
 
 **Bakgrunn**: 
 Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
@@ -96,7 +96,7 @@ Til:
 3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **4/6** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
 
 
-## Vedtektsforslag 06: _Tittel på vedtektsforslag_
+## Vedtektsforslag 05: _Tittel på vedtektsforslag_
 
 **Bakgrunn**: 
 Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
@@ -121,17 +121,3 @@ Ved konstituering av generalforsamlingen skal disse rollene fylles:
 - **Minst** to referenter som skriver referat under generalforsamling og samarbeider om renskriving
 
 - Minst to til tellekorps som teller opp stemmer ved avstemming
-
-
-## Eksempel Vedtektsforslag 01: _Tittel på vedtektsforslag_
-
-**Bakgrunn**: 
-_Bakgrunn for endring_
-
-**Endre vedtekt _vedtektsnummer og overskrift_**
-
-Fra:  
-_Gammel vedtekt_
-
-Til:  
-_Ny vedtekt_
