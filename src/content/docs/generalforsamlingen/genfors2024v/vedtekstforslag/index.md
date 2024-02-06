@@ -45,7 +45,7 @@ Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, ti
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. **Alle medlemmer av linjeforeningen har rett til å søke Backlog om å starte opp interessegrupper.** Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 
 
-## **Vedtektsforslag 03: Styrerepresentant i bank og økonomikomiteen**
+## Vedtektsforslag 03: Styrerepresentant i bank og økonomikomiteen v. Johanna Wilmers
 
 **Bakgrunn**: Etter overgangen fra styrerepresentanter til styremedlemmer skal ingen komiteer per definisjon ha styrerepresentanter. Dette vedtektsforslaget er for å rydde opp i vedtektene, og endrer praktisk ingen ting. 
 
@@ -57,7 +57,7 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 Til:
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
-## Vedtektsforslag 04: _Tittel på vedtektsforslag_
+## Vedtektsforslag 04: _Tittel på vedtektsforslag_ v. Carolina Gunnesdal
 
 **Bakgrunn**: 
 Det er ikke lenger Hovedstyret, men Backlog som har ansvar for og drifter Onlines interessegrupper.
@@ -72,7 +72,7 @@ Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, ti
 
 
 
-## Vedtektsforslag 05: _Tittel på vedtektsforslag_
+## Vedtektsforslag 05: _Tittel på vedtektsforslag_ v. Carolina Gunnesdal
 
 **Bakgrunn**: 
 Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
@@ -88,13 +88,13 @@ Fra:
 3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **7/9** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
 
 
-
 Til:  
 1. Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
 
 2. Klagefristen er én måned etter at vedtaket ble fattet.
 
 3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **4/6** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
+
 
 ## Vedtektsforslag 06: _Tittel på vedtektsforslag_
 
