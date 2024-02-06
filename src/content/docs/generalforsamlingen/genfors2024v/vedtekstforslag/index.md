@@ -20,7 +20,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter
 
-## Vedtektsforslag 1: Fjerne permittering av økonomiansvarlig v. Johanna Wilmers
+## Vedtektsforslag 01: Fjerne permittering av økonomiansvarlig v. Johanna Wilmers
 
 Bakgrunn: Som økonomiansvarlig må man sitte i bankom. Ut i fra denne vedtekten er det teknisk sett ikke lov. Vi ønsker å endre denne vedtekten for å tydeliggjøre at Økonomiansvarlig skal være medlem i bankom. 
 
@@ -36,7 +36,7 @@ Til:
 
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. **Det eneste unntaket er Økonomiansvarlig av online som plikter å sitte i bankom.**
 
-## Vedtektsforslag 2: Fjerne at Hovedstyrer godkjenner interessegrupper v. Ida Matre
+## Vedtektsforslag 02: Fjerne at Hovedstyrer godkjenner interessegrupper v. Ida Matre
 
 **Bakgrunn:** I vedtektene står det nå at alle medlemmer har rett til å søke Hovedstyret om å starte opp interessegrupper. Denne prosessen er flyttet til Backlog og det er de som har hovedansvaret for interessegrupper. Jeg foreslår derfor å endre vedtekt 3.2.
 
@@ -55,7 +55,7 @@ Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, ti
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. **Alle medlemmer av linjeforeningen har rett til å søke Backlog om å starte opp interessegrupper.** Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 
 
-## **Vedtektsforslag 3: Styrerepresentant i bank og økonomikomiteen**
+## **Vedtektsforslag 03: Styrerepresentant i bank og økonomikomiteen**
 
 **Bakgrunn**: Etter overgangen fra styrerepresentanter til styremedlemmer skal ingen komiteer per definisjon ha styrerepresentanter. Dette vedtektsforslaget er for å rydde opp i vedtektene, og endrer praktisk ingen ting. 
 
@@ -73,7 +73,73 @@ Til:
 
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
-## Vedtektsforslag 01: _Tittel på vedtektsforslag_
+## Vedtektsforslag 04: _Tittel på vedtektsforslag_
+
+**Bakgrunn**: 
+Det er ikke lenger Hovedstyret, men Backlog som har ansvar for og drifter Onlines interessegrupper.
+
+**3.2 Medlemmers rettigheter**
+
+Fra:  
+Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. Alle medlemmer av linjeforeningen har rett til å søke **Hovedstyret** om å starte opp interessegrupper. Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
+
+Til:  
+Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. Alle medlemmer av linjeforeningen har rett til å søke **Backlog** om å starte opp interessegrupper. Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
+
+
+
+## Vedtektsforslag 05: _Tittel på vedtektsforslag_
+
+**Bakgrunn**: 
+Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
+
+**4.7.3 Klage**
+
+Fra:  
+
+1. Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
+
+2. Klagefristen er én måned etter at vedtaket ble fattet.
+
+3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **7/9** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
+
+
+
+Til:  
+1. Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
+
+2. Klagefristen er én måned etter at vedtaket ble fattet.
+
+3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **4/6** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
+
+## Vedtektsforslag 06: _Tittel på vedtektsforslag_
+
+**Bakgrunn**: 
+Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
+
+**5.3 Konstituering**
+
+Fra:  
+
+Ved konstituering av generalforsamlingen skal disse rollene fylles:
+
+- Ordstyrer
+
+- To referenter som skriver referat under generalforsamling og samarbeider om renskriving
+
+- Minst to til tellekorps som teller opp stemmer ved avstemming
+
+Til:  
+Ved konstituering av generalforsamlingen skal disse rollene fylles:
+
+- Ordstyrer
+
+- **Minst** to referenter som skriver referat under generalforsamling og samarbeider om renskriving
+
+- Minst to til tellekorps som teller opp stemmer ved avstemming
+
+
+## Eksempel Vedtektsforslag 01: _Tittel på vedtektsforslag_
 
 **Bakgrunn**: 
 _Bakgrunn for endring_
