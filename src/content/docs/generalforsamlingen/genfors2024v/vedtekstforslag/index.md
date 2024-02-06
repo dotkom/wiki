@@ -89,6 +89,7 @@ Fra:
 
 
 Til:  
+
 1. Den anklagede har rett til å klage på mistillitsvedtaket, ved å informere Debug.
 
 2. Klagefristen er én måned etter at vedtaket ble fattet.
