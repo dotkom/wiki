@@ -73,6 +73,7 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 
 
 ## Vedtektsforslag 04: Endre antall tidligere hovedstyremedlemmer som må være tilstede ved klage v. Carolina Gunnesdal
+## Vedtektsforslag 04: _Tittel på vedtektsforslag_ v. Carolina Gunnesdal
 
 **Bakgrunn**: 
 Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
@@ -98,9 +99,12 @@ Til:
 
 
 ## Vedtektsforslag 05: Presisering av antall referenter ved generalforsamlingen v. Carolina Gunnesdal
+## Vedtektsforslag 05: _Tittel på vedtektsforslag_
 
 **Bakgrunn**: 
 Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
+Ønsker å presisere at det minst må være to referenter, men at man kan ha flere.
+                                                     +
 
 **Endre vedtekt 5.3 Konstituering**
 
