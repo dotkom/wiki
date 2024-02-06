@@ -133,6 +133,7 @@ På generalforsamlingen våren 2022, ble det besluttet å splitte valg av HS-med
 HS oppfordret Organisasjonsstrukturgruppa til å evaluere effektiviteten av den nåværende ordningen. Som et resultat, ble det gjennomført en spørreundersøkelse med deltakelse fra både tidligere og nåværende HS-medlemmer, i tillegg til samtaler med det sittende HS. Basert på funnene fra disse undersøkelsene, ble det klart at den eksisterende strukturen ikke fungerer optimalt, noe som indikerer et behov for endring.
 
 Fra:
+
 4.1.4 Valg av Hovedstyre
 
 Verv i Hovedstyret varer normalt i to semestre og utlyses ved **generalforsamlinger**. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
@@ -151,6 +152,7 @@ Ved Ordinær generalforsamlingen utlyses:
 
 
 Til:  
+
 Verv i Hovedstyret varer normalt i to semestre og utlyses ved **Ordinær generalforsamling**. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
 
 Ved Ordinær generalforsamlingen utlyses:
