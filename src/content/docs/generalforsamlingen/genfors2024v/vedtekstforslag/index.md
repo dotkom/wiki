@@ -138,11 +138,13 @@ Fra:
 Verv i Hovedstyret varer normalt i to semestre og utlyses ved **generalforsamlinger**. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
 
 Ved Ordinær generalforsamlingen utlyses:
+
 - Leder
 - Nestleder
 - Økonomiansvarlig
 
 **Ved Sekundær generalforsamlingen utlyses:
+
 Øvrige styremedlemmer
 
 Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.**  
