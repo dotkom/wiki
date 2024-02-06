@@ -50,7 +50,7 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjefore
 
 **Bakgrunn:** I vedtektene står det nå at alle medlemmer har rett til å søke Hovedstyret om å starte opp interessegrupper. Denne prosessen er flyttet til Backlog og det er de som har hovedansvaret for interessegrupper. Jeg foreslår derfor å endre vedtekt 3.2.
 
-**Endre “Hovedstyret” til “Backlog” i vedtekt 3.2** 
+**Endre vedtekt 3.2 Medlemmers rettigheter** 
 
 **Fra:**
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. **Alle medlemmer av linjeforeningen har rett til å søke Hovedstyret om å starte opp interessegrupper.** Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
@@ -77,7 +77,7 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 **Bakgrunn**: 
 Etter endringen i organisasjonstrukturen er vi ikke lenger 9 medlemmer i styret.
 
-**Endre 4.7.3 Klage**
+**Endre vedtekt 4.7.3 Klage**
 
 Fra:  
 
@@ -101,7 +101,7 @@ Til:
 **Bakgrunn**: 
 Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
 
-**Endre 5.3 Konstituering**
+**Endre vedtekt 5.3 Konstituering**
 
 Fra:  
 
