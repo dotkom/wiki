@@ -22,19 +22,15 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 ## Vedtektsforslag 01: Fjerne permittering av økonomiansvarlig v. Johanna Wilmers
 
-Bakgrunn: Som økonomiansvarlig må man sitte i bankom. Ut i fra denne vedtekten er det teknisk sett ikke lov. Vi ønsker å endre denne vedtekten for å tydeliggjøre at Økonomiansvarlig skal være medlem i bankom. 
+**Bakgrunn:** Som økonomiansvarlig må man sitte i bankom. Ut i fra denne vedtekten er det teknisk sett ikke lov. Vi ønsker å endre denne vedtekten for å tydeliggjøre at Økonomiansvarlig skal være medlem i bankom. 
+
+**Endre vedtekt 4.1.3 Krav til kandidater **
 
 Fra:
-
-4.1.3 Krav til kandidater
-
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. 
 
 Til:
-
-4.1.3 Krav til kandidater
-
-Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. **Det eneste unntaket er Økonomiansvarlig av online som plikter å sitte i bankom.**
+Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. **Det eneste unntaket er Økonomiansvarlig i Online som plikter å sitte i bankom.**
 
 ## Vedtektsforslag 02: Fjerne at Hovedstyrer godkjenner interessegrupper v. Ida Matre
 
@@ -43,15 +39,9 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjefore
 **Endre “Hovedstyret” til “Backlog” i vedtekt 3.2** 
 
 **Fra:**
-
-3.2 Medlemmers rettigheter
-
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. **Alle medlemmer av linjeforeningen har rett til å søke Hovedstyret om å starte opp interessegrupper.** Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 
 **Til:**
-
-3.2 Medlemmers rettigheter
-
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. **Alle medlemmer av linjeforeningen har rett til å søke Backlog om å starte opp interessegrupper.** Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 
 
