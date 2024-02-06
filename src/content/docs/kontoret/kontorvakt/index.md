@@ -62,18 +62,18 @@ title: "Kontorvakt"
 | 5 | Dotkom | Appkom | OIL |
 | 6 | FeminIT | Backlog |Prokom |
 | 7 | Bedkom | Fagkom | Arrkom |
-| 8 | Dotkom | Appkom | OIL |
-| 9 | FeminIT | Baclog | Trikom |
-| 10  | Dotkom | Appkom | OIL |
-| 11 | FeminIT | Backlog |Prokom |
-| 12 | Bedkom | Fagkom | Arrkom |
-| 13 | Dotkom | Appkom | OIL |
-| 14 | FeminIT | Baclog | Trikom |
+| 8 | Trikom | Dotkom | Appkom |
+| 9 | OIL | FeminIT | Backlog |
+| 10  | Prokom | Bedkom | Fagkom |
+| 11 | Arrkom | Trikom | Dotkom |
+| 12 | Appkom | OIL | FeminIT |
+| 13 | Backlog | Prokom | Bedkom |
+| 14 | Fagkom | Arrkom | Trikom |
 | 15  | Dotkom | Appkom | OIL |
 | 16 | FeminIT | Backlog |Prokom |
-| 17 | Bedkom | Fagkom | Arrkom |
-| 18 | Dotkom | Appkom | OIL |
-| 19 | FeminIT | Baclog | Trikom |
+| 17 | Bedkom | fagkom | Arrkom |
+| 18 | Trikom | Dotkom | Appkom |
+| 19 | OIL | FeminIT | Backlog |
 
 
 
