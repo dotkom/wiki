@@ -124,3 +124,36 @@ Ved konstituering av generalforsamlingen skal disse rollene fylles:
 - **Minst** to referenter som skriver referat under generalforsamling og samarbeider om renskriving
 
 - Minst to til tellekorps som teller opp stemmer ved avstemming
+
+## Vedtektsforslag 06: Splittelse av valg i HS v. Hanna Vestvik og Johanna Wilmers
+
+**Bakgrunn**: 
+På generalforsamlingen våren 2022, ble det besluttet å splitte valg av HS-medlemmene. Dette innebærer at leder, nestleder, og økonomiansvarlig nå vil bli valgt om våren, mens valget av de resterende styremedlemmene er flyttet til høstperioden.
+
+HS oppfordret Organisasjonsstrukturgruppa til å evaluere effektiviteten av den nåværende ordningen. Som et resultat, ble det gjennomført en spørreundersøkelse med deltakelse fra både tidligere og nåværende HS-medlemmer, i tillegg til samtaler med det sittende HS. Basert på funnene fra disse undersøkelsene, ble det klart at den eksisterende strukturen ikke fungerer optimalt, noe som indikerer et behov for endring.
+
+Fra:
+4.1.4 Valg av Hovedstyre
+
+Verv i Hovedstyret varer normalt i to semestre og utlyses ved **generalforsamlinger**. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
+
+Ved Ordinær generalforsamlingen utlyses:
+- Leder
+- Nestleder
+- Økonomiansvarlig
+
+**Ved Sekundær generalforsamlingen utlyses:
+Øvrige styremedlemmer
+
+Sittende styremedlemmer kan stille som kandidat selv om de ikke fratrer vervet sitt samme generalforsamling de stiller. Sittende styremedlemmer som ønsker å stille til valg i ny rolle må varsle om dette senest ved innkallingen til generalforsamlingen, som sendes ut fire (4) uker før generalforsamlingen. Dersom kandidaten vinner skal det avholdes ekstraordinært valg for den avtroppende styreposisjonen.**  
+
+
+Til:  
+Verv i Hovedstyret varer normalt i to semestre og utlyses ved **Ordinær generalforsamling**. Året etter et styremedlem har gått av, plikter vedkommende å behandle klager sendt inn i henhold til §4.7.3. Dersom vedkommende ikke lenger er student i Trondheim, frafaller denne plikten.
+
+Ved Ordinær generalforsamlingen utlyses:
+
+- Leder
+- Nestleder
+- Økonomiansvarlig
+- **Øvrige styremedlemmer**
