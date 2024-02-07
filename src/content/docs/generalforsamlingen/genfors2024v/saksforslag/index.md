@@ -18,6 +18,18 @@ Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post t
 Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gjøres umiddelbart (som endrer gjennomføringen av generalforsamlingen), eller noe du vil at Hovedstyret/komitémedlemmer skal jobbe med i løpet av året. Vær obs på at saksforslag ikke er det samme som vedtektsforslag.
 
 [TOC]
+# Saksforslag 
+
+## Sak 1: Stenge kiosken v. Johanna Wilmers og Ida Matre
+
+**Bakgrunn:**  
+
+Kiosken har gått ca. 55 000 kr i minus forrige semester. Dette er mye penger for Online. Online må dekke dette svinnet og ha da mindre penger til komiteene. For å sette dette i perspektiv så er budsjettet til alle arrangementene til trikom i 2023 80 000 kr. Summen vi prøver å spare hvert år til jubkom er 50 000. Hvis 50 000 går tapt hvert år kan tapet tilsvare et helt jubileum. 
+
+**Forslag:**  
+
+Vi foreslår å stenge kiosken, slik at det ikke blir noen kiosk på kontoret.
+
 
 # Saksforslag 
 
