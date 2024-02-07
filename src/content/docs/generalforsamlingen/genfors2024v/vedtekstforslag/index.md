@@ -46,7 +46,19 @@ Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjefore
 Til:
 Kandidater til Hovedstyret må ha innehatt et verv i en av komiteene i linjeforeningen i minst ett (1) semester. Om en kandidat ikke har innehatt et verv i en komité, må kandidaten foreslås av valgkomiteen. Dersom en kandidat blir tatt opp til Hovedstyret, må de permitteres fra alle eventuelle verv i Onlines komiteer, nodekomiteer og Debug, og kan ikke inneha disse vervene så lenge de sitter i styret. **Det eneste unntaket er Økonomiansvarlig i Online som plikter å sitte i bankom.**
 
-## Vedtektsforslag 02: Fjerne at Hovedstyrer godkjenner interessegrupper v. Ida Matre
+## Vedtektsforslag 02: Styrerepresentant i bank og økonomikomiteen v. Johanna Wilmers
+
+**Bakgrunn**: Etter overgangen fra styrerepresentanter til styremedlemmer skal ingen komiteer per definisjon ha styrerepresentanter. Dette vedtektsforslaget er for å rydde opp i vedtektene, og endrer praktisk ingen ting. 
+
+**Endre vedtekt 4.2.2 *og styrerepresentant i bank og økonomikomiteen***
+
+Fra:
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. **Økonomiansvarlig i Online er komiteens styremedlem.** Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
+
+Til:
+Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
+
+## Vedtektsforslag 03: Fjerne at Hovedstyrer godkjenner interessegrupper v. Ida Matre
 
 **Bakgrunn:** I vedtektene står det nå at alle medlemmer har rett til å søke Hovedstyret om å starte opp interessegrupper. Denne prosessen er flyttet til Backlog og det er de som har hovedansvaret for interessegrupper. Jeg foreslår derfor å endre vedtekt 3.2.
 
@@ -58,18 +70,6 @@ Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, ti
 **Til:**
 Alle medlemmer har rett til å delta på, og fremme saker og vedtektsforslag, til generalforsamlingen. **Alle medlemmer av linjeforeningen har rett til å søke Backlog om å starte opp interessegrupper.** Alle medlemmer har rett til å delta på de arrangementer som arrangeres for medlemmene, gitt at medlemmet er i arrangementets målgruppe. Medlemmer av linjeforeningen kan kreve innsyn i linjeforeningens regnskap og kan få innsyn i ikke-konfidensielle vedtak.
 
-
-## Vedtektsforslag 03: Styrerepresentant i bank og økonomikomiteen v. Johanna Wilmers
-
-**Bakgrunn**: Etter overgangen fra styrerepresentanter til styremedlemmer skal ingen komiteer per definisjon ha styrerepresentanter. Dette vedtektsforslaget er for å rydde opp i vedtektene, og endrer praktisk ingen ting. 
-
-**Endre vedtekt 4.2.2 *og styrerepresentant i bank og økonomikomiteen***
-
-Fra:
-Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. **Økonomiansvarlig i Online er komiteens styremedlem.** Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
-
-Til:
-Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
 
 ## Vedtektsforslag 04: Endre antall tidligere hovedstyremedlemmer som må være tilstede ved klage v. Carolina Gunnesdal
