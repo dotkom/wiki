@@ -170,12 +170,12 @@ Ved Ordinær generalforsamlingen utlyses:
 
 Fra:
 
-### 4.3.3 Ekskursjonskomiteen
+**4.3.3 Ekskursjonskomiteen**
 
 Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
 
 Til:
 
-### 4.4.7 Ekskursjonskomiteen
+**4.4.7 Ekskursjonskomiteen**
 
 Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
