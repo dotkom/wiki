@@ -31,7 +31,7 @@ Kiosken har gått ca. 55 000 kr i minus forrige semester. Dette er mye penger fo
 Vi foreslår å stenge kiosken, slik at det ikke blir noen kiosk på kontoret.
 # Saksforslag 
 
-## Sak 02: Tiltak for å minske svinn i kiosken v. Ida Tandberg og Birk Fjeldsgård Steinsholt
+## Sak 02 (Hvis sak 1 faller): Tiltak for å minske svinn i kiosken v. Ida Tandberg og Birk Fjeldsgård Steinsholt
 
 **Bakgrunn:**  
 Har vært mye svinn i kiosken. Usikker på hva svinnet kommer av, men virker som det i hovedsak er at folk ikke betaler. Målet er at kiosken skal gå i null, dette har den ikke gjort på flere år. Kiosken er en stor del av kontoret, den er et møtepunkt, gir motivasjon gjennom skolehverdagen og har snacks og drikke til studentvennlige priser. Derfor ønsker vi å holde den åpen. 
