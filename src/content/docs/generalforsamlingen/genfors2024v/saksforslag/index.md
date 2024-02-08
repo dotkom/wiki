@@ -29,6 +29,24 @@ Kiosken har gått ca. 55 000 kr i minus forrige semester. Dette er mye penger fo
 **Forslag:**  
 
 Vi foreslår å stenge kiosken, slik at det ikke blir noen kiosk på kontoret.
+# Saksforslag 
+
+## Sak 02: Tiltak for å minske svinn i kiosken v. Ida Tandberg og Birk Fjeldsgård Steinsholt
+
+**Bakgrunn:**  
+Har vært mye svinn i kiosken. Usikker på hva svinnet kommer av, men virker som det i hovedsak er at folk ikke betaler. Målet er at kiosken skal gå i null, dette har den ikke gjort på flere år. Kiosken er en stor del av kontoret, den er et møtepunkt, gir motivasjon gjennom skolehverdagen og har snacks og drikke til studentvennlige priser. Derfor ønsker vi å holde den åpen. 
+
+ 
+**Forslag:**  
+Sette inn ulike tiltak for å minske svinnet i kiosken. Vi håper disse tiltakene kan hjelpe og har et mål om å få svinnet på 15%. Dersom tiltakene ikke hjelper og svinnet går over 20% vil kiosken bli stengt. 
+-   Føre varelager
+-   Innskrenking av bodtilgang
+-   Mindre utvalg av varer
+-   Døren til kontoret er kun åpen i tidsrommet 10.00-16.00 
+-   Strengere rutiner innad i trikom
+	- Innkjøpsansvarlig er oppdatert på priser
+	- Før hver innkjøpsrunde går vi gjennom hva som har blitt borte fra kiosken + hva som har blitt solgt
+-   Ønsker en pipelyd i kiosken, for å bekrefte at kjøpet har gått igjennom. Hørt med Appkom om dette er noe de kan fikse. 
 
 
 # Saksforslag 
