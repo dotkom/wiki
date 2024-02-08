@@ -161,3 +161,21 @@ Ved Ordinær generalforsamlingen utlyses:
 - Nestleder
 - Økonomiansvarlig
 - **Øvrige styremedlemmer**
+
+## Vedtektsforslag 7: Flytte ekskurssjonskomiteen til “Andre grupper tilknyttet Online” v. Brage Baugerød
+
+**Bakgrunn**: Ekskom er i dag opplistet som en nodekomite i vedtektene. Med tanke på at ekskom er en egen organisasjon med egen generalforsamling passer det bedre å betegne komiteen som en “gruppe tilknyttet Online”. Jeg foreslår derfor å flytte ekskom til å ligge under “Andre grupper tilknyttet Online”.
+
+**Fjerne vedtekt 4.3.3 Ekskursjonskomiteen og legge til 4.4.7 Ekskursjonskomiteen**
+
+Fra:
+
+### 4.3.3 Ekskursjonskomiteen
+
+Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
+
+Til:
+
+### 4.4.7 Ekskursjonskomiteen
+
+Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
