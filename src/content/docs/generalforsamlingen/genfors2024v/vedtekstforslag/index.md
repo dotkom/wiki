@@ -188,7 +188,7 @@ Fra:
 
 ** 4.6.2 Verv i Hovedstyret **
 
-Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan fritt returnere til denne ved endt engasjement i Hovedstyret:
+Dersom et komitémedlem blir valgt til **et av følgende hovedstyreverv** vil medlemmet automatisk få permisjon fra **sin komité**, og kan fritt returnere til **denne** ved endt engasjement i Hovedstyret:
 
 - Leder
 - Nestleder
@@ -199,4 +199,4 @@ Til:
 
 ** 4.6.2 Verv i Hovedstyret **
 
-Dersom et komitémedlem blir valgt til et hovedstyreverv jf. §4.1.1 vil medlemmet automatisk få permisjon fra sine andre verv jf. §4.1.3, og kan fritt returnere til disse ved endt engasjement i Hovedstyret.
+Dersom et komitémedlem blir valgt til **et hovedstyreverv jf. §4.1.1** vil medlemmet automatisk få permisjon fra **sine andre verv jf. §4.1.3**, og kan fritt returnere til **disse** ved endt engasjement i Hovedstyret.
