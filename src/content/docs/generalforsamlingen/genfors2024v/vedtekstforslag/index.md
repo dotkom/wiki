@@ -190,9 +190,9 @@ Fra:
 
 Dersom et komitémedlem blir valgt til **et av følgende hovedstyreverv** vil medlemmet automatisk få permisjon fra **sin komité**, og kan fritt returnere til **denne** ved endt engasjement i Hovedstyret:
 
-- Leder
-- Nestleder
-- Økonomiansvarlig
+- **Leder**
+- **Nestleder**
+- **Økonomiansvarlig**
 
 
 Til:
