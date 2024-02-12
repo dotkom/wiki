@@ -41,6 +41,7 @@ Har vært mye svinn i kiosken. Usikker på hva svinnet kommer av, men virker som
 Sette inn ulike tiltak for å minske svinnet i kiosken. Vi håper disse tiltakene kan hjelpe og har et mål om å få svinnet på 15%. Dersom tiltakene ikke hjelper og svinnet går over 20% vil kiosken bli stengt.  
 
 -   Føre varetelling
+-   Gjennomføre jevnlige interesse-undersøkelser
 -   Innskrenking av bodtilgang
 -   Mindre utvalg av varer
 -   Døren til kontoret skal kun være åpen i tidsrommert 10.00-16.00
