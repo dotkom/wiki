@@ -101,8 +101,7 @@ Til:
 
 **Bakgrunn**: 
 Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
-Ønsker å presisere at det minst må være to referenter, men at man kan ha flere.
-                                                     +
+
 
 **Endre vedtekt 5.3 Konstituering**
 
