@@ -48,7 +48,7 @@ Sette inn ulike tiltak for å minske svinnet i kiosken. Vi håper disse tiltaken
 -   Strengere rutiner innad i trikom
    -   Innkjøpsansvarlig er oppdatert på priser
    -   Før hver innkjøpsrunde går vi gjennom hva som har blitt borte fra kisoken + hva som har blitt solgt
--   Ønsker en pipelyd i kisoken, for å bekrefte at kjøpet har gått igjennom. Hørt med Appkom om dette er noe de kan fikse
+-   Ønsker en pipelyd i kiosken, for å bekrefte at kjøpet har gått igjennom. Hørt med Appkom om dette er noe de kan fikse
 
 # Saksforslag 
 
