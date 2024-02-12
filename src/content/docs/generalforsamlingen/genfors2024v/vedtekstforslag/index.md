@@ -124,7 +124,7 @@ Ved konstituering av generalforsamlingen skal disse rollene fylles:
 
 - Minst to til tellekorps som teller opp stemmer ved avstemming
 
-## Vedtektsforslag 06: Splittelse av valg i HS v. Hanna Vestvik og Johanna Wilmers
+## Vedtektsforslag 06: Fjerne splittelse av valg i HS v. Hanna Vestvik og Johanna Wilmers
 
 **Bakgrunn**: 
 På generalforsamlingen våren 2022, ble det besluttet å splitte valg av HS-medlemmene. Dette innebærer at leder, nestleder, og økonomiansvarlig nå vil bli valgt om våren, mens valget av de resterende styremedlemmene er flyttet til høstperioden.
