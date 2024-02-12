@@ -100,7 +100,7 @@ Til:
 ## Vedtektsforslag 05: Presisering av antall referenter ved generalforsamlingen v. Carolina Gunnesdal
 
 **Bakgrunn**: 
-Ønsker å presisere at det minst må være to referenter men at man kan ha flere.
+Ønsker å presisere at det minst må være to referenter ved holdt generalforsamling.
 
 
 **Endre vedtekt 5.3 Konstituering**
