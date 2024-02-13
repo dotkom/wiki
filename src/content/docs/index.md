@@ -68,6 +68,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Historien om linjeforeningen](/wiki/online/historie/om)
     - [Hovedstyret](/wiki/online/historie/hs)
     - [Debug](/wiki/online/historie/debug)
+    - [Applikasjonskomiteen](/wiki/online/historie/appkom)
     - [Arrangementskomiteen](/wiki/online/historie/arrkom)  
     - [Backlog](/wiki/online/historie/seniorkom)
     - [Bank- og økonomikomiteen](/wiki/online/historie/bankom)
