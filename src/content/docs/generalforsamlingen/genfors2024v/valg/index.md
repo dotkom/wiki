@@ -51,4 +51,4 @@ _Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedle
 * *FeminIT:* 
 * *OIL-leder:* 
 * *Prokomleder:* 
-* *Trikomleder:*
+* *Trikomleder:* Iver Oprand Eggelund
