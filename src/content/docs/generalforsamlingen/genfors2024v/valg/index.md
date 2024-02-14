@@ -49,7 +49,7 @@ Dersom vedtektsforslag 07 går igjennom vil også tre styremedlemmer bli valgt p
 * *Bedkomleder:*
 * *Dotkomleder:* 
 * *Debug:*  
-* *Fagkomleder:* 
+* *Fagkomleder:* Mari Gjul
 * *FeminIT:* 
 * *OIL-leder:* 
 * *Prokomleder:* 
