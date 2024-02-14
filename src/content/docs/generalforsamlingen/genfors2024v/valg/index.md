@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 Dersom vedtektsforslag 07 går igjennom vil også tre styremedlemmer bli valgt på nytt.
 
-* *Styremedlem*: 
+* *Styremedlem*: Brage Baugerød
 * *Styremedlem*: 
 * *Styremedlem*: 
 
