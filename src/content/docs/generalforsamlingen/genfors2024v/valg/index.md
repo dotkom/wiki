@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 * *Leder:* Frederik Farstad (Dersom vedtektsforslag 07 går igjennom)
 * *Nestleder:*   
-* *Økonomiansvarlig:* 
+* *Økonomiansvarlig:* Jacob Gullesen Hagen
 
 Dersom vedtektsforslag 07 går igjennom vil også tre styremedlemmer bli valgt på nytt.
 
