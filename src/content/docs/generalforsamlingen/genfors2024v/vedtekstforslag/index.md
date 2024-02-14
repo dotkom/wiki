@@ -124,7 +124,28 @@ Ved konstituering av generalforsamlingen skal disse rollene fylles:
 
 - Minst to til tellekorps som teller opp stemmer ved avstemming
 
-## Vedtektsforslag 06: Fjerne splittelse av valg i HS v. Hanna Vestvik og Johanna Wilmers
+## Vedtektsforslag 06: Styremedlemmer kan returnere til permittert verv etter endt engasjement v. Frederik Farstad
+
+**Bakgrunn**: På høstens generalforsamling ble det vedtatt ny organisasjonsstruktur hvor styrerepresentanter ble byttet ut med styremedlemmer. Tidligere forble styrerepresentanter også medlemmer i komiteen sin, da var det ikke behov for å spesifisere de i denne vedtekten (§4.6.2). Styremedlemmer blir i dag permittert fra tidligere verv, men kan ikke fritt returnere til disse ved endt engasjement slik som resterende hovedstyreverv.
+
+Fra:
+
+** 4.6.2 Verv i Hovedstyret **
+
+Dersom et komitémedlem blir valgt til **et av følgende hovedstyreverv** vil medlemmet automatisk få permisjon fra **sin komité**, og kan fritt returnere til **denne** ved endt engasjement i Hovedstyret:
+
+- **Leder**
+- **Nestleder**
+- **Økonomiansvarlig**
+
+
+Til:
+
+** 4.6.2 Verv i Hovedstyret **
+
+Dersom et komitémedlem blir valgt til **et hovedstyreverv jf. §4.1.1** vil medlemmet automatisk få permisjon fra **sine andre verv jf. §4.1.3**, og kan fritt returnere til **disse** ved endt engasjement i Hovedstyret.
+
+## Vedtektsforslag 07: Fjerne splittelse av valg i HS v. Hanna Vestvik og Johanna Wilmers
 
 **Bakgrunn**: 
 På generalforsamlingen våren 2022, ble det besluttet å splitte valg av HS-medlemmene. Dette innebærer at leder, nestleder, og økonomiansvarlig nå vil bli valgt om våren, mens valget av de resterende styremedlemmene er flyttet til høstperioden.
@@ -161,7 +182,7 @@ Ved Ordinær generalforsamlingen utlyses:
 - Økonomiansvarlig
 - **Øvrige styremedlemmer**
 
-## Vedtektsforslag 7: Flytte ekskurssjonskomiteen til “Andre grupper tilknyttet Online” v. Brage Baugerød
+## Vedtektsforslag 08: Flytte ekskurssjonskomiteen til “Andre grupper tilknyttet Online” v. Brage Baugerød
 
 **Bakgrunn**: Ekskom er i dag opplistet som en nodekomite i vedtektene. Med tanke på at ekskom er en egen organisasjon med egen generalforsamling passer det bedre å betegne komiteen som en “gruppe tilknyttet Online”. Jeg foreslår derfor å flytte ekskom til å ligge under “Andre grupper tilknyttet Online”.
 
@@ -178,24 +199,3 @@ Til:
 **4.4.7 Ekskursjonskomiteen**
 
 Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
-
-## Vedtektsforslag 08: Styremedlemmer kan returnere til permittert verv etter endt engasjement v. Frederik Farstad
-
-**Bakgrunn**: På høstens generalforsamling ble det vedtatt ny organisasjonsstruktur hvor styrerepresentanter ble byttet ut med styremedlemmer. Tidligere forble styrerepresentanter også medlemmer i komiteen sin, da var det ikke behov for å spesifisere de i denne vedtekten (§4.6.2). Styremedlemmer blir i dag permittert fra tidligere verv, men kan ikke fritt returnere til disse ved endt engasjement slik som resterende hovedstyreverv.
-
-Fra:
-
-** 4.6.2 Verv i Hovedstyret **
-
-Dersom et komitémedlem blir valgt til **et av følgende hovedstyreverv** vil medlemmet automatisk få permisjon fra **sin komité**, og kan fritt returnere til **denne** ved endt engasjement i Hovedstyret:
-
-- **Leder**
-- **Nestleder**
-- **Økonomiansvarlig**
-
-
-Til:
-
-** 4.6.2 Verv i Hovedstyret **
-
-Dersom et komitémedlem blir valgt til **et hovedstyreverv jf. §4.1.1** vil medlemmet automatisk få permisjon fra **sine andre verv jf. §4.1.3**, og kan fritt returnere til **disse** ved endt engasjement i Hovedstyret.
