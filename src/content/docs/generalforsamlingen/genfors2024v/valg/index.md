@@ -20,10 +20,15 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-* *Leder:* 
+* *Leder:* Frederik Farstad (Dersom vedtektsforslag 07 går igjennom)
 * *Nestleder:*   
 * *Økonomiansvarlig:* 
 
+Dersom vedtektsforslag 07 går igjennom vil også tre styremedlemmer bli valgt på nytt.
+
+* *Styremedlem*: 
+* *Styremedlem*: 
+* *Styremedlem*: 
 
 **De som har meldt interesse til Fondstyret er:**
 
