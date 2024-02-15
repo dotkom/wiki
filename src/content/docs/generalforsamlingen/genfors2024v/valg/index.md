@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 _Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedlemmer:_
 
-* *3 Styremedlemmer*: Brage Baugerød, Erik David Thiis-Evensen 
+* *3 Styremedlemmer*: Brage Baugerød, Erik David Thiis-Evensen, Pelle Traalum Okkenhaug
 
 **De som har meldt interesse til Fondstyret er:**
 
