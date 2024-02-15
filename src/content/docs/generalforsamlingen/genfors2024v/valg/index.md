@@ -40,7 +40,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedle
 
 **De som skal godkjennes som komitéledere er:**
 
-* *Appkomleder:* 
+* *Appkomleder:* Fredrik Carsten Hansteen
 * *Arrkomleder:* 
 * *Backlogleder:*
 * *Bankomleder:*  
