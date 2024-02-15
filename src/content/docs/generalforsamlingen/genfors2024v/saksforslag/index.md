@@ -34,21 +34,41 @@ Vi foreslår å stenge kiosken, slik at det ikke blir noen kiosk på kontoret.
 ## Sak 02 (Hvis sak 1 faller): Tiltak for å minske svinn i kiosken v. Ida Tandberg og Birk Fjeldsgård Steinsholt
 
 **Bakgrunn:**  
-Har vært mye svinn i kiosken. Usikker på hva svinnet kommer av, men virker som det i hovedsak er at folk ikke betaler. Målet er at kiosken skal gå i null, dette har den ikke gjort på flere år. Kiosken er en stor del av kontoret, den er et møtepunkt, gir motivasjon gjennom skolehverdagen og har snacks og drikke til studentvennlige priser. Derfor ønsker vi å holde den åpen. 
-
+Det har vært mye svinn i kiosken. Svinnet kommer trolig av flere forskjellige årsaker. Derfor vil vi prøve å stramme inn på flere punkter i håp om å minske svinnet. Kiosken er en stor del av både kontoret og Onlines kultur, det er et møtepunkt, gir motivasjon gjennom skolehverdagen og har snacks og drikke til studentvennlige priser. Derfor ønsker vi å holde den åpen. 
  
 **Forslag:**  
-Sette inn ulike tiltak for å minske svinnet i kiosken. Vi håper disse tiltakene kan hjelpe og har et mål om å få svinnet på 15%. Dersom tiltakene ikke hjelper og svinnet går over 20% vil kiosken bli stengt.  
+Trikom har en visjon om at kiosken skal gå i null og vil derfor sette inn ulike tiltak for å oppnå dette. Vi planlegger å handle inn for maks 75 000 kr hvert semester. Dersom svinnet øker over 7500kr  (10%), vil kiosken stenge. Dette tilsvarer 75% av hva vi har budsjettert til kaffe og te per semester (10 000kr).
 
--   Føre varetelling
--   Gjennomføre jevnlige interesseundersøkelser
--   Innskrenking av bodtilgang
--   Mindre utvalg av varer
--   Døren til kontoret skal kun være åpen i tidsrommert 10.00-16.00
--   Strengere rutiner innad i trikom
-   -   Innkjøpsansvarlig er oppdatert på priser
-   -   Før hver innkjøpsrunde går vi gjennom hva som har blitt borte fra kisoken + hva som har blitt solgt
--   Ønsker en pipelyd i kiosken, for å bekrefte at kjøpet har gått igjennom. Hørt med Appkom om dette er noe de kan fikse
+Tiltak mot tyveri
+
+- Innskrenking av bodtilgang
+- Døren til kontoret skal kun være åpen i tidsrommet 10.00-16.00
+- Ønsker en pipelyd i kiosken, for å bekrefte at kjøpet har gått igjennom. Hørt med Appkom om dette er noe de kan fikse, virker positive
+
+Tiltak for strengere rutiner innad i Trikom
+
+- Innkjøpsansvarlig oppdaterer priser løpende ift. innkjøpspris
+- Gjennomgang av salg og evt. svinn før hver innkjøpsrunde
+- Føre aktiv varetelling
+
+Tiltak mot matsvinn
+
+ - Gjennomføre jevnlige interesseundersøkelse for varer
+ - Lavere innkjøpsmengde varer
+ - Begrense utvalg av varer til kun det vi ser på som lav svinnrisiko
+ - Selge varer for halv pris når de går utgår på holdbarhetsdato (best før), men fortsatt er presentable
+
+Varer vi skal ha:
+
+1. Powerking
+2. Monster white
+3. Pepsi max
+4. Kinder maxi
+5. Lion
+6. Sjokolademuffins
+7. Mama nudler
+8. Toro bolognese
+
 
 # Saksforslag 
 
