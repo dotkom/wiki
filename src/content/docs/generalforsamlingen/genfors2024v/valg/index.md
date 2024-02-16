@@ -42,7 +42,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedle
 
 * *Appkomleder:* Fredrik Carsten Hansteen
 * *Arrkomleder:* 
-* *Backlogleder:*
+* *Backlogleder:* Ådne Børresen
 * *Bankomleder:*  
 * *Bedkomleder:*
 * *Dotkomleder:* 
