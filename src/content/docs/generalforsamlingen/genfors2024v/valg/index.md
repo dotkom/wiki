@@ -46,7 +46,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedle
 * *Bankomleder:*  
 * *Bedkomleder:*
 * *Dotkomleder:* 
-* *Debug:*  
+* *Debug:* Sander Ekanger 
 * *Fagkomleder:* Mari Gjul
 * *FeminIT:* 
 * *OIL-leder:* 
