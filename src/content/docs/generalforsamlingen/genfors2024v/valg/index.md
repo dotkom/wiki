@@ -44,7 +44,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedle
 * *Arrkomleder:* 
 * *Backlogleder:* Ådne Børresen
 * *Bankomleder:*  
-* *Bedkomleder:*
+* *Bedkomleder:* Karl Theodor Ladegård Beck
 * *Dotkomleder:* 
 * *Debug:* Sander Ekanger 
 * *Fagkomleder:* Mari Gjul
