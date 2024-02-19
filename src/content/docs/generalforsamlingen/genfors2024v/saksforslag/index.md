@@ -29,7 +29,7 @@ Kiosken har gått ca. 55 000 kr i minus forrige semester. Dette er mye penger fo
 **Forslag:**  
 
 Vi foreslår å stenge kiosken, slik at det ikke blir noen kiosk på kontoret.
-# Saksforslag 
+
 
 ## Sak 02 (Hvis sak 1 faller): Tiltak for å minske svinn i kiosken v. Ida Tandberg og Birk Fjeldsgård Steinsholt
 
