@@ -69,7 +69,7 @@ Varer vi skal ha:
 7. Mama nudler
 8. Toro bolognese
 
-# Saksforslag 
+
 
 ## Sak 03: Overføre midler til fondet v/Hovedstyret
 
