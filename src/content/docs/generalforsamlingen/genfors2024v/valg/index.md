@@ -21,12 +21,12 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:* Frederik Farstad (Dersom vedtektsforslag 07 går igjennom)
-* *Nestleder:*   
+* *Nestleder:* Brage Baugerød  
 * *Økonomiansvarlig:* Jacob Gullesen Hagen
 
 _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedlemmer:_
 
-* *3 Styremedlemmer*: Brage Baugerød, Erik David Thiis-Evensen, Pelle Traalum Okkenhaug
+* *3 Styremedlemmer*: Erik David Thiis-Evensen, Pelle Traalum Okkenhaug
 
 **De som har meldt interesse til Fondstyret er:**
 
