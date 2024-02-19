@@ -21,7 +21,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 * *Leder:* Frederik Farstad (Dersom vedtektsforslag 07 går igjennom)
-* *Nestleder:* Brage Baugerød  
+* *Nestleder:* Brage Baugerød (Dersom vedtektsforslag 07 går igjennom)  
 * *Økonomiansvarlig:* Jacob Gullesen Hagen
 
 _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedlemmer:_
