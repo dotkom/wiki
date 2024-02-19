@@ -94,7 +94,7 @@ Til:
 
 2. Klagefristen er én måned etter at vedtaket ble fattet.
 
-3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **4/6** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
+3. En klage vil bli håndtert av de som har innehatt rollene i Hovedstyret før de som har behandlet saken, dersom **5/6** medlemmer fortsatt studerer ved NTNU. Om dette ikke er tilfellet, er generalforsamlingen eneste klageinstans.
 
 
 ## Vedtektsforslag 05: Presisering av antall referenter ved generalforsamlingen v. Carolina Gunnesdal
@@ -181,21 +181,3 @@ Ved Ordinær generalforsamlingen utlyses:
 - Nestleder
 - Økonomiansvarlig
 - **Øvrige styremedlemmer**
-
-## Vedtektsforslag 08: Flytte ekskurssjonskomiteen til “Andre grupper tilknyttet Online” v. Brage Baugerød
-
-**Bakgrunn**: Ekskom er i dag opplistet som en nodekomite i vedtektene. Med tanke på at ekskom er en egen organisasjon med egen generalforsamling passer det bedre å betegne komiteen som en “gruppe tilknyttet Online”. Jeg foreslår derfor å flytte ekskom til å ligge under “Andre grupper tilknyttet Online”.
-
-**Fjerne vedtekt 4.3.3 Ekskursjonskomiteen og legge til 4.4.7 Ekskursjonskomiteen**
-
-Fra:
-
-**4.3.3 Ekskursjonskomiteen**
-
-Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
-
-Til:
-
-**4.4.7 Ekskursjonskomiteen**
-
-Komiteens hovedoppgave er å organisere hovedekskursjonen. Komiteens navn forkortes ekskom. Ekskursjonskomiteen opererer frittstående fra linjeforeningen, som en egen organisasjon.
