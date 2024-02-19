@@ -69,6 +69,18 @@ Varer vi skal ha:
 7. Mama nudler
 8. Toro bolognese
 
+# Saksforslag 
+
+## Sak 03: Overføre midler til fondet v/Hovedstyret
+
+**Bakgrunn:**  Online gikk mye i pluss i fjor, så vi ønsker å sette av til sparing. Samtidig vil vi beholde likviditeten i linjeforeningen. 
+
+
+
+**Forslag:**  
+
+Hovedstyret ønsker å overføre 150 000kr til fondet
+
 
 # Saksforslag 
 
