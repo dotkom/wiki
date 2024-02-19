@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
+- [2024-19-02](2024-19-02) - Dotkom-søknad og masterfadderansvarlige
 - [2024-12-02](2024-12-02) - Tech Talks og ItDagene
 - [2024-05-02](2024-05-02) - Genfors og t-skjorter
 - [2024-29-01](2024-29-01) - Nyhetsbrev og Aba IL?
