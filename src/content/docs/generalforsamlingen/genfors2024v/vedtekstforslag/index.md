@@ -58,7 +58,7 @@ Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens m
 Til:
 Komiteens hovedoppgave er å administrere linjeforeningens økonomi. Komiteens medlemmer utgjøres av de økonomiansvarlige fra de andre komiteene, økonomiansvarlig i Online og leder av komiteen. Leder av Bank- og økonomikomiteen skal ikke være økonomiansvarlig for en annen komité. Komiteens navn forkortes bankom.
 
-## Vedtektsforslag 03: Fjerne at Hovedstyrer godkjenner interessegrupper v. Ida Matre
+## Vedtektsforslag 03: Fjerne at Hovedstyret godkjenner interessegrupper v. Ida Matre
 
 **Bakgrunn:** I vedtektene står det nå at alle medlemmer har rett til å søke Hovedstyret om å starte opp interessegrupper. Denne prosessen er flyttet til Backlog og det er de som har hovedansvaret for interessegrupper. Jeg foreslår derfor å endre vedtekt 3.2.
 
