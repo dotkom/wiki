@@ -24,7 +24,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Nestleder:*   
 * *Økonomiansvarlig:* Jacob Gullesen Hagen
 
-_Dersom vedtektsforslag 07 går igjennom vil det også vli val av tre styremedlemmer:_
+_Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedlemmer:_
 
 * *3 Styremedlemmer*: Brage Baugerød, Erik David Thiis-Evensen, Pelle Traalum Okkenhaug
 
