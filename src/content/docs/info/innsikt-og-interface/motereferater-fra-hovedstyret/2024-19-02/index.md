@@ -21,7 +21,7 @@ title: "Dotkom-søknad og masterfadderansvarlige"
 
 [Dotkom har lyst å søke om å få et eget kontor]
 
-- Dotkom har lyst til å prøve å søke egne kontorer slik som wekkoom har. Frist er 1.mars for friarealer, men vi må søke gjennom idi. Derfor litt usikre på om fristen er det samme. 
+- Dotkom har lyst til å prøve å søke egne kontorer slik som webkom i abakus har. Frist er 1.mars for friarealer, men vi må søke gjennom idi. Derfor litt usikre på om fristen er det samme. 
 - Vanskelig å finne ut hvordan IDI sin søknadsprosess er.
 - Dotkom skal forehøre oss med IDI og se om de har en praksis på det.
 - Regner med at vi sender de en mail. Altså dotkom lager mail, sender til HS, også sender HS mail til IDI på vegne av Online.
