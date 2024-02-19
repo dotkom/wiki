@@ -64,7 +64,7 @@ Varer vi skal ha:
 2. Monster white
 3. Pepsi max
 4. Kinder maxi
-5. Lion
+5. Twix
 6. Sjokolademuffins
 7. Mama nudler
 8. Toro bolognese
