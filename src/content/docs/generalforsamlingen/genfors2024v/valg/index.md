@@ -26,7 +26,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedlemmer:_
 
-* *3 Styremedlemmer*: Erik David Thiis-Evensen, Pelle Traalum Okkenhaug
+* *3 Styremedlemmer*: Erik David Thiis-Evensen, Pelle Traalum Okkenhaug, Nicolai Skjerven
 
 **De som har meldt interesse til Fondstyret er:**
 
