@@ -49,6 +49,6 @@ _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedl
 * *Debug:* Sander Ekanger 
 * *Fagkomleder:* Mari Gjul
 * *FeminIT-leder:* Christina Sedlmayr
-* *OIL-leder:* 
+* *OIL-leder:* Bengt Andreas Rotheim
 * *Prokomleder:* Tobias Ursin Haugrønning
 * *Trikomleder:* Iver Oprand Eggelund
