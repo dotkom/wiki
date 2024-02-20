@@ -16,6 +16,7 @@ title: "Halvårsberetninger våren 2024"
 ## Hovedstyret
 
 Generelt:
+
 * Gjennomført GenVORS.
 * Delt ut lang og tro på julebord
 * Delt ut særskilt utmerkelse x 5
@@ -25,17 +26,17 @@ Generelt:
 * Hatt to stormøter med ledelsen i Online 
 
 Samarbeid med andre:
-- Deltatt på møter med IE og IDI
-- Deltatt på FIF-møte her i Trondheim
-- Deltatt på linjeledermøter hver måned
-- Leder og Nestleder har tatt på seg evakuerings ansvar på A4 fra IDI
-- Har skrevet kontrakt for gjennomføring av En psykt vanlig uke 2024
+* Deltatt på møter med IE og IDI
+* Deltatt på FIF-møte her i Trondheim
+* Deltatt på linjeledermøter hver måned
+* Leder og Nestleder har tatt på seg evakuerings ansvar på A4 fra IDI
+* Har skrevet kontrakt for gjennomføring av En psykt vanlig uke 2024
 
 Studentpolitisk:
-- Har startet å se på muligheten for eget kontor til dotkom
+* Har startet å se på muligheten for eget kontor til dotkom
 
 Sosialt og kos:
-- Laget julekalender og julekort
+* Laget julekalender og julekort
 * Representert Online på diverse jubileum, revyer og gallaer.
 * Hatt K2K med ledelsen i Abakus og Tihlde
 
