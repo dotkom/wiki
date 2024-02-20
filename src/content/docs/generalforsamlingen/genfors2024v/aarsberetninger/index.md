@@ -20,12 +20,13 @@ Generelt:
 * Gjennomført GenVORS.
 * Delt ut lang og tro på julebord
 * Delt ut særskilt utmerkelse x 5
-* Vært med i utformingen av kommunikasjons flyten i Online etter org.strukturendringen.
+* Vært med i utformingen av kommunikasjons flyten i Online etter organisasjonsstrukturendringen.
 * Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
 * Tatt opp velkom 23
 * Hatt to stormøter med ledelsen i Online 
 
 Samarbeid med andre:
+ 
 * Deltatt på møter med IE og IDI
 * Deltatt på FIF-møte her i Trondheim
 * Deltatt på linjeledermøter hver måned
@@ -33,9 +34,11 @@ Samarbeid med andre:
 * Har skrevet kontrakt for gjennomføring av En psykt vanlig uke 2024
 
 Studentpolitisk:
+ 
 * Har startet å se på muligheten for eget kontor til dotkom
 
-Sosialt og kos:
+Sosialt og kos: 
+
 * Laget julekalender og julekort
 * Representert Online på diverse jubileum, revyer og gallaer.
 * Hatt K2K med ledelsen i Abakus og Tihlde
