@@ -45,7 +45,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedl
 * *Backlogleder:* Ådne Børresen
 * *Bankomleder:*  Mari Jin
 * *Bedkomleder:* Karl Theodor Ladegård Beck
-* *Dotkomleder:* 
+* *Dotkomleder:* Jo Gramnæs Tjernshaugen
 * *Debug:* Sander Ekanger 
 * *Fagkomleder:* Mari Gjul
 * *FeminIT-leder:* Christina Sedlmayr
