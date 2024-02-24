@@ -102,15 +102,15 @@ Miljøtiltak: Bestilte ikke busser til bedcrawl
 
 ## Drifts- og utviklingskomiteen
 
-* Vi har deployet MVP for nytt vinstraffsystem
-* Deployet nytt interesseskjema til PROD
-* Vi har deployet beta for ny versjon av grades.no
+* Det nye vinstraffsystemet er nå i produksjon på https://vinstraff.no
+* Den nye versjonen av interesseskjemaet for bedrifter er i produksjon
 * Vi har shippet et par QOL fixes til OW4
 * Vi har begynt å jobbe med felles autentisering ved Auth0
-* Arkivert og tatt ned serverene på K16
 * Hatt workshop med bedkom om nye OW
-* Vi har lukket TBA issues, og åpnet TBA nye siden siste genfors
-* Vi har åpnet TBA pull requests siden siste genfors
+* Vi har åpnet 259 nye siden siste genfors
+* Vi har åpnet 204 + 8 + 26 + 83 + 7 = 328 pull requests siden siste genfors
+* Vi har migrert alt av on-premise til Cloud
+* Grades.no har blitt flyttet til Amazon Web Services
 
 ## Fag- og kurskomiteen
 
