@@ -95,8 +95,6 @@ Konklusjon: Tenker at vi kan sette oss ned og sende inn sammen når dere har få
     - Svart på
 - Kristika Mail om semestermøte
     - Mest aktuelt for de som fortsetter i styret. Det er 12. mars.
-- Cindy- spørsmål om opptak
-    - Styremedlem ser på det
 - Fif møte
     - Linjeforeninger i Grimstad som skal holde. Snakke m bedkom og fagkom når det blir sendt ut innkalling.
 
