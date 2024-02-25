@@ -31,7 +31,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedl
 **De som har meldt interesse til Fondstyret er:**
 
 * *Onlinemedlem:* 
-* *Tidligere hovedstyremedlem:* Ida Matre, Magnus Ouren
+* *Tidligere hovedstyremedlem:* Magnus Ouren
 * *Ridder:* 
 
 **De som har meldt interesse til Valgkomiteen er:**
