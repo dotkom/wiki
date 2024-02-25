@@ -108,7 +108,7 @@ Miljøtiltak: Bestilte ikke busser til bedcrawl
 * Vi har begynt å jobbe med felles autentisering ved Auth0
 * Hatt workshop med bedkom om nye OW
 * Vi har åpnet 259 nye siden siste genfors
-* Vi har åpnet 204 + 8 + 26 + 83 + 7 = 328 pull requests siden siste genfors
+* Vi har åpnet 103 + 8 + 26 + 83 + 7 = 227 pull requests siden siste genfors
 * Vi har migrert alt av on-premise til Cloud
 * Grades.no har blitt flyttet til Amazon Web Services
 
