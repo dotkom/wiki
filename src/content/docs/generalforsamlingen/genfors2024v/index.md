@@ -24,10 +24,10 @@ Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Ve
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)   
 Referat Generalforsamlingen Høst 2023: [attachment:847]
 
-## Regnskap 2023 
+## Regnskap 2023 og budsjett 2024
 
 - Regnskap:  https://docs.google.com/presentation/d/1dsZ-7JkZeU4GnbNN-GOqJdgYicYE5B0YlHEnqDqBvi0/edit#slide=id.g28ed65005d4_0_122
-
+- Budsjett 2024: https://docs.google.com/spreadsheets/d/16LqfhCMt8WZsEUGmeKPShSu-PX51FmUO/edit#gid=1647721186
 
 ## Informasjon
 
