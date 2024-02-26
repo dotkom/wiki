@@ -36,7 +36,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedl
 
 **De som har meldt interesse til Valgkomiteen er:**
 
-* *Kandidater:* Carolina Gunnesdal
+* *Kandidater:* Carolina Gunnesdal, Johanna Wilmers
 
 **De som skal godkjennes som komitéledere er:**
 
