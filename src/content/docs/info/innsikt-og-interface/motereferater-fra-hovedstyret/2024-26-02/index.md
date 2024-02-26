@@ -71,7 +71,7 @@ title: "Siste møte med dette styret :("
 
 [Vi sjekker stemmingen for sosialt]
 
-- **Brage og Erik** har planlagt HS/ledere-inn/ut. 
+- Styremedlemmer har planlagt HS/ledere-inn/ut. 
 - Revy 15. mars. Flere som er gira. Må huske å bruke koden.
 - HS inn/ut blir flytta til tirsdag 5. mars.
 
