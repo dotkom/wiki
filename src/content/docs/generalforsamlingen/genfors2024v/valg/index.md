@@ -32,7 +32,7 @@ _Dersom vedtektsforslag 07 går igjennom vil det også bli valg av tre styremedl
 
 * *Onlinemedlem:* 
 * *Tidligere hovedstyremedlem:* Magnus Ouren
-* *Ridder:* 
+* *Ridder:* Duvara Nishaharan
 
 **De som har meldt interesse til Valgkomiteen er:**
 
