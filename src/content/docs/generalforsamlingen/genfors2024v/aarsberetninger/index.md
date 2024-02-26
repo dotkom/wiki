@@ -22,7 +22,7 @@ Generelt:
 * Delt ut særskilt utmerkelse x 5
 * Vært med i utformingen av kommunikasjons flyten i Online etter organisasjonsstrukturendringen.
 * Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
-* Tatt opp velkom 23
+* Tatt opp velkom 24
 * Hatt to stormøter med ledelsen i Online 
 
 Samarbeid med andre:
