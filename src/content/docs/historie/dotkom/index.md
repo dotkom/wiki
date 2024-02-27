@@ -118,8 +118,8 @@ Medlemmer
 ---
 | År | Leder | Medlemmer  |
 | --- | --- | :---: |
-|2023-2024| *Jo Gramnæs Tjernshaugen* | Henrik Skog, Henrik Hørlück Berg, Sondre Alfnes, Mats Jun Larsen, Billy Steen Barrett, Mads Bårnes, Nora Langli, Hanna Lunna, Jonas Hole, Erlend Løken Sæveraas, Jennica Duong, Andre Ferdinand Klarpås, Eline Fondevik, Victoria Børseth, Brage Andreas Hoven, Ragnhild Moe Danielsen
-|2022-2023| Mats Jun Larsen | ? |
+|2023-2024| *Jo Gramnæs Tjernshaugen* | Henrik Skog, Henrik Hørlück Berg, Sondre Alfnes, Mats Jun Larsen, Billy Steen Barrett, Mads Bårnes, Nora Langli, Hanna Lunne, Jonas Hole, Erlend Løken Sæveraas, Jennica Duong, Andre Ferdinand Klarpås, Eline Fondevik, Victoria Børseth, Brage Andreas Hoven, Ragnhild Moe Danielsen
+|2022-2023| *Mats Jun Larsen* | Anh-Kha Nguyen Vo, Thomas Hasvold, Julian Grande, Magnus Rødseth, Njål Sørland, Henrik Skog, Henrik Hørlück Berg, Sondre Alfnes, Billy Steen Barrett, Mads Bårnes, Nora Langli, Hanna Lunne, Brage Baugerød, Jonas Hole, Erlend Løken Sæveraas, Jennica Doung, Andre Ferdinand Klarpås, Eline Fondevik, Victoria Børseth, Brage Andreas Hoven, Ragnhild Moe Danielsen |
 
 | År | Leder | Styremedlem | Medlemmer  |
 | --- | --- | ---  | :---: |
