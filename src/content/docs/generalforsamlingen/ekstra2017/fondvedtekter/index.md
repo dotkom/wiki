@@ -8,6 +8,8 @@ title: "Vedtekter for Onlines Fond"
 * [2017 Vedtektsforslag](/wiki/online/generalforsamlingen/ekstra2017/vedtektsforslag) - Foreslåtte endringer til vedtektene. 
 * [2017 Kandidater](/wiki/online/generalforsamlingen/ekstra2017/valg) - Er du klar for et eventuelt verv?
 
+**OBS: Dette er det originale vedtekstforslaget for Online's fond. De oppdaterte vedtektene kan finnes [her](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)**
+
 ## Vedtektsforslag 1 (Online Fond)
 
 ### §1 Fondets navn
