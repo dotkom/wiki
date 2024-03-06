@@ -11,3 +11,4 @@ Informasjonskanal for fadderukene
 * [2021](https://online.ntnu.no/wiki/online/fadderukene/2021-)
 * [2022](https://online.ntnu.no/wiki/online/fadderukene/2022-)
 * [2023](https://online.ntnu.no/wiki/online/fadderukene/2023-)
+* [2024](https://online.ntnu.no/wiki/online/fadderukene/2024-)
