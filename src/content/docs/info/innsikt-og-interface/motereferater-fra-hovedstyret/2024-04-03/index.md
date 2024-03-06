@@ -1,0 +1,197 @@
+---
+title: "HS-møte 04.03.2024"
+---
+
+## Innsjekk
+
+[Hvordan har dere det?]
+
+## 1 Godkjenning av innkalling, servering og referat fra forrige uke
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+- Innkalling: Godkjent
+- Servering: Godkjent
+- Referat: ??? må sjekke senere
+
+## 3 Status fra styret (15 min)
+
+[Her er det kun meningen at det skal være status for styret. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner skal skrives ned og ta på eventuelt.]
+
+### **Styremedlem**:
+
+- Ikke gjort så mye, venter på flyet til Oslo
+- Meldt meg på semestermøte
+
+### **Styremedlem**:
+
+- satt seg inn i notion, og hva det vil si å være HS
+
+### **Styremedlem**:
+
+- Satt seg inn i wiki, notion og hva HS går ut på
+
+### **💰** Økonomiansvarlig:
+
+- vært på rfk møte, godkjent appkom søknad om pizza
+
+### 👨🏼 Nestleder:
+
+- Hatt erfaringsoverføring med Ida og kommet meg inn på alle systemer der jeg skal være.
+- Linket til fondets vedtekter fra den originale siden for vedtektene på wikien.
+- Hadde møte med Velkom angående at de skal ta over planleggingen av masterfadderukene også.
+    - Virket positive til det
+    - De ønsker å vite hvor mange som starter med studierett på master informatikk. Bedkom har snakket om at de kanskje vil kjøre en bedpress for mastere også, derfor tallet er viktig.
+
+### 🧔🏼‍♂️ Leder:
+
+- Blåtur
+- Ny slack til nye ledere og nye HS
+- Lagt til de nye på Notion
+- IT-dagene møte med Caro
+
+## 5 **Ekskom** (5 min)
+
+[Vi må snakke om veien til ekskom videre. Både deres plassering i online og vedtektene deres som må ryddes opp i.]
+
+- I: Det er veldig tvetydige og utydelige vedktekter, feks om ledervalg.
+- I: Sånn jeg forstod det så var det jo vi som skal på tur som valgte inn de to kandidatene det stod om
+    - K: Ja men da er det jo to stk. det står mellom som det egentlig ikke er tydelig om hvordan skal bli valgt.
+- Spm: Hvem skal se på vedtektene? oss eller ekskom?
+    - K: Ekskom, de skal ha workshop denne uka hvor de skal se på generalforsamlingen, så vi kan anbefale dem å se på vedtektene da.
+
+Gir en liten recap fra workshop om ekskom og tidligere møter.
+
+- Spm: at de får en fast sum fra online?
+    - K: det er ikke sånn det er nå, men det er det vi tror kan være den beste løsningen fremover.
+- I: Overgangsperioden kan bli litt tricky, så vi vet ikke helt når vi skulle ha startet med det.
+- Spm: Har dere landet på et beløp?
+    - K: tror det må være rundt for at det skal kunne gå rundt, men vet ikke om det er noe online vil gi.
+- I: fremover er også tanken å prøve å gjøre turen mindre, kanskje den bare varer én uke, og så kan den heller bygges opp å bli større igjen etter hvert.
+
+Konklusjon: Vi sender mail til ekskom om at de må se på vedtektene sine på workshopen denne uka.
+
+## 6 Mailpunkt (5 min)
+
+[Før hvert møte skal det sjekkes om det ligger noen ubesvarte mails i innboksen, ansvar for å besvare ubesvarte mail blir fordelt på møtet]
+
+- Campuspolitisk plattform studenttinget
+
+## 7 **Ny straffeansvarlig** (**5** min)
+
+[Den gjeve rollen som straffeansvarlig skal overrekkes]
+
+- Brage har vist interesse på forhånd
+
+Brage blir godkjent som ny straffeansvarlig ved akklamasjon<3
+
+## 8 **Ny kommunikasjonsansvarlig** (5 min)
+
+[Den gjeve rollen som kommunikasjonsansvarlig skal overrekkes]
+
+- Ida viser interesse
+
+Ida blir godkjent som ny kommunikasjonsansvarlig ved akklamasjon<3
+
+## 9 **Ny SOME-ansvarlig** (**5** min)
+
+[Den gjeve rollen som SOME-ansvarlig skal overrekkes]
+
+- Erik har vist interesse på forhånd
+
+Erik blir godkjent som ny SOME-ansvarlig ved akklamasjon<3
+
+## 10 **Ny sosialansvarlig** (**5** min)
+
+[Den gjeve rollen som sosialansvarlig skal overrekkes]
+
+- Lara viser interesse
+
+Lara blir godkjent som ny sosialansvarlig ved akklamasjon<3
+
+## 11 **Genfors retrospektiv** (10 min)
+
+[Hva gikk bra/dårlig? Ferske tanker bør overrekkes til neste styre]
+
+- I: Vi må ikke anta at alle forstår hva som foregår. Både i valg og når vi hadde fondets generalforsamling innad i vår generalforsamling.
+- I: Til neste år kunne vi hatt en større introduksjon til generalforsamlingen.
+- I: Eventuelt pinne en post i slacken som forklarer basic generalforsamling 101.
+- I: Spesielt til fondet tror jeg folk følte det var litt usikkert hva vi valgte inn folk til.
+- Spm: er fondets generalforsamling hver genfors?
+    - K: Nei, bare på våren.
+- I: Syns rommet var bra, var god plass til pizza utenfor og masse stikkontakter.
+- I: Syns planleggingen av HS var bra!
+- I: Vi holdt på å glemme at vi skulle sende inn et saksforslag om overføring til fondet, det må huskes til neste gang.
+- I: Vi må passe på at vi slipper å bestille inn for lite pizza, folk må melde seg på tidlig.
+- I: Gjøre det enda synligere i blæstingen at man burde melde seg på pga pizza.
+- I: Jeg syns det var veldig bra referert!
+    - K: Viktig å notere seg at om man refererer kan man ikke stille til fondstyret.
+
+## 12 **Semestermøte** (10 min)
+
+[Hva diskuteres på slike møter? Er det noe vi burde ta opp på møtet?]
+
+- I: Vi har tidligere tatt opp det med sitteplasser, men dette har blitt fikset. Har også snakket om flytte printer, men ikke blitt tatt opp noe mer.
+- Spm: noen kjernesaker en har mening om?
+    - k: nei ikke egentlig
+- I: kanskje ta opp smekklås på kontoret?
+
+Konklusjon: Vi stiller med representant på semestermøtet, og ønsker å ta opp smekklås på kontoret.
+
+## 13 **Trivselsundersøkelse** (5 min)
+
+[Vi har egnt pleid å sende ut trivselsundersøkelse, dette noe det nye styret burde se på]
+
+- Det nye styret skal få dette gjort!
+
+## 14 Sosialt (5 min)
+
+[Vi sjekker stemmingen for sosialt]
+
+- Inn-ut i mrg!
+- Husk galla!
+    - Reglene for pins og daljer som står på OW er litt forvirrende, så det burde endres på til senere!
+
+Til senere:
+
+- Pitche K2K med Abakus og Tihlde etter Tihlde genfors!
+
+## 15 Eventuelt
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+- Dato kompillering
+    - For øyeblikket er det på en søndag 1.sep, men det kræsjer med Abakus. Flytte til lørdag 31.aug?
+    - Det er festningen da, kan dette bli problematisk?
+    - august?
+    - siste dagen i fadderukene?
+
+Konklusjon: Vi endrer dato til 25.august, vi sender mail til Ridderne.
+
+- Ekskom onlinepotten søknad
+    - Jeg tolker i hvert fall at erfaringsskrivene er noe de kan skrive hver for seg siden de har egne ansvarsområder å skrive om.
+    - Kanskje bruke mer tid på å planlegge generalforsamling, og mindre på erfaringsskriv?
+    - Jeg syns det er litt rart at de har 45 min møte annen hver uke, for så å søke støtte til workshop. Når det er flere komiteer som har 2t møter i øka + arbeidskveld som har fått nei.
+    - Jeg er enig, det er jo flere komiteer som gjør veldig mye
+
+Konklusjon: Vi godkjenner ikke søknaden
+
+- Førsteklasse taskforce
+    - Var mange som nevnte 1.klasse taskforce i apeller. og i spørsmålsrunden under genfors. Så jeg tenkte det var verdt å nevne at Backlog allerede er i gang med å se videre på dette. Det har kanskje ikke komt tydelig nok frem.
+
+## 16 Refleksjonspunkt
+
+[Hva tenker du på? Har du noe du lurer på om Online?]
+
+- Kan intressegrupper hette xxxkom?
+    - Usikker? Vi tar det videre med Backlog
+
+## Diggepunkt
+
+[Alle må digge noe]
+
+## Møteevaluering
+
+[Ris/ros til hvordan møtet har gått]
+
+Møte hevet 13:52
