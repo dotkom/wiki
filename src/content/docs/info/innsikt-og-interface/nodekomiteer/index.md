@@ -11,4 +11,3 @@ Eksisterende nodekomiteer
 * ekskom
 * jubkom
 * velkom
-* ITEX
