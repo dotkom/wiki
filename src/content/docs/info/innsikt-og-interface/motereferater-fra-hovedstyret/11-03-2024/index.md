@@ -1,5 +1,5 @@
 ---
-title: "Lederopptek i ekskom, dotkom rettningslinjer, buddyordning"
+title: "HS-møte 11-03-2024"
 ---
 
 ## Innsjekk
