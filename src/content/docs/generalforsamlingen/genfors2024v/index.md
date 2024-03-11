@@ -23,6 +23,7 @@ Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_F
 Referat Generalforsamlingen Høst 2023: [attachment:847]
 
 Referat fra genVORS: [attachment:849]
+
 Referat fra Generalforsamling våren 2024: **TODO**
 
 
