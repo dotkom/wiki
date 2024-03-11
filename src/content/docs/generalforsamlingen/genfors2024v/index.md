@@ -24,7 +24,7 @@ Referat Generalforsamlingen Høst 2023: [attachment:847]
 
 Referat fra genVORS: [attachment:849]
 
-Referat fra Generalforsamling våren 2024: **TODO**
+Referat fra Generalforsamling våren 2024: [attachment:850]
 
 
 ## Regnskap 2023 og budsjett 2024
