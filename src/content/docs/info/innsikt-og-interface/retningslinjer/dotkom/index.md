@@ -8,7 +8,7 @@ Dotkom skal tilrettelegge for en fornuftig og effektiv bruk av IT i Onlines arbe
 
 ### §2 Drifts- og utviklingskomiteens sammensetning
 
-Drifts- og utviklingskomiteens består av følgende medlemmer:
+Drifts- og utviklingskomiteen består av følgende medlemmer:
 
 * Leder
 * Nestleder
@@ -25,7 +25,7 @@ Dotkom skal også etterstrebe å fylle disse stillingene:
 * Vinstraffansvarlig
 * Teamledere
 
-Hvis stillingene ikke er fylt tilfaller deres ansvar leder av dotkom.
+Hvis stillingene ikke er fylt tilfaller deres ansvar leder av Dotkom.
 
 Tidligere medlemmer av komiteen har møte-, tale- og stemmerett etter avtale med komitéleder. I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer.
 
@@ -39,7 +39,7 @@ Dotkom har det overordnede ansvaret for å drifte og tilrettelegge for Onlines b
 
 Dotkom er ansvarlige for Onlines nettsider, domener og ellers tilstedeværelse på nett. Dotkom er ansvarlige for digital drift og vedlikehold av Onlines nettsider og domener.
 
-#### (3) Skytjenester & Server
+#### (3) Skytjenester & Servere
 
 Dotkom er ansvarlig for skytjenester som er brukt av Online. Dette innebærer Amazon Web Services, Vercel, Jottacloud, Plausible, Neon og Doppler.
 
@@ -57,7 +57,7 @@ Dotkom skal til enhver tid ha gode backuprutiner.
 
 Dotkom skal til enhver tid ha gode interne ressurser over systemene som driftes.
 
-#### (1) Ansvar innad i dotkom
+#### (1) Ansvar innad i Dotkom
 
 Leder av komiteen har ansvar for å ha oversikt over, samt delegere ansvarsoppgaver som tilfaller komiteen.
 
@@ -65,7 +65,7 @@ Leder har ansvar for opptak av nye medlemmer til komiteen.
 
 Leder har et overordnet ansvar for å tilrettelegge for erfaringsoverføring.
 
-Leder skal assistere økonomiansvarlig i Online med deres valg av økonomiansvarlig i dotkom.
+Leder skal assistere økonomiansvarlig i Online med deres valg av økonomiansvarlig i Dotkom.
 
 Nestleder skal bistå leder i situasjoner og tilfeller der leder eller nestleder mener det er hensiktsmessig.
 
