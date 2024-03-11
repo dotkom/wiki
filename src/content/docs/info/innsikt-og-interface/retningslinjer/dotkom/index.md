@@ -69,4 +69,4 @@ Leder skal assistere økonomiansvarlig i Online med deres valg av økonomiansvar
 
 Nestleder skal bistå leder i situasjoner og tilfeller der leder eller nestleder mener det er hensiktsmessig.
 
-Kommunikasjonsansvarlig har ansvar for videreføring av kommunikasjon på tvers av komiteer og med hovedstyret, og har ansvar for å presantere HS referat under møter.
+Nestleder har rollen som kommunikasjonsansvarlig, og dermed ansvar for videreføring av kommunikasjon på tvers av komiteer, kommunikasjon med hovedstyret og å presentere HS-referat under møter.
