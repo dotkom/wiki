@@ -15,19 +15,30 @@ Alle trikoms medlemmer har møteplikt og er stemmeberettigede. Nye medlemmer vil
 
 Trikom består av følgende stillinger: 
 
-* Styremedlem fra Trikom
 * Leder av trikom
-* Vara for leder og styremedlem
+* Nestleder av trikom
+* Kommunikasjonsansvarlig for trikom
 * Økonomiansvarlig for trikom
+* Tillitsvalgt
 * Kontorvaktansvarlig
 * Innkjøpsansvarlig
 * SoMe-ansvarlig
 * Sosialansvarlig
 
 
-Styremedlem fra trikom velges på Generalforsamlingen. Trikoms leder velges innad i komiteen før Generalforsamlingen hvor leder skal godkjennes. Alle trikoms øvrige stillinger velges etter opptaket på høsten. Vara i trikom trer inn i rollen som leder/styremedlem hvis leder/styremedlem ikke kan være med på et møte i trikom/hovedstyret.  
-Økonomiansvarlig har ansvar for å betale regninger og fakturaer, og sette opp regnskap og budsjett for trikom.    
-Tidligere medlemmer fra trikom som har gått over til seniorkomiteen har møte- og talerett på trikom møter, men er ikke stemmeberettigede.
+Trikoms leder velges innad i komiteen før Generalforsamlingen hvor leder skal godkjennes.
+
+Trikoms nestleder blir valgt internt etter at ledervervet er tildelt. I leders fravær er nestleder fungerende leder, med alle plikter og rettigheter dette innebærer.
+
+Økonomiansvarlig har ansvar for å betale regninger og fakturaer, og sette opp regnskap og budsjett for trikom.
+
+Kommunikasjonsansvarlig velges innad i komiteen og kan kombineres med alle andre roller. Kommunikasjonsansvarlig er ansvarlig for å holde seg oppdatert på saker som behandles i Hovedstyret (HS) og ta opp saker til HS ved behov.
+
+Alle trikoms øvrige stillinger velges etter opptaket på høsten
+
+Medlemmer som har gått over til aktiv-pang forventes å aktiv bidra til verdiskapning i komiteen, og skal etterstrebe å delta på minst halvparten av møtene.
+
+Tidligere medlemmer fra trikom som har gått over til pangordningen har møte- og talerett på trikom møter, men er ikke stemmeberettigede.
 
 ### §3 Trivselskomiteens ansvarsområder
 
