@@ -265,7 +265,7 @@ K: de vet at det allerede er en faktor at fadderuken er stappa
     
     S: alle studenter, eller bare om man har møter?
     
-    K: nei mest auditorium om man har et stort møte og stor servering, men usikker. Men det spørs helt på vekterne. andre linjer har hatt litt urettferdig opplevelser med dette før. Ulike vektere kaster ut for mer eller mindre. Skal tas opp med NTNU neste uke.
+    K: nei mest auditorium om man har et stort møte og stor servering, men usikker. Men det spørs helt på vekterne. andre linjer har hatt litt urettferdig opplevelser med dette før. Ulike vektere kaster ut for mer eller mindre. Skal tas opp med vakt og service etter påsken.
     
     I: usikker på hva vi skal gjøre med dette. si ifra til F.eks fagkom og bedkom som ofte har kurs med mat. ingen har egentlig vært klare om at dette har vært en greie før, men nå vet de at vi vet at det er en greie . 
     
