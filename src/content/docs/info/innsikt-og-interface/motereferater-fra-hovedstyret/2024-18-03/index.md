@@ -1,0 +1,104 @@
+---
+title: "18. Mars 24"
+---
+
+## Innsjekk
+
+[Hvordan har dere det?]
+
+## 34 Godkjenning av innkalling, servering og referat fra forrige uke
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+- Innkalling: Godkjent
+- Servering: Godkjent
+- Referat: Godkjent :)
+
+## 36 Status fra styret (15 min)
+
+[Her er det kun meningen at det skal være status for styret. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner skal skrives ned og ta på eventuelt.]
+
+### Styremedlem:
+
+- Sendt mail til TO
+- Kurs med støttehjulet
+
+### Styremedlem:
+
+- kurs med støttehjulet
+- sendt mail
+
+### Styremedlem:
+
+- Sendt mail
+- Rydda mailboksen som fyller seg hver dag
+- Kurs med støttehjulet
+
+### **💰** Økonomiansvarlig:
+
+- blitt mer kjent med rollen sin
+- kurs
+- godkjent søknader
+- revidert
+- purra på betalinger
+
+### 👨🏼 Nestleder:
+
+- Jeg og Jacob skal på møte om den digitale fremtiden til kiosken på onsdag
+- Merga alle pr i github for vedtekter
+- IDI møte. 
+    - It bygget skal bli pusset opp
+    - 250 --> 38 faste master plasser, idi vil bruke gamle masterplaser til kontorer 
+    - Eneste faste plassene som blir beholdt er de på A4, noen fri plasser på A2
+    - Heri vil ha semestermøte med linjeledere i Online, Abakus og Tihlde for å bedre kommunikasjon
+    - Søke støtte fra KID!
+    - Vi vil få den faste summen som vi pleier å få fra IDI til idi-potten, men det vil bli vanskeligere å få gjennom søknader utenom.
+    - IDI er åpne for å støtte arrangemenetr som fremmer klassetilhørighet også for andre trinn enn første.
+
+### 🧔🏼‍♂️ Leder:
+
+- Vært i Portugal og blitt tæn
+- Pådro meg heftig matforgiftelse under kurset med støttehjulet
+- Sendt inn endringer til brønnøysundregistrene
+- Snakker m. Bekk og bedkom ang. overgangspils
+- Skrevet lederord til neste Offline
+
+## 37 Mailpunkt (5 min)
+
+[Før hvert møte skal det sjekkes om det ligger noen ubesvarte mails i innboksen, ansvar for å besvare ubesvarte mail blir fordelt på møtet]
+- Lara blæster tilrettelegging for autistiske studenter i korktavla
+
+## 39 Mail fra arealkontakt (5 min)
+
+[Vi har fått svar på mailen til arealkontakt, hvordan vil vi gå videre med saken?]
+- Han beklaget at tok feil, og sa han var åpen for et nytt møte med oss.
+- Smart at det er frederik som tar seg av dette (selv om han er på ekskursjon)
+
+## 40 Sosialt (5 min)
+
+[Vi sjekker stemmingen for sosialt]
+- Sing sing ???
+- Hyttetur med hs og ledere på høsten. Kan være smart å begynne å planlegge relativt tidlig mtp at så og si alle skal på forskjellige hytteturer utenom denne.
+
+## 41 Eventuelt
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+- Begynne å se på lokal til styrevors før immball
+    - Sjømannsforeningen har fungert bra før. Pass på at vi skriver under kontrakt.
+    - Sukkerhuset en mulighet? mulig å booke uten bar. mulig å ha med medbragt
+    - Sende inv tidlig til eksterne. Gjerne så fort arrkom har funnet ut hvor mange plasser vi har til eksterne.
+
+## 42 Refleksjonspunkt
+
+[Hva tenker du på? Har du noe du lurer på om Online?]
+
+## Hatepunkt
+
+[Alle må hate noe]
+
+## Møteevaluering
+
+[Ris/ros til hvordan møtet har gått]
+
+Møte hevet 13:08
