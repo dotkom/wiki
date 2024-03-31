@@ -2,7 +2,7 @@
 title: "Søke om drikking på kontoret"
 ---
 
-For å få tillatelse til å ha arrangementer med alkohol på kontoret må alle følgende steg utføres:
+**For å få tillatelse til å ha arrangementer med alkohol på kontoret må alle følgende steg utføres:**
 
 1.	Først må man sende mail til trikom@online.ntnu.no for å høre om kontoret er ledig denne dagen.
 
