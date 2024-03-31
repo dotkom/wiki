@@ -20,17 +20,15 @@ _På søknaden til NTNU er det viktig å krysse av boksen hvor det står det vil
 **Steg 3.**	
 
 Når alt dette er på plass og du har fått godkjent søknaden fra NTNU, så kan dere nyte drikke på kontoret. Vi minner om at kontoret skal være åpent for andre medlemmer også om de ønsker å være på kontoret, og kontoret skal ryddes slik at det ser ordentlig ut før man drar.
-
-
--
-
-
+ 
+ 
+ 
 **Vi forventer at man rydder etter seg på kontoret etter et slik arrangement.**
-
-
-
-
-
+ 
+ 
+ 
+ 
+ 
 Her er de reglene vi har fått tilsendt fra drift:
 -------------------------------------------------
 
