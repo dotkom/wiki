@@ -24,6 +24,8 @@ Når alt dette er på plass og du har fått godkjent søknaden fra NTNU, så kan
  
  
 **Det forventes at man rydder etter seg på kontoret etter et slik arrangement.**
+
+
 **Rydding skal gjøres før man forlater kontoret, slik at det er ryddig for de neste som skal bruke det.**
  
  
@@ -33,12 +35,12 @@ Når alt dette er på plass og du har fått godkjent søknaden fra NTNU, så kan
 Her er de reglene vi har fått tilsendt fra drift:
 -------------------------------------------------
 
-**1) All konsumering av alkohol skal foregå innenfor kontoret til
+**1. All konsumering av alkohol skal foregå innenfor kontoret til
 online.**  
-**2) Festen skal være over innen klokken 02:00**  
-**3) Ev. opprydning og vask på arealer utenfor kontoret og utenfor
+**2. Festen skal være over innen klokken 02:00**  
+**3. Ev. opprydning og vask på arealer utenfor kontoret og utenfor
 bygningen som skyldes arrangementet blir fakturert søker.**  
-**4) Arrangementet må foregå i kontrollerte former og ev. pålegg fra
+**4. Arrangementet må foregå i kontrollerte former og ev. pålegg fra
 NTNU sine vektere må følges.**  
-**5) Dere må ta hensyn til annen skolerelatert aktivitet i bygningen.
+**5. Dere må ta hensyn til annen skolerelatert aktivitet i bygningen.
 (støy etc..)**
