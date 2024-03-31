@@ -23,7 +23,7 @@ Når alt dette er på plass og du har fått godkjent søknaden fra NTNU, så kan
  
  
  
-**Vi forventer at man rydder etter seg på kontoret etter et slik arrangement.**
+**Det forventes at man rydder etter seg på kontoret etter et slik arrangement. Rydding skal gjøres før man forlater kontoret, slik at det er ryddig for de neste som skal bruke kontoret.**
  
  
  
