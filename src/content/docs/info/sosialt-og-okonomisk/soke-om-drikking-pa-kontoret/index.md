@@ -2,9 +2,14 @@
 title: "Søke om drikking på kontoret"
 ---
 
-Hvis det skal søkes om drikking på kontoret så kan dere sende mail til
- trikom@online.ntnu.no hvor man skal legge med søknadsskjema man finner på [denne linken](https://hjelp.ntnu.no/tas/public/ssp/content/serviceflow?unid=8f090c9e58444762876750db1104178d&openedFromService=true).
-Skjemaet skal inneholde at det er et fest/party arrangement, at det holdes på realfagsbygget, en kort beskrivelse av arrangementet, antall deltakere, dato, start- og sluttklokkeslett, kontaktperson (som er edru ansvarlig), vedkommendes telefonnummer, og at man har lest og forstått regler for bruk av areal.
+For å få tillatelse til å ha arrangementer må alle følgende steg utføres:
+1.	Først må man sende mail til trikom@online.ntnu.no for å høre om kontoret er ledig denne dagen.
+
+2.	Om du får grønt lys fra trikom er neste steg å sende inn drikketillatelsessøknad til NTNU, dette gjøres gjennom https://hjelp.ntnu.no/. Det som er viktig å huske på her er at man ikke har lov til å drikke på campus før kl 16:00 og at man må ha en edruansvarlig. Det er altså ikke gyldig nok å sende forespørsel om å drikke på kontoret til trikom, ettersom det ikke er vi som bestemmer om dere får lov til dette eller ikke.
+
+3.	Når alt dette er på plass og du har fått godkjent søknaden fra NTNU, så kan dere nyte drikke på kontoret. Vi minner om at kontoret skal være åpent for andre medlemmer også om de ønsker å være på kontoret, og kontoret skal ryddes slik at det ser ordentlig ut før man drar.
+
+
 
 **Vi forventer at man rydder etter seg på kontoret etter et slik arrangement.**
 
