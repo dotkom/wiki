@@ -2,16 +2,20 @@
 title: "Applikasjonskomiteen"
 ---
 
-Appkom til daglig
+Hva er Applikasjonskomiteen?
 --------
-Appkom jobber med å lage diverse programvare som skal være til hjelp for Online.
 
-Vi har flere interne prosjekter som vi mener vil være til stor nytte for informatikkstudenter, i tillegg til at vi aktivt tar på oss forespørsler fra resten av komiteene i Online.
+Applikasjonskomiteen (Appkom) er en komité under Online, studentorganisasjonen for informatikk ved NTNU. Appkoms mål er å utvikle programvare som er nyttig og underholdende for informatikkstudenter.
 
-Vi har arbeidsdager hver søndag hvor vi møtes for å jobbe på prosjekter, spise pizza, og hygge oss sammen! Dette er hvor vi gjør det meste av arbeidet vårt, men hvor mye man jobber utenfor møter og arbeidsdager er helt opp til hver enkelt.
-TL;DR:
+Aktiviteter:
 
-Applikasjonskomiteen (Appkom) er en del av Online, en studentorganisasjon ved NTNU. Den ble opprinnelig oppløst i 2017, men gjenoppsto i 2020. Appkom fokuserer på å utvikle tekniske løsninger som er nyttige og underholdende for studentene. Gruppen jobber med interne prosjekter og svarer på forespørsler fra andre komiteer innen Online. De har ukentlige arbeidsdager på søndager for å samarbeide på prosjekter, spise pizza og sosialisere.
+*Interne prosjekter:* Appkom jobber med en rekke interne prosjekter som de mener vil være til stor nytte for informatikkstudenter.
+
+*Forespørsler fra andre komiteer:* Appkom tar imot forespørsler fra andre komiteer i Online om å lage programvare som kan hjelpe dem med sine aktiviteter.
+
+*Annenhver Ukentlige arbeidsdager:* Appkom har ukentlige arbeidsdager på søndager hvor medlemmene møtes for å jobbe på prosjekter, spise pizza og hygge seg sammen.
+
+*Medlemskap:* Appkom er åpen for alle informatikkstudenter ved NTNU som er interessert i å programmere og bidra til å lage programvare for Online.
 
 Historie
 --------
