@@ -17,6 +17,7 @@ title: "8.april 24"
 ## 45 Arbeidsgruppe - Komitéstørrelse (10 min)
 
 [Vi har fått en mail angående komitéstørrelsene i online. I mailen blir det fremmet hvordan størrelsen på komiteene kan skape utfordringer. Ønsker å diskutere hva vi tenker om dette, og hvordan vi kan løse en slik utfordring.]
+
 I: Enig i en del av punktene for når en komite er så stor så blir arbeidsfordelingen veldig merkelig. Ofte lite å gjøre.
 
 K: La merke til det i bedkom før jeg havna i HS. Var medlem lenge og arrangerte kun rundt 2 arrangementer selv.
@@ -29,7 +30,7 @@ K: Dette fører også til at færre er aktive i interessegrupper og sånt.
 
 I: Vi kan sende mail til komiteene, og se hva de tenker om problemstillingen. Om dette er noe de er enige i, kan vi se på dette før neste opptak.
 
-I: Han foreslår å sette opp en arbeidsgruppe. Dette er jeg enig i.
+I: Det blir foreslått å sette opp en arbeidsgruppe. Dette er jeg enig i.
 
 I: Vi kan ikke ta denne beslutningen selv.
 
@@ -93,7 +94,7 @@ I: Man klarer ikke få med alle i komiteer. Kan også ordnes med at komiteene ik
 - Møte med økonomiansvarlig og resten om kiosken 
     - Bytte til kortautomat 
     - Oversikt over hvem som kjøper hva
-- #spam og #arrangementer på slack
+- spam- og arrangementer-kanal på slack
 - Møte med leder og arealkontakt 
 - Fiksa bodtilganger
 
@@ -109,6 +110,7 @@ I: Man klarer ikke få med alle i komiteer. Kan også ordnes med at komiteene ik
 - Studentaften
 
 S: Hva skjedde med rekom greiene?
+
 K: Usikker, kan høre med de.
 
 ## 50 **Felles bånd for HS og komitéledere** (10 min)
@@ -120,6 +122,7 @@ Alumni-båndet og komitélederbåndet er ganske likt. Disse båndene er av gansk
 S: Spanskrøret har fire forskjellige styrebånd. Alle båndene var av god kvalitet. Er tanken å ha samme bånd?
 
 K: Jeg tenkte samme bånd.
+
 K: Jeg synes ikke alle skal ha samme bånd. Alle har ulike roller, burde ha god kvalitet på båndet, og se at de kommer fra samme linjefornening
 
 I: Spanskrøret hadde ulike sammensetninger av de samme fargene.
@@ -182,9 +185,7 @@ K:  Vi kan kjøre på med litt ulike bånd, men se an hvordan designene blir fø
 - Tilganger grupper under Online
     - I: Har allerede startet dialogen om å gi tilganger til bandet. Fortsatt noen ting som må fikses.
     - I: Vanskelig å vite hvilke grupperinger det er. Noen har annet behov enn andre siden noen allerede har tilganger.
-- Rom etter 15. april
-    - S: Vi har ikke R21 etter 15.april. Har vi noe booka rom?
-    - K: Vi har rom ut semesteret:)
+
 - Støtte til sosialt på trinnet
     - I: Det kan gjøre det lettere å opprettholde trivsel innad på trinnet.
     - S: Kan man søke om penger til deler av arrangementet?
@@ -202,4 +203,5 @@ K:  Vi kan kjøre på med litt ulike bånd, men se an hvordan designene blir fø
 ## Møteevaluering
 
 [Ris/ros til hvordan møtet har gått]
+
 Møte hevet 13:48
