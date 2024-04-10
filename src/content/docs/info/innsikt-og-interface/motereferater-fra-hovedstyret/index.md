@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
-- [2024-08-04](2024-18-03) - Komitéstørrelse, ITV og bånd
+- [2024-08-04](2024-08-04) - Komitéstørrelse, ITV og bånd
 - [2024-18-03](2024-18-03) - IDI semestermøte og arealkontakt 
 - [2024-11-03](11-03-2024) - Retningslinjer, kontor og ekskom
 - [2024-04-03](2024-04-03) - Første møtet med nytt styre
