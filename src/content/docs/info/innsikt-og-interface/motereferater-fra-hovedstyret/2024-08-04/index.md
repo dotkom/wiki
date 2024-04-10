@@ -1,5 +1,5 @@
 ---
-title: "2024-08-04"
+title: "8.mars 24"
 ---
 
 ## Innsjekk
