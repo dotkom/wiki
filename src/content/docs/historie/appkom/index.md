@@ -15,7 +15,7 @@ Aktiviteter:
 
 *Annenhver Ukentlige arbeidsdager:* Appkom har ukentlige arbeidsdager på søndager hvor medlemmene møtes for å jobbe på prosjekter, spise pizza og hygge seg sammen.
 
-*Medlemskap:* Appkom er åpen for alle informatikkstudenter ved NTNU som er interessert i å programmere og bidra til å lage programvare for Online.
+*Medlemskap:* Appkom tar opp medlemmer under komitéenes hovedopptaket på starten av hvert høstsemester, hvor alle medlemmer av Online kan søke.
 
 Historie
 --------
