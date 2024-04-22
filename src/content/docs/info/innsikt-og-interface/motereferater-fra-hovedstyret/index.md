@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
+- [2024-22-04](2024-22-04) - Reform av IDI-støtte og snart stormøte
 - [2024-15-04](2024-15-04) - Blæsting, stormøte og bånd
 - [2024-08-04](2024-08-04) - Komitéstørrelse, ITV og bånd
 - [2024-18-03](2024-18-03) - IDI semestermøte og arealkontakt 
