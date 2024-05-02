@@ -1,0 +1,133 @@
+---
+title: "Rekom og nodekomitedaljer"
+---
+
+## Innsjekk
+
+[Hvordan har dere det?]
+
+## 79 Godkjenning av innkalling, servering og referat fra forrige uke
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+- Innkalling: godkjent
+- Servering: ikke godkjent - 2 vin
+- Referat: godkjent
+
+## 81 Status fra styret (10 min)
+
+[Her er det kun meningen at det skal være status for styret. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner skal skrives ned og ta på eventuelt.]
+
+### **Styremedlem**:
+
+Gjort TODOs
+
+### **Styremedlem**:
+
+- Snakket med Jo
+- Komitélederbånd
+
+### **Styremedlem**:
+
+- Har prøvd å ringe sjømannsforeningen, null svar. Sendt mail. Skal ringe i dag
+
+### **💰** Økonomiansvarlig:
+
+- Bankomting
+- Fordelt idi-potten
+
+### 👨🏼 Nestleder:
+
+- Bedkommøte på torsdag angående fif-saken. Det som ble snakket om der er at
+    - oktober-fristen forsvinner. Gjelder til høsten, men ikke etter det
+    - Bekk beholder 1. oktober
+    - Permitteringer - kommet fram til at det ikke skal være noe svarteliste
+    - Noen av linjeforeningene skal lage en uttalelse angående oppsigelser og permitteringer
+    - Bedrifter har gått rundt linjeforeninger for å mekke gratis bedpres
+    - Prikkregler
+        - Vil ha 2 prikker for å ikke sende tilbakemeldingsskjema
+- Fiksa tilganger
+
+### 🧔🏼‍♂️ Leder:
+
+Syk?
+
+Tatt bilder med linjeledere
+
+Bachelorjobbings
+
+## 82 Mailpunkt (5 min)
+
+[Før hvert møte skal det sjekkes om det ligger noen ubesvarte mails i innboksen, ansvar for å besvare ubesvarte mail blir fordelt på møtet]
+
+## 84 Presentasjon av samarbeidsavtale med rekom (30 min)
+
+[Har vært på møte med rekom-duden i Trondheim og fått presentert en potensiell samarbeidsavtale. Ønsker å presentere for resten av styret pluss potensielt relevante komiteer. Kontrakten og forpliktelsene var noe utdatert]
+
+- I: En del forpliktelser de til oss.
+    - gratis ingang til 00:00 så lenge de har sticker og stud.bev. medlemspris i bar.
+    - forplikter til linjeforeninger å lage arr gratis på lokaler, men de kar ikke kokomo og the mint, så da må de ha 20 års arr.
+    - lukkede arr på deres lokaler.
+    - styre sår en bestfriend card som er gratis ingang på lavvo og kan ta med seg to kompiser.
+    
+    forpliktelser fra oss til de:
+    
+    - oppfordre til å bruke ett av uterstedene deres, ikke i form av blesting.
+    - ikke avholde arr hos konkurentene, eneste punktet som blir stående, ser ikke samf og sukkerhuset som konkurrenter.
+- S: hvor er barmuda i dette
+    - Sv:ikke i rekom. og vi har jo cava søndag
+        - K: Abakus har jo cava
+        - K: ja, men de holder ikke helt kontrakten
+- S: gjender dette fadderuken også
+    - Sv: nei
+- I: enig at vi ikke skal bleste når det ikke er under 20, men ser ikke hva vi kan tape på det.
+- Konklusjon: tenker vi bare avventer til vi får høre noe mer, men vi skal også høre med DT og Tag
+
+## 85 **Styrevors imball status** (5 min)
+
+[Status? Fått kontrakt fra Sjømannsforeningen - gå igjennom hvis ja.]
+
+- Ikke fått kontrakt
+- I: ring ring
+
+## 87 Økans’ time (x min)
+
+[Økans sitt alt-mulig punkt]
+
+- Fikk mail av leder i bankom, lurte på om de kan gå 800 over budsjett
+    - Ingen imot
+
+## 89 Eventuelt
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+- Fjerne tidligere HS fra mail, slack osv.
+- Nodekomite daljer
+    - I: Vi har ikke egt råd, og spess hvis vi har så mange som vi har
+    - I: jeg er for det, vi har budsjet for det og vi bruker det ikke.
+        - K: vi har nettopp kjøpt 400 pins til 10k
+    - I: enig at vi ikke trenger å kjøpe flere soden vi har så mange allerede
+        - K: Enig at vi kan redesigne men da kan vi vente
+    - I: foresslåt at en av komiteene kan få bruke den videre også redesigner vi den for de andre
+        - K: hvis vi redesigner så kommer kanskje folk til å bli med på feil premisser, bare for å få dalje.
+        - K: Er det noe negativt? Folk gjør jo jobben
+    - S: spare opp pengene vi skulle brukt til daljer
+        - Sv: vi sparer det opp for å kunne kjøpe kompileringsdaljer
+    - S: Før vi stemmer kan vi finne ut hvor mye bruker
+        - 3 ulike design, 40 stk, 50 0000. 125 per.
+        - Blir litt dyrt ja
+    - Liker tanken, men har ikke pengene for det nå. Styremedlem ser på alternative løsninger.
+- For å kunne ha vipps i nye webshoppen, så må vi ha salgsbetingelser, dette, kan bankom se på det?
+    - Ser på det på møtet i dag
+
+## 90 Refleksjonspunkt
+
+[Hva tenker du på? Har du noe du lurer på om Online?]
+
+## Diggepunkt
+
+[Alle må digge noe]
+
+## Møteevaluering
+
+[Ris/ros til hvordan møtet har gått]
