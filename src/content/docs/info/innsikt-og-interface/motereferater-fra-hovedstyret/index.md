@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
+- [2024-06-04](2024-06-05) - Siste møte før sommeren :(
 - [2024-29-04](2024-29-04-stormote) - Rekom og nodekomitédajer
 - [2024-22-04](2024-22-04-stormote) - Stormøte
 - [2024-22-04](2024-22-04) - Reform av IDI-støtte og snart stormøte
