@@ -27,7 +27,7 @@ Her er en oversikt over alle faddere i fadderukene 2024 (bachelornivå).
 * Mari Jin Sjøvold Sundal
 * Eline Fondevik
 * Moa Kazem Khajeh
-* Johannes
+* Johannes Koren Hage
 
 
 ###Gruppe 4
@@ -64,6 +64,7 @@ Her er en oversikt over alle faddere i fadderukene 2024 (bachelornivå).
 * Klara Maria Stokkvold Figueirdo
 * Anette Kvaløy
 * Dina Marie Stenrud
+* Tobias Fremming
 
 
 ###Gruppe 8
