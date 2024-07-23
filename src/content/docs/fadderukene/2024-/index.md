@@ -16,8 +16,8 @@ Informasjonskanal for fadderukene 2024
 Er det noe du lurer på?  
 Send en mail til velkom@online.ntnu.no eller ring oss på:
 
-- [Nicolai Skjerven](https://online.ntnu.no/profile/public/2606/) (leder, velkom) (40470075)  
-- [Fredrik Carsten Hansteen](https://online.ntnu.no/profile/public/2595) (nestleder, velkom) (47630231) 
+- Amund Dahlmo Berge (leder, velkom) (47169415)  
+- Aurora Meilian Karlsen (nestleder, velkom) (90781986) 
 
 
 ### Har du opplevd noe ugreit?
