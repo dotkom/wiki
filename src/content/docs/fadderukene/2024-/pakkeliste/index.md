@@ -8,6 +8,7 @@ title: "Pakkeliste til fadderukene"
 * Rød t-skjorte til white lies, red flags temafest
 * Klær du ikke er redd for at skal bli ødelagt til kompileringen
 * 80-talls og neonklær/tilbehør
+* Ballkjole/dress/penklær til immatrikuleringsball
 * Kostyme eller lignende til temafester (ikke sikkert du trenger alt under, men kan bli tema på vors etc.)
     * Hawaii-skjorte
     * Hvit t-skjorte til white lies
