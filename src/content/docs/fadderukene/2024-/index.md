@@ -9,7 +9,7 @@ Informasjonskanal for fadderukene 2024
 * [Oversikt over fadderuka](https://splash.online.ntnu.no/)  
 * [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2024-/Faddere)  
 * [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2024-/velkom) 
-* [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2024-/pakkeliste)
+* [Pakkeliste til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2024-/pakkeliste)
 
 
 ### Kontakt
