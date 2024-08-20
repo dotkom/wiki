@@ -1,5 +1,5 @@
 ---
-title: "2024-08-19"
+title: "Back to school"
 ---
 
 ## Innsjekk
