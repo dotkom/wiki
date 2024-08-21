@@ -1,0 +1,203 @@
+---
+title: "Møte 12.01.18"
+---
+
+**Møtetidspunkt:** 16.15 (rom S21)
+
+**Servering og referering:** Peter
+
+**Straff:**  
+
+**Tilstede:** Didrik, Hege, Henrik, Emil, Edvard, Erik, Marius, Peter, Aslak
+
+**Mangler:** Taran, Loffen
+
+## Innsjekk (12.15)
+[Hvordan har dere det?]
+
+* Går bra med Marius, Henrik, Emil, Eddy, Endre, alle sammen, og Peter, Hege er frisk, Didrik går bra, godt nyttår
+
+## 236 Godkjenning av innkalling, servering og referat fra forrige uke (12.19)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+
+* Ja, ja og yes
+
+## 237 Status for komiteene (12.20)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+
+* Hatt et lite møte, fordele arrangementene. Nesten alle er i kalenderen.
+* Åre snart, går greit!
+
+#### Bankom: 
+
+* Første møte i morgen (lørdag)
+* Skal revidere med Abakus
+
+#### Bedkom, med ITEX:
+
+* ITEX har ikke hatt møte enda
+* Bedkom har møte på torsdager
+
+#### Dotkom:
+
+* Skal sette opp første møte
+
+#### Fagkom, med ekskom:
+
+* TechTalks går greit, promomateriale
+* Fagkom setter opp semesterplakat
+* Skal ha valg av nestleder
+
+#### Prokom:  
+
+* Offline kommer februar
+* Jobbet med TechTalks
+* Skriv og drikk-arrangement
+* Årboksbilder skjer snart
+
+#### Trikom:  
+
+* Setter opp arrangementer
+    * Litt forskjellig
+    * TV-frokost
+
+#### Seniorkom: 
+
+* Har ikke hatt møte enda
+* Tenker på reboot
+* Martin tar over som økonomiansvarlig
+* Skal helst sette noen fra senkom inn i velkom
+
+#### Kommunikasjonsansvarlig:
+
+* Begynt å lese statistikk ang. emailer
+* Legger så smått planer om evt. komité
+
+#### Leder og nestleder:  
+
+* Brygget vin og booket rom
+    * Folk må huske å booke rom!
+* Planlegger så smått hytteturen
+
+#### ITV: 
+
+* Tilgang i 5. etg., kun de som gåt BIT har tilgang ikke folk fra intern inngang. Disse må sjekkes og manuelt godkjennes.
+
+#### RFK:
+
+* Skal ha kjelleråpent
+* Booket alle fredagene fremover med unntak av én
+* Møte med linjeforeningene ang. vedtekter
+
+## 238 Interkom (12.45) 
+[Her skal saker som angår tre eller flere komiteer.]  
+
+Ingenting
+
+## Fem minutters pause klokken 13.00.
+[Flyttes (punktmessig) dersom vi er kommet lenger i sakslisten innen 13.00]
+
+## 240 Ekskom og velkom 2018 (13.05)
+[Vi må begynne prosessen med å få fylt opp leder/nestleder-stillingene i ekskom og velkom 2018. Skal vi kjøre samme prosess som i fjor, der vi har et infomøte for de som går i andreklasse, og de får muligheten til å stille til valg, eller skal vi gjøre det på en tradisjonelle måten, der vi utlyser stillingene og har intervjuer?]
+
+* Forskjellige typer leder- og nestlederopptak for ekskom og velkom
+    * Ekskom hadde infomøte og valg
+    * Velkom hadde intervju
+* Velkomopptak må blestes etter Åre
+* Ekskom gjerne før TechTalks
+    * 23. januar, klokka 14
+
+## 241 Årboken (13.15)
+[Ble vi enig om tema? Også må vi svare hvilket tidspunkt som passer oss best.]
+
+* Skriver oss inn på Doodle
+* Årbokstema: [REDACTED]
+
+## 242 Hyttetur (13.20)
+[Skal alle være med? Vi må finne ut hvor mange som kommer fra de andre linjene. Vi må også tenke på transport, fordeling av oppgaver (som matlaging osv)]
+
+* De fleste fra Online kommer, mange andre kommer fra andre styrer
+* Planlegging
+    * Biler
+    * Middag
+    * Opplegg
+
+## 243 Generalforsamlingen (13.30)
+[Det er under to måneder til generalforsamlingen, så vi har en del som må forberedes.
+1. Vi må ha en ordstyrer
+2. Wiki må fikses
+3. Invitasjon må sendes ut
+4. Vi må forberede økonomi- og vedtektskveld
+5. Saker hovedstyret vil ta opp
+6. Dere må gjerne fylle inn flere ting]
+
+* Kan ta en diskusjon etter Åre mtp. kommunikasjonskomité og annet
+    * Har en del tid på oss
+
+## 244 Fast møtetid (13.38)
+[Klarer vi å fastsette et fast møtetidspunkt idag?]
+
+* Har benyttet Doodle for dette. Herlig teknologi.
+* Fast møtetid har landet på tirsdager klokken 14.15 - 16.15 (evt. til klokken 17.15)
+
+## 245 Rombruk på P15 (Kom etter tidsplan) (Endre)
+[Endre kommer med status for bruk av rom på P15]
+
+* Fag kan reservere rom og hindre studenter fra å bruke det
+    * Grunnen til dette er at IDI begynner en prosess for å hjelpe studenter (hjelp fra studass) fra og med førsteårsstudenter, og prioriterer deres fag.
+    * Dette ville antagelig skjedd uavhengig om flytting tok sted eller ikke
+* Proglab tar opp veldig mye reserveringstid
+* Eksamenstiden vil fortsatt fungere som før
+* IDI mener denne situasjonen kommer til å bli håndhevet, men skepsisen i møtet er høy
+* Informasjonsflyers har blitt hengt opp på P15
+
+## 246 SMS for å kontakte medlemmer (Kom etter tidsplan) (Aslak)
+[Skal vi bruke sms for å kontakte deltagere av et arrangement? Hvis ja, når passer det seg å bruke sms?]
+
+* En prøvemetode slik Åre har hatt det nå.
+    * Har fungert så som så, men vi burde opprette et regelverk om hvordan sånt skal brukes
+    * Kan få tilbakemelding fra deltakere
+* De fleste vil at SMS skal benyttes til informasjonsflyt som haster mer, men email brukes primært.
+    * Kan f.eks. minne medlemmer om å betale for arrangementer før fristen.
+* SMS kan dog fungere som en bedre kommunikasjonskanal når studentene er i Sverige
+* Dotkom kan opprette et SMS-system som til krisekommunikasjon, men dette kan ta mye ressurser
+* Fullfører prøveprosjektet gjennom Åre
+
+## 247 Studiemiljøstudentene (Kom etter tidsplan) (Hege)
+[For å få studiemiljøstudentordningen til å fungere er vi avhengig av personer som bryr seg om studiemiljøet til å ha stillingene. Er det noen som har ideer til folk som kan headhuntes eller andre forslag? Det ønskes også et tettere samarbeid mellom studiemiljøstudentene og linjeforeningene fra instituttet sin side.]
+* Bruker hovedsaklig headhunting
+
+## 249 Ukens infomail og Facebook (13.44)  
+[Hvem poster hva, og når?] 
+* Velkom og ekskom
+
+## 250 Eventuelt (13.45)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+* Martin: Åre er nå lagt til en uke for både Online og Abakus, fagstaben er misfornøyd da de må utsette undervisningsstart
+* Hege: Åpent møte? Om en to-tre møter
+* Hege: Band. Mangler trommis. Men det skal visstnok ha blitt funnet. Ting er uklart. Ingen vet. Hege sjekker det opp.
+* Marius: Daljer til kommunikasjonskomité kommer etter den er opprettet.
+
+## 251 Møteevaluering/Diggepunkt (13.55)
+[Hva var bra og hva var dårlig? Alle må si minst en ting] 
+* Marius: Bra, Endre er grei
+* Henrik: PC bråker
+* Emil: Langt møte, sulten
+* Eddy: Bra, sliten, langt, første møte
+* Margit: Langt men bra
+* Bjerke: Langt, kunne vært
+* Erik: Helt greit
+* Peter: mye å skrive
+* Hege: Fåptt gjort mye
+* Aslak: bra å være tilbake
+* Didrik: Digger alle, spesielt noen. Fikk gjort mye, bra
+
+## Gjøremål
+[Her skal alle gjøremålene som kommer opp i løpet av møtet skrives ned, slik at det er enkelt å sjekke hva man må gjøre i etterkant av møtet. Referent har ansvar for å skrive inn her etter møtet.]
+
+* Didrik: Lage dokument ang. videreformidling av info for flyttingen.
+* Edvard: Sette opp ekskommøte 23 januar
+* Peter: Bilder fra IDI julebord

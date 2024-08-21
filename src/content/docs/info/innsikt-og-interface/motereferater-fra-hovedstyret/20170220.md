@@ -1,0 +1,145 @@
+---
+title: "Hovedstyrets fire-arrangement-på-en-uke-møte"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering og referering:** Kristiane(For sen) Wiker tar over
+
+**Vinstraff:** Kristiane *2 (For sen og ikke sagt ifra i tide)
+
+**Ølstraff:**  
+
+**Tilstede:** Hajem, Thor Håkon, Wiker, Didrik, Andrea, Ingrid, Sander, Bjerke, Aslak, Kristiane
+
+**Mangler:** Sklirg (Aslak er her)
+
+## 271 Godkjenning av innkalling, servering og referat 
+Ikke godkjent (Servering)
+
+## 272 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+- Skulle egentlig ha møte i dag, men bachelor kom i veien.
+- Vinter-ol: Stor suksess! All vinen ble drukket opp.   
+- Kryssfest i dag: Alt er klart
+- Alt fremover er i orden. 
+- Graffi er booket til 17. mai. 
+- Har laget en facebookgruppe for alle arrkomledere på gløs. 
+
+#### Bankom:  
+
+- Begynt å gå gjennom Abakus sitt regnskap, de har kommet ca halvveis. 
+- Har begynt å sette opp utkast på budsjettet til HS for neste år. 
+
+#### Bedkom, med ITEX:  
+
+- Bookingrunde fra 1. mars til 10. mars. 
+- Oslotur 27. - 28. februar.
+- Innsjekkingssystemet skal testes ila uken på to arrangementer. 
+- Planlegger teambuilding med fagkom. 
+
+#### Dotkom, med appkom:
+
+- RegMe skal bli testet
+- Prokom skal hjelpe til med design. 
+- Teambuilding 5. mars. 
+
+#### Fagkom, med ekskom:  
+
+- Skal ha sosialkveld i morgen. 
+- Hyttetur neste helg. 
+- Kristiane og Lofsberg sitter i bookinggruppen. 
+
+#### Prokom:  
+
+- Venter på prøvetrykk og priser fra div trykkerier. 
+- Artikkel om nodekomiteopptak kommer i dag.
+- Sosialt med PR på torsdag. 
+- Merch diskuteres. 
+
+#### Trikom:  
+
+- Handletur i morgen. 
+- Har sett på fryser. 
+- StrikkOgDrikk: 9. mars. Alt er klart. Skal kjøpe inn garn og strikkepinner.
+- BliKjentFest: 1. april. Påmelding skjer i samarbeid med dotkom. 
+- Dahls: Nye flasker. Dette er dyrere og prisen vil øke til 25,-.
+- Skal standardisere handlelisten. 
+
+#### Seniorkom: 
+
+- Skal spise pizza i ettermiddag. 
+
+#### Leder og nestleder:  
+
+- I slutten av april skal det være en uke med tema "Studenters mentale helse". 
+
+#### ITV: 
+
+Ikke her
+
+## 273 Interkom (10 min) 
+
+- Didrik: Har tenkt til å oppdatere produktarket. Har derfor gått gjennom nøkkeltallene for 2016. 
+
+## 274 Hvem kan arrangere hva? (10 min) [Kristiane]
+
+- Arrangementer kan gli over i hverandre, hvem skal kunne arrangere hvilke arrangementer. 
+- Thor Håkon: Så lenge komiteene snakker med hverandre og blir enige på en god måte, bør det ikke være et problem. 
+- Sander: Mener arrangementer som nevnes er ganske klart definert.
+- Thor Håkon: Pass på å snakk med komiteer som kan ha innspill til arrangementet som skal arrangeres. 
+- Aslak: Viktig å skille f.eks fagkom og bedkom så mye som mulig mtp opptak for nye. 
+- Konklusjon: Snakk sammen så alle vet hva som foregår. 
+
+## 275 Trikom vil ha penger (10 min)
+Vil få flere faste arrangementer utover det de allerede har. 
+- Vi vil arrangere en del, så vi trenger påskudd til det.
+- Har planlagt: 
+  - Code in the dark, 
+  - valentines, 
+  - Skidag med grilling,
+  - Grilling i parken,
+  - Strikk og drikk, 
+  - Bli kjent fest. 
+
+Ber om 4600,-.
+
+Ingen har noen innvendinger. Pengene bli innvilget til trikom. 
+
+## 276 Budsjett for HS (Hajem) (20 min)
+
+Vi har gått gjennom tentativt budsjett. Det ser bra ut så langt.
+## 277 itDagene - kontraktgjennomgang før signering (Didrik) (10 min)
+Godkjent. 
+## 278 Forespørsler som har kommet på e-post (5 min) 
+- Datakam: Godkjenner søknad. De får 8k neste år. Thor Håkon svarer.
+- Abakusrevy: Erik Svarer at vi kommer 9 stk. 
+- C#-søknad: Hajem fikser
+- X-sport: Søker om 694kr til baller. Dette går greit så lenge alle kan bruke dem. De skal ligge i boden til vanlig. Erik svarer. 
+
+
+## 279 Ukens infomail og Facebook (5 min)  
+Bleste om opptak. 
+Bleste om Ontap på interessegruppen.
+
+Mandag: Alle
+Tirsdag: Bedkom
+Onsdag: Ekskom
+Torsdag: Velkom
+Fredag: Seriefrokost
+Lørdag: Appkom
+Søndag: Alle
+
+
+## 280 Eventuelt (10 min)
+- Skal ITEX stå på komitélista?
+Aslak: Ikke noe problem å sette dem på lista på OW. Aslak fikser. 
+- Aslak hilser fra studiemiljøstudentene
+- Håpet er at det etterhvert kommer en stilling for en person pr trinn pr linje. 
+- Vil spesielt ha med trikom på møte. 
+
+## 281 Møteevaluering/Diggepunkt (5 min)
+
+## 282 Gjøremål

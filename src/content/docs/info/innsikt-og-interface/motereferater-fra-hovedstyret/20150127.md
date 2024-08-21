@@ -1,0 +1,91 @@
+---
+title: "Hovedstyrets komitemøte"
+---
+
+**Møtetidspunkt:** 14:15 rom 054 it-vest
+
+**Servering:** Caroline
+
+**Referering:** Caroline
+
+**Vinstraff:** 
+
+**Tilstede:** Linn, Nils, Henning, Erik, Pia, Per Øyvind, Thor Håkon og Caroline
+
+**Mangler:** Marius, Kathrine
+
+### 206 Godkjenning av innkalling, servering og referent.
+
+Godkjent
+
+### 207 Status for komiteene.
+
+- arrKom:
+
+Reboot mandag 2. feb, husk å si fra til kommiteen deres. Det blir beerpong, kan ikke være på lag med samme kommitee.  Kryssfest går som planlagt. Immball har blitt satt 12. sept, allerede lagt inn i kalender. Åre skal snart bestilles. Ting humper og går.
+
+- banKom: 
+
+Internrevisjon og storarbeidsøkt om søndagen. Bør sette opp et budsjett neste år til kompilering. 
+
+- bedKom: 
+
+De to første bedpressene ser ut til å gå som planlagt. Mangler skjorter på Deloitte pressen. Rollup er på vei.  Bookinggruppa er satt. 
+
+- dotKom: 
+
+Hadde første møtet. Ikke skjedd veldig mye. Prøver å få restrukturert serverrommet. Prikksystemet er i gang. Inventarsystem er deligert, brussystem, plakat osv. 
+
+- fagKom, med eksKom: 
+
+Går bra med eksKom. Alt annet går bra, ny banKom ansvarlig. Bookiggrupperepresentaner er good. Ting blir deligert. 
+
+- proKom: 
+
+Det blir Offline på 28 sider. Noen redaksjonsartikler, men ikke så veldig mange. Det blir årbok, han vet ingenting om frister men vi må overhold de. Vært en del plakater, de blir produsert har han inntrykk av. Valentines date med readme. Gullblekkaballen har begynt å rulle, redaksjonsmøte på mandag med alle redaksjonene. Gjøre det bærekraftig. Workshop for redaksjonene som faller på høsten, redkasjoner har kurs for hverandre. mer samhold.
+
+- triKom:
+
+Satt dato på barcraft, 8. februar. Filmkveld 16. feb. CG lan 13. mars, stiller med folk til det. Få ordne bladhylle. Det blir teambuilding.  
+
+- IDI og ITR: 
+
+Ikke tilstede, men var 4 stk fra hovedstyret på SAKS-møtet
+
+### 208 Interkom
+
+Ris og ros på tvers av komiteer
+
+### 209 eksKom, velKom og andre kommere
+
+Utlyse stillinger. ekskom,velkom,jubkom. Push på å få leder og nestleder i ekskom og velkom først og fremst. Viktig å få søknader inn der. JubKom innen to uker. Vinstraff for de som ikke hører med sin komitee angående disse vervene. Bleste på facebook. Caroline blester velkom (etter frist for ekskom 6. feb). 
+
+### 210 SeniorKom
+
+Ikke fått inn noen flere søknader. Trenger folk slik at ikke komiteen blir tom til sommeren. Det er ikke veldig mange (som må søke før sommeren). 
+
+### 211 Årbok
+
+Den som ikke har lagt inn forslag til årboka innen fredag får vinstraff. Stemmer over det på mail. Linn og Caroline får ikke vinstraff. Flinkisser
+
+### 212 Forespørsler som har kommet på epost
+
+Traineedagen, kanskje infomail 
+Kurs i regi av studenservice, 
+Indøkrevy, min er større enn din, kommenter på mailtråd den som vil. 
+StartIT, Henning fix 
+
+### 213 Ukens infomail
+
+Juppjupp
+
+### 214 Eventuelt.
+
+Genvors - sette dato tidlig, booke rom, wikiside osvosv. Genvors etter påske. 
+Tentativ dato 9. april og 20. april 
+
+Ingen oppdateringer på IDI sitt superawesomeevent
+
+### 215 Møteevaluering.
+
+Linn vil ha sladder.

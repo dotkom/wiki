@@ -1,0 +1,150 @@
+---
+title: "Hovedstyrets Osloturmøte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Ingrid Skar
+
+**Referering:** Thor Håkon
+
+**Vinstraff:** Sondre A (ikke lagt ut møtereferat), Dre (ikke lagt ut møtereferat)
+
+**Ølstraff:** 
+
+**Tilstede:** Ingrid Skar, Magnus, Christoffer, Pia, Kristian, Nils, Agnete, Thor Håkon
+
+**Mangler:** Marius, Sondre A
+
+## 072 Godkjenning av innkalling, servering og referat 
+
+* Godkjent servering og innkalling, ikke godkjent referat
+
+## 073 Status for komiteene (30 min)
+
+#### arrKom, med velKom og jubkom:  
+
+* Klatring 13.03 er det neste, all good
+* Studenterhytta: De ønsker fotskatt på 200,- per pers om Online ikke stiller med vakter i ordinær åpningstid (da blir fotskatt 50,-) 
+* Låvefest: All good, venter på hvordan vi skal få alkohol og PA. Ønsker samme pris som Nabla, men de har ikke så mye spons som oss.
+* Immball: Scandic Lerkendal er booket. Blir billigere enn på frimurerlogen
+
+#### banKom:  
+
+* Ikke møtt
+
+#### bedKom, med ITEX:
+
+* Bedpress med Simula og BEKK forrige uke
+* Ikke noe mer før påske
+* Yahoo! tett etter påske, åpne påmeldingen litt tidligere
+* Tre bedrifter på Osloturen mangler å bekrefte, men det går bra
+* Kaffesponsor utsettes til neste semester
+* ITEX har booket fly og hotell, kontaktet bedrifter
+
+#### dotKom:
+
+* Startet å jobbe med genfors
+* Crammet issues
+* Gjort stort sett det vanlige
+* Skal fokusere på gruppesystemet og påmelding på webben 
+
+#### fagKom, med eksKom:
+
+* BEKK-kurs på onsdag (alt klart, Abakus fikser det meste)
+* FagKom blir 10 år til høsten, skal prøve å få til noe kult med gamle fagkom-ere
+* Planlegger hyttetur etter påske
+* Signert kontrakt med itDagene
+* EksKom reiser på lørdag, så der er det stille
+* EksKom 2017 har første møte på fredag
+* EksKom 2017 har hatt spørreundersøkelse om hvor folk vil reise
+
+#### proKom:  
+
+* Trykket opp nytt produktark (ligger på kontoret)
+* Ikke så mye på plakatfronten
+* Snilleliste-plakaten er i produksjon
+* Offline har 1. utkastfrist på torsdag
+* Laget video om økonomi- og vedtektskveld
+* Offline har bursdag på torsdag. Alt annet er klart! Om vi ikke får skjenkebevilgning tar vi bursdagen på kontoret.
+* Har hatt workshop for å booste den kreative kraften i proKom
+
+#### triKom:
+
+* Ikke møtt, meeeen:
+* Det virket som folk var fornøyd med varene på Studlan.
+* Vi har skaffet toastjern til kontoret, og skal skaffe vannkoker.
+* Vi trenger ekstra penger av HS til å kjøpe kaffekanner, går over budsjett.
+* Watchdog tas i bruk denne veka.
+* Kan bli vanskelig å ha Game of Thrones for fleire enn Online, ifølge kulturdepartementet.
+* Setter opp ny runde av Assassin, dato ikkje satt enda.
+
+#### SeniorKom: 
+
+* Ikke hatt møte
+* Neste på planen er å grave frem nye medlemmer
+* Velge leder internt rundt genfors
+
+#### IDI og ITV:
+
+* Ikke møtt
+
+#### Leder og nestleder:
+
+* Laget vedtektsforslag
+* I går var det linjeledermøte, der var det besøk fra en fra kjellerutvalget (#reddkjellerne).
+    * De har vært på møte med SiT for å finne ut hva de kan gjøre
+    * SiT har halvveis lurt #reddkjellerne ved at de ga forsen frist til å sende med informasjon til styremøte
+    * SiT har ikke tatt et standpunkt om kjellerne enda
+    * \#reddkjellerne skal snakke med Velferdstinget fordi det virker som om SiT er vanskelig å ha med å gjøre
+    * Lik #reddkjellerne på Facebook
+* Christine fra SiT var også tilstede og snakket om fadderukene
+* Lokaler til fadderukene ble tatt opp - skal linjeforeningene gå sammen for å leie lokaler? Få vil leie ut der deltakere kan ta med egen alkohol.
+* Mange føler Bindeleddet overkjører de mindre linjeforeningene - de sier de representerer alle studentene, men de mindre linjeforeningene kan ikke delta på banketten på Karrieredagene, og de får heller ikke betalt for at deres studenter blir solgt. Dette skal bli tatt opp igjen når Bindeleddet møter opp på linjeledermøtet. 
+
+## 074 Interkom
+
+## 075 Vedtektsforslaget (30 min)
+
+* Omskriving av vedtektene diskuteres. Det er viktig for HS at det ikke legges inn meningsendrende vedtektsforslag, disse kommer parallelt. 
+
+* Diskusjoner å ta senere:
+    * Skal vi legge inn et punkt for når vedtektsendringer skal tre i kraft?
+* Neste gang fortsetter vi på paragraf 4.4.
+
+Mål: En felles gjennomgang av vedtektsforslaget. En miniworkshop hvor vi går gjennom i fellesskap. 
+
+## 076 Lang og tro (15 min)
+
+* Hvilke komiteer skal telle på årene du må bygge opp for å få lang og tro (LOT)?
+* Arbeidsmengde og hvor mye det har å si for Online, bør telle inn på om noen får daljen
+* Forslag: Om du er i en komité som ikke kvalifiserer til lang og tro må du innstilles til daljen av denne komiteens leder. Komitéleder i nodekomiteen instillies av leder i foreldrekomiteen. HS tar en avgjørelse basert på instillingen.
+* Annet forslag: Du kan tjene deg opp år i komiteer som ikke kvalifiserer til LOT, men maks ett år.
+* EksKom, ITEX er kandidater til nodekomiteer som teller på LOT.
+* Permisjon telles ikke på årene til LOT.
+* Pia skriver forslag til retningslinjer for LOT
+* Utsette utdelingen av LOT til etter år 3? Denne diskusjonen utsettes.
+
+Mål: Hva skal gjelde på lang og tro? Per nå har vi ingen retningslinjer for det. 
+
+## 077 Forespørsler som har kommet på epost (5 min) 
+
+* Proman: Pia fikser
+* Invitasjon til Trøndelagsdagen: Nei takk, ikke relevant for oss
+* Klimadagen: Nei
+* Bilfrie bysentra: Nei
+
+## 078 Ukens infomail (5 min)
+
+* Den ble bra!
+
+## 079 Eventuelt (10 min)
+
+* Teambuilding med HSP
+    * Kanskje Sopra Steria kan holde lederkurs for nye HS?
+* Kaffekannene er kommet!
+* Vi har fått toastjern på kontoret (er dette lov? Vi sjekker)
+
+## 080 Møteevaluering/Diggepunkt (5 min)
+* Digger kaffekanner
+* Digger bollene til Ingrid

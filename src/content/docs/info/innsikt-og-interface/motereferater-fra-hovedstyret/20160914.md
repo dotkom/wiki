@@ -1,0 +1,131 @@
+---
+title: "Hovedstyret hadde en flott ball-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Andrea
+
+**Vinstraff:** Sander
+
+**Ølstraff:**  
+
+**Tilstede:** Thor Håkon, Erik, Martin, Petter, Andrea, Håkon, Ingrid, Didrik, Kristoffer
+
+**Mangler:** Kristiane, Sander
+
+## 092 Godkjenning av innkalling, servering og referat 
+
+
+## 093 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+Ikke tilstede.
+
+Jubkom planlegger å starte billettsalg på mandag. 
+
+Prøver å skille seg litt fra immballet, men det kan bli mye likt.
+
+
+
+#### Bankom:  
+
+Var ikke så mange på møtet, sist, fikk ikke gjort så mye. Glemte å sende møteinnkalling før kl 16 på søndag. 
+Fikk satt opp fiken, det nye regnskapsystemet vårt. Det blir kurs av de nye i regnskapsføring 29. september, teambuilding 30.
+
+#### Bedkom, med ITEX:  
+
+ Grunnet vanskelige forhold for å finne møtetid, har vi ikke hatt noe møte siden sist. Skal ha teambuilding med fagkom, har funnet to stk om å samarbeide med prokom for å designe en bedkom-genser.
+
+#### Dotkom:
+
+Hadde første møte med de nye forrige uke, ble litt rush da det var imm. middag. Skal på teambuilding i helga. Tredje møte krasher med kick-off. Ikke skjedd mye siden sist.
+
+#### Fagkom, med ekskom:  
+
+Ekskom: Fått nytt hotell. Tech-talks er i orden.
+
+#### Prokom:  
+
+Hadde første møte med de nye, fått de inn på ting. Bli-kjent-kveld på lørdag, hyttetur sent i oktober.
+
+#### Trikom:  
+Skal samarbeide med studlan, snart i boks. Skal ta en handletur, sannsynligvis på fredag. Skal oppdatere mer info om trasketuren. Kontorvakter går hittil 
+knirkefritt. Har ikke hørt noe mer om boden.
+
+#### Seniorkom: 
+
+Vanskelig å få til møtetid, travle folk. Ellers går ting knirkefritt, kickoff faller på plass. Har planlagt teambuilding sammen med backup. Da skal vi være gamle sammen og drikke(?) kamferdrops. Alle postene på kickoffet er i orden. Det mangler bare å delegere det.
+
+#### Leder og nestleder:  
+
+Sendt mye epost i det siste, men ikke fått svar. Ble for sen med infomailen. Må planlegge hyttetur snart. Må leie nok biler/fikse nok biler. Ingenting å melde, men vi gjør ting.
+
+#### ITV: 
+
+
+## 094 Interkom (10 min) 
+Nå man skal booke kontoret, finn edruansvarlig med en gang og send mail om det.
+
+Alle må være nøye på å vise tydelig at det er viktig å være med på komite-kickoffet, og at de gamle kan være med på kvelden. HS skal komme senere.
+
+Dotkom ønsker å ha en stand for å få i hvertfall prokom inn i filområdet. Det er greit.
+
+## 095 Appkom
+Appkom har hatt en del snakk om å få nye medlemmer, for vi har åpent opptak. Vi ser godene av det, for da får vi feelingen om at det er lavterskel, det er ikke skremmende, bare kom inn og ha det gøy. Men vi ser utfordringene med det. Det er vanskelig å få inn mange medlemmer via åpent opptak. Man får ikke komite-tilhørigheten med en gang. Ikke helt optimalt, folk kommer ikke alltid på møtene. 
+
+Trenger ikke gi en ordentlig frist, kan promotere for åpent opptak og arbeidskveld. Kunne hatt en plakat å henge utafor kontoret. Kan prøve det, få blæsting, ha plakater, legge ut på facebook, gi illusjonen om en frist. Promotere om alle de kule tinga de har lagd. Blæste plakaten på facebook. Artikkel. Blæste om notifier. Har mange ting som er in-the-making. Prokom lager en plakat, henger den opp på kontoret. 
+
+## 096 Kompileringsdiskusjon (10 min) (Didrik)
+Ha et post-kompileringsmøte hvor vi lager en god guide. Den er rotete. Vi lager en ordentlig guide, alt på én side, oversiktlig og bra. Husk på hva som er glemt. Skrive det ned til 1. september 2017.
+
+## 097 Registrering i Frivillighetsregisteret (5 min) (Sklirg)
+
+Bumpe den. Vi burde gå videre med den. Så ingen ulemper med å gjøre det. Internasjonal standard på at vi er en organisasjon, får fordeler på slack. Er det mulig å melde seg ut hvis det biter oss i baken? Vi eier ikke Online, Online er for alle. Det er basically det frivillighetsregisteret krever, et godt formål. Vi er for. Har vi advokathjelp som kan sjekke det ut? Vi hører med jushjelpa. Erik gjør det. Han tar også det opp på linjeledermøtet.
+
+## 098 Spørreundersøkelse
+Skal inneholde tilbakemelding på:
+
+* Fadderukene
+* Kompileringen
+* Immballet
+* Studiemiljø
+
+Vi vil ha en spørreundersøkelse med en premie. Ifjor var det chromecast.
+Typ: hva skulle du ønske var annerledes, ville du gjort det igjen? 
+
+Kan vi spørre hva de syntes om bedpressene og edruopplegget.
+Studentmiljøundersøkelse - for tidlig? Nei. Folk husker det nå. Vi satser på i løpet av september. Erik skal bestille en chromecast.
+
+## 099 Forespørsler som har kommet på e-post (5 min) 
+
+* Placebo-mail
+* Sonors studiemesse hopper vi glatt over
+* Fotograf til immball sjekker Andrea med prokom
+
+## 100 Ukens infomail og Facebook (5 min)  
+
+Appkom ut på facebook. Trasketur-event. Vi burde hatt en artikkel om at vi har fått kaffesponsor. Andrea sjekker med prokom. Nei, vi poster på facebook. Artikkel om jubileet - at det åpner snart. Intervju med jubkom om Online.
+
+## 101 Eventuelt (10 min)
+* Folk som ikke er med Online bli med på bedpresser/kurs?
+Da kan folk spørre mer og mer, men er det ledig plass kan de bli med? Er mest en fagkom-diskusjon. Burde være konsekvente på det. Fagkom tar det opp.
+
+* Rart å invitere styrer som betaler det samme som medlemmene
+Løsningen er at styrene betaler mer. F eks. til jubileet.
+
+## 102 Til neste gang (5 min)
+* Vi vil ha en kosekveld
+Det blir 4. oktober
+
+## 102 Gjøremål (5 min)
+* Erik skal høre med jushjelpa. Fordeler og ulemper, angående bedrifter.
+* TH skal sende mail om frivillighetsregisteret.
+* TH skal lage forslag til spørreundersøkelse også kommer resten med tilbakemelding.
+* Erik skal bestille en chromecast.
+* TH skal legge ut på facebook om kaffesponsor.
+* Andrea skal sjekke med prokom om bedkom-genser, fotograf til immballet til volvox og artikkel om jubileet.
+* Didrik skal skrive om kompilering en eller annen gang.
+
+## 103 Møteevaluering/Diggepunkt (5 min)

@@ -1,0 +1,140 @@
+---
+title: "Hovedstyrets-pia-skal-på-ferie-møte"
+---
+
+
+**Møtetidspunkt:** 09.15 - rom 354 it-vest
+
+**Servering:** Nils
+
+**Referering:** Nils
+
+**Vinstraff:** 
+
+**Tilstede:** 
+
+**Mangler:** Marius
+
+## 39 Godkjenning av innkalling, servering og referat  
+Godkjent
+
+## 40 Status for komiteene
+
+#### arrKom, med velKom og jubkom: 
+
+Immball er stort sett go. 
+
+Blir møte i morgen
+
+velkom: 
+    griller kommer i dag(!) 
+
+#### banKom:   
+
+Økonomien er på stell
+
+#### bedKom: 
+
+Alt er klart for bedpresser fremover
+
+Kommer til å ta opp tre stk. 
+
+#### dotKom:  
+
+Ikke hatt møte, tar et lite i dag for å kjøre status før opptak osv. 
+
+#### fagKom, med eksKom:    
+
+Blir nok å ta opp syv stk. 
+
+Itera blir lego-mindstorms kurs
+
+Fått sushikme-konto
+
+#### proKom:    
+
+De første plakatene er hentet og hengt opp
+
+Venter litt på info for videre plakater 
+
+Tar opp ca. fem stk. 
+
+Fotobytting med abakus-pr for immball
+
+T-skjortesmell, fargekoder var sent riktig, 
+
+#### triKom: 
+
+Har møte i morgen
+
+Vil vurdere å be om litt penger tilbake for sen grill og ekstrautgifter
+
+#### SeniorKom:  
+
+Masterfadderuke har begynt
+
+40-ish av 65 møtte på gårsdagens bli-kjent-kveld. Veldig vellykket! 
+
+Booket Nardo klubbhus til komitékickoff 9. september
+
+Caroline kan bidra litt til kompileringen
+
+
+#### IDI og ITV:    
+
+
+#### Leder og nestleder:  
+
+Har fått info fra vektere på linjelederlista om "ukontrollert" fulle personer ved hovedbygget og realfagsbygget. Vi oppholdt oss et annet sted og er nok ikke skyldige, men oppfør dere. 
+
+Opptaksinfomøte i morgen klokken 14 i S2. 
+
+Linjelederis på fredag sies det.  
+
+Det har kommet meldinger fra vaktene om "ukontrollert fyll" ved realfagsbygget 17.08 - si ifra
+
+
+## 42 TBH oppsummerer burgermiddag med Login
+
+Veldig interesserte i å bli bedre kjent med oss. Glade for at vi tok kontakt! 
+
+
+## 43 Scanneren på kontoret er ødelagt
+
+Trikom kjøper ny scanner. Googler litt om kryssplattformstøtte. Win+Mac+Linux uten aidsdrivere. 
+
+## 44 Ukens infomail.  
+
+Bedpresser
+
+Blesting av komitéopptak
+
+Hold av 12. september(!)
+
+## 45 Forespørsler som har kommet på epost  
+
+Edgarprisen - pass
+
+Storband - arrkom diskuterer, videresender til jubkom
+
+Swingkursting
+
+Kjellerkontakt - Sverre blir kjellerkontakt. Nøkkelen ligger trygt og godt i safen. 
+
+## 46 Eventuelt  
+
+Bokser - send mail til triKom for å få boks
+
+Lang&tro skriv inn på wikien hvem som skal ha 
+
+Hvem har betalt daljene sine? Skriv inn
+
+## 47 Immballinvitasjoner 
+
+Done-ish
+
+## 48 Møteevaluering 
+
+Sklei mye ut mot slutten
+
+Mye pc-bruk ...

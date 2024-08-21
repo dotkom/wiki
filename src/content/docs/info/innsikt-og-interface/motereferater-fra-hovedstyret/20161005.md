@@ -1,0 +1,163 @@
+---
+title: "Hovedstyrets nå-har-vi-en-plan-for-fremtiden-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Erik
+
+**Vinstraff:** 
+
+**Ølstraff:**  
+
+**Tilstede:** Didrik, Erik, Thor Håkon, Kristiane, Ingrid, Andrea, Sander, Håkon, Hajem, Martin
+
+**Mangler:** 
+
+## 129 Godkjenning av innkalling, servering og referat 
+Godkjent
+
+## 130 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+- Oktoberfest blir blestet i dag. Påmelding på fredag. 300 plasser. 
+- Online kasino: Blir 4. november på håndtverkeren. 
+- Planlegger adventure of gløshaugen
+- Åre: Vil ha bare tre busser, men thorleifs sier at det ikke er mulig grunnet mye skiutstyr. 
+- Hadde hyttetur til helga.
+- Tillitsvalgt: Komiteen skal tenke over det til neste uke.
+- Ikke funnet lokale til styrevors før jubileet enda. 
+- Vanskelig å finne lokale til styrevors før jubileet. 
+
+#### Bankom:  
+
+- Ferdig med å sette opp det nye bilagssystemet. 
+- Har hatt opplæring med de nye. 
+- Skal pushe mer på bilagsføring. 
+- Skal velge tillitsvalgt på søndag. 
+
+
+#### Bedkom, med ITEX:  
+
+- Bookingrunde: Skal ha møte med abakus dagen etter bookingrunde. Der skal de bestemme hvilke datoer vi skal ha. 
+- Alt klart til acando. 
+- Har skrevet ny HSP-avtale. 
+
+#### Dotkom, med appkom:
+
+- Startet prosjekter med de nye: Redesigne karrieresiden. Samarbeider med prokom der. 
+- Skal se på å bruke react på fremsiden. 
+- To nye er satt på et driftsprosjekt. 
+- Begynt å se på google apps: Virker veldig greit. Ser på mulighet for å legge maillistene inn dit. 
+- Jobber for gratis slack
+
+#### Fagkom, med ekskom:  
+
+- Kurset i går var bra.
+- Skal på hyttetur i helga.
+- Christina ble tillitsvalgt.
+- Ekskom: De som vil kan booke hotell gjennom ekskom i Seul. 
+
+#### Prokom:  
+
+- Offline kommer forhåpentligvis i morgen!
+- Oka skjer på lyche.
+- Endre er ny økonomiansvarlig.
+
+
+#### Trikom:  
+
+- Gleder seg til overnattingstur i bymarka. 
+- Kobkom skal ha et arrangment snart.
+- Smashturnerning: 20 påmeldt.
+- Vinner får 100,-. 2. plass får 50,-
+- Seriemandag starter neste mandag.
+- Sigve ble tillitsvalgt. 
+- Skal arrangere fotballvisning. 
+
+#### Seniorkom: 
+
+- Skal gruble litt over hvem seniorkom er.
+
+#### Leder og nestleder:  
+
+- Undersøkelsen blestes klokka 2 i dag. 
+- Sett på hvordan vi ligger an med førsteklassinger på immball. 
+
+
+#### ITV: 
+
+
+## 131 Interkom (10 min) 
+
+- Det var gøy i går!
+
+## 132 Tidligere medlemmer/Eldsterådmedlemmer som har tilgang til alt (Didrik)
+
+- Noen som har gått ut har vært inne på et event og endret på ting.
+- Vil ikke ta ifra dem tilgangen til wiki og sånne ting, men vil ikke at de skal kunne endre eventet. 
+- Vil at sånne ting skal gå via de som arrangerer, og at de ikke går inn selv og endrer.
+- Kan være interessekonflikt når noen som jobber i en bedrift kan endre på bedriftens event på OW4.
+- Vi skal si ifra at dette ikke skal skje.
+
+## 133 Prikkeregler
+
+* Update fra Kristiane
+
+- Alle synes det så greit ut. 
+- Komitémedlemmer skal gjennomgå forslaget til Kristiane og komme med tilbakemeldinger til neste HS-møte. 
+
+## 134 Gamle medlemmer som forsvinner (Andrea)
+
+- Lurer på hvordan prokom kan holde på de gamle medlemmene. 
+- Forslag: Spørre de gamle og de som har gått ut hva som motiverer dem til å fortsette å bidra. 
+- Mulig mange blir leie av å gjøre arbeidet prokom gjør etter et par år. 
+
+## 135 Sensurert
+
+## 136 Forespørsler som har kommet på e-post (5 min) 
+
+- Gløsmesterskapet: Erik har glemt. Vinstraff. Pass på at det ikke har vært.
+- Styrefest: 9. november. vi tenker på det til neste gang.
+- Balder C#: Vi venter med å godkjenne det til vi har blestet for at folk kan søke penger til interessegrupper. Thor Håkon svarer.
+- Bruk av p15 i eksamensperioden: Erik sender mails oppover til eksamenskontoret. Erik sender også mails til NTNU for å få de til å reklassifisere datasalene til lesesaler og ikke undervisningslokaler. Tar dette opp på semestermøtet. 
+
+## 137 Ukens infomail og Facebook (5 min)  
+
+- I dag klokka 2: Spørreundersøkelse.
+- I dag klokka 5: Bymarkatur
+- I morgen: Kanskje offline.
+- I morgen kanskje computas. 
+- Fredag: Smashturnering.
+- Fredag: Interessegrupper.
+
+## 138 Eventuelt (10 min)
+
+Gjøre informasjon om interessegrupper lett tilgjengelig på OW4 -> legge link på den grå linja under headeren. 
+
+* Status på tillitsvalgte
+Fagkom: valgt
+Trikom: Valgt
+Bedkom: Ikke valgt
+Prokom: Ikke valgt
+Dotkom: Ikke valgt
+Arrkom: Ikke valgt
+Bankom: Ikke valgt
+Seniorkom: Valgt ansvarlig
+
+Sklirg: Mister en del av de som driver med drift til sommeren. Vil se på mulighet for å kjøre nettsiden og andre tjenester i skyen. Det vil koste veldig ish 10.000,- i året. Hvis man ser på kostnaden for å kjøpe nytt hardware med gjevne mellomrom vil det kanskje lønne seg. 
+Kan legge det inn som et punkt på diskusjonskvelden med HS.
+
+## 139 Møteevaluering/Diggepunkt (5 min)
+
+Thor Håkon er glad.
+
+## 140 Gjøremål
+- Thor Håkon hører direkte med Omega hvor mange førsteklassinger som var på deres immball. 
+- Thor Håkon finner ut om vi har flere æresmedlemdaljer.
+- Erik blester for interessegrupper -> schedule en post som postes på fredag.
+- Erik sender mails til eksamenskontoret angående datasalene i eksamensperioden. 
+- Erik spør om plassene i 2. etasje evt andre plasser informatikere kan sitte og lese. 
+- Vi snakker om fadderuka og kompilering på neste møte.
+- Snakker om cloud og dotkom på neste møte. 
+- Medarbeidersamtaler tas på mail.

@@ -1,0 +1,211 @@
+---
+title: "Hovedstyrets Vårmøte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Sondre A
+
+**Referering:** Sondre W
+
+**Vinstraff:**  Thor Håkon for å glemme inviterere ITV, Thor Håkon for ikke møtt på teambuilding
+
+**Ølstraff:**  IPA for å glemt føre opp Dre på referering/servering på sakslisten, kun i mail  
+
+**Tilstede:** Sondre W, Sondre A, Nils, Thor Håkon, Marius, Agnete, Christoffer  
+
+**Mangler:** Pia  
+
+## 065 Godkjenning av innkalling, servering og referat 
+
+## 066 Status for komiteene (30 min)
+
+#### arrKom, med velKom og jubkom:  
+
+- Temafest
+    - Good
+
+#### banKom:  
+
+- Hatt regnskapskveld
+    - Ikke 100% ferdig
+    - Oppfordrer komiteleder til å ta en prat om budsjett med komite og økonomiansvarlig
+    - Komiteen, især komitéleder, skal sette seg ned og løse budsjettet
+    - Bedre at vi overestimerer enn underestimerer
+
+- All is good on the eastern front
+
+- Teambuilding 10. mars
+
+#### bedKom:
+
+- Bedpres med nordea
+    - Gikk bra
+
+- Simula
+
+- Bekk
+
+- Teambuiulding i helgen, århøne hytta
+
+- Møte med fagkom/jubkom og spikre jubileumssponsorer
+
+- Godt igang med å booke oslotur
+
+#### dotKom:
+
+- Hadde møte, endel ikke-oppmøte
+
+- Merget masse greier, hele web'en er i python3 nå
+
+
+#### fagKom, med eksKom:
+
+- Hadde kurs med bekk, gikk bra
+
+- Har mesan på onsdag
+    - Dårlig påmelding
+
+- Planlegger sikkerhet sårbarhet i mai
+
+- Har 3 teambuildinger på en uke i april
+    - Ble mye, men eneste måten å løse på
+
+- Jubileumsutvalget i fagkom/bedkom har hatt første møte
+    - Skal ha møte igjen på onsdag
+
+- Ekskom blir nok søkere, 11 hvis alle tas opp
+    - trenger mailingliste
+
+#### proKom:  
+
+- Fyllt opp offline (med artikler)
+
+- Førsteutkast 10. mars
+
+- IDI kontaktet og ønsket legge ut artikkel om våpen-hacker på sine sider
+
+- Fått ny økonoansvarlig minion, skal ta over for Camilla
+    - Andrea Bach
+
+- Planlegger offline bursdag
+- 10. mars på drivhuset
+- Stress med lokaler
+- Strossa er gratis å leie for oss fre/lør frem til kl 23
+
+- Ryddet i komiteskapet, tømt og arkivert greier
+
+
+#### triKom:
+
+- Sett på ny kaffekanner
+
+- Snakket om GoT, hvordan visninger blir
+- Vurderer sette opp visning for hele gløs
+- THB snakket med medietilsynet
+    - Kan vise lovlig dersom det er begrensninger på f eks alder, studenter osv
+    - Skal undersøke mer
+
+- Påskelunsj kl 12 tirsdagen før påsken - 15. mars
+
+- Fjelltur er satt dato på 29. april
+
+- Skal prøve assassins på nytt - startet planlegging
+
+- Fått tips om å sette opp en "flinkeliste"
+    - Skrive opp folk som er flinke og gi de ett lodd per linje, så lodde ut vin etc
+
+- Watchdog, kan komme opp snart
+    - Må testes osv
+
+#### SeniorKom: 
+
+- Går i utmatrikulering
+    - 13 studenter 25 gjester
+        - Halvparten av det de tenkte
+    - Tikker inn påmeldinger
+
+- Skjedde en feil i dalje-opplegg til utmatrikuleringsdalje, blir dyrere en antatt
+    - Men reddes inn på en uforutsett post
+    - Bilde av daljen vises
+    - Daljetrykkeriet: Argus Moss
+
+- SeniorKom sin velkommer Caroline klar
+    - Når møte skjer, så skjer hun
+
+#### IDI og ITV:
+
+- THB har ikke invitert IDI og ITV
+    - Vinstraff
+
+#### Leder og nestleder:
+
+## 067 Interkom (10 min)
+
+## 068 Forespørsler som har kommet på epost (5 min) 
+
+- Sosial kveld med AbaPus
+- Nils fikser med Beate
+- Gravitones linjeforeningsprogram inn
+- Pojkajoyk (?) er fikset
+
+## 069 Ukens infomail (5 min)
+
+- Fyll inn
+    - Legg inn klatring (arrkom)
+    - Legge inn om C# (AdLib)
+        - Andre uken på rad Aggie legger inn i infomailen WOHO!
+
+## 070 Eventuelt (10 min)
+
+- Kaffekanne
+    - Skal HS betale?
+    - TriKom har igjen penger, bruker opp det først
+    - Kjøper 2 stk, så komiteer som har møte samtidig kan ta med kaffe
+
+- Penger og ekskom - TechTalks utgifter
+
+- Overgangsperiode
+    - Forslag: Første møte så skygger gamle HS, nye HS
+    - Forslag: Utsette møte en uke og så heller gå igjennom 
+    - Eldre HS medlemmer må være aktive på overgangsmøter, ikke like passive i sofaen slik de var ved vår overgang
+    - Forslag: Kreve litt mer av gamle HS medlemmer, at de er med på møter, og bidrar i overgangen
+    - Forslag til vedtekstendring: Gamle HS som står som ansvarlige første møte etter genfors
+    - Forslag: Gamle ledere er møteleder på første møte. Alle gamle er delta aktivt rundt bordet
+    - Per idag så tiltrer nye ledere i det de blir valgt. Kanskje endre dette til etter genfors, første møte, etc
+
+    - Når nye HS trer i kraft
+        - Endre vedtektene til at HS sitter som ledere i en uke etter genfors
+            - Ønsker begrense følelsen av "dimmelæl", føle et ansvar fortsatt etter genfors
+        - Men trenger dette å være en vedtektsendring?
+        - Kanskje heller legge inn i retningslinjene at møteledere er gamle HS medlemmer
+            - Størst enighet om å legge inn på retningslinjene istedenfor vedtekter
+    - Tar recap neste møte mtp. Pia som fremmet
+
+- PangKom
+    - Forlag: Legge ned PangKom, fjerne det fra vedtektene
+        - Stor enighet
+    - Pia ønsker ta initiativ til Online Alumni
+        - Skal bli et nettverk for informatikere som kan hjelpe hverandre i næringslivet, avtale pils en gang i semesteret, etc
+        - Skal ikke stå i vedtektene
+        - Høres ut som en god ide
+
+Vedtektsendringer skal endre ordlydene, ikke meningen
+
+- Avtale med Abakus om IT dagene
+    - Skal underskrive denne uken
+
+- StartIT
+    - Pia skulle snakke med dem
+
+- Dårlig oppmøte av HS på reboot
+    - Kun 2 HS medlemmer som var der, dette må bli bedre
+    - Folk som kommenterte at det var få HS folk der
+    - Generelt ønske fra arrkom om at HS medlemmer deltar i større grad og sier dette til medlemmene sine
+
+- Vil vi utvikle Online mer enn vi drifter?
+    - Ble litt mer drifting forrige semester, mer utvikling dette semesteret
+    - Noen føler det har vært litt mye drifting i det siste
+    - THB kunne gjerne kjent på mer motivasjon og engasjement fra alle
+
+## 071 Møteevaluering/Diggepunkt (5 min)

@@ -1,0 +1,89 @@
+---
+title: "Hovedstyrets lykketilmøte"
+---
+
+**Møtetidspunkt:** 14:15 rom 054 it-vest
+
+**Servering:** Nye lederen :P
+
+**Referering:** Aggie
+
+**Vinstraff:** Sondre W., Thor Råkon     
+
+**Tilstede:** Linn, Lofsberg, Sondre A., Marius, Kristian, Per Øyvind, Henning, Caroline, Erik, Pia, Nils, Kathrine, Agnete, Sondre W., Thor Råkon(til slutt)
+
+**Mangler:** Ingen    
+
+### 303 Godkjenning av innkalling, servering og referent   
+Godkjennes. 
+
+### 304 Status for komiteene
+
+#### arrKom, med velKom:   
+ArrKom går som det humper. Snart er det eksamensfest. 
+	
+#### banKom:   
+Ting går bra. Henning er flink. Marius skal prøve å være like flink. 
+	
+#### bedKom:   
+Sendt ut fakturaer. Venter på noen. Vil ha møte med Norsk Dataforening. Mekker eksamensquiz. Venter på noen kontrakter.    
+
+#### dotKom:   
+Gratulerer til de nye. Har hatt trøbbel på serverrom. Prøver å fikse greiene. Status er ikke så ille som det kunne vært. Ting kommer tilbake. Fikser rutiner. Jobber med betalingsløsning og nettbutikk. 
+
+#### fagKom, med eksKom:    
+Har siste kurs i dag. Blir javakurs. Har snart Sikkerhet og Sårbarhet. Har også diskmatkurs. 
+
+#### proKom:    
+Ruller ut årbok. Prøvetrykk er i gang. Offline kom i helgen, god stemning. Hatt litt trøbbel med trykkeriet, da de plutselig hadde mistet alt papiret sitt. Ellers skjer bonger og plakater som normalt. Vi må fakturere IDI for ekstra Offline. 
+
+#### triKom:   
+Kontorvaktene går mot slutten. Fortsetter med frukt. Fortsetter med GoT-kvelder. Ellers var triKom rutta på genfors.    
+
+#### IDI og ITR:    
+Sverre er ikke her. 
+
+### 305 Interkom   
+
+### 306 Recap fra genfors    
+Sykt rutta ordstyrer. Han likte vi. 
+
+### 307 KK- Kontrollkomite
+
+* Forslag om å nedsette en kontrollkomite som kan gå igjennom og følge opp saks- og vedtektsforslag før genfors.
+
+* Foreslår å spørre om et samarbeid med en annen linjeforening (Spanskrøret) slik at man får noen utenforstående til å kunne se og kommentere fra et annet ståsted.
+
+
+### 308 Erfaringsoverføring
+
+* Fikse mailinglister   
+Nils skal ha fikset. Alle har blitt passe spammet av Linn. 
+* Admin på facebookgrupper    
+Folk har blitt lagt til på Online-pagen og Informatikkgruppen. 
+* Kode til safe    
+* Hvilke nøkler ligger hvor (hvor ligger bodene våres)    
+Det er generelt litt rotete i skapene. Gensere må pakkes bedre, brus må stables. Vi må også trolig bestille opp nye Online-pins.    
+* Fikse Brreg
+* Fikse telefonene
+
+* Avtale ut-og inndrikkingsdato    
+
+### 309 Ukens infomail.   
+TH mekker. Vi må legge inn årbok! Sikkerhet og sårbarhet. Eksamenskurs. 
+
+### 310 Forespørsler som har kommet på epost    
+- Dataforeningene. Saken må tas videre. 
+- Invitasjon til vÅrgangsfest!     
+- Kulturelle lag og organisasjoner.      
+- NTNUI Swing. Vil vil lære å danse swing? 
+- Vårkampanje på kurs og konferanser.    
+- Fikk faktura for Studenterhytta.    
+
+### 311 Eventuelt      
+- Kjøpe ny grill? Vi har penger til det etter velKom-overskudd. Vi bør ha sånn tønnegrill. HS ser på ny grill til fadderukene og *gjør noe med det*. Det skjer. Det skal være grilling i eksamensperioden, kanskje mekke asap?    
+- Oppdatere Onlineweben om nytt HS. Vi må sette oss selv som ledere.       
+- Fane til 17. mai? We fix. 
+
+### 312 Møteevaluering    
+For mange mennesker rundt bordet. Gamle HS har møteplikt på 3 HS-møter fremover og møterett på 3 til etter det. Bra møte. 

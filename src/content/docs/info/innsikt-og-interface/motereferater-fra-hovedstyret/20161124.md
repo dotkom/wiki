@@ -1,0 +1,153 @@
+---
+title: "Julemøte"
+---
+
+**Møtetidspunkt:** 11.15 (rom 054)
+
+**Servering:** Agnete
+
+**Referering:** Marius  
+
+**Vinstraff:**
+
+**Ølstraff:** Agnete(telefonen laget lyd)
+
+**Tilstede:** Marius, Agnete, Kongsy, Son, Christoffer, Kristian, Dre, Nils, THB, Pia.
+
+**Mangler:**
+
+## 164 Godkjenning av innkalling, servering og referat  
+
+## 165 Status for komiteene (30 min)
+
+#### arrKom, med velKom og jubkom: 
+
+* Julebord var stemning
+* Det er juleverksted i morgen, topp stemning det og.
+* Skal ha semestermøte med trikom.
+* Jubkom har tatt opp en ny person, stemning
+	* Det er signert kontrakt på hvor vi skal være 
+
+#### banKom:  
+
+* Har siste møte neste søndag, intet nytt.
+
+#### bedKom: 
+
+* Kontrakte er sendt til Sopra Steria
+* Intet nytt og melde. 
+
+#### dotKom:
+
+* Julebordfremføring var bra, kudos til dem.
+
+
+#### fagKom, med eksKom:
+
+* Hadde siste møte forrige onsdag.
+* Har diskutert hvordan kurs skal vises på weben.
+	* Temabasert visning, for eksempel.
+	* Git kurs har det kommet ønsker på
+* Skal ha eksamenskurs.
+* Første møte etter Åre
+* Ekskom har flyttet Tech Talks til 3. februar
+
+#### proKom:  
+
+* Har solgt 39 t-skjorter til Åre
+* Har innkalt til gullblekkamøte
+* Nydelig movemberfilm er ute. 
+
+#### triKom:
+
+* Har vært i samtaler med Kobkom. 
+	* det blir litt sent, så de starter opp igjen aktiviteten neste semester. 
+* Har kjøpt julebrus, men det er litt logistiske problemer, samt at ikke alle butikker har Hamar/lillehammer-brus(SKANDALE)
+* Juleverksted i morgen.
+	* Det blir handlet inn til det i morgen.
+* Skal ha semestermøte med arrkom
+* Har hatt medarbeidersamtaler
+	* Har kommet frem at noen av komiteens medlemmer føler at de ikke kan nok. 
+	* Skal vurdere litt fadderordning slik som arrkom
+	* En ny og en gammel per kurs.
+ 
+
+#### SeniorKom: 
+
+* Utmatrikulering ruller og går
+	* Har booket talere og fotograf.
+
+#### IDI og ITV:
+
+* Petter is MIA
+
+#### Leder og nestleder:  
+
+* Ipa har vært på linjeledermøte
+
+* Møte med prorektor, men Pia var ikke tilstede men har hørt at møtet var en stor forbedring fra tidligere.
+	* Romreservasjon ble tatt opp, mye pga byggsikring som er vanskelig å ha med og gjøre.
+	* Skal kalle inn byggsikring til møte, så det faktisk lar seg gjøre å booke et rom. 
+
+* Skal på fakultetsråd
+	* Skal representere linjeforeningene
+	* Flere fakultet tror at linjeforeningene "bare" arrangerer fadderuker
+	
+
+* Det er ingen i Ålesund.
+	* Men skulle vi egentlig dra?
+
+## 166 Interkom (15 min)
+
+## 167 Premier til julekalenderen (10 min)
+
+* I fjor var det en sjokoladeting hver eneste dag
+* SS har lurt på om det er en grense på hvor dyr premier kan være
+* Det diskuteres å ha ukespremier, eller liknende
+* Moren til Marius vant i fjor, er det greit?
+	* Ja
+
+## 168 Tilbakemelding etter årets komitemedlem(20 min)
+
+* Bacon har fått tilbakemeldinger om årets komitemedlem
+	* Noen få har gitt tilbakemeldinger om at det var bra
+	* Men har også fått en del negative tilbakemeldinger
+
+* Loffen fikk bare gode tilbakemeldinger
+
+* Pia har fått tilbakemeldinger
+	* Der var det også bare gode tilbakemeldinger
+
+* Til neste år er det mulighet til å gi beskjed om at dette skjer på "komté-kick-off"
+	* Men det kan dog tolkes feil, siden det ikke er en konkurranse. 
+
+* Nominasjon er et forslag
+
+* Det foreslås også at det skal stemmes åpent
+	* Er redd for at det blir "vennestemming"
+
+* Skal begrunnelsene legges ut på wikien?
+
+## 169 Eksamenskos (10 min)
+
+* Marius melder seg frivillig til ITGK, siden han skal ha det.
+* Agnete melder seg til både Alg.Dat og ITGK. 
+* Nesten hele HS skal ha ITGK, så den dagen er ganske good.
+* Må huske å ha noen som ikke har eksamen der. 
+* Vi skal også gå rundt på P15 og dele ut koz. 
+
+## 170 Forespørsler som har kommet på epost (5 min) 
+
+## 171 Ukens infomail (5 min)
+
+## 172 Eventuelt (10 min)
+
+* Avslutte movember
+	* Premier skjer.
+
+* Kristian og Loffen skal i møte med IT-dagene om en time!
+	* De ber om ekslusivitet på IT-dagene. 
+	* Vi disktuerer en del rundt hva vi skal foreslå
+	* Det er enighet om at vi må sikre at vi også får noe igjen for en eventuell avtale. 
+
+## 173 Møteevaluering/Diggepunkt (5 min)

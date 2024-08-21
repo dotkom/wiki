@@ -1,0 +1,273 @@
+---
+title: "Hovedstyrets nå-har-vi-jubilert-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 112)
+
+**Servering og referering:** Andrea
+
+**Vinstraff:** Kristiane (glemte å legge ut offentlig møtereferat)
+
+**Ølstraff:**  
+
+**Tilstede:** Erik, Ingrid, Kristoffer, Håkon, Didrik, Thor Håkon, Andrea, Martin, Kristiane, Petter, Sander
+
+**Mangler:** 
+
+## 197 Godkjenning av innkalling, servering og referat 
+Ja (bortsett fra referat)
+
+## 198 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+* Online-casino  
+Var gøy, bra og koselig. Informasjonsgivingen var kanskje ikke så bra. I hvert fall for første klasse - de trodde man måtte spille med ekte penger. Hadde bedre utstyr enn i fjor.  
+  
+* Julebord på torsdag  
+Hadde daljekveld i går. Alt er good. Vors-invite ruller ut. Har fått mange forespørsler om invitasjonene: arrkom ville sende de senere fordi folk snakker med folk om hvor de skal.  
+Neste gang burde de si at vors-invitasjonen kommer dagen før. Men arrkom synes det er morsomt.  
+Det kan være vanskelig å vite når vorset begynner, men det er forskjellig fra vors til vors.  
+Arrkom skal gi bedre informasjon om tidene.  
+  
+* Adventure of Gløshaugen til søndag  
+Ikke mere enn fem på hvert lag. Abakus er ikke med, men de ville være med neste år hvis vi sa ifra før. Alle postene er klare, må bare forberedes.  
+  
+* Åre  
+To stykker som ikke har betalt - neste uke blir det rom-mail. Møtte abakus-arrkom-sjef og spurte hva de hadde i spons, hvorfor det er så billig for dem. Det er fordi det er midt i uka, det er noe å se på til neste år. 
+  
+* Eksamensfest med Abakus  
+Det kommer mange fra Abakus, nå blir det stort.  
+  
+* Kryssfest = good  
+  
+* Låvefest  
+Skal snakke med Nabla om datoer. I år kan vi kanskje stille med mat, siden Nabla stiller med vin.  
+  
+* Sushikurs (broren til Kasper er flink)  
+Skal prøve å få til det.  
+  
+
+#### Bankom:  
+* Jubileet er ferdig  
+Ikke like store utgifter. Har begynt med medarbeidersamtaler med folk.
+
+#### Bedkom, med ITEX:  
+* Snakker med Netlight om kaffeavtale
+* Prokom skal kanskje lage kopper siden det ble hastebestilling i år
+* Tviler på at det blir samarbeidsavtale med Abakus
+
+#### Dotkom, med appkom:
+* Medarbeidersamtaler er ferdige
+* Satte opp Techtalks server
+* Regme er ca ferdig
+* Overført filene til filserveren
+* Jobber med underholdning til julebordet
+
+#### Fagkom, med ekskom:  
+* Hadde ikke møte denne uka, men siste møte neste uke
+* Jub-kurs med Sopra Steria  
+Litt lite oppmøte, men flere møtte opp enn det de trodde.
+* Planlegger Lightning Talks
+* Leter etter kjøleskap - det er kjølig på Finn (hoho)
+
+
+
+#### Prokom:  
+* Offline kommer snart ut
+* Årboka er sendt mail om
+* Date med readme i dag
+* Åre-t-skjorte er startet på
+* Hadde siste møte forrige torsdag
+
+#### Trikom:  
+* Planlegger juleverksted  
+Får hjelp av Agnete.  
+  
+* Secret Santa åpnet idag  
+Alle må bli med!  
+  
+* Kino  
+Er i boks - påmelding starter snart. Koster 110 kr.  
+  
+* Seriefrokost  
+Går bra. 4 episoder igjen.  
+  
+* Julekalender  
+Vi skal ha poll om hvilken vi skal vise.  
+  
+* Julekonsert med C#  
+Skal hjelpe til der.  
+    
+  
+* Skal begynne med workshops  
+For å planlegge ting til neste semester.  
+  
+* Vil gjøre kontoret til en mindre komité-greie  
+  
+#### Seniorkom: 
+* Møte  
+Nyeste medlem Ivar vil si hei til HS - HS sier hei tilbake.  
+  
+  
+* Valgt Marius som sjåfør  
+Han vil kjøre for alle, alltid!  
+  
+* Diskusjon om utmatrikulering  
+Fikk datoen på denne tiden ifjor - men IME diskuterer det med tanke på fusjonen.   
+De vet ikke hvordan de skal ordne det (skal de ha flere linjer samtidig).  
+De har frist ut januar - ellers må vi ha egen seremoni og da kan det fort bli to seremonier. Vi trenger tid og kan ikke vente lenger enn januar.  
+  
+* HS-opplæring  
+27. januar - HS må sette av den dagen!  
+Evt. 13. januar, siden Martin skal i 90-årslag.  
+  
+#### Leder og nestleder:  
+* Lagd ting til jubileum, vært på jubileum, sovet.  
+  
+* Jubileet er over  
+Fokusere på HS igjen! Yey! Også er det jul.  
+  
+#### ITV: 
+
+
+## 199 Interkom (10 min) 
+* Kristiane: andre enn fagkom og bedkom som bruker tilbakeskjema? Nei.   
+Opplever at folk skriver masse tull. Det spores ikke tilbake til folk.  
+Det er ingen enkel måte å fikse det på. Kanskje man kan sende inn linken på nytt hvis folk sender inn streker?  
+Nå markeres det hvem som har svart uansett hva man har svart.  
+Det er kanskje de samme personene som skriver tull hver gang - og vi sender det til bedriftene.    
+Vi får gode nok tilbakemeldinger, så kanskje det ikke har noe å si.  
+Kanskje den personen ikke har noe spesielt å si.  
+  
+Kravspek til dashboardet kan folk sende inn til dotkom.  
+  
+Dotkom kan lete fram de som har skrevet tullesvar.  
+  
+
+## 200 Kakepunkt
+* Woho! Jeg (Andrea) har laget gulrotkake.
+
+## 201 Appkom
+
+* Det går ikke så bra med appkom, det er vanskelig å bygge på en kjerne som er ustødig  
+Vil gjenopprette det de hadde før - bygge opp komiteen fra bunnen av med 8-9 medlemmer som fast kjerne.  
+De skal jobbe med et mål neste semester.  
+En del gjorde andre ting, kommer ikke på møtet - ikke helt arbeidsmoral.  
+Kan løse med ordentlig opptak - hvor man søker, får intervju.  
+Appkom prøver å være et "alternativt dotkom", man trenger ikke kunne noe fra før av. Det er der deres styrke ligger - og har fått god tilbakemelding for det. Man kan lære.  
+Skal ha lyntaler, for det fungerer bra. Skal fokusere på produksjonsevne og gi noe tilbake til Online - kontorvaktsystemet, f. eks.  
+   
+* Vi ser behovet for appkom  
+Dotkom har ikke kapasitet til å gjøre alt. Og fordi vi er en IT-linjeforening.  
+Har vært løse på prosjektene som folk kan ta, nå vil de heller være strengere og spørre "hva vil dette gjøre for studentene?"  
+Dotkom trenger heller ikke folk som kan noe fra før av - blir da rart å si at appkom er for de som ikke trenger å kunne noe fra før av.  
+Appkom kan stå på egne ben. Det er to forskjellige komiteer som de kan jobbe med.  
+Kjernen - folk som skal møte opp. Det var sånn før, møteplikt og det forventes at du bidrar. Man kan sette en deadline til prosjekter, som kan videreutvikles senere med nye folk.  
+  
+* Dotkom er enig at det er en god idé.  
+Kanskje man kan si at dotkom driver med ting utad, og appkom driver med ting for Onlinere? Blir litt feil med tanke på at dotkom har laget mye for dotkom, notifier er for flere andre studenter.  
+Man trenger ikke ha et skille - har blitt prøvd med trikom og arrkom før og det blir veldig kunstig.  
+Tips for å holde på medlemmer: folk møtes for å ha det sosialt, så det er viktig å jobbe sammen på ting. Teambuilding er også viktig.  
+  
+* Skal appkom rebootes?  
+"Fryse" komiteen. Hadde møte med appkom og sa at de som ville være med og reboote komiteen, gi en innsats, kan være med. Burde la det ligge og fikse problemene de har.  
+Etter de får en sterk kjerne - skal de åpne opp for alle igjen? Hackathon en gang i måneden, kanskje, og gjøre det mer åpent?  
+Det har ikke gått så bra før - kan være at de ikke har hatt kjernen på plass. Når de fungerer som en ekte komite kan de ta opp sånne spørsmål.  
+Dotkom-leder burde ikke ha ansvaret for å dra det igang - ansvaret ligger på Petter. Men han trenger hjelp med oppstartsprosessen for å få 8-9 kjernemedlemmer. Da er han selvsikker på å viderutvikle komiteen.  
+  
+* Vi tenker ekstraordinært opptak etter jul  
+Alle får sjansen til å bli med da. Etter det vet vi ikke hvordan sykel appkom skal ha (kanskje opptak i januar), men det kan vi se etter hvert.  
+Petter vil ha fast opptak til å få folk til å komme med en gang, så det blir en oppstart. Et start-up prosjekt for å få de innført.  
+Diskusjonen om appkoms eksistens vil kanskje havne på genfors. De burde finne noen som er villige til å jobbe for appkom og forsvare de på genfors. Komme seg på bena igjen. Derfor burde de jobbe iherdig neste semester så de har noe å vise.  
+  
+Saken er ferdig - appkom skal bli "fryst".  
+
+## 202 Fond
+
+* Vi skal legge inn penger på en konto som lever på rente
+Hva slags type konto skal vi gå for?  
+Det vi har idag er bedriftskontoer som ikke er så gode.  
+  
+* Plasseringskonto  
+  
+* Fastrenteinnskuddskonto er best  
+Min 25k, max 8 mill. Binding i ett år. 1,7 i rente.  
+  
+* Vi burde se på mulighetene utenfor bank også  
+  
+* Burde spare til fond for fremtiden - en konto med høy rente  
+Dette blir Hajems prosjekt til januar for å sjekke hvor mye vi kan spare i måneden.  
+Kanskje akskjefond?   
+Vi må finne forvalteren som gjør en god jobb. Dine Penger rangerer aksjefond som vi kan se på, så tenke på til genfors.  
+
+## 203 Forespørsler som har kommet på e-post (5 min) 
+
+  
+* Juleutfordring fra abakus  
+Blæste i komiteen og på facebook om at vi konkurrerer med abakus.  
+  
+* Juleverksted i realfagsbiblioteket  
+Erik svarer.  
+  
+  
+* Realfagskjelleren søker om støtte fra linjeforeningen  
+De ser på alternativer fordi leie er 3500 på Moholt, mens Nardo er 6k.   
+SIT vil at alle skal slå seg sammen.  
+Online har mye penger, Volvox har ikke så mye.  
+Vi kan kontakte de andre linjeforeningene om hva de vil sponse.  
+Hvor mye penger har vi å sette av til dette? Kjelleren må bestå.  
+Det blir ca 19000 i året, og det burde vi ta oss råd til i budsjettet.  
+Men de spørs på hva de andre linjeforeningene kan gi.    
+Kjelleren drives lovlig og da kan de ta mer penger for egen drift.  
+Drikkene blir dyrere, men de vet ikke hvor mye.  
+Det blir heller ikke lov å selge 40% sprit.    
+Vi kan være villige til å stille med 20k, så kan vi diskutere med de andre linjeforeningene om fordeling av penger.  
+Men først må det bli en genfors-sak. THB svarer på mail.  
+  
+  
+* Ada  
+Sander svarer om arrangementer vi har til høsten  
+  
+  
+  
+* Vi ble kastet ut av IDI og måtte flytte oss.  
+  
+  
+* Informasjonsmøte om ph.d-utdanning  
+Sendt mail.  
+  
+## 204 Ukens infomail og Facebook (5 min)  
+
+* THB legger ut ting på facebook. Mandag: Star Wars
+* Juleverksted skal ut
+
+## 205 Eventuelt (10 min)
+* Julekortbilde  
+Ide: sitter på work-work og tar portrettbilder i stolene, gruppebildet mens vi spiller spill.  
+Det blir på torsdag 24. november kl. 12.  
+Kleskode: Dress og kjole uten daljer, m/ pin til profilbilder.  
+Andrea kontakter Work-Work om å spørre å komme.  
+Gruppebildet skal være hyggelig med joviale klær. Strikka genser, for eksmpel.  
+  
+* Medarbeidersamtaler  
+THB tar de, så det blir én og én. Vil ta det på løpende bånd.  
+Doodle om 21. november.  
+  
+* Kort møte neste gang. Folk er nesten ferdige med møtene sine til neste gang.  
+  
+* Vi vil ha ny stumtjener på kontoret - for den vi har nå faller ned.  
+  
+* LOTT-dalje  
+Alle må skrive ned i wikien om hvem som skal dalje.  
+THB skal dele ut med hjelp fra Erik.  
+
+  
+
+## 206 Møteevaluering/Diggepunkt (5 min)
+* Langt møte.
+* Digger jubileet! Digger jubkom.
+* Digger kaka til Andrea
+
+## 207 Gjøremål
+* Didriks punkt om Nova skal tas opp neste gang
+* Andrea spør work-work om vi kan komme

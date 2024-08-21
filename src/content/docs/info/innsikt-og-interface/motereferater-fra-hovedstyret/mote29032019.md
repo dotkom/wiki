@@ -1,0 +1,210 @@
+---
+title: "2019-03-29"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** 054
+
+**Servering:** Økonomiansvarlig
+
+**Referering:** Arrkom
+
+**Vinstraff:** 
+
+**Ølstraff:**
+
+**Til stede:** Ole Anders, Johannes, Alis, August, Bjerke, Kaja, Emil, Jakob, Aslak, Lofsberg, Pål, Adrian, Aursand, Christian, Silje, Julie, Sigrun, Amundsen, Mathias, Henrik  
+
+**Mangler:** Benedicte, Endre, Hanne 
+
+- - -
+
+[TOC]
+
+- - -
+
+
+## Innsjekk (14:15 - 2 min)  
+
+
+## 028 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)  
+
+
+## 030 Status for komiteene (14:20 - 20 min)
+
+#### Arrkom, med velkom: 
+Hatt vårfest, gikk både veldig bra og veldig dårlig!  
+
+##### Velkom:
+Samarbeider med andre foreninger for Pirbadet.  
+
+#### Bedkom, med ITEX:  
+
+Tur til oslo for å prate med bedrifter om bedpres  
+
+Ser etter sponsor til fadderukene  
+
+
+##### ITEX:
+
+
+#### Dotkom:  
+Hatt underholdning, gikk bra, men litt hickups.  
+Konsepter til onboarding av nye studenter  
+fungerte veldig bra med kursing fra Knowit  
+
+#### Fagkom, med ekskom:  
+Oslotur. Mange gode tilbakemeldinger, se referat.  
+Idémyldret for bedre tilbakemeldingsskjema.  
+
+
+##### Ekskom  
+
+Har sendt kontrakten.  
+møte etter genfors.  
+
+#### Prokom: 
+Andreutkast til Offline leveres søndag.  
+Nominering til Gullblekka.  
+Jobber med å kjøpe stativ.  
+
+#### Trikom: 
+Vært med å arrangere pirbadet med arrkom.  
+Handlet.  
+Laget vafler.  
+Diskutert kontorets retningslinjer.  
+Planlegger møte med velkom for bruk av kontoret i fadderukene.  
+Planlegger påskekos.  
+
+
+#### Seniorkom:  
+
+ Jobber med å rydde opp i interessegruppene.  
+ Finne folk til utmatrikulering.  
+ De som arrangerer er ikke i byen når det arrangeres.  
+
+#### Leder og nestleder:  
+##### Nestleder:
+
+Ordnet dato til SiT-kurs.  
+
+##### Leder:
+
+Møte med karoline i Abakus  
+Aslak på møte med Krogsti angående samlokalisering.  
+
+#### Økonomiansvarlig, med bankom:  
+
+Søkt IE om edrufadder.  
+
+##### HS: 
+
+##### Bankom:
+
+Satt opp nye tilganger og rettigheter til de nye bankommerne.  
+Online IL intervjuer i dag tidlig.  
+Resten av intervjuene blir like før påske.  
+
+#### ITV: 
+
+Velge nye ITVer og FTVer.  
+Neste uke blir det stemming.  
+Rom i A4 som blir låst hele tiden.  
+Abakus klager mye på piano i Realfagskantina.  
+
+#### Samlokaliseringsrepresentant:  
+Samlokaliseringsmøte neste torsdag.  
+Kalvskinnet får plass i 2. etasje.  
+Cybele skal flyttes.  
+LG-møtespørsmål: hvordan gjør Online det med internasjonale studenter?  
+_August svarer at de har rådført seg med Krogsti og velferdstinget, så det håndteres._    
+
+MMI flyttes til førsteklasse for data.  
+#### RFK:  
+_Ikke til stede._  
+
+## 031 Interkom (14:40 - 10 min)
+
+De som er økans i komiteer skal få mindre arbeid å gjøre innad komiteen så de kan fokusere på bankom.  
+
+## 032 UKE-toget (14:50 - 10 min)
+[Aslak har et siste ønske om å få snakke litt om UKE-toget. Vi burde sette ned en gruppe som er gira på å få dette igjennom]
+
+Nye UKA-sjefen kom innom og snakket om hvordan UKA skal være. UKA-toget har vært en parade med flåter der linjeforeningene har innslag. Nå skal det skje igjen.  
+Kommunen med på laget.  
+Første lørdagen i UKA.  
+Ikke lovlig drikking i toget, men etterfest.  
+Hatt litt workshops med linjeledere om hvordan det kan gjøres.  
+Forslag om å ha en byggegruppe som begynner bygge, som bør tas opp nå. Byggegruppen lager flåte, og hele Online blir med å flåtegang.  
+Sammarbeid mellom de forskjellige byggegruppene slik at de kan dele ideer.  
+Litt usikre på om kommunen gir lov til å sette opp hva som helst på torgetm, men bygge-folka er klare til å bygge.  
+Dette må kickes i gang, trenger at Online er gira på det.  
+Kan søke fond om det, vi har ressurser til å gjøre noen fete greier.  
+2-3 stykker som kan lage et opplegg.  
+Vi burde ikke være den linjeforeningen som ikke stiller opp med noe fett rabalder.  
+_August foreslår at alle tar dette opp på møtet sitt._  
+Sigrun: Bør det ikke blæstes for resten av Online også?  
+Emil: Hvor lang tid tar det? Kan vi ta opp etter sommeren?  
+Aslak: Noen bør starte tenke allerede nå.  
+Silje: Vi kan jo ha opptak på både dette og Revy samtidig som komitéopptaket.  
+Henrik: Jeg synes det hadde vært kult om vi fant én som kunne startet, som kunne blæstet og dratt det hele i gang.  
+August: Noen burde i hvert fall settes ned før sommeren, så kan resten av byggingen tas etter sommerferien.  
+Kommentar fra Abakus at de har tenkt på en ny ordning for opptak, med opptak etter opptak for å fange flest mulig. Kan diskuteres mer rundt opptaksperioden.  
+Aursand: Bør finne to personer som kan starte med dette.  
+
+## Pause i 5 minutter (15:00 - 5 min)
+
+
+## 036 Profilering av Online (15:25 - 10 min )
+[Å bruke sosiale medier til å profilere linjeforeningen vår, i tillegg til å gi omverdenen en sjanse til å se hva vi driver med i Online, synes jeg er viktig. Folk som skal søke studie tror jeg har stor glede av å få ett innblikk på alt det morsomme vi gjør. Etter eksponeringsgruppa døde ut tenker jeg det er på tide å finne frem til en annen løsning. ]  
+  
+_Alis gir en introduksjon til saken._  
+
+Henrik: Det startet da forrige HS begynte nærme seg slutten. Jeg skulle lede denne gruppen, hovedsakelig var ansvaret å få ting ut på media og andre oppgaver prokom har tatt på seg som ikke faller direkte under deres domene. Slik det endte opp ble det mange tanker og mye prat, men døde etter at jeg ga meg der. Var litt aktivitet i fadderukene.  
+August: Jeg hadde en idé om hvordan man kan forsøke ekspogruppa på nytt. Gjør som bankom, at en person fra hver komité stiller som SoMe-ansvarlig og møtes i ekspogruppa, med en leder av den. Da får man kanskje litt mer innblikk i hva hver komité har lyst å få frem. For at dette skal funke må det ikke være en sånn "Hvem vil gjøre dette?" og så rekker ingen opp hånda. Det må være noen som virkelig har lyst til å gjøre dette for å sette kultur og retningslinjer.  
+Alis: Jeg tenkte denne uka så hadde jeg ansvar for IDI sin instagram. Det jeg tenkte da var å ha en ansvarlig for hver komité, men kanskje rullere det. Én person som har ansvar for å poste går jo. Føler det fint kan bli rullert på.  
+Amundsen: For eksempel i fagkom kan vi ta bilde av mat og drikke, og gi et godt bilde utad om at kurs er gøy.  
+Henrik: Vi må ikke glemme interessegrupper! Nå prater vi om at det skal være en fra hver komité, men det setter interessegrupper litt til side.  
+Alis: Det kan jo løses ved å gi kontoen til interessegrupper for en dag f.eks.  
+Henrik: Av erfaring fra instagram som ble brukt forrige vår så måtte man egentlig ha en oversikt over alle arrangementene og ha peiling på når de holder på. Å fordele ansvaret bør gjøres, ta kontakt med personer som faktisk skal være på arrangementet.  
+Sigrun: Blir litt samme som Henrik sier, men ja, man må bare få en oversikt over alle arrangementer og fordele ansvar for hvem som skal kontakte videre.  
+Emil: Kan prøve så godt man kan å ta litt bilder og lage en oppsummering av arrangementet. Kanskje sette noe minstekrav på hvor ofte vi skal ha aktivitet.  
+Alis: Det viktigste er nok å lage en retningslinje/plan så man kan få det ut på dagen, som vi sender til den vi ber om assistanse fra på arrangementet.  
+  
+August: Henrik, hva gikk galt med ekspogruppa?  
+Henrik: Litt for mye ansvarsområder som ble gitt på én gang. Tror man må holde det til smått om gangen, og ta det derfra. Tror det var der det krasjet mest, med for store planer med en gang.  
+Alis: På starten kan vi også ikke være så strenge på tidsfrister, etc.  
+Amundsen: Kunne vi kanskje hatt plakater for å promotere instagrammen?  
+August: Hva med et sted folk kan sende inn bilder?  
+Amundsen: F.eks. Slack?  
+Jakob 👉✋: Slack er ikke GDPR-compliant.  
+Mathias: Prokom har et bildearkiv på Dashboard, som kunne brukes.  
+_Henrik spøker med at dotkom kan lage serverless app for bilder._  
+Ole Anders 👉✋: Vi hadde faktisk tanke om å ha galleri, det har blitt jobbet med før, men aldri ferdigstilt.  
+August: Vi setter oss et mål om at vi skal poste noe en gang i uken, og lage en epost hvor folk kan sende inn. Og vi bidrar mye i starten for å lage kultur.  
+Kaja ❓: Hvem skal ta ansvar? Vi? Gruppe? Velge noen?  
+Amundsen: Bilde på mail er litt høy terskel. DM.  
+Alis: Den som har ansvaret kan jo ta bilde, så slipper vi å finne ut at alle sier ja, etc. Så kan de selv garantere at det er lovlig.  
+Adrian: Hva om dere i HS rullerer med ansvar så kan dere delege innad selv. Ekskursjonen burde legge ut ting!  
+Aslak 👉✋: Det har vanligvis blitt gjort.  
+Henrik: I fjor hadde ekskursjonen tilgang til instagramkontoen. I år har de laget en ny, men kan gjerne bruke vår!  
+Emil: Jeg har tilgang til kontoen og poster fra Portugal.  
+Sigrun: Ideen til Adrian var veldig god, én uke hver hos oss burde vi klare.  
+Alis: Enig med Adrian, god idé! Så kan vi ta en midtveisvurdering om vi trenger en á la bankomgruppe eller ei.  
+Sigrun: Om jeg har ansvaret, kan jeg gi det videre? _Mhm, nikking_  
+Loffen: Vil anbefale å bruke Story-funksjonen.  
+Emil: Vi brukte Story i Hoddevik, men telefonene tålte ikke vann.  
+Sigrun: Kan vi poste så mye vi vil? _Ja_
+
+_Saken rundes av med at én ting skal ut i uke, August lager liste over hvem som har ansvar hvilken uke_  
+
+
+## 037 Epost (15:40 - 15 min)
+
+## 038 Eventuelt (15:35 - 5 min)
+
+
+## 039 Møteevaluering/Diggepunkt
+
+Møte hevet XX:XX

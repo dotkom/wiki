@@ -1,0 +1,226 @@
+---
+title: "Møte 02.10.2018"
+---
+
+**Møtetidspunkt:** 08.15
+
+**Sted:** 054
+
+**Servering:** Pål
+
+**Referering:** Johannes
+
+**Vinstraff:**
+
+**Ølstraff:**
+
+**Til stede:** Adrian, Johannes, Sander, Pål, Jakob, Endre, Aursand, Christian
+
+**Mangler:**
+
+
+- - -
+
+[TOC]
+
+- - -
+
+## Innsjekk (08:15 - 4 min)
+
+## 156 Godkjenning av innkalling, servering og referat fra forrige uke (08:19 - 1 min)  
+
+ - Godkjent
+
+## 157 Status for komiteene (08:20 - 20 min)
+
+#### Arrkom, med velkom:  
+
+  - Blåtur ferdig
+     - Småtull med buss, men meste good  
+  - Økonomisk blir det dyre ting i år
+     - Jobbes med å prøve pushe ned årepriser
+
+#### Bankom:
+
+ - Så litt feil på representasjon fra i fjor, men ordnet seg.
+ - Vært på regnskapskurs.
+    - Vi gjør alt riktig unntatt én ting.
+    - Vært på det før
+    - Nye økoansvarlige er ivrige og flinke.
+ - Var ikke på forrige møte, men August sa det gikk bra.
+
+#### Bedkom, med ITEX:
+
+  - Bookingrunden starter i dag med infomail.
+  - Planlegger Oslotur.
+  - "Kødda litt rundt" med linjesamarbeidet.
+    - Startup som pitcha på forrige møte hva som kunne gjøres bedre.
+  - Hatt noen bedpresser, gått som regel bra.
+  - Trenger nok blæste mer fremover.
+     - Planlegger blæste før eventet åpner.
+
+
+#### Dotkom:
+
+  - Holdt på med utrolig bra opplæring!
+  - Mange gjennom 2-3 issues.
+  - Begynt på issue 1209.
+     - Handler om alt hvordan OW håndterer komiteer.
+     - Tar nok litt tid, så andre prosjekter settes litt på is.
+     - Trengs for at videre arbeid skal bli lettere.  
+  - Skal ha teambuilding med Abakus.
+     - Se på felles infoskjermer.  
+
+#### Fagkom, med ekskom:
+
+  Fagkom  
+
+  - Endelig begynt med kurs!
+  - Kurs med Capgemeni gikk bra.
+  - Ellers driver vi ikke med så veldig.
+  - Skal ha Git-kurs m/Loffen, blir nok på en søndag.
+  - Fått request på Coding in the dark fra Trikom.
+  - Endre kontaktet om fotokurs neste semester.  
+  - Hyttetur til helgen  
+
+  Ekskom  
+
+  - Hatt møteworkshop.
+  - Loffen usikker på om han får booka auditorium til TechTalks.
+     - Ser etter nytt format
+  - Ønsker flere bedrifter visstnok.
+  *Adrian og Aursand diskuterer bedriftssituasjonen fra i fjor.*  
+  - Tenker kanskje dra inn IDI for booking av auditorium og rom.
+
+#### Prokom:  
+
+  - Produktiv brekkehelg.
+  - Aller fleste fått seg Adobe-lisens.
+  - Kurs gjennomført.
+  - Solgt rett under 10 gensere.
+  *Nyvoll promoterer genseren, og liker både pris og kvalitet*
+  - Årboka, som vi er _litt_ sent ute med, skal bestilles opp.
+
+
+#### Trikom:  
+
+  - Vi skulle hatt et nytt kjøleskap for ca. 2 uker siden. Ikke kommet. Pål er _meget irr_.
+     - Får gratis frakt fordi det ikke har kommet.
+  - Begynner fastsette datoer.
+    - Skal ha to varmmatsarrangementer.
+    - Blir kino i november.
+  - "Seriefrokost er i gang. Håper det går.", sier en lattermild Pål.
+  - Vi mangler kopper!
+  *Pål ser på Adrian. Adrian beroliger Pål med at kopper er bestilt. Pål roer seg ned*.
+
+
+#### Seniorkom:  
+
+  - Interessegrupper er det mye interesse rundt.
+    - Folk søker om penger, så vi den potten blir mest sannsynlig tom.
+    *Endre gir eksempler på hva som har blitt gitt ut av spenn. HS synes det hørtes innafor ut.*
+  - Starter opp med prosjekter nå!
+    - Skal forbedre Nibble.
+    - Almankaas vil oppdatere ny Webshop.
+    - Andrea vil lage revy eller begynne å rense opp wiki
+    - Ingrid vil lage oversikt over muligheter for folk som ikke kom med i komité
+    - Carlo vil prøve forbedre samarbeidet med Hackerspace.
+
+#### Leder og nestleder:
+
+Leder:  
+
+  - Aslak er fyllesyk.  
+
+Nestleder:  
+
+  - Loffen ligger langflat på en gressplen i Miami.  
+
+#### ITV:  
+
+  Endre forteller da ITV ikke er her.  
+
+  - Hatt opplæring.  
+  - Ser på saker med fag.  
+  - Ser ut som vi får hele A4. Vi antar det løser seg til neste semester.  
+  - Bjerke vil ikke jobbe med masterendring.  
+     - PTV eller FTV tar dette.  
+
+#### RFK:  
+
+  - Hatt inn/ut.  
+  - Nå åpner vi for booking av kjellern til linjeforeningene våre!  
+     - Sier nei til andre enn oss 4.  
+     - Book i forveien.  
+     - Studorg som har mye connections til linjeforeningene er good.
+       - F.eks. CasualGaming.  
+
+#### Samlokaliseringsrepresentant:  
+
+  Er ikke her. Endre forteller.  
+
+  - Linda, nye samlokdama, fikser helt villt mye. Hun er on fire.  
+  - Infoskjermene tas av Guru sammen med Prokom og PR?  
+
+
+## 158 Interkom (08:40 - 10 min)  
+
+### Savnede strømkabler  
+
+ - Fagkom har sendt mail.  
+ - Pål sier 2 brukes på kontoret.  
+ - De skal lete.  
+
+### Offlinestativet  
+
+ - Stativet vi hadde på Tyholt er borte.  
+ - Pål claimer at det ble satt utenfor kontoret 10. August.  
+ - Endre lurer på om ikke arbeiderne som jobbet i området kan ha kastet det.  
+
+### Blæstemøtet  
+
+ - Facebookbanner ble snakket om.
+ - Hvem skulle fikse dette?  
+   - Hanne sier de kan ta det om ikke expogruppa tar det.  
+ - Hanne sier prokom prøver lage en mal og tar det frem til expogruppa kan ta over.  
+ - Oversiktsplakat kommer, fått muntlig bestilling.  
+  
+
+## 160 Eventuelt (09:55 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+
+### Handling  
+
+  - Pål m/Trikom glemte inkludere fagkom i handling.  
+  - Aursand m/Fagkom fikser selv, det går greit.  
+
+### Diskusjonskveld  
+
+  - Jakob har spurt.  
+    - Dotkom var uinteressert.  
+  - Aursand og Kvamme har glemt å spørre.  
+  - Adrian sier han ikke tror det ikke kommer inn noen saker fra komiteer.  
+
+### Inflasjon  
+
+  - Arrkom merker prisøkning.  
+  - Fagkom og bedkom så på det forrige gang de lagde priser.  
+  - De skal tenke på det til neste gang også.  
+
+### Årebuss  
+
+  - Arrkom ser på priser og hører hva Abakus får av Tihlde.  
+  - Adrian vil ha russebuss istedenfor buss.  
+  - Christian mener vi seriøst bør ta opp med Økokrim om det er tydelig prisøkning/-fiksing.  
+  - Arrkom har en teori om at prisøkningen kommer av at vi har flytta tiden til samtidig som russen.  
+
+  *Endre minner om at seniorkom kan ta byller eller andre problemer komiteer ikke vil.*  
+
+
+  *Folk må svare på Doodle, innen dagen er over.*
+
+
+## 161 Møteevaluering/Diggepunkt  
+
+  - Mye surr fordi lite punkter, men det går fint. Det var gøy.  
+  - "Digger at det er minusgrader ute.", sier Adrian. *Fuck det tenker alle andre.*

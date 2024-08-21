@@ -1,0 +1,211 @@
+---
+title: "Møte 2018-04-20"
+---
+
+**Møtetidspunkt:** 08.15 (rom 054)
+
+**Servering:** Aslak
+
+**Referering:** Loffen
+
+**Vinstraff:** Aursand, ikke lest innkalling
+
+**Ølstraff:**
+
+**Tilstede:** aaursand, echo, black mamba, Kasper, tarzan, J-West, The Ream Slim J, swie, loffen, preference
+
+**Mangler:** Pål
+
+## Gjøremål
+[Her skal alle gjøremålene som kommer opp i løpet av møtet skrives ned, slik at det er enkelt å sjekke hva man må gjøre i etterkant av møtet. Referent har ansvar for å skrive inn her etter møtet.]
+
+- Johannes svarer Tord om roskilde
+- Hanne og Aursand begynner på brev til nye studenter
+- Alle snakker med komiteene sine om opptaket til høsten
+- Aslak setter opp slackbot for infomail
+
+## Innsjekk (08:15 - 4 min)
+[Hvordan har dere det?]
+
+Folk har vært på hardfylla. ChocoPops <3
+
+## 051 Godkjenning av innkalling, servering og referat fra forrige uke (08:19 - 1 min)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+Nei, kan godkjennes ved oppretting av mangler som er påpekt.
+
+## 052 Status for komiteene (08:20 - 30 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom og jubkom:
+
+Arrkom:
+
+- Må tygge ferdig
+- Krangler fortsatt med Skistar
+- Purra på låvefestsøknad til IDI, ikke fått svar
+- Snart reball og tur til kobberdammen
+
+Velkom:  
+
+- Intet nytt
+
+#### Bankom:
+
+- Lagt inn onlinepott på wiki
+- Fikset kort til velkom
+- Ringt DNB, leder må gjøre det. Loffen skal kjefte
+- Stort møte med trikom og dotkom. Mer kontroll på kiosken med automatisk føring
+- Betalt jubileum
+
+#### Bedkom, med ITEX:
+
+- Hadde bedpress i går som gikk bra. 
+
+ITEX:  
+
+- Alt klart for ITEX
+
+
+#### Dotkom:
+
+- Hadde møte på onsdag
+- Diskuterte sinnsykt mye
+- Folk liker kioskløsningen som har blitt diskutert
+- Diskutert GDPR og hvordan Online skal løse dette
+- Ting går greit, men mye å gjøre
+
+#### Fagkom, med ekskom:
+
+- Hatt kurs, gikk bra
+- Teambuilding med Bedkom var gøy
+
+Ekskom:  
+
+- Hadde infomøte, virker som Kina er populært. 
+
+#### Prokom:
+
+- Har gjort ferdig flyer til nye studenter
+- Venter på siste bilder til årbok
+- "Fint om alle kan ta ei litta runde med venna" 
+- Nye Offline kommer snart
+- Fikk ferdiggjort promoen
+
+#### Trikom:
+
+- Snakka med koskom om kontoret, de er veldig positive
+- Kaffemaskinen vår og kaffe skal ned.
+
+#### Seniorkom:
+
+- Intet nytt
+
+#### Leder og nestleder:
+
+- Psykt vanlig uke var denne uka
+- Inn/ut var gøy
+- Var innom dotkom sitt møte
+- Aslak har maila med IDI ang stillingsannonser på innsida.
+
+Semestermøtet:  
+
+- Aslak hadde en monolog om PU.
+- Ang rom, så ble det foreslått å åpne mastersaler og guru i juni.
+- Referansegrupper funker ikke
+- Reakridering av Noku, alle studieprogram må gjennom dette.
+- Nye programmer kommer fra 2019/20
+- Guru lurer på om studentene vet hvem de er.
+
+#### ITV:
+
+- Vært semestermøte
+- Det skal bli tatt opp retningslinjer for PTV. 
+- Ellers ingenting
+
+#### RFK:
+
+- Hatt stengefest i barehagen og drukket alt. Kan ikke ha gått bra
+- Pusser opp, de er lei.
+- Kjellerens farger er grønn, grønn, grønn og blå
+
+#### Samlokaliseringsrepresentant:
+
+- Skal på befaring på enda et nytt sted. 900 kvm på Tyholt
+
+## 053 Interkom (08:50 - 10 min)
+[Her skal saker som angår tre eller flere komiteer]
+
+- Plakater (Loffen)
+Henger masse plakater rundt omkring. Folk må ta ned plakatene sine. Hang en LT-plakat på do.
+
+## Fem minutters pause klokken 09.00.
+[Flyttes (punktmessig) dersom vi er kommet lenger i sakslisten innen 09.00]
+
+## 054 Buddyssystemet (09:00 - 5 min)(Endre)
+[Dette er et nytt tilbud til de som sitter i HS, en mulighet til å få en samtalepartner man kan snakke med om alt uten at andre får innsyn i hvem man snakker med eller hva man snakker om.]
+
+Ny ting som seniorkom i samarbeid med xHS har om et lavterskeltilbud hvor man kan snakke med tidligere folk i tunge verv når man vil prate. Du kan prate om alt og ingen vet hvem som har hvilken buddy. De har taushetsplikt. Det har noen ganger vært krevende å være i HS, så folk får mail i helgen med liste over folk og info.
+
+## 055 Komitéopptak (09:05 - 10 min)(Loffen)
+[Problemene vi har i dag. Mulige løsninger. Begynn å tenk tall.]
+
+- Johannes: I orakel setter de 5 stk sammen med leder i en ansettelseskomite som får lese søknader. 3 av disse er alltid på intervjuer.
+- Prioritering av kandidater innad er dårlig stemning. 
+- Kanskje ikke noe galt med å outsource opptaket? 
+- Kanskje la komiteene ha egne intervjuer? Det må i såfall koordineres og det må være føringer på spørsmål.
+- Aslak har sett problemet med de to ukene, det er vanskeligere å ta tiden til komitemedlemmene.
+- Se på en hybridløsning mellom orakel og komitéspesifikke intervjuer? 
+- Folk tenker på det, vi tar det opp igjen neste uke.
+
+## 056 Avgjørelser utenfor møter (09:15 - 10 min)
+[Vi må balansere det å være agile og kunne reagere fort mot det å ikke haste i gjennom beslutninger uten å tenke oss om. Hvordan gjør vi dette? Send ordet "Frekk svane" til Aslak om du har lest denne agendaen, for å unngå vinstraff]
+
+- Liten diskusjon om å ta avgjørelser utenfor møte. Vi må ta riktige valg, men må kunne være smidige.
+- Dette gjelder særlig saker med pengeverdier hvor folk står på butikken.
+- Hvordan skal vi håndtere sånne saker utenfor møter?
+- Det er veldig viktig at avgjørelser ligger på mail og diskuteres skikkelig.
+- Maks 1000? Ja, 1000 er greit, men økans må si vi har rammer til det.
+- Aslak forelår at det absolutte taket settes til 2,5k. 
+- Vi må ha 2/3 flertall for å innvilge noe utenfor et møte. 
+- 6 stemmer for og Christian må ha vært innvolvert.
+
+## 057 Slack vs epost (09:25 - 5 min)
+[Hva kan vi ta på Slack, hva må på epost. Og hva gjør vi når viktige diskusjoner er tatt på Slack.]
+
+- Er en problematisk greie til enhver tid. 
+- Slack er veldig bra for raske diskusjoner, men gjør at vi ikke bruker epost.
+- Folk tar seg mer tid for mer veltenkte svar på epost.
+- Hva kan vi ta på slack og hva må på epost?
+- Avgjørelser som ikke krever hastebehandling?
+- Lite lyst til å kvele innspill fordi de må på epost.
+- Vi foreslår at vi keep going og blir flinkere til å sende konklusjoner på mail.
+- Vanskelig å bestemme overordna hva man tar, men folk bør være flinkere på å ta diskusjoner på epost-tråder som kommer inn.
+
+## 059 Brev til nye (09:35 - 5 min)
+[Vi må fordele ansvar for å skrive følgebrev til pinnen.]
+
+- Snakk om følgebrevet til pinen. 
+- Hvem vil skrive på dette? Vi crowdsourcer, men noen må ta ansvaret.
+- Aursand og Hanne starter på den.
+
+"Hvis de klirrer for mye, må du løpe andre veien" - Aslak 2018
+
+## 060 Forespørsler som har kommet på e-post (09:40 - 5 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evalurerer hva vi gjør med de.]
+
+E-eposter gås igjennom
+
+## 061 Ukens infomail  (09:45 - 5 min)
+[Hvem poster hva, og når?]
+
+- Aslak setter opp slackbot for dette og saker.
+
+## 062 Eventuelt (09:50 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+
+## 063 Møteevaluering/Diggepunkt (09:55 - 5 min)
+[Hva var bra og hva var dårlig? Alle må si minst en ting]
+
+- Jakob digger

@@ -1,0 +1,192 @@
+---
+title: "Møte 14.09.17"
+---
+
+**Møtetidspunkt:** 14. september 12.15 (KJL21)
+
+**Servering og referering:** Aslak
+
+**Vinstraff:** Edvard
+
+**Ølstraff:**
+
+**Tilstede:** Emil, Taran, Henrik, Aslak, Erik, Hege, Endre, Martin, Peter, Christoffer, Edvard,
+
+**Mangler:** Didrik(ferie)
+
+## 074 Godkjenning av innkalling, servering og referat
+Godkjent
+
+## 075 Status for komiteene (30 min) (delvis åpent)
+
+#### Arrkom, med velkom:
+Satt nye i jobb, alle nye har fått ansvar. Prøvd å få til edruarrangement under UKA 
+Det meste av datoer satt nå. Har blitt sendt litt mail til andre komiteer for å hindre crash.
+Velkom: Skal ha møte for erfaringsskriv snart.
+Det blir åre 14.-18.
+Er det budjsettert med en ekstra dag? Må gå over det nøyere.
+
+#### Bankom:
+Vi har hatt møte, og økonomiansvarlig fra Tihlde var med. Ny øko ansvarlig fra prokom, det funket.
+Styretvorset vårt er betalt. Bjerke har vært på regnskapskurs, som var ganske unyttig.
+Momskurs kommer. Frist om 3 uker til å ha ført alt.
+
+#### Bedkom, med ITEX:
+Fått inn noen nye interessenter på HSP. Pusher nye inn i arbeidsoppgaver, alltid minst en ny. 2 nye som skal ha hver sin bedpres nå. EY og Capgemini gikk fint. 10k kaffekopper er på vei. Må unngå dobbelt opp med kopper og slikt.
+Skal på hyttetur 10-12. november.
+Aarsnes sitter i linjesamarbeidet.
+ITEX: har opptak nå.
+
+#### Dotkom:
+Teambuilding neste helg. De nye er godt i gang med opplæring.
+
+#### Fagkom, med ekskom:
+Skal ha møte med abakus neste uke for å planlegge eksamenskurs o.l. Skal velge folk til oslotur neste uke.
+Ekskom: Har ett nytt medlem, trenger fler.
+
+#### Prokom:
+Har hatt møte fredag og tirsdag. På fredag fikk folk gjort en del. Folk er i filområdet, taushetsplikter levert. Fått masse nye titler blant de nye prokommerne. Planlegger teambuilding, middag på tirsdag og hyttetur i starten av november.
+
+#### Trikom:
+De tenker også å edruarrangement under UKA.
+Seriefrokost tirsdager kl 10. Vil arrangere code in the dark igjen, snakker med fagkom om dette.
+Bymarka 29.-30. ligger arrangement på OW.
+Har tenkt til å handle i begynnelsen av oktober. Fagkom må kjøpe brus selv.
+Hyttetur i begynnelsen av november.
+
+#### Seniorkom:
+Tran og Margit driver med komitekickoffet. Fikser folk som skal snakke og slikt.
+Skal HS være der tidlig? Nei, ikke med mindre dere skal si noe mer.
+Forrige torsdag, møte med de nye folka. Snakket litt om hva folk ville. Noen (TM) ville lage en masterfest. Prøver å unngå å bli komiteen for master, kanskje det ikke er så ille. Det kan hende de søker litt penger til en sånn fest.
+
+#### Leder og nestleder:
+Didrik er på ferie, men har jobbet masse med kompileringen. Tirsdag var linjeledermøtet. Prorektor for utdanning, dekan for IV fakultetet og leder for kommunikasjonsavdelingen på NTNU var der og snakket om saken.
+Dette er ting som arrangeres av linjeforeningen, så de kan ikke gjøre noe med det. Men de ønsker at vi tenker over hvordan vi blir fremstilt i media. Vil ha mer fokus på det som er bra med linjeforeningene. Media vil bare ta tak i det som er negativt, men der vi har muligheten burde vi bruke det. Ellers så vil de at alle skal tenke over hvordan opptaket er. Vi burde se på hva som er onlines verdier, og hvordan de gjennspeiles i kompileringen.
+De likte ikke maktsymboler og ydmykelse, spesielt for folk som kommer fra andre symboler kan dette være et problem.
+Likte ting som å dytte en bil fra intimen til hovedbygget. Bare tungt, ikke noe ydmykelse.
+
+Snakket om mailinglistene, mye skryt, litt problemer. Dette har i hovedsak blitt ordnet.
+
+En linjeforening hadde mistet en god del utstyr som var blitt lagret i noen låste skap. Vi må være obs på hvor vi lagrer utstyr.
+
+Samlokaliseringen ble også tatt opp på dette møtet. Informasjonsinnsamling er på gang.
+
+#### ITV:
+Snakket med mange folk rundt omkring på NTNU i sammenheng til Samlokaliseringen.
+Det er også litt greier rundt ExcITed. De har booket saler på fredager.
+Det er synd at de ikke har sagt ifra, ITV eller instituttleder hadde blitt informert.
+De tar 2 saler en hel dag. Dette er spesielt smertefult fordi eksamenskontoret har tatt femte etasje.
+
+
+#### Realfagskjelleren:
+Har fått god start i fadderukene, bedre enn i fjor. Slitt litt med at folk må ha kurs.
+Kickoffet kommer til å gå bra. Har tatt opp 2 nye nå. Og kommer til å ta opp en til til jul.
+
+## 076 Interkom (10 min)
+En del førsteklassinger som gikk rundt med daljer på immballet. Det er uheldig, men ikke krise.
+
+Ikke alle titter på budsjettene når vi gjør ting. Vi må se litt mer på det. Vi har tight budsjett i år.
+
+Det har kommet forespørsel om å skrive produktarket på engelsk. De relevante komiteene må levere dette inn innen neste uke.
+
+Onlinekalenderen blir oppdatert med en gang bookingrunden er over. De har sittet der siden april. Det eneste som kommer inn fortløpende er type ITGK-kurs og slikt. Folk blir flinkere til å bruke den kalenderen.
+
+## 077 Bilkollektivet
+Vi ble medlem der 27. okt. det kosta 1k for et år. Hvis vi skal fortsette må vi bli ordinert bedrift. 2.5k innmelding, 2 sjåfører. 1.5k per ekstra sjåfør. Det er ingen årspris videre. Koster bare for leie av bil.
+
+Vi har 10 sjåfører atm, vet ikke helt om hvem som er eller hvem som ikke er.
+Har kommet inn en for arrkom, og en for dotkom. Blir litt prat rundt rydding av forskjellige sjåfører.
+Arrkom syns det er veldig deilig å ha 2 sjåfører, slik at de kan bytte på.
+
+Tar ikke så lang tid å registrere ny sjåfør. Kan heller melde fra når vi trenger sjåfør en uke i forveien, så kan de komme inn.
+
+Det hadde vært fint å ha litt færre sjåfører som basis, fordi det slår ut på regnskapet uansett.
+Arrkom vil ha 2. Trikom har 3 vil ha 4.
+
+## 078 Interessegruppeforespørsler
+Har fått forespørsel fra shadamm og band.
+Shadamm bare kjør på.
+
+Band, hva skal vi faktisk svare. Vi vil ha band, men vi har fått flere forespørsler. Og vi vil at det skal fungere godt.
+Band blir kanskje en hybrid mellom nodekomite og interessegruppe. Det blir noen kostnader for oss rundt lokalleie og kanskje utstyr.
+
+Kunne bandet hatt en kontaktperson? Eller en komite de kunne snakke med.
+
+Vi må gi dem litt friere tøyler i starten, veilede dem når det trengs. De kan fikse sine egne jobber og slikt.
+Tipse dem om at de må prate med andre band på gløs om hvordan ting de gjør.
+
+Hvis de får penger fra oss, så går penger de tjener til sin egen drift.
+
+## 079 Samlokalisering
+Fikk en mail fra Endre som inneholder det meste. Det har blitt kontaktet lederen for bygging, han har gitt nei til midlertidig bygg. Det kan hende dette åpnes senere. NTNU styret vil gjerne si at det ikke bare er IDI som sliter med Samlokalisering. Men de innrømmer at det vi som sliter mest. Vi tar absolutt flest studenter. NTNU styret kan ikke hjelpe oss i det hele tatt med dette. Vi har kommet til gjennomføringsfasen. Samlokaliseringen er delt i 2017/2018 delt inn i tre faser: Utredningsfasen (jan-mai 2017), Avklaringsfasen (mai-juli 2017) og gjennomføringsfasen (juli 2017 – juli 2018).
+
+De har gjort alt av avklaring i sommeren eller under eksamensperioden, så studentene ikke egentlig kan si så mye.
+
+Det er en runde igjen med arealutdeling, kanskje, hvis vi har flaks.
+
+Instituttleder vil gjerne ha masterne så nærme fagmiljøet som mulig (IT-bygget), og bachelor her på p15.
+
+Fagmiljøet har sagt at vi kan ikke flytte midt i et semster, det må skje i sommer eller i jul.
+
+Ombygging skjer ikke før sommeren, det kan hende at det ikke skjer.
+
+Noen institutter har full dekning på fjerde, og til og med på tredje. Vi har bare 25% dekning på femte klasse.
+
+Krogstie mener at p15 er identitetsarealet til IDI.
+
+Rotvold skal til Akrinn, lurer på om datoen var 1.1.
+
+Harald Vinje er abakule og FTV.
+
+Allmøte 25. september.
+
+
+## 080 Fotografer på immball (åpent?)
+
+Vi har diskutert dette i stor grad. Vi ønsker ikke å betale, for å hindre at vi setter presedens.
+De får biletter, vi kan godt gi billetter til 2 stykker. Og være tydlige på at de har lov til å ta pause, eventuelt sette opp tider når de skal jobbe. Det er viktig at de også får nye arrangementet.
+
+## 081 Facebookgruppa
+Vi vurdere å dra gruppa ut av NTNU communitiet. Grunnen til at vi har det er at vi bruker studmail som verifisering.
+Kanskje vi ikke trenger å være så strenge på hvem som kan komme inn i gruppa. Vi må i så fall ta en gjennomgang av hvordan vi håndterer facebookposts utenfra. Vi trenger klare retningslinjer, og dette kan vi klare. Det er da 2 muligheter. Enten godkjenne hver post som kommer inn, eller være kjapp på å fjerne ting.
+
+Loffen ser på muligheten for å dra posten ut av facebook. Men dette haster ikke vi tar det etterhvert.
+
+Mye snakk frem og tilbake om når og hvis vi skal endre navn.
+
+Vi tenker litt på det, lar det ligge til senere.
+
+## 082 Infomailen
+Den er opt in, burde den være opt out? Vi vil ha den som opt out. Aslak ser på å fikse melde førsteklassene på, og gjøre den opt out.
+
+## 083 Lederkurs hos SiT?
+Folk vil på dette.
+
+## 084 Tillitsvalgtordningen
+Erik tok det i fjor som nestleder, nestleder kan ta det videre. Det kan seniorkom også. Seniorkom tar det.
+Alle sender navnet på sin tillitsvalgt til Erik.
+
+## 087 QueueMe
+Hadde et produktivt møte med utviklerne og med ExcITed
+ExcITed er interessert i å betal ekskom for å se på sikkerheten til QueueMe.
+
+## 088 Forespørsler som har kommet på e-post (5 min)
+Didrik har styring på datakam.
+
+## 090 Ukens infomail og Facebook (5 min)
+Folk legger inn ting.
+
+## 091 Eventuelt (10 min)
+Alle må svare på strawpool om teambuilding.
+
+## 092 Møteevaluering/Diggepunkt (5 min)
+Hege var bra møteleder
+Vi savner Didrik
+Kort tid på alle møter, kanskje en time til?
+
+## 093 Gjøremål
+Aslak fikser fagråd post.
+Alle sender tillitsvalgt til Erik.
+Komiteer må levere sin del av produktarket på engelsk innen neste uke.
+Hege skulle sende mail om interessegruppene.
+Aslak skal melde inn førsteklassingene på infomail og se på hvorfor den er opt inn

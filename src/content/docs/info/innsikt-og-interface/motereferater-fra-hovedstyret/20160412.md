@@ -1,0 +1,123 @@
+---
+title: "Piastyrets siste Hovedmøte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Kristian
+
+**Referering:** Agnete
+
+**Vinstraff:** Kristian, Nils, THB for manglende erfaringsskriv.
+
+**Ølstraff:** 
+
+**Tilstede:** 
+
+**Mangler:** 
+
+## 110 Godkjenning av innkalling, servering og referat 
+Aaalt er godkjent! Ingen kom for sent, til og med. Imponerende. 
+Nils og Sondre har ikke lagt ut møtereferat!! Vinstraff. 
+
+
+## 111 Status for komiteene (30 min)
+
+#### arrKom, med velKom og jubkom:  
+Påmelding til låvefest klokken 12. Blester masse. Nabla sin er full allerede.  
+Paintball på søndag. Åpent for mange.  
+Hatt medarbeidersamtaler.  
+
+VelKom: Dro ikke på møtet. Skal nå på torsdag.  
+
+JubKom: Ikke noe nytt.
+
+#### banKom:  
+Lite juicy news.
+
+
+#### bedKom, med ITEX:  
+Bedpres med Mesan i dag, åpnet 20 nye plasser i går.  
+Bedpres med Making Waves snart, alt er klart.  
+Skal i bookingmøte med Nora, ny bedKomleder i Abakus, og sette datoer.  
+
+ITEX: Ikke noe nytt.
+
+#### dotKom:  
+Preppet til genfors, nå blir det testing.  
+Vært litt issue med nye brukere, har quickfixet det, skal ordentlig fikses. 
+
+
+#### fagKom, med eksKom:
+Borte :(
+
+#### proKom:  
+Offline gått i prøvetrykk. Fått ut artikkel om fadderuke. Gullblekka på torsdag. Jobber med nytt stativ for alle linjeforeningsavisene. 
+
+#### triKom:  
+Smash-turnering starter snart. Mafia på fredag. Driver med medarbeidersamtaler.  
+Fått en del interesserte i fjelltur. Blir en 17-18 kilometer tur. Må søke om å tenne bål, men hvis Sondre kan vise heftige speiderskills så ordner det seg.   
+GoT-visning får oppstart 25. april, mandagen etter det kommer ut. Blir på kontoret på morgenen. Blir antageligvis noe mat og god stemning.  
+
+#### SeniorKom: 
+Møte med IDI på fredag, angående utmatrikulering. Prøver å få Kai til fotograf.   
+Jobber med å sette dato til komitékickoff.  
+
+#### Leder og nestleder:  
+Vært på linjeledermøte. 
+Sett litt på kule fadderukeordninger for å sikre godt oppmøte med litt smart gamification.  
+Ta med noe om Studentservice at man kan gå dit hvis man er stressa?  
+Møter med ordstyrer i morgen om kjøreplan på genfors. Dagsorden er klar, og ligger ute.  
+
+## 112 Interkom (10 min)
+
+## 113 Genfors (15 min)
+
+Mål: Lage en punktliste over ting som må fikses  
+- Agnete må fikse referenter  
+- Printe ark med tall på.   
+- Bestille pizza. Blir fort anonym arrKom-leder som fikser det i år også. Neida, det ble visst Dre.  
+- Ta med strømforgrenere, rollup, daljer til nye HS.  
+- Alle må ta med styrebåndet sitt for å gi det bort!  
+- Pia må ta med linjelederdalje.  
+- Få folk til å lese gjennom vedtektsforslag.  
+
+## 114 Fotovegg til jubkom og støtte til riddere (15 min)
+Fotoveggen til jubKom koster 7440 kroner. Det kan vi støtte.  
+Vi støtter produksjon av ridderkors med 5 000 kroner til oppstartsavgiftene. Neste HS kan velge å godkjenne en større sum.  
+
+## 115 Forespørsler som har kommet på epost (5 min) 
+Lite som har kommet.
+
+## 116 Ukens infomail (5 min)
+Alle må fylle inn. THB skriver inn om Studentservice!
+
+## 117 Eventuelt (10 min)
+
+* Skrive inn hvem som gikk og hva vi ga på de forskjellige immballene og jubileumene. Det må alle gjøre.   
+
+#### LOTT  
+- TriKom vil ha utdeling på julebord.  
+- ProKom vil ha det på minst julebord, men kanskje på et eget arrangement på våren?  
+- DotKom vil ha en egen invitasjon til folk på immballet etter det 3. året. ProKom syntes også dette var en god idé.  
+- TriKom syntes det var rart å gi en egen invitasjon til folk som skal ha LOTT.  
+- ArrKom diskuterte det ikke, men synes å dele ut etter både 2,5 og 3 år er rimelig.   
+- BedKom syntes 3 år var litt mye med hensyn på de som kun tar bachelor. Julebord er bedre. BedKom hadde ikke tenkt på det med spesialinvitasjon, da.  
+- SeniorKom synes det er viktig å la den henge høyt, og vil gi den ut på immball etter 3 år.  
+- 2 stk stemmer for immball etter 3. året, 6 stk stemmer for julebord etter femte semester.
+- HS vedtar å flytte utdeling av Lang og Tro Tjeneste-daljen til julebordet på komitémedlemmets tredje år, forutsatt at komitémedlemmet har intensjoner om å fullføre tre år i komiteen.
+
+#### Ekstra karakterer i Smash
+- Forslag om å kjøpe de ekstra karakterene i Smash. Koster cirka 150 kroner.  
+- HS støtter prosjektet. Vi har grønt lys til å kjøpe.  
+
+#### Flere kontrollere 
+- Mange vil spille, men det er ikke nok kontrollere.  
+- Vi vurderer å kjøpe gamecube-kontrollere. Litt stress med at kablene kan bli for korte?  
+- Pro-controllere er nok best, fordi de passer også til andre spill.  
+- HS støtter prosjektet med to pro-controllere til cirka 500 kroner hver. 
+
+## 118 Møteevaluering/Diggepunkt (5 min)
+Nils holder monolog.  
+Kristian leter etter flere ting å bruke penger på.  
+Kongsy føler seg satt pris på.

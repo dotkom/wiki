@@ -1,0 +1,140 @@
+---
+title: "Hovedstyrets Valentinesmøte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Agnete
+
+**Referering:** Christoffer
+
+**Vinstraff:** Dre x2, Wiker, Kristian, Kongsy, Nils
+
+**Ølstraff:**
+
+**Tilstede:** Kongsy, Nils, Marius, THB, Aggie, Christoffer, Petter, Pia
+
+**Mangler:** Kristian, Wiker, Dre, 
+
+## 050 Godkjenning av innkalling, servering og referat 
+
+Ja, men referat ligger ikke ute
+
+## 051 Status for komiteene (30 min)
+
+#### arrKom, med velKom og jubkom:  
+
+Ikke tilstede
+
+#### banKom:  
+
+Ikke gjort noen ting
+
+#### bedKom:
+
+- Geodata bedpress forrige uke
+- Knowit gikk bra   
+- itVerket i dag    
+- Sponsing til jubileet, satt ned utvalg med fagKom.     
+- Sett på andre typer sponsorer    
+
+#### dotKom:
+
+- Har luka ut bugs på Nibble 
+- Fått nye RFID-lesere som må hentes 
+- Kjøpt disker og gjenopprettet filsystem etter diskkrasj 
+- Hjulpet bedKom etter feedback trøbbel
+    - Endret current feedbackskjema, tidligere skjemaer bare endret seg. 
+- Ser på stemmesystem til genfors
+
+#### fagKom, med eksKom:
+
+- Computas i morgen 
+- Javazone Academy på torsdag
+- Workshop med Abakus på lørdag, i utgangspunktet en god ide.
+    - Ikke nok folk møtte opp, derav ikke så nyttig som det burde vært. 
+- Fellesmøte med bedkom i går
+    - Veldig bra møte, fått klarnet opp i mye
+    - Skal ha felles teambuilding
+
+- Ny nestleder i eksKom, Camilla Tran
+- Opptaket til eksKom 2017 ruller videre
+
+#### proKom:  
+
+- Offline sendes til trykk
+- Brekker årboken tidlig i år
+- Planlegger offline-bursdag
+    - 12. mars
+    - Sliter litt med lokale, prøver på drivhuset
+- Tenker på å få ny økonomiansvarlig
+    - Skal finne ny minion på møtet
+
+#### triKom:
+
+Ikke tilstede, men valentines gikk bra.
+
+#### SeniorKom: 
+
+Ikke noe nytt, daljer sendt til trykk.
+
+#### IDI og ITV:
+
+- Rolig periode, IDI ikke gjort så mye
+- Vært på seminar 
+    - Gikk igjennom masse nyttig. 
+- Bytter på kontorvakter for STR-IME, skal sitte på linjeforeningskontorene i oddetallsuker. 
+- Bli mer synlig blant studentene
+- Diskuterer ny organisering av studentdemokratiet, gigantisk rot per nå
+- Snakket om årets lærer/læringsmiljø
+
+#### Leder og nestleder:
+- Hatt møte med hverandre 
+- Neste linjeledermøte 7. mars 
+    - Kjellerne tas opp
+    - Utvalget som skal se på kjellerne er satt 
+
+## 052 Interkom (10 min)
+
+## 053 Ekskom (10 min)
+
+**Mål:** Hva skal vi støtte ekskom med?
+
+- Vi må finne på noe for å vise at vi støtter ekskursjonen
+- Kan støtte med promomateriale? 
+
+**Konklusjon:** Vi støtter med promomateriale, de har gjort en kjempejobb i år og burde klare å stå på egne bein.
+
+## 054 Forespørsler som har kommet på epost (5 min) 
+
+##### Stillingsannonnser:    
+    
+**Konklusjon:** BedKom fikser
+
+##### Seniorkom med søknad til dalje:
+
+Konklusjon: SeniorKom bestiller daljer
+
+##### Technoport  
+- Tror han egentlig ville til Hackerspace.
+
+**Konklusjon:** Vi vidresender til Hackerspace
+
+##### Åpen dag 2016
+- 27. april, det er etter vår HS-periode.
+- Viktig å være med
+
+**Konklusjon:** Vi melder på neste HS
+
+## 055 Ukens infomail (5 min)
+
+Legger inn kurs, bedpresser og temafest. Få inn opptak til eksKom og velKom.
+
+## 056 Eventuelt (10 min)
+
+Nope
+
+## 057 Møteevaluering/Diggepunkt (5 min)
+- Dritbra servering
+- Digger at møtet ble utsatt på en time
+- Digger banKom statusupdate

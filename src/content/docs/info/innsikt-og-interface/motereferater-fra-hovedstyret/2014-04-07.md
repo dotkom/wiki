@@ -1,0 +1,127 @@
+---
+title: "Nytt år med nye muligheter"
+---
+
+- Møtetidspunkt:** 09:15 på rom 260 IT-vest
+- **Servering:** Linn
+- **Referering:** Nils
+- **Vinstraff:** X
+- **Tilstede:** X
+
+0 Godkjenning av innkalling, servering og referent.
+------------------
+
+1 Status for komiteene.
+------------------
+
+arrKom, med velKom
+
+- All good
+- Curling var morro
+- Studenterhytta blir bra
+-- Mangler en vakt
+-- Bjarne ekstra representant for Visma
+- Velkom begynt å planlegge arrangementer
+-- Booker steder osv.
+
+banKom
+
+- Skal fikse kort etter møte
+- Begynner på regnskap
+- Har fått en søker til stillingen
+
+bedKom
+
+- Kontrakter sendes ut senest i dag for bedpresser til høsten
+- Diskuterte mulighet for ekstra bedpress. Det blir 11 bedpresser fremfor 10
+- Ingen Offlineannonser solgt under bookingrundet. Reflekterer litt over hvorfor det skjedde
+- Må omformulere i mailen at det er første mann til mølla på bookingrunden
+- Endret hvordan karrieremuligheter selges
+- Faddersponsorer jobbes med
+- Hadde representant på møte med SiT
+
+dotKom
+
+- Stemmesystemet gikk gjennom. Wohoo! 
+- Møtet på onsdag avlyst
+
+fagKom, med eksKom
+
+- Prat med Per Thorsheim
+-- Noe lite informatikere. Dårlig blestet? 
+- Kurs med Ciber avlyst
+- Organiserer kursdatoen
+- Ny økonomiansvarlig Håkon tar over for Truls (ekskomleder)
+- Ekskom
+-- Fått 11 medlemmer
+-- Stor suksess med google doc vs. søknad
+
+proKom, med redaksjonen
+
+- Hatt valgmøte
+-- Stort sett alle har ansvarsverv
+-- Mangler nettredaktør
+- Nesten ferdig med ting. Mangler 17. mai plaket
+- Årbokbestilling sendes snart
+-- Blir antakeligvis litt dyrere enn i fjor
+- Det blir fane. Linn syr, alle ler
+
+triKom
+
+- Løser handling ved at Erik tar med bil opp etter påske
+- Litt korttrøbbel, men det ordner seg
+
+IDI ved ITR
+
+- Fraværende
+
+2 Interkom
+------------------
+
+3 Erfaringer fra genfors
+------------------
+- Brukte mye tid på kandidatvalgene. Utspørring! 
+- Kunne unngått litt sirkeldiskusjon
+- Litt vanskelig å time med digitalt stemmesystem som kan eller ikke kan gå gjennom for hvert år
+- Rommet var litt lite ideelt
+- Stemmesystem er fantastisk
+- Pizzabestilling gikk smooth
+
+4 Inn- og utdrikking av HS
+------------------
+- Dato fastsatt til 3. mai
+
+5 Praktisk info om HS
+------------------
+- Informasjon om forventningsavklaringer
+-- Vær flinke mennesker
+-- Husk HMS-ansvar i komité
+- Informasjon om åpne referater, sensitiv informasjon
+-- Sensitiv informasjon sensureres
+-- Spør hvis man er usikker
+- Informasjon om nye retningslinjer
+-- Oppdater retningslinjene om nødvendig
+- Informasjon om representasjon (immball/jubileum etikette)
+-- Kunst & Håndtverk
+
+6 Tilbud og forespørsler som har kommet på epost.
+------------------
+- Teaterlosjen har fått svar på hvem som kommer
+- Passord for twitter, instagram og youtube
+- Blesting av IDI Open
+- Gratulasjonsmail fra Visma
+
+7 Ukens infomail
+------------------
+- Fyll ut som vanlig
+- Alltid dobbelsjekk før utsendelse
+
+8 Eventuelt.
+------------------
+- Finne en som kan ta posten i sommer
+- Kreditkort
+- Idémyldringskveld
+
+9 Møtekritikk.
+------------------
+- Linn er flink og styrer :) 

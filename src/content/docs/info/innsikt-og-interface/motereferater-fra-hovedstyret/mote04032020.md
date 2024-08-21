@@ -1,0 +1,279 @@
+---
+title: "Første møte"
+---
+
+**Møtetidspunkt:** kl12.15 (Rom R51)
+
+**Servering og referering:** Henrik og August - Mathias
+
+**Straff:**  
+
+**Tilstede:** August, Mathias, Sigrun, Kristoffer, Alis, Sindre, Andreas, Øyvind, Monika, Ole, Christoffer, Thea, Silje, Henrik, Benedicte, Henrik, Kaja
+
+**Mangler:**  Emil
+
+## Innsjekk
+[Hvordan har dere det?]
+
+- - -
+
+[TOC]
+
+- - -
+
+## 322 Godkjenning av innkalling, servering og referat fra forrige uke
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+It is good, men fikk vinstraff fordi den kom for sent.
+
+## 323 Status for komiteene (12.45 - 30 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+Henrik sølte prosecco på seg selv. **Boldes ikke** 
+
+#### Arrkom, med velkom og jubkom:
+- Xfest og skuddårsfest, gikk bra dårlig bemanning fra kkokokokmo, vi Vant
+- Skuddårsfest. Veldig gøy. Gode tilbakemeldinger. Problemer med lyd under underholdning. 1/5 ca fikk med seg hva som skjedde
+- ikke så mange arrangementer fremover, var satt av tid pga ekskursjon men vurderer å lage tur til vassfjellet i den perioden
+- Arrangerer middag for 3. klasse bachelor.
+- Booker hytte til åre neste uke, blir med heiskort :-1:
+Velkom:  
+Jubkom:  
+- Har fått penger på genfors
+- Startet opptak
+
+#### Bedkom, med ITEX:  
+- Diskutert ITEX
+- KID-konferanse gikk bra, men slet litt med påmelding.
+- Sendte ut google-form, fikk 12 svar til bookingrunden, folk vil ha bedpress ikke kurs,
+- Sigrun har vært på erfaringsoverføring med techtalks. Skal jobbe med å forbedre kommunikasjon
+- 
+ITEX:  
+
+#### Dotkom:
+- Genfors-app ble fikset rett før genfors
+- hadde arbeidskveld på søndag, det var velykket.
+- Flytter ledervalg til neste onsdag
+
+#### Fagkom, med ekskom:  
+- Google-kurs på fredag, har åpnet 90 plasser, tihlde har 84 plasser så blir 200 stk 
+- Velger ny leder i morgen
+- Må ha ny økans i fagkom da christoffer har blitt økans i online.
+
+
+Ekskom:  
+- Ekskursjonen er avlyst pga corona.
+- Refusjon. Kommer senere på status.
+#### Prokom:  
+- Har gitt ut offline, det gikk bra med kake :cake: 
+- Årbok er i gang. Samle bilder fra komiteene som kan sendes inn!
+- Gullblekka blir ikke noe av i år fordi ingen insjet. Ser på nytt format til senere år.
+- Snakket med PR i Abakus om retningslinjer for plakatplass og om workshop.
+#### Trikom:  
+- Hadde vors til skuddårsfest. Det gikk bra. Annonsere tidligere hvis vi skal gjøre det igjen. Kom nye folk som ikke de hadde sett så ofte.
+- Har handlet, så kiosken fikk påfyll før genfors. Det er masse sjokomelk der :chocolate_bar: :milky_way: :cow: 
+- Snakker om hva vi skal gjøre med kontorvakt.
+- Jobber med kontoret for oppussing, driver på med bestilling. 
+
+#### Seniorkom: 
+- Henrik tar denne fordi han har blitt gammel og grå. 
+- Opptak til seniorkom
+#### Leder og nestleder:   
+August (gammel leder): 
+- Hvordan man dealer med internasjonale studenter. Workshop, fadderuke. Fadderuke er første og viktigste mål. Vanskelig å gi de verv.
+- Isfit: Vil være engasjert i internasjonale studenter. Kan sende de videre til isfit hvis de ønsker verv.
+- Ekskom har fått hjelp med avgjørelser om de skal avlyse eller ikke. Klaget på NTNU og pratet med studenttinget. Turen ble avlyst, kom et godt tilbud om avlysning. Det kan dekkes av techtalks. Alle får pengene sine tilbake. Ser på å hjelpe de som har bestilt ekstra uke for refusjon.
+- Arrangert genfors. Ble mer rotete enn forventet.
+
+Mathias:
+- Erfaringsoverføring med August.
+- Meldt oss på Delta jub.
+- Prøver å venne seg til ny rolle, blir ikke gjøre det like bra 
+
+
+Henrik:
+- Genfors genfors genfors
+Online IL: 
+- Leieavtale med Trondheim Internation School. Satser på trening hver uke.
+FIF: 
+Møte 18. april. Henrik skal dra + 2 av dere. 
+-
+
+Benny:
+- har brukt litt tid på sette seg inn i ting
+- satt opp filter
+- litt erfaringsoverføring
+- laget slack, HS 20/21
+
+
+#### Økonomiansvarlig, med bankom:  
+HS:  
+- REvidert januar og avstemt.  
+- Skal velge ny bankomleder straks.
+- IDI-støtte
+- Skal fakturere HS for representasjon
+
+#### ITV:  
+
+#### Samlokaliseringsrepresentant:  
+
+#### RFK:  
+
+## 324 Interkom (12.55 - 10 min) 
+[Her skal saker som angår tre eller flere komiteer] 
+NOPE 
+August hater dette punktet, ingen tok opp noe case and point.
+
+## 325 Internvalg av komiteleder (13.05 - 10 min)
+- Kommer til prege vår styreperiode.
+- Må velge kandidater relativt kjapt, men ikke på bekostning av at prosessen gjøres skikkelig. 
+- Burde få alt klart innen tre uker fra nå. Frem til da burde vi forberede HS på oppgavene som kommer. Etter 1.5 måned er vi klare og i gang med den nye strukturen
+- Bedkom har allerede valgt.
+- August: Skulle gjerne sett at man hadde rollen avklart før man kjører valg, så man vet hva komiteleder skal gjøre.
+    - Ole: For vår del er det lite avklart om hvordan man holder et valg. Jeg hadde ønsket at det var litt mer organisert og hva det innebærer med et ordentlig valg. Hvor mange må være tilstede osv. Når man velger en komiteleder er det et viktig valg.
+    - Kristoffer: Vi hadde en god dialog på hva som var forventet og de som stilte hadde god insikt i hva de innebar. 
+    - Sigrun: Vi i bedkom var forberedt på begge utfall av AUO.
+- Andreas: Kan dere ta den godkjenningen på mail eller må det taas på et møte. 
+- Alis: Skal HS-representant være i hvert eneste møte?
+    - Øyvind: Noe av jobben til styremedlem er å være et bindeledd og komité. Burde etterstrebe å få det til. Burde aldri bli lagt et møte hvor det er tydelig at styremedlem ikke kan. Legges til rette for å være med.
+    - Kristoffer: Man er vel per def fortsatt et medlem av komiteen, er fortsatt et todelt verv
+    - Benny: Det ble skrevet i de nye vedtektene at styrerepresentant skal sitte i komiteen sin. Får litt samme status som økans, trenger ikke å være aktiv i komitéevirke.
+    - Alis: det er viktig at styremedlemmet er inne. 
+- Mathias: Jeg og Benny tenker gjennom hvordan et internvalg kan gjennomføres. Sender en mail til komiteer@onn med retningslinjer. Må finne på en løsning som er demokratisk.
+   - Øyvind: har planlagt valg imorgen, burde det utsettes? 
+   - Mathias: Hvis det sendes ut iila dagen klarer dere det?
+   - Sigrun: Ha tid til å forberede seg. Appell på to minutter og spørsmålsrunde etterpå. Avstemning der kun en person fikk se stemmene, hemmelig valg.
+- Burde dette være i komiteenes retningslinjer? 
+   - Mathias: Hvis auo fortsetter er dette et problem som kommer til å fortsette neste år også. Vi er litt prøvekaniner, kan godt være det burde inn.
+   - Øyvind: Burde inn i retningslinjer, men ikke til valget nå. Kan legges inn etterpå og før neste valg
+   - August: Burde ikke være i alle komiteenes retningslinjer, burde være en felles ting.
+- Benny: Hvordan har dere gjennomøført valget Bedkom?
+    - Første steg er å gå igjennom hvem som har stemmerett, derreter har de appeller og spørsmål. Stemmer på en lapp og legger alle lappene i hatt og tellekorpset går ut og velger 
+    - Henrik: Bruk gammel senil person uten stemmerett til å telle stemmer.
+    - August: Har seniorkom stemmeret?
+        - Ikke per def
+- August: hvem har lov til å stille?
+   - Benny: De som faktisk har et verv i komiteen burde være de som har stemmerett. 
+    - Mathias: I bankom har personer uten verv kunne stille. Han var ikke i bankom da.
+    - Øyvind: Ser ikke noen grunn til å begrense hvem som skal stille, siden komiteen kan bestemme selv hvem de ønsker at skal stille. 
+- Benedicte: Burde tenke på hvor mange medlemmer som må være tilstede for en avstemning.
+    - Mathias: I bankom valgte de dagen der flest kunne. Hvor mange av dere er i fagkom? masse tall husker ikke hva de sa 
+    - Mathias: 3/4 av komiteen burde være tilstede for å velge.
+    - Burde alle som har lyst å stille være tilstede være der for å avholde valg?   
+    - Øyvind: Spesiell case med at det velges i ettertid. Alle som vil skal ha mulighet. Må flytte møtet i så fall.
+- Giil: Folk som er i permisjon burde få lov til å stille, burde de ha stemmerett? 
+   - Øyvind: Det kan helt fint gjøres på samme måte som bedkom. Det er greit så lenge det er ok for komiteen. De som komiteen ønsker at skal ha stemmerett har stemmerett.
+    - Ole: Valgkomsituasjon. Kort tid før avstemning velger å avpermitere seg.
+- August: Mener at det burde være tydelig på forhånd hvem som har stemmerett. Vanskelig å si til seniorkom at de ikke har stemmerett. 
+    - Sigrun: Flere semiaktive medlemmer, da hadde det blitt en annen situasjon. Enkleste er å bare gi de aktive stemmerett
+    - Benny: Jeg vil tro at de som er aktive, er de som burde bestemme hvem som skal lede komiteen neste år. 
+   - Sigrun: Stor forskjell på hvor aktive ikke-aktive medlemmer er. Sette en felles standard.
+- Mathias: Skriver ned (jeg og benny) sender ut et forslag på hva vi skal gjøre. Finne ut om de vil ha valg nå eller senere. Tar avstemning på mail om vi vil bruke det.
+- Sigrun: Burde vi ta vår votering på nytt?
+    - Matta: den kan sikkert stå
+    - Kristoffer: Er enig obviously. 
+## 326 Hva må vi sette oss i inn i (13.15 - 15 min)
+[Vi har mye vi skal ta fatt på dette året. Vi skaffer oss en oversikt over løse tråder fra forrige styret, og Mathias tar en gjennomgang på hva som må leses på til neste møtet.
+- Mathias: Det er flere ting som står igjen fra forrige HS. Til neste møte skal alle lese de tre siste referatene fra de forrige møtene.
+   - August: Spesielt interesserte kan lese alle.
+- Mathias: Kan HS fikse chunks?
+   - Ole: Yup.
+- Ole: Nytt gruppesystem. Alle de gamle lederne skal ha mulighet til å redigere grupper og sette leder på de nye lederne. Hvis det ikke funker, si fra.
+   - Kaja: Kun tilgang på bankom og ikke fondstyret.
+      - Ole. Har ikke peil på fondstyret. I will fix.
+- Mathias: Noen som vil oppdatere chunk?
+    - Henrik: I will fix. Bruk slack eller HS-gruppe som referanse.
+- Benny går igjennom og fikser rettigheter til facebook-ting
+- Mathias: Google calendar. Mathias fikser
+- August: Go with the flow. Dere kan ikke alt om 6 mnd heller. Det ordner seg. :male-doctor: 
+## Erfaringer fra genfors
+- Mathias oppdaterer vedtektene
+- Må renskrive referat
+- Referat og vedtekter må signeres av paraferer før dere får den juridiske makten.
+- Gjøre noe med innlevering av stemmeskilt. Tar lang tid og registrere ut og inn.
+- Hjalp med forklaring på blanke stemmer. Det burde gjøres med en gang.
+    - Giil trodde blankt var negativt og stemte derfor blankt
+- Veldig mange sitter på genfors og tør ikke ta ordet. Mange av de samme som prater. Det er litt uheldig, burde ikke være høy terskel. Kan løse det med å være mindre harde i tilbakemeldinger til innlegg. Unngå redsel for å bli roastet.
+    - Saksopplysning: jeg skriver ned folk som skal snakke.  
+    - Noe vi må jobbe med og ta før prosessen (genfors, red.adm.). Vil gi skryt til de som turte å snakke. Mange som deltok aktivt
+- Hvordan blanke stemmer fungerer burde taas på forhånd
+- Masse nøtter på genfors. Folk som var allergiske mot nøtter. :sweat_smile:
+- August: Hvor mange leste foretningsorden før genfors? (få) Dette er viktig. Til neste år burde man ha slides på det og går gjennom det.
+- Stensrud: Gjennomgang av regnskap fikk mye kritikk. GJøre noen tanker der
+- Alis: Pizzabestillingen burde bli lagt inn på forhånd, kan det være et påmeldingsarrangement?
+    - Øyvind: Kan være påmelding men den burde ikke være bindene-
+- Formatet rundt sakspapirene er veldig rotete, det kan være lurt å se på om det finnes en bedre struktur på sakspapirene til generalforsamlingen. 
+- Øyvind: Kan finne en bedre måte å ordne slides på saksforslag og vedtektsforslag som tas felles. Rot med å bytte fram og tilbake.
+   - Mathias: Ekstremt i år. Mange avhengigheter mellom forslag.
+   - August: Første gang vi lagde slides. Mye forbedringspotensiale. Spørre abakus om å få se på deres. Tydelig markering av hva som endres og ikke hindrer klappefest
+- Kaja: Var ganske mange ganger jeg var usikker på hva jeg stemmer på, hvilket forslag er det jeg skal stemme ja på og hvordan skal jeg stemme nei på før greia. 
+- Ole: Retningslinjer til alle komiteer må oppdateres. Samme med chunks. Omtaler leder og nestleder. I forbindelse med AUO. Nye roller og struktur.
+- Benedicte: De som ikke har oppdatert retningslinjer på en stund. Se over og oppdater.
+
+
+## 328 Bankom-leders tilstedeværelse i Hovedstyret (13.40 - 15min)
+[Bankom-leder har vedtektsfestet møte- og talerett. Vi har en åpen diskusjon om hvordan den løsningen vil fungere med dagens ordning]  
+
+- Bankom-leder velges på fredag, det står i vedektene at de har møte og talerett. 
+- Ble diskusjon hvor mye bankomleder skulle bli inkludert i fjor, men Mathias fikk full tilgang og tilhørighet (bortsett fra stemmerett).
+- Ny dagsorden mtp AUO, vi må diskutere hvilken rolle denne personen skal få i hovedstyret.
+- I dag diskuterer vi hvilke tilganger ny bankomleder burde få i styret. Senere hører vi hva nye bankomleder ønsker.
+- Benedicte: Jeg mener at å ha deg i styret var en stor ressurs for oss, siden folk hadde mye å gjøre. Men slik styret er nå, har medlemmer mye mer kapasitet til å ta oppgaver, og vi har ikke det behovet vi hadde i forrige styre. Hvis bankom-leder er med representerer, har man to som kan snakke for komiteen. 
+- Øyvind: Med tanke på at AUO har gått gjennom så synes jeg vi skal unngå å skape for stor forskjell på bankomleder og de andre komitelederne. Enda litt uklart hvordan komiteleder i praksis blir, men bankomleder har allerede en ekstra rettighet i form av møterett og vi burde ikke gjøre dette skille større. Tror ikke behovet for bankomleder i styret er like stort i år.
+- Mathias: La oss se for oss to scenarioreriee. Hva hvis personen er supergira (110%), da må vi ha denne personen i styret uansett. 
+   - Benny: Dersom de er gira på å gjøre ting, må vi ønske de velkommen 110%!!! De har ikke møte og talerett i styret, men jeg synes fortsatt poenget til Øyvind er viktig. Vi burde ikke sette det skille i bankom fra de andre komiteene. Den personen som får innsikt i all mail har mye makt i styret, ved at de kan kommentere/påvirke.
+- Alis: Hvordan havnet bankomleder i HS?
+   - Mathias: Avlaste økans fordi det er så mye jobb
+    - Øyvind: Selvfølgelig er det positivt hvis bankom-leder er gira (110%), men det kan de gjøre gjennom å møte opp på møtene. 
+
+- Henrik: Seniorkom og Bankom-leder har akkurat samme rettigheter i vedtektene og det blir litt rart å skille over de. 
+- Stensrud: Samme som henrik. Seniorkom og bankom var glemt i AUO. De er ikke på samme linje som kjernekomite. Bankomleder kan ha møte og talerett og jeg kan se argumentet om personen er gira og har lyst kan bidra mye. 
+   - Benny: det er derfor vi har økans i styret, men jeg tror ikke vi trenger to representanter fra den komiteen. 
+- Kaja: Økonomiansvarlig er per i dag en mye større jobb enn det det er å være styremedlem. Enorm hjelp å ha mathias i styret. Han hadde den innsikten han ikke ville hatt om han ikke var med. Det var en enorm støtte for meg.
+
+
+## 329 Eventuelt (13.55 - 10 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+
+### Bedkom varamedlem
+- Sigrun: Vi valgte ikke nestleder i går. (Heter varamedlem nå).
+    - dET SOM BLe skrevet ned er at en eller to varaer fra en kjernekomite og komiteen bestemmer det selv. 
+- Alis: Hva er oppgaver til vara?
+   - Benny: Dersom komiteleder eller styreleder ikke kan møte så kan de steppe inn. Definere annerledes enn nestleder fordi komiteleder kanskje ikke trenger å avlastes så mye. 
+- :desert_island:vind: Per endringen er det ment at varaen har ansvaret for å fylle HS-plassen hvis styremedlem ikke er tilgjengelig. 
+- Henrik: Kan enten ha en vara som er felles for begge, eller en vara for styremedlem og en vara for komiteleder.
+- August: EPVU. Det skjer om to uker. Lurte på om hvem som er gira på å gjøre det. Initiativ fra linjelederforumet. Blitt en egen organisasjon. Vi har sagt ja til å delta. Det kan være stand og dele ut kake feks.
+    - Benny: Det vi gjorde ifjor var at vi blestet det, ved å legge ut lapper og plakater rundt omkring. Benny og Andreas hadde ansvaret
+- Monika tar lead. Resten blir med på stand osv og hjelper til. Thea blir med og planlegger.
+- Ikke bare HS som trenger å stå på stand.
+- Man kan engasjere gamle styret.
+- Mathias: Kommer doodle om sosialkveld for nye styret.
+
+## 332 Møteevaluering/Diggepunkt (5 min)
+[Hva var bra og hva var dårlig? Alle må si minst en ting] 
+
+
+- Rørende å se kamp mellom tidligere og nåværende leder. 
+- Bra med sceniarioer i tidligere punkt.
+- Kommer seg litt etterhvert. Gamle styret roper. Low key å diskutere på møter.
+- Digger første ball.
+- Digger HS inn/ut. Blir spennende.
+- Har allerede fått invitasjon til ball. Ene har dalje.
+- Digger nytt styre.
+- Digger lørdag og gleder meg til lørdag
+- K2k på mandag
+- Mathias skal dø.
+- Digger alle nye. Digger at gamle gidder å være her. Digger at August fortsatt er engasjert.
+- Mer digging av HS inn/ut.
+- Digger at han kommer til å våkne opp i portugal og ikke huske noen ting.
+- Digger å at hun skal ta sklien på badeland ti ganger i dag.
+- Mer HS inn/ut
+- Bra diskusjoner
+- Digger nye og gamle HS stappet i et litt trangt rom og at vi skal gjøre det flere uker til.
+- DÅrlig luft.
+- Liker maktkamp.
+- HS inn/ut som alle andre
+- Gleder meg til HC-jub.
+- Prosecco og jordbær.
+
+
+Møtet er hevet! (14:03)

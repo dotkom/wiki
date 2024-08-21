@@ -1,0 +1,112 @@
+---
+title: "Hovedstyrets nå-skal-velkom-settes-møte"
+---
+
+**Møtetidspunkt:** 14.15 (rom 054)
+
+**Servering:** Didrik  
+
+**Referering:** Sander  
+
+**Vinstraff:** Thor Håkon(sen innkalling)  
+
+**Ølstraff:**  
+
+**Tilstede:** THB, Erik, Didrik, Håkon, Kristiane, Ingrid, Andrea, Hajem, Sander  
+
+**Mangler:** Bjerke  
+
+## 261 Godkjenning av innkalling, servering og referat 
+Ikke godkjent innkalling, resten godkjent :)  
+
+## 262 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+Vinter-OL skjer på lørdag, god påmelding. Mange virker giret. X-FEST er neste mandag, det skal blestes mye i forkant. Sushikurs og klatring er good, vi er på jakt etter lokasjon til sushikurs. Studenterhytta er good! Vi har jobbet for nabla slik at de stiller som vakter for oss. Låvefest er good, det blir 27. april. Busser skal bestilles etterhvert. 17.mai-middag er på gang, men det må byttes resturant fordi graffi midtbyen er booket. Reboot ble gitt til Angie, og hun skal samarbeide med Marius fra seniorkom.
+
+#### Bankom:  
+Møte søndag 12.02. Tok opp revisjon, og snakket med de som ikke var der angående ferdigstilling. Skal kontakte abakus slik at de reviderer vårt regnskap. Hajem har startet med budsjett til neste år.
+
+#### Bedkom, med ITEX:  
+Første møte for ITEX denne uken. Bookingrunden blir i mars. Alle skal sjekke sine bedrifter om de vil komme tilbake til høsten før bookingrunden. 
+
+#### Dotkom, med appkom:
+Lite feedback på RFIDsystemet. Dotkom vil ha mer feedback. Teambuildingdato satt. De følger standard flow slik at det er lettere å sette seg inn i prosjekter. Begynt å se på bildegalleri på OW, slik at alle kan legge ut bilder fra ulike Online arrangementer. Prokom kontrollerer bildene.
+
+#### Fagkom, med ekskom:  
+Kurs i morgen med Netcompany i morgen. De har sendt inn kursbeskrivelse, det blir React. Planlegger sosialkveld med Abakus. Techtalks gikk meget bra. Ingen svar fra Login enda angående Hackathon. 
+
+#### Prokom:  
+Brekkhelg i helgen, det gikk bra. I samtaler med flere trykkerier, kun et svar. De vil legge ut fadderukefilm på OW om ikke alt for lenge.
+
+#### Trikom:  
+ - Vi har fått høre at folk er blitt litt slappe på kontorvakt, så skal sende en epost til alle om det.  
+- Ny handletur om 1-2 uker  
+- Blir utdeling av kake og kjærlighet på valentines day  
+- Ska bruke vinter-OL som teambuilding  
+- Vi er keene på bli-kjent-festen  
+
+#### Seniorkom: 
+Ikke mye nytt som skjer. Det jobbes med utmatikulering, og de skal spise middag sammen før X-fest. Lokale til utmatikuleringsmiddag skal fikses meget snart.
+
+#### Leder og nestleder:  
+Linjeledermøte skjer kl fire i dag. Ordstyrer til Genfors er fikset. Det blir Yngve Hareide, han virker meget profesjonell og ivrig. Det blir møte med han en måned før, hvor planleggingen blir gjort.
+
+#### ITV: 
+ITV skal velges i mars. 
+
+## 263 Interkom (10 min) 
+- Har arr/bed/fagkom noe den 9. mars? Trikom vil ha strikk og drikk
+Nei, alt er good!  
+- Kontakte bedrifter  
+Alt av kommunikasjon skal gjennom bedkom.
+
+## 264 Velkom
+Diskusjon rundt kandidatene. Tilbud blir sendt ut til de valgte kandidatene. Søknadsfrist for alle opptak blir 26. februar. 
+
+## 265 Smashpause på kontoret i lunsjtiden (Ingrid)   
+Det har kommet forslag om en lunsjpause fra smash. 2 timer i løpet av dagen hvor det ikke spilles smash slik at det blir litt roligere på kontoret. Det er strengt å gi forbud mot smash i et tidsrom, men det kan være mulig med en ordning hvor vi oppfordrer til en roligere periode. Vi ønsker å dempe støynivået, men vi ønsker ikke å tvinge noen bort fra kontoret i visse perioder. Planen er å formidle tydelig at i lunsjtiden vil vi ha lavere støynivå. Vi skal sende ut en spørreundersøkelse, og dette legges inn i den slik at vi kan få feedback på hva folket mener rundt saken. 
+
+## 266 Forespørsler som har kommet på e-post (5 min) 
+- Intensjonsavtale med StartIT  
+Vi har bedpress og kan ikke bleste. Derfor må vi finne en alternativ løsning. Vi må forholde oss til vår kontrakt med bedriften, og kan ikke bleste.  
+
+- Salt vil bli opplistet som linjeforening  
+Det skal fikses asap  
+
+- Studentdemokratiet søker datadriftere  
+Det blir tattt opp med bedkom om de skal få bli med på mulighetermailen.  
+
+- Referansegruppe for ExciTED
+De ønsker Onlinere med i gruppen. Kristiane blir med :)  
+
+- iGEM studentkonkurranse  
+Dette blir med på muligheter om bedkom godtar det.  
+
+- Erudio - oppdatering av info på nettside  
+Håkon fikser det.  
+
+## 267 Ukens infomail og Facebook (5 min)  
+- Facebook:
+Prokom vil legge ut årbokpush for å få inn bilder.
+Arrkom legger ut om Vinter-OL og X-FEST.  
+Legge ut mye kult
+- Infomail:  
+Appkom gjenoppstår.  
+Velkom opptak, og status på leder og nestleder.   
+## 268 Eventuelt (10 min)
+- HS må finne ut hva vi skal ha i årboken  
+Vi har masse bilder, men Andrea vil ha mer. Vi diskuterer og kommer frem til ulike forslag.  
+- THB skal på linjeledermøte  
+Han spør om folk vil feste med oss.  
+
+- På kontoret er det tre telefoner  
+Hva skal vi gjøre med de? Vi må fikse autosvar når noen ringer slik at de blir henvendt til riktig kontaktinformasjon, eller en informasjonslapp til den personen som eventuelt tar telefonen.  
+
+## 269 Møteevaluering/Diggepunkt (5 min)
+Fint møte :)  
+
+## 270 Gjøremål
+- Håkon fikser Erudio sin nettside.  
+- Sander gir tilbakemelding til velkomsøkere.  
+- HS må vite hva vi skal ha i årboken.

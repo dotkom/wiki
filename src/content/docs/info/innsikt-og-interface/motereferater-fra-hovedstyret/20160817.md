@@ -1,0 +1,195 @@
+---
+title: "Hovedstyrets fadderukene er i gang-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Didrik
+
+**Vinstraff:** 
+
+**Ølstraff:**  
+
+**Tilstede:** Kristoffer, Thor Håkon, Ingrid, Andrea, Kristiane, Fride, Sander, Didrik, Håkon
+
+**Mangler:** Erik
+
+## 057 Godkjenning av innkalling, servering og referat 
+
+ * Referat fra forrige møte er ikke lagt ut på offentlig wiki. Sander har til lørdag å legge det ut.
+
+ * Regel på møtereferat er at de skal ut innen neste møte.
+
+ * Servering og møteinnkalling er godkjent.
+
+
+## 058 Status for komiteene (30 min)
+
+* Dette skal være et statuspunkt, ikke diskusjonspunkt. All diskusjon skal være på enten interkom eller sakspunkter.
+
+#### Arrkom, med velkom og jubkom:
+
+ * Ingenting har skjedd. Sander skal møte sondre og edvard for å snakke om immballet. sender tekst til invitasjon til Andrea så hun får laget pen invitasjon også den sendes ut i løpet av morgendagen.
+
+ * Velkom - Litt problemer igår, det ble fullt fort på Samfundet. Skal bare på Samfundet en gang til. I dag trenger man bånd. Man kan hente bånd på kontoret. Skal grille imorgen. 
+ * Velkom lurer på hvordan trikom pleier å gjøre det med grillmat. Trikom pleier å kjøpe grillmat på storcash.
+
+ * Ikke noe nytt fra jubkom
+
+#### Bankom:  
+
+ * Ikke skjedd så mye. Første møte etter fadderukene.
+
+
+#### Bedkom, med ITEX: 
+
+*  Tidspunkt og rom har ikke vært korrekt på OW4 eller realstart når det kommer til ene lunsjpresentasjonen i fadderukene.
+
+
+#### Dotkom:
+
+* Laget ny splash. Fikk med gammel traver i dotkom, som stod for det meste av designet.
+
+* Skal ha møte i dag
+
+
+#### Fagkom, med ekskom:  
+
+* Ingenting å melde.
+
+
+#### Prokom:  
+
+* Ikke noe nytt
+
+
+#### Trikom:  
+
+* Har vært på Storcash og handlet.
+
+
+#### Seniorkom: 
+
+* Fadderuke for master har ish startet. Blir delt inn i grupper etter masterretning. Godt i gang. Av 70 møtte 5-6 opp i går.
+
+
+#### Leder og nestleder:  
+
+* Ikke skjedd så mye.
+
+* NRK trøndelag radio har ringt og intervjuet Thor Håkon og Camilla(prokom).
+
+
+#### ITV: 
+
+* Ikke her.
+
+
+
+## 059 Interkom (10 min) 
+
+ * Fint lite.
+
+
+## 060 Forespørsler som har kommet på e-post (5 min) 
+
+* Bod: 
+Martin lurer på om 30 kvadratmeter er nok. Vi mener 30 er nok.
+Vi mister ikke boden på P15.
+
+* Abakus sitt immball
+Vi er åtte + muligens erik som vil være med.
+
+* Start NTNU:
+Vi blester ikke for Start NTNU.
+
+
+## 061 Ukens infomail og Facebook (5 min)  
+ * Immball
+ * Kurs 29.08
+ * bedpres med Sopra Steria
+ * Utdeling av årbøker
+ * Opptak
+
+ * Alle legger inn egne ting.
+
+* Vi har lagt ut bilde om at vi har vært på stand.
+
+* Andrea skal begynne å ta bilder i fadderukene.
+
+## 062 Komitéopptak
+
+Erik og TH styrer opptaket
+
+Tar intervjuer uke 35, slik at vi har klart opptaket til søndag 4. sept.
+
+* Appkom:
+Hvilke alternativer:
+* Appkom får ikke blest.
+* Beholde åpent  opptak og bleste som faen
+* Appkom fortsetter som før.
+
+## 063 Kontortilgang for alle
+
+* Er watch dog kommet?
+Bør være enkelt å sette opp.
+
+* Vi kan ha søknadsperioder i begynnelsen av smesteret, der de som søker om kontortilgang per semester.
+* kontortilang inndras etter to ganger man ikke har møtt opp uten å gi beskjed.
+* kan ikke søke om kontortilgang første semester.
+
+ ## 064 Safe og kortpunkt
+
+* Burde endre kode på safen.
+* Bare HS får åpne safen.
+* HSkortet brukes av et HSmedlem.
+
+* Hajem har kontroll på pinkodene.
+
+## 065 Gavepunkt
+
+* Gaver til immball.
+
+* Ish hundre kroner.
+
+* Fyll inn wiki.
+
+* Vi har gavegreie på wikien.
+
+
+## 066 Eventuelt (10 min)
+
+* trikom har bestilt lavvo.
+
+* velkom betaler for ime ting og får penger tilbake fra ime.
+
+* Alle må planlegge standen til byrebus på søndag. Poeng
+
+* Er alt klart til teambuilding? Virker slik.
+
+* bed/fagplakat med bedpresser og kurs
+
+* trikom med på arrkom sin plakat
+
+* Status for komite er statuspunkt og ikke diskusjonspunkt.
+
+* @Trikom: Arrangere premierevisning av Star Wars Rouge One. Ta kontakt med Trondheim kino asap!
+TH har lyst til å gjenta the success from last year. TRIKOM FIKSER SAL FØR ABAKUS.
+
+* Trikom skal finne dato for gårtur.
+
+* Internasjonale studenter
+* Kan Fride sende mail til de internasjonale studentene slik at de får vite om fadderukene. Også nye Phd-studenter.
+
+* Har seniorkom begynt å planlegge komitékickoff?
+De har lokalet, og de vil gjøre det meste likt som i fjor. Nidelven klubbhus.
+
+* Hvordan går det med Svenil? Fadderprogrammet er litt forsinket.
+
+## 067 Møteevaluering/Diggepunkt (5 min)
+
+* Folk digger Fride og velkom
+* Kudos til prokom + velkom for fete t-skjorter.
+
+Møtet er hevet 12.45.
+Møtet er hevet på nytt klokken 13.10

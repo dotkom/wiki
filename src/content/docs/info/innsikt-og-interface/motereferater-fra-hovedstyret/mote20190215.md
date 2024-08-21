@@ -1,0 +1,256 @@
+---
+title: "Møte 2019.02.15"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** 054
+
+**Servering:** Pål
+
+**Referering:** Adrian
+
+**Vinstraff:**
+Aslak 1 vin for møteinnkallingen
+
+
+**Ølstraff:**
+
+**Til stede:** 
+Sander, Jakob, Aslak, Pål, Christian, Adrian, Jens, Sebastian
+
+**Mangler:** 
+Hanne, Johannes, Loffen, Endre, Aursand
+
+- - -
+
+[TOC]
+
+- - -
+
+## Gjøremål
+
+- Christian snakker med Mathias Fossum om fast antall annonser i Offline
+- Alle må tenke over saker til åpent møte
+- Aslak viderefører samtalen med StartIT, blester og svarer
+- Aslak blester for åpent møte på Facebook og spør etter saker
+- Alle tenker over vedtekter, slik at vi kan ta opp noe på tirsdag
+
+
+
+## 300 KAKEPUNKT
+[Pål har mekka kake til oss, synd for dere som er på tur]
+
+## Innsjekk (14:15 - 2 min)  
+
+adrian og øggøst er fyllesyke
+
+## 294 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)  
+Innkalling: 🙅‍♂️blir en vinstraff
+Servering: ✅
+Referat: ✅
+
+## 295 Gjøremål fra forrige gang (14:18 - 2 min)
+
+
+## 296 Status for komiteene (14:20 - 20 min)
+
+#### Arrkom, med velkom: 
+🙅‍♂️
+
+#### Bedkom, med ITEX:  
+
+ - Ting går på skinner, jobber mot bookingrunden for høsten og
+   planlegger litt fadderuke-sponsormuligheter.
+
+ITEX:
+
+ - Første møte på onsdag, bestemte hvilke bedrifter vi kontakter i
+   første omgang
+
+#### Dotkom:  
+
+ - Hvis vi har tid blir det design showcase på slutten av møte
+ - Har tellekorps til genfors
+
+#### Fagkom, med ekskom:  
+🙅‍♂️
+
+##### Ekskom  
+ 
+#### Prokom: 
+
+ - Ikke funnet referenter 
+ - Jobber mot årbokbilder
+
+#### Trikom:  
+
+ - Tuter og bråkær.
+ - Handler på mandag
+ - Bestiller varer til storcash skal få innkjøpsansvarlig til å gjøre
+   det fast
+ - Gått gjennom arrangementer prøvd å sette av penger til det. lyst til
+   å snakke med bedkom om kino
+ - Skal vaske kontoret og ommøblere, åpne arealet med varene slik at det
+   ikke blir like innestengt
+ - Ikke så mye som skjer om våren
+
+#### Seniorkom:  
+- Tatt inn 4 nye medlemmer, Sigurd, Claus, Rein og Loffen
+- Sliter med å finne 3-4 klasse til å være med i velkom
+
+#### Leder og nestleder:  
+- Signert kontrakter
+- Preppa til jubileum som han skal på i helga
+- Styreord er skrevet, skrevet om uketoget
+
+#### Økonomiansvarlig, med bankom:  
+HS: 
+
+ - Fiksa doodle til fordelingsmøte
+ - Alle har endelig betalt representasjon
+
+Bankkom:
+
+ - Revidert med abakus, sånn ish
+ - laget budsjettforslag
+ - offentlig regnskap blir ferdig på søndag
+ - Alle økans stiller til hs som vanlig, kan være lurt at folk ser på arvtagere til bankom for de som har folk som stiller til hs
+
+#### ITV:  
+🙅‍♂️
+
+#### Samlokaliseringsrepresentant:  
+🙅‍♂️
+
+#### RFK:  
+- Hadde åpent forrige fredag, har åpent idag og i morgen, 
+- Har genfors på søndag
+- Fra neste uke er det dahls på tap
+
+## 297 Interkom (14:40 - 10 min)  
+
+🤷‍♀️
+
+## 298 bulletin-board (14:50 - 10 min)
+[Aslak har sendt en mail med forslag om spamkanal og vil ha input. Les mailen før møtet]
+Aslak oppsumerer mailen
+
+
+Aslak: Ikke tillate ting som har rekrutteringsfokus
+Adrian: Ikke bedriftersarrangementer?
+Aslak: Hva om SiT skal ha arrangement? Det ville vært en ting vi kunne hatt der
+
+Aslak: Skriver retningslinjesett som vi kan diskutere på mail
+
+Adrian: Hvem skal moderere? 
+Aslak: HS sier ifra og dotkom-leder sletter
+
+Vi går for å prøve det ut og ser hva det blir.
+
+## Pause i 5 minutter kl 09:00
+
+
+## 299 Budsjett 19/20 (15:05 - 30 min)
+[Bankom har laget forslag. Vi må gå igjennom, kommentere/endre og godkjenne]
+Christian går gjennom budsjett
+
+ - Vil fjerne alle 0 poster - ga budsjette veldig høye tall, blir
+   kunstig
+ - Uforutsette utgifter er likt for alle, hvis noe stort blir ødelagt
+   går vi til hs
+
+HS:
+
+ - Bandet skal ikke ha fast budsjett hos hs, kan heller søke/be om
+   penger når det trengs
+ - Konkurransepremier flyttes til kun høsten, siden det ikke er noe
+   premier på våren.
+
+Arrkom:
+
+ - Fjerne inntekter for arrangementer fordi det alltid endres
+ - Fjerner ikke støtte fra IDI slik at vi faktisk husker det
+ - Slått sammen to nye og små arrangementer
+ - X-fest økes pga lokalleie har gått opp
+
+Bankom:
+
+ - Budsjettet til bankom er perfekt.
+
+Bedkom:
+
+ - Making that dolla dolla bill yall
+
+Dotkom:
+
+ - Øket domeneposten
+ - Samlet utstyrposten til et semster slik at det er enklere å kjøpe
+   store enkeltting
+
+Ekskom:
+
+ - Fjerner alt utenom teambuildingstøtte
+
+Fagkom:
+
+ - Mye det samme som bedkom
+
+ITEX:
+
+ - Egentlig 0 prosjekt, fjernes?
+
+Prokom:
+
+ - Senket forventninger til offline-inntekter
+ - Finner et fast antall annonser per utgave
+ - Skal kjøpe backdrop
+
+Seniorkom:
+
+ - Lagt inn støtte til utmatrikuleringen
+
+Trikom:
+
+ - Senket gratisvarer
+ - Endret det til mye mer oversiktlig
+ - 💸
+
+Velkom:
+
+ - Ikke mye endres
+
+Bankom fikser resten på søndag.
+
+
+
+
+## 301 Saker til åpent møte (15:35 - 10 min) 
+[Vi skal ha åpent møte neste uke, hva skal vi ta opp]
+
+ - Top/bottomquoting
+ - Kaffekanne ☕
+
+Alle må tenke over det og sier ifra
+
+Aslak blester for det på facebook og spørr etter saker
+
+
+## 302 Forespørsler som har kommet på e-post (15:45 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]  
+
+Noen som er gira på leonardo? Det skjer den 6. April 
+
+Vi prøver å få til hele HS på en avslutningsrepresentering 👯‍♂️
+
+
+## 303 Eventuelt (16:00 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]    
+
+ - Vi tar gjennomgang av verv-perioden vår på et av de neste møtene
+ - Meld dere på lunsjvenn
+ - Pål har fått skruf-merch
+
+## 304 Møteevaluering/Diggepunkt
+
+ - breezer-race skjer

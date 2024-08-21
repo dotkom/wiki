@@ -1,0 +1,124 @@
+---
+title: "Nye pins og klare for UKA-galla"
+---
+
+*Møtetidspunkt:* kl. 14:15 - 16:00  
+*Sted:* @ Mari's crib  
+
+*Referering:*  
+  1. ref: Mari   
+
+*Servering:* Thea  
+
+*Tilstede:*  
+
+*Ikke tilstede:*  
+
+*Straffer:*  
+Vin: Henrik
+
+## Innsjekk  
+
+## 712 - Godkjenning av innkalling, servering og referat fra forrige uke  
+Godkjent
+
+## 713 - Status for komiteene (20 min)  
+
+#### Arrkom:  
+- Jobber med å få ned pris på Åre
+- Prikkreglement-workshop 27.oktober
+
+
+#### Bedkom:  
+- Kommer i mål med bookingrunden
+
+#### Dotkom:  
+- Lite å komme med om dagen
+
+
+#### Fagkom:  
+- Kommer også i mål med bookingrunden
+
+
+#### Prokom:  
+- Fått svar fra videomakeriet, han har fikset på det vi ba om
+    - Om alt ser bra ut, kan vi poste videoen på sosiale medier
+
+
+#### Trikom:  
+- Storcash har nesten aldri varene vi trenger
+    - Folk klager på dette
+- Fått bruker til asko sitt system, så kan sammenligne prisene med de vi har hatt til nå
+
+
+#### Økonomiansvarlig:  
+- Ikke bra påmelding på budsjettmøte, plis blest<3 
+- Duvara og jeg dropper å leie inn ordstyrer grunnet den lave påmeldingen
+- Ikke fått noen tilbakemeldinger på budsjettet, siste mulighet er i dag.  
+
+#### Nestleder:  
+- Har trello-board med ting som skal gjøres, føler at vi har catchet opp med ting
+
+##### Oppdatering fra nodekomiteer:
+###### Seniorkom:
+- To nye interessegrupper
+
+###### Oil:
+- Mange arrangementer planlagt
+- Begynner å bruke opp budsjettet
+
+###### Appkom:
+- Begynt på utvklingen av techtalks-siden for fagkom
+
+###### RFK:
+- Nytt utkast til kontrakt er klar neste uke
+
+###### Ekskom:
+- Alle som vil være med på ekskursjon får bli med
+- Fått inn kontrakter og betalinger
+- Begynt å ha dugnader
+
+#### Leder:  
+- Begynt på planleggingen av generalforsamlingen, kommer tilbake til dette
+
+## 714 - Interkom (10 min)  
+- Kult kurs til fagkom: hvordan organisere e-post
+
+
+## 715 - Nye pins (Thea, 10 min)  
+[Online har fått nye pins, men hvem skal få de og når? Jeg tror en av konsekvensene av korona er at mange av oss i dette styret ikke kan så mye om hvem som tradisjonelt sett skal få pins og hvordan det gjøres. Slik det ble gjort på Immball i 2020 (at absolutt alle får) er IKKE sånn det tradisjonelt sett gjøres. Spurte Benedicte om dette og hun sa at det kun er førsteklassinger som skal få pin og at hvis vi vil gi til andre så burde vi vurdere om de skal måtte betale for de ettersom nye pins vil være ettertraktet. Hvis alle skal ha går vi fort tom igjen og det vil bli en stor utgift. Vi må også passe på at vi deler ut et sted hvor mange førsteklassinger deltar og hvor øvrige klassetrinn ikke begynner å forsyne seg. En mulighet kunne vært at vi byttet på å sitte på kontoret og dele ut til førsteklassinger som vil ha. Gjerne legg inn noen tanker her eller sjekk litt opp med andre dere tror kan litt om dette.]  
+
+- Thea: Hva kan vi gjøre og hva kan vi ikke gjøre?
+- William: synes alle skal få den, ettersom den er ny. Videre bør alle som få den få informasjon om greia med pin.
+- Anders: Synes alle som har pin fra før bør betale for ny pin, og de som ikke har fra før vil få den.
+- Thea: Enig med Anders. Vi bør sitte på kontoret og gi informasjon om pins, se de nye og få litt tilstedeværelse.
+    -  Ikke ta det på julebordet
+
+**Konklusjon**: alle nye medlemmer får pin gratis, alle andre må betale. 
+
+## 716 - Velkom og ITEX opptak (Sindre, 10 min)  
+[Nye skal tas opp. Vi har fått svar på [skjema](https://drive.google.com/drive/folders/11J-Ur5eeOXmXwTTwLESKuKZUegwKhh0G?usp=sharing) og videre plan legges] 
+ 
+- Velkom: Fått mange søkere, veldig bra!
+    - Håvard og Karan blir med på intervjuene
+- ITEX: Ikke like mange søkere, men gode kandidater
+    - William tar ansvar for dette
+
+## 717 - Semesterundersøkelse (Sindre, 5 min)  
+[Vi sendte ikke ut semesterundersøkelse forrige semester. Ønsker vi å lage en nå?]  
+
+- Henrik: hadde undersøkelse i vår
+    - Kan se på resultatene
+- William: lite hensiktsmessig, er lite spesifikt
+    - Forslag: sender svar fra forrige undersøkelse og spør komiteene om dette er noe de ønsker å forsette med
+- Anders: hva med trivselsundersøkelse?
+
+**Konklusjon:** Semesterundersøkelse blir mer til en trivselsundersøkelse (med gavekort)
+
+## 718 - Eventuelt (10 min)  
+
+- Dele ut pepperkaker på en av førsteklasse sine eksamener
+    - Sjekker timeplanen, tar det derifra
+
+- Felles movemberkonkurranse?
+    - Sarmi: trikom skal ha opplegg slik som i fjor

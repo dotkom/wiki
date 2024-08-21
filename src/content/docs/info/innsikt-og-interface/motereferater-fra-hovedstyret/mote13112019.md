@@ -1,0 +1,166 @@
+---
+title: "Møte"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** E4-107
+
+**Servering:** Benedicte
+
+**1. Referent:** Henrik
+
+**2. Referent:** Silje
+
+**Vinstraff:**
+
+**Ølstraff:**
+
+**Til stede:** August, Mathias, Andreas, Sigrun, Emil, Benedicte, Erika, Kaja, Monika, Silje, Henrik
+
+**Mangler:** Alis
+
+**TODO:**
+
+- Alle leser godt igjennom budsjettforslag til fredag.
+
+
+---
+
+[TOC]
+
+---
+
+
+## Innsjekk (14:15 - 2 min)
+Bra. Julebord blir hyggelig. Får litt kontroll på algdat. Bra. Kommer aldri til å ha kontroll på algdat. Bra. Fått tilgang på sykler. Bare spilt i dag. Skutt med tanks. Fint. Ble bedpres og ikke algdat i går. Superspennende å se om jeg består. Det går bra med meg. Gledet meg til møtet. Glad jeg fikk muligheten. Shots fired. Klar for å drikke. Gleder meg til julemat. Stress med algdat. Kanelholdig drikke. Bra. Juebord blir hyggelig, ALDRI STRESS over algdat. Progget masse. Superhappy, det er gøy.
+## 244 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
+Good
+
+## 245 Gjøremål fra forrige gang (14:18 - 2 min)
+
+- Alis må finne sitt gamle styrebånd. DONE
+- Benny bestiller Særdeles utmerkelse-diplomer (7 stk) DONE
+- Sigrun tar kontakt med Liam for neste års ekskom. DONE
+- Mathias sender mail til datakameratene-jentene. Nesten DONE
+
+## 246 Status for komiteene (14:20 - 15 min)
+
+#### Arrkom, med velkom:
+
+- Julebord går fint
+- Eksamensfest blir ordnet
+- Komiteseminar: Har begynt planlegging. Det går bra.
+- Alt er i rute.
+
+##### Velkom:
+
+#### Bedkom, med ITEX:
+- Sluttet med møter for semesteret.
+
+##### ITEX:
+
+#### Dotkom:
+- Satt opp techtalks-splash.
+- Kjøpe enda en TV til kontoret, fikk ja fra trikom
+- Fikset bugs på OW4
+#### Fagkom, med ekskom:
+- Abakus har økt kurshonorar. Vi er usikre på om vi skal følge.
+##### Ekskom
+- Har hatt valg, Fredrik Malmö (leder) og Jon-Inge Heggstad (nestleder) ble valgt. 
+
+#### Prokom:
+- Slipper Offline på fredag.
+- Siste møte i morgen. Straks ferdig for semesteret.
+- Utsalg av Online-gensere på fredag. Black Friday!!
+#### Trikom:
+- Planlagt vårens arrangementer. Mye moro.
+- Vil oppgradere kontoret etter jul.
+- Flyttet litt bod.
+- Siste møtet for semesteret i morgen
+#### Seniorkom:
+- Møte i morgen. Ikke skjedd så mye.
+#### Nestleder:
+- Jobbet med FIF-greier og sommerjobbsaken, hatt møte på Skype med Oslo og Bergen i går.
+#### Leder:
+- Ikke gjort så mye. Vært på... nei!
+#### Økonomiansvarlig:
+- Budsjettmøte. Kommet med et forslag
+- Drukket.
+#### Bankom:
+
+#### ITV:
+
+#### RFK:
+
+## 247 Interkom (14:45 - 10 min)
+- Ingenting
+## 248 Teambuildingstøtte (15:55 - 10 min) (bold diskusjon)
+[ Bankom har luftet å flytte teambuildingstøtten til en samlet pott. Hva tenker HS om det?]
+
+Avstemning: Blir dette et saksforslag til genfors, altså at det ikke blir tatt nå. 8 for, 1 mot.
+**Konklusjon**: Det blir genfors-sak
+## Pause (5 min)
+
+## 249 Budsjett (15:05 - 20 min)
+
+[ Kaja og Mathias legger frem budsjettet. Vi er litt uenige og krangler. Håpet er å komme frem til noe vi kan godkjenne.]
+
+- Kaja: Kommet med forslag til budsjett! Budsjettstemming på fredag 14:00, oppfordre alle i komiteene sine til å møte opp. Tenker vi kan gå igjennom HS sitt budsjett.
+- Sigrun: Støtter vi fortsatt datakameratene?
+    - Kaja: Ja, vi bare flytter det til OIL sitt budsjett.
+- August: Salg av daljer og pins. Hvor kommer tallet fra?
+    - Kaja: Det har stått der så lenge jeg kan huske. Hva vi regner med at vi selger. Vet ikke om vi trenger å ha 400 kr akkurat der. Forslag: Sette det til 0, har ikke noe å si. Vi tjente 227 kr på det i vår. Skal vi senke eller drite?
+        - Vi driter. 
+- Kaja: Følgende endring:
+   - Kompilering er satt fra 10k -> 6.5k
+   - Støtte til andre er kuttet, vi får ingen søknader om det uansett. Usikkert om det blir fast støtte til datakameratene FK jenter, men det går under OIL
+   - Datakameratene er flyttet til OIL
+   - Realfagkjelleren er økt
+- August: Hva kan uforutsette utgifter i HS brukes på?
+    - Kaja: Ekskom teambuilding f.eks. Om noen skal ha en uforutsette utgifter-post så er det HS. Om noen går over budsjettet så kan det taes herifra. Forslag å flytte det over til prosjekter-posten.
+    - August: Det er når noe blir ødelagt eller liknende og "MÅ" fikses. Ting som ikke kan planlegges. Synes vi kan fjerne den.
+    - Kaja: Mulig vi kan ta det på fredag.
+- August: Totalt sett: synes det ser greit ut. Kan være greit å ha veldig god peiling på hva som går hvor før fredag.
+- Kaja: Kommer også til å legge ut dette budsjettet så alle kan se. Anbefale at alle ser på det før møtet på fredag.
+- August/kaja: Møtet er åpent for alle. Få med så mange som mulig.
+
+
+
+## 251 ITEX (15:35 - 10 min) 
+[Bedkom fremmer et forslag om å ta over driften til ITEX grunnet problemer.]
+
+Kort kontekst:
+- Hele ITEX slutter -> null erfaringsoverføring.
+- Bedkom har allerede et stort ansvar i ITEX med å kontakte bedrifter.
+- Vil kompanseres med ekstra arbeidskraft i bedkom
+
+
+
+Konklusjon:
+- HS stiller seg positivt til at bedkom tar over, men vi må undersøke vedtektene nærmere (8 Ja / 1 Nei). Selve nedleggelsen av en nodekomite kan kun gjøres av genfors.
+
+## 251 Eventuelt (15:45 - 5 min)
+- August: Det er lov å gjøre opptak til våren. Om det trengs eller om man ønsker fler
+- Mathias: Litt input på datakameratene, det er 4 folk fra informatikk, det blir 1000 kr per hode.
+   - Kaja: Er det ikke naturlig at vi bare gir den samme støtten uansett? Vi vet jo ikke hvor mange som er med uansett.
+   - August: Om vi gir de pengene er det fordi vi vil at datakameratene jenter skal eksistere, ikke for å støtte hvert hode.
+   - Mathias: SKal vi gi de 4.000?
+     - August: Hvorfor gir ikke Omega penger, hvorfor betaler Abakus så mye som de gjør? Finne ut av dette. Er positivt innstilt. 
+- Monika: Stoppet av en vaskedame som da det så jævlig ut på kjøkkenet. Få kontorvakter til å vaske?
+    - Andreas: Har vi vaskeutstyr til det?
+        - Ja.
+    - Henrik: Trikom kan diskutere litt om hvordan de vil løse det, om kontorvaktene skal være ansvarlige. 
+    - Sigrun: Større problem i eksamensperioden. Kontorvakter slutter snart. 
+    - Benedicte: Gjør som meg og shame folk på kontoret-slacken. Det er griser som gjør det!
+    - Silje: På P15 hadde vi plakater oppe hvor det sto "Ikke vær en gris".
+- Andreas: Japanrommet som stillesal?
+    - Det er bare å henge opp en lapp så fort studasser stikker. 
+
+## 252 Møteevaluering/diggepunkt
+
+Alle digger julebord.
+
+## xXx JULEBORD! (15:50 - 600 min)
+
+God jul!

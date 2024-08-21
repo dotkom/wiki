@@ -1,0 +1,238 @@
+---
+title: "Hovedstyrets vi er ferdig med immball-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Tepose/Wiker
+
+**Vinstraff:** 
+
+**Ølstraff:**  Martin
+
+**Tilstede:** Emil, Thor Håkon, Sklirg, Wiker, Martin, Andrea, Ingrid, Kristiane, Hajem
+
+**Mangler:** Didrik
+
+## 116 Godkjenning av innkalling, servering og referat 
+Referat ikke lagt ut offentlig. 
+
+## 117 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+- Blåtur Støren: Gøy! 
+	Ny ting på bussen: Alle sendte inn sladder som ble lest opp på turen. 
+
+
+	Det regnet så noen dro litt tidlig til utestedet. 
+
+
+
+- Vært på befaring i fjordgata til Online kasino. 
+
+- Oktoberfest: 
+	Hybrida, volvox, abakus, Omega. 
+	Enten i kjelleren på losjen eller partytelt bak festningen. 
+	
+- Adventure of online
+	Ikke mye som skjer.
+
+- Åre
+	Er good. Påmelding 21. oktober
+
+- Teambuilding
+	Hyttetur til helga
+
+- Jubkom
+	Påmeldinga har gått ned siden folk ikke har betalt og blitt kastet av. 
+	Tror ikke at vi utvider på scandic siden det er dyrt. 
+
+#### Bankom:  
+
+- Kurs av nye i morgen.
+- Prokom stiller med ny økonomiansvarlig 
+
+#### Bedkom, med ITEX:  
+
+
+Bekk gikk bra
+
+EY gikk bra
+
+Oslotur går bra hittil. 
+
+Planlegger teambuilding med abakus. 
+
+Fikk 7/8 bedrifter til osloturen. 
+
+#### Dotkom, med appkom:
+
+Skal kjøpe flere harddisker. 
+Spilte fotball på kickoff.
+Kjøpt 3 nye harddisker. 
+Sett på google apps. Kan få det for non-profit. Kan bytte ut mailsystemet og legge det der. 
+- Filområdet
+	Nye i prokom har ikke fått bruker der. 
+	Plan om å synce filområdet med onlinebrukeren.
+
+Skal starte nye prosjekter:
+	- Redesigne karrieresiden og forsiden()bytte teknologi her.
+
+
+#### Fagkom, med ekskom:  
+
+Påmelding til knowit: Bra
+
+Midtsemester i algdat. 
+
+Teambuilding med bedkom har skjedd. Skal ha teambuilding med abakus. 
+
+Personen som skulle til Oslo for fagkom er syk. 
+
+
+Booket microsoft og innovasjon norge på ambassaden. 
+#### Prokom:  
+
+Har hatt brekkehelg i helga. Offline kommer snart.
+Ny økonomiansvarlig. 
+Lager plakater.
+Hadde CV-fotografering. 43 møtte. 
+
+#### Trikom:  
+
+Startet med smashpåmelding. 
+
+Turen er så og si klar. Skal gå over førstehjelpsskrin. 
+
+Studlan gikk bra. Fagkom/bedkom ryddet kontoret etter studlan. 
+
+Teambuilding 6 november. 
+
+Vil ha vipps på kontoret. Håkon er uenig. 
+
+Sett på den nye boden. Den er sweet. Det er et lite kjøleskap der som kanskje blir stående. 
+
+
+#### Seniorkom: 
+
+Kickoff gikk bra. Alt gikk på skinner unntatt at dotkom hadde litt forvirrende bedskjeder. Fikk beskjed om at de skulle ha en post. Men fikk sent beskjed om at de ikke skulle ha det likevel.
+
+Creds til de som var igjen for å rydde. 
+
+Diskutert tillitsvalgtordning og hva som kreves av dem. 
+
+Sender ut en liten spørreundersøkelse som skal besvares av de som var på kickoff. 
+
+#### Leder og nestleder:  
+
+Thor Håkon jobber for tiden mest med jubileum. Følger med på mail. Lagd spørreundersøkelse.
+
+Fra linjeledermøte: 
+Bindeleddet - Karrieredagene
+- Det ble diskutert å gjøre om navnet så det er tydelig at Bindeleddet er for indøk.
+- Diskuterte hvordan blestegebyret skal ordnes. Linjesamarbeidet skal utarbeide et konkret forslag. 
+- Vi må oppfordre våre førsteklassinger til å ikke drive med hærverk. 
+
+#### ITV: 
+Ikke invitert, vinstraff til THB
+
+## 118 Interkom (10 min) 
+
+- Kristiane: 
+Rotete sortteringsalgoritme for arrangementer på forsiden. 
+
+Grunnen til at det ble endret er fordi det var mange påmeldinger som ikke lå på fremsiden. 
+
+Martin: Kan dele arrangementene i sosiale og faglige arrangementer.
+Kristiane: Er enig. 
+
+Dotkom, fagkom, bedkom, trikom og arrkom skal ta et møte for å diskutere en passende algoritme. 
+
+
+## 119 Prikkeregler
+
+- Prikkregler som ble vedtatt av gamle HS har ikke blitt lagt ut. 
+Suspensasjon fungerer ikke. 
+
+Arrkom har hatt caser der noen meldte seg av arrangement for sent, og de måtte betale for at arrangementet skulle gå i null. Men de ble ikke gitt en prikk. 
+
+Kristiane skal se på hva det gamle HS vedtok og legge inn den nye casen, så kan vi diskutere det i starten av neste uke. 
+
+
+## 120 Møtetid (Didrik/Emil)
+
+Bare møtetiden til HS passer som møtetid for bedkom. 
+
+Bedkom opplever frafall grunnet dette. 
+
+HS skal prøve å bytte møtetid, hvis det går i orden så kan vi bytte. 
+
+## 121 Kontanter og Trikom
+
+
+
+## 122 tillitsvalgt
+	
+Ingrid går gjennom kravspec på drive. 
+
+Sender ut kravspecen til komiteene i morgen. Hver komitéleder skal ta opp dette med sin komité på neste møte og velge sin tillitsvalgte på møtet om to uker.
+
+Alle lederne skal også på tillitvalgtkurs. 
+
+## 123 Opplæring (hvordan være HS-medlem)
+
+Sender ut doodle. 
+
+## 124 Forespørsler som har kommet på e-post (5 min) 
+
+* Deltas XYZ-faktor
+	- Martin, kristiane, Andrea, Thor Håkon og Marianne. Thor håkon svarer. 
+* Paretos Vinterball
+	- Alle hører med nestledere. 
+* Norges Tekniske Vitenskapsakademi 
+	- Martin blester i informatikkgruppa
+
+* Gløsmesterskap
+	- Blester på informatikk-gruppa
+* Jubkom
+	- Til i morgen skal alle foreslå en person som Marthe kan ta med i filmen
+* Førsteklassinger på immball
+	- Mange har bedre oppsluttning enn oss. 
+
+
+* IFI galla
+	- Alle spør nestledere
+
+
+## 125 Ukens infomail og Facebook (5 min)  
+	
+
+## 126 Eventuelt (10 min)
+- Hade erik
+
+ 
+Kristiane lurer på hvor mange riddere det skal bli, er blitt 6 på et år, skal gå fint
+De skal ha gjort mer enn det som kreves av de. Når de blir for mange gir vi de x plasser på immball
+Hvis det er noen nominasjoner kom med det på epost, med en liste over ting han har gjort
+
+- Hade håkon
+
+- Koskveld
+Har det hos Thor-Håkon, skal lage pasta med kremasopp, yeay, kombi med å diskutere hva vi vil gjøre med online. Målsettninger med hva vi vil oppnå, og alle skal ha 2 ting til hva de vil gjøre for komiteen sin. Drikke skal med.
+
+- HS forumet skal være for å ta opp vanskelige saker. Demotiverte folk, vanskelig og ta opp ting for folk. Bruk HS til andre ting en status oppdateringer eller ball. Vær med folk i komiteen.
+
+- Medarbeidersamtale tas på mail
+
+- Mer artikkler på ow4, er på vei.
+
+- Hyttetur
+Hytte er i boks, ingenting annet. Fordele matlaging på linjeforeninger, bli-kjent-fredag og leke på lørdag. Bjerke har muligen bil. Mulig vi får låne bilen til Emil
+
+
+
+
+## 127 Møteevaluering/Diggepunkt (5 min)
+
+## 128 Gjøremål

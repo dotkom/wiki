@@ -1,0 +1,167 @@
+---
+title: "2018-11-13"
+---
+
+**Møtetidspunkt:** 08.15
+
+**Sted:** 054
+
+**Servering:** Adrian
+
+**Referering:** Andreas
+
+**Vinstraff:** Pål (Kom ikke)
+
+**Ølstraff:**
+
+**Til stede:** 
+
+**Mangler:** Pål, Jakob
+
+- - -
+
+[TOC]
+
+- - -
+
+## Gjøremål
+
+
+## Innsjekk (08:15 - 2 min)  
+
+## 218 Godkjenning av innkalling, servering og referat fra forrige uke (08:17 - 1 min)  
+
+ - Godkjent. Referat er ikke ute, må få boldet det som boldes må.
+
+## 219 Gjøremål fra forrige gang (08:18 - 2 min)
+
+- [x]  Datakameratene: Endre hører med jentelaget for å finne ut hvor mange fra informatikk som spiller der.
+- [x]  Datakameratene: Aslak svarer Frikk om at vi gjerne vil ha en kontaktperson som går informatikk.
+- [x] Kaffe: Adrian svarer Linda om at det var miskommunikasjon i styret.
+- [x] Kaffe: Adrian svarer fondet om å få svar fort.
+- [x] Styrefest: Aslak og loffen sjekker ut vors-muligheter
+- [x] Styrefest: Alle må skaffe turtleneck
+- [x] Styrefest: Aslak snakker med Hajem om å låne briller fra C-sharp.
+- [x] IT-Styre-Hyttetur: Aursand er med å arrangere, Sander er med(!!), Johannes(?)
+- [x] Koppekrise: Pål poster på Facebook
+- [x] Eksponeringsgruppa: Endre fikser mail til de som søkte ekspo under komtièopptaket
+- [x] Epost: Aslak svarer Erik Skår
+- [x] Epost: Aslak svarer Mathias Fossum
+- [x] Epost: Aursand svarer Bjørn Spangelo
+- [x] Velkom: Loffen snakker med Johannes om opptak
+- [x] X-Sport: Endre svarer om hva vi bestemmer og at de må søke penger fra IDI
+- [x] Loff til loffen: Christian booker time.
+- [x] Pokerbord: Sander hører med Johannes
+
+## 220 Status for komiteene (08:20 - 20 min)
+
+
+
+#### Arrkom, med velkom:  
+Arrkom: Nest siste møte i går. Alt går fremover, masse plakater. Folk flest i arrkom har ikke forventinger om at de blir ferdige før nyttår. Mail sendt feil, loffen og/eller Aslak fikser, det er ikke så farlig. Blestet julebord og Åre i algdat. 
+
+Velkom: Fått referat fra forrige velkom. Johannes og loffen er i gang med opptak
+
+#### Bankom:
+Siste møte for semesteret. regnskap for året er så å si ferdig. Mario party er god motivatør. Feirer med Cavasøndag. god stemning
+
+#### Bedkom, med ITEX:
+Bedkom: Har hatt siste bedpres for 2018. Snart fått inn alle kontraktene for neste semester. Skal holde medarbeidersamtaler snart. Signerte HSA for 2019! Skal poste på facebook om det snart.
+
+ITEX: Har (kanskje) hatt intervjuer. Har fått flere søknader, så må kanskje si nei til noen. Mathias styrer showet. 
+
+#### Dotkom:
+Får ting klart til mandag, blir mega-gøy. 
+
+#### Fagkom, med ekskom:
+Fagkom:  Har kurs på Torsdag, trenger deltagere, eller så avlyser IBM. Har medarbeidersamtaler, og god S ellers. Eksamenskurs er snart i boks.
+
+Ekskom: Møte forrige Torsdag. Ting fikses.
+
+#### Prokom:  
+Offline neste uke. juleavslutning snart. Sendt ut info om å tenke på tema til neste årbok. Kanskje kurs i adobe neste semester.
+
+#### Trikom:  
+
+#### Seniorkom:  
+Hajem har gitt seg som interessegruppeansvarlig.
+
+#### Leder og nestleder:  
+Leder: Jobbet mye, mailet mye. Ryddet kontoret så å si hver dag.
+
+Nestleder:  Skrevet om infomailen. Snakket med Johannes om Velkom
+
+#### ITV:  
+Møte med Roger Midtsaum i dag.
+
+#### RFK:  
+Besøk på fredag av sjenkekontrollen. Ingen prikk, alt er bra! RFK er flinke. Begynt planlegging av drinkekart. Skal prøve å få gjeninnført kjellerrulleten. Blester for barnebursdagen i morgen. Onlinere er litt dårlige til å møte.
+
+#### Samlokaliseringsrepresentant:  
+Samlok er utsatt fra Kalvskinnet sin del, de ble enige med oss!
+
+## 221 Interkom (08:40 - 10 min)
+Kan vi få banner på facebook hver uke, slik at arrangement som er samme dag kan være med? Ja sier Prokom.
+
+Alle: Mange har vært ganske dårlig på å legge inn arrangementer i kalenderen når man lager de for å unngå dobbelbookinger, men det har bare vært enkeltilfeller i det siste. Vi har vært ganske gode til å legge inn arrangemneter tidlig. Neste semester kan man hvertfall ikke klage.  
+
+## 222 Spørreundersøkelse (08:50 - 10 min)
+[Vi skal ha spørreundersøkelse! Har folk tatt det opp i komiteene sine og hvordan skal vi gjøre det?]
+
+Folk må ta opp i sin egen komité at de må diskutere hva de vil ha med i spørreundersøkelsen. Alle får tilsendt forrige semesters undersøkelse slik at man kan se over og se om noe mangler, ta det opp med komiteen. Abakus bruker mange forskjellige undersøkelser, men hadde ekstremt mange svar, over 400. Vi må få pumpet opp antall. Vi må ha premie. Anbefaler at alle setter seg ned med sin komité og fyller ut under et møte. Fagkom sin må utvides, da den mangler en del om eksamenskurs, hvilke bedriftskurs man vil ha, tema osv. 
+
+## Pause (09:00 - 5 min)
+[Flyttes punktvis nedover om klokken ikke er blitt 09:00]
+
+## 223 Julekort (09:05 - 5 min)
+[Vi sender alltid ut julekort. Hva gjør vi med årets kort?]
+
+Forrige semester kjørte vi felles julekort, med alle som var med på julegrøten, med stor suksess. HS er jo tross alt ikke Online. Denne gangen må HS være mer julete, alle har på noe juleræl. Vi bærer også Pål. Send også med siste Offline slik at alle som har abonnement får et. Vi må også gå distribusjonsrunde på alle kontorene. Pål må få inn at det er julekortbildetakning på julegrøten.
+
+## 224 Styrebånd (09:10 - 10 min) 
+[Disse fordufter så det holder og har begynt å bli ødelagt. Skal vi se på å skaffe nye og ha noen regler rundt lån både for HS og andre?]
+
+Styrebåndene for 2 år siden hadde nye bånd, 16 stk. Vi har 10 nå, hvor er resten? De vi har er ganske skittene og/eller har hull. Vi har tidligere hatt mødre av styremedlemmer som syr for oss, så gir vi materialer og en vin eller lignende i gave. Er det noen her som har mødre/familiemedlemmer som kan å sy og liker det? Vi må spørre familien. Kan vi ha noen måte å holde styr på båndene, i noe format som et tall? Ja det bør gå fint. 
+
+Vi har blitt invitert tidligere til å gjøre dette selv med Tihlde, så kan vi gjøre dette selv? Det kan være en god idé! Skal vi ta med på kjelleren og kombinere med teambuilding? Sy og Spy foreslåes, men det er kanskje litt i overkant. Vi ser på om det kan ordne seg til nyåret. 
+
+
+## 225 Infomail (09:35 - 5 min)
+[Loffen har endret formatet på infomailen, innspill og endringsforslag tas imot med glede]
+
+Loffen fant ut at han ville skrive om infomailen. Han ønsker feedback på den nye for å forberede den. Nytt format, hvor han skriver om det som skjer den uken, og nevner mer av det som skjer neste uke. Loffen vil også ha inn ting i god tid slik at han slipper å stresse med infomailen på dagen. Kan det legges på OW som artikkel? Det blir fort mye spam. Loffen fortsetter foreløpig med det han driver med nå. 
+
+## 226 Støtte fra IDI 2019 (09:40 - 10 min) 
+[IDI vil at vi søker støtte til ting i 2019 før 28. november, hva skal vi søke om?]
+
+Unni har sendt mail. Ber om å sende ønsker til IDI innen 28. november med hva vi vil ha støtte til. Alltid greit å søke Lightning Talks. Hva bør vi søke om? 
+
+- Julebord 
+- Immball
+- Masterfadderuker
+- Utmatrikulering
+
+
+## 227 Forespørsler som har kommet på e-post (09:50 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.] 
+
+[Søknad] Søknad om økonomisk støtte til barnebursdag - 13. november
+
+ Christian: Litt sent å komme med det nå. 
+ Flere er positive, men ville ha litt innsikt i hva det skal brukes til spesifikt. Stickers, ballonger osv. Tar det videre på mail. 
+
+## 228 Eventuelt (10:00 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]  
+ - Vors til styrefest: Sander sjekker muligheter for å ha lukket på kjelleren.  
+
+ - Tema til årbok: Pokemon, Harry Potter. 
+
+## TODO:
+
+ -  Alle komiteer: Alle må ta opp semesterundersøkelsen med sin komité 
+ - Pål: må få inn at det er julekortbildetakning på julegrøten.
+ - Alle: Tenke over nominasjoner til Særskilt utmerkelse.
+ - Alle: Diskutere hva vi vil ha av støtte til komiteer innen neste uke. 
+ - Christian: Sender "brev" til Stripe for å confirme loggin. 
+
+## 229 Møteevaluering/Diggepunkt

@@ -1,0 +1,111 @@
+---
+title: "Møte 19.01.18"
+---
+
+**Møtetidspunkt:** 16.15 (rom S21)
+
+**Servering og referering:** Taran
+
+**Straff:**  
+
+**Tilstede:** Didrik, Aslak, Christoffer, Edvard, Marius, Emil, Henrik, Sigurd Wie, Peter, Hege
+
+**Mangler:** Erik
+
+## Innsjekk (16.15)
+[Hvordan har dere det?]
+
+## 252 Godkjenning av innkalling, servering og referat fra forrige uke (16.19)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+YAAAS
+
+## 253 Status for komiteene (16.20)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+Ikke noe møte siden sist, Åre gikk smertefritt. Ingen store problemer. Mye pølser og pølsebrød, må nok gis bort. 
+
+#### Bankom: 
+Nærmer seg genfors, arbeidskveld forrige lørdag. Regnskapene unntatt desember mangler. Arrkom ikke ført mer enn september. Jubkom har noe som ikke er tatt. Revisjon med Vegard(a) snart, blir hyggelig.
+
+-trikom: Pål er ny økonomiansvarlig
+
+#### Bedkom, med ITEX:  
+
+Alle bedrifter til techtalks klare
+
+#### Dotkom:
+
+#### Fagkom, med ekskom:
+fagkom: ingenting  
+ekskom: venter på kontrakter. alle rom til techtalks booket.  T-skjoerter og bannere er i ferd med å bli bestilt.
+
+#### Prokom:   
+årbokfoto kommer. nødbestillinger av bonger. techtalks. 
+
+#### Trikom:  
+
+#### Seniorkom: 
+
+#### Kommunikasjonsansvarlig:
+
+#### Leder og nestleder:  
+Hege: Planlagt hyttetur
+Didrik: Laga genforswiki, informasjonsmøtearrangement, snakka med Kristoffer Thorbjørnsen i samlok: ville informere oss om det vi allerede vet. Vi er visst godt rustet. Prøvd å lage informasjonsskriv.
+
+#### ITV: 
+
+#### RFK:
+Første møte, har starta å søke om sjenkebevilling, ekstraordinærtoårsmøte for å velge ny leder, for å ha på bevillinga
+
+## 254 Interkom (16.45) 
+[Her skal saker som angår tre eller flere komiteer.]  
+
+Har bytta til digitalt regnskap. Alle skal fylle ut kvittoskjema digitalt. Gjør jobben til bankom masse lettere.
+
+## Fem minutters pause klokken 17.00.
+[Flyttes (punktmessig) dersom vi er kommet lenger i sakslisten innen 13.00]
+
+## 255 Hyttetur (16.20)
+
+[Noen som ikke skal være med? Status vinbrygging. Status fra Hege og Erik]
+
+9 stykker fra Online-HS stilller
+
+## 256 Fast møtetid (16.38)
+[Vi hadde egentlig klart å komme opp med fast møtetidspunkt, men så kunne ikke Christoffer lenger. Eneste alternativet alle har svar at de kan er fredager fra 16-18, men Didrik er lite keen på å ha møter der, så vi tar en diskusjon til.]
+
+Det blir fredager 12-14!
+
+12-14 på fredager er fast møtetid.
+
+##Pause kl 17
+
+digg
+
+## 257 Generalforsamlingen (16.30)
+[Vedtektsforslag eller sakforslag HS ønsker å ta opp? Wikien er mer eller mindre ferdig]
+
+Didrik har fikset Wiki. Vi må få inn fondet. 
+
+
+## 258 Info fra IDI
+
+Hadde workshop forrige uke.
+Vil få til et månedlig møte for å jobbe mot et felles mål, kordinere pengebruk.
+ExcITed sin arbeidsdag fortsetter dette semesteret, for førsteklassinger. Dette er et forskningsprosjekt for PhD-kandidat.  
+Excited har 5 delprosjekt, som vi kan søke om penger fra.
+Vi har et plassproblem akkurat nå, men det skal ordne seg til høsten når vi flytter til Realfagbygget.
+
+
+
+## 260 Ukens infomail og Facebook (16.44)  
+[Hvem poster hva, og når?] 
+Se gjennom flyttegreier til i morgen
+
+
+## 261 Eventuelt (16.45)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+
+- Trekning av julekalendervinner.

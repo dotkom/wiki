@@ -1,0 +1,219 @@
+---
+title: "HS møte 26/01-21"
+---
+
+# HS møte 26/01-21  
+
+*Møtetidspunkt:* Zoom, kl 11:15 - 13:00
+
+*Referering:*  
+1. Stensrud  
+2. Kristoffer  
+
+*Tilstede:*  
+ - Mathias  
+ - Johanne  
+ - Benedicte  
+ - Monika  
+ - Thea  
+ - Sindre  
+ - Øyvind  
+ - Kristoffer  
+ - Marius  
+ - Henrik  
+ - Andrè Schøth  
+ - Sigurd Oxaas Wie  
+ - Stensrud  
+
+*Straffer:*  
+ - 1x vinstraff til Stensrud for SEIN rapport til IE.  
+ 
+## TODOS fra forrige gang. 
+- [ ] **Mathias:** Teipe boden. Ikke gjort, føres videre, må gjøres før genfors  
+- [x] **Kristoffer:** svare Thea, nei Nikolai.  
+- [x] **Stensrud:** Bli støttekontakt:)  
+- [x] **Benny:** Genfors arrangement på OW.  
+- [x] **Marius:** Velge ut prosjekter som HS/Komiteene kan arbeide videre med  
+
+## 534 Godkjenning av innkalling  
+Godkjent  
+
+## 535 Status for komiteene (11.20 - 20 min)  
+#### Arrkom, med jubkom:  
+- Gaver.  
+- Hatt to møter siden sist gang, ser an situasjonen, gira på å få til noe, kanskje noe digitalt, men det har ikke vært så suksess tidligere.  
+- Utendørs aktiviteter - Vassfjellet (kanskje Pirbadet)  
+- Onsdag møte veldedighetsfest abakus - var en stor suksess. Har lyst til å få til det samme.  
+- Prata med Bekk ang. komitéseminar. De er down, men må bare finne ut hva vi skal gjøre. Kan også utsettes.  
+
+#### Bedkom, med ITEX:  
+- Hatt to bedpresser siden sist - SpareBank1 og Visma  
+- Testet ut Foodora Corp, har laget erfaringsskriv  
+- Snakket om UKA-LS avtalen, fatter ingen tiltak der  
+
+#### Dotkom:
+- Første arbeidsdag på søndag. Noen av teamene på skolen. Gruppene booker eget rom  
+- Fått mange tilbakemeldinger på grades.no. Sertifikatet ble fornyet.  
+- Infomail skal fikses for Sindre.  
+
+#### Fagkom, med ekskom:  
+ - Hatt 2 møter siden sist  
+ - Gått mye på planlegging av semesteret - hvilke kurs vi vil arrangere  
+ - Bookingrunden, hatt workshops siden sist  
+ - Et kurs foreløpig med skatteetaten, de har mye regler rundt GDPR. Få (6) plasser. Kurset var  bra for de som var der.  
+ - Uttrykt engasjement for å lage et side på wiki for faglig ressurser. Med mindre det er regler for hvordan å utvide wikien, så blir det kanskje gjort.  
+    - Monika: Er et team i dotkom som jobber med å lage ny wiki. Send en mail til de for å høre hva de tenker om det.  
+ - Vi lager innholdet, og så kan det legges ut når nye wiki er klar.  
+
+
+#### Prokom:  
+ - Hatt 2 møter siden sist  
+ - Endelig litt fremgang i merch. Blitt vasketesta, hatt photoshoot  
+ - Får se når det blir "lansert" til offentligheten  
+ - Begynt med offline, brekkehelg neste helg.  
+ - Avklart med bedkom ang. artikler osv.  
+     - Bedkom digger.  
+ - Sosialkveld på fredag  
+
+#### Trikom  
+ - Snakket om digitale arrangementer, ingen er gira på å arrangere det  
+
+#### Seniorkom:  
+ - Startet prosessen med å effektivisere interessegrupper  
+ - Midler brukes ikke opp  
+ - Reaktive -> proaktive  
+ - 4 task forces som jobber med prosjekter  
+ - Sett på utmatrikuleringen, er i villrede der på hvordan det skal bli. Vet ikke hva som kan gjennomføres. Lite insj i seniorkom, få som har tid.  
+ - Satt ned arbeidsoppgaver som skal videreføres til HS/komiteene.  
+
+#### Bankom  
+ - Første møte+arbkveld  
+ - Revidering 2020  
+ - Håper det snart blir mulig å ha det fysisk. Savner pizza, og digitalt er wack  
+
+#### Økonomiansvarlig  
+- Betalt og rapportert ting.  
+- Støtte fra VT, får se hva vi får.
+
+#### Nestleder:  
+ - Fiksa tilganger. Var en del som ikke hadde tilganger  
+ - Excel viser datoer på en merkelig dato, som kan ha vært grunnen  
+ - Det skal være fikset opp i, men si ifra om det er feil. Vær litt på og spør om folk i komiteen deres har tilgang  
+ - Døra ved IT-bygget-hjørnet er stengt. Veldig dårlig S, siden vi må banke på drivhuset for å komme oss gjennom  
+     - Sendt inn til post-IDI, Unni svarte, forhåpentligvis så får vi tilgang tilslutt.  
+ - Var med på billedtakning med merch i går med prokom  
+ - Klar til å poste info om genfors  
+
+#### Online IL:  
+ - Har ikke hatt første møte ennå  
+ - Lederbytte kommer nok snart.
+
+#### Leder  
+ - Prata med velkom, startet oppstartmøtet.
+ - Begynt å fikse genfors ting  
+ - Hørt med IDI om de hadde teip til boden. Det hadde de ikke  
+ 
+
+## 536 Interkom (5 min)  
+ - Sindre: Utmartikluering, som Marius nevnte. Har hørt at det kun er for 5.klasse, og ikke 3.klasse. Satt noen 5.klassinger på det, men de vil jo delta.  
+     - Marius: Trenger egt bare en konferansier, og ellers folk til å planlegge. Alt er nedskrevet, så vi trenger bare folk til å faktisk gjøre oppgavene på arket  
+ - Øyvind: Har hatt en liten revolusjon i hvordan vi i fagkom og bedkom gjør booking, hindre at ting krasjer. Er jo fort at ting flyter over i hverandres ansvarsområde. Oppfordring: vær mer positiv til å få til samarbeid istedenfor å hakke end på "dette er denne komiteens domene".  
+ - Benny: Jubkom. Hadde møte med Jonas - leder i Jubkom.  
+     - Har funnet seg økans, nestleder  
+     - Ga han tilganger og litt innføring i hvordan online fungerer  
+     - Han har åpnet opptak av komitémedlemmer  
+     - Ballen ruller  
+
+## 537 AUO Saker (10min)  
+[Ref mail fra William]  
+
+ - Er ikke så veldig viktig hvem som tar opp f.eks Vara og fastsatt suppleringsopptak. Kan jo være passende at AUO iterer over sitt eget forslag og kommer med forbedringer.  
+ - Hvordan stiller vi oss til hva vi skal gjøre videre med AUO  
+ - Skal de ha mandat ved neste neste genfors?  
+     - Benny: Det har vært veldig vanskelig å rekruttere folk til AUO. Vi har måttet jobbe veldig hardt med å finne mennesker, det er slitsomt. Det er også viktig at folk er gira å jobbe med det. Hovedstyret har kanskje mer tid nå, etter splittelsen, til å ta for seg organisatorisk arbeid som er AUOs domene per i dag.  
+         - André: tror mange føler AUO er et verv som er mye arbeid men lite utbytte. Abakus har starta Abakom som er en egen komite for å se på slikt arbeid innad i foreningen.  
+         - Sindre: Ref det å slå det sammen. Positivt for AUO at det består av folk utenfor HS, folk får et utenfrastående perspektiv.  
+ - Øyvind: Kan Andre forklare hva vara-forslaget går ut på?  
+     - Andre: Det er ganske enkelt egentlig: Det vi tenker er at vara til HS strykes. Komitéleder blir per def HS-vara. Vara til komiteleder omdøpes til nestleder av komiteen.  
+ - Thea: Spesielt nå i denne perioden - med korona - hvor det er mindre samhold, kan det generelt sett være vanskelig å få folk inn i roller. Mye av insentivet er jo det sosiale  
+ - Benny: Da jeg posta blesten for opptak til AUO. Det virker som om det er veldig trangt med hva man kan jobbe med. Det høres ut som veldig tørt, dermed er utgangspunktet for rekrutering veldig dårlig. Det burde omdøpes til noe mindre byråkratisk. Folk synes jo at genfors er bare memes og pizza. Hvis vi ikke bestemmer at HS tar over jobben, så bør det shines opp litt så det blir mer attraktivt  
+ - Øyvind: Jeg tenker det er god ide å binde dette til HS. Vi burde dog være forsiktige med å si at HS har mer tid til å jobbe med dette. Det burde fungere bra om HS setter seg ned og finner ut hva AUO skal jobbe med resten av året og vi rekrutterer riktige folk. Det fungerte med Si Ifra.  
+ - Andre: Enig i det Øyvind sier. en annen ting vi kan forbedre, er timingen. Opptak og blesting falt jo mot slutten av semesteret, når folk har mer på feire. Kanskje det kan være bedre å gjøre det f.eks rett etter genfors?  
+    - Sigurd: Da det starta i fjor så var det i Covid-perioden, folk var demotiverte fra starten.  
+ - Mathias: Vi hadde flaks i år siden de i AUO nå er smarte folk. De visste hva de gjorde. Usikker på hvordan det blir neste år, det tok veldig lang tid når August skulle sette sammen et team. Mulig vi kan spørre Generalforsamlingen om dette. Neste HS kommer nok til å ha mye å gjøre. For meg så var det slik at AUO og jubkom hang alltid over meg. Vi kan aldri komme i mål på hvordan organisasjonen skal se ut, kanskje vi skal la ting sette seg litt.  
+ - Sigurd: Har snakka om å skrive et erfaringsskriv om endringer vi kan se for oss i fremtiden. Det er endringer langt frem i tid, for fremtidige generasjoner.  
+
+## 538 Endre gir siste fra Siifra[10min]
+ - Endre går gjennom hva Si Ifra har gjort siden midten av oktober.
+     - **Arbeidsdeling**  
+         - Inngått samarbeid sammen med Abakus.  
+         - Håndtere systemdelen av varsling og kulturdelen. Dobler arbeidsmengden.  
+         - Levere noe til Generalforsamlingen. Ha noe presentabelt til sommeren.  
+         - System vs kultur  
+             - System: Prosesser i organisasjonen  
+             - Kultur: Varig endring. Innstillinger hos våre  medlemmer  
+         - Abakus vs Online  
+             - Abakus er mer teoretisk, beskrivelser av uønsket adferd, forventninger til medlemmer, sanksjoner osv.  
+             - Online: Hvordan kan vi behandle dette i praksis? Praktisk tilnærming  
+             - Ønsker å unngå overlapp i arbeid  
+     - **Hva er en tjeneste i design**  
+         - Man kan designe tjenester, ikke bare produkter.  
+         - en tjeneste består av tre ting  
+             - Process: Flyten vi leverer, systemet  
+             - People: Folkene som skal gjennomføre tjenesten  
+             - Props: Støtterammerverket rundet. som ikke sikkert inngår i tjenesten  
+     - **Status på tjenesten**  
+         - Vi startet med prosess, ikke så mye people eller props  
+         - Endre viser en grov prototype av tjenesten. I utgangspunktet er det 3 ting:   
+             - Hvordan skal vi ta imot saker? 2 måter:  
+                 - Man skal kunne varsle en sak mot en annen person.  
+                 - Man skal kunne varsle en sak mot seg selv.  
+             - Fadderbarn osv dropper vi.  
+             - Utvelgelsesprosessen. Et sett med folk som jobbe med saken. Varsler og anklaget. Hver part har en "støttespiller", for å ha en person som lytter på dem, at det ikke blir en tøff situasjon for de som er involvert. Støttespillerne skal ikke bestemme det endelige utfallet. Et sett med behandlere også, de som skal nøste opp i det og finne ut hvordan Online skal forholde seg til det. Hovedtillitsvalgt er en slags "information sink", som skal ha overblikk over det meste. Skal se koblingene mellom saker, særlig hvis det angår samme "sett med folk"  
+             - Avslutningsvis, vises behandlingsløpet:  
+                 - Varslere, sine støttespillere, behandlere får først oversikt over saken ved å snakke med varsler. Etterpå går man til anklagede for å formidle kun det nødvendige til Anklagede.  
+                 - Dette kan gjentas uendelig for å nøste opp saken.  
+                 - Til slutt skal man fatte et vedtak.  
+         - Fatte vedtak: Formål: skal ta brodden av, og hindre at vi blir en domstol. ønsker å gjøre det mer om til en prosess som bedrer studiemiljøet, enn noen som medfører sanksjoneringer.  
+     - **Veien videre**  
+         - Rollespill. Skal testes ut, vi har invitert folk for å lage saker for å kunne vurdere hvordan å behandle de.  
+         - Forberede formatet vi skal legge frem på og hva slags sak vi ønsker på genfors og vedtektskveld.  
+         - Reiterere over tilbakemeldinger og forbedre prototypen  
+         - Kultur: Hvordan skal vi lage en atmosfære som gjør at folk tør å dele?  
+         - Vi vil involvere flere deler av linjeforeningen i arbeidet, bl.a. prokom, dotkom, HS. Kan skape mer "awareness". Det viktigste for oss er at vi kan levere arbeidsoppgaver som de andre ønsker å gjøre og som er innenfor visse rammer.  
+
+    - Hvordan sikre et forståelig produkt?  
+        - Utfordrende problem, men også et suksesskriteriet.  
+    - Levetiden til prosjektet og produktet.  
+        - Om det er for komplisert, eller for kostbart å vedlikeholde for foreningen så kommer det til å dø ut. Må finne en balanse for et godt produkt som er easily maintainable. Utfordrende, ikke funnet svar enda.  
+    - Bygge engasjement.  
+        - Alle må med, må formidle viktigheten.  
+- Grilling commences.  
+    - Mathias: fadderbarn kommer senere?  
+        - Endre: Som senere i processen, vi må velge de viktigste tingene og få de med i protoypen. Fadderbarn kommer Si Ifra tilbake til om noen måneder.  
+    - Mathias: Om dere jobber veldig hardt nå men ikke kommer fram til Generalforsamlingen så blir det som å skyte oss i foten. Det må være noe 100 % klart til da, vi kan ikke si at det skal opp til neste Generalforsamling.  
+        - Endre: Vi kan ikke levere både system og kultur. Vi må velge, vi kan levere et fullstendig produkt men det vil alltid være noe mer å gjøre. Vi er nok så ferdig at vi kan launche, men spørsmålet er om det gjenstår mer på kultur delen.  
+    - Kristoffer: Bra jobba! Lurer på om Si Ifra sine medlemmer løses opp etter genfors?  
+        - Endre: Vi fortsetter nok, men kommer an på hva HS ønsker. Etter våren så slutter August og jeg. Har ikke lagt en plan etter dette.  
+    - Benny: Tror det kan være litt viktig å sørge for at det er bærekraftig, sånn at etter dere slutter i Online så må det kunne vedlikeholdes på en god måte. Det må rekrutteres.  
+    - Øyvind: Har dere noen tanker om hvordan å gå frem med arbeidet med kulturdelen?  
+        - Endre: Jeg har en plan: Vi kjører designsprint på alt, vi tar intensive workshops til vi finner de tingene vi trenger mest. Gruppens ønske er at det er ferdig til sommeren.  
+    - Endre: Trenger hjelp i 10 min torsdag 16.00.  
+    - Mathias: Kudos for veldig fine presentasjoner!  
+
+## Eventuelt  
+- Sindre: Økonomi- og vedtektskvelden, kan den flyttes?  
+    - Mathias: Ja dersom folk ønsker det. 9.? Ja.  
+        - Benny: Litt tett opptil vår workshop.  
+    - Mathias: 12?  
+        - Sindre: Kanskje litt dumt på fredag?  
+    - Mathias: Er digg på fredag, tror det går bra.  
+    - Øyvind: Ang. saksforslag. Det burde være klart hvilke saker vi burde legge frem, men de trenger ikke være ferdig formulert?  
+    - Benny: Kanskje jeg går tilbake på det jeg sa om at 9. er for tett på. Da blir det 9.  
+ - Benny: Skal jeg legge ut arrangementet på OW?  
+     - Mathias: Ja.  
+     - Benny: Og vedtektskveld?  
+     - Mathias: Ja.  
+
+## Gjøremål
+- [ ] **Mathias:** Teipe boden. Ikke gjort, føres videre, må gjøres før genfors

@@ -1,0 +1,165 @@
+---
+title: "Hovedstyrets folk er på ITEX-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering:** Erik
+
+**Referering:** Andrea
+
+**Vinstraff:** Kristiane (kort forfallsvarsel), Kristoffer (kort forfallsvarsel), Ingrid (kort forfallsvarsel)
+
+**Ølstraff:**  
+
+**Tilstede:** Martin, Sander, Erik, Andrea, Emil
+
+**Mangler:** Thor Håkon, Håkon, Didrik, Kristiane, Kristoffer
+
+## 073 Godkjenning av innkalling, servering og referat 
+Godkjent. 
+
+## 074 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+Immballpåmelding har begynt, er fullt. Ventelisten vokser. Har begynt å fylle reservasjonene. Svarfrist i morgen for styrene. Første møte på fredag, skal fordele ansvar.
+Immball er i hodet på alle sammen. Sendt faktura til Håndverkeren for styrevors.
+
+#### Bankom:  
+Ikke tilstede.
+
+
+#### Bedkom, med ITEX:  
+Fadderuka gikk bra, litt seint med pizzalevering, men bedre enn ifjor. Itex er i gang, Sopra Steria er klart, starter påmelding imorra. Buss eneste som mangler. Første møte med de nye på mandag.
+Opptaket har gått greit. 
+
+
+#### Dotkom:
+Ikke tilstede.
+
+#### Fagkom, med ekskom:  
+Ikke tilstede.
+
+#### Prokom:  
+Hadde første møte forrige uke. Hatt intervjuer. Vi ser på kamera som vi har fått budsjett til. Ellers lager vi plakater og banner. 
+
+#### Trikom:  
+Vi er i gang, hatt alle intervjuer. Skal kjøpe øl idag, så er alt på kontoret good. Vi sliter med kontortilganger, alle skal sjekke at folk kommer inn. Kino er good. Venter med møte til de nye kommer.
+
+#### Seniorkom: 
+Ikke tilstede
+
+#### Leder og nestleder:  
+Vært på linjeledermøte, diskutert en ting. Redd kjellerne trenger nye folk, de er to personer som har jobbet nesten fulltidsjobb gjennom sommeren. Fått med en til nå.
+Vil ha to-tre nye folk, helst. De lurte på om vi kunne blæste om dette, det er vi enige om. Kan legge ut på online-facebook-siden. Kan skrive en liten tekst der.
+
+Må søke om skjenkebevilgning hver gang vi skal drikke.
+
+Linjelederne vil også ha spørreundersøkelse på tvers av linjer om fadderuka. Der noen spørsmål er likt over alle linjeforeninger. Kan sende til et sentralt sted og kan se statistikk for hele NTNU. Det har ikke vi gjort i år, kan sette velkom til å lage en kjapp undersøkelse. Kan få TH til å ha et møte med linjelederne og sette spørsmål.
+
+TH skal på KTK (Kontor til kontor). Kan spørre Placebo om vi kan få plass til en ekstra eller to.
+
+#### ITV: 
+
+## 075 Interkom (10 min) 
+Onlines jubileum er på en lørdag, styrevors. Man skal rydde etter seg, bare vaske med vann hvis det er flekker. Fjordgata 30.
+
+## 076 Forespørsler som har kommet på e-post (5 min) 
+
+- Smartgridkonferansen 2016
+
+
+Kræsjer det med IT-dagene? Vi gjør ikke noe med det. 
+
+
+- Klovnestafetten
+
+
+Være litt tidligere med det neste år. Didrik har ikke fått svar fra Silje. Kunne laget en liten post på det på Online-sida, informere om at det er.
+
+
+- SiT kurs
+
+
+Har vi lyst til å stikke på kurs? Vi må sjekke med resten av HS.
+
+- Emil immball
+
+
+Lørdag 10. september - svare at vi ikke kan.
+
+- Volvox ball
+
+
+Lørdag 24. september - Erik, Martin, Sander, Andrea har lyst. Vi spør i e-mailtråden om hvem som har lyst.
+
+- Mannhullet ball
+
+
+Tirsdag 6. september - Martin og Sander drar.
+
+- Orakel-tjenesten på fb
+
+
+Vi lar det stå, skal ut på muligheter-mail. 
+
+- Svart på: 
+
+
+Erudio, Abakus, Smørekoppen, Nabla, Delta, Mannhullet, HC, Aarhønen, Berg, 
+
+- Ikke svart på: 
+
+
+Hybrida (Didrik, Erik), Broderskapet (Håkon og Hajem), Volvox
+
+## 077 Ukens infomail og Facebook (5 min) 
+
+Folk skriver inn. Husk riktig format. 
+
+## 078 Eventuelt (10 min)
+
+- Skal vi gi gave til Emil og Timini dagen før, selv om vi ikke møter opp? 
+
+
+Er vennskapelig å gjøre det, vi er for. 
+
+- Komitéskapet er fuqed
+
+
+Erik fiksa det.
+
+- Bedkom trenger adaptere til bedpres
+
+
+Bedriftene kommer med forskjellige pc-er, vi stiller dårlig an. Ser dumt ut. Emil får Didrik til å finne pris til neste gang. Det blir sammen med fagkom.
+
+- Bedkom vil gjerne ha taushetserklæring til mandag
+
+
+Ifjor var det en del endringer som kom. Erik skal finne den og sende den.
+
+
+- Lavo
+
+
+Fått faktura som har sendt videre til bankom
+
+- Mannhullet
+
+
+Krever at man bruker en app. Vi sender en mail (siden vi er sent ute) om et kontonr.
+
+## 079 Til neste gang (5 min)
+
+- diskutere informatikkgruppe-regler
+- se søknadstekst til opptakstintervjuer
+- Sjekke om resten av HS vil på SiT kurs
+- Svare EMIL at vi ikke kan på immballet deres
+- Volvox-mail - spørre resten av HS (de har egentlig bare to plasser?) om hvem som vil bli med
+- Svare på Mannhullet-ball (Martin gjør det)
+- Martin skal slette innlegg på facebook - salg og kjøp av bøker
+- Erik skal finne taushetsplikten og sende den.
+
+## 080 Møteevaluering/Diggepunkt (5 min)
+- Vi digger dette møtet. Erik var flink og tok med servering.

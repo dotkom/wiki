@@ -1,0 +1,102 @@
+---
+title: "Hovedstyrets semiførste møte for semesteret"
+---
+
+**Møtetidspunkt:** 14.15 (appear.in/viva-la-online)
+
+**Servering og referering:** Sander  
+
+**Vinstraff:** THB
+
+**Ølstraff:**  
+
+**Tilstede:** THB, Didrik, Sander, Kristiane, Fride, Andrea, Bjerke, Erik
+
+**Mangler:** Hajem, Håkon
+
+## 050 Godkjenning av innkalling, servering og referat 
+Innkalling sen, resten er good
+
+## 051 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+* Arrkom  
+Immball nærmer seg ferdigstilt, Lerkendal er klart. Vi er i dialog med dem angående å bruke våre bonger, men de ønsker å bruke egne bonger. Vi skal komme til enighet med de slik at vi får brukt våre bonger. Programmet er på vei, det samme er invitasjoner. Dette skal være i boks om kort tid. 
+Angående ønsker til immballet så skal vi korte ned på talelengder og taler. Det vil bli bordkort som tidligere slik at bord kan lokaliseres. Bordkart kan være aktuelt, men det er ikke bestemt. Photo stand blir som i fjor, men siden lokalet er endret vil den være i lobby før salen i år. Kompileringsvideo skal lages, så det ordnes til årets immball. Vi skal prøve å få til en ordning med Onlinelogo på prosjektor under immballet slik at det er litt mer Onlinepreg over arrangementet. Musikk vil bli styrt kun av folk med tilgang til passord i år, så dette problemet løses.
+Planlagt første møte er andre uken i fadderuka.
+
+* Velkom  
+Programmet er klart og t-skjorter er på plass. Ingen bekymringer før fadderukene. De må huske å si til fadderne at de ikke skal påvirke fadderbarn angående hva som er "kult" og hva som er "kjedelig".
+
+* Jubkom  
+Ingen oppdateringer, første møte til uken. 
+
+#### Bankom:  
+Hajem er borte
+
+#### Bedkom, med ITEX:  
+To bedpresser i fadderperioden, en med Sopra Steria og en med Computas. 
+* Kaffesponsor  
+Kaffesponsor er litt stress for tiden, det ønskes avklart før semesterstart. Kaffesponsor ønsker logo på kjøleskapet på kontoret, vi er litt usikre på om det blir mye promo. Det er viktig å ha en god dialog med sponsor om hva de vil ha, og ikke tilby for mye før de kommer med ønsker. 
+
+ITEX
+Det er fullt, men noen melder seg av. Alt er klart og det blir tur.
+
+#### Dotkom:
+Sklirg er ikke her.
+
+#### Fagkom, med ekskom:  
+Hackathon blir ikke noe av fordi vi har bedpress den dagen. Første møtet andre uken i fadderuka. Alt er i orden ellers.
+
+* Ekskom  
+Noen bedrifter er på plass, og workshop er på plass. Innbetalingsfrist for første innbetaling er snart. Hotell er i orden, alt ellers er i orden.
+
+#### Prokom:  
+Ikke stort som skjer. Årbøkene har kommet, og de deles ut når semesteret starter. Det har blitt laget flyers med Morten fra Abakus til fadderukene. 
+
+#### Trikom:  
+Rolig sommer så langt. Sverre har fikset mye på kontoret, så han skal få gave. Epost angående bod er sendt og har blitt videresendt til riktig person. Lavo er snart på plass, og det planlegges dato for ny tur. Det blir møte i løpet av fadderukene. Litt skal fikses på kontoret og i boden.
+
+#### Seniorkom: 
+Ingenting spesielt som har skjedd
+
+#### Leder og nestleder:  
+Ny mail er sendt. Møterom skal fikses meget snart. Vi må stikke innom Unni for å ordne rommet. Martin fikser det på mandag.
+
+#### ITV: 
+Ingenting har skjedd.
+
+## 052 Interkom (10 min) 
+Stillhet.
+
+## 053 Forespørsler som har kommet på e-post (5 min) 
+* Invitasjon til Abakus' immball  
+Det er 2. september. 
+Sander skal fikse invitasjoner til andre styrer innen tirsdag.
+* Sende ut info om Start NTNU  
+Utsetter til neste uke.
+
+## 054 Ukens infomail og Facebook (5 min)  
+Begynner med infomail neste uke.
+
+* Facebook  
+Vi skal legge ut bilder i løpet av fadderukene. Posten Marius rapporterte er ikke fjernet. Vi vet ikke helt om den trenger å fjernes. Den har vært ute så lenge nå at vi ikke vil fjerne den. Vi ber heller han som har lagt ut om å omformulere slik at posten blir mer opplysende.
+
+## 055 Eventuelt (10 min)
+* Drikketillatelse på kontoret  
+Planen er å søke da det er behov. Vi søker slik at vi har tillatelse i fadderukene. 
+
+* Fast møtetidspunkt blir onsdager 12.15-14.00  
+Alle digger tiden. Viktig at vi er flinke og holder oss til 2 timer.
+
+* HSpresentasjon på tirsdag  
+Vi møter før 13:30 i pen-casual stil, i tillegg sitter vi i salen slik at vi slipper å gå inn døren. HS-bånd droppes.
+
+* Masterfaddere og fadderbarn  
+Det er tvilsomt at alle møter på tirsdag. Vi bør ha noen masterfaddere der slik at de som eventuelt møter opp blir tatt vare på.
+
+* Teambuilding  
+Skytebane blir foreslått. Det er sendt mail, men ingen svarer. Alle vil være med!
+
+## 056 Møteevaluering/Diggepunkt (5 min)
+Schempe bra møte

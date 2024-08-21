@@ -1,0 +1,209 @@
+---
+title: "1. Klasse taskforce, retningslinjer"
+---
+
+## Innsjekk
+
+[Hvordan har dere det?]
+
+---
+
+## Godkjenning av innkalling, servering og referat fra forrige uke
+
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]
+
+Godkjent.
+
+## TODO´s fra forrige møte **✅**
+
+## Status fra styret (20 min)
+
+[Her er det kun meningen at det skal være status for styret. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner skal skrives ned og ta på eventuelt.]
+
+### **Styremedlem**:
+
+- Ikke så mye å si
+- Så litt på komiteoppdateringer på nettsiden
+
+### **Styremedlem**:
+
+- Har ikke gjort så mye utenom å sende invitasjonsgreie på slack
+
+### **Styremedlem**:
+
+- Ikke gjort noe nevneverdig
+
+### **💰** Økonomiansvarlig:
+
+- Budsjettkveld i kveld!💰
+- Skal bestille pizza
+    - Vil noen andre gjøre det så hun slipper å bli avbrutt i kveld?
+    - Leder gjør det
+- Ikke ledig plass til julekortbilde sammen med årboksbilde
+- Godkjent cash til eksamenslesning med FeminIT
+
+### 👩🏻‍🦰 Nestleder:
+
+- Sendt melding og prøvd å folk til å prøve å skrive inn i nyhetsbreve
+    - F.eks. Arrkom har skrevet litt gøy, nice
+- "Hvem er vi"-tråd på slack til kommans
+- Lunsjmøte på onsdag med kommans
+- De skal selv få være med å fikse rollen sin
+- Sendte mail til Kai om bilde av HS på Hovedbygget
+    - Det kunne gå, men etter arbeidstid
+    - Usikker på om han skal ha betalt?
+
+### 👩🏾 Leder:
+
+- Skrevet styreord til offline
+- Ringt opp av noen som ikke vil ha offline lengre
+- Vært på IDI møte
+    - Byttes ut ventelasjonssystem på IT-bygget
+        - Alt av presentasjoner på IT-bygget vil bli flytett
+    - Ferdig 2024 en gang
+    - Påvirker IKKE IT-Boden
+    - Abakus vil være med og samarbeide på teknostart
+    - De som har salplass ved handels må bruke de, hvis ikke mister vi de. Oppfordre folk til å bruke de.
+    - Vil at vi skal hjelpe de med oppstart/svar på studentbarometeret
+    - Skal få tilsendt referat og dele det med oss
+- Skal ha møte på torsdag med en person mtp evakuering fra A4 hvis det skal skje en gang
+- På møte i morgen med Abakus og Thilde mtp sommerjobbssaken før FIF.
+- Skal på bedkom-møte på tordag.
+- Svart på mails og litt sånn
+
+## Mailpunkt (5 min)
+
+[Før hvert møte skal det sjekkes om det ligger noen ubesvarte mails i innboksen, ansvar for å besvare ubesvarte mail blir fordelt på møtet]
+
+- Kai (Hovedbygget bildetager) trenger svar
+- Retningslinjer fra bedkom
+    - Svare at vi ser på det neste uke
+- Stanford-mail til slack
+
+## 1.klasse taskforce (10 min)
+
+[I mai diskuterte vi Abakus sitt tiltak for å inkludere flere første klassinger, 1.klasse taskforce, og spurte om dette var noe Backlog kunne vært interessert i. De svarte at de følte det gikk mer under Trikom og at de ikke hadde helt kapasitet til det akkurat nå. Så vil gjerne ta opp tråden igjen og kanskje høre med Trikom om dette er noe de vil se mer på]
+
+- Snakket om dette på workshoppen, problem at vi kan miste folk som faller av. Enig at vi må prøve å ta opp tråden igjen.
+    - Usikker på om det skal være et eget prosjekt eller om vi bare skal oppfordre til mer inkludering
+- Kan involvere mange andre komiteer
+    - Arrkom har sett på 1.klasse eksamensfest
+    - Slik kan man nå ut til alle og ikke bare ett type arrangement
+- S: Hvordan løser Abakus det i praksis?
+    - En gruppe som er under deres "backup" (vår backlog)
+    - Noen som har hovedansvar hele året
+- Hva om vi gir noen det som et hovedansvar f.eks. i ett år? Noe som burde diskuteres med Trikom
+- Backlog sa tidligere at det er viktig at det gjennomføres, men at det ikke er under "deres domene"
+- Høre med trikom?
+- S: Skal Trikom være førsteklasse taskforce eller skal de ha ansvar for å gi det til noen andre?
+    - F.eks. kan to andreklassinger fra Trikom har ansvar for førsteklasse taskforce, i hovedsak de som skal ha ansvar.
+- S: Har du noen konkrete eksempler på hva Abakus førsteklasse taskforce har gjort?
+    - Ikke så mange konkrete eksempler på arrangementer, har bare informasjon om hvordan de organiserer det.
+- I Abakus er de en egen undergruppe under Backup, typ som en interessegruppe i Online.
+- Tihlde har litt mer klasse-struktur
+    - Har ofte mer "klasse"-fors og arrangementer på kontoret
+- S: Skulle vi tenkt på fjerdeklasse også?
+    - Har ikke inntrykk av at fjerde detter av på samme måte som førsteklasse. Vet ikke om det behovet er størst.
+    - Føler det blir litt motsatt.
+        - F.eks. hvis du kommer fra Oslo og starter på 4. året og ikke blir tatt opp i en komité så kan man fort falle av.
+- Viktig med begge deler, men i starten kan det være lurt å bare fokusere på 1. klasse.
+    - Funker dette bra gir det gode ringvirkninger senere.
+- Ta kontakt med Trikom og høre hva de synes. Evt. gi de et forslag på hvordan vi tenker at det hadde funket. Kunne invitert med oss noen fra Trikom på neste møte.
+- S: Hvordan ser vi for oss at Taskforce skal være
+    - Likte forslaget om at noen førsteklassinger i Trikom har hovedansvaret. De kan ordne litt selv, enklere om de fikser det også gir vi de litt space for det.
+    - De kan f.eks. sende ut spørreundersøkelse til Online og høre om hva som er interessant
+- Fint om resten av Online også vet at vi prøver å satse litt på det.
+    - F.eks. kan Arrkom prioritere 1.klasse vors/kollokviegrupper så det ikke bare går på Trikom
+- Starte med at Økans sender mail og tar det videre derfra.
+- Kan legge ut en generell post på facebook og et skjema der vi ønsker input fra alle trinnene.
+
+## Diskutere mulig refactor av offentlig komitéinformasjon på wikien (10 min)
+
+[Som vi snakket om under workshoppen, burde vi diskutere hvordan vi ønsker at offentlig komitéinformasjon (som bruk av kontoret, lån av soundboxes osv.) skal være tilgjengelig for andre komitemedlemmer. Stikkord: gamle ow, wiki, notion]
+
+- Offentlig notion?
+    - Ihvertfall mulig å lage ny notion som noen har redigeringstilgang og noen har lesetilgang.
+    - Tror man kan dele linker til sider. F.eks. en side på HS notion som vi kan dele link til.
+    - Høyere terskel for ikke-komite medlemmer å laste ned Notion kun for å lese sånne åpne ting osv.
+- Føler åpne ting burde ligge på OW
+    - Wikien blir ikke oppdatert til nye OW
+- Veldig mange bruker OW som ikke-onlinere. Tror ikke det kommer til å skje hvis man putter over ting til Notion.
+    - Wikien har veldig bra søkemotor støtte
+    - Mye informasjon om andre linjeforeninger osv.
+    - Synes ikke vi burde ta det bort hvis vi ikke har et veldig bra alternativ
+- I første omgang kan vi ta en kikk over wikien og fjerne urelevante/utdaterte ting.
+- S: Skulle vi også oppfordret komiteer til å se på hva de kan legge ut av offentlig informasjon?
+- Wikien tungvindt å oppdatere
+    - Vedkommende som evt. blir satt på rydding av wiki må være klar over at det er tidkrevende og en stor jobb.
+    - Et styremedlem kan ta ansvar/over og eventuelt komme tilbake hvis han trenger flere.
+    - Komiteer kan ta ansvar over sine interne wikisider
+
+## **Møteagenda (10 min)**
+
+[For å flette inn både mer sosialt, og refleksjon rundt online bør vi legge til noe mer om dette i møtene. Forestår et "sosialt" punkt og et "Online"/"Hva har du tenkt på om online den siste uka"/"Hva lurer du på om online" punkt i møtemal.]
+
+- Sosialpunkt er enkelt å slenge inn som et møtepunkt
+- Redd for at siste forslaget blir litt mer som et ekstra eventuelpunkt.
+- Lavterskel ranting?
+- Erfaringsmessig ryddig å sende inn saker og sånn, men ofte kommer det opp saker underveis i møtet og da er det veldig lurt å ha senket terskelen for det.
+- Ikke verre enn å prøve og feile.
+- Konklusjon: Prøve på neste møte, sosialpunkt og rantepunkt
+
+## Godkjenne retningslinjer fra komiteer (10 min)
+
+[Alle skal lese gjennom retningslinjene som ligger under, og notere seg om det er noe de er usikre på]
+
+- Kun Fagkom som har sendt inn til nå.
+- Den nederste setningen i paragraf 2 litt uklar "Øvrige medlemer som for at komiteen skal fungere optimalt."
+    - Samme med teksten om Pang og aktiv Pang
+- Kan vi godkjenne på forhånd selv med skrivefeil også fikser de i det selv?
+    - Tenker det kan være lurt, skrivefeilene her endrer ikke betydningen av retningslinjene.
+- Utenom de små tingene der ser det bra ut.
+- Godkjenner retningslinjene til Fagkom med forbehold om skrivefeil, vedtatt ved akklamasjon <3
+- Invitere noen fra komiteene vi ser på retningslinjene til på et møte.
+    - Tror det kan bli mye ekstraarbeid for både oss og de
+    - Vår oppgave er å godkjenne de, ikke forme de.
+    - Nå har vi tid til å lese igjennom før møte, så vi rekker å sende invitasjon hvis det er noe vi lurer på.
+- S: For spesifikt å skrive "maks 2 til oslotur fra fagkom"?
+    - Ikke så farlig
+    - Viktigste er at de har budsjett til å sende 2
+
+## **Sette dato for genfors (5 min)**
+
+[Vi burde sette dato for genfors, flere som etterspør den]
+
+- Har pleid å være 1. mars. I 2024 er dette en fredag, ikke så lurt.
+- Torsdag 29. februar er det catch IDI
+- Tidlig uke 9 eller tidlig uke 10.
+- Hva med mandag 4. mars?
+    - Da rekker tre av oss kun ett møte etter generalforsamlingen før vi drar på ekskursjon
+- 25, 26, 27. februar eller 4, 5. mars. Noe rundt der.
+- Kanskje dumt å ta det dagen før Catch IDI
+- Enten mandag 26., mandag 4. eller onsdag 6.?
+- **Konklusjon: 26. Februar**
+- Viktig med planlegging med andre komiteer for å passe på at alle komiteene får sikra seg datoer.
+
+## Secret santa (5 min)
+
+[Det hadde vært hyggelig med noen jule greier🎅]
+
+- Noen som er mot?
+    - Nejj
+
+## Eventuelt
+
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+Tilganger IT-boden?
+
+## TODO’s
+
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+
+## Diggepunkt
+
+[Alle må digge noe]
+
+## Møteevaluering
+
+[Ris/ros til hvordan møtet har gått]

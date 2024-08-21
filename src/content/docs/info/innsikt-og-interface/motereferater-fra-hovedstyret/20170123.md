@@ -1,0 +1,134 @@
+---
+title: "Hovedstyrets der-var-åre-over-gitt-møte"
+---
+
+**Møtetidspunkt:** 12.15 (KJL22)
+
+**Servering og referering:** Sander (Didrik tok referering)
+
+**Vinstraff:** TH (sen innkalling), 3x Erik (Glemt å legge ut referat og sende infomail, godkjente eget Online-medlemskap), 2x Sander (Ikke lagt ut velkom-post på Facebook, og møtt for sent), Kristiane (for sent), Ingrid (for sent)
+
+**Ølstraff:**  
+
+**Tilstede:** Didrik, Thor Håkon, Kristiane(sen), Sander(sen), Martin, Ingrid(sen), Erik, Andrea, Kristoffer, Håkon
+
+**Mangler:** 
+
+## 234 Godkjenning av innkalling, servering og referat 
+
+Underkjent innkalling, referat fra forrige gang mangler, men servering er godkjent.
+
+
+## 235 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+ - Helt det samme siden forrige gang, bortsett fra at det har blitt gjennomført Åre.  - Det var kaos første kvelden og skistar ville kaste oss ut. Noen hadde laget bråk med vaktene. 
+ - Ingen skadet seg og alle kom seg hjem. Sander og Kasper var veldig flinke.
+ - Sander glemte å bleste for velkom pga Åre. Han skal gjøre det idag, med søknadsfrist på søndag.
+
+
+#### Bankom:  
+
+ - Ikke skjedd så mye siden sist. 
+ - Ikke hatt møte siden sist. ting har blitt betalt. 
+ - Ikke blitt ferdig med utkast til budsjett, så det tar vi neste uke.
+
+#### Bedkom, med ITEX:  
+
+ - Teambuildingtur til Polen.
+ - Bedpresplanlegging går på skinner. Knowit og Bouvet denne uken, KID, Yahoo! og Sopra Steria neste uke.
+
+
+#### Dotkom, med appkom:
+
+ - Det var få på møtet, så de utsatte valg av nestleder og økonomiansvarlig.
+ - Startet opp og kom igang med genforssystem og andre ting.
+
+
+#### Fagkom, med ekskom:  
+
+ - Kurs på torsdag, men litt dårlig påmeldig for 3-5 klasse.
+
+ - Ekskom: Infomøte idag. Håper det blir valgt leder og nestleder. Loffen har ikke snakket med så mange. Har hørt om en som tenker på nestleder, men ikke leder. De planlegger ekskursjon, som vanlig.
+
+ - Loffen vurderer å bruke genforssystemet til ekskommøtet senere idag. 
+
+ - Thor Håkon er kristisk til ekskommøtet idag. Lurer på om folk har fått en fair sjanse til å stille. Hvis vi ikke får noen nå, gjør vi det på vanlig vis.
+
+
+#### Prokom:  
+
+ - Driver med årbokplanlegging. 
+ - Det blir på torsdag med den oransje veggen. 
+ - Startet planlegging av neste  Offline. Det blir brekkhelg 11-12 februar.
+ - Har laget plakater, som vanlig.
+
+
+#### Trikom:  
+
+ - Hadde workshop forrige uke og har fordelt en del arrangementer utover våren.  - Har ikke satt dato for alle arrangementer, men bestemt hva de skal være, slik at de kan planlegges.
+ - Seriefrokost starter snart.
+
+ - Idémyldring på workshop: Dra opp til Theisendammen for skøyting. Dra til Vassfjellet for å stå på ski. Code in the dark. Strikk og drikk. Grilling og Eurovision.
+
+#### Seniorkom: 
+
+ - Ikke skjedd så mye siden sist. 
+ - Utmatrikuleringsdatoen er fortsatt tentativ fra IDI. 
+ - Møtetid fredager klokken 15. 
+ - Kanskje Erik skal være tillitsvalgtansvarlig? Erik skal tenke på det.
+ - Det er viktig og må stables på beina.
+
+
+#### Leder og nestleder:  
+
+ - Forrige uke skjedde det så mye at plutselig hadde hele uken gått.
+
+ - Thor Håkon: Har hatt møte med psykisk helse-folka. Ser på å sette det til samme uke som genfors.
+ - Planlagt foreløpig: to dager på stand og dele ut klemmer og kaffe. og gi ut informasjon; hvis du trenger noen å snakke med kan du snakke med disse(henvise folk til profesjonelle).
+ - Få med alle linjelederne og kanskje styrene til å stå på campus.
+ - Ha et populærforedrag om dette temaet. 
+ - Ikke tabu å snakke om at man er stresset eller sliten eller osv osv.
+
+
+#### ITV: 
+
+Ikke tilstede.
+
+## 236 Interkom (10 min) 
+
+
+
+
+## 237 Forespørsler som har kommet på e-post (5 min) 
+
+ - TH har fått mail fra ungkreft. tregner hjelp til nettside. Mulighetermail.
+
+ - Barokkfest - Ikke behov.
+
+ - Interessegruppe: X-sports. Godkjennes. Vil du være sikker på at dere får igjen penger må de søke på forhånd. legges til på facebook.
+
+ - Byggrevyen. 10. februar. Bjerke og Sander vil/skal på revy.
+
+
+## 238 Ukens infomail og Facebook (5 min) 
+
+ - Sander blester velkomopptak/leder/nestlederting. Leder og nestleder har søknadsfrist innen søndag 29.01.17. Både Onlinepagen og i Informatikk-gruppen. 
+
+
+## 239 Eventuelt (10 min)
+
+ - Årbokfotografiet? Thor Håkon foreslår at vi møter opp i dress og tar et dressbilde. Spør om Endre vil komme på neste hs-møte også har vi noe crazy-tema.
+Da gjør vi det sånn. Stundentergalla på torsdag.
+
+ - Teambuilding? Escape room og shuffle board. Erik fikser doodle.
+
+
+## 240 Møteevaluering/Diggepunkt (5 min)
+
+Folk digger arrkom pga Åre. Vel fortjent.
+## 241 Gjøremål
+
+ - Bleste velkomopptak av elder og nestleder
+ - Skrive velkombrev til nye velkommere.

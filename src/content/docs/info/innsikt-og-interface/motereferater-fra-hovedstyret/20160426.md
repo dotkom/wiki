@@ -1,0 +1,274 @@
+---
+title: "Hovedstyrets and so our watch begin-møte"
+---
+
+**Møtetidspunkt:** 09.15 (rom 054)
+
+**Servering:** Erik
+
+**Referering:** Erik
+
+**Vinstraff:** 
+
+**Ølstraff:** 
+
+**Tilstede:** Martin, Hajem, Andrea, Sander, Didirik, Sklirg, Kristiane, Erik, Kristian, Magnus, THB, Christoffer, 
+
+**Mangler:** Pia, Marius, Nils, Agnete, Ingrid, Auestad, DRE
+
+## 009 Godkjenning av innkalling, servering og referat 
+
+Godkjent
+
+## 010 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:  
+
+- Diskutert eksamensfest, 3B er opptatt siden det er Lørdag. Trenger penger til å leie lokale. Skal høre med "red zone". Hvis det ikke blir de blir det håndverkeren. 
+- 17. Mai middag blir dyrere, graffi har økt prisen. Blir 315,- pr pers.
+- Skal fikse booking av Åre ila dagen eller morgendagen. 
+- Begynt å komme med forlag til neste år. Litt flere edruarrangementer. 
+- Online kasino blir siden det var populært. 
+- Tatt opp spons av gjester på arangementer, synes det var greit å sponse gjester på låvefesten siden vi likevel ikke greide å fylle plassene. 
+
+Velkom: 
+
+- Ferdig med å booke utesteder. Alt klart på den fronten.  
+- Har fått endel faddere.   
+
+#### Bankom:  
+
+- Har ikke hatt møte siden sist. 
+- Har betalt for div fester HS skal på fremover. 
+
+#### Bedkom, med ITEX:  
+
+- Har begynt å sende ut kontrakter. 
+- Bergensturen er avlyst. 
+
+
+ITEX:
+- Mangler en bedrift. 
+
+#### Dotkom:  
+
+- Hadde litt dårlig oppmøte på forrige møte. 
+- Har diskutert hvilken UPS de skal kjøpe og hvor mange.
+
+#### Fagkom, med ekskom:  
+
+- Hadde techtalks i går, det gikk bra.
+- Hatt kurs med netlife, det gikk bra.
+- Alt klart til kræsjkurs i matte.
+- Skal begynne å sende ut kontrakter i dag.
+- Bekk har lyst på å ha kurs. Vil vite hva vi vil ha kurs i. 
+
+Ekskom:
+
+- Infomøte på Fredag.
+- 18. dager i Soul. (?)
+- Håper på at det blir ca 13 tusen per pers. 
+
+#### Prokom:  
+
+- Offline har kommet ut.
+- Teambuilding på Torsdag.
+- Fredag: Selge genser på kontoret.
+- Nestledervalg og redaktørvalg: Vebjørn ble redaktør. 
+
+#### Trikom:  
+
+- Klare for tur til helga
+- GoT på mandag, bra oppmøte.
+- Skal sjekke grillen på moholt før grilling i mai.
+- Skal slutte med frukt rundt mai.
+- Skal gi ut litt godteri i eksamensperioden.
+- Nestleder: Ellen
+- Skal ha teambuilding i helga.
+
+#### Seniorkom: 
+
+- Valgt ny leder: Ingrid Myrann (Gratulerer)
+- Caroline fortsetter som nestleder.
+- Alt klart til utmatrikkulering.
+- Komitekickoff: 7. september. 
+
+#### Leder og nestleder:  
+
+- THB og Didrik har snakket om å lage kodelag for Online. Skal i møte med IDI.
+- Referat og vedtekter er sendt ut til paraferer. 
+
+## 011 Interkom (10 min) 
+Vi diskuterer på tvers av komiteene.
+
+## 012 TechTalks (15 min)
+
+- Reservere plasser til abakus og andre:
+
+Vil også inngå avtaler med andre linjeforeninger slik at de kan komme. (ca 50 plasser. )
+
+Må betale blestegebyr. 
+
+Forslag fra THB: 
+Starte med Abakus og se hvordan det går. Og evt invitere flere neste gang. 
+
+150 plasser totalt. 
+
+Avtalen vil gjøre at de garanterer seg plasser. De har mulighet til å melde seg på plassene pr nå også. 
+
+
+Abakus ønsker egen påmelding på sine nettsider.
+
+Åpne plasser må ligge på techtalks-siden. 
+
+Konklusjon: Setter av 15 plasser 
+
+- Sette av plasser til Online? Noen vits?
+
+Ja, mener vi. Ekskom diskuterer internt og setter av et antall plasser.
+
+## 013 Vedtektene (10 min)
+
+* Formål: Kan vi endre tittelen 1.2 Navnekonvensjon for grupperinger i vedtektene?
+
+- Innholdet i seksjonen er ikke i henhold til overskriften. <- mener THB
+
+Kommer frem til å ikke endre det. 
+
+## 014 Teknologidagen-stand (5 min)
+
+* Formål: Finne ut hva vi skal gjøre
+
+- Roboter fra proglab
+- Film fra fadderukene
+- Rollup
+- Keychains
+
+## 015 Nytt format på komitéopptak (10 min)
+
+Lofsberg:
+- Synes ikke komiteopptaket er så bra nå. Hvis noen har en komite på 3. valg så får ikke lederen av den komiteen kommet til ordet på intervjuer. 
+
+- Blir kanskje mye å be folk om å komme på 3 intervjuer. 
+
+* Diskuterers om ledere ikke skal vite hvem som har hvilken prioritet. 
+
+- Kan sette av tid på intervjuer til hver leder. 
+
+- Kan også sette grense på 2 komiteer som det går an å søke. 
+
+- Lofsberg synes den som søker skal på intervju med en komite om gangen. 
+
+- Se på muligheten for å ha raske intervjuer for å se hvor de passer inn, for så å kalle tilbake folk til intervjuer der de passer. 
+
+- En mulighet er at Leder og nestleder sitter med prioriteringer. Leder kan få vite prioriteringene etter de ha ønsket seg personer etter intervjurunden. 
+
+- konklusjon: Sette av tid til alle ledere på intervjuet. samt at leder og nestleder sitter med prioriteringene slik at lederne ikke vet prioriteringene.  Leder og nestleder vil da sensurere søknader og sende de videre til ledere slik at ledere ikke vet helt hvilke prioriteringer søkerne har. 
+
+## 016  Første dalje gratis (10 min)
+
+- Kommet opp siden noen ikke helt vet hvem som har betalt for sine i sin komite. 
+- Hajem mener den første daljen bør være gratis. 
+- Daljer ble kjøpt "av genfors" som et nullprosjekt. 
+- HS kan innvilge penger til å dekke det. 
+- Diskuteres hvorvidt komitemedlemmer bør få dekket penger eller om prinsipielt penger skal gå til alle medlemmer av Online. 
+- Konklusjon: Online har råd til å spandere den første daljen til folk. 
+"Første dalje" defineres som første dalje av sitt slag. Altså, alle kjernekomiteer gir første dalje gratis inkludert bankom og seniorkom. 
+
+Vi diskuterer hvorvidt vi også skal sette opp prisen på ny dalje til 100,-. 
+Vi stemmer over det: 
+
+Det blir vedtatt. 
+
+
+Vi diskuterer hvorvidt vi også skal sette opp prisen på pin 50,-. 
+Det stemmes over det: 4
+
+Vi diskuterer hvorvidt vi også skal sette opp prisen på pin 40,-.
+Det stemmes over det: 5
+
+Ny pris på pin blir 40 kr. 
+
+## 017 Styrevorslokale (5 min)
+
+Grense på 5000,-
+
+- Forslag å ha det på scandic. 
+- Sjømannsforeninga
+- bodegaen på sing
+- Forslag om å finne sted som kommunen leier ut
+- Sukkerhuset
+- Nidelv klubbhus
+
+## 018 Styrebånd (10 min)
+
+- Kristiane spør moren sin. (Hurra!)
+- Hajem spør evt moren sin. 
+  
+## 019 Forespørsler som har kommet på e-post (5 min) 
+
+* FORNY STUDent
+
+- Sende ut info til 5. klasse. Poste på facebook i mastergruppen. 
+
+* Invitasjon til idékonkurranse for GPS og Galileo
+
+- Legge det inn på muligheter mailen. 
+
+* Nordens beste studieby inviterer til eksamensboost
+
+- Legges inn på Infomail
+
+* App til Spikers Kårner
+
+- App for å vise PDF. Legges inn på muligheter mailen.
+
+* Inn- og utdrikking
+
+- Blir 10. mai. 
+
+* Arrangement om sosial innovasjon.
+
+- Legges inn i infomailen. 
+
+## 020 Ukens infomail og Facebook (5 min)  
+
+* Format?
+
+- Positivt å kunne si til bedrifter at info om arrangementet blir sendt ut til alle medlemmer. 
+- Ting skal stå kronologisk og dato står først.
+- Oppsummering om saker fra HS
+- Tar ikke med noen saker denne gangen.
+
+* Facebook
+
+- Erik holder et overordnet ansvar for at poster ikke kræsjer på facebook, men folk legger ut sjæl.
+
+## 021 Bodrydding <3
+
+- Trikom vil ha en representant fra hver komite som blir med å rydde boden, for nå se den fryktelig ut. 
+Dato er satt til 08.05. klokka 12. 
+
+Mens de holder på skal de se hva vi har til kompilering og telle daljer. 
+
+Fagkom vil kanskje ha et kjøleskap i boden. Argumentet mot er at det evt blir veldig varmt. Kristiane skal høre med vaktmester.
+
+## 022 Eventuelt (10 min)
+
+- Alle må oppdatere chunks. 
+
+- Programmet for immballet blir satt på Torsdag. THB vil sette mer fokus på 1. klasse.
+
+- Forslag om å endre straffen for å ikke møte på kontorvakter. Martin vil innføre prikker. 
+
+- Prikkreglene gir pr nå ikke tilgang til at prikker kan gies pga ikke møtt kontorvakt. 
+
+- Til neste uke: Alle tenker gjennom hva de synes om å endre prikkreglene for at vi kan gi prikker for å ikke møte på kontorvaktene sine. 
+
+
+
+## 023 Møteevaluering/Diggepunkt (5 min)
+
+Vi skryter av div komitemedlemmer som vi synes har gjort en eksemplarisk jobb. 
+
+Vi synes også at Nils og Håvard var sykt kule som fiksa kjellersystemet på låvefesten.

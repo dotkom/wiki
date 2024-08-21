@@ -1,0 +1,158 @@
+---
+title: "MØTE 2018-05-04"
+---
+
+**Møtetidspunkt:** 08.15 (rom 054)
+
+**Servering:** Johannes
+
+**Referering:** Christian
+
+**Vinstraff:** Andreas (Kalender)
+
+**Ølstraff:**
+
+**Tilstede:** Aslak, Jakob, Andreas, Pål, Adrian, Sigurd, Hanne, Endre, Johannes, Christian, Christoffer
+
+**Mangler:**
+
+
+## Innsjekk (08:15 - 4 min)
+[Hvordan har dere det?]
+
+## 077 Godkjenning av innkalling, servering og referat fra forrige uke (08:19 - 1 min)
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+Godkjent!
+
+## 078 Status for komiteene (08:20 - 20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom, med velkom:
+
+Arrkom:  
+Middag på 17. blir bra  
+Åre bookes utennom skistar  
+Immballpris skal fastsettes, riddere har fått dato
+
+Velkom:
+Har hatt siste møte og dermed ikke noe nytt. De skal være med på tildelingsmøte.
+
+#### Bankom:
+Medarbeidersamtaler, teambuilding nr 2, begynt å få inn ny fra bedkom (Luca), skal ha møte for å fordele den ekstra studentsolsiale støtten fra IE i dag
+
+#### Bedkom, med ITEX:
+Fått ny nestleder, Marius Aarsnes.  
+Fått gullsponsorer 2, skal finne sølv nå  
+
+ITEX: Påmeldingen er slutt, de på venteliste har fått støvelen. Har bedt om å få lister over master-folk slik at de kan melde seg på etter ny påmeldingsrunde i sommer.
+
+#### Dotkom:
+Hadde siste møte (grilling) denne uka, jobber fortsatt med GDPR og diverse greier. Skal prioritere fiksing av aliaser og mailinglister.
+
+#### Fagkom, med ekskom:
+
+Fagkom:
+Har hatt siste møte og fotokurs med Endre - som de få som møtte opp på var veldig fornøyde med. De skal ha en avsluttning for de som forlater oss. Første eksamenskurs kommer også på søndag/mandag.
+
+Ekskom:
+Har satt destinasjon (Kina) og begynt å få på plass organisasjon (retningslinjer/vedtekter)
+
+#### Prokom:
+Har også hatt siste møte, Offlines kulinariske aften (Døgnvill) og Offline kommer forhåpentligvis ut snart. Innhentet pristilbud på daljer.
+
+#### Trikom:
+Vi har flyttet til Tyholt, hvor kontoret egentlig er ganske bra. Mangler kun mulighet for å låse inn ting. Har tenkt spontangrilling tirsdag 8. Mai kl 13. Skal bli blestet for. Trikom lyst til å få arrangert en tur til Pirbadet.
+
+#### Seniorkom:
+Har satt opp infomøte om masteroppgave (9. Mai)
+
+#### Leder og nestleder:
+Nestleder: Hatt møte med kompileringsgruppa, nærmer seg konklusjon. Forbereder møte på mandag, IDI møte.  
+
+Leder: Planlagt blestemøte og ergret seg over kalenderen. Blir mulighet for å få seg dress via Henry.
+
+#### ITV:
+- Ledergruppemøte har skjedd: Det var mange saker fra studenter om studenter. PTVer blir bra. 
+- Seminar: Alt av fag og hvordan det skal gjøres skal diskuteres.
+- Rektor økte opptaksrammer: Kommer av ekstra beviligner, men treffer ikke MIT siden de har hatt vekst i det siste.
+- Jentepoeng kan muligens bli en greie på tre av linjene våre (BIT, Drift av datasystemer, Dataingeniør)
+
+#### RFK:
+Genfor neste uke. Har begynt med faktureringer og se på kalkyler.
+
+#### Samlokaliseringsrepresentant:
+Alt er på plass (kommer strøm) på Tyholt hvor vi har tilgang frem til 10. Juni. Realfag mangler adgangskontroll på dørene, dette blir tatt opp. Vi får tilganger til Guru-kontoret.
+
+## 079 Interkom (08:40 - 10 min)
+[Her skal saker som angår tre eller flere komiteer]
+
+
+## 080 Signaturrett (08:50 - 10 min)
+[Akkurat nå har leder + et styremedlem eller hele styret i felleskap. Aslak og Loffen ønsker å endre dette til styrets leder alene eller to styremedlemmer, hva tenker folk om dette?]  
+Praktiske greier: Det gjelder særlig det økonomiske når det gjelder signering av MVA-oppgave.
+Så lenge alt som skal signeres diskuteres på forhånd er det ikke noe problem. (Mulig vedtekstfestet)  
+6 mot 3 - Vedtatt!
+
+## Pause (09:00 - 5 min)
+[Flyttes punktvis nedover om klokken ikke er blitt 09:00]
+
+## 081 Vinstraffer (09:05 - 5 min)
+[Vi satt igang med å prøve vinstraffer igjen. Skal vi fortsette med dette eller skal vi droppe det?]  
+I forrige hovedstyre ble vinstraffer fjernet fordi det var hensiktsmessig. Nå vil vi vurdere om vi skal fortsette med å ha de vinstraffrefler vi har innsatt. Flere som mener formuleringene i reglene må jobbes med og presiseres. Johannes fikser skjellett/utkast til dette på drive som vi kan utarbeide sammen. Folk virker komfortable med å fortsette å prøve ut dette en stund, så det gjør vi.
+
+
+## 082 Styret på sommerferie (09:10 - 5 min)
+[HS er også på sommerferie som alle andre. Driften av linjeforeningen tar derimot ikke slutt. Hvordan tar vi ekstraordinære avgjørelser? Hvor aktive skal vi være? Hvem henter posten?]  
+
+
+- Vær på slack og ha det tilgjengelig.  
+- Christian henter posten.   
+- Det er også utrolig viktig at vi er aktive på snapchat, Adrian skal sørge for blood and gore. 
+- Sommerfesten i Oslo 21. Juli blir arrangert og det er kult om så mange som mulig kommer.
+- Hvordan tar vi ekstraordinære møter: Skype eller slack? Det kan hende vi må hasteinnkalle til skypemøter, så "be aware".
+
+## 083 Flytting (09:15 - 5 min)
+[Vi får nye lokaler 1. juli. Hvordan gjør vi det med flytting? Venter vi til august eller gjør vi det i sommerferien?]  
+Trikom tar ansvar for kontoret. Skal vi hjelpe dem? Hvordan skal det informeres om flyttingen? Trikom har foreløpig plan om innflytting 10. - 12. August. Henge opp noen lapper/plakater på P15. Kjøre full pupp og informere på alle informasjonskanaler vi har. Vi burde unngå å snakke negativt om flyttingen og ikke spre "alt var bedre før"-holdningen, spesielt blant de nye studentene som kommer opp med en fresh start på det nye lokalet.
+
+## 084 Styret i fadderperioden (09:20 - 5 min)
+[HS skal være forbilder i fadderukene. Vi må være synlige og “faddere”. En liten diskusjon om oss i fadderukene.]  
+
+
+- Veldig viktig at komiteespeeddating blir bra. 
+- Vi skal også presentere oss den første dagen for de nye studentene - 13. August. presentasjon av hovedstyret (Casual: Fadder-T-skjorte / Onlinegenser). 
+- Det samme dagen etter for alle masterstudenter. 
+- Alle i hovedstyret er faddere selv om vi ikke har faddergrupper, vi får T-skjorter og muligheten (som vi bør benytte) på å være med på arrangementer. Vi burde vise oss og fremstå som menneskelige (bip-bop) slik at folk tar kontakt med oss og ser at vi er tilgjengelige.
+
+## 085 Møte med IDI (09:25 - 5 min)
+[IDI har kalt inn til møte med linjeforeningene på mandag. Har vi noe å ta opp der? Hvem drar?]  
+Aslak foreslår at han, Christian og Charlotte drar. Saksliste kommer nok fra Christoffer snart.  
+
+Formålet er i hovedsak at IDI vil lage norges beste studiemiljø, og dermed må de ha et godt sammarbeide med linjeforeningene. De vil nå ut til studentene og profilere seg godt i fadderuka. Vi vil avklare allokert spons vs brukt spons. Stilling til alkohol på arrangementer.
+
+## 086 Blestemøte (09:30 - 5 min)
+[Vi sliter med å få en god blestestrategi og skal få opp et blestemøte om hvordan vi gjør blest. En diskusjon rundt dette]  
+Vi tar det på tirsdag.
+
+## 087 Rekruttering til interessegrupper (09:35 - 10 min)
+[Vi har begynt å få en god del interessegrupper nå, men rekrutteringen er ganske laber. Hva skal vi gjøre? Vi har også et fotball med fallende interesse blant onlinere, hva gjør vi med det? Vi vil også gjerne høre innspill fra velkom]  
+Alle interessegrupper som eksisterer trenger ikke å ha full aktivitet til en hver tid. Datakameratene må ikke glemmes av velkom, de har fått invitasjon. Casual Gaming får plass på komiteeopptaket og dermed forhåpentligvis høyere oppsluttning.
+
+## 088 Forespørsler som har kommet på e-post (09:45 - 10 min)
+[Her går vi gjennom e-poster vi har fått siden forrige møte og evaluerer hva vi gjør med de.]
+
+
+
+## 089 Eventuelt (09:40 - 5 min)
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+
+- "Denne fadderuka er bedre enn alle andre"  
+Skepsis rundt måten spesielt byrebus har blitt promotert på og også andre arrangementer som kanskje litt for ofte er "det beste noensinne".
+- Markere ting i boden  
+Småting, bøtter, tau og lignende forsvinner. Har vi mulighet for å markere på noen måte? Da markere med Online (ikke per komite). Man kan kjøpe klistremerke-lapper på ebay. Vi har labelmaker som er blitt lablet.
+- Er det HS eller arrkom som bestemmer eksterne til immball?  
+Det har tidligere vært HS som har bestemt hvem som skal få styreplassene. Arrkom fikser og tar kontakt med HS (Loffen) om å fordele plasser til forskjellige styrer.
+
+## 090 Møteevaluering/Diggepunkt
+[Hva var bra og hva var dårlig? Alle må si minst en ting]

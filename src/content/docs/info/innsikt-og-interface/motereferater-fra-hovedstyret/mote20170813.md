@@ -1,0 +1,129 @@
+---
+title: "13.08.2017"
+---
+
+**Møtetidspunkt:** 13. august 12.15 (rom ukjent foreløpig)
+
+**Servering og referering:** Christoffer
+
+**Vinstraff:** 
+
+**Ølstraff:** Edvard (ikke lagt ut offentlig møtereferat)
+
+**Tilstede:**  Emil, Edvard, Peter, Henrik, Didrik, Taran, Erik, Loffen, Camilla, Aslak
+
+**Mangler:** Hege
+
+## 024 Godkjenning av innkalling, servering og referat 
+
+Godkjent
+
+## 025 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:  
+
+**Velkom:** Virker som ting går i boks. Vært mye om folk som ikke kan være med eller folk som bytter linje. Skal ha arbeidskveld i dag hvor ting skal fikses. Får utsette pakking av goodiebags til ting har kommet. Alt er klart av arrangmenter. 
+
+**Arrkom:** Immballet er det store akkurat nå. Skal prøve å få til et møte med Scandic Lerkendal, men ting kommer til å være ganske likt som i fjor. Side note: Er en del ting fra jubileumet som kan brukes på immballet.
+
+#### Bankom:  
+
+Er ikke så mye som har skjedd. Betalt noen fakturaer og sjekka litt opp det med fond. Bør være en lederperson der, kanskje bankom-leder uten stemmerett. Gjort om litt struktur på hvordan ting gjøres og fått bankkort til trikom og HS, men mangler til dotkom.
+
+#### Bedkom, med ITEX:  
+
+ITEX går greit, ting begynner å bli klart
+
+Bedpress for Sopra Steria på fredag og Netcompany mandag neste uke for fadderbarna. Rom og pizza er fikset og ordnet. 2 timer på både fredag og mandag.
+
+Bedpressen 4. september er nesten klar. Goodebags - Goodiebags ble sendt opp på fredag. Ikke alt innhold som har kommet hellet.
+
+#### Dotkom:
+
+Skjedd litt i sommer, litt surr med epostlistene i sommer. Sett på listene i sommer, så ting burde være good. Tenkte å sende en mail til alle listene og si vi eksisterer og at vi modererer dem. 
+
+OW4 slutta å sende epost i en periode, trakk updates fra feil versjon av Debian. 
+
+Snakk om å kanskje ikke ha stud mail verifikasjon. Ser ikke noe god måte å løse det uten å miste sikkerhet.
+
+Prata med Cyb i Oslo om non-profit slack, men vi er alt for mange. 
+
+Hadde hackaton for en stund siden. Kommet godt i gang med en komitésøknadsapplikasjon, som muligens blir ferdig i tide (litt uti fadderukene). Blir et gult banner på ow4 hvor det uansett står mail eller systemet.
+
+#### Fagkom, med ekskom:  
+
+Ekskom: Ting går greit og de mangler masse folk. Edvard har rekrutteringsansvar, og de henger opp plakater. Lage litt blæst om det. 
+
+Fagkom: Enda en person mindre. Er 7 eller 8 igjen i komiteen, så må ta opp en god del folk.
+
+#### Prokom:  
+
+Har egentlig ikke gjort mye i sommer. Brevet til internasjonale studenter er Andrea godt i gang med. Kontaktet Abakus for å få til en felles flyer, men de har allerede laget en. Blitt kontaktet av arrkom for å fikse invitasjoner til immball, men vanskelig å få kontakt med folk på slack. 
+
+#### Trikom:  
+
+Gitt 18 medlemmer kontortilgang. Pusser opp og håper å bli ferdig på tirsdag, så de kan vise frem på onsdag. Lyst til å arrangere noe på kontoret ved siste episode av GoT. Lyst til å innføre prikker på kontorvakter for de som ikke gjør det de skal.
+
+#### Seniorkom: 
+
+Pusler litt med masterfadderuker. Kommer til å være med på velkom sitt opplegg utenom 3 dager. Litt dårlig kommunikasjon, så det var litt små lokaler. Håper selvsagt så mange som mulig blir med. 17. august har de bli-kjent-fest på håndtverken. Torsdag er det lazer-tag og gokart på dagen og siste dagen er det elvepadling på nidelva. Kommer til å møte folk etter immatrikuleringen og på torsdagen. 
+
+Er 3 stk i seniorkom akkurat nå, så de trenger folk. Erik har blitt økonomiansvarlig, men vi vet ikke om han lov til det. 
+
+Neste de skal begynne å se på etter fadderukene er kickoff, trenger hjelp. Skal se på litt nye ting som opplæring av velkom osv... 
+
+#### Leder og nestleder:
+
+Hege har syklet fra Trondheim til Oslo (feil vei).
+
+Didrik har hatt fri etter jobb og sendt litt mail. Har laget tekst til flyererne. Ikke gjort så veldig mye ellers. 
+
+## 026 Interkom (10 min) 
+
+Godt å se dere igjen.
+
+Trikom vil at brus skal bestilles tidlig. 
+
+Sjekk om økonomiansvarlig skal fortsette. 
+
+## 029 Presentasjon av Online (immatrikuleringen)
+
+Hva skal vi si? 
+
+Vise onlinere om Online filmen fra jubileumet, og så presentere HS. Ønske de velkommen og gi alle high-five. Prate løst om intressegrupper og hva vi kan tilby dem for en best mulig studietid. Ikke for mye fokus på å søke komité, det får de nok info om i fadderukene og på speedating.
+
+## 030 Forespørsler som har kommet på e-post (5 min) 
+
+Personer som ønsker å bli med på fadderukene våre. Vi lar de bli med om de kan vise at de tar emner.
+
+Immballinvitasjoner, vi diskuterer hvem som drar internt.
+
+## 031 Ukens infomail og Facebook (5 min)  
+
+Venter med infomail til ting er i gang igjen.
+
+Poste om åpning av kontoret på onsdag og kanskje om at det er stengt.
+
+## 032 Eventuelt (10 min)
+
+Kontoret:
+Trikom vurderer fatboy og nye gardiner. Kontoret er under oppussing 
+
+Immball: Jubileumet hadde 400 plasser på det samme lokalet som vi skal være i. Kan være aktuelt å bumpe opp plasser om det er stort trykk. 
+
+Møte med Lerkendal - Vi har til i dag for å finne ut hva vi skal spise. Huske å sette en egen pris for eksterne.
+
+Prokom - Snakka i vår om at plakater skal bestilles i puljer eller batch. Sette frister for når plakater skal bestilles. Arrkom har satt arrangementene sine allerede. 
+
+Didrik har en idé om en internasjonal komité, det støttes. 
+
+Kontorvakt for HS: Tar det når de skal settes opp.
+
+Åpent møte. Hvordan skal vi gjøre dette uten at det blir en spørretime med HS? Må ha stort møterom og ikke noe auditorium. En åpen og en lukket del. 
+
+
+## 033 Møteevaluering/Diggepunkt (5 min)
+
+Top kek
+
+## 034 Gjøremål

@@ -1,0 +1,215 @@
+---
+title: "Perioden 2012 - 2013"
+---
+
+-   Leder av Online holdt for første gang og helt i begynnelsen av
+    perioden forventningsavklaringer med det nye Hovedstyret.
+-   Leder av Online holdt velkomsttalen til alle realfagsstudenter på
+    IME på immatrikuleringsdagen.
+-   For første gang i historien ble alle Onlinere invitert til middag på
+    Graffi på 17. mai.
+-   Kompileringen ble gjennomført i likhet med i fjor. Åsmund Eldhuset
+    er nå en kompilert Onliner.
+-   Tidenes største immball ble arrangert med 190 deltakere.
+-   Komitéopptak
+    -   50 % flere søkere i 2012 enn i 2011.
+    -   32 ble tatt opp
+    -   Etter opptaket hadde Online 86 aktive komitémedlemmer,
+        ekskludert studLan.
+-   Hovedstyret gjennomførte for første gang komité-kickoff rett etter
+    komitéopptak. Dette startet med en innføring i det å det å være
+    komitémedlem, etterfulgt av pizza og fest på Realfagskjelleren.
+-   Hovedstyret startet eksKom2014. EksKom er godt i gang med
+    planleggingen av en utenlandstur for daværende 3.klasse og oppover,
+    våren 2014.
+-   Hovedstyret startet en diskusjon om engelske betegnelser for verv i
+    Online og vedtok endelige betegnelser. [Stillingstitler på
+    engelsk][]
+-   Online byttet hovedsponsor fra Steria til Visma og endte opp med en
+    historisk stor Online-sponsing.
+-   Hovedstyret innførte [taushetserklæringer][] i komiteene.
+-   Komitébankkort har blitt innført.
+-   BanKom innførte økonomiansvarlig for alle Onlines komiteer.
+-   Nye styrebånd har blitt laget.
+-   Hovedstyret har for første gang prøvd å arrangere kodekveld for
+    jenter på informatikk. FagKom-leder har aktivt hjulpet Online-jenter
+    med programmering ved å sette opp trefftider hun kan nås på
+    kontoret.
+-   Det har blitt laget en ordning med Byggsikring som gjør at det
+    alltid er lov til å drikke alkohol på kontoret før 23.00 på
+    hverdager.
+-   Hovedstyret har jobbet med å rydde opp i Facebook-grupper. Online
+    har nå en egen Facebook-gruppe for hvert kull, en for
+    komitémedlemmer og en for jenter på informatikk. Online har også
+    laget en Facebook-gruppe for Onlinere som skal være i Oslo i sommer,
+    med den intensjon at man kan være sammen sosialt i sommerferien.
+-   Leder av linjeforeningen har innført et fast “Interkom”<s>punkt på
+    Hovedstyre-møter. Dette punktet tar for seg samarbeid mellom
+    komiteene.  
+    * Hovedstyret innførte at ITR, Realfag for IDI har møte</s> og
+    talerett på første del (de to første punktene) av HS-møter. Dette
+    ble innført for å bedre samarbeidet med IDI. ITR har et fast
+    underpunkt der hun har fortalt om status på IDI ukentlig. Hun har
+    også hatt mulighet til å bringe Onlines status videre.
+-   Kontoret har blitt pusset opp! Dette ble gjort for å øke trivsel på
+    kontoret.
+    -   Ny sofa
+    -   Nytt møtebord
+    -   Nytt låsbart komitéskap
+    -   Ny hylle til personlige bokser, med nye bokser
+    -   Kontoret ble malt av NTNU sine malere (Online fikk ikke lov til
+        å gjøre det selv)
+    -   Ny kjøkkenbenk med skap
+    -   Nytt bord i sofakroken
+    -   Lanseringsdag med champagne-brus og kake
+-   Prikkereglene har blitt revidert.
+-   Hovedstyret har samarbeidet med masterstudenter på informatikk om
+    planleggingen av en utmarikulering og en utmatrikuleringsfest.
+-   Hovedstyret har utformet vedtektsforslag som omhandler vervvarighet
+    og opprettelse av en ny komité.
+-   Hovedstyret sendte ut flere julekort fra Online enn noen gang. Et
+    eksemplar sto blant annet i resepsjonen på IDI.
+-   Hovedstyret satt i samarbeid med IME og NTNU IT opp en telefonsystem
+    på kontoret. Når man ringer nå får man muligheten til å settes
+    direkte over til leder av Online og leder av bedKom.
+-   Hovedstyret har fortsatt samarbeidet med Datakameratene, og sponset
+    dem med 5000 kr.
+-   Hovedstyret har fortsatt samarbeidet med StartIT, og har økt
+    sponsingen av dem fra 2000 kr til 3000 kr.
+-   Online har for første gang deltatt på Gløsmesterskapet i
+    brettspillet “Ingeniørspillet”. Hovedstyret arrangerte
+    kvalifiseringsrunde og laget som stilte kom på imponerende 2. plass.
+-   [Notifier][] ble lansert av dotKom.
+    -   Applikasjonen har vært til stor glede for informatikkstudenter
+    -   Mulig utvidelse til å gjelde flere foreninger er i arbeid.
+    -   En mobilversjon er lansert
+    -   Notifer kjøres på infoscreenen utenfor kontoret
+-   ProKom laget [promoteringsvideo][] for informatikk
+    -   Den har nådd over nesten 3500 Facebook-brukere
+    -   Smigrende tilbakemeldinger fra insituttet og studenter
+    -   Fikk applaus på ledermøte til IDI.
+    -   Den er blant annet publisert på [NTNU sin nettsider][]
+-   Online-genseren er designet og bestilt.
+-   ProKom har designet en fane og utforming og sying er i gang. Fanen
+    skal være ferdig til 17. mai 2013
+-   Hovedstyret har for første gang kontroll over hvem som skal ha
+    tilgang til kontoret. Kontorsjef har nå selv myndighet til å si i
+    fra til adgangskontrollen hvem som skal tilgang.
+-   Hovedstyret har for første gang arrangert et informasjonsmøte om
+    Online for masterstudentene på informatikk. De fortalte der både om
+    Online generelt, hvilke kurs og bedpresser de hadde fremover, samt
+    hvilke sosiale arrangmenter de tilbydde. De serverte pizza og brus.
+    Ca. 18 masterstudenter møtte opp.
+-   Online har for første gang fått en bod på campus. Boden vår befinner
+    seg i kjelleren på P15.
+-   Komitéårbok er en realitet for første gang. Alle komiteene har blitt
+    tatt bilde av og desinget er ferdig. Bestilling skjer fortløpende.
+-   VelKom2013 er godt i gang. Foreløpig har over 30 søkt om å være
+    fadder høsten 2013.
+-   Totalt gjennomført 22 kurs. 16 av disse var åpne for 1. - 5. klasse.
+-   Totalt gjennomført 18 sosiale arrangementer. Dette innkluderer blant
+    annet Åre-tur.
+-   Totalt gjennomført 24 bedriftspresentasjoner.
+-   Utgave \#5, \#6, \#7, \#8 og \#9 av Offline har blitt gitt ut. Dette
+    er to flere enn forrige periode.
+-   BedKom og FagKom har samarbeidet om et nytt påmeldingssystem for
+    kurs og bedpresser. Bedriftene fikk beskjed om dato og klokkeslett
+    for reservering av bedpresser og kurs. I løpet av den første
+    halvtimen etter at påmeldingen åpnet hadde syv bedrifter kontaktet
+    Online. I løpet av den første dagen ble det booket 7 kurs og 7
+    bedriftspresentasjoner.
+-   TriKom har for første gang arrangert temakveld på kontoret.
+-   FagKom har for første gang arrangert Lightning Talks på Samfundet.
+-   ArrKom har for første gang arrangert stor-middag på Studenterhytta.
+-   ArrKom har for første gang arrangert Lazer-Tag.
+-   DotKom har fått en ny server(XO) som skal fungere som ny filtjener.
+    Den skal også gi komitémedlemmer shell-tilgang.
+    -   2 x Quadcore Intel Xeon 5606 @ 2.13 Ghz
+    -   24GB RAM
+    -   5 x 300GB 15k RPM @ 6 Gbit
+    -   2 x 2TB 7200 RPM
+-   DotKom har iløpet av året grovt sett fått ferdig Onlineweb4. Endelig
+    finish mangler og lansering er på vent.
+-   Hovedstyret har holdt et høyt tempo og kom seg gjennom mer enn 420
+    saker i tillegg til at de behandlet et høyt antall tilbud,
+    forespørsler og eventueltsaker.
+-   Mailinglistene har blitt utvidet og endret. Online opererer og
+    drifter nå følgende mailinglister (i tillegg til de som eksisterte i
+    fjor):
+    -   gloshaugen@online.ntnu.no - denne listen når alle
+        linjeforeningsstyrene på Gløshaugen
+    -   dragvoll@online.ntnu.no - denne listen når alle
+        linjeforeningsstyrene på Dragvoll
+    -   linjeforeninger@online.ntnu.no - denne listen når alle
+        linjeforeningsstyrene på NTNU.
+    -   glosfaddere@online.ntnu.no - denne listen når alle
+        fadderansvarlige på Gløshaugen.
+-   Forbedring av samarbeid:
+    -   Abakus. Hovedstyret har jobbet aktivt med å bedre samarbeidet
+        med Abakus. I tillegg til å kjøre noen felles
+        bedriftspresentasjoner og kurs, har Hovedstyrene i Online og
+        Abakus hatt to kvelder for å forbedre samarbeidet. FagKom Abakus
+        og fagKom Online har også hatt bli-kjent-kvelder. Samarbeidet og
+        kommunikasjonen mellom Online og Abakus har blitt kraftig
+        bedret.
+    -   IDI. Hovedstyret har jobbet aktivt for å bedre samarbeidet og
+        kommunikasjonen med IDI. Leder av Online har deltatt på IDI sine
+        semestermøter og IDI har anerkjent mye av arbeidet Online har
+        gjort. Leder av Online har også sittet i en arbeidsgruppe på
+        instituttet som har bygd opp det nye informatikkstudiet som trer
+        i kraft høsten 2015.
+    -   Realfagskjelleren. Leder av Realfagskjelleren har vært på
+        HS-møte. Hovedstyret og Reafagskjelleren har samarbeidet om
+        retningslinjer for utlån av Realfagskjelleren.
+    -   UKA. BedKom og Hovedststyret har for første gang samarbeidet med
+        UKA angående ekslusivitet i forbindelse med bedpresser i
+        UKA-perioden. For første gang har linjeforeningene fått en
+        avtale som Online er fornøyde med. Leder av Markedsgjengen i UKA
+        har vært på HS-møter, linjeledermøter (der leder av Online var
+        representert) og på møter med linjesamarbeidet (der Ada fra
+        bedKom var representert).
+    -   Cyb. Hovedstyret har arbeidet aktivt med å få et samarbeid med
+        [Cybernetisk Selkab (Cyb)][] på IFI i Oslo. Dette har resultert
+        i at Hovedstyremedlemmer har deltatt på sommerfest og julefest
+        på IFI på Blindern. Representanter fra Cyb kom til Trondheim og
+        fikk observere deler av Komplieringen, samt delta på immball.
+-   Representasjon
+    -   Hovedstyret representerte på alle 19 immball.
+    -   Hovedstyret representerte på jubileene til Alf, Nabla, Hybrida,
+        Aarhønen og TIHLDE (HIST).
+    -   Hovedstyret representerte på revyen til EMIL og Smørkoppen.
+    -   Hovedstyret representerte på Sorte Faars Ridderskab på
+        Samfundet.
+    -   Hovedstyret representerte på revyen til Placebo.
+    -   Hovedstyret representerte på Styrefesten i regi av Placebo og
+        EMIL.
+    -   Online representerte på et informasjonsmøte for internasjonale
+        studenter. De fortalte der internasjonale informatikkstudenter
+        om Online, og ga kontaktinformasjon. Flere av disse har deltatt
+        på bedpresser, kurs og sosial tilstelninger.
+    -   Leder av linjeforeningen representerte på Festmøtet på Samfundet
+        17. mai sammen med andre linjeledere på Gløshaugen.
+    -   Hovedstyret representerte på linjeforeningskamp våren 2013 på
+        Samfundet.
+    -   Leder av linjeforeningen har deltatt på alle møter med
+        linjelederrådet. Linjelederrådet har møter én gang i måneden, og
+        diskuterer der problemstillinger som er aktuelle for flere.
+        Rådet har hatt besøk av studiedirektør Inge Fotland, MOT,
+        ansvarlig for SIT foreningskurs, samt fått et innføringskurs i
+        HMS, risikovurdering og krisehåndtering.
+    -   Online stilte for første gang på Jentedagen i regi av
+        Jenteprosjektet Ada helt i begynnelsen av høstsemesteret. Leder
+        av Online var også med på presentere konseptet linjeforeninger i
+        form av et foredrag for de nye jentene.
+    -   Hovedstyret og jenter fra informatikk representerte på stand på
+        Teknologicampen for jenter høsten 2012. Det ble delt ut Offline,
+        godteri og reklamert for informatikk og Online.
+
+  [Cybernetisk Selkab (Cyb)]: http://cyb.ifi.uio.no/
+  [promoteringsvideo]: https://vimeo.com/63722742
+  [NTNU sin nettsider]: http://www.ntnu.no/studier/bit
+
+  [Notifier]: https://github.com/dotKom/online-notifier#features-overview
+
+  [Stillingstitler på engelsk]: https://wiki.online.ntnu.no/projects/online/wiki/Stillingstitler_p%C3%A5_engelsk
+  [taushetserklæringer]: https://wiki.online.ntnu.no/attachments/download/461/Taushetserklaering.pdf

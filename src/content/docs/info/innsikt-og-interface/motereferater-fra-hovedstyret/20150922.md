@@ -1,0 +1,125 @@
+---
+title: "Hovedstyrets Sopra-Steria-har-kurs-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 054)
+
+**Servering:** Studenttinget
+
+**Referering:**  Pia
+
+**Vinstraff:** Marius, Thor Håkon
+
+**Ølstraff:** 
+
+**Tilstede:** Didrik, Ingrid, Nils, Agnete, Sondre a, Magnus, Christoffer, Pia, Thor Håkon
+
+**Mangler:** Marius, Dre, Kristian 
+
+## 84 Godkjenning av innkalling, servering og referat  
+
+Godkjent, men TH har ikke lagt ut
+
+## 85 Status for komiteene  
+
+#### arrKom, med velKom og jubkom:  
+
+Blåtur om to dager, all is good. Ti stk avmeldinger rett før avmeldingsfrist. Vært på befaring. Fått plakat med navn, sted og tid for alle arrangementer. Onlinelekene, woho! Aktivitetsdag, det blir gøy! Åpne for forslag til aktiviteter.  18.oktober. 
+
+Casinokveld, full house Online Casino på Håndverkeren. Er på en fredag. Må flyttes på kalenderen. 
+
+Adventure of Online, skattejakt på gløs! 
+PÅmeldingen til Åre er satt, brunkulla er likevel mulig å leie - snakker med dem om internbytte av hytter. 
+Juleverksted er 25.november. 
+
+Jubkom har hatt sitt første møte, begynt å se på sted og idémyldre litt. 
+
+#### banKom:  
+
+All is good
+
+#### bedKom:  
+
+Har hatt to bedpresser forrige uke, første var veldig bra! Men folk begynte å bestille veldig dyre ting, det var ukult. Miniseminar på torsdag, god stemning. Alle fornøyd med bedpres på festningen. Alle nye har fått være med på en bedpress og to får være med å planlegge en. Har begynt å booke bedrifter til Oslotur 
+
+#### dotKom:
+
+Har hatt møte med de nye. Windows funker dårlig, ass. Lanserte ny web på søndag, hurra. Dritkul, med plakatbestillingssystem. Bedkom har fått epostlista si, juhu! Har fått mulighet til å suspende folk og oath2-støtte. 
+
+IDI hadde strømbrudd, igjen. Måtte slukke litt branner der. Skal gjøre så vi ikke lenger er avhengige av IDI. 
+
+#### fagKom:
+
+Har kurs senere idag, hurra! Skal ut og spise etterpå, det er kult. Mesankurs måtte dessverre flyttes litt på, er foreløpig flytta til 21. oktober. (Dette skal undersøkes) Skal på hyttetur
+
+#### proKom:  
+
+Har hatt brekkehelg, vil ha ut Offline før Readme. Linkedinbildetagning er i planlegging. Glade for bestillingssystem
+
+#### triKom:
+
+Har henta gaver på kjelleren. Har handlet inn muffins. Assasing turer og går. TV kommer på torsdag. Firmaer er dårlige på å holde leveringsdatoer. Kontortilgang er (nesten) på plass! Teambuilding er i orden, de skal på hyttetur. 
+
+Fikk svar på hvem som eier P15. IME betaler for kontoret og det er helt adskilt fra ordningene med datasalene. 
+
+#### SeniorKom:
+
+Har gått gjennom komitékickoffet, skal lage et erfaringsskriv, lager et tilbakemeldingsskjema som kommer ut snart. Utmatrikuleringen er i gang!
+
+Designer dalje. 
+
+#### IDI og ITV:
+
+ITV skal ikke lenger sitte på et kontor, men gå rundt og snakke med folk. 
+
+#### Leder og nestleder:  
+
+## 86 Interkom  
+
+## 87 Ukens infomail
+
+## 88 Forespørsler som har kommet på epost  
+
+## 89 Eventuelt  
+
+Har et punkt om spørreundersøkelse på neste møte, alle skal ha sine spørsmål klare. Den store Onlineundersøkelsen
+
+#### STUDIEFORSKRIFTEN
+
+Høringsfristen på studieforskriften er i dag, det ser ikke veldig lyst ut. Det er valg av NTNU-styrerepresentanter nå snart, det trengs gode representanter. Kanskje snakke med bedriftene om den erfaringen man faktisk får når man engasjerer seg. NTNU blir presset av kunnskapsdepartementet, vi må gjøre noe for å fortelle hvor bra det egentlig er med studiemiljøet. Kan bruke IT-dagene til å snakke med folk. Snakke med Abakus. Vi lager et høringssvar. Vi trenger å finne ut av hvor mange som faktisk fullfører studiene sine. 
+
+Del underskriftkampanjen på facebook. Snakk mer med Login og få dem til å dele kampanjen mer og stille seg bak oss som er uenige. Nils og Didrik snakker med bedrifter, Kongsy hører med en bedrift, Task Force skriver høringssvar og kronikk til aviser. 
+
+Spørre instituttet om de støtter oss, få med hva de mener om den jobben vi gjør. 
+
+Snakk med folk om studieforskriften!
+
+Fastsette datoer
+
+Fastsatt datoer til idémyldring og teambuildinger
+
+Bånd
+
+Fagkom var imot alt annet enn alumnistyrer - mener heller førsteklassinger skal få bånd
+Bedkom var imot femteklassebånd, immballet er for førsteklassinger
+Seniorkom er imot bånd. 
+Diskusjon for og imot bånd. Det er en liten greie for å hedre femteklassingene
+Sondre tror femteklassebånd hever terskelen for å gå bort å snakke med dem, det at andre har tradisjoner for det gjør ikke at vi trenger å gjøre det. Vi sliter allerede med å fokusere på førsteklassingene, så femteklassebånd vil gjøre alt enda mer komplisert. 
+
+Trenger seniorkom bånd hvis de har dalje? Snakkes i mot alumnibånd hvis ikke vi har en gallaliste. 
+Argumenters for alumnibånd og representasjonsbånd for andre medlemmer. 
+
+Seks for representasjonsbånd - det blir oransje representasjonsbånd. 
+
+Vedtektene sier at HS må stemme over nye medlemmer av ridderordenen. Vi må snakke med eldsterådet om at det er sånn. Vi vil at kravene skal være slik at man skal kunne få bli medlem av ridderordenen selv om man tar studiet på normert tid. Det er mange som fortjener å bli tatt opp i ordenen, til tross for at de tar graden på normert tid. 
+
+Vi har et navn å kontakte i Ålesund, hurra!
+
+Vedtekter om bankom, skal bankomleder ha ansvar for HS sin økonomi?
+
+## 90 Møteevaluering  
+
+- Diggepunkt: Pia digger Nils og Didrik, 
+Christoffer digger prokom sine plakater, 
+TH digger skattejakt og assasin
+Digger skravlenivået og at det var et raskt møte

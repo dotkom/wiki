@@ -1,0 +1,192 @@
+---
+title: "Møte 26.10.2017"
+---
+
+**Møtetidspunkt:** 26. oktober 12.15 (R E4-107)
+
+**Servering og referering:** Emil
+
+**Straff:**
+
+**Tilstede:** 
+
+**Mangler:**
+
+## 178 Godkjenning av innkalling, servering og referat
+Godkjent
+
+## 179 Status for komiteene (30 min)
+
+#### Arrkom, med velkom:
+julebordet er good!
+Casino er problematisk, men alt er booket! Mulig det må avlyses pga samfundet arrangement.
+Åre er good!
+
+Immball neste år: Lerkendal er dyrere enn tidligere.
+Logen beste alternativ per dags dato.
+
+Eksamensfest: vanskelig å finne dato pga, mye diskmat og kveldseksamen dagen før.
+Sendt ut spørreundersøkelse.
+
+Gleder seg til hyttetur!
+
+#### Bankom:
+
+Skal endre kontostrukturen, er mange små kontoer. Skal samle pengene på en konto.
+
+Åre er betalt.
+
+#### Bedkom, med ITEX:
+
+ITEX: begynner å se på hotel og fly. dato satt: 28-31. august. Skal kontakte bedrifter tidligere.
+
+#### Dotkom:
+
+QR-kode registrering på nibble.
+
+Opprettet kontaktskjema på ow4.
+
+Jobber med genforsprogrammet. Noe smått igjen, men blir nok klart til genfors.
+
+Vanskelig med julebordfremføring. Blir veldig bra!
+
+Begynt å tenke på å flytte til cloud. Skal på møte med teknisk gruppe for å finne ut situasjonen.
+
+#### Fagkom, med ekskom:
+
+Ekskom: Nesten alle drar ut av sørkorea i den kulturelle uken.
+
+Fagkom: Eksamenskurs og IBM igjen.
+
+
+#### Prokom:
+
+- Hatt møte med PR abakus for t-skjorter til åre.
+
+- Sett gjennom retningslinjene. Vurderer å fjerne at de skal ha en kontaktperson for hver komite.
+
+
+#### Trikom:
+
+ikke her
+
+#### Seniorkom:
+
+Ikke her
+
+#### Leder og nestleder:
+
+Leder:
+
+- Endelig fått ut spørreundersøkelse.
+
+- Sendt ut doodle for medarbeider samtale.
+
+- Det er snakk om felles HMS kurs for linjeledere.
+
+- Maskin eller Omega ønsker å arrangere ludøl.
+
+Nestleder:
+
+- Hjalp sjadam med arrangementet deres. De var veldig fornøyde.
+
+- Snakket med bandet og ser på lokaler.
+
+- Sendt mail til abakus angående kaffe på mastersal.
+
+- Booket hytte til hytteturen.
+
+#### ITV:
+
+Ikke her
+
+#### Realfagskjelleren:
+
+Ikke her
+
+## 180 Interkom (10 min)
+
+Ønsker alle komiteer en ansvarlig i prokom?
+
+Ikke veldig stort behov for det.
+
+## 181 Komitéretningslinjer
+
+Aslak jobber med å samle alle retningslinjer et sted.
+
+Arrkom: Har endret til 1 økonomiansvarlig. Har lagt til at bankom-leder kan plukke hvem han vil.
+
+Bankom: Har glemt å ta det opp på møte.
+
+Bedkom: Lagt til tech talks, fjernet restaurenatansvarlig.
+
+Dotkom: Har gjort litt omstruktureringer. Har satt opp ansvarsområder. Har lagt inn en setning for her av disse. Har lagt inn en linje om bankom.
+
+Fagkom: Fjernet resturantansvarlig og sosialansvarlig. Lagt til eksamenskurs under Abakus. Lightningtalks hver vår.
+
+Prokom: Fjernet det med kontaktansvarlig for hver komitee. Har opprettet noen nye ansvarsstillinger.
+
+
+## 183 Ekstraordinær generalforsamling
+
+Christoffer: Skal ha møte med ordstyrer på mandag.
+
+Kan endre dagsorden slik at det blir vedtekter først og så saksforslag.
+
+Ellers så er alt klart!
+
+Arrkom eller HS skal få 10-15k for avslutningsfest til 3.
+
+## 184 Adventskalender
+
+Edvard tar ansvar for julenøttene.
+
+## 185 Sosialisering med Abakus
+
+HS ønsker at vi får tid til dette.
+
+Hege fikser doodle for abakosing
+
+## 186 Fotosession/julekortbilde
+
+Ønsker et felles bilde av alle som vil ta bilde med oss. Grøtfest kan være et arrangement for å samle folk.
+
+Må vite mer hva trikom tenker før vi går videre.
+
+## 187 Movember
+
+Skal opprettes movember page.
+
+## 189 Forespørsler som har kommet på e-post (5 min)
+
+Skriver facebookpost om stillingsutlysning til generalforsamling.
+
+Teknologicampen - middag på samf
+
+Invitasjon til idiseminaret - Vi sender 2 stk.
+
+## 190 Ukens infomail og Facebook (5 min)
+
+Bleste stilling på facebook.
+
+## 191 Eventuelt (10 min)
+
+Alle må legge inn retningslinjene under vedtekter på den åpne wikien.
+
+## 192 Møteevaluering/Diggepunkt (5 min)
+
+Didrik digger Aslak og Loffen.
+
+## 193 Gjøremål
+
+Didrik oppretter drive for adventskalender.
+
+Hege fikser doodle for abakosing.
+
+Didrik skal opprette movember page.
+
+Emil lager google form til pizzabestilling til generalforsamling.
+
+Emil tar med rollup til generalforsamling.
+
+Henrik skal spørre trikom angående hammeren til generalforsamling.

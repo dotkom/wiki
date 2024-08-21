@@ -1,0 +1,164 @@
+---
+title: "Hovedstyrets Pia-er-tilbake-møte"
+---
+
+**Møtetidspunkt:** 11.15 (054)
+
+**Servering:** Christoffer
+
+**Referering:**  Thor Håkon
+
+**Vinstraff:** Marius, Dre
+
+**Ølstraff:** 
+
+**Tilstede:** Alle 
+
+**Mangler:** 
+
+## 65 Godkjenning av innkalling, servering og referat  
+
+Godkjent. Tid skal komme bedre frem i e-post
+
+
+## 66 Status for komiteene
+
+#### arrKom, med velKom og jubkom:
+
+* Immball på lørdag: all good  
+    * Fått litt ekstra penger, oppgradert fra papirduker til tøyduker
+    * Pølseservering på nattestid  
+    * Prøve å få inn alle førsteklassingene som er på venteliste, og høre med Logen om å åpne flere plasser
+    * Testet anlegget og det fungerer. Låner én mikrofon av Dre. Kjøpe inn ekstra kabel som er lang nok.
+    * Kan arrKom-leder hente penger fra immball-pengene for å kjøpe kostyme til immball.
+    * Swing-kurs dagen før immball
+
+* To nye arrkom-ere er med å arrangere blåtur  
+* Fått ny økonomiansvarlig og nestleder  
+* VelKom har skrevet erfaringsskriv
+
+#### banKom:
+
+* Betaler regninger  
+* Venter på ny økonomiansvarlig fra FagKom  
+
+#### bedKom:
+
+* Bedpres i går med en ny bedKom-er  
+* Bedpres med EY på torsdag, sammen med en ny bedkom-er 
+* Bestemt hvem som skal til Oslo  
+* Bestemt bookingansvarlig  
+
+#### dotKom:
+
+* De nye kommer på møte i dag
+
+#### fagKom:
+
+* Fire nye ønsker å være økonomiansvarlig  
+* Velge folk til Oslo-tur på torsdag
+
+#### proKom:
+
+* Funnet fast møtedag  
+* Hatt bli-kjent-kveld  
+* Hatt førsteutkast til Offline  
+* Plakater kommer i tur og orden  
+* Artikkel om klovneløpet kommer til ow4  
+* Startet med kursing  
+
+#### triKom:
+
+* Satt fast møtetid  
+* I morgen blir det nestledervalg  
+* Assassin: påmelding er utsatt, forhåpentligvis i dag  
+* Gjøre klar bokssystem  
+* Se på mulighet for team-building med kosKom (Abakus)  
+
+#### SeniorKom:
+
+* Komitékickoff i morgen  
+    * Introduksjon  
+    * Mail- og Slack-post  
+    * Kontor- og brannpost  
+    * Oppbygging av Online 
+    * Skal være konkurranse mellom deltakerne, vinner får dekket julebord    
+
+#### IDI og ITV:
+
+* Vært på styremøte med IDI og utdanningsutvalget  
+    * Fjerne to masterretninger (komplekse og spillteknologi) og si at du kan oppnå samme resultat på andre linjer. Fases ut om et år eller to  
+    * Snakket om hvilke obligatoriske fag som skal være når, kommer tilbake med et forslag  
+    * Gjøre studass-kurset obligatorisk så fort som mulig  
+    * Skal ansettes opptil tre nye ved IDI, som er innenfor budsjettet  
+    * For at IDI ikke skal straffes på budsjett ved at de har for mye areal til disposisjon må de si ifra seg P15. IDI har ikke kontroll over P15, så datasalene er åpne for alle. IDI har prioriet på å leie P15, men det er ikke IDIs disponible areale.  
+
+#### Leder og nestleder:  
+
+* Nestleder har vært på linjeledermøte og fusjonsworkshop  
+
+## 66 Tales punkt 
+
+* Tips til Mail- og Slack-kurs:  
+    * Slack er ikke kun for komitémedlemmer  
+    * Mail-kurs: top vs bottom quoting  
+    * Videresende stud-mail
+    * Alias med @online.ntnu.no  
+    * Anbefal gmail  
+    * Fjerning av signatur  
+    * Bilder i e-post skal ikke eksistere  
+    * Vedleggsetikette  
+    * Hvordan legge inn lenker som fotnote  
+    * Understrek at all Online-kommunikasjon skal skje på mail, ikke på Facebook/Slack  
+    * Én e-posttråd handler om én ting, og det står i emnefeltet
+    * Signatur  
+
+## 67 Interkom 
+
+## 69 Kontortilgang
+
+* Skrive inn i retningslinjene til TriKom hvem som skal kunne ha kontortilgang
+
+* AppKom  
+    * Leder må holde oversikt over hvem som skal fortsette og melde til TriKom hvem som skal ha tilgang  
+    * AppKom må sette opp retningslinjer, bl.a. med leders ansvar for dette  
+
+* EksKom  
+    * Tidligere har det vært med mange komitémeldemmer at det ikke var rettferdig mot resten å ikke ha tilgang  
+    * EksKom jobber året gjennom og gjør mye jobb. De har også ting og hylle på kontoret  
+
+## 70 Ukens infomail
+
+* https://online.ntnu.no/wiki/komiteer/infomail/080915/
+
+
+## 71 Forespørsler som har kommet på epost
+
+* TV til kontoret  
+    * Dagens TV er for liten  
+    * Ønske om wallmount  
+    * HS er for ny TV til kontoret, HS sponser med 5000,-
+
+* Liptons jubileum: Komitélederne hører med nestledere!  
+* Kodeklubben trenger veiledere: Promotere på Facebook og infomail  
+* Stand på Teknologicamp (2. november 17-18 + middag på Egon): Svarer at vi kommer  
+* Orakeltjenestens spørsmål om e-postlister: DotKom-leder svarer  
+* Linjeforeningsdag under UKA (21. oktober): Meld deg på via uka.no  
+* AppLab: Settes på infomail  
+* Kontortilgang til applikasjonstilgang: TriKom svarer  
+* Innkjøp av utstyr til appKom for kontorvaktsystem: TriKom kjøper  
+* Teknisk hjelp under HelsIT: BedKom svarer  
+* Teknisk hjelp under NOKIOS: BedKom svarer
+
+## 72 Eventuelt  
+
+* ProKom kjøpe inn pynt til fotostand fra immball-pengene  
+* BedKom og TriKom i møte med Casual Gaming om finansiering av LANet på P15. BedKom tar på seg ansvar for å skaffe premier og begrense utgiftene til CG. Det er kun om TrønderLAN går med underskudd at de trenger penger, ser an støtte fra Online etter det. Online foreslår å stille med underskuddsgaranti inntil 6000kr. Onlines støtte skal kun gå til StudLAN.  
+* Opprette gallaliste for gamle HS-ere (diskuteres videre på neste møte)  
+* Komitébånd for komitémedlemmer som blir med på immball?  
+* Drikkegaver på immball: Vi tar imot 
+* Bytting av pins: Bytt pins med måte, ikke ta med ekstra pins
+
+## 73 Møteevaluering
+
+Kjempe!

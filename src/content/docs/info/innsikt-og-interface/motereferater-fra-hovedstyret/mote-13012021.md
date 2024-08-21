@@ -1,0 +1,157 @@
+---
+title: "Møte 13.01.2021"
+---
+
+# HS møte 13/01-21  
+
+*Møtetidspunkt:* Zoom, kl 12:00 - 14:00
+
+*Referering:*  
+1. Sindre  
+2. Stensrud
+
+*Tilstede:* Alle
+
+*Straffer:*  
+- Samtlige som ikke deltok på HS-møte 01.01.2021 kl 00.001 på hytta. (agenda kom 1 time etter møteslutt, så tar en vinstraff for det)  
+- Benny (forsent)  
+- Johanne (forsent)  
+ 
+## TODOS fra forrige gang. 
+- [x] Stensrud skal gå inn i referatet og fylle inn forklaringer under omfordeling av midler.
+- [x] Benedicte legger ut link til spørreundersøkelse på slack.
+- [x] Marius tar videre behandling av prosjekter fra workshop og kommer tilbake til HS med aktuelle saker.
+- [ ] Mathias teiper boden.
+
+## 529 Godkjenning av innkalling  
+- Godkjent
+
+## 530 Status for komiteene (12.20 - 20 min)  
+#### Arrkom, med jubkom:  
+- Ikke så mye å melde om, første møte i morgen (torsdag), smittesituasjonen er ikke bra, spørs hvor mange ting vi får inn på starten av året. Krysser fingrene for at ting bedrer seg.
+- Både jubkom og velkom gutta skal delta på møtet.
+
+
+#### Bedkom, med ITEX:  
+- Jobbet med Tech Talks gjennom ferien. 3 har signert og 3 har takket ja. Må dessverre avlyses på grunn av smittesituasjonen.
+- Skal ha første møte i morgen.
+- Første bedpress i morgen
+
+#### Dotkom:
+- Går bra, oppdatert Grades.no, de gamle har vært aktive. Ny frontend på Grades (darkmode<333)
+- Noen feil fikset på OW.
+- Første møte i dag.
+
+#### Fagkom, med ekskom:  
+- Første møte i går.
+- Første kurs 21. jan.
+- Workshop til helga, komme på nye kule ideer.
+- Bekk er nysgjerrige med hva som skjer med komiteseminar, der regner med at det ikke er så mye planlagt mtp en viss pandemi. Hold Bekk oppdatert.
+
+##### Ekskom  
+- Avlyst Tech Talks.
+- Medfører nok ingen ekskursjon.
+
+#### Prokom:  
+- Oppstartsmøte på fredag, ikke så mye som skjer.
+- Fått prøvetrykk, mer info om det på fredagen. Husker ikke hvilken leverandør.
+
+#### Trikom  
+- Skal ha møte snart, men ingen dato.
+- Ingen plan om fysiske arrangement enda, men sjekke ut digitale alternativer.
+
+#### Seniorkom:
+- Skal ha oppstartsamtale etterpå for å planlegge første møte.
+- Starte med prosjekter.
+
+#### Bankom  
+- Bankom har hatt ferie
+- Første møte søndag. Revidering og regnskapsføring for 2020.
+
+#### Økonomiansvarlig  
+- Fakturert for frukt som ikke er bestilt.
+
+#### Nestleder:  
+- Hatt ferie<3
+- Smått begynt, booker rom til komitemøter, ser an hva soms skjer, evt NTNU og Anne kommer med. Muligens vi ikke kan bruke campus, ingenting er sagt enda, satser på det beste.
+- Sett på semesterundersøkelsen, og komitearbeidsundersøkelsen, litt pirk, det er bra, ting vi kan jobbe med!:)
+
+#### Online IL:  
+- Ikke noe som skjer.
+- Har ikke begynt. Første møte til uka.
+
+#### Leder  
+- Hentet kaffekopper, står 5 kasser på kontoret.
+- Bra møte med Abakus og deres varslingsgruppe. Initiativ fra Endre, de joer med andre ting enn oss. Aksel ser for seg at det er et samarbeidsoppgave i 2021. Bilateralt osv, jobbe på tvers.
+- Møte i morgen med LL. Hva skal Buddy-prisen spenn gå til.
+
+## 531 Interkom (5 min)  
+- Nada.
+
+## 532 RFK ønsker mer identitet i Online (15min)  
+[Ref mail fra Nikolai]  
+
+- 2 forlsag:  
+    - kjellerkontakt blir med på ukentlige HS møter,  
+    - RFK legges inn på komitemaillister  
+- Benny: Jeg tenker at de legges på listene er helt fint, ingenting imot det. Vet at folk blir forvirra av hvem som er der, tror ikke OIL er der enda en gang, det må oppdateres. Mer skeptisk til at de blir med på møtene, i gamle HS var de med fram til et punkt de ikke ble invitert lenger. Det ble gjort at de ville senke antall menenskeer på møtet som kanskje ikke kan delta på alle diskusjoner. Vet ikke om vi burde invitere dem hver gang, men det kan godt skje.
+- Øyvind?: Hvorfor har de ikke blitt inkludert?
+    - Benny: Sånn jeg skjønte det da, vi hadde både ITV og RFK med på møtene, ble aldri tatt en beslutning å ikke invitere de, August bare ikke tok de med på kopi, fikk en følelse av at de kom bare for å komme, men var ikke produktivt at de var med. Ble da tatt en beslutning å inføre "stor-møter", der nodekomitemedlemmer bl.a. blir med, men har ikke skjedd grunnet Corona.
+- Thea?: Ja, lurer på om det er vi i HS som bestemmer sånne ting, eller er dette noe vi snakker om på genfors? 
+    - Mathias: Ja genfors. Litt frie tøyler på hvem som er med. RFK mener nok at de vil være med på noen møter, ikke ha det i vedtektene. Har litt glemt hele greia og rona.
+- Kristoffer: Backes, skull nevne stor-møter, Jazz-hander istedenfor.
+- Thea: Tenkt litt på det med RFK, vet ingenting om dem. Har ikke skjedd mye der, merka det litt i faddergruppa, en ble med i RFK, og snakket med han litt senere, han sa at han ikke følte han var med i Online. Vi burde legge inn litt innsats at de skal bli invitert.
+- Mathias: Elsker å inkuledere RFK, men er dårlige på å inkludere dem. Mange gode innspill.
+- Øyvind: Sånn jeg ser det at problemet med RFK er at vi ikke kan tvinge medlemmene i Online til å bruke de. Onlinere føler seg ikke connected med RFK med mindre Onlinere bruker de. Det er veldig tøft med tanke på RFK.
+- Sindre: Har ikke abakus en sånn RFK greie?
+    - Mathias: La bamba.Brandet det litt annerledes, Abakus satser veldig på det. Online deler RFK med Delta og Spanskrøret. Helt ærlig burde vi dele La bamba med Abakus. Det er desverre et skille mellom RFK-kultur og Online-kultur.
+    - Øyvind: Ulempen med å være sammen med tre andre linjer er at vi ikke kan spytte inn mer penger enn de andre. Så Abakus bruker mye mer penger på det, og dermed blir det billigere og mer attraktivt
+- Mathias: Invitere RFK innimellom på møter og legge dem til på mailinglista. Noen som tar det?
+    - Kristoffer: Yes I fix
+
+## 533 Genfors workshop [5min]
+[Vi bør finne ut av hvilke saker vi vil stille oss bak ved genfors. Det kan vi gjøre på en workshop, hvor vi brainstormer litt]
+
+- Genfors nærmer seg, det er da vi skal forbedre organisasjonen på papiret!
+- Hva skal HS stille seg bak? Workshop.
+- Desto tidligere vi er klare med sakspapirene, desto bedre.
+- Kandidatside kan settes opp snart.
+    - Snike på kandidatene hehe😈
+- Forslag: Sette workshop dato 9. februar
+    - Litt sent? Bare tre uker før.
+    - 4. februar?
+- Stensrud: Har vi sett på digital genfors?
+    - Mathias: Det er lov å gjennomføre genfors på campus. Det sier NTNU. Sjekke opp FHI regler. LEnge til 2. mars, så vi kan håpe det skjer noe.
+    - Henrik: Hvor mange var i fjor? 100? Om vi får R1, da er det plass til 500 stk. 
+    - Mathias: Ja kjør. Digitalt suger. Høre tidlig
+- Mathias: Tentativt genfors 1. mars. Workshop 4. feb.
+
+
+## Eventuelt  
+Thea: Lurer på dette med at NTNU driver å utestenger noen etter OOP-fusk. Mange av de som tar OOP er informatikere, dersom noen med verv i Online blir utestengt av NTNU hva skal vi gjøre?  
+
+- Mathias: Vedtektene er good. Sosiale medlemer kan ha verv i Online aka trenger ikke nødvendigvis være informatikere og ha studierett. Hva de gjøre i sin studiehverdag har ingeting å si for Online.
+- Thea: NTNU kan ikke påvirke dette?
+- Mathias: Nei NTNU kan ikke påvirke oss.
+- Generelt: Vi synes ikke noe om sanksjonene mot oss. Fortsett i verver uten å tenke på det.
+---
+Koppene: Hva er status med de ordentlige koppene?  
+
+- Kristoffer: De er i boden, og man kan skrive navn på de med tusj:) Vi har 100 stykk, dersom flere enn 100 ønsker det så tenker jeg sudo random fordeling. Ventet med det mtp at vi ikke kan kjøre utdeling på skolen.
+
+---
+Ydmykt innlegg fra Benny: Vil minne om at vi fikk en henvendelse fra velferdstinget. 50k. Noe vi kan komme på som kommer innunder der er det fint.
+
+- Stensrud: Arrkom og Prokom spurte om spenn siste. Ingen fikk noe. 3k ble gitt, men ikke brukt.
+- Mathias: Stensrud søker. Hvis vi får spenn så er det smud. Alle tar opp med komiteene sine.
+- Øyvind: Noen som har innsyn i om pengene fra velferdstinget faktisk blir brukt? Er det dårlig av oss som har så mye penger å fortsatt be om penger.
+    - Mathias: Det styrer de. De vet ståa og fordeler ut i fra dette. Det er mye spenn i potten.
+    - Benny: Vi fikk mail i høst hvor de skrev at de har mye penger igjen. Kan virke som at det ikke er super mange som søker og bruker det.
+
+## Gjøremål
+- [ ] **Mathias:** Teipe boden.
+- [ ] **Kristoffer:** svare Thea, nei Nikolai.
+- [ ] **Stensrud:** Bli støttekontakt:)
+- [ ] **Benny:** Genfors arrangement på OW.
+
+Møtet hevet 13.16

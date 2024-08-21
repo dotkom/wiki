@@ -1,0 +1,85 @@
+---
+title: "Hovedstyrets immballsesongmøte"
+---
+
+**Møtetidspunkt:** 09:15 rom 260 på IT-vest
+
+**Servering:** Pia
+
+**Referering:** Pia
+
+**Vinstraff:**
+
+**Tilstede:** Erik, Linn, Pia, Marius, Nils, Per Øyvind, Henning, Kathrine
+
+**Mangler:** Sverre
+
+### 51 Godkjenning av innkalling, servering og referent.
+
+Godkjent
+
+### 52 Status for komiteene.
+
+- arrKom, med velKom
+Cateringselvskapet ble enige med seg selv. Og prisen ble 290 kroner! Marius har invitert alle som skal inviteres, systemet på OW4 for å melde på gjester funker fett! Blåtur er bestilt. Blir 26.sept. 
+Velkom: Ting humper og går, fadderukene er gjennomført. Går i pluss! Vurderer å bruke pengene på ny grill. 
+
+- banKom
+Mangler en betaling for faddersponsing. Har hatt et møte, fått ny nestleder i bankom!
+Noen er bedre med bilagsføring enn andre, litt momsproblemer. (Moms er vanskelig) 
+Henning har betalt alt som fristene er gått ut på. Henning er flink til å oppdatere ting fort. Henning og Linn må i banken for å fikse at Henning blir administrator for våre bankomting og ikke tidligere bankomleder. 
+
+- bedKom
+Alt går fint, skal være første bedpres i dag. 
+
+- dotKom
+Hadde første møte i går. Litt amputert og lite møte. Litt småting ble fikset, sjekka at RFID-systemet fortsatt fungerer. 
+
+- fagKom
+Alt går fint, har ikke hatt første møte enda.
+
+- proKom
+Ferdig med intervjuer, Kathrine fikk vært med på et intervju da hun var syk :(
+Snart ferdig med immballsanghefte. Skal sitte på kontoret og dele ut årbøker i morgen. Vi har fått kult kjøleskap på kontoret!
+
+- triKom
+Eksperimenterer med kjøleskapet for å se hvilken vei man skal skru på bryteren. Har hatt et møte hvor de snakket om hvilke roller de skal ha innad og hvilke arrangementer de skal ha i løpet av semesteret. Vigdis har prøvd å få et rom som har piano til koret! Erik har bil.
+
+- IDI ved ITR
+Skjer ikke så mye fra IDI sin side. Fra studentrådet: Er noen høringer for tiden på hvorvidt NTNU skal slås sammen med andre campuser, eller flyttes litt rundt om kring. (For eksempel en avdeling ned til Gjøvik) De skal ha en vurdering på om siving skal bli 3 + 2 år. Dette er blitt gjort i Oslo og har fungert bra. Litt diskusjon om hva vi mener om det. Det meste er negativt.
+- Leder
+Har vært på linjeledermøte, en linjeforening har gjennomført sin malingstradisjon og det har gått litt over stokk og stein. Erfaringer fra fadderukene, mange som hadde booket steder hvor de ikke kom inn. Snakket om faddervaktordningen, funket veldig bra! Noen immball er for lange, og man skal prøve å korte ned på de lange, (kanskje unødvendige) tradisjonene. 
+
+### 53 Interkom
+
+Diskusjon
+
+### 54 Immball
+
+- Fastsette hvem som skal gå på hvilke
+this is being done
+- Gaveforslag
+idemyldring skjer
+
+### 55 Komitekickoff
+Vi må planlegge komitekickoff. Prøver å sette dato. Dato blir 15. september. Linn booker kjelleren. 
+
+### 56 Komiteopptak
+Diskuterer hvem som skal ta opp hvilke kandidater og snakker om hvordan opplegget til å begynne med er i hver komite. Linn tror alle ledere vet hvor mange man trenger i hver komite.
+
+### 57 Kompileringen
+
+- Sende mail til Teaterlosjen (Linn)
+Et hovedstyremedlem på hver post. Snakker om hvor grensene skal gå. Kompileringen starter 09.00 fra P15 for gruppene. HS møter 07.30.
+Alle som er ansvarlig for hver post er ansvarlig for å handle inn ting til den post. 
+
+### 58 Ukens infomail
+
+
+### 59 Eventuelt.
+Nils løp rundt for å fikse boden. IDI-leder er gira på gjesteforeleser og vil samarbeide med Online og Abakus. 
+
+### 60 Møtekritikk.
+
+Vi må bruke tegn. Og bli flinkere til å holde ting kort og konsist. 
+Bra kake!

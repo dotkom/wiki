@@ -1,0 +1,103 @@
+---
+title: "Hovedstyrets marsmøte"
+---
+
+**Møtetidspunkt:** 14:15 rom 054 it-vest
+
+**Servering:** Erik
+
+**Referering:** Kathrine
+
+**Vinstraff:** 
+
+**Tilstede:** Linn, Henning, Kathrine, Erik, Nils, Per Øyvind, Marius, Pia, Caroline
+
+**Mangler:** Ingen
+
+### 268 Godkjenning av innkalling, servering og referent.
+
+Godkjent
+
+### 269 Status for komiteene.
+
+#### arrKom:  
+
+* Hadde temafest: Fint lokale. Var egentlig ikke glade for å ha studenter, men det gikk visst bra. Ingen klager. Marius tok bilder.
+* Studenterhytta: Har vært vakter for Nabla. Vi har vakter. Fått kontrakt og dato er bekreftet.
+* Åre: Skistar er vanskelig å ha med å gjøre. Forsøker forskjellige løsninger. Det ser ut til at vi er eneste linjeforening som drar.
+* 17. mai: Ser etter sted etter middagen. Har snakket med Graffi.
+VelKom: Har fått leder/nestleder. Har fått seks søkere. Ingen bedKomere ennå. Hatt møte med leder. De fikser intervjuer selv.
+
+#### banKom:
+
+* Budsjetter skjer. Espen Hellerud lager budsjett for IT-ex, AppKom og VelKom fikser budsjett.
+Henning legger ut linker på wikien. 
+Foreslått at man generaliserer mer, så man har mer frihet.
+Julekort koster penger.
+Støtte til nodekomiteer under HS.
+
+#### bedKom:
+
+* Sosialkveld: Marius var edruvakt
+* Felleskveld med fagKom senere i dag.
+* Svoren er velKom-ansvarlig.
+
+#### dotKom: 
+
+* Betalingssystem: Blir prodsatt i morgen. Bilag kommer på kontrollpanelet til Stripe. Henning stikker innom dotKom-møtet. Brukes nok på Studenterhytta.
+
+#### fagKom, med eksKom:
+
+* Det jobbes med Lightning talks. Vi får ikke bruke Samfundet. 3B har tilbudt seg, de ser også på Kjel-kantina. Det blir kurs med Finn. De har fått kaffekanne! Booking starter 18. mars. 
+* EksKom: EksKom-ansvarlig i fagKom. Har hatt infomøte for nye eksKom. Nåværende eksKom har hatt arbeidskveld.
+
+#### proKom:
+
+* Årbok kommer før genfors, håper vi.
+* Offline har artikkelfrist på søndag.
+* Hvis Online skal legge ut for Gullblekka må det inn på proKom-budsjettet.
+
+#### triKom:
+
+* Retrogaming: Har skiftet kabler, skal teste Pi'en til Håvard en dag.
+* StudLAN: Kjøper inn ekstra brus og godteri.
+* Kontorvakter: Folk bytter internt.
+* DungeonWorld: Få med GMs? Spillkveld?
+* Øl er tilbake på kontoret.
+* LaBamba: Mail fra kontorsjef om kosekveld med koseKom.
+* Kontorvaktsystem kan komme seg opp. Trenger RFID-leser. Ta den gamle som bedKom og fagKom bruker?
+
+#### IDI og ITR:
+
+#### SeniorKom:
+
+* Det kjøpes utmatrikuleringsbilletter
+
+### 270 Interkom
+
+### 271 Genfors
+
+* referenter: Bør være planlagt på forhånd. Alle får høre med sine egne.
+* ordstyrer: Stein Olav, Spanskrøret. Studenttinget har flere kandidater.
+* Tidsbruk: Tidsbegrensning må overholdes! Linn og Carro tar ansvar. Spesielt utspørring av kandidatene, og de som har stilt før bør ikke få de samme spørsmålene. Si ettertrykkelig ifra om at budsjettene ligger ute, slik at det at de blir raskt gjennomgått. Sette ned foten for ugling.
+
+### 272 Flagg
+
+Brukes i fadderukene? Sikkert mye mer vi kan bruke på det. Enstemmig vedtatt. TH fikser.
+
+### 273 Ukens infomail. 
+
+Perok må legge inn info!
+Genfors
+
+### 274 Eventuelt.
+
+### 275 Forespørsler som har kommet på epost
+
+* Samfundsmøte: 11.03 om pedofili og overgrep. 
+* Velferdstinget, valg: Infomail!
+* StartIT: Infomail
+
+### 276 Møteevaluering.
+
+Røddige saker

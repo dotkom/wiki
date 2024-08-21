@@ -1,0 +1,277 @@
+---
+title: "genfors og datakam kontrakt"
+---
+
+**Møtetidspunkt:** 10.15  
+**Sted:** [Gamle Elektro G022](https://link.mazemap.com/fUql7wkZ)
+
+**Servering og referering:**  
+*1. ref*: Karan   
+*2. ref*: Karen  
+*Servering*: Karan   
+
+
+**Straff:** Karan (ikke godkjent servering) men tok med gode boller og rundstykker
+
+**Tilstede:** Robin, Karen, Carolina, Sondre, Njål, Henrik
+
+**Mangler:**  Anders og Maiken
+
+## Innsjekk
+[Hvordan har dere det?]
+
+
+- - -
+
+[TOC]
+
+- - -
+
+## 087 Godkjenning av innkalling, servering og referat fra forrige uke
+[Kom innkallingen tidsnok? Er serveringen her, og er den godkjent? Er referatet fra forrige uke godkjent?]  
+- Servering er underkjent
+- Innkalling er godkjent
+- Referat fra forrige uke er godkjent
+
+## 088 TODO´s fra forrige møte
+[Lim inn todo´s fra forrige møte]
+
+Todos fra møte:
+
+- [x]  videresende mailen til sebbi til HS.
+- [x] Alle minne komitelederne sine på å legge inn årsberetning
+- [x] Alle skal melde at alle skal holde av datoen til genfors
+- [x]  skal fikse alt av kommentarer ol. på vinstraffreglene
+- [ Done 🤓 ] Anders må slutte å være klyse
+
+## 089 Status for komiteene (20 min)
+[Her er det kun meningen at det skal være status for komiteene. Det er lov å stille oppklarende spørsmål, men andre spørsmål som kan lede til diskusjoner kan dere skrive ned og ta på eventuelt.]
+
+#### Arrkom:  
+
+- Har sagt ifra til leder om årsberetning og igjen sagt at alle må på genfors   
+- Ellers er det egt lite update fra arrkom annet enn gjennomførte arr   
+- Hybel til hybel i helgen, var ikke med selv men det så gøy ut!   
+- Quiz på mandag, tror det også ble vellykket:))   
+- Avtalt med trikom angående vors før oktoberfest, den er 21. oktober og begynner kl 18.  
+
+
+#### Bedkom:  
+- Hyttetur i helgen, blitt godt kjent med de nye.
+- Bookinggruppen har hatt møte med fagkom og har begynt å planlegge
+- Det er få ledige datoer, slik at det blir færre og større arrangmenter for å fylle opp
+- KID konferanse i morgen. Gleder oss til å få tilbakemeldinger. Vi vurderer at KID holder seg til én solid konferanse om høsten enn at de tar opp flere dager.
+
+
+#### Dotkom:
+- Var på hyttetur
+- Fikset saldo, OW, redwine
+
+#### Fagkom:  
+- Gjennomført to vellykede kurs siden sist gang. I går var react kurs med Visma, kurs med capra
+- Tapirbygget var dprlig. Rell og roll rommet var dårlig, skjermene funket ikke. Må ha windows PC, ikke hdmi kabel, kun en skjerm om gangen.
+- Be fagkom komme med forslag tidligere. 
+- Spisekonk mot trikom
+
+#### Prokom:  
+- Offline kommer om noen dager
+- Begynt å ta tak i SoMe-spørsmål igjen. Lage en Slack med hele prokom og alle some-ansvarlige i komiteene
+- Skal ha velge ny leder av prokom i dag siden Christina skal flytte fra byen. Ny leder skal kun sitte et halvt år. Lederen skal bli godkjent på genfors
+
+#### Trikom:  
+-  Har hatt BErrioKart, en gjeng dro videre til samf. De koste seg
+    -  Fikk med folk som ofte ikke er med på arr
+- Trikom har bursdag denne uken på fredG. 
+- Oktoberfest vors neste fredag.
+- Ønsker å ha "fuck cancer" perling. Har ennå ikke fått perlene. BLir dårlig tid i Oktober så blir heller i november.
+    - Rosa tskjorte dag.
+- Frida har sett på retningslinjene for kontoret
+
+#### Økonomiansvarlig:
+-  Har tatt opp vedtektsendringen i bankkkom og ingen i komiteen er i mot den
+- Daljer blir etter nyttår pgs budsjettsituasjon. 
+- Arrrangement t-skjorter for OIL vil kun være for dem og ikke noe som kan selges som merch.
+- De som visste hva Notion er, er veldig for å bytte over 
+- Åre vil bli dyrere. Rundt 2-3000 kroner. Normal pris i andre linjeforening
+- Immball vil også bli kjempedyrt. Prisene blir dyrere og dyrere. Vi har i tillegg brent brorer med de billigste hotellene i byen
+- Venter på faktura etter hærverk på immballet
+
+#### Nestleder: 
+[Status fra Backlog, OIL, Appkom, nodékomiteer, FeminIT, Debug, Output og RFK]
+- Genfors greier
+
+#### Leder:
+
+- genfors, genfors, genfors
+    - Funnet referenter (Dere er alle satt opp)
+    - Gjort klart hele referatet
+    - Møte med Organisasjonskollegiet om dagens gang og alle sakene. 
+    - Fikset opp i litt småting
+- Var på møte med NTNU ang studiestart
+    - Det blir iallfall ikke digital immatrikulering <3
+    - NTNU lurer på hvordan de kan bistå mer med promotering osv. Men dette er mer relevant for typ UKA, ISFIT, samf og alle de der - ikke helt for linjeforeningene. Da vi ikke får tilgang til å sende ut Offline eller annet linjeforeningsmateriell til de uans. 
+    - De ville også ha litt input på hvordan gjennomføre immatrikuleringen, da de var litt usikre på om den skulle bli lik som før korona eller ikke. 
+- Snakket mye med valgkom angående kandidater osv.
+- Sjekket opp i litt ting rundt felles Notion bruker
+
+## 090 Interkom (10 min)
+[Her skal saker som angår tre eller flere komiteer]  
+
+- Notion (alle)
+    - Diskuterer løsninger for å få billig notion
+    - Kan ha en hovedstyre-bruker som kan ha undergrupper hvor vi inviderer f.eks. bedkom@online.ntnu.no
+        - Det koster per bruker (hvor mye?)
+    - Hver bruker har én wiki
+    - En workspace med undergrupper, hvor en undergruppe er en komité
+    - Fagkom har tydeligvis gratis Education Pro Notion
+    - [TODO] Karan og Henrik må sjekke priser på notion
+
+- I
+    - Mange nye økanser
+    - Hvis de spør om noe, svar de så fort som mulig
+    - Ta vare på de nye, det er stress å være ny i bankkom
+
+- I:
+    - Får fortsatt ikke sendt inn kvitering skjema
+    - Njål: Hvis bildet har blitt tatt på iphone så klarer ikke OWe å bruke det
+    - Robin: Dersom det ikke funker kan du legge det inn på et word dokument
+    - [TODO] Njål må fikse kvitteringsskjema
+
+## 091 Status generalforsamlingen (10 min)
+[Går over status til de forskjellige vedtektsendringene vi ønsker å ta opp]
+
+### Tillitsvalgt (Karan og Sondre)
+
+- Det er ferdig. Vi endte med å lage to forslag på grunn av komite/nodekomite endringen ikke skjer. Dersom komite/kjerne vedtaket kommer til slutt vil de lage problemer. 
+- K: Dersom vi legger det fram som om Kjerne/nodekomiteen ikke har gått gjennom så trengs kun et forslag. 
+
+
+### Endring av betegnelser på komiteene våre (kjerne, node, osv.) (Henrik og Robin) 
+
+- Den kommer sist fordi det er mye overhead, syntes organisasjonskollegiet. 
+
+- Endre fra kjernekomite til komite alle steder det står. 
+
+- I: Det står per nå at at alle kjernekomiteer skal ha en leder, nestleder og økans. Det står ikke på nidekomite at det trenge en leder, nestleder og en tillitsvalgt. Problemet er at nodekomiteer kommer under komiter dersom kjerne/komite vedtekten går gjennom. Blir overflødig
+
+- K: Blir redaksjonell endring å fjerne det. Slik at man slipper 
+
+- I: Enklest å lage en for Node komite og en for vanlig komite slik at man kan fjerne nodekomite delen dersom kjernekomite/komite delen går gjennom.
+
+- I: Vi kan også presisere på genfors
+
+### Regler for medlemsskap (Anders og Maiken)  
+- Begynner å bli good. Vi har endret på formuleringen fra ØV kveld så dette punktet er mer forståelig og skal være good nå.  
+
+
+### Frister til å trekke seg fra styrerep rollen for å stille til ny rolle (Carolina og Robin)
+- I: Det er good. To forslag. Et på fire uker og en på 2 uker.
+
+### Nodekomite kan stille til HS (Robin)
+
+- I: vil at alle skal kunne stille til HS. Så Robin og Njål skal diskutere dette.
+
+- I: Begge forslagene vil bli presentert på genfors.
+
+- K: Den største endringen presenteres først, altså at alle kan stille.
+
+- K: Kun medlememer fra komiteene kan stille til styre reprollene.
+- I: Det ble lagt til siden.
+
+- I: Fant et sted at man må søke til HS for å lage interessegruppe. Vil bli endret til neste generalforsamling.
+
+
+------
+
+- ?: Hvor mange lapper trenger vi til genfors?
+- I: Kan være lurt å printe ut noen ekstra lapper for gjester.
+- ?: Skulle vi hatt en ikke-bindene påmelding?
+    - K: Ønsker ikke påmelding ettersom det kan gå mot sin hensikt og gjøre det mer høyterskel.
+- I: Regne med at flere førsteklassinger blir med ettersom at det er på høstsemesteret. 
+- K: Regner med at det blir mellom 150 - 200 personer.
+
+## 091 Gjennomgang og godkjenning av kontrakten med RFK (10 min)
+[Går gjennom kontrakten og finner ut om det er noe vi ønsker å endre på før vi signerer. Jeg tenker egentlig punktet ang å be de prøve å få flere Onlinere dit er en oppfordring vi heller kan komme med til de, og se til neste gang om det er såpass at det faktisk må kontraktsfestes.]
+
+- I: RFK har ikke økt prisen årlig slik som de har skrevet ikontrakten.
+-  K: Bør ikke det være RFK som er forpliktet til å følge opp på dette, ettersom at de sender fakturaen.
+- [TODO]: Purre på RFK angående faktura.
+- I: Det nye punktet er forståelig.
+
+- I : Eneste endring er at Henrik må få korrekt navn på kontrakten.
+
+## 092 Gjennomgang og godkjenning av samarbeidsavtalen med Datakameratene (Guttene)(10 min)
+[Fått forespørsel av Datakam om fornying av signaturer på samarbeidsavtalen vår. Vi går over [samarbeidsavtalen med Datakam](https://drive.google.com/drive/u/0/folders/1QAJnOxFsEUoTwdH6PpVSS-x88X4KGs84) (guttene) og ser om det er noe vi ønsker å endre. De mener den fremdeles ser fin ut og ønsker å bare beholde den. Vi gjorde en del endringer på den i fjor.]
+
+- I: Datakameratene følger ikke kontrakten.
+
+- K: Utbetale over tid eller etter at de følger kontratken
+
+- K: Foreslå at penger ikke blir betalt før de følger alle punktene i kontrakten
+
+- I: Avtalen står som den gjør. Det er useriøst at de ikke stiller opp på interessegruppen. 
+
+[TODO] Send mail til datakameratene for å forhøre seg med hvordan de skal følge kontrakten.
+
+- I: Vi har ikke en kontrakt med kvinnelaget. De ønsker 1000 kroner per informatikk-spiller. 
+
+- Eventuelt punkt fortsetter.
+
+## 093 Er det noen pågående saker vi gir videre til de neste? (10 min)
+[Er det noe vi har uavklart akkurat nå som vi gir videre til de som kommer etter genfors?]
+
+- Overgang til Notion
+- Sosiale medier og reklamering av Online
+- Lederbånd
+- Endre vedtekten hvor hovedstyret har ansvar for interessegruppene.
+
+
+## 095 Eventuelt
+[Saker som har oppstått i løpet av møtet eller kort tid før møtet]
+
+- FIF-møte m/ Karan:
+
+Kom frem til at vi burde foreslå å stryke hele "erfaringsbanken". Det kan gjøre mer skade enn til hjelp. Det kan hende at når man er ferdig på studiet og ut i arbeidslivet så kan man fortsatt ha tilgang til denne banken fordi man har glemt å bli fjerna.
+
+---
+
+- Datakam jentene:
+
+- I: Vi har ikke en kontrakt med kvinnelaget. De ønsker 1000 kroner per informatikk-spiller. 
+
+- K: De har spurt om 4000 kroner. 
+
+- I: De bør ha en kontrakt med Online, slik at vi får noe tilbake for det. Lignende den vi har med datakam guttene. 
+
+- K: Enig, vi må være flinke til å følge opp på at følger kontrakten. Jeg skjønner ikke hvorfor de trenger mer penger når de går i pluss.
+
+- I: Spørre om en oversikt over hvor mange spillere de har.
+
+- K: uenig. Det gjør det vankselig å budsjetere for oss. De tar opp spillere senere slik at vi ikke vet hvor mange spillere vi skal betale for.
+
+
+- I: Bør Etterstrebe å gi like mye penger til begge lag
+
+
+-----
+- I: Folk tror at alle kan få t-skjorter. Har hørt det.
+    - I: Det er kun for OIL
+    - K: Det er ikke noe trikom har snakket om, men de konkluderte med at de ikke trenger t-skjorter.
+
+
+
+## TODO´s
+[Skriv opp todos som har oppstått i løpet av møtet her. Fint om man rekker å ta en gjennomgang av todo´s når møtet er ferdig]
+
+-  Sjekke priser på notion
+-  Prøve å fikse kvitteringsskjema
+-  Purre på RFK angående faktura.
+-  Sende mail til RFK angående å endre navnet til Henrik
+-  Sender en mail til data kameratene anngående kontrakt
+-  Følge opp kontrakt med datakam-jentene
+
+## Diggepunkt
+[Alle må digge noe]
+
+## Møteevaluering
+[Ris/ros til hvordan møtet har gått]

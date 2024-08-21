@@ -1,0 +1,154 @@
+---
+title: "Hovedstyrets fadderuke er hardt-møte"
+---
+
+**Møtetidspunkt:** 12.15 (rom 354)
+
+**Servering og referering:** Håkon
+
+**Vinstraff:** Andrea (kort forfallsvarsel), Kristiane (kort forfallsvarsel)
+
+**Ølstraff:** Sander (Kjipt offentlig møtereferat)
+
+**Tilstede:** Martin, Ingrid, Didrik, Erik, Kristoffer, Håkon, Sander
+
+**Mangler:** Thor Håkon, Andrea, Kristiane
+
+## 065 Godkjenning av innkalling, servering og referat 
+
+OK
+
+## 066 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+
+Har vært på befaring, stort lokale. Helt topp. Pris ble 360 kr. Har råd til banner og rød løper, og litt diverse. Scandic har spots med blå og oransje farger, spottes i salen. Sykt smud!
+
+Skulle hatt første møte denne uka, pga. fadderaktiviteter ble det utsatt til neste uke.
+
+Styreinvitasjoner blir sendt ut i dag, siden prisen ble satt i går.
+
+#### Bankom:  
+
+Kortene våre har maksgrense på 10.000 kr. Hajem skal ringe DNB og fikse. 
+
+Skal også sjekke Bank ID for HS-kortet.
+
+#### Bedkom, med ITEX:  
+
+Signert kaffeavtale med netlight. Får pappkopper og klistremerker på hvitt kjøleskap, kaffekanne og kaffetrakter.
+
+#### Dotkom:
+
+Hadde bittelite møte forrige uke, fikset mailserver som hadde kræsjet.
+
+#### Fagkom, med ekskom:  
+
+Ikke tilstede.
+
+#### Prokom:  
+
+Ikke tilstede.
+
+#### Trikom:  
+
+Sender litt mail angående bod, skal prøve å finne en på minst 15 kvm.
+
+Skal grille bort all fadderukegrillmaten i løpet av uka hvis ikke velkom sier noe på det.
+
+Har snakket med koskom (abakus) om kontinuerlig Pokélures på Gløshaugen North. Ca 3500 kr per semester totalt.
+
+#### Seniorkom: 
+
+Går greit så langt. Ca 10 stk per masterfaddergruppe. Teambuilding i går, litt svakt oppmøte. Curling i morgen, det renner inn med påmeldinger. Tar litt selvkritikk på informasjonsflyt ut til masterstudentene.
+
+#### Leder og nestleder:  
+
+Erik legger kabal for romreservasjon for intervjuene. Kanskje intervjuer på lørdag hvis det passer for folk.
+
+#### ITV: 
+
+Ikke tilstede. Ikke invitert?
+
+## 067 Interkom (10 min) 
+
+Bedkom ønsker seg auto-reply på epostlister i sommerferien for å informere bedrifter om at ting går tregt i ferien.
+
+Trikom ønsker seg mye lengre frist på innkjøpslister slik at de klarer å koordinere og planlegge litt.
+
+Trikom ønsker seg tilgang til Online sin kalender slik at de kan sjekke at arrangementer ikke kolliderer med hverandre.
+
+## 068 Research space (10 min) 
+
+Research Space er noe a la Hackerspace, med primært fokus på masterstudenter som vil forske litt. Masterstudenter får ressurser og hjelp fra professorer til å drive med forskning her.
+
+Planen er å hjelpe til å starte opp noe slikt. 
+
+Foreløpig et punkt for å lufte dette, kommer mer informasjon neste møte.
+
+## 069 Forespørsler som har kommet på e-post (5 min) 
+
+TEAMUP: 14. september: Sendes på muligheter.
+
+Veiledere til kodeklubben trondheim: Vi ønsker ikke å bleste på nettsidene våre, facebook eller mulighetermailen.
+
+Moholtkjellerne: 25. august Under dusken vil skrive sak om fadderukene uten moholtkjellerene. Siden vi klarer oss fint lar vi være å snakke om saken. 
+
+Offentlige møtereferater: Erik holder tale. Se malen for å se hva som skal sensureres. Usikker? Send mail eller spør på Slack.
+
+
+
+Immatrikuleringsmiddag: 7. sept
+
+- Hajem
+- Sander
+- (Didrik)
+- (Håkon)
+
+### Immball
+
+. 3. sept: Abakus
+
+- ALLE
+
+. 7. sept: Nabla (3)
+
+- Martin
+- Wiker 
+
+. 10. sept: Online <3
+
+- ALLE
+
+. 10. sept: Timini. Sender ingen. Burde sende svar.
+
+. 13. sept: HC (2+)
+
+- Didrik
+- Bjerke
+- Sander
+
+. 14. sept: Aarhønen (2)
+
+- Håkon
+- Hajem
+
+
+## 070 Ukens infomail og Facebook (5 min)  
+
+Hold dere til det fastsatte formatet når dere skriver inn ting. Husk å les igjennom det så det ikke er skrivefeil.
+
+Har vært litt flink med facebook i løpet av fadderukene.
+
+## 071 Eventuelt (10 min)
+
+HS har ikke +1 på immballet. Kanskje hvis vi har lyst. Det er god buffer i lokalet (230 plasser på påmeldingen og 280 plasser i lokalet), så det kan være mulig.
+
+Trikom lurer på hva de skal gjøre med kaffepengene sine når vi har kaffesponsor. Svaret er at trikom nå får penger fra kaffesponsor, istedenfor bedkom. Alt foregår som normalt for trikom sin del.
+
+Trikom lurer på hva de skal gjøre med de 140 kronene som er til overs fra lavvo-kjøp. Trikom spør Unni i resepsjonen.
+
+Forslag om å alltid ha penger på konto slik at man slipper å ringe for å overføre penger "hver gang man er på storcash". Bankom løser dette når de starter møter igjen.
+
+## 072 Møteevaluering/Diggepunkt (5 min)
+:)

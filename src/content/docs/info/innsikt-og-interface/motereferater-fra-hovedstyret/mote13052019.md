@@ -1,0 +1,311 @@
+---
+title: "Møte 13.05.19"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** R52
+
+**Servering:** Benedicte
+
+**1. Referent:** Benedicte
+
+**2. Referent:** Emil
+
+**Vinstraff:** August for sen møteinnkalling
+
+**Ølstraff:** 
+
+**Til stede:** August, Henrik, Emil, Sigrun, Alis, Kaja, Ole, Benedicte, Silje, Jon, Andreas, Mathias, Benedicte
+
+**Mangler:** 
+
+- - -
+
+[TOC]
+
+- - -
+
+
+## Innsjekk (14:15 - 2 min)
+
+## 105 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
+Godkjent, men alle må huske å oppdatere stikkordene for møtene som har vært.
+
+Eventuelt punkter
+Kaffe i tillegg servering - Vedtatt
+
+Instagram
+
+## 107 Status for komiteene (14:20 - 20 min)
+
+#### Arrkom, med velkom:
+Spikra immball m/ program.
+Alis og Silje tar ansvar for styrevors.
+Buss skal bestilles.
+
+17. mai middag, gikk bra. Blir på TAG. 
+Mekka utested på three lions.
+
+Åre-booking er i gang
+Skistar har bestemt at man må bestille skikort på forhånd? Skal prøve å fikse dette med mitt i åre.
+
+
+##### Velkom:
+Planlegging av arrangementene er i rute!
+
+Bankort kom i forrige uke.
+
+Fadderopptaket er klart, men kommer etter java slik at alt kommer samtidig.
+
+
+#### Bedkom, med ITEX:
+Kjempe bra sommeravslutning!
+Har kontakt med bedrifter angående tittelsponsor, håper det ordner seg.
+Gått gjennom skrivet angående sommerjobbsaken.
+
+
+##### ITEX:
+Ikke noe nytt.
+
+
+#### Dotkom:
+Fått oppgradert OW til en sikker versjon.
+
+Fått et lite mini dashboard til ressurssiden og interessegruppene
+
+Vært i kontakt med ekskom angående techtalks.no, de har laget seg et kravspec og er i samtaler videre for hva som kommer. 
+
+
+#### Fagkom, med ekskom:
+Eksamensforelesninger har gått fint og er i rute.
+
+
+
+##### Ekskom
+Skal ha genfors 20. mai.
+
+Har hatt siste møte.
+
+Skal ha den første dugnaden nå. Godt betalt.
+
+
+#### Prokom:
+Fortsatt ferdig med møter.
+Litt problemer med årbok og Offline. Forhåpentligvis klart snart.
+
+
+#### Trikom:
+Siste møte er gjennomført.
+Har laget vafler.
+Planlegger 17. mai frokost.
+Grilling planlegges også.
+
+#### Seniorkom:
+Oppdatert interessegruppesidene
+Planlegger utmatrikulering, mangler fremdeles talere fra online.
+
+#### Leder og nestleder:
+
+
+##### Nestleder:
+Vært i møte angående sommerjobbsaken.
+Kompileringen er også jobbet med.
+
+
+##### Leder:
+August spiser. Vært på linjeledermøte.
+Quakk er lagt ned, alle som går forkurs mangler faddere, rammer ca. 300 studenter. Spurte om andre linjeforeninger kunne stille med faddere, men var ikke særlig stemning.
+
+Mulig med en kontor til kontor dag, der forkurs studentene får sett seg om på gløs.
+
+Ender som regel opp hos en linjeforening til slutt.
+
+Eksamensbusser har blitt ordna.
+Det blir gratis nattbuss i fadderukene.
+Skal signere en intensjonsavtale angående edruvaktordninga. Online har sagt de kan stille med 5 personer i 5 år fremover.
+
+
+#### Økonomiansvarlig
+Fikk ordnet budsjettkuttet
+
+Avslutning for semesteret. Fakturerer det som skal faktureres.
+
+
+#### Bankom:
+Intet å berette
+
+
+#### ITV:
+Ledermøte på fredag
+Vært snakk om å flytte ekskursjonen til 2. klasse. Skal se mer på det til høsten om det er et reelt ønske. Kan bli problematisk i overgangsperioden.
+
+
+#### Samlokaliseringsrepresetant:
+Ikke til stede.
+
+
+#### RFK:
+Ikke til stede.
+
+
+## 108 Interkom (14:40 - 10 min)
+Opptelling av kort. Kaja og Ole mangler sine, resten av fått.
+
+
+## 109 Budsjettkutt pga IE (14:50 - 5 min)
+[Kaja har fikset budsjettkuttforslag. Vi må godkjenne det]
+Kaja: De som blir kuttet har godkjent det.
+
+Oversikt over kutt:
+
+Prokom, dotkom: 0
+
+Arrkom: 1000
+
+Trikom: 3000
+
+Velkom: 5000
+
+Seniorkom: 6600
+
+
+## 110 Internovergang hva gjør vi med de (14:55 - 5 min)
+
+
+Benedicte: Abakus planlegger samling på kontoret rett før fadderukene for å samle alle. 
+Henrik: Kom i gang dagen kunne vært en dag å arrangere det.
+August: Kan være en tanke om å samle alle som en faddergruppe iløpet av fadderukene. Godt å samle de som kommer til å gå sammen.
+August: De blir invitert til fadderukene.
+Mathias: Kunne de vært rene faddergrupper slik at de kan bli kjent med de i sitt eget trinn?
+Sigrun: Det er snakk om 40stk. tilsammen.
+Ole: Har vi tilgang på informasjon om dem?
+August: NTNU vil sende ut en mail til dem som vi bestemmer informasjon om.
+
+August: Foreslår at vi snakker med Øyvind om rene faddergrupper til de det gjelder. Sende mail med info.
+
+Alis: Er det obligatorisk å møte opp første dagen? For da hvis ikke kan det hende de ikke møter opp før andre uka?
+
+August: Viktigst at de har et tilbud om å bli med, så kan de velge selv hvor mye de ønsker å delta.
+
+## Pause i 5 minutter (15:00 - 5 min)
+
+## 111 Nye Prikkregler  (15:05 - 10 min)
+[Prikkreglene har blitt oppdatert. Vi må stemme over de.]
+August: Vi tar diskusjon og avstemning over mail.
+
+## 112 Nye retningslinjer Bankom (15:15 - 5 min)
+[Vi må stemme om nye retningslinjer]
+Godkjent
+
+## 113 Online IL (15:20 - 15 min)
+[Vi har fått en mail om fra OIL, det er noen ting der vi må diskutere.]
+- Opptak
+
+August: Synes de bør ha opptak etter kjernekomiteene. Er ikke et problem at det ikke er nok som vil være med i komité. Det er viktig å fylle opp kjernekomiteene.
+Sigrun: Som førsteklassing med interesse for sport vil de andre komiteene bli overflødige.
+Kaja: Så lenge de får bleste om seg selv og sier at det kommer et opptak så vil det ordne seg. 
+Ole: Viktig å få med at hvis de blir med i en kjernekomité så kan de også bli med i en nodekomité.
+August: Kan fungere som sikkerhetsnett, slik at vi kan fange opp alle som er engasjerte som ikke nødvendigvis kommer med i kjernekomité.
+
+
+
+##### Plan for høsten
+Henrik: Synes det ser super bra ut, litt skummelt med fotballgruppe med tanke på datakameratene, men ser ut som de har tenkt på det.
+Emil: Diskuterte datakameratene på møte med OIL. Fotballgruppa blir bare for "gøy", og skal ikke være med i serie.
+Sigrun: Skal vi nekte fotballgruppa å søke liga, og ha det i retningslinjene?
+August: Ser det an, tror ikke det blir nødvendig.
+August: Mange planer, men de har ikke penger enda.
+
+Kaja: De tenker å søke fondet. Men tenker å søke først og så sette opp budsjett. Feil rekkefølge.
+
+
+##### Retningslinjer
+
+Mathias: Vil Online IL ta over det økonomiske fra seniorkom.
+ 
+August: Ja
+
+Sigrun: Er datakameratene en undergruppe i OIL?
+
+August: De vil ha ansvar for kommunikasjon og økonomien med datakameratene.
+
+Mathias: Vil gjerne snakke med Joel om økonomiansvarlig biten. Fordeling av ansvar i bankom er allerede så spredt at vi kan ta ansvar for mer. Kunne gitt ansvaret til noen som allerede er i bankkom.
+
+Jon: Bankom føles som en veldig stor komite allerede og det kan være litt dårlig for det å bli hørt og ta opp en til i bankom.
+
+Mathias: Trenger ikke være seniorkom som tar seg av det.
+
+Kaja: Mange av punktene under formål for høsten 2019 kunne gått under retningslinjer.
+
+August: Bør være kort og godt, og ikke for mange spesifikke punkter.
+
+Henrik: Skal gjelde ubestemt tid.
+
+
+## 114  HS på ferie (15:35 - 5 min)
+[Dette er siste møte hvordan gjør vi det i sommerferien.] 
+
+August: Noen må hente post. Er noen i Trondheim i sommer?
+
+Benedicte: Er allerede flere i velkom som har sagt de kan ta seg av ansvaret for velkomposten. De kan sikkert også ta resten hvis det ikke er så mye.
+
+August: Sjekk mail, vær tilgjengelig på slack av og til. Dato for workshop er sett på, vil samles før vi har nye saker. Gjøre det litt sosialt kanskje. 
+
+## 115 Sosialt (15:50 - 5 min )
+[Grilling. Når passer det?]
+
+August kaster ut datoer, men ingen datoer alle kan.  
+
+Det ble bestemt 22. mai.  
+
+## 116 Eventuelt (15:55 - 5 min)
+
+[Instagram] 
+
+Har noen mulighet til å ta bilde fra 17. mai?
+Silje tar det.  
+
+Alle bør ta litt ansvar for å oppdatere instragrammen.   
+Alis: Det fungerer veldig bra (som regel) til blest. Er det greit å bruke insta til det?  
+Emil: Er lurt at vi spør, bør ikke gjøre det på alle heller. Er ikke lett å ha oversikt på alle arrangementer.  
+
+Sigrun: Hva med bedpreser. Kan de også legges ut? Blir jo ekstra reklame for bedriftene.
+Ole: Bedriften bør ikke være fokus, heller selve arrangementet.  
+Henrik: Hvis de gjør noe ekstra kult, er det gøy å fremheve det.  
+Jon: Det kan pushe andre bedrifter til å gjøre kulere ting.  
+Alis: Er allerede mange bedrifter som bruker instagram veldig aktivt.  
+
+Benedicte: Bør kanskje begrense det noe, så det ikke blir for mye. Kan miste sin hensikt.  
+
+Sigrun: Så lenge man holder seg til det som er "kult" så vil det ikke blir for mye. Hver komité kunne hatt sin egen story, der de kan promotere det de driver med.  
+
+Andreas: Burde ikke publisere bedriftene alt for mye, da flere kan ønske bli promotert.  
+
+Henrik: Kan bli et problem senere med for mye, men akkurat nå er ikke det et problem. Er heller positivt at vi får ut mye i den kanalen nå, også kan mengde vurderes senere.  
+
+Noen bør sørge for at bilder fra fadderukene kommer ut på insta.  
+Benedicte kan ta hovedansvar  
+
+Jon: Kan henges opp noen velkomsplakater med info til diverse ting.  
+
+Bedkom kan ta videre diskusjon om promo av bedpres og kurs på instagram.  
+
+Emil: God idé å samle sammen komitépostene i høydepunkter, så fadderbarna kan se på de og få oversikt over hva de driver med tidlig.  
+
+[nfc/rfid]
+Bytte over alle brukerne fra den gamle koden til den nye koden. Alle brukerne må da registrere kortet på nytt. Hvordan kan vi få til en god prossess rundt dette. Man kan registrere det manuelt og gjennom nibble. 
+ 
+Ole: Blir størst problem før f.eks. immball, hvis alle må registrere seg i døra. 
+ 
+Mathias: Hva er egentlig det positive ved å bytte?  
+
+Ole: Fungerer bra med innebygde lesere.  
+
+August: Dotkom må vurdere verdi mot arbeidsmengde? Det er ikke en hastesak.  
+
+Henrik: Det viktigste er å få ut informasjon om bytte. Blir nok ikke et så stort problem.  
+
+## 117 Møteevaluering/Diggepunkt
+
+Folk digger muffins, diskmat-eksamen i morgen, 17. mai og (global)oppvarming.

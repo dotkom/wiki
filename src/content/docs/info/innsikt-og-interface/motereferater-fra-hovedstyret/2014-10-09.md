@@ -1,0 +1,112 @@
+---
+title: "Hovedstyrets "det blæs"-møte"
+---
+
+**Møtetidspunkt:** 09:15 rom 260 på IT-vest
+
+**Servering:** Henning  
+
+**Referering:** Henning  
+
+**Vinstraff:** Henning (ikke fiksa wiki), Nils (ikke fiksa wiki), Marius (for sen), Pia (for sen).
+
+**Tilstede:** Linn, Caroline, Christian (for Nils), Kathrine, Marius, Pia, Per Øyvind, Erik, Henning
+
+**Mangler:**  Nils
+
+### 109 Godkjenning av innkalling, servering og referent.
+
+Godkjent.
+
+### 110 Status for komiteene.
+
+- arrKom:
+
+Lite påmeldte skotthyll. Juleborddato bestemt: 20. november. Skal ha X-fest møte med Abakus. Åretur kjempefull. Reiser på hyttetur i morgen.
+
+- banKom:
+
+Mva levert. Begynner å få fakturert bedrifter.
+
+- bedKom:
+
+Møte med linjesamarbeidet og UKA vedr samarbeidskontrakten.
+Booking skjer ca. uke 43.
+Oslotur - 6 bedrifter besøkt, alle hyggelige.
+
+- dotKom:
+
+Lagt til ny funksjonalitet: endre venteliste, ølstraff, appkomgreier. Gjort om litt på wikien for å kunne synce flere grupper inn på en wiki.
+
+- fagKom, med eksKom:
+
+Hatt BEKK kurs og Iterate kurs. Har også vært på Oslotur. Jobber med JavaZone Academy. Sliter litt med å finne hytte til hyttetur.
+
+- proKom:
+
+Snart Offline! Uvisst om det kommer til tirsdag eller senere. Vurderer plakatbestillingssystem. Ny nettredaktøs: Sverre! Trine Lise og Agnete til brekke/redaktør til Årboka.
+
+- triKom:
+
+Hatt et par samtaler med vaktmesteren. Blir vindusvask til våren! Skal få avtalt hylleopphenging. Skal få ryddet datakroken og få fjernet litt rot. Vi får frukt på mandager! Koret måtte ta medlemskontigent for å få støtte av Ung i Kor.
+
+- IDI og ITR: 
+
+Ikke tilstede
+
+### 111 Interkom
+
+Vil vi ha printer: Ja!
+
+### 112 Sak
+
+Diskuteres
+
+### 113 Møte med CaG
+
+Diskuterte rundt navnet StudLAN. Krav fra CaG om at det må til goodiebags og compoer bl.a. for at LAN skal kunne kalles goodiebag. Planlegges LAN til novemberish på P15. Online kan stille med det organisatoriske, mens handyting må gjøres av CaG. Fellesnevneren for StudLAN ble det kommet frem til at var et LAN for studenter på P15 med goodiebags og compoer. Uvisst om det blir billettpris på P15 LANet til høsten. Møte ila kort tid for å kartlegge detaljer rundt høstLAN. LAN som normalt til våren. Anbefaler møte for neste HS sin del med CaG i god tid før vårLANet.
+
+### 114 Prikkeregler
+
+Har hatt prikkeregelmøte. Diskuterte hva de ulike komitèene trenger at prikkereglene blir brukt til. Omdøpt til arrangementsregler for å kunne inneholde retningslinjer for betaling osv på sosiale arrangementer i tillegg til bedPres og kurs. Diskuteres å legge inn kontorvaktprikk i reglene, men det er enighet om at dette ikke hører hjemme i reglene som gjelder alle medlemmer.
+
+### 115 SeniorKom
+
+Hatt møte med Tri og Hanne. Skal ha møte med litt gamle og høre hva de tenker rundt hva SeniorKom kan være. Prøve å overtale noen til å komme over "to the dark side". Lurer på om HS kan sponse noe pizza til møtet. Innvilget. Lurte på om komitèlederne har noen hete tips til komitémedlemmer som kunne tenkt seg å ha en overlappende periode fra eksisterende komitè til SeniorKom. Blir recap av dette møtet om 2 uker.
+
+### 116 Kos og hyttetur
+
+* Abakus
+
+Vi skal til Per Øyvind! Må kjøpe inn litt mat. Marius mekker handleliste. Inviterer Abapus til kl 18. Finner ut hvem som drar og handler. TODO: Finn stoler. Marius kan sitte på dolokket. Ta med det en ønsker å drikke selv.
+
+* Teaterlosjen
+
+Hytteissues. Virker som om de fleste hyttene ikke er ledige før i november. Caroline melder seg frivillig til å sove utenfor Akademika. Vi må finne en helg. Kan ev foreslå å overnatte i teatersalen. Helgen 7.-9. november foreslås. Hører med losjen om de har idèer eller tips.
+
+### 117 Ukens infomail
+
+Link sendt, fylles ut!
+
+### 118 Forespørsler som har kommet på epost
+
+* Styrefest
+* To søkere til å stille i ludøl. Svarer dem.
+* Fotballcup med KRIK.
+* NGA
+* Gløsmesterskapet - Pia Henning + Sverre.
+* 23. oktober - Bergrevyen
+* Allehelgensaften Teaterlosjen
+* HelstIT trenger frivillige.
+* SiT kurs invitasjon godt arbeidsmiljø.
+* Henvendelse fra Facebook.
+
+### 119 Eventuelt.
+
+* Ønsker brainstormingkveld for HS 23. oktober.
+* Boten fra fadderukene.
+* Pia og Marius fil ha en FAQ OSS på wikien.
+
+### 120 Møtekritikk.
+
+Greit møte, ganske kjapt.

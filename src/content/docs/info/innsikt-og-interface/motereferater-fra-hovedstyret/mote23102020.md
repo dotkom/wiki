@@ -1,0 +1,207 @@
+---
+title: "Møte 23.10.2020"
+---
+
+# HS møte 23/10-20  
+
+*Møtetidspunkt:* A4-132 12.00-14.00  
+
+*Referering:*  
+
+1. Mathias 
+2. Benny. 
+
+*Tilstede:* Johanne, Benedicte, Sindre, Anhkha, Mathias, Thea, Emilie, Øyvind, Marius, Christoffer   
+*Straffer:*. 
+
+## 514 Godkjenning av innkalling  
+
+Godkjent
+
+## 515 Status for komiteene (14.20 - 20 min)  
+
+#### Arrkom, med jubkom:  
+ 
+##### Arrkom  
+- Oktoberfest hadde wack vektere  
+- Litt usikkert med Barmuda og BRUNSJ, men det blir paintnsip idag!  
+- Åre er avbestilt og avbestillingsgebyret snakket vi oss ut av.
+
+##### Jubkom  
+
+#### Bedkom, med ITEX:  
+- Revidert kontraktene våres. Generaliserer kontraktene mellom fagkom og bedkom  
+- Litt problemer med digitale arrangementer, vanskelig å finne noe som studentene synes er gøy.  
+ 
+#### Dotkom:
+- Mye nye features, kan velge ekstra, endre epost osv. Blitt ganske stabilt.  
+- Hackathon har fått penger og Bekk sitt lokale fredag 30.okt  
+- Planlagt workshops og talks.  
+- Alle de nye har blitt satt på prosjekter.  
+- Fått omskrevet interesseskjemaet for bedrifter.  
+#### Fagkom, med ekskom:  
+- Digitalt kurs med itera på mandag.  
+- Faglig arrangement med Bekk.  
+- Nytt digitalt arrangement med Bouvet på tirsdag.  
+- Har en utfordring med de digitale arrangementene også, men ikke like stor grad som bedkom. 
+- Teambuilding med Bedkom til helgen <3  
+
+##### Ekskom  
+ 
+#### Prokom:  
+- Klistremerker på Nibble.  
+- Offline er printet og lagt ut på A-blokka.  
+- Maskott er i gang.  
+- Gullblekka: Fikk ikke støtte fra IE. Søker igjen med et mindre beløp.  
+#### Trikom  
+- Ny mikro. Yoghurtfunksjon ble ansett som en essensielt viktig funksjon for Onlinere så vi gikk for denne  monstrositeten av en maskin.  
+- Bordet er endelig bestilt fra fabrikken!  
+- Skal til IKEA for å se på sofabord og hyller  
+- Kaffekoppdiskusjon, må forbedre kommunikasjonen med bedkom for å samarbeide på dette.  
+
+#### Seniorkom:
+- Workshop som seniorkom med prosjekter seniorkom kan begynne på.  
+- Begynt med budsjett.  
+- Greenline har arrangement idag, og smashkom har på mandag.  
+- Samarbeide mer med trikom om hvordan interessegruppene kan bruke kontoret til arrangementer.  
+
+#### Bankom  
+- Budsjettering, alle har vært flinke og snakket med komitéene sine. Vi tar gjennomgang av budsjettet neste HS.  
+
+#### Økonomiansvarlig  
+
+#### Nestleder:  
+- The usual
+
+
+#### Online IL:  
+
+#### Leder  
+- Abakus får muligens tilgang til boddøra etter 16? Må sjekkes opp i.
+
+
+## 516 Interkom (5 min)  
+
+## 517 Kjøreregler for boden (5-10 min)  
+[Vi trenger litt retningslinjer for boden, slik at det er lettere å holde den ryddig og oversiktlig.]  
+- Benedicte: Det blir ofte sånn at man setter fra seg tingene til arrangementer på gulvet uten å sette det ordentlig tilbake. Gammel pant og kaffekopper settes igjen.  
+- Øyvind: Problemet er at det blir bare satt et tilfeldig sted hvis man er usikker på hvor man skal sette det. feks soundboksen. Fagkom/bedkom har småting og det er de samme tingene.  
+- Sindre: Soundboksene burde få egen plass  
+- Mathias: Hva med å teipe opp gulvet med sperrer for hvor man kan sette ting innenfor.  
+- Thea: Pål brukte lang tid på å sette opp system i boden.  
+- Benedicte: Wikiside med kjøreregler for Boden.  
+- Øyvind: reiterer å merke opp hvor ting skal stå.  
+- Mathias: Hva med søppelbøtte?  
+- Benedicte: Tror ikke det vil funke i praksis.  
+- Marius: er det typisk mat som kastes der?  
+- Benedicte: det er et assotert utvalg  
+- Sindre: Hva skjedde med loppemarked?  
+- Marius: Kaja synes det var vanskelig å finne ut av hva som kan selges videre?  
+- Benedicte: To år siden lagde Pål en oversikt over hva vi hadde i boden. Ting akkumulerer overtid. Vi kjøper inn mye over tid. Alle bør ha oversikt over hva de har.  
+
+### Safe  
+- Thea: Refreshe kontoret skjer neste semester. Kan vi fjerne safen?
+- Ja.
+
+#### Tiltak:  
+- thea og marius: flytte safe  
+- Mathias: flekke opp teip på gulvet i boden 
+
+
+## 518 Undersøkelse av tidsbruk i Online (5 min)  
+[I 2015 ble det gjort en undersøkelse av antall timer brukt på komitéarbeid i Online. Kunne dette vært interessant å gjennomføre igjen både for sammenligning og statistikk?]  
+- Benedicte: Det hadde vært kjempegøy å se hvor mye tid vi totalt bruker på onlinearbeid.  
+- Mathias: Hva med å bruke en app som logger hvor mye du bruker tiden på.  
+- Thea: Det kan være vanskelig å få alle til å bruke det. Da kan det være en løsning å ha noen utvalgte  
+- Øyvind: hva får vi ut av dette?  
+- Benedicte: interessant å se hvor mye arbeid som legges ned i å få Online til å gå rundt. Respekt for hverandres arbeid.  
+- Marius: AUO og tidsbruk. de spurte meg om det. det klarte jeg ikke å svare på.  
+- Anhkha: Hvis vi ikke har mange nok så er det ikke nok data til å trekke noen konklusjoner.  
+- Mathias (til øyvind): Respekt for hverandre tidsbruk. Det kan vise tidsbruken per komite. Feks kan vi bruke det som argument for å teambuilding.  
+- Øyvind: skeptisk til å skape skille mellom komiteene
+- Benedicte: ønsker ikke at komitemeldemmer skal klokke inn og ut. Bedre med en undersøkelse så vi kan sammenlikne med 2015.  
+- Marius: Da må alle svare slik at ikke bare de største arbeidshestene svarer.  
+- Kan være vanskelig å få svar på ting som er vanskelig å svare på. i erfaring fra varslingssakundersøkelsen.  
+- Emilie: hvis vi strukturer undersøkelsen godt og at den er effektiv. Da tror jeg de fleste vil svare.  
+- Øyvind: Vi kan ta en sak på møtet hvor man setter av 10 min hvor alle kan svare.  
+- Christoffer: kan ha premie på undersøkelsen.  
+- Benedicte: Vil ikke at alle skal føle press til å svare. Det er verdifullt å svare. Premie kan være lokkemiddel.  
+- Øyvind: Da burde vi sende den ut på slutten av vårsemester.  
+- Emilie: kan gjøre begge deler  
+- Benedicte: vil gjøre det nå. og vi kan ikke gi det videre til neste HS da de vil ha mye annet å gjøre på våren.  
+- Anhkha: - Er det feil å ha det på starten av vårsemesteret?  
+- Øyvind: tenker at å kartlegge høstsemesteret så må vi gjøre det før høstsemesterets eksamen.  
+- Øyvind: Kan dette skade komitene med rivalisering?  
+- Benedicte: Det skal vi ikke ha noe av. Respekt for hverandres arbeid uavhengig av resultatene.  
+- Marius: Hvem skal se resultatene på undersøkelsen?  
+- Benedicte: det kan vi bestemme. offentlig eller anonymous.  
+- christoffer: Det bør bare gjøres offentlig for hovedstyret. Bør spesifiseres i mailen som sendes ut.  
+- Øyvind: Egne resultater kan tilgjengligjøres til komiteen. Vi bør behandle det i ettertid, og kanskje gjøre endringer basert på dataen som hentes ut.  
+
+## 519 Status Siifra - 10min  
+[Endre kommer for å gi siste status på siifra prosjektet. Endre orienterer]  
+- Status idag: Endre er sykt stolt, har blitt gjort ekstremt mye. Gått bedre enn man kunne håpet.  
+- Datainnsamling: Har holdt dybdeintervjuer, en del av de er unntatt offentlig.  
+- 5 offentlig kjente  
+- Innsikten som har kommet fra de er uunvurdelig.  
+- Har hatt workshop der de har fulgt en design thinking prosess. Har gått fra å ha snakket med folk i dybden, til å ha en røff prototype. Det var intenst, men har gått bra.  
+- Veien videre blir å gå fremover med et klart fokus på system. Lage noe som kan ta i mot saker og behandle de på en god måte.  
+- Vi falt på tre punker, fadderukene, anklagdes rettigheter, rettferdig prosess.  
+- Førsteklassinger vil være de mest sårbare i slike saker.  
+- Systemet skal også ta hensyn til anklagde.  
+- Lage noe som er lavterskel, fortrolig, nøytralt og trygt.  
+- Det skal gå fra en betent til ubetent opplevelse. Siifra skal være der hele veien.  
+- Bestemme oss for hvordan vi vil implementere systemet, finne ut hva vi skal gjøre, og hva andre trenger.  
+
+### HS og Siifra
+- Siifra skal fokusere på systemer. Det er likevel andre ting å ta tak i. Kultur er det vikigste.  
+- Kultur:  
+- Status i dag: Folk vet ikke at saker tas hånd om idag.  
+- Det meste av hendelser er smått ubehagelige ting.  
+- Miljøet vårt oppleves som åpent, men ikke samtaler om alvorlige ting.  
+- Førsteklassinger er mer sårbare enn det vi behandler dem som.  
+- Det er ingen arena for å ta opp ting.  
+- Status skjermer folk fra varsling. typ ledere, hsmedlemmer. folk med stor innflytelse.  
+
+- Hva ønsker folk?  
+- Åpenhet rundt varsling  
+- Trygghet  
+- Siifra skal ikke levere en domstol, dvs. de skal ikke være de som legger sanksjoner mot folk. Den makten bør ikke siifra ha.  
+- En avslutning hos oss burde være hvordan online skal håndtere saken, ikke hvilke tiltak som skal iverksettes.  
+
+- Synlighet og kultur er oppgaver som bør tas ut av siifra-gruppa og heller gjøres av andre, slik at scopet ikke blir for stort.  
+- Kultur, synlighet og system trenger ikke å komme samtidig.  
+
+## Eventuelt  
+#### Eksamensoppmuntring   
+- Legge det på interessegruppen for jul?  
+- Nei.  
+- Benny: Konkurranser og videoer kan være koselig, og er fint for de som ikke kan møte på campus.  
+- Thea: Vi kan ikke møte opp på eksamenslokalene pga. smittevern  
+- Benedicte: eksamenskalender i stedet for adventskalender
+- Livestreame quiz?  
+- Thea: Har vi penger?  
+- Christoffer: Japp  
+- Benny: vi kan fordele ansvaret på flere  
+- Mathias: er morsom, alle ler  
+
+#### Output vil ha mer penger
+- De vil dekke overskytende for stageboxen utover det de fikk i støtte.  
+- Bandet har budsjett på 0kr for dette semesteret.  
+
+**Innvilget**
+
+#### Anonymitet på påmeldingsliste og om man kan bli tatt bilde av.  
+- Påmeldingsliste på OW arrangementer er det mange som er anonyme.  
+- Sindre: jeg tror ikke det funker på OW å sette seg som ikke-anonym  
+- Christoffer: det skal være opt-in, ikke opt-out  
+- Benedicte: Veldig bra å ha en opt in for bilder, men bør kunne være mulig å skille mellom arrangementer.  
+- Øyvind: da kan man putte en checkbox på arrangementet på om du vil være med på bilder, i tillegg til en innstilling som gjelder generelt.  
+
+- Dotkom fikser  
+
+#### Hvordan skal profilen til OW se ut?
+- Marius: Dotkom hadde kontakt med Bekk?  
+- Anhkha: bekk skulle snakke med designere og brand identity.  
+- Benny: da vi skulle endre logoen delegerte vi prosjektet til prokom. HS ga bare input. HS kan bidra i ny og ne her i dette tilfellet.  
+- Anhkha: Det er viktig for oss å få en brand identity.

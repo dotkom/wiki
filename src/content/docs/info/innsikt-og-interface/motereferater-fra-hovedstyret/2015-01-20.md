@@ -1,0 +1,80 @@
+---
+title: "Hovedstyrets post-Åremøte"
+---
+
+**Møtetidspunkt:** 14:15 rom 054 it-vest
+
+**Servering:** Kathrine
+
+**Referering:** Kathrine
+
+**Vinstraff:** Ingen
+
+**Tilstede:** Nils, PØK, Erik, Henning, Linn, Marius, Caroline, Pia, Kathrine
+
+**Mangler:** Ingen
+
+### 196 Godkjenning av innkalling, servering og referent.
+
+### 197 Status for komiteene.
+
+- arrKom: 
+
+Åre skjedde. ArrKom ble generelt ikke kontaktet tidsnok.
+
+- banKom: 
+
+Intet nytt å melde, internrevisjon på søndag.
+
+- bedKom: 
+
+Deloitte bedpres skjer. De har tatt ansvar for alt, gitt lite beskjed. BedKom tar det videre. De bestiller snart skjorter. Facebook er bare interessert i bedpres med Abakus.
+
+- dotKom: 
+
+Ny rutine på matbestilling. Ellers ingen ting.
+
+- fagKom, med eksKom: 
+
+Har ikke hatt møte ennå. Finn hackathon har blitt avlyst. EksKom skal ha arbeidskveld, fått ut utlysning til eksKom16 på innsida.
+
+- proKom: 
+
+Hatt møte, fikser plakater. Gullblekka skjer. Artikkelfrist søndag.
+
+- triKom: 
+
+Har hatt møte. Fikser grilling i eksamensperioden. Skal i butikken i morgen. Skal vurdere å flytte ut møtet, da det må være midt i arbeidstiden.
+
+- IDI og ITR: 
+
+### 198 Interkom
+
+### 199 Ent3r
+
+Initiativ for realfagslinjene til å bidre i skolene. Skal ha stand neste uke. Spørsmål om vi vil være med til å stå på stand. Vi har ikke vært med på dette før. Perk: Muligens flere søkere til informatikk, bedre synlighet etc.
+
+### 200 (KAKE!) SeniorKom
+
+Alle må si ifra til sine repektive komiteer. En løsning kan være å sende alle som ikke har søkt om fortsettelse i komiteene til seniorKom.
+
+### 201 SAKS
+
+Viktig å poengtere at reorganiseringen må ta vare på studentmiljøet. Linn sender mail til Letizia, CCer Abakus.
+
+### 202 Forespørsler som har kommet på epost
+
+Infomail: Iaeste, kodeklubben, datalosen
+Trøndelagsdagen, fremtidsfylket: meh
+
+### 203 Ukens infomail
+
+Tech talks må inn!
+
+### 204 Eventuelt.
+
+Årbok: Carro lager wikiside, alle må legge inn forslag og stemme!
+
+### 205 Møteevaluering.
+
+PØK har litt problemer med møtetiden, men det ser ikke ut til at vi kan bytte. Fortsettelse følger.

@@ -1,0 +1,99 @@
+---
+title: "HOVEDSTYRETS OG-DER-VAR-VI-I-GANG-*PANG*-MØTE"
+---
+
+**Møtetidspunkt:** 14.15 (P15)
+
+**Servering:** Thor Håkon
+
+**Referering:** Erik Perik
+
+**Vinstraff:** 
+
+**Ølstraff:**  
+
+**Tilstede:** Erik, Thor Håkon, Sklirg, Hajem, Bjerke, Ingrid, Didrik, Andrea, Kristiane
+
+**Mangler:** Sander
+
+## 216 Godkjenning av innkalling, servering og referat 
+  Godkjent
+
+## 217 Status for komiteene (30 min)
+
+#### Arrkom, med velkom og jubkom:
+  
+
+#### Bankom:  
+  - Første møte førskommende søndag. Alle skal være ferdig med regnskapet for 2016 ila den kvelden.
+  - En del penger er i ubetalte fakturaer. 
+  - Vi må regne ut moms selv hvis vi kjøper fra utlandet. (Gjelder ikke digitale tjenester).
+
+#### Bedkom, med ITEX:  
+  - Skal bestille kopper fra utlander i samarbeid med Netlight. 
+  - Tech-talks er fullt opp med bedrifter. 
+  - Bedpresser skal være ordnet for semesteret.
+  - Sliter med å finne fast møtetidspunkt. 
+
+#### Dotkom, med appkom:
+
+  - Ikke så mye har skjedd i jula. 
+  - Skal kickstarte alt denne uka. 
+  - Skal se på å forbedre stemmesystemet til genfors.
+
+
+#### Fagkom, med ekskom:  
+
+  - Ikke så mye har skjedd i jula. 
+  - Kontrakter er signert.
+
+#### Prokom:  
+
+  - Bestemmer snart fast møtetid.
+  - Blir ikke åre-t-shorte i år.
+  - Har lagt ut artikkel på OW.
+
+#### Trikom:  
+
+  - Kontorvakter-e-posten har blitt sendt ut. Starter etter åre. 
+  - Skal handle og ha første møte ila uka. 
+
+#### Seniorkom: 
+
+  - Utmatrikkuleringen blir *kanskje* 9. juni. Får ikke gjort så mye før de helt sikkert vet dato på det. 
+
+#### Leder og nestleder:  
+
+  - Thor Håkon og Didrik skal på Idiovation på torsdag.
+
+#### ITV: 
+  Ikke noe nytt. 
+  
+## 218 Interkom (10 min) 
+
+  - Brusbestillinger må inn til trikom før Åre. 
+
+## 219 Tilbakebetalinger for immball og jubileer (5 min, Hajem) 
+  - Regneark på hvor mye alle skylder Online for immball/jubileer har blitt lagt ut. 
+  - Hvis noen har sendt nestledere må dette legges inn. 
+  - Frist for betaling er 20. januar. 
+  
+## 220 
+
+
+## 221 Forespørsler som har kommet på e-post (5 min) 
+  
+
+## 222 Ukens infomail og Facebook (5 min)  
+  - Ekskom-kveld
+  - Åre
+  - Tidsfrister for betaling i åre
+
+## 223 Eventuelt (10 min)
+
+  - Lyche i morgen klokka 18:30!
+
+## 224 Møteevaluering/Diggepunkt (5 min)
+  - Bra møte. Godt nyttår!
+
+## 225 Gjøremål

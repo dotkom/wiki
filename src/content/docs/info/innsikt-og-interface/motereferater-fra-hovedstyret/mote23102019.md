@@ -1,0 +1,184 @@
+---
+title: "Møte 23.10.2019"
+---
+
+**Møtetidspunkt:** 14:15
+
+**Sted:** E4-107
+
+**Servering:** Mathias
+
+**1. Referent:** Benedicte
+
+**2. Referent:** Emil
+
+**Vinstraff:** 
+
+
+**Ølstraff:** 
+
+
+**Til stede:** 
+August, Henrik, Ole, Mathias, Kaja, Silje, Emil, Benedicte, Andreas, Alis, Kristoffer.
+
+
+**Mangler:** 
+ITV, Realfagskjelleren
+
+
+---
+
+[TOC]
+
+---
+## Innsjekk (14:15 - 2 min)
+
+## 214 Godkjenning av innkalling, servering og referat fra forrige uke (14:17 - 1 min)
+Godkjent
+
+## 215 Gjøremål fra forrige gang (14:18 - 2 min)
+
+## 216 Status for komiteene (14:20 - 20 min)
+
+#### Arrkom, med velkom:
+- Casino, håper hypen er oppe etter Årepåmeldinga gikk så bra!  
+- Åre, det er endel som har meldt seg av. Godt de ikke åpnet for alt for mange. 23. Oktober var frist for betaling, ikke så mange som falt av der.  
+- Julebord, har ikke hørt fra IDI om støtte enda.  
+- Vårfest under planlegging.  
+- Skal ha workshop på søndag for å sette vårens arrangementer.  
+##### Velkom:
+
+#### Bedkom, med ITEX:
+- Laget utekast for booking 2020.  
+- Endel bedrifter som ikke fikk dette semester som får neste. Blir blant annet kahoot og Capra.  
+
+
+##### ITEX:
+
+#### Dotkom:
+- Tatt opp en diskusjon med epostaliaser. Ønsker å slutte med å godta slike søknader. Vil videre bare være mulig å søke om endring fra 3-4 navn til 2 navn etc.  
+- Seniorkom har et prosjekt på utveksling, vi har tatt diskusjon på om vi vil lage noe rundt det.  
+- Fått inn en google nest hub, det krevde litt mer oppsett, men har da satt opp et lite skjult nettverk som gjør at man kan sette opp litt ekstra stuff.  
+- Jobber med å få til dotkomjubileum.  
+#### Fagkom, med ekskom:
+- Diskutert saker til fellesmøte  
+- Sett på åpne påmeldingslister + internsaker.    
+
+##### Ekskom
+
+#### Prokom:
+- Slapp offline idag, mange som kom innom.  
+- Begynt med neste allerede. Brekkehelg rundt 3. november.  
+- Slipper neste i midten av november.  
+- Tatt opp hva man ønsker til neste slipp. Ønsker magasinstativ.  
+- Skal kjøpe inn tegnebrett nå.  
+- Skal ha teambuilding med OKA.  
+
+#### Trikom:
+- Handlet til kiosken.  
+- Høstsuppe på fredag, litt i siste liten men påmelding har gått bra!  
+- Alle skal ha fått mail om bodflytting.  
+- Fått innvilget penger til ny grill  
+- Sett på alternativ til plast. Enten selge trebestikk eller ha metall.  
+- I boden skulle thilde ha helt ytterst og de ansatte skal ha 1 kvm.  
+
+#### Seniorkom:
+- Har hatt møte siden sist  
+- Fått vinstraffregler  
+- Prosjekter er oppe og går, bookingsystemprosjekt, fått laget det meste av designet.  
+- Wiki cleanup har stagnert litt, men er underveis.  
+- Utveksling jobber vi med å få ut info til folk.  
+- Fått 2 interessegrupper, greenline - planteinteressegruppe, E-sportgruppe.  
+- Prøver å få til teambuilding med backup.  
+
+##### Nestleder:
+- Har vært sparringspartner for FIF, forberedet det.  
+- Skal begynne med erfaringsskriv for kompileringen.  
+- Skal komme i gang med semesterundersøkelse  
+##### Leder:
+- Har vært på varslingsworkshop, Endre styrer mye der. Har kommet frem til noen umiddelbare tiltak.  
+- Plakater på alle hyttene i årer med kontaktnummer tilfelle noe skjer.  
+- Informere i bussene på vei til åre. Mye som skjer i Åre, så viktig med god info der.  
+- Organisasjonsstrukturgruppa er i gang, åtte medlemmer totalt. Veldig bra møte med god diskusjon angående Online sin struktur.  
+
+#### Økonomiansvarlig:
+- Vært på møte med alle økans i de andre linjeforeningene io trondheim. Veldig interessant, de hadde litt andre problemer enn det vi hadde. Skal nå ha møte hver 4. uke og har opprettet en slack kanal. Skal opprette en drive med lover og regler.  
+
+#### Bankom:
+- Skal reklamere på nintendo kontrollerne.  
+
+#### ITV:
+Ikke tilstede  
+#### RFK:
+Ikke tilstede  
+
+## 217 Interkom (14:40 - 10 min)
+
+## 218 Internasjonale studenter (14:50 - 10 min)
+- Vil vi ta hånd om internasjonale studenter i januar?  
+- Trenger ikke å være noe stort, kan være å invitere til snacks på kontoret.  
+- Mulig noen i velkom har mulighet til å gjøre det.  
+
+Mathias: Det høres ut som mye å gjøre.  
+August: Det kan endre mye på hvordan Online fungerer nå.  
+Ole: Trist om vi ikke tar tak i det.  
+Henrik: Trenger ikke å bli så mye å gjøre, er bare å dra i butikken.  
+Emil: Om vi starter med det, må vi fortsette å inkludere dem også. Jobben bør ikke bare være en kveld i starten av semesteret.  
+Alis: Kan jobbe med å få de med, typ sosialt medlem. Får da vist de arrangementene våre.  
+Henrik: de blir som dagens sosiale medlemmer, men vi vet de drar om 6mnd.  
+
+Delta er gira, men litt usikker på de andre.
+Mulig å sjekke hva nntu gjør.  
+
+Kan finne de internasjonale studentene og se om de kunne vært gira på å lage en "utenrikskomité" i fremtiden.  
+
+Skal høre med Velkom og Øyvind om de ønsker å gjøre noe med dette.  
+Må ha noen som er gira på dette for fullføre det!  
+
+**Henrik sender mail til Velkom og spør om de er interesserte.**  
+
+## 219 Statuspunkets skjebne (15:00 - 10 min)
+[Jeg har lurt litt på det kanskje er på tide å droppe status-punktet da det tar mye tid.]
+Statuspunktet tar per dags dato mye tid, og er ikke relevant for alle parter. 
+
+Benedicte: Er uenig, liker statuspunktet for da får man innsikt i hva de andre driver med. Det er i interessen til styre og vite hva de andre driver med.
+
+Ole: Enig med Benedicte. Hjelper med valg man tar når man vet hva somn skjer i de andre komiteene.
+
+Alis: Det er det beste med møte egentlig.
+
+Henrik: Kan alltids jobbe med å kutte ned litt ved å holde fokus uten å lage diskusjoner. 
+
+Emil: Bør ta tak i de som begynner å ville diskutere punktene til de andre komiteene. Status går effektivt så lenge vi unngår diskusjonene.
+
+Det er viktig å være godt forberedt. 
+
+August: hadde et vært mulig med en mailtråd?
+Henrik: I en ideell verden ja, IRL: nei.
+
+
+Statuspunktet blir! 
+
+## 220 Særskilt utmerkelse (15:10 - 5 min)
+[Julebordet nærmer seg og vi må dele ut diplom til de som vi synes har gjort en ekstra stor innsats i 2019]
+
+Ole og August snikskryter av at de fikk det i fjor.  
+
+Vi tar mulig et punkt på neste møte. Det kan fort ta 30 min.  
+**Folk tenker på hvem de synes har gjort en ekstra innsats i 2019 til neste møte**  
+
+**August skal lage en google docs som folk kan legge inn saker som de vil ta opp på møtet**
+## 221 Eventuelt (15:15 - 5 min)
+#### Semesterundersøkelsen
+Har komiteene interesse av å spørre studentene om ting som angår komiteen?  
+
+**Henrik sender ut til komiteene der de kan sende inn spørsmål de ønsker å spørre studentene**  
+
+
+## Pause (15:20 - 5 min)
+
+## 222 Prosjekter (15:25 - 35 min)
+[ Jeg lager en ny workshop der vi kommer frem til litt mer konkret hva dere vil gjøre videre med prosjektene deres.]
+
+## 213 Møteevaluering/diggepunkt
+Digger workshop, servering

@@ -1,0 +1,204 @@
+---
+title: "MØTE 2017-10-05"
+---
+
+**Møtetidspunkt:** 05. oktober 12.15 (R E4-107)
+
+**Servering og referering:** Didrik og Hege
+
+**Vinstraff:** 
+
+**Ølstraff:** 
+
+**Tilstede:** Bjerke (for trikom), Henrik, Endre (ITV), Christoffer, Peter, Jakob (for dotkom), Erik, Edvard, Hege, Didrik
+
+**Mangler:** Emil
+
+## 129 Godkjenning av innkalling, servering og referat
+
+Godkjent
+
+## 130 Status for komiteene (30 min)  
+
+#### Arrkom, med velkom:   
+Har satt alt for dette semesteret, ligger i google-kalenderen. Prøver å sette datoer for neste semester, men får ikke satt alt endelig, siden de må få bekreftelse på lokalene (f eks studenterhytta, x-fest).
+
+Scavenger hunt: gratis å delta, er bare premie til vinner.
+
+Casino: Prøver ut nytt lokale. Har også laget liste over masse andre nye lokaler
+
+#### Bankom: 
+Momskurs med Sit i går med tre representanter fra Online. 
+
+Alt er ført for august, kunne for første gang bare sende oppgaven til skattemyndighetene gjennom fiken. 
+
+Regnskapet for 2016 reflekterer ikke faktisk bruk i 2016, da mye har blitt gjort opp og ført i 2017. Loffen har måtte rydde opp og betale ting som skulle vært betalt i fjor. 
+
+Brukt lite på prosjekter i HS.
+Har nå opprettet egen post til interessegrupper.
+Julekalendere for 2016 er også på 2017 regnskapet. 
+
+Vi får igjen penger på moms for første gang fra juli-aug, dette er pga fly og hotell til itex som ble betalt disse månedene. Vanligvis må vi betale mye i moms, men vi har ikke solgt ting disse månedene. 
+
+#### Bedkom, med ITEX:
+
+Er ikke tilstede i dag, da både leder og nestleder er på Oslotur for bedkom. Hege var på møtet. 
+
+Skal hjelp ekskom med å skaffe bedrifter til Techtalks. Ekskom ønsket de samme som i fjor, men for Techtalks sin del kan det være lurt å få inn noen nye også. Bedkom har satt opp en oversikt over aktuelle bedrifter, men har også spurt fagkom etter innspill, siden de har mest innsikt i hvordan bedriftene er til å holde kurs. 
+
+Skal snart ha bookingrunde, men Emil må avklare dette med Abakus. Ska ha møte med Hackerspace og Abakus. 
+
+Har fått inn mange henvendelser av andre angående arrangementer de vil at vi skal bleste for. Disse arrangementene er i samarbeid med bedrifter som vi samarbeider med. Hvis vi sier ja til disse gjør vi oss selv en bjørnetjeneste, siden da kan plutselig bedriftene begynne å gå til andre for å ha arrangementer med oss i stedet for å gå direkte til oss. 
+
+ITEX: Har tatt opp alle, tre nye i fjerde og tre nye i tredje. Skal ha første møte med de nye i dag, og skal da velge ny leder, nestleder og økonomiansvarlig som må læres opp. Gamle ITEX skal fikse refusjon til årets deltagere i dag. 
+
+#### Dotkom:
+Ting er stort sett som vanlig. Bølgen med folk som skal ha medlemskap roer seg ned. Vært problemer med nibbel, byttet til windows fra ubuntu, men funker igjen nå.
+
+#### Fagkom, med ekskom:
+
+Påmeldingen til Bouvet har gått bedre enn det så ut til med tanke på oktoberfest. 
+
+Informert om blesting. 
+
+Kodekveld blir med trikom. 
+
+Ekskom: Hadde tenkt til å la folk slippe å betale 2000, men har funnet ut at de trenger å ha det som sikkerhet. Simen har mye å gjøre, de trenger mer arbeidskraft, spesielt til våren.
+
+#### Prokom:
+
+Offline er ferdig! Blir kake og Offline i morgen.
+
+#### Trikom:
+
+- Fellestur på kino med delta. 
+- Har organisert om slik at ikke Taran har for mye å gjøre.
+- Overnattingstur gikk bra.
+
+#### Seniorkom:
+
+- Evaluert komitékikoffet
+- Nestleder: Sondre Widmark
+- Hadde teambuilding på mandag
+- Snakker om muligheter til hva de kan gjøre i komitéen. 
+
+#### Leder og nestleder:
+Didrik: 
+
+Linjeledermøte: 
+
+- Kurstilbud til sit presenteres - som vi har tatt godt i bruk allerede.
+- Mulighet til HMS kurs angående opptak felles for alle linjene i forkant av opptak
+- Lavterskelarrangementer som kino kan være fint for folk som synes det er skummelt å delta for mye. Hvis de får en positiv opplevelse med dette, kan det bidra til at de blir med på andre arrangementer senere også.
+- Faddergrupper med edruopplegg - dette har vi alt.
+- En psykt vanlig uke er videreført - vant pris og penger. Tre som har meldt seg. Ønskes at noen fra Online melder seg (må ikke være noen i styret).
+- Mediahåndtering: Saker utad skal tas av leder, henvis dit hvis vi blir kontaktet.
+De som var på Delta-jubileum kan gå til Delta for å få en bedre dalje.
+- Opptaket: flere engasjert i år enn i fjor generelt blant linjeforeningene, men går opp og ned.
+Snakkes om å opprette et linjeforningsmuseum: kan være både museum og sammenkomstlokale
+- Styrefest 7. nov.
+
+Samlokalisering møte med dekanen: 
+Didrik og Hege var i møte med dekanen (Geir) og leder på IDI (John Krogstie) sammen med Praveen fra Abakus og Ingvild fra Tihlde. Tar dette på samlokaliseringspunktet. 
+
+Hege:
+
+Har fikset med Sit kurs. Ledelseskurset er fult, har nå to tillisvalgtkurs som er nesten fulle og to ledige plasser på møteledelseskurset. Alle ledere og tillitsvalgte skal på kurs, i tillegg har nestledere blitt spurt om noen kurs. Ønsker å sende ny leder i ITEX på møteledelseskurs og tillitsvalgtkurs. Én plass ledig på møteledelseskurset som går til nestleder i bankom, evt arrkom eller prokom. 
+
+Har snakket med bandet. De hadde ikke fått epostadresse, så Hege purret på dotkom om dette. De har snakket med Abakus og fått tips til et sted som det går an å leie for å øve. I ababand har de som er med egne instrumenter ellers, men Abakus har kjøpt trommer. Bandet skal sjekket ut med de andre de fikk kontaktinfo til (Tihlde og Hybrida). Hege har bedt om blestetekst for flere medlemmer. 
+
+#### ITV:
+Vært på ledermøte med ledergruppen på IDI: 
+
+- De er klar over at samlokaliseringen går mest ut over studentene
+- Alle tre etasjene på p15 skal ses likt på, kan altså skje endringer, men ting er ikke avklart. 
+- Kalvskinnet kan kanskje bli lenger der de er. 
+
+Ledergruppen har møte med rektor på mandag, der blir samlokaliseringen prioritert.
+
+IDI skal ansette en del nye.
+
+#### Realfagskjelleren:
+Koietur til helga
+Innkalling til nytt møte med Reddkjellerne.
+
+Ny fordeling på hvem som skal være sammen. Flere som har slått seg sammen. 
+Vi får 12 - tidligere de taktløses kjeller (bryggekjeller).
+
+## 131 Interkom (10 min)
+
+Ingen saker.
+
+## 132 Samlokaliseringen
+
+Møte med dekanen:
+Generelt var møtet preget av politiske svar fra dekanen, og han legger mye ansvar på oss. Vi spurte blant annet hvorfor det ikke går an å bygge på it-bygget og ha brakker utenfor F1 i mellomtiden, men fikk bare til svar at dette ikke går, ikke noe om hvorfor eller hvem som beslutter slike ting.
+
+Linjeforeningene fikk uttrykt hvordan situasjonen er i dag, og at det har blitt mye verre i det siste, siden vi har mistet 5 etg på p15 og at det blir flere for flere studenter for hver år som går. Dekanen mener at han aldri har opplevd at noen ringer så tydelig i en bjelle som det vi gjør nå og at han ønsker å gjøre det han kan med det. Plassmangel har blitt tatt opp på semestermøtene med IDI i flere år, men det har tydeligvis vært en kommunikasjonssvikt som gjør at det ikke har kommet frem til dekanen.
+
+I samloaliseringsprosjektet er det flere delprosjekter, det har nå blitt bestemt at det skal være et eget delprosjekt for studentene, der det sees på forholdene nå og mulighetene blant alle studentene på fakultetet som en helhet. Dette kan være en stor fordel for oss, når vi vet at f eks kyb får fast leseplass i fjerde og elektro får det allerede i tredje. Dette prosjektet skal egentlig se på muligheter for samlokalisering, men pga vår uttrykning om dårlige forhold allerede nå, så dekanen få dem til å også se etter straks-tiltak.
+
+Siden det ikke er mulig å få noe mer plass på fakultetet er det eneste som går an å gjøre å få en bedre utnyttelse av arealet og få opp tettheten av studenter på den plassen man har. Blant annet har de tenkt til å sette opp flere bord i glassgården på elektro, drivhuset og andre arealer burde utnyttes bedre. Dekanen er veldig positiv til flerbruksområder og liker derfor meget godt ideen med å låse inn utstyret til elektro i 2. Etg på P15 når de ikke bruker det, slik at våre studenter kan bruke området i stedet for at det står tomt. 
+
+Dekanen er svært negativ til ideen med å gå ut i media/åpent brev til stortinget, og mener at dette kommer til å slå tilbake på oss så lenge det finnes arealer på fakultetsnivå som ikke utnyttes, selv om vi ikke har tilgang til dem. Hva stortinget bryr seg om: Totalt areal/studentmasse, og NTNU har den laveste tettheten av alle universiteter i Norge ifølge dekanen. Stortinget bryr seg da ikke om mye av arealet er ganger, alt areale teller med. 
+
+For at dekanen skal ha noe å slå i bordet med ønsker han at vi (linjeforeningene) går sammen med studentrådet og instituttet og skriver et skriv om hvordan situasjonen er i dag, men konkrete tall, og at vi foreslår mulige løsninger som vil bedre situasjonen. Dette skal være signert av alle partene.
+
+Dekanen skal i et møte 1. Nov der han vil ta opp dette. Han vil ha to uker på seg fra han får vårt skriv til å forberede seg. 
+
+Det holder ikke at vi bare sier ifra, vi må gjøre jobben selv. Blant annet ønsker dekanen at vi skal gå rundt på alle studentområdene til fakultetet og se etter løsninger for bedre utnyttelse av plassen.
+
+
+## 133 Ekstraordinær generalforsamling
+Under én måned til, vi må planlegge.
+Saker vi skal ta opp der: fond, revidert budsjett og evt ta opp en PR ansvarlig.
+
+Vi må få ut ordet om at stillingen opprettes.
+Må skrives beskrivelse på hva vi ser for oss i stillingen og hva som skal stå i vedtektene.
+
+Vi må få ut innkalling til ekstraordinært genfors, saker, event på OW. Folk burde få vite om det selv om vi ikke trenger å si ifra før to uker før. 
+
+Loffen ønsker nytt budsjett, med pizza til genfors, mer til teambuilding.
+
+Loffen tar ansvaret for innkalling, wikiside, osv.  
+
+Saker blir: fond, vedtekter til fond, budsjett, ny stilling i hs (vedtektsendring på dette)
+
+Ordstyrer: Agnete kan til kl 19. Hege spør Bendik.
+
+Blir pizza på ekstraorndinært genfor - tar av prosjekter-posten.
+
+## 134 Valg av økonomiansvarlige
+
+Alle andre komiteer velger hvem de tar opp. Loffen ønsker at det skal være et godt samhold i bankom. Loffen ønsker at leder og nestleder i bankom kommer på et møte med komiteen som skal ha ny økans og tar selv en prat på hvem de ønsker å ta opp. Vil unngå situasjoner der det blir stor opprydning. HS er positive til dette. 
+
+Vil ha nye retningslinjer for dette. 
+
+## 135 Semesterundersøkelse
+Trikom tar det opp i morgen. Resten har tatt det opp. Kan bruke det som er der nå + noen komiteer har kommet med nye. Kan ha spørsmål for andre ting også, som realfagskjelleren.
+
+Didrik fikser undersøkelsen til neste møte, gjennomgang neste møte og sender ut på fredag neste uke.
+
+## 136 Retningslinjer
+Ikke oppdatert de siste to siste årene. Komiteens virke. Komiteen som bestemmer det og skriver det, men HS som godkjenner det. 
+
+Alle må se gjennom retningslinjene for komiteen sin sammen med komiteen før neste møte. 
+
+## 137 Forespørsler som har kommet på e-post (5 min)
+
+- StartIT: bedkom, fagkom, arrkom. Vi støtter de med penger, så selvfølgelig skal vi bleste for det. Avtalen må reforhandles. Emil blir satt på saken. Dette skal gjøres så fort som mulig, så arrkom kan få låne utstyr til casino. Edvard kan bruke det at vi støtter de for å få låne utstyret. 
+- PA-anlegg: edvard fikser i dag.
+- UKA-rundt: de blester nok selv.
+- Samarbeidsavtale med edge barbershop: gagner ikke oss
+- Smash fri i lunjnsen: har gått bra sålangt.
+- IF-forsikring: vi dropper fordi det blir for dyrt
+- Ikke bruke andres bilder: kan gi oss pengekrav. Dette må følges opp av alle komiteer. 
+
+## 137 Ukens infomail og Facebook (5 min)
+
+## 138 Eventuelt (10 min)
+
+## 139 Møteevaluering/Diggepunkt (5 min)
+Mye som vanlig, men kom gjennom agendaen. 
+
+## 140 Gjøremål
