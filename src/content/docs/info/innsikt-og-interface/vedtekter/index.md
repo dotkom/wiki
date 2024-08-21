@@ -18,4 +18,4 @@ Ekskursjonskomiteens vedtekter ble sist oppdatert 24. september 2020.
 Gjeldende vedtekter for ekskom:[attachment:815 title:"Ekskom vedtekter" size]  
 
 ### Komiteenes retningslinjer
-Utover vedtektene har hver komité et sett med retningslinjer. De finnes [her](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/).
+Utover vedtektene har hver komité et sett med retningslinjer. De finnes [her](/info/innsikt-og-interface/retningslinjer/).

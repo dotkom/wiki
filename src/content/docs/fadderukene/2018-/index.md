@@ -4,13 +4,13 @@ title: "Fadderukene 2018"
 
 Informasjonskanal for fadderukene 2018
 
-* [Arrangementer](https://online.ntnu.no/wiki/online/fadderukene/2018-/arrangementer/)  
-* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2018-/faddere/)  
-* [For faddere](https://online.ntnu.no/wiki/online/fadderukene/2018-/fadder/) (kun faddere har tilgang) 
+* [Arrangementer](/fadderukene/2018-/arrangementer/)  
+* [Faddere](/fadderukene/2018-/faddere/)  
+* [For faddere](/fadderukene/2018-/fadder/) (kun faddere har tilgang) 
 * [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
-* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2018-/velkom)
+* [Velkom kontaktinfo](/fadderukene/2018-/velkom)
 
 ### Uforventede hendelser
 Alle uønskede og ubehagelige hendelser oppfordres å rapporteres til:

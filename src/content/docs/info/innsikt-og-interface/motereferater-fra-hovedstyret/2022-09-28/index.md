@@ -201,7 +201,7 @@ S: Kun Arr-skjorte som støttes.
 I: Syns absolutt de skal få lov til det
 
 ## 076 Ledervalg saken til genfors (10 min)
-[Ønsker vi fremme denne vedtektsendringen til generalforsamlingen? Vi fikk mye input på øko og vedtektskvelden referatet kan du lese [her](https://old.online.ntnu.no/wiki/online/okogved/)]
+[Ønsker vi fremme denne vedtektsendringen til generalforsamlingen? Vi fikk mye input på øko og vedtektskvelden referatet kan du lese [her](/okogved/)]
 
 I: Var mange motargumenter i salen mtp at hensikten med endringen i vår var å prøve ut slik vi har det nå.
 

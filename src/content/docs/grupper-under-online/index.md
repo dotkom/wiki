@@ -23,9 +23,9 @@ Utlån av miksebord og annet utstyr skjer også i dialog med oss. Vi har denne p
 **Instagram:** @online_output
 
 # Debug
-Debug er Online sitt uavhengige varslingsorgan, men hva vil det si? At vi er uavhengige betyr enkelt og greit at vi ikke tilhører noen komité, vi styrer oss selv. Vi gir ingen innsyn i våre saker, ikke engang til Hovedstyret. Det er en av fordelene med å være uavhengige - vi svarer ikke til noen. I hovedsak har Debug tre ansvarsområder: konflikthåndtering, rådgivning, og håndtering av varslingssaker. Dette kan du lese mer om i våre [retningslinjer](https://old.online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/debug/).
+Debug er Online sitt uavhengige varslingsorgan, men hva vil det si? At vi er uavhengige betyr enkelt og greit at vi ikke tilhører noen komité, vi styrer oss selv. Vi gir ingen innsyn i våre saker, ikke engang til Hovedstyret. Det er en av fordelene med å være uavhengige - vi svarer ikke til noen. I hovedsak har Debug tre ansvarsområder: konflikthåndtering, rådgivning, og håndtering av varslingssaker. Dette kan du lese mer om i våre [retningslinjer](/info/innsikt-og-interface/retningslinjer/debug/).
 
-Les mer: [Debug](https://old.online.ntnu.no/wiki/online/historie/debug/)
+Les mer: [Debug](/historie/debug/)
 
 
 # Realfagskjelleren 
@@ -38,11 +38,11 @@ Kjelleren arrangerer lavterskel arrangementer hvor alle er velkomne, til vanlig 
 
 Ellers er det mulig å booke kjelleren for egne arrangementer og sammenkomster. 
 
-Les mer: [Realfagskjelleren](https://old.online.ntnu.no/wiki/online/realfagskjelleren/)
+Les mer: [Realfagskjelleren](/realfagskjelleren/)
 
 # Datakameratene FK
 Datakameratene FK Gløshaugen er en fotballklubb primært for studenter ved linjene datateknikk, kommunikasjonsteknologi og informatikk ved NTNU. 
 Fotballklubben består av et styre og to avdelinger; herreavdelingen og kvinneavdelingen. 
 Klubben har ingen direkte tilknytning til Online og Abakus, men er et fint samlingspunkt for studenter fra de to linjeforeningene. 
  
-Les mer: [Datakameratene FK](https://old.online.ntnu.no/wiki/online/datakameratenefk/)
+Les mer: [Datakameratene FK](/datakameratenefk/)

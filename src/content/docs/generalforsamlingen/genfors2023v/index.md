@@ -3,13 +3,13 @@ title: "Generalforsamling våren 2023"
 ---
 
 ## Innhold
-* [2023 Forside](/wiki/online/generalforsamlingen/genfors2023v)   - Forside
-* [2023 Forretningsorden](/wiki/online/generalforsamlingen/genfors2023v/forretningsorden) - Forretningsorden
-* [2023 Dagsorden](/wiki/online/generalforsamlingen/genfors2023v/dagsorden) - Dagsorden for generalforsamlingen
-* [2023 Årsberetninger](/wiki/online/generalforsamlingen/genfors2023v/aarsberetninger) - Årsberetninger
-* [2023 Saksforslag](/wiki/online/generalforsamlingen/genfors2023v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2023 Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2023v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2023 Kandidater](/wiki/online/generalforsamlingen/genfors2023v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2023 Forside](/generalforsamlingen/genfors2023v)   - Forside
+* [2023 Forretningsorden](/generalforsamlingen/genfors2023v/forretningsorden) - Forretningsorden
+* [2023 Dagsorden](/generalforsamlingen/genfors2023v/dagsorden) - Dagsorden for generalforsamlingen
+* [2023 Årsberetninger](/generalforsamlingen/genfors2023v/aarsberetninger) - Årsberetninger
+* [2023 Saksforslag](/generalforsamlingen/genfors2023v/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2023 Vedtektsforslag](/generalforsamlingen/genfors2023v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Kandidater](/generalforsamlingen/genfors2023v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2023](https://docs.google.com/presentation/d/17-HMuvhAHn0pFBuJEWHEe1OR3LuXiJ1LsygS1bGVNrw/edit?usp=sharing)  
@@ -40,9 +40,9 @@ Om du har en sak du vil at Hovedstyret for perioden 23/24 skal fokusere på, og 
 
 Ønsker du å forandre på [vedtektene](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) **senest to uker før** generalforsamlingen. Det vil si **15. februar 2023**. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](https://old.online.ntnu.no/wiki/online/okogved/).
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2023v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/genfors2023v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 

@@ -6,90 +6,90 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 **Er du informatiker? Skriv noe! :)**
 
-[Informasjon til deg som Informatiker](/wiki/online/info/)
+[Informasjon til deg som Informatiker](/info/)
 ----------------------------------------------------------
 
-### [Innsikt & Interface](/wiki/online/info/innsikt-og-interface/)
+### [Innsikt & Interface](/info/innsikt-og-interface/)
 
-- [**Møtereferater fra Hovedstyret**](/wiki/online/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
+- [**Møtereferater fra Hovedstyret**](/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
 - [Facebook/Slack Blæstekalender](https://docs.google.com/spreadsheets/d/1N4c01zclcgD0xs_RtDCqOVgs2GPOZB2Tx3pO7AIZrqI/edit#gid=1408777825) - Onlines Facebook blæstekalender. Alt som skal promoteres i Onlines Facebook-gruppe og/eller Slack må bli lagt inn først.
 - [Instagram Blæstekalender](https://docs.google.com/spreadsheets/d/1N9RrF_O3dAnGC0Pu4jdJe0wqzyBos71FeG0iWzhX120/edit?usp=sharing) - Onlines Instagram blæstekalender. Alt som skal legges ut i Onlines Instagram må bli lagt inn først.
-- [Grafisk profil](/wiki/online/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
-- [Vedtekter](/wiki/online/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-- [Nodekomiteer](/wiki/online/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
-- [Grupper under Online](https://old.online.ntnu.no/wiki/online/grupper-under-online/)  - Output, Realfagskjelleren, Datakameratene, Debug
-- [Interessegrupper](/wiki/online/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
-- [Retningslinjer](/wiki/online/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
+- [Grafisk profil](/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
+- [Vedtekter](/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
+- [Nodekomiteer](/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
+- [Grupper under Online](/grupper-under-online/)  - Output, Realfagskjelleren, Datakameratene, Debug
+- [Interessegrupper](/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
+- [Retningslinjer](/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
-- [Onlinepotten](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
-- [Onlines fond](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
-- [Budsjett](https://online.ntnu.no/wiki/online/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
-- [Generalforsamlingen](/wiki/online/generalforsamlingen) - Informasjon om Onlines generalforsamling
+- [Onlinepotten](/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
+- [Onlines fond](/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
+- [Budsjett](/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
+- [Generalforsamlingen](/generalforsamlingen) - Informasjon om Onlines generalforsamling
 
 
-### [Faglig](/wiki/online/info/faglig/)
+### [Faglig](/info/faglig/)
 
-- [Eksamen](/wiki/online/info/faglig/eksamen/) - Om konting, klaging, forbedring, og mer
-- [Studieløp](/wiki/online/info/faglig/studielop/) - Studieløpet, og noen anbefalinger fra oss
-- [Emne-guide for informatikere](/wiki/online/info/faglig/emneguide/) - Studentskapt guide til de forskjellige emnene du kan ta som informatiker
-- [Masteropptak](/wiki/online/info/faglig/masteropptak/) - Hvilke emner teller?
-- [Kompendier](/wiki/online/info/faglig/kompendier/) - Studentskapte kompendier til emner.
+- [Eksamen](/info/faglig/eksamen/) - Om konting, klaging, forbedring, og mer
+- [Studieløp](/info/faglig/studielop/) - Studieløpet, og noen anbefalinger fra oss
+- [Emne-guide for informatikere](/info/faglig/emneguide/) - Studentskapt guide til de forskjellige emnene du kan ta som informatiker
+- [Masteropptak](/info/faglig/masteropptak/) - Hvilke emner teller?
+- [Kompendier](/info/faglig/kompendier/) - Studentskapte kompendier til emner.
 
-### [Sosialt & økonomisk](/wiki/online/info/sosialt-og-okonomisk/)
-- [Ny student?](/wiki/online/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
-- [Ny på informatikk](/wiki/online/ny-paa-informatikk/)  - TL;DR av den over. 
-- [Onlines daljer](/wiki/online/daljer) - Oversikt over Online sine daljer
-- [Hvordan bære daljer](https://online.ntnu.no/wiki/online/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
-- [Ditt liv som Onliner](/wiki/online/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
-- [Mat for lange dager på lesesalen](/wiki/online/info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen/) - Her finner du oversikt over take away
-- [Lånekassen](/wiki/online/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
-- [Linjeforeninger](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/) - Kjekt å vite om linjeforeningene i Trondheim
-- [Studentsanger](/wiki/online/info/sosialt-og-okonomisk/studentsanger/) - De tradisjonsrike sangene sunget av NTNU-studenter gjennom tidene!
-- [Søke om drikking på kontoret](/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/) - Det er lov å drikke alokohol på Onlinekontoret så lenge noen har søkt om det
+### [Sosialt & økonomisk](/info/sosialt-og-okonomisk/)
+- [Ny student?](/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
+- [Ny på informatikk](/ny-paa-informatikk/)  - TL;DR av den over. 
+- [Onlines daljer](/daljer) - Oversikt over Online sine daljer
+- [Hvordan bære daljer](/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
+- [Ditt liv som Onliner](/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
+- [Mat for lange dager på lesesalen](/info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen/) - Her finner du oversikt over take away
+- [Lånekassen](/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
+- [Linjeforeninger](/info/sosialt-og-okonomisk/linjeforeninger/) - Kjekt å vite om linjeforeningene i Trondheim
+- [Studentsanger](/info/sosialt-og-okonomisk/studentsanger/) - De tradisjonsrike sangene sunget av NTNU-studenter gjennom tidene!
+- [Søke om drikking på kontoret](/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/) - Det er lov å drikke alokohol på Onlinekontoret så lenge noen har søkt om det
 - Ekstern: [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"} - Oversikt over alle vaffeldager og møter på kontoret
-- [Gullblekka](/wiki/online/gullblekka/) - Prisutdeling for linjeredaksjonene på Gløshaugen
-- [Skjemaer](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/skjemaer/) - Kvitteringsskjema og andre hvis du har lagt ut for Online
+- [Gullblekka](/gullblekka/) - Prisutdeling for linjeredaksjonene på Gløshaugen
+- [Skjemaer](/info/sosialt-og-okonomisk/skjemaer/) - Kvitteringsskjema og andre hvis du har lagt ut for Online
 
-### [Trivia](/wiki/online/info/trivia/)
+### [Trivia](/info/trivia/)
 
-- [Onlines drikkespill 2021](/wiki/online/info/trivia/onlines-drikkespill-2021/)
-- [Trøndersk ordliste](/wiki/online/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
-- [Strikkemønster for Online-genseren](/wiki/online/info/trivia/strikkegenser/)
-- [Oppskrift på strikkevotter](/wiki/online/info/trivia/oppskrift_pa_strikkevotter/)
-- [Lage ny bruker på Onlineweb](/wiki/online/info/trivia/ny_bruker)
-- [Hvordan endre wiki-sider](https://online.ntnu.no/wiki/online/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
-- [Artikkel-arkiv](/wiki/online/info/trivia/arkiv) - Her finner du gamle wiki-artikler som ikke lenger er like relevante i dag, men fortsatt kan være artige å lese!
-
-
+- [Onlines drikkespill 2021](/info/trivia/onlines-drikkespill-2021/)
+- [Trøndersk ordliste](/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
+- [Strikkemønster for Online-genseren](/info/trivia/strikkegenser/)
+- [Oppskrift på strikkevotter](/info/trivia/oppskrift_pa_strikkevotter/)
+- [Lage ny bruker på Onlineweb](/info/trivia/ny_bruker)
+- [Hvordan endre wiki-sider](/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
+- [Artikkel-arkiv](/info/trivia/arkiv) - Her finner du gamle wiki-artikler som ikke lenger er like relevante i dag, men fortsatt kan være artige å lese!
 
 
-[Historie om linjeforeningen og komiteene](/wiki/online/historie/)
+
+
+[Historie om linjeforeningen og komiteene](/historie/)
 ----------------------------------------
 
-- [Historien om linjeforeningen](/wiki/online/historie/om)
-    - [Hovedstyret](/wiki/online/historie/hs)
-    - [Debug](/wiki/online/historie/debug)
-    - [Applikasjonskomiteen](/wiki/online/historie/appkom)
-    - [Arrangementskomiteen](/wiki/online/historie/arrkom)  
-    - [Backlog](/wiki/online/historie/seniorkom)
-    - [Bank- og økonomikomiteen](/wiki/online/historie/bankom)
-    - [Bedriftskomiteen](/wiki/online/historie/bedkom)
-    - [Drifts- og utviklingskomiteen](/wiki/online/historie/dotkom)
-    - [Fag- og kurskomiteen](/wiki/online/historie/fagkom)
-    - [Online Idrettslag](/wiki/online/historie/oil)
-    - [Profil- og aviskomiteen](/wiki/online/historie/prokom)
-    - [Trivselskomiteen](/wiki/online/historie/trikom)
-    - [Ekskursjonskomiteen](/wiki/online/historie/ekskom)
-    - [Jubileumskomiteen](/wiki/online/historie/jubkom)
-    - [Velkomstkomiteen](/wiki/online/historie/velkom)
-    - [IT-Ekskursjonen](/wiki/online/historie/itex)
-- [Offline](/wiki/online/offlines-historie/)
-- [Generalforsamlingen](/wiki/online/generalforsamlingen)
-- [GenVORS (Tidligere Økonomi- og vedtektskvelden)](/wiki/online/okogved)
-- [Ridderne av Det Indre Lager](/wiki/online/ridderne/)
-- [Kontoret](/wiki/online/kontoret)
-- [Realfagskjelleren](/wiki/online/realfagskjelleren)
-- [Datakameratene FK](/wiki/online/datakameratenefk)
+- [Historien om linjeforeningen](/historie/om)
+    - [Hovedstyret](/historie/hs)
+    - [Debug](/historie/debug)
+    - [Applikasjonskomiteen](/historie/appkom)
+    - [Arrangementskomiteen](/historie/arrkom)  
+    - [Backlog](/historie/seniorkom)
+    - [Bank- og økonomikomiteen](/historie/bankom)
+    - [Bedriftskomiteen](/historie/bedkom)
+    - [Drifts- og utviklingskomiteen](/historie/dotkom)
+    - [Fag- og kurskomiteen](/historie/fagkom)
+    - [Online Idrettslag](/historie/oil)
+    - [Profil- og aviskomiteen](/historie/prokom)
+    - [Trivselskomiteen](/historie/trikom)
+    - [Ekskursjonskomiteen](/historie/ekskom)
+    - [Jubileumskomiteen](/historie/jubkom)
+    - [Velkomstkomiteen](/historie/velkom)
+    - [IT-Ekskursjonen](/historie/itex)
+- [Offline](/offlines-historie/)
+- [Generalforsamlingen](/generalforsamlingen)
+- [GenVORS (Tidligere Økonomi- og vedtektskvelden)](/okogved)
+- [Ridderne av Det Indre Lager](/ridderne/)
+- [Kontoret](/kontoret)
+- [Realfagskjelleren](/realfagskjelleren)
+- [Datakameratene FK](/datakameratenefk)
 
 [Interne wikier](/wiki/)
 --------------

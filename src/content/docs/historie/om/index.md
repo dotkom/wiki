@@ -234,23 +234,23 @@ kaffedrikking.
 
 -   **Historie ønskes!**
 
-### [2009/2010](/wiki/online/historie/om/0910)
+### [2009/2010](/historie/om/0910)
 
-### [2010/2011](/wiki/online/historie/om/1011)
+### [2010/2011](/historie/om/1011)
 
-### [2011/2012](/wiki/online/historie/om/1112)
+### [2011/2012](/historie/om/1112)
 
-### [2012/2013](/wiki/online/historie/om/1213)
+### [2012/2013](/historie/om/1213)
 
-### [2017/2018](/wiki/online/historie/om/p1718)
+### [2017/2018](/historie/om/p1718)
 
-### [2018/2019](/wiki/online/historie/om/p1819)
+### [2018/2019](/historie/om/p1819)
 
-### [2019/2020](/wiki/online/historie/om/p1920)
+### [2019/2020](/historie/om/p1920)
 
-### [2020/2021](/wiki/online/historie/om/p2021)
+### [2020/2021](/historie/om/p2021)
 
-### [2021/2022](/wiki/online/historie/om/p2122)
+### [2021/2022](/historie/om/p2122)
 
 
 ## Hovedstyrer
@@ -351,7 +351,7 @@ Skal ligge her en plass: Nils Fredriksen, Knut Stølen,
 |1987h-1988h|Ole A. Brevik|Leiv Arild Andenes||
 |1986h-1987h|Ole A. Brevik|Leiv Arild Andenes||
 
-Se forøvrig referatet fra [Årsmøtet 1987](https://online.ntnu.no/wiki/online/generalforsamlingen/arsmotet1987/).
+Se forøvrig referatet fra [Årsmøtet 1987](/generalforsamlingen/arsmotet1987/).
 
 |År|Formann|Sekretær|Styremedlem|Styremedlem|Styremedlem|
 |---|---|---|---|---|---|

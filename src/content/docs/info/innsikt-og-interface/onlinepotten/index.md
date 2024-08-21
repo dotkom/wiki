@@ -5,7 +5,7 @@ title: "Onlinepotten"
 [TOC]
 
 ## Onlinepotten
-Onlinepotten er en pott på 15.000kr hvert semester som fordeles av hovedstyret i Online. Den ble vedtatt på generalforsamlingen i 2018 ([Saksforslag 4](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2018/saksforslag/#wiki-toc-forslag-4-onlinepotten-en-pott-der-onlinere-kan-ske-om-penger-til-pizza-til-workshops-osv-hovedstyret)). Meningen med potten er å støtte Onlinere som har en “workshop” eller arbeidsperiode over minst 3 til 4 timer som bidrar til å forbedre Online som linjeforening. Dette kan for eksempel være støtte til pizza eller annen bespisning, men er ikke begrenset til dette.  
+Onlinepotten er en pott på 15.000kr hvert semester som fordeles av hovedstyret i Online. Den ble vedtatt på generalforsamlingen i 2018 ([Saksforslag 4](/generalforsamlingen/genfors2018/saksforslag/#wiki-toc-forslag-4-onlinepotten-en-pott-der-onlinere-kan-ske-om-penger-til-pizza-til-workshops-osv-hovedstyret)). Meningen med potten er å støtte Onlinere som har en “workshop” eller arbeidsperiode over minst 3 til 4 timer som bidrar til å forbedre Online som linjeforening. Dette kan for eksempel være støtte til pizza eller annen bespisning, men er ikke begrenset til dette.  
 
 ### Retningslinjer
 

@@ -5,10 +5,10 @@ title: "2015 Saksliste"
 [TOC]
 
 ---
-* [2015 Saksliste](/wiki/online/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015
-* [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2015/valg) - Er du klar for et verv i Hovedstyret?
-* [2015 Vedtektsforslag](/wiki/online/generalforsamlingen/2015/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2015 Saksforslag](/wiki/online/generalforsamlingen/2015/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2015 Saksliste](/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015
+* [2015 Kandidater til Hovedstyret](/generalforsamlingen/2015/valg) - Er du klar for et verv i Hovedstyret?
+* [2015 Vedtektsforslag](/generalforsamlingen/2015/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2015 Saksforslag](/generalforsamlingen/2015/saksforslag) - Alle innsendte saker vil bli tatt opp.
 
 ---
 
@@ -100,7 +100,7 @@ title: "2015 Saksliste"
 
 21:15 - Pause (5 min)
 
-* 16 Valg - Se [2015 Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/2015/valg)
+* 16 Valg - Se [2015 Kandidater til Hovedstyret](/generalforsamlingen/2015/valg)
     * 16.1 - Valg av leder
     * 16.2 - Valg av nestleder
     * 16.3 - Valg av leder for arrKom

@@ -3,13 +3,13 @@ title: "Generalforsamlingen Vår 2024"
 ---
 
 ## Innhold
-* [2024 Vår Forside](/wiki/online/generalforsamlingen/genfors2024v)   - Forside
-* [2024 Vår Forretningsorden](/wiki/online/generalforsamlingen/genfors2024v/forretningsorden) - Forretningsorden
-* [2024 Vår Dagsorden](/wiki/online/generalforsamlingen/genfors2024v/dagsorden) - Dagsorden for generalforsamlingen
-* [2024 Vår Halvårsberetninger](/wiki/online/generalforsamlingen/genfors2024v/aarsberetninger) - Halvårsberetninger
-* [2024 Vår Saksforslag](/wiki/online/generalforsamlingen/genfors2024v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2024 Vår Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2024v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2024 Vår Kandidater](/wiki/online/generalforsamlingen/genfors2024v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2024 Vår Forside](/generalforsamlingen/genfors2024v)   - Forside
+* [2024 Vår Forretningsorden](/generalforsamlingen/genfors2024v/forretningsorden) - Forretningsorden
+* [2024 Vår Dagsorden](/generalforsamlingen/genfors2024v/dagsorden) - Dagsorden for generalforsamlingen
+* [2024 Vår Halvårsberetninger](/generalforsamlingen/genfors2024v/aarsberetninger) - Halvårsberetninger
+* [2024 Vår Saksforslag](/generalforsamlingen/genfors2024v/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2024 Vår Vedtektsforslag](/generalforsamlingen/genfors2024v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2024 Vår Kandidater](/generalforsamlingen/genfors2024v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2024 Vår](https://docs.google.com/presentation/d/1dsZ-7JkZeU4GnbNN-GOqJdgYicYE5B0YlHEnqDqBvi0/edit?usp=sharing)
@@ -46,9 +46,9 @@ Om du har en sak du vil at Hovedstyret for perioden 24/25 skal fokusere på, og 
 
 Ønsker du å forandre på [vedtektene](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) **senest to uker før** generalforsamlingen. Det vil si ** 12. februar 2024, kl.23:59**. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](https://old.online.ntnu.no/wiki/online/okogved/).
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2024v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/genfors2024v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 

@@ -2,7 +2,7 @@
 title: "Hovedstyrets retningslinjer"
 ---
 
-**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](/wiki/online/info/innsikt-og-interface/retningslinjer/).**
+**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](/info/innsikt-og-interface/retningslinjer/).**
 
 ### §1 Hovedstyrets formål
 

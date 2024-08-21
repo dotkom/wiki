@@ -3,11 +3,11 @@ title: "Forretningsorden 2022"
 ---
 
 ## Innhold
-* [2022 Forside](/wiki/online/generalforsamlingen/ekstra2022)   - Forside
-* [2022 Vedtektsforslag](/wiki/online/generalforsamlingen/ekstra2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Dagsorden](/wiki/online/generalforsamlingen/ekstra2022/dagsorden-22) - Dagsorden for generalforsamlingen
-* [2022 Forretningsorden](/wiki/online/generalforsamlingen/ekstra2022/forretningsorden-2022) - Forretningsorden
-* [2022 Kandidater](/wiki/online/generalforsamlingen/ekstra2022/valg) - Er du klar for et verv i Fondstyret? 
+* [2022 Forside](/generalforsamlingen/ekstra2022)   - Forside
+* [2022 Vedtektsforslag](/generalforsamlingen/ekstra2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Dagsorden](/generalforsamlingen/ekstra2022/dagsorden-22) - Dagsorden for generalforsamlingen
+* [2022 Forretningsorden](/generalforsamlingen/ekstra2022/forretningsorden-2022) - Forretningsorden
+* [2022 Kandidater](/generalforsamlingen/ekstra2022/valg) - Er du klar for et verv i Fondstyret? 
 
 ## 1 Generalforsamlingen
 Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og velge nytt Hovedstyre.

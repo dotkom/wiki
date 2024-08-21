@@ -12,12 +12,12 @@ Tilhørende info
 
 Tilhørende wikisider
 
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/)
-* [Linjeforeninger på Dragvoll](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* Du er her: [Linjeforeninger på HiST, TJSF, BI](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/hist/)
-* [Studentkjellere på Moholt](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](/wiki/online/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
+* [Linjeforeninger på Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* Du er her: [Linjeforeninger på HiST, TJSF, BI](/info/sosialt-og-okonomisk/linjeforeninger/hist/)
+* [Studentkjellere på Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ## Linjeforeninger på HiST
 

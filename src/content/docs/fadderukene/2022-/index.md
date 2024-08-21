@@ -5,12 +5,12 @@ title: "Fadderukene 2022"
 Informasjonskanal for fadderukene 2022
 
 
-* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2022-/PraktiskInfo)
+* [Praktisk informasjon](/fadderukene/2022-/PraktiskInfo)
 * [Oversikt over fadderuka](https://splash.online.ntnu.no/)  
-* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2022-/Faddere)  
+* [Faddere](/fadderukene/2022-/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/search)  
-* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2022-/velkom) 
-* [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2022-/TaMedListe)
+* [Velkom kontaktinfo](/fadderukene/2022-/velkom) 
+* [Greit å ha til fadderukene](/fadderukene/2022-/TaMedListe)
 
 
 ### Kontakt

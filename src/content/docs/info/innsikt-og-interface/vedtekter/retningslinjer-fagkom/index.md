@@ -2,7 +2,7 @@
 title: "Retningslinjer Fagkom"
 ---
 
-**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](/wiki/online/info/innsikt-og-interface/retningslinjer/).**
+**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](/info/innsikt-og-interface/retningslinjer/).**
 
 
 Dette er retningslinjene for fag- og kurskomiteen, heretter kalt fagkom.

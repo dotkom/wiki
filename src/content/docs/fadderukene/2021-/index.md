@@ -9,15 +9,15 @@ Informasjonskanal for fadderukene 2021
 ** OBS: Er du syk, nylig reist til utlandet eller i karantene, ikke møt opp på arrangementer(!!!) og ta kontakt med oss på velkom@online.ntnu.no ** 
 
 
-* [Koronavirus-informasjon](https://online.ntnu.no/wiki/online/fadderukene/2021-/korona) 
-* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2021-/PraktiskInfo)
+* [Koronavirus-informasjon](/fadderukene/2021-/korona) 
+* [Praktisk informasjon](/fadderukene/2021-/PraktiskInfo)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
-* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2021-/Faddere)  
+* [Faddere](/fadderukene/2021-/Faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/search)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
-* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2021-/velkom) 
-* [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2021-/TaMedListe)
+* [Velkom kontaktinfo](/fadderukene/2021-/velkom) 
+* [Greit å ha til fadderukene](/fadderukene/2021-/TaMedListe)
 
 
 ### Kontakt

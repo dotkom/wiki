@@ -5,11 +5,11 @@ title: "Fadderukene 2023"
 Informasjonskanal for fadderukene 2023
 
 
-* [Praktisk informasjon](https://online.ntnu.no/wiki/online/fadderukene/2023-/PraktiskInfo)
+* [Praktisk informasjon](/fadderukene/2023-/PraktiskInfo)
 * [Oversikt over fadderuka](https://splash.online.ntnu.no/)  
-* [Faddere](https://online.ntnu.no/wiki/online/fadderukene/2023-/Faddere)  
-* [Velkom kontaktinfo](https://online.ntnu.no/wiki/online/fadderukene/2023-/velkom) 
-* [Greit å ha til fadderukene](https://online.ntnu.no/wiki/online/fadderukene/2023-/pakkeliste)
+* [Faddere](/fadderukene/2023-/Faddere)  
+* [Velkom kontaktinfo](/fadderukene/2023-/velkom) 
+* [Greit å ha til fadderukene](/fadderukene/2023-/pakkeliste)
 
 
 ### Kontakt

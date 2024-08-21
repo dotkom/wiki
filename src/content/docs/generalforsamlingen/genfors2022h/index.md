@@ -3,13 +3,13 @@ title: "Generalforsamlingen Høsten 2022"
 ---
 
 ## Innhold
-* [2022 Høst - Forside](/wiki/online/generalforsamlingen/genfors2022h)   - Forside
-* [2022 Høst - Forretningsorden](/wiki/online/generalforsamlingen/genfors2022h/forretningsorden) - Forretningsorden
-* [2022 Høst - Dagsorden](/wiki/online/generalforsamlingen/genfors2022h/dagsorden) - Dagsorden for generalforsamlingen
-* [2022 Høst - Årsberetninger](/wiki/online/generalforsamlingen/genfors2022h/aarsberetninger) - Årsberetninger
-* [2022 Høst - Saksforslag](/wiki/online/generalforsamlingen/genfors2022h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2022 Høst - Vedtektsforslag](/wiki/online/generalforsamlingen/genfors2022h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Høst - Kandidater](/wiki/online/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2022 Høst - Forside](/generalforsamlingen/genfors2022h)   - Forside
+* [2022 Høst - Forretningsorden](/generalforsamlingen/genfors2022h/forretningsorden) - Forretningsorden
+* [2022 Høst - Dagsorden](/generalforsamlingen/genfors2022h/dagsorden) - Dagsorden for generalforsamlingen
+* [2022 Høst - Årsberetninger](/generalforsamlingen/genfors2022h/aarsberetninger) - Årsberetninger
+* [2022 Høst - Saksforslag](/generalforsamlingen/genfors2022h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2022 Høst - Vedtektsforslag](/generalforsamlingen/genfors2022h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Høst - Kandidater](/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Her](https://docs.google.com/presentation/d/1pxRdneaszn3vbcsiq7GwBaUz2_UPJu2t/edit#slide=id.p1)  
@@ -40,9 +40,9 @@ Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og 
 
 Ønsker du å forandre på [vedtektene](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) **senest to uker før** generalforsamlingen. Det vil si **5. Oktober 2022**. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](https://old.online.ntnu.no/wiki/online/okogved/).
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2022h/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/genfors2022h/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 

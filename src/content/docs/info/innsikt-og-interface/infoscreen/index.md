@@ -2,7 +2,7 @@
 title: "Online Infoscreen"
 ---
 
-Om du skrur på Infoscreen i [Notifier](/wiki/online/info/innsikt-og-interface/notifier/) får du innholdet i Notifier tilpasset en stor skjerm som står på høykant.
+Om du skrur på Infoscreen i [Notifier](/info/innsikt-og-interface/notifier/) får du innholdet i Notifier tilpasset en stor skjerm som står på høykant.
 
 ## Installasjon
 

@@ -9,7 +9,7 @@ Alle som har tilgang til Online-kontoret har et ansvar for å følge disse retni
 ## Vors, fest og nachspiel
 
 
-Deter ikke lov til å arrangere vors, fest eller nach på kontoret uten å ha [fått innvilget søknad om det først](https://online.ntnu.no/wiki/online/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
+Deter ikke lov til å arrangere vors, fest eller nach på kontoret uten å ha [fått innvilget søknad om det først](/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
 
 ## Åpne og lukke kontoret
 
