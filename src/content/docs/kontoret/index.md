@@ -22,11 +22,11 @@ Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kan
 
 For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fylle vann til "2.2 l"-merket.
 
-##Nibble(kiosksystemet)
+## Kiosksystemet
 
-Dotkom har utviklet et eget kiosksystem til bruk på kontoret. Dette kan onlinere bruke for å kjøpe varene som tilbys på kontoret. For å legge inn penger, logg inn på [profilen din på online weben, så inn på saldo, så legge inn penger der](https://online.ntnu.no/profile/saldo/).
-
-##Tilgang til kontoret
+<TODO> 
+  
+## Tilgang til kontoret
 
 Alle Online-medlemmer kan søke om å få tilgang til kontoret. For å gjøre dette les gjerne [denne artikkelen](/retningslinjertilkontoret) som forteller litt mer om hva som kreves av en/ei som vil få tilgang til kontoret. Søknaden gjøres ved å lese og signere [attachment:409]. Ferdigsignert mal skal sendes til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no)
 
