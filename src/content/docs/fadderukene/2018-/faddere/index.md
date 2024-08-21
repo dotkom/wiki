@@ -21,5 +21,5 @@ Spørsmål eller kommentarer rettes til [charlotte.soderstrom@online.ntnu.no](ma
 |  **M1** | [Erlend Gjelsvik](https://online.ntnu.no/profile/view/erlendgj/) | [Simon Hagen Strand](https://online.ntnu.no/profile/view/kakedrage/) |  |  |  |  |
 |  **M2** | [Andreas Aursand](https://online.ntnu.no/profile/view/aaursand/) | [Claus Bugge](https://online.ntnu.no/profile/view/clausbugge/) | [Lars Møster](https://online.ntnu.no/profile/view/elgeneinar/) |  |  |  |
 |  **M3** | [Camilla Tran](https://online.ntnu.no/profile/view/camlo/) | [Christoffer Lofsberg](https://online.ntnu.no/profile/view/chrlofs/) | [Erik Wiker](https://online.ntnu.no/profile/view/erikwik/) | [Martin Bjerke](https://online.ntnu.no/profile/view/bjerke/) |  |  |
-|  **M4** | [Ingrid Evensen](https://online.ntnu.no/profile/view/ingriev/) | [Jens Omfjord](https://online.ntnu.no/profile/view/jomfjord/) | [Rein Holte-Berg]() |  |  |  |
+|  **M4** | [Ingrid Evensen](https://online.ntnu.no/profile/view/ingriev/) | [Jens Omfjord](https://online.ntnu.no/profile/view/jomfjord/) | Rein Holte-Berg |  |  |  |
 |  **M5** | [Ingvild Gravem](https://online.ntnu.no/profile/view/ingvildlg/) | [Synne Byre](https://online.ntnu.no/profile/view/synnebyre/) |  |  |  |  |

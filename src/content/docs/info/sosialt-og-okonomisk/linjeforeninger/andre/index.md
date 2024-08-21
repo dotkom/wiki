@@ -93,7 +93,7 @@ Tilhørende wikisider
     -   Mange bedrifter betaler linjeforeningen for standplass
     -   Noen av bedriftene betaler ekstra og får holde
         kurs/bedpres/middag
-    -   Vanlig for å tjene penger til ekskursjon, se [karrieredager]()
+    -   Vanlig for å tjene penger til ekskursjon, se karrieredager
 -   **Hovedsponsor**
     -   Sponsoren får en pakke med bedpres, kurs, besøk på ekskursjon
         osv.

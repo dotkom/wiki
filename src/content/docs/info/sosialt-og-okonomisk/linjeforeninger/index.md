@@ -39,7 +39,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [A/F Smørekoppen](http://www.smorekoppen.no) (1929) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991056009) | Produktutvikling og Produksjon | Styrebånd (rød med gullkant) | [Verkstedteknisk 2. etg](https://link.mazemap.com/vBBn8IYX) | M-ord | [Page](http://fb.com/smorekoppen/) | |
 | [Arkitektstudentenes Broderskab](http://broderskabet.no/) (1913) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991596089) | Arkitekt | Styrebånd (gul ytterst, svart innover, lilla stripe i midten) | [Sentralbygg 1](http://use.mazemap.com/#&v=1&dest=5187&desttype=poi) | [A](http://tidsskrifteta.no/) | [Page](http://fb.com/arkitektstudentenesbroderskab) | |
 | [BSF](http://bergstud.no) (1914) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=993555738) | Geologi, TekGeo, PetTek og MatTek | Bergmannsdrakten | [PTS, 116](https://link.mazemap.com/UlxwZIng) | Bergmanden | [Page](http://fb.com/bergstud), [Person](http://fb.com/bergstuderendes.forening) | [Boksalg](http://fb.com/groups/369041746482558/) |
-| [De Høylegerte](http://www.dehoylegerte.no/) (2000) |  | Materialteknologi |  | [Berg]() |  | [Page](https://www.facebook.com/dehoylegerte/) | |
+| [De Høylegerte](http://www.dehoylegerte.no/) (2000) |  | Materialteknologi |  | Berg |  | [Page](https://www.facebook.com/dehoylegerte/) | |
 | [Delta](http://www.deltahouse.no) (1974) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996510352) | Matte, Fysikk, Statistikk | Styrebånd (grønn/sølv med sølvstripe i midten) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7591&desttype=poi) | [Δt](http://www.deltahouse.no/avis) | [Page](http://fb.com/DeltaNTNU) | [Boksalg](http://fb.com/groups/1683020211913714/) |
 |[Elektra](https://www.elektra.io)(2007)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711)| Elektroingeniør (bachelor) | Styrebånd (grønn/marinblått) | [Tapirbygget](https://use.mazemap.com/#v=1&zlevel=4&left=10.4047848&right=10.4064160&top=63.4183039&bottom=63.4179636&campusid=1&sharepoitype=poi&sharepoi=6228) |  | [Page](https://www.facebook.com/elektraNTNU/) | |
 | [Emil](http://emilweb.no) (1998) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991212736) | Energi og miljø | Styrebånd (grønn med gullkant), hatt | [Gamle elektro](http://use.mazemap.com/#&v=1&dest=103&desttype=poi) | Vannmagasinet | [Page](http://fb.com/emilface) | |
@@ -186,7 +186,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Mange bedrifter betaler linjeforeningen for standplass
     -   Noen av bedriftene betaler ekstra og får holde
         kurs/bedpres/middag
-    -   Vanlig for å tjene penger til ekskursjon, se [karrieredager]()
+    -   Vanlig for å tjene penger til ekskursjon, se karrieredager
 -   **Hovedsponsor**
     -   Sponsoren får en pakke med bedpres, kurs, besøk på ekskursjon
         osv.

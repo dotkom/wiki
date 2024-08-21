@@ -52,8 +52,8 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 **Økonomi- og vedtektskvelden 2018 finner sted 18. februar kl. 17 i R9.**
 
 * [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden18)
-* [Budsjett]()
-* [Regnskap]()
+* Budsjett
+* Regnskap
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2018/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/genfors2018/saksforslag)
 * [Referat fra økonomi- og vedtektskvelden 2018](okogved-referat2018)
@@ -62,7 +62,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 * [Dagsorden](https://online.ntnu.no/wiki/online/okogved/dagsorden)
 * [Budsjett](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
-* [Regnskap]()
+* Regnskap
 * [Vedtektsforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/vedtekstforslag)
 * [Saksforslag](https://online.ntnu.no/wiki/online/generalforsamlingen/2017/saksforslag)
 * [Referat fra økonomi- og vedtektskvelden 2017](okogved-referat2017)

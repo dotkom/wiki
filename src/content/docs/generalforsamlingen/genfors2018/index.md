@@ -35,7 +35,7 @@ Om du har en sak du vil at Hovedstyret for perioden 18/19 skal fokusere på, og 
 
 Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen. Det vil si 19. februar 2017. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld]() 18. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
+Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til økonomi- og vedtektskveld 18. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/wiki/online/generalforsamlingen/genfors2018/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 

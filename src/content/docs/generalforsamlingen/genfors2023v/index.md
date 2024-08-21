@@ -25,7 +25,7 @@ Referat Generalforsamlingen 2022: [attachment:838]
 
 ## Regnskap 2022 og budsjett 2023
 
-- Regnskap:  [Regnskap 2022]() 
+- Regnskap:  Regnskap 2022 
 - Budsjett: [Budsjett](https://docs.google.com/spreadsheets/d/1tkO_xNA-wblijGAgjgVx8fPuAHrAJnk1OtVUPp5Ul84/edit?usp=sharing) 
 
 ## Informasjon

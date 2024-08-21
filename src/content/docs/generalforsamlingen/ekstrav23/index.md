@@ -19,7 +19,7 @@ Vi skal godkjenne ny leder av Debug og Appkom
 
 ## Dokumenter fra årets ekstraordinæregeneralforsamling
 
-Referat: [Referat]()
+Referat: Referat
 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter)
