@@ -6,4 +6,4 @@ Golfline er interessegruppen for Onlinere som spiller golf, og ønsker å finne 
 
 Bli med i #golfline på Slack for å få med når ting skjer!
 
-Kontaktpersoner: Anders Robstad og Henrik Giil Liisberg
+Kontaktperson: Frederik Andreas Brunvoll Farstad
