@@ -19,4 +19,4 @@ Sett de tretten maskene på tråden tilbake på pinnene. Strikk opp ni masker p�
 ###Ekstramateriale:
 Mønster for alle komitélogoene ligger også vedlagt til slutt i oppskriften. Disse kan strikkes på innsiden av hånden dersom du ønsker det.
 
-Mønster: [vedlegg 262](/public/attachments/262-Onlinevotter.pdf)
+Mønster: [vedlegg 262](/attachments/262-Onlinevotter.pdf)

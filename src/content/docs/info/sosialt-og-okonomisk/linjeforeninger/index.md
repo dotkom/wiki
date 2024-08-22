@@ -165,7 +165,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Frivillige foreninger/organisasjoner som er åpne for alle 
         studenter med formål om å bidra til positivt studentmiljøet 
         i sin respektive by kan søke.
-    -   Mer informasjon kan bli funnet her [vedlegg 523](/public/attachments/523-Retningslinjer_for_Velferdstingets_sponsormidler.pdf).
+    -   Mer informasjon kan bli funnet her [vedlegg 523](/attachments/523-Retningslinjer_for_Velferdstingets_sponsormidler.pdf).
 
 -   **Studentrådet IE** deler ut 150 000,- i året til prosjekter som gagner hovedsaklig studenter ved IE fakultetet. 
     -   Mer informasjon kan bli funnet [her](https://ie.studentrad.no/2018/04/26/velferdsmidler/).
@@ -335,5 +335,5 @@ Bilder er noe annet enn ved legg, og endres ved å trykke på `Bilder` på høyr
 - Ole Anders Stokker, 15.09.2018
 -->
 
-* [vedlegg 520](/public/attachments/520-Gloshaugenkartet.png) (selve kartet)
-* [vedlegg 521](/public/attachments/521-Gloshaugenkartet.psd) (photoshopfila)
+* [vedlegg 520](/attachments/520-Gloshaugenkartet.png) (selve kartet)
+* [vedlegg 521](/attachments/521-Gloshaugenkartet.psd) (photoshopfila)

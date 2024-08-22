@@ -11,16 +11,16 @@ title: "Generalforsamlingen 2019"
 * [2019 Kandidater](/generalforsamlingen/genfors2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Onlines vedtekter: [vedlegg 635](/public/attachments/635-Onlines_Vedtekter_Signed.pdf)  
-Onlines fonds vedtekter: [vedlegg 637](/public/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
-Referat: [vedlegg 636](/public/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf)
+Onlines vedtekter: [vedlegg 635](/attachments/635-Onlines_Vedtekter_Signed.pdf)  
+Onlines fonds vedtekter: [vedlegg 637](/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat: [vedlegg 636](/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf)
 
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 551](/public/attachments/551-vedtekter.pdf)  
-Onlines fonds vedtekter finner du her: [vedlegg 550](/public/attachments/550-Vedtekter_fond_2018.pdf)  
-Referat fra generalforsamlingen 2018 finner du her: [vedlegg 552](/public/attachments/552-Referat_fra_Onlines_generalforsamling_2018.pdf)  
+Onlines vedtekter finner du her: [vedlegg 551](/attachments/551-vedtekter.pdf)  
+Onlines fonds vedtekter finner du her: [vedlegg 550](/attachments/550-Vedtekter_fond_2018.pdf)  
+Referat fra generalforsamlingen 2018 finner du her: [vedlegg 552](/attachments/552-Referat_fra_Onlines_generalforsamling_2018.pdf)  
 
 ## Regnskap 2018 og budsjett 19/20
 

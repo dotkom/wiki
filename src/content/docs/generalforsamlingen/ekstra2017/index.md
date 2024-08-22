@@ -10,8 +10,8 @@ title: "Ekstraordinær generalforsamling 2017"
 
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 424](/public/attachments/424-vedtekter-signert-av-paraferer.pdf)      
-Referat fra generalforsamlingen 2017 finner du her: [vedlegg 423](/public/attachments/423-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)  
+Onlines vedtekter finner du her: [vedlegg 424](/attachments/424-vedtekter-signert-av-paraferer.pdf)      
+Referat fra generalforsamlingen 2017 finner du her: [vedlegg 423](/attachments/423-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)  
 
 # Budsjett
 
