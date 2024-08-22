@@ -12,7 +12,7 @@ Nåværende medlemmer
 Under er en liste over de medlemmene gruppa har.
 
 
-[image:371 align:right]
+![Bilde 371](../../../../../assets/images/371-image.jpg)
     Vår hymn
 
 - **Leder:** Ellen Bakksjø
@@ -67,4 +67,4 @@ Resten
 Historie
 --------
   Makrellgutta anno 16/17
-[image:522 align:left]
+![Bilde 522](../../../../../assets/images/522-IMG_0218.jpg)

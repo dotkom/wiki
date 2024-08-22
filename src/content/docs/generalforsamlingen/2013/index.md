@@ -9,6 +9,4 @@ title: "Generalforsamlingen 2013"
 
 ## Budsjetter og regnskap
 
-* [attachment:113]
-* [attachment:114]
-* [attachment:115]
+* [vedlegg 115](/public/attachments/115-referat_genfors_2013.pdf)

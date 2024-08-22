@@ -167,7 +167,7 @@ historie.
 
 Cirka 1990 - Online og Delta utga sangboken “Nusse”. Nusse er oppkalt
 etter Norges første elektroniske regnemaskin: [Norsk Universell
-Siffermaskin Selvstyrt Elektronisk](http://no.wikipedia.org/wiki/Norsk\_Universell\_Siffermaskin\_Selvstyrt\_Elektronisk). En kopi av denne sangboken ble funnet på kontoret og er tilgjengelig her: [attachment:137]
+Siffermaskin Selvstyrt Elektronisk](http://no.wikipedia.org/wiki/Norsk\_Universell\_Siffermaskin\_Selvstyrt\_Elektronisk). En kopi av denne sangboken ble funnet på kontoret og er tilgjengelig her: [vedlegg 137](/public/attachments/137-nusse.pdf)
 
 Informatikk ved AVH går i ukatog (UKA 91). Ca. 2min12s inn i [klippet](https://www.youtube.com/watch?v=XxiIYj-1LSc). Utdrag av youtube-klippet
 er lastet opp blant “Files” på denne wiki-en.

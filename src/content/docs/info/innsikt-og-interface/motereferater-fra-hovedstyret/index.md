@@ -340,6 +340,6 @@ Møtereferater
 
 #### Arkiv fra perioden før høst 2014
 
-- Møtereferater fra perioden 2011-2012: [attachment:141]
-- Møtereferater fra perioden 2012-2013: [attachment:142]
-- Møtereferater fra perioden 2013-2014: [attachment:143]
+- Møtereferater fra perioden 2011-2012: [vedlegg 141](/public/attachments/141-HS2011-2012.zip)
+- Møtereferater fra perioden 2012-2013: [vedlegg 142](/public/attachments/142-HS2012-2013.zip)
+- Møtereferater fra perioden 2013-2014: [vedlegg 143](/public/attachments/143-HS2013-2014.zip)

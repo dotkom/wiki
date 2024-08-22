@@ -11,7 +11,7 @@ Sangen er opprinnelig av Otto Nielsen, som studerte ved NTH. Først sett i _Litj
 
 ### **Sangen**
 
-**Noter:** [attachment:578]
+**Noter:** [vedlegg 578](/public/attachments/578-En_øl_i_handa_1.pdf)
 
 Livet er bra!  
 Livet er bra når man bare kan ha  

@@ -10,11 +10,11 @@ For å kunne melde deg på online sine arrangementer på du ha en bruker.
 - Gå inn på mailen du får tilsendt og verifiser kontoen (husk å sjekke spam om du ikke finner mailen). 
 - Gå inn på Min side som du finner ved å trykke på person-ikonet ved siden av brukernavnet ditt i headeren på nettsiden. 
 
-[image:414]
+![Bilde 414](../../../../../assets/images/414-min_profil.PNG)
 
 I navigasjonsmenyen til venstre trykker du på Medlemskap. Her fyller du inn med din studieretning og sender inn søknad. 
 
-[image:415]
+![Bilde 415](../../../../../assets/images/415-medlemskap.PNG)
 
 Obs: du må ha lagt inn stud-mailen (som slutter på @stud.ntnu.no) i profilen for å kunne sende inn medlemssøknad.
 

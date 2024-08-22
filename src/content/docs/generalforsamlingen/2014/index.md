@@ -11,9 +11,7 @@ title: "Generalforsamlingen 2014"
 ---
 
 # Vedlegg
-*  Referat fra generalforsamlingen 2014 [attachment:203]
-* [attachment:116]
-* [attachment:117]
+*  Referat fra generalforsamlingen 2014 [vedlegg 203](/public/attachments/203-genfors2014.pdf)
 
 # Informasjon
 

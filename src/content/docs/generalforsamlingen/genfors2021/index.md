@@ -24,15 +24,15 @@ Passcode: 859489
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter:  [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf)
 
-Onlines fonds vedtekter:  [attachment:764]
+Onlines fonds vedtekter:  [vedlegg 764](/public/attachments/764-Onlines_Fond_Vedtekter_Signed.pdf)
 
-Referat 2021:  [attachment:809]
+Referat 2021:  [vedlegg 809](/public/attachments/809-Genfors_21_referat.pdf)
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [attachment:763]  
-Onlines fonds vedtekter finner du her: [attachment:764]  
-Referat fra generalforsamlingen 2020 finner du her: [attachment:762]
+Onlines vedtekter finner du her: [vedlegg 763](/public/attachments/763-Onlines_vedtekter_signert.pdf)  
+Onlines fonds vedtekter finner du her: [vedlegg 764](/public/attachments/764-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat fra generalforsamlingen 2020 finner du her: [vedlegg 762](/public/attachments/762-Referat_fra_Generalforsamling_2020.pdf)
 
 ## Regnskap 2020 og budsjett 2021
 

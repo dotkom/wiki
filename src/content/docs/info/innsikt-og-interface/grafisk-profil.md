@@ -21,10 +21,10 @@ Hovedreglene for plassering av logo er beskrevet under samt illustrert på de ve
 ### Luft
 Logoen skal alltid ha nok luft rundt seg. Det betyr at den ikke skal stå for nærme andre grafiske elementer slik at den sliter med å skille seg ut. Om logoen står i et hjørne, skal den alltid ha luft under og ved siden av tilsvarende _minst halve_ diameteren til O'en i logoen. Se bildet for demonstrasjon.
 
-[image:683 align:right size:large]
+![Bilde 683](../../../../assets/images/683-Logo_spacing.png)
     Logoplassering for bruk av hele logoen
 
-[image:684 align:right size:small]
+![Bilde 684](../../../../assets/images/684-Single_logo_spacing.png)
     Ikonplassering for bruk av ikon
 
 ### Andre grafiske elementer og logoer
@@ -40,10 +40,10 @@ Om logoen må gjøres stor, pass på at oppløsningen er god nok til at kantene 
 Stilisering av logoen, dvs. endringer på designet for spesifikke formål, er tillatt under visse betingelser. Endringen skal ha et spesifikt formål som tilføyer ny mening til bruken av logoen. Hvis logoen skal endres, må det gjøres på en større skala og i samsvar med et tema eller en stil slik at det tydelig kommer frem _hvorfor_ den er endret. Endringer må gjøres respektfullt og følge øvrige retningslinjer på design, slik at man tydelig ser at dette er en stilisert versjon av logoen. Designet skal også stå i samsvar med Onlines kvalitet. Det er _ikke_ tillatt å gjøre mindre uhensiktsmessige endringer som å bytte farger, legge på skygge, småendre på utforming, flytte lynet, delvis dekke logoen, osv.
 
 # Fargebruk
-[image:685 align:right size:large]
+![Bilde 685](../../../../assets/images/685-Farger.png)
     Lovlig bruk av bakgrunnsfarger bak logo
 
-[image:686 align:right size:large]
+![Bilde 686](../../../../assets/images/686-Farger_feil.png)
     Ulovlig bruk av bakgrunnsfarger bak logo
 
 ## Bakgrunnsfarger
@@ -64,13 +64,13 @@ I tillegg kan det være ønskelig å bruke andre nyanser av blå og oransje på 
 Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste ned kits og enkeltstående bilder nedenfor.
 
 ## Kits
-### [attachment:677 title:"Logokit"] - Inneholder alle logoversjoner på .png og .svg-format
+### [Logokit](/public/attachments/677-Logokit.zip) - Inneholder alle logoversjoner på .png og .svg-format
 
 ## PNG - enkeltbilder
-### [attachment:679 title:"Blå"] - logo
-### [attachment:680 title:"Blå"] - ikon
-### [attachment:681 title:"Hvit"] - logo
-### [attachment:682 title:"Hvit"] - ikon
+### [Blå](/public/attachments/679-Online_bla.png) - logo
+### [Blå](/public/attachments/680-Online_bla_o.png) - ikon
+### [Hvit](/public/attachments/681-Online_hvit.png) - logo
+### [Hvit](/public/attachments/682-Online_hvit_o.png) - ikon
 
 ## SVG - enkeltbilder 
 
@@ -82,7 +82,7 @@ Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste 
 ### Hvit* - ikon
 
 ## Annet
-### [attachment:678 title:"Komitésymboler"] - Inneholder alle komitésymboler på .eps- og png-format
+### [Komitésymboler](/public/attachments/678-Komitésymboler.zip) - Inneholder alle komitésymboler på .eps- og png-format
 
 ## Presentasjonsmal
 Online har også en relativt enkel presentasjonsmal som kan brukes når noen i linjeforeningen skal holde en presentasjon internt eller til eksterne. Denne kan du finne på Drive, i form av Google Presentation og PowerPoint. Hvis du vil bruke den som Theme i Google Drive, kan du følge disse stegene:

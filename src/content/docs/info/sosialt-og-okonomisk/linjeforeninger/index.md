@@ -165,7 +165,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Frivillige foreninger/organisasjoner som er åpne for alle 
         studenter med formål om å bidra til positivt studentmiljøet 
         i sin respektive by kan søke.
-    -   Mer informasjon kan bli funnet her [attachment:523].
+    -   Mer informasjon kan bli funnet her [vedlegg 523](/public/attachments/523-Retningslinjer_for_Velferdstingets_sponsormidler.pdf).
 
 -   **Studentrådet IE** deler ut 150 000,- i året til prosjekter som gagner hovedsaklig studenter ved IE fakultetet. 
     -   Mer informasjon kan bli funnet [her](https://ie.studentrad.no/2018/04/26/velferdsmidler/).
@@ -290,7 +290,7 @@ døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
 tilbake til oss på kontakt@online.ntnu.no
 
-[image:518 align:left]
+![Bilde 518](../../../../../assets/images/518-Gloshaugenkartet.png)
     Gløshaugenkartet
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601
@@ -335,5 +335,5 @@ Bilder er noe annet enn ved legg, og endres ved å trykke på `Bilder` på høyr
 - Ole Anders Stokker, 15.09.2018
 -->
 
-* [attachment:520] (selve kartet)
-* [attachment:521] (photoshopfila)
+* [vedlegg 520](/public/attachments/520-Gloshaugenkartet.png) (selve kartet)
+* [vedlegg 521](/public/attachments/521-Gloshaugenkartet.psd) (photoshopfila)
