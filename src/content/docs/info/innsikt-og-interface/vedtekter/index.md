@@ -15,7 +15,7 @@ Gjeldende vedtekter for Fondet:  [Github](https://github.com/dotkom/Onlines_Fond
 ## Ekskursjonskomiteens vedteker 
 Ekskursjonskomiteens vedtekter ble sist oppdatert 24. september 2020.  
 
-Gjeldende vedtekter for ekskom:[attachment:815 title:"Ekskom vedtekter" size]  
+Gjeldende vedtekter for ekskom:[Ekskom vedtekter](/public/attachments/815-ekskom_vedktekter.pdf)  
 
 ### Komiteenes retningslinjer
 Utover vedtektene har hver komité et sett med retningslinjer. De finnes [her](/info/innsikt-og-interface/retningslinjer/).

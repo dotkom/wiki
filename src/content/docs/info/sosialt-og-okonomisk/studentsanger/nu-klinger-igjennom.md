@@ -16,7 +16,7 @@ I følge en halvnaken Svein-Halvor Halvorsen (på en badstu ikke langt fra gråk
 
 ### **Sangen**
 
-**Noter:** [attachment:577]
+**Noter:** [vedlegg 577](/public/attachments/577-Nu_klinger_igjennem_den_gamle_stad.pdf)
 
 Nu klinger igjennom den gamle stad, på ny en studentersang,  
 og alle mann alle i rekke og rad, svinger opp under begerklang!  

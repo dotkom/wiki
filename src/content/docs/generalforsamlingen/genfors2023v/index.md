@@ -15,13 +15,13 @@ title: "Generalforsamling våren 2023"
 Presentasjon: [Generalforsamling 2023](https://docs.google.com/presentation/d/17-HMuvhAHn0pFBuJEWHEe1OR3LuXiJ1LsygS1bGVNrw/edit?usp=sharing)  
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)    
 Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
-Referat fra genVORS: [attachment:840]  
-Referat 2023:  [attachment:843]	
+Referat fra genVORS: [vedlegg 840](/public/attachments/840-Referat_genVORS_1.pdf)  
+Referat 2023:  [vedlegg 843](/public/attachments/843-Referat_Onlines_generalforsamlingV2023.pdf)	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)   
-Referat Generalforsamlingen 2022: [attachment:838]  
+Referat Generalforsamlingen 2022: [vedlegg 838](/public/attachments/838-Referat_Genfors_H2022_1.pdf)  
 
 ## Regnskap 2022 og budsjett 2023
 

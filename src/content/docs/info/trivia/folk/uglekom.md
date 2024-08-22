@@ -21,7 +21,7 @@ Betegnet av en spesiell årvåkenhet som kun inntreffer en gang hvert år.
 * Erlend K.B. ble utnevnt til ugle på genfors i 2010.
 * Roy Sindre N. ble utnevnt til ugle på genfors i 2009.
 
-[image:218 align:left]
+![Bilde 218](../../../../../assets/images/218-dilbert.gif)
     Uglekom, visuell forklaring
 
 _© 2015 Scott Adams, Inc. Dilbert™ is a trademark of Scott Adams, Inc. This comic strip has been reproduced for fair use purposes in connection with this wiki page on the topic of owling._

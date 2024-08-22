@@ -10,8 +10,6 @@ title: "2012 Vedtektsforslag"
 * [2012 Kandidater til Hovedstyret](/generalforsamlingen/2012/valg) - Er du klar for et verv i Hovedstyret?
 * [2012 Vedtektsforslag](/generalforsamlingen/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2012 Saksforslag](/generalforsamlingen/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [attachment:166]
-* [attachment:167]
 - - -
 
 # §5 Medlemskap

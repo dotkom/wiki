@@ -2,11 +2,11 @@
 title: "Skjemaer"
 ---
 
-[attachment:185 title:"Kjøregodtgjørelse"]
+vedegg 185 (mangler)
 
-[attachment:799 title:"Avtale for utleie av utstyr"]
+[Avtale for utleie av utstyr](/public/attachments/799-Utleiekontrakt_Online.docx.pdf)
 
-[attachment:827 title:"Kjøpsavtale for bruktkjøp"]
+[Kjøpsavtale for bruktkjøp](/public/attachments/827-KjoepsavtaleMal_.pdf)
 
 ## Kvitteringsskjema
 

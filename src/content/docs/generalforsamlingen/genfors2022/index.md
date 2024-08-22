@@ -14,14 +14,14 @@ title: "Generalforsamlingen våren 2022"
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2022](https://docs.google.com/presentation/d/1FrkcYeZrzaAwKnOl6F_Yj9NcrcRok5nhUwZRQhoAu90/edit?usp=sharing)  
 Onlines vedtekter GitHub: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
-Online vedtekter PDF: [attachment:819]  
+Online vedtekter PDF: [vedlegg 819](/public/attachments/819-vedtekter.pdf)  
 Onlines fonds vedtekter:  
-Referat 2022:  [attachment:817]	
+Referat 2022:  [vedlegg 817](/public/attachments/817-Referat-Onlines-generalforsamling-2022.pdf)	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter: [attachment:808]  
-Referat Generalforsamlingen 2021: [attachment:810]  
+Onlines fonds vedtekter: [vedlegg 808](/public/attachments/808-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat Generalforsamlingen 2021: [vedlegg 810](/public/attachments/810-Genfors_21_referat.pdf)  
 
 ## Regnskap 2021 og budsjett 2022
 

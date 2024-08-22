@@ -2,7 +2,7 @@
 title: "Podline"
 ---
 
-[image:506 align:left size:small]
+![Bilde 506](../../../../../assets/images/506-PodlineLogo.png)
 
 Podlines fødsel:
 ------------------

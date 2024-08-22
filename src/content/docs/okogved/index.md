@@ -17,14 +17,14 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 * [Dagsorden](https://docs.google.com/spreadsheets/d/1qeyaBaib49N1UWHiVj5FqUcoujfN0kPGiuQqPCAeBqo/edit?usp=sharing)  
 * [Vedtektsforslag](/generalforsamlingen/genfors2023v/vedtekstforslag)
 * [Saksforslag](/generalforsamlingen/genfors2023v/saksforslag)
-* [attachment:841]
+* [vedlegg 841](/public/attachments/841-Referat_genVORS_1.pdf)
 
 **Økonomi- og vedtektskvelden høsten 2022 finner sted 21. September kl. 16.15 i Verkstedteknisk: VE1.**  
 
 * [Dagsorden](/okogved/dagsorden22h)  
 * [Vedtektsforslag](/generalforsamlingen/genfors2022h/vedtekstforslag)
 * [Saksforslag](/generalforsamlingen/genfors2022h/saksforslag)
-* [attachment:828]
+* [vedlegg 828](/public/attachments/828-Referat_vedtektskveld_høsten_2022.pdf)
 
 **Økonomi- og vedtektskvelden våren 2022 finner sted 01. februar kl. 16.15 i EL6 og digitalt.**  
 
