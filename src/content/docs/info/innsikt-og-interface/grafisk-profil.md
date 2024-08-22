@@ -64,13 +64,13 @@ I tillegg kan det være ønskelig å bruke andre nyanser av blå og oransje på 
 Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste ned kits og enkeltstående bilder nedenfor.
 
 ## Kits
-### [Logokit](/public/attachments/677-Logokit.zip) - Inneholder alle logoversjoner på .png og .svg-format
+### [Logokit](/attachments/677-Logokit.zip) - Inneholder alle logoversjoner på .png og .svg-format
 
 ## PNG - enkeltbilder
-### [Blå](/public/attachments/679-Online_bla.png) - logo
-### [Blå](/public/attachments/680-Online_bla_o.png) - ikon
-### [Hvit](/public/attachments/681-Online_hvit.png) - logo
-### [Hvit](/public/attachments/682-Online_hvit_o.png) - ikon
+### [Blå](/attachments/679-Online_bla.png) - logo
+### [Blå](/attachments/680-Online_bla_o.png) - ikon
+### [Hvit](/attachments/681-Online_hvit.png) - logo
+### [Hvit](/attachments/682-Online_hvit_o.png) - ikon
 
 ## SVG - enkeltbilder 
 
@@ -82,7 +82,7 @@ Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste 
 ### Hvit* - ikon
 
 ## Annet
-### [Komitésymboler](/public/attachments/678-Komitésymboler.zip) - Inneholder alle komitésymboler på .eps- og png-format
+### [Komitésymboler](/attachments/678-Komitésymboler.zip) - Inneholder alle komitésymboler på .eps- og png-format
 
 ## Presentasjonsmal
 Online har også en relativt enkel presentasjonsmal som kan brukes når noen i linjeforeningen skal holde en presentasjon internt eller til eksterne. Denne kan du finne på Drive, i form av Google Presentation og PowerPoint. Hvis du vil bruke den som Theme i Google Drive, kan du følge disse stegene:

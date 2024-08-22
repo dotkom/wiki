@@ -21,8 +21,8 @@ Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppda
 **Hvordan nominere:**  
 Frist for å sende inn nominasjoner er fredag 1. april klokken 17.00. Det vil foregå på følgende måte:
 
-Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([vedlegg 201](/public/attachments/201-Nominasjonsskjema%20Gullblekka.doc)) (et eksempel er  
-fylt ut her([vedlegg 202](/public/attachments/202-Eksempel_på_nominasjon.pdf))). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2016” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Ikke fra andre linjeforeningsaviser.
+Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([vedlegg 201](/attachments/201-Nominasjonsskjema%20Gullblekka.doc)) (et eksempel er  
+fylt ut her([vedlegg 202](/attachments/202-Eksempel_på_nominasjon.pdf))). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2016” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Ikke fra andre linjeforeningsaviser.
 
 Konvolutten leveres i postkassen utenfor Abakus kontoret, fjerde etasjen i Høyskoleringen 3. Det vil bli sendt kvittering når nominasjonene er mottat. Ta kontakt om dere har noen spørsmål.
 

@@ -20,11 +20,11 @@ Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_F
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)   
-Referat Generalforsamlingen Høst 2023: [vedlegg 847](/public/attachments/847-Referat_Onlines_generalforsamling_H2023.pdf)
+Referat Generalforsamlingen Høst 2023: [vedlegg 847](/attachments/847-Referat_Onlines_generalforsamling_H2023.pdf)
 
-Referat fra genVORS: [vedlegg 849](/public/attachments/849-Referat_genVORS_V2024.pdf)
+Referat fra genVORS: [vedlegg 849](/attachments/849-Referat_genVORS_V2024.pdf)
 
-Referat fra Generalforsamling våren 2024: [vedlegg 850](/public/attachments/850-Referat_Onlines_generalforsamling_V2024.pdf)
+Referat fra Generalforsamling våren 2024: [vedlegg 850](/attachments/850-Referat_Onlines_generalforsamling_V2024.pdf)
 
 
 ## Regnskap 2023 og budsjett 2024

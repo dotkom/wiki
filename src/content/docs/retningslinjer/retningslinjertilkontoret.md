@@ -33,4 +33,4 @@ Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lig
 Renholder kommer innom kontoret for å tømme søppel og vaske tirsdager og torsdager, utenom disse dagene er det vårt eget ansvar å tømme søppel og vaske når vi søler noe. Søppeldunker står nede i kjelleren, så det er bare å gå ned med søpla når den begynner å bli full. Helst før den er for full.
 
 # Søke om tilgang
-Frem til vi får et bedre søkesystem skal søknader sendes på e-post til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no) med [vedlegg 409](/public/attachments/409-retningslinjer_for_kontortilgang.pdf) ferdigsignert. Du trenger ingen bedre grunn enn at du er informatiker og har lyst på tilgang!
+Frem til vi får et bedre søkesystem skal søknader sendes på e-post til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no) med [vedlegg 409](/attachments/409-retningslinjer_for_kontortilgang.pdf) ferdigsignert. Du trenger ingen bedre grunn enn at du er informatiker og har lyst på tilgang!

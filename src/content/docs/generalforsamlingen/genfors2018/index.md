@@ -13,10 +13,10 @@ title: "Generalforsamlingen 2018"
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 455](/public/attachments/455-Linjeforeningen_Onlines_Vedtekter_signed.pdf).  
-Onlines fonds vedtekter finner du her: [vedlegg 456](/public/attachments/456-onlinesfondvedtekter.pdf).      
-Referat fra generalforsamlingen 2017 finner du her: [vedlegg 454](/public/attachments/454-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf).  
-Referat fra ekstraordinær generalforsamling 2017 finner du her: [vedlegg 457](/public/attachments/457-Kopi_av_Referat_-_Ekstraordinær_generalforsamling_01.11.17.pdf).  
+Onlines vedtekter finner du her: [vedlegg 455](/attachments/455-Linjeforeningen_Onlines_Vedtekter_signed.pdf).  
+Onlines fonds vedtekter finner du her: [vedlegg 456](/attachments/456-onlinesfondvedtekter.pdf).      
+Referat fra generalforsamlingen 2017 finner du her: [vedlegg 454](/attachments/454-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf).  
+Referat fra ekstraordinær generalforsamling 2017 finner du her: [vedlegg 457](/attachments/457-Kopi_av_Referat_-_Ekstraordinær_generalforsamling_01.11.17.pdf).  
 
 ## Regnskap 2017 og budsjett 18/19
 

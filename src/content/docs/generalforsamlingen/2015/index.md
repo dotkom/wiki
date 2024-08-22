@@ -11,8 +11,8 @@ title: "Generalforsamlingen 2015"
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 
-* Vedtekter: [vedlegg 71](/public/attachments/71-vedtekter.pdf)
-* Referat fra generalforsamlingen 2014: [vedlegg 203](/public/attachments/203-genfors2014.pdf)
+* Vedtekter: [vedlegg 71](/attachments/71-vedtekter.pdf)
+* Referat fra generalforsamlingen 2014: [vedlegg 203](/attachments/203-genfors2014.pdf)
 * Budsjett og regnskap:     
 
     1. https://docs.google.com/spreadsheets/d/1xZBJKfU2GH_BnkOocPEednsOGOOMMqCBE_0PWxIXw3s/edit?usp=sharing

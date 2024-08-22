@@ -6,8 +6,8 @@ title: "Generalforsamlingen 2012"
 * [2012 Kandidater til Hovedstyret](/generalforsamlingen/2012/valg) - Er du klar for et verv i Hovedstyret?
 * [2012 Vedtektsforslag](/generalforsamlingen/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2012 Saksforslag](/generalforsamlingen/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [vedlegg 110](/public/attachments/110-Underskrevet%20referat%20fra%20Generalforsamlingen%202012.PDF)
-* [vedlegg 109](/public/attachments/109-Alle%20budsjett%2012-13.xlsx)
+* [vedlegg 110](/attachments/110-Underskrevet%20referat%20fra%20Generalforsamlingen%202012.PDF)
+* [vedlegg 109](/attachments/109-Alle%20budsjett%2012-13.xlsx)
 
 ### Budsjetter og regnskap:
 

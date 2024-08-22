@@ -12,7 +12,7 @@ title: "Generalforsamlingen 2016"
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter finner du [her](/wiki/71/plugin/attachments/download/71/)  
-Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](/public/attachments/304-Generalforsamlingen2015.pdf)
+Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](/attachments/304-Generalforsamlingen2015.pdf)
 
 # Regnskap 2015 og budsjett 16/17
 
@@ -20,7 +20,7 @@ Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](/public/attach
 [Budsjett 16/17](https://docs.google.com/spreadsheets/d/1Kw7rSxZtq2brddImTsAnO1mZAtr6sm0Q3XoUshNdP0g/edit?usp=sharing)    
 
 # Referat fra årets generalforsamling
-Årets referat finner du her: [vedlegg 335](/public/attachments/335-ReferatfraOnlinesgeneralforsamling2016_signert.pdf)
+Årets referat finner du her: [vedlegg 335](/attachments/335-ReferatfraOnlinesgeneralforsamling2016_signert.pdf)
    
 
 # Informasjon
