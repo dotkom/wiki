@@ -53,7 +53,8 @@ utenforstående skribenter.
 Medlemmer
 ---------
 | År | Leder                   | Medlemmer |
-| --- | --- | --- |
+| --- | --- | --- | 
+| 24/25 | **Tobias Ursin Haugrønning** | Sondre Stokke, Erik Thiis-Evensen, Agnes Aven Suhr, Anh Nguyen Pham, Edvard Hjertvik Aasen, Isabelle Mac Quarrie Nordin, Linn Zhu Yu Grotnes, Sarah Refsdal, Pernille Klarpås, Suman Kaur, Helle Fystro, Cecilia Lie, Karen Skauge, William Fagerstrøm, Lars Tangen-Hestnes, Eline Jåsund, Aurora Meilian Karlsen, Hallvard Vatnar Olsen, Syver Andersen, Miriam Sarpong, Hanne Bussesund, Ingrid Kristiansen|
 | 23/24 | **Markus Johansen** | Henrik Giil Liisberg, Henrik Moe Wæhre, Sondre Stokke, Are Saltnes Tømmerås, Erik Thiis-Evensen, Agnes Aven Suhr, Anh Nguyen Pham, Edvard Hjertvik Aasen, Eskild Øveren, Isabelle Mac Quarrie Nordin, Markus Johansen, Peter Vatnøy, Linn Zhu Yu Grotnes, Sarah Refsdal, Pernille Klarpås, Eskild Sæther, Suman Kaur, Helle Fystro, Cecilia Lie, Tobias Ursin Haugrønning| 
 | 22/23| **Henrik Moe Wæhre** | Henrik Giil Liisberg, Runar Johnsen, Sondre Stokke, Magne Slåtsveen, Sara Pedersen, Are Saltnes Tømmerås, Erik Thiis-Evensen, Agnes Aven Suhr, Anh Nguyen Pham, Edvard Hjertvik Aasen, Elín Arna Sigþórsdóttir, Eskild Øveren, Isabelle Mac Quarrie Nordin, Markus Johansen, Peter Vatnøy, Christina Oftedal| 
 | 22/23 | **Christina Oftedal** | Anniken Syvertsen, Hanne Brynildsrud, Benedicte H. Myrvoll, Henrik Giil Liisberg, Sebastian Ellefsen, Leo Gimre, Henrik Moe Wæhre, Tobias Fall Jakobsen, Runar Johnsen, Sondre Stokke, Bendik Brunvoll, Peder Hanch-Hansen Espen, Magne Slåtsveen, Sara Pedersen, Thea Kvinnegard, Are Saltnes Tømmerås, Simen Hjelle, Erik Thiis-Evensen| 
