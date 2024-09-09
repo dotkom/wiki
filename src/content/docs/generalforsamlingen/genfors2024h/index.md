@@ -4,12 +4,12 @@ title: "Generalforsamlingen Høst 2024"
 
 ## Innhold
 
-- [2024 Høst Forside](/generalforsamlingen/genfors2024v) - Forside
-- [2024 Høst Forretningsorden](/generalforsamlingen/genfors2024v/forretningsorden) - Forretningsorden
-- [2024 Høst Dagsorden](/generalforsamlingen/genfors2024v/dagsorden) - Dagsorden for generalforsamlingen
-- [2024 Høst Halvårsberetninger](/generalforsamlingen/genfors2024v/aarsberetninger) - Halvårsberetninger
-- [2024 Høst Saksforslag](/generalforsamlingen/genfors2024v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-- [2024 Høst Vedtektsforslag](/generalforsamlingen/genfors2024v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2024 Høst Forside](/generalforsamlingen/genfors2024h) - Forside
+- [2024 Høst Forretningsorden](/generalforsamlingen/genfors2024h/forretningsorden) - Forretningsorden
+- [2024 Høst Dagsorden](/generalforsamlingen/genfors2024h/dagsorden) - Dagsorden for generalforsamlingen
+- [2024 Høst Halvårsberetninger](/generalforsamlingen/genfors2024h/aarsberetninger) - Halvårsberetninger
+- [2024 Høst Saksforslag](/generalforsamlingen/genfors2024h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+- [2024 Høst Vedtektsforslag](/generalforsamlingen/genfors2024h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 ## Dokumenter fra årets generalforsamling
 
@@ -30,7 +30,7 @@ Referat fra Generalforsamling våren 2024: [vedlegg 850](/attachments/850-Refera
 ## Regnskap 2024 og budsjett 2025
 
 - Regnskap:
-- Budsjett 2024:
+- Budsjett 2025:
 
 ## Informasjon
 
