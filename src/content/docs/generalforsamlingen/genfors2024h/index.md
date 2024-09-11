@@ -27,10 +27,10 @@ Referat fra genVORS: [Referat](https://docs.google.com/document/d/1SFDt1mpP3yFCW
 
 Referat fra Generalforsamling våren 2024: [vedlegg 850](/attachments/850-Referat_Onlines_generalforsamling_V2024.pdf)
 
-## Regnskap 2024 og budsjett 2025
+## Regnskap 2023 og budsjett 2024
 
 - Regnskap:
-- Budsjett 2025:
+- Budsjett 2024:
 
 ## Informasjon
 
