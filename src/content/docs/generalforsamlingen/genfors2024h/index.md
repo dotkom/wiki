@@ -13,7 +13,7 @@ title: "Generalforsamlingen Høst 2024"
 
 ## Dokumenter fra årets generalforsamling
 
-Presentasjon: [Generalforsamling 2024 Høst]()
+Presentasjon: [Generalforsamling 2024 Høst](https://docs.google.com/presentation/d/1Hpvap35Bl35eRwEqHhjxu04lnCOH-bneTJNeTfvH9zI/edit?usp=sharing)
 
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
@@ -23,14 +23,14 @@ Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fo
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 
-Referat fra genVORS: []()
+Referat fra genVORS: [Referat](https://docs.google.com/document/d/1SFDt1mpP3yFCW29sSKWi7B05r3vZRJJNLV15u1gg9CI/edit?usp=sharing)
 
 Referat fra Generalforsamling våren 2024: [vedlegg 850](/attachments/850-Referat_Onlines_generalforsamling_V2024.pdf)
 
-## Regnskap 2024 og budsjett 2025
+## Regnskap 2023 og budsjett 2024
 
 - Regnskap:
-- Budsjett 2025:
+- Budsjett 2024:
 
 ## Informasjon
 

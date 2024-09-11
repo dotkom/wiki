@@ -13,4 +13,4 @@ title: "Dagsorden Generalforsamlingen Høsten 2024"
 
 # Dagsorden Høsten 2024
 
-[Dagsorden Generalforsamlingen Høsten 2024]()
+[Dagsorden Generalforsamlingen Høsten 2024](https://docs.google.com/spreadsheets/d/1yLDgMPoSpRM4qkWMw72Itk5cWkp73rdnDkCpMLTHmhk/edit?usp=sharing)
