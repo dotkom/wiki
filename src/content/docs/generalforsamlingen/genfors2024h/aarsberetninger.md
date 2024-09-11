@@ -11,8 +11,6 @@ title: "Halvårsberetninger Høsten 2024"
 - [2024 Høst Saksforslag](/generalforsamlingen/genfors2024h/saksforslag) - Alle innsendte saker vil bli tatt opp.
 - [2024 Høst Vedtektsforslag](/generalforsamlingen/genfors2024h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
-[TOC]
-
 ## Hovedstyret
 
 Generelt:
