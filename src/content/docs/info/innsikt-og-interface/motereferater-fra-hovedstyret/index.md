@@ -8,6 +8,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
+- [2024-12-09](2024-12-09) - Budsjettgodkjenning
+- [2024-09-09](2024-09-09) - Stormøte
 - [2024-26-08](2024-26-08) - Ny wiki
 - [2024-19-08](2024-08-19) - Back to school 
 - [2024-06-04](2024-06-05) - Siste møte før sommeren :(
