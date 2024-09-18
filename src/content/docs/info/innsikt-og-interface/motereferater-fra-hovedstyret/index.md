@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Vår 2024
+- [2024-19-09](2024-19-09) - Samarbeid med Abakus, nye signaturer og RFK
 - [2024-12-09](2024-12-09) - Budsjettgodkjenning
 - [2024-09-09](2024-09-09) - Stormøte
 - [2024-04-09](2024-04-09) - Mye immball for tiden
