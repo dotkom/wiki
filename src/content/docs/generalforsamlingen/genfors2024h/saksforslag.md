@@ -19,7 +19,7 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag
 
-## Sak 01: _Tittel på sak_
+## Sak xx: _Tittel på sak_
 
 **Bakgrunn:**
 
@@ -28,3 +28,13 @@ _Bakgrunn for saken_
 **Forslag:**
 
 _Forslaget du ønsker å fremme_
+
+## Sak 01: _Overføre Online sitt overskudd fra 2024 til Ekskom v. Erlend Løvoll Strøm, Ida Tandberg og Fredrik Carsten Hansteen_
+
+**Bakgrunn:**
+
+_Ekskoms hovedinntekt har tidligere kommet fra TechTalks, dette ble fjernet uten å finne en ny inntekstkilde. Uten støtte fra Online får vi kun 1500 kr per person fra NTNU, og resten må dekkes gjennom dugnad. Dette har ført til at ekskursjonen i 2025 er avlyst på grunn av manglende midler._
+
+**Forslag:**
+
+_Overføre Online sitt overskudd fra 2024 til Ekskom._
