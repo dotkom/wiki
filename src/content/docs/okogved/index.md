@@ -8,7 +8,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden Høsten 2024 finner sted 23. September kl. 16.15 i EL6.**
 
-- [Dagsorden]()
+- [Dagsorden](https://docs.google.com/spreadsheets/d/1XZsxTgOCT3vsMQOZ3kRiz6cLrCb5bH50ckQvGgc2Lm8/edit?gid=0#gid=0)
 - [Vedtektsforslag](/generalforsamlingen/genfors2024h/vedtekstforslag)
 - [Saksforslag](/generalforsamlingen/genfors2024h/saksforslag)
 
