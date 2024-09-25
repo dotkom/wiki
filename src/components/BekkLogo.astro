@@ -1,0 +1,31 @@
+---
+import type { Props } from '@astrojs/starlight/props';
+import Default from '@astrojs/starlight/components/SocialIcons.astro';
+
+const lightBekkLogo = "/images/bekk_black.svg";
+const darkBekkLogo = "/images/bekk_white.svg";
+---
+
+<div class="bekklogo">
+  <a href="https://www.bekk.no/">
+    <img src={lightBekkLogo} alt="Bekk Logo" class="logo light-mode" style="height: 40px;"/>
+    <img src={darkBekkLogo} alt="Bekk Logo" class="logo dark-mode" style="height: 40px;"/>
+  </a>
+</div>
+<Default {...Astro.props}><slot /></Default>
+
+<style>
+  .light-mode {
+    display: none;
+  }
+  .dark-mode {
+    display: block;
+  }
+
+  :root[data-theme='light'] .light-mode {
+    display: block;
+  }
+  :root[data-theme='light'] .dark-mode {
+    display: none;
+  }
+</style>
