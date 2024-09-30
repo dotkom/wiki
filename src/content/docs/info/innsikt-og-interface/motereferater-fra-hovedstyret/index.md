@@ -7,15 +7,16 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 Møtereferater
 ------------------  
-### Vår 2024
-
-- [2024-25-09](2024-09-25) - Vedtatt.no, Rekom
-- [2024-19-09](2024-19-09) - Samarbeid med Abakus, nye signaturer og RFK
-- [2024-12-09](2024-12-09) - Budsjettgodkjenning
-- [2024-09-09](2024-09-09) - Stormøte
-- [2024-04-09](2024-04-09) - Mye immball for tiden
-- [2024-26-08](2024-26-08) - Ny wiki
+### Høst 2024
+- [2024-09-30-stormøte](2024-09-30-stormote) - Semesterets andre stormøte
+- [2024-09-25](2024-09-25) - Vedtatt.no, Rekom
+- [2024-09-18](2024-09-18) - Samarbeid med Abakus, nye signaturer og RFK
+- [2024-09-11](2024-09-11) - Budsjettgodkjenning
+- [2024-09-09-stormøte](2024-09-09-stormote) - Semesterets første stormøte
+- [2024-09-04](2024-09-04) - Mye immball for tiden
+- [2024-08-26](2024-08-26) - Ny wiki
 - [2024-19-08](2024-08-19) - Back to school 
+### Vår 2024
 - [2024-06-04](2024-06-05) - Siste møte før sommeren :(
 - [2024-29-04](2024-29-04-stormote) - Rekom og nodekomitédajer
 - [2024-22-04](2024-22-04-stormote) - Stormøte
