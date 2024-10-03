@@ -15,11 +15,27 @@ title: "Halvårsberetninger Høsten 2024"
 
 Generelt:
 
+- Gjennomført opplæring av nye medlemmer i Hovedstyret
+- Holdt tre stormøter
+- Presentert forslag til nye prikkregler
+- Gjennomført økonomi- og vedtektskveld (genVors)
+- Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
+- Arrangert kompilering
+- Arrangert sommerfest for Online i Oslo
+- Gjennomført komiteopptaket høsten 2024
+- Startet opptak av leder og nestleder for jubileumskomiteen
+
 Samarbeid med andre:
 
-Studentpolitisk:
+- Deltatt på møter med IE
+- Deltatt på linjeledermøter hver måned.
+- Representert på diverse jubileum, revyer og gallaer.
 
 Sosialt og kos:
+
+- Hatt styrevors med eksterne og riddere på sjømannsforeningen før immball
+- Representert Online på diverse immball og gallaer
+- Har deltatt på Thilde og Abakus kompilering
 
 ## Arrangementskomiteen
 
