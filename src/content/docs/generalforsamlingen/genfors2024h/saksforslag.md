@@ -29,12 +29,32 @@ _Bakgrunn for saken_
 
 _Forslaget du ønsker å fremme_
 
-## Sak 01: _Overføre Online sitt overskudd fra 2024 til Ekskom v. Erlend Løvoll Strøm, Ida Tandberg og Fredrik Carsten Hansteen_
+## Sak 01: _Overføre Online sitt overskudd fra 2024 til Ekskom med beløp opptil 200 000 kr v. Scott Juvik, Erlend Løvoll Strøm_
 
 **Bakgrunn:**
 
-_Ekskoms hovedinntekt har tidligere kommet fra TechTalks, dette ble fjernet uten å finne en ny inntekstkilde. Uten støtte fra Online får vi kun 1500 kr per person fra NTNU, og resten må dekkes gjennom dugnad. Dette har ført til at ekskursjonen i 2025 er avlyst på grunn av manglende midler._
+_Ekskoms hovedinntekt har tidligere kommet fra TechTalks, dette ble fjernet uten å finne en ny inntektskilde. Uten støtte fra Online får vi kun 1500 kr per person fra NTNU, og resten må dekkes gjennom dugnad. Dette har ført til at ekskursjonen i 2025 er avlyst på grunn av manglende midler._
 
 **Forslag:**
 
-_Overføre Online sitt overskudd fra 2024 til Ekskom._
+Overføre Online sitt overskudd fra 2024 til Ekskom med beløp opptil 200 000 kr.
+
+Målet med denne overføringen er å få nok midler til å slå sammen kullene som uteksamineres i 2025 og 2026 til en felles ekskursjon. For at dette skal være mulig, trengs det støtte for å holde egenandelen lav, gjøre turen attraktiv og sikre at den i det hele tatt kan gjennomføres.
+
+Dette er en midlertidig løsning som gir oss mulighet til å gjennomføre ekskursjonen i 2026, samtidig som vi jobber for å finne en langsiktig og bærekraftig inntektskilde. Dersom ekskursjonen blir avlyst flere år på rad, risikerer vi å miste verdifull erfaringsutveksling, noe som vil gjøre det enda vanskeligere å arrangere fremtidige ekskursjoner. I verste fall kan dette føre til at ekskursjonen legges ned for godt.
+
+## Sak 02: _Overføring av overskudd til neste års budsjett v. Ingrid Kvitnes_
+
+**Bakgrunn:**
+
+**Forslag:**
+
+## Sak 03: _Opprette retningslinjer for Valgkom v. Ådne Børresen_
+
+**Bakgrunn:**
+
+_Med bakgrunn i vår generalforsamling 2024, hvor det på et tidspunkt så ut til å skulle bli et fullt guttestyre, ønsker vi å lære av denne erfaringen. Derfor foreslår vi at generalforsamlingen blir enige om at valgkomitéen skal ha retningslinjer som sier at de skal etterstrebe å rekruttere kandidater av flere kjønn til å stille til hovedstyrets roller. Dette vil øke sannsynligheten for at vi får et styre med et mangfold av perspektiver, noe vi håper bidrar til å skape et mer inkluderende miljø._
+
+**Forslag:**
+
+Det opprettes retningslinjer for Valgkom, hvor det skal stå at “Valgkom skal etterstrebe å rekruttere kandidater av flere kjønn til å stille til Hovedstyrets roller”.
