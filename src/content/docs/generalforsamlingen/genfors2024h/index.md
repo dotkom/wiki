@@ -29,8 +29,8 @@ Referat fra Generalforsamling våren 2024: [vedlegg 850](/attachments/850-Refera
 
 ## Regnskap 2023 og budsjett 2024
 
-- Regnskap:
-- Budsjett 2024:
+- Regnskap: [Regnskap 2023](https://docs.google.com/spreadsheets/d/1SDMZQQKqucxbNElK6pVaiRAG8sI85LRzWBMigFSwONg/edit?usp=sharing)
+- Budsjett 2024: [Budsjett 2024](https://docs.google.com/spreadsheets/d/1yq7CxOgwNkRTKhB6m1lxMWhGFYb6aqDL/edit?usp=sharing&ouid=103665705284637768824&rtpof=true&sd=true)
 
 ## Informasjon
 
