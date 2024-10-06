@@ -43,11 +43,23 @@ Målet med denne overføringen er å få nok midler til å slå sammen kullene s
 
 Dette er en midlertidig løsning som gir oss mulighet til å gjennomføre ekskursjonen i 2026, samtidig som vi jobber for å finne en langsiktig og bærekraftig inntektskilde. Dersom ekskursjonen blir avlyst flere år på rad, risikerer vi å miste verdifull erfaringsutveksling, noe som vil gjøre det enda vanskeligere å arrangere fremtidige ekskursjoner. I verste fall kan dette føre til at ekskursjonen legges ned for godt.
 
-## Sak 02: _Overføring av overskudd til neste års budsjett v. Ingrid Kvitnes_
+## Sak 02: _Overføring av overskudd til neste års budsjett v. Ingrid Kvitnes og Jacob Hagen_
 
 **Bakgrunn:**
 
+_De siste årene har det vært en merkbar nedgang i bedrifters interesse for studentrekruttering på grunn av utfordringer i IT-markedet. Dette har gjort det vanskeligere å sikre inntektene Online budsjetterer for, som vi hovedsakelig får gjennom bedriftsarrangementer, bedriftsprofilering og hovedsamarbeidsavtalen. Hovedsamarbeidsavtalen er en eksklusiv avtale Online har med én bedrift, som er ment til å styrke Online både økonomisk og kulturelt._
+
+_Per i dag har vi hatt en stor del av våre inntekter sikret gjennom hovedsamarbeidsavtalen med Bekk. Denne avtalen utløper ved årsskifte, og Bekk har dessverre besluttet å ikke forlenge samarbeidet grunnet endring av rekrutteringsstrategi. Vi jobber nå aktivt med å finne en ny samarbeidspartner, men det er usikkert om vi vil ha en ny avtale på plass til nyåret, og en eventuell ny avtale kan ha betydelig lavere økonomisk verdi._
+
+_Samtidig har etterspørselen fra bedrifter for studentrekruttering, som nevnt, gått kraftig ned, noe som har ført til betydelig lavere inntekter fra bedriftsarrangementer, som er hovedgrunnen til tidligere kutt i budsjettet._
+
+_Totalt sett vil de tapte inntektene føre til merkbare kutt i neste års budsjett, som vil være betydelig større enn tidligere kutt. Dette vil ramme hele linjeforeningen og spesielt gå ut over det sosiale tilbudet, noe som kan gjøre Online mindre attraktivt og resultere i redusert engasjement og frafall._
+
 **Forslag:**
+
+For å sikre stabil drift og minske kutt i budsjettet, foreslår vi å overføre hele årets overskudd til neste års budsjett.
+
+Hvis vi skulle lykkes med å sikre en ny hovedsamarbeidsavtale til nyåret, der summen av årets overskudd og det nye vederlaget overstiger dagens avtaleverdi, vil resterende overskudd øremerkes fondet. Det praktiske rundt dette vil da presenteres ved vårens generalforsamling.
 
 ## Sak 03: _Opprette retningslinjer for Valgkom v. Ådne Børresen_
 
