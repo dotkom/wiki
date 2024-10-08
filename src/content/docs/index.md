@@ -37,9 +37,10 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 ### [Sosialt & økonomisk](/info/sosialt-og-okonomisk/)
 - [Ny student?](/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
-- [Ny på informatikk](/ny-paa-informatikk/)  - TL;DR av den over. 
-- [Onlines daljer](/daljer) - Oversikt over Online sine daljer
-- [Hvordan bære daljer](/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
+- [Ny på informatikk](/info/ny-paa-informatikk/)  - TL;DR av den over. 
+- [Onlines daljer](/info/daljer) - Oversikt over Online sine daljer
+- [Hvordan bære daljer](/info/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
+- [Særskilt utmerkelse](/info/saerskilt-utmerkelse) - Informasjon om en av de gjeveste prisene som deles ut i Online hvert år
 - [Ditt liv som Onliner](/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
 - [Mat for lange dager på lesesalen](/info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen/) - Her finner du oversikt over take away
 - [Lånekassen](/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
