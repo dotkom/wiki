@@ -52,6 +52,6 @@ Vel møtt!
 
 ## Link til stemmesystem
 
-[https://vedtatt.no/](https://vedtatt.no/)
+[https://vedtatt.online.ntnu.no/](https://vedtatt.online.ntnu.no/)
 
 Du må være tilstede for å ha stemmerett og kunne bli stemmeberettiget.
