@@ -43,7 +43,8 @@ Underholdning på immballet
 
 Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen for arrangementskomiteen var nødt til å holde et underholdningsinnslag på immballet. Godtroende som han var; stod han med bursdagskrone på scenen og sang "Never gonna give you up" av Rick Astley. Siden da har det vært en tradisjon at lederen for arrkom er nødt til underholde på immballet. 
 
-* 2023 - **William Bie Andreassen** danset til sangen "I´m just Ken" fra barbie fimen sammen med Aleksander Obrestad og Sebastian Sole.
+* 2024 - **Ola Elgaaen** danset og spilte saksofon til Sunstroke Project (Epic Sax Guy) & Olia Tira sin sang "Run Away" sammen med Sepanta Ganjei og Jacob Alveberg.
+* 2023 - **William Bie Andreassen** danset til sangen "I´m just Ken" fra barbie filmen sammen med Aleksander Obrestad og Sebastian Sole.
 * 2020 - **Erika Åsberg** danset til Queen sin sang "Don't stop me now" med Alis Wiken Wilson, Karen Dahl Aarhus, Eskil Hognestad og Sindre Langaard.  
 * 2019 - **Alis Wiken Wilson** danset til Gloria Gaynor sin sang "I Will Survive" med Erika Åsberg, Karen Dahl Aarhus, Eskil Hognestad og Anders Bergesen.  
 * 2018 - **Johannes Kvamme** danset til Stiffi sin sang "Respect" med Alis Wiken Wilson, Erika Åsberg, Eskil Hognestad og Eivind Solberg Rydningen.  
@@ -73,6 +74,7 @@ Da Martin var arrkomleder i 2012 ble han lurt av styret til å tro at lederen fo
 
 |År   | Medlemmer |
 | --- | --------- |  
+|2024 - 2025| **Ola Elgaaen(L)**, Jacob Alveberg(N), Edvin Aamot Stava(Ø), Ingeborg Elly Skori-Holm (S), Hermann Rødseth Theiman, Felix Torgersen Berner, Maiken Lie, Helena Dypvik Skants, Sebastian Sole (V), Andrea Seglem Sandberg, Brendan Kennedy, Malin Gustavsen, William Bie, Sepanta Jamshid Ganjei, Sofie Tessem Wang, Emma Felicia Weiby, Karoline Helle, Lars Magne Stangeland, Maren Nodenes-Fimland, Oscar Olai Grande, Synne Lien Arvesen, Fabian Christensson|
 |2023 - 2024| **William Bie(L)**, Jacob Alveberg(HS), Hermann Rødseth Theiman(Ø), Felix Torgersen Berner (N), Maiken Lie, Sebastian Sole, Åse Merethe Wilhelmsen, Andrea Seglem Sandberg, Brendan Kennedy, Jonas Lavik, Jacob Alveberg, Malin Gundersen, Malin Gustavsen, Ingeborg Elly Skori-Holm, Ola Elgaaen, Sepanta Ganjei, Sofie Tessem Wang, Emma Felicia Weiby|
 |2022 - 2023| **Helena Dypvik Skants(L)**, Ingeborg Elly Skori-Holm (HS), Idunn Stabell (N, Ø), Karen Dahl Aarhus, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Maiken Lie, Sebastian Sole, Sindre Langaard, Åse Merethe Wilhelmsen, Andrea Seglem Sandberg, Brendan Kennedy, Jonas Lavik, Jacob Alveberg, Malin Gundersen, Malin Gustavsen, William Bie|
 |2021 - 2022| **Åse Merethe Wilhelmsen(L)**,  William Andersson (HS), Maiken Lie (N, Ø), Eskil Hognestad (P), Karen Dahl Aarhus,  Svenn Grønbeck, Anders Bergesen, Alis Wiken Wilson, Erika Åsberg, Sondre Kanstad, Aleksander Obrestad, Felix Berner, Victoria Simensen, Helena Skants|
