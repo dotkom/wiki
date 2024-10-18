@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2024
+- [2024-10-18](2024-10-18) - Post genfors møte
 - [2024-10-09](2024-01-09) - Snart generalforsamling, yey
 - [2024-09-30-stormøte](2024-09-30-stormote) - Semesterets andre stormøte
 - [2024-09-25](2024-09-25) - Vedtatt.no, Rekom
