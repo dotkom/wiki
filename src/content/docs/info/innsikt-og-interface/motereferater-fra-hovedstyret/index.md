@@ -9,7 +9,8 @@ Møtereferater
 ------------------  
 ### Høst 2024
 - [2024-10-18](2024-10-18) - Post genfors møte
-- [2024-10-09](2024-01-09) - Snart generalforsamling, yey
+- [2024-10-09](2024-10-09) - Snart generalforsamling, yey
+- [2024-10-02](2024-10-02) - Legeerklæring og progging med Abakus
 - [2024-09-30-stormøte](2024-09-30-stormote) - Semesterets andre stormøte
 - [2024-09-25](2024-09-25) - Vedtatt.no, Rekom
 - [2024-09-18](2024-09-18) - Samarbeid med Abakus, nye signaturer og RFK
