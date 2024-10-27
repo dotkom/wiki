@@ -16,7 +16,8 @@ title: "Generalforsamlingen Høst 2024"
 Presentasjon: [Generalforsamling 2024 Høst](https://docs.google.com/presentation/d/1Hpvap35Bl35eRwEqHhjxu04lnCOH-bneTJNeTfvH9zI/edit?usp=sharing)
 
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
+Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
+
 Referat Høst 2024: [Referat](/attachments/851-Referat_Onlines_generalforsamling_H2024.pdf)
 
 ## Onlines vedtekter og referat fra forrige generalforsamling
