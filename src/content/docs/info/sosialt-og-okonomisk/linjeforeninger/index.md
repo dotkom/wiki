@@ -42,7 +42,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [De Høylegerte](http://www.dehoylegerte.no/) (2000) |  | Materialteknologi |  | Berg |  | [Page](https://www.facebook.com/dehoylegerte/) | |
 | [Delta](http://www.deltahouse.no) (1974) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996510352) | Matte, Fysikk, Statistikk | Styrebånd (grønn/sølv med sølvstripe i midten) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7591&desttype=poi) | [Δt](http://www.deltahouse.no/avis) | [Page](http://fb.com/DeltaNTNU) | [Boksalg](http://fb.com/groups/1683020211913714/) |
 |[Elektra](https://www.elektra.io)(2007)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991107711)| Elektroingeniør (bachelor) | Styrebånd (grønn/marinblått) | [Tapirbygget](https://use.mazemap.com/#v=1&zlevel=4&left=10.4047848&right=10.4064160&top=63.4183039&bottom=63.4179636&campusid=1&sharepoitype=poi&sharepoi=6228) |  | [Page](https://www.facebook.com/elektraNTNU/) | |
-| [Emil](http://emilweb.no) (1998) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991212736) | Energi og miljø | Styrebånd (grønn med gullkant), hatt | [Gamle elektro](http://use.mazemap.com/#&v=1&dest=103&desttype=poi) | Vannmagasinet | [Page](http://fb.com/emilface) | |
+| [Emil](http://emilntnu.no) (1998) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991212736) | Energi og miljø | Styrebånd (grønn med gullkant), hatt | [Gamle elektro](http://use.mazemap.com/#&v=1&dest=103&desttype=poi) | Vannmagasinet | [Page](http://fb.com/emilface) | |
 | [HC](http://www.chemie.no) (1915) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=990833761) | IndKjemi og BioTek | Styrebånd (gul/sort) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7588&desttype=poi) | Sugepumpen | [Page](http://fb.com/HoiskolensChemikerforening) | [Boksalg](https://www.facebook.com/groups/420596124675473/about/) |
 | [H.M. Aarhønen](http://aarhonen.no) (1913) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=890497292) | Bygg | Styrebånd (lilla/hvit/grønn) | [Byggteknisk](https://link.mazemap.com/gtZtu7dC) | Spikers Kårner | [Page](http://fb.com/Aarhonen) | |
 | [Intro](http://introntnu.no) (2021) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=927292920) | Forkurs for ingeniør- og sivilingeniørutdanning | Styrebånd (oransje/marineblått/blått) |  |  | [Page](http://fb.com/IntroNTNU) |  |
@@ -223,9 +223,9 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
 , [Elektra](http://elektra.io)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilweb.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
+    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilntnu.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/the-lubricators/)
-    -   Storband: [Emil](http://emilweb.no)
+    -   Storband: [Emil](http://emilntnu.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.no/)
     -   Gutte-/jentekor: [BSF](http://bergstud.no), [Placebo](http://org.ntnu.no/placebo), [Timini](http://timini.no)
     -   Korps: [BSF](http://bergstud.no)
@@ -295,7 +295,7 @@ tilbake til oss på kontakt@online.ntnu.no
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601
   [RomRes]: http://romres.ntnu.no/
-  [Emil]: http://emilweb.no/
+  [Emil]: http://emilntnu.no/
   [Smørekoppen]: http://www.smorekoppen.no
   [HC]: http://www.hc.ntnu.no
   [Omega]: http://omega.ntnu.no
@@ -309,7 +309,7 @@ tilbake til oss på kontakt@online.ntnu.no
   [Abakus]: http://abakus.no
   [A/F Smørekoppen]: http://www.smorekoppen.no
   [1]: http://aarhonen.no
-  [Emil]: http://emilweb.no
+  [Emil]: http://emilntnu.no
   [Omega]: http://omega.ntnu.no
   [Placebo]: http://org.ntnu.no/placebo
   [Alf]: http://org.ntnu.no/alf
