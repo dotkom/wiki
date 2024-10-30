@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------  
 ### Høst 2024
+- [2024-10-30](2024/2024-10-30) - HSP, og budsjett
 - [2024-10-23](2024/2024-10-23) - Årboktema og velkom-opptak
 - [2024-10-18](2024/2024-10-18) - Post genfors møte
 - [2024-10-09](2024/2024-10-09) - Snart generalforsamling, yey
