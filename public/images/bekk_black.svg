@@ -3,7 +3,14 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 510.2 226.8" style="enable-background:new 0 0 510.2 226.8;" xml:space="preserve">
 <style type="text/css">
-	
+    .st0 {
+        fill: #000; /* Standard farge for lys modus */
+    }
+    @media (prefers-color-scheme: dark) {
+        .st0 {
+            fill: #fff; /* Farge for mørk modus */
+        }
+    }
 </style>
 <path class="st0" d="M136.4,122.4c4.8,6,7.3,13.6,7.3,22.7c0,6.6-1.5,12.7-4.4,18.5c-2.9,5.8-7.9,10.5-14.8,14.3s-15.9,5.6-27.1,5.6
 	H44.7V43.8h48.6c16.7,0,28.6,3.7,35.7,11c7.2,7.3,10.7,16.1,10.7,26.2c0,7-2,13.2-6,18.7c-4,5.5-9.8,9.4-17.4,11.6
