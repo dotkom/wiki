@@ -56,7 +56,7 @@ const getSidebar = (rawSlug = "", first = true) => {
 
 	const children = directories.map((directory) => getSidebar(`${slug}/${directory}`, false));
 
-	const items = [index, ...parsedFiles, ...children.flat()].flat();
+	const items = [index, ...children.flat(), ...parsedFiles].flat();
 
 	if (first) {
 		return items;
