@@ -36,7 +36,7 @@ const getSidebar = (rawSlug = "", first = true) => {
 				return [files, [...directories, item]];
 			}
 
-			if (item === "index.md" || !item.endsWith(".md")) {
+			if (item === "index.md") {
 				return [files, directories];
 			}
 
@@ -51,7 +51,7 @@ const getSidebar = (rawSlug = "", first = true) => {
 		const content = readFile(`${path}/${file}`);
 		const title = getTitle(content);
 
-		return { label: title, slug: `${slug}/${file.replace(".md", "")}` };
+		return { label: title, slug: `${slug}/${file.replace(/\.mdx?/, "")}` };
 	});
 
 	const children = directories.map((directory) => getSidebar(`${slug}/${directory}`, false));
