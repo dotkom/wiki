@@ -15,8 +15,8 @@ const readFile = (filePath) => {
 	return fs.readFileSync(filePath, "utf-8");
 };
 
-const getTitle = (markdownFileContent) => {
-	const match = markdownFileContent.match(TITLE_REGEX);
+const getTitle = (string) => {
+	const match = string.match(TITLE_REGEX);
 
 	return match?.groups?.title ?? null;
 };
