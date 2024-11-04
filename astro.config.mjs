@@ -7,7 +7,7 @@ const TITLE_REGEX = /^-{3}\r?\ntitle:\s(?<tick>["'`])(?<title>.+)\k<tick>\s*\r?\
 
 const BASE_PATH = "src/content/docs";
 
-const getMarkdownFileContent = (filePath) => {
+const readFile = (filePath) => {
 	if (!fs.existsSync(filePath)) {
 		return null;
 	}
@@ -25,7 +25,7 @@ const getSidebar = (rawSlug = "", first = true) => {
 	const slug = rawSlug.replace(BOUNDRY_SLASHES_REGEX, "");
 	const path = `${BASE_PATH}/${slug}`;
 
-	const indexContent = getMarkdownFileContent(`${path}/index.md`);
+	const indexContent = readFile(`${path}/index.md`);
 	const label = indexContent ? getTitle(indexContent) : slug.split("/").pop();
 
 	const [files, directories] = fs.readdirSync(path).reduce(
@@ -48,7 +48,7 @@ const getSidebar = (rawSlug = "", first = true) => {
 	const index = indexContent ? { label, slug, badge: { text: "index", class: "badge" } } : [];
 
 	const parsedFiles = files.map((file) => {
-		const content = getMarkdownFileContent(`${path}/${file}`);
+		const content = readFile(`${path}/${file}`);
 		const title = getTitle(content);
 
 		return { label: title, slug: `${slug}/${file.replace(".md", "")}` };
