@@ -28,8 +28,6 @@ const getSidebar = (rawSlug = "", first = true) => {
 	const indexContent = getMarkdownFileContent(`${path}/index.md`);
 	const label = indexContent ? getTitle(indexContent) : slug.split("/").pop();
 
-	const index = indexContent ? { label, slug, badge: { text: "index", class: "badge" } } : [];
-
 	const [files, directories] = fs.readdirSync(path).reduce(
 		([files, directories], item) => {
 			const itemPath = `${path}/${item}`;
@@ -46,6 +44,8 @@ const getSidebar = (rawSlug = "", first = true) => {
 		},
 		[[], []]
 	);
+
+	const index = indexContent ? { label, slug, badge: { text: "index", class: "badge" } } : [];
 
 	const parsedFiles = files.map((file) => {
 		const content = getMarkdownFileContent(`${path}/${file}`);
@@ -93,7 +93,6 @@ export default defineConfig({
 			lastUpdated: true,
 			customCss: ["./src/styles/custom.css"],
 			editLink: { baseUrl: "https://github.com/dotkom/wiki/edit/main/" },
-
 			social: {
 				facebook: "https://facebook.com/LinjeforeningenOnline",
 				instagram: "https://www.instagram.com/online_ntnu/",
