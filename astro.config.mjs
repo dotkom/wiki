@@ -3,7 +3,7 @@ import starlight from "@astrojs/starlight";
 import fs from "node:fs";
 
 const BOUNDRY_SLASHES_REGEX = /^\/|\/$/g;
-const TITLE_REGEX = /^-{3}\r?\ntitle:\s(?<tick>["'`])(?<title>.+)\k<tick>\s*\r?\n/;
+const TITLE_REGEX = /^-{3}\r?\ntitle:\s(?<tick>["'`])(?<title>.+)\k<tick>\s*\r?\n-{3}/;
 
 const BASE_PATH = "src/content/docs";
 
@@ -21,7 +21,7 @@ const getTitle = (markdownFileContent) => {
 	return match?.groups?.title ?? null;
 };
 
-const getSidebar = (rawSlug = "", collapseFirst = false) => {
+const getSidebar = (rawSlug = "", first = true) => {
 	const slug = rawSlug.replace(BOUNDRY_SLASHES_REGEX, "");
 	const path = `${BASE_PATH}/${slug}`;
 
@@ -54,11 +54,15 @@ const getSidebar = (rawSlug = "", collapseFirst = false) => {
 		return { label: title, slug: `${slug}/${file.replace(".md", "")}` };
 	});
 
-	const children = directories.map((directory) => getSidebar(`${slug}/${directory}`, true));
+	const children = directories.map((directory) => getSidebar(`${slug}/${directory}`, false));
 
 	const items = [index, ...parsedFiles, ...children.flat()].flat();
 
-	return [{ label, collapsed: collapseFirst, items }];
+	if (first) {
+		return items;
+	}
+
+	return [{ label, collapsed: true, items }];
 };
 
 // https://astro.build/config
