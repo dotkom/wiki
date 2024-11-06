@@ -27,14 +27,3 @@
 	--sl-color-gray-7: #f7f6f4;
 	--sl-color-black: #ffffff;
 }
-
-.badge {
-	background-color: transparent;
-	border-color: var(--sl-color-gray-5);
-	color: var(--sl-color-gray-3);
-}
-
-a[aria-current="page"] .badge {
-	border-color: var(--sl-color-accent-low);
-	color: var(--sl-color-accent-low);
-}
