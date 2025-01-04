@@ -14,6 +14,6 @@ title: "Dagsorden Generalforsamlingen Våren 2025"
 
 # Dagsorden våren 2025
 
-[Dagsorden Generalforsamlingen våren 2025]()
+[Dagsorden Generalforsamlingen våren 2025](https://docs.google.com/spreadsheets/d/1aY5vMZiPwSmhkDX-TmXLkF-p9tDJIIJeQ9xVsjvI7EY/edit?usp=sharing)
 
 Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.

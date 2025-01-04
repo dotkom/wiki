@@ -14,7 +14,7 @@ title: "Generalforsamlingen Vår 2025"
 
 ## Dokumenter fra årets generalforsamling
 
-Presentasjon: [Generalforsamling 2025 Vår]()
+Presentasjon: [Generalforsamling 2025 Vår](https://docs.google.com/presentation/d/1oOk3tX0apysQ3rkem1Q48V9zHd-uFPHXheDzIqJnKsY/edit?usp=sharing)
 
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
@@ -25,11 +25,11 @@ Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Ve
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Referat Generalforsamlingen Høsten 2024: [vedlegg 851](/attachments/851-Referat_Onlines_generalforsamling_H2024.pdf)
 
-Referat fra Generalforsamling Våren 2025: [vedlegg x]()
+Referat fra Generalforsamling Våren 2025: [Live referat](https://docs.google.com/document/d/11OzQwg42CwuHX4Q1f7kdJESPVnU3WyauuC2G9kf3-04/edit?usp=sharing)
 
 ## Regnskap 2024 og budsjett 2025
 
-- Regnskap: [Regnskap]() TODO
+- Regnskap: [Regnskap]() TODO legge til link
 - Budsjett 2025: [Budsjett](https://docs.google.com/spreadsheets/d/1A9JnuHbZ0hZxJACuQ_WWHXLQQR4AV9iY3BccLnROTEw/edit?gid=1647721186#gid=1647721186)
 
 ## Informasjon

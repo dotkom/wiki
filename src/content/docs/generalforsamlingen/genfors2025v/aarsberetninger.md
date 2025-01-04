@@ -12,8 +12,6 @@ title: "Halvårsberetninger våren 2025"
 - [2025 Vår Vedtektsforslag](/generalforsamlingen/genfors2025v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 - [2025 Vår Kandidater](/generalforsamlingen/genfors2025v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
-[TOC]
-
 ## Hovedstyret
 
 Generelt:
