@@ -87,9 +87,6 @@ export default defineConfig({
 				light: "./src/assets/img/online_bla_o.svg",
 				dark: "./src/assets/img/online_hvit_o.svg",
 			},
-			components: {
-				SocialIcons: "./src/components/BekkLogo.astro",
-			},
 			lastUpdated: true,
 			customCss: ["./src/styles/custom.css"],
 			editLink: { baseUrl: "https://github.com/dotkom/wiki/edit/main/" },
