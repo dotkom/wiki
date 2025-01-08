@@ -38,9 +38,9 @@ Referat fra Generalforsamling Våren 2025: [Live referat](https://docs.google.co
 
 **Når:** 3. mars 2025, kl.16:15
 
-**Hvor:** TODO
+**Hvor:** S5, Sentralbygg 2
 
-Generalforsamlingen Høsten 2025 finner sted **3.mars på TODO**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen.
+Generalforsamlingen Høsten 2025 finner sted **3.mars i S5, Sentralbygg 2**. Alle medlemmer av Online er hjertelig velkommen til å delta og påvirke veien videre for linjeforeningen.
 
 Om du har en sak du vil at Hovedstyret for perioden 25/26 skal fokusere på, og ønsker å ha med deg resten av medlemmene på dette, må du fremme et saksforslag. Du kan alltids sende en e-post til hovedstyret på [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) om du har tilbakemeldinger eller meninger.
 
