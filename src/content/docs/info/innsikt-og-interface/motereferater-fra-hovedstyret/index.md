@@ -6,9 +6,12 @@ Fra og med hovedstyremøtet 28. september 2011 begynte Hovedstyret å legge ut m
 Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er fjernet.  
 
 Møtereferater
-------------------  
-### Høst 2024
+------------------ 
+### Vår 2025
 - [2025-01-13](2025/2025-01-13) - Første møte etter nyttår!
+
+### Høst 2024
+
 - [2024-11-20](2024/2024-11-20) - Ferien nærmer seg
 - [2024-11-13](2024/2024-11-13) - Litt FIF og snart julebord
 - [2024-11-06](2024/2024-11-06) - Særskilt og økonomi
