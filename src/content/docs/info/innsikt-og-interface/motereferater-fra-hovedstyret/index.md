@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------ 
 ### Vår 2025
-- [2025-01-14](2025/2025-01-14-stormote.md) - Semesterets første stormøte
+- [2025-01-14](2025/2025-01-14-stormote) - Semesterets første stormøte
 - [2025-01-13](2025/2025-01-13) - Første møte etter nyttår!
 
 ### Høst 2024

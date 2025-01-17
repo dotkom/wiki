@@ -11,7 +11,7 @@ Oppmelding i emner
 
 Bortsett fra visse adgangsbegrensede emner kan du stort sett melde deg
 opp i hva du vil via **StudWeb**. Følg med på oppmeldingsfristen, denne
-er gjerne **15 september på høsten**, og  **1. februar på
+er gjerne **1. september på høsten**, og  **1. februar på
 våren**.
 
 Avmelding i emner

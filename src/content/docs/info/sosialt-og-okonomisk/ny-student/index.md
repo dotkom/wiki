@@ -62,7 +62,7 @@ her, trenger du fødselsnummeret ditt og en PINkode som du har fått i et
 av brevene fra NTNU. Slik gjør du:
 
 -   Bekreft utdanningsplanen (slapp av, fagvalgene kan du endre på helt
-    frem til 15. september).
+    frem til 1. september).
 -   Eksamensmeld og undervisningsmeld deg i alle fagene
     (fagkombinasjonen som er lagt inn som standard oppfyller alle
     kravene hvertfall for de to første semestrene).
