@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------ 
 ### Vår 2025
+- [2025-01-27](2025/2025-01-27) - Opptaket er i gang og K2K vel gjennomført 
 - [2025-01-20](2025/2025-01-20) - Rolig start på nyåret
 - [2025-01-14-stormøte](2025/2025-01-14-stormote) - Semesterets første stormøte
 - [2025-01-13](2025/2025-01-13) - Første møte etter nyttår!
