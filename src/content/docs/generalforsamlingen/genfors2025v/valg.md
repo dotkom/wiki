@@ -22,10 +22,10 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-- _Leder:_ Ola Munthe Vassbotn
+- _Leder:_ Ola Munthe Vassbotn, Lara Jacobsen, William Fagerstrøm
 - _Nestleder:_
 - _Økonomiansvarlig:_
-- _3 Styremedlemmer:_
+- _3 Styremedlemmer:_ Andrej Lazic
 
 **De som har meldt interesse til Fondstyret er:**
 
