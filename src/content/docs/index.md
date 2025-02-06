@@ -22,7 +22,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Retningslinjer](/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
 - [Onlinepotten](/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
-- [Onlines fond](/info/innsikt-og-interface/onlines-fond/) - Informasjon om Onlines fond
+- [Onlines fond](https://onlinefondet.no) - Informasjon om Onlines fond
 - [Budsjett](/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
 - [Generalforsamlingen](/generalforsamlingen) - Informasjon om Onlines generalforsamling
 
