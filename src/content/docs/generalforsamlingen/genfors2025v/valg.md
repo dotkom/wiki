@@ -35,7 +35,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Valgkomiteen er:**
 
-- _Kandidater:_ Frederik Andreas Brunvoll Farstad,
+- _Kandidater:_ Frederik Andreas Brunvoll Farstad, Brage Baugerød
 
 **De som skal godkjennes som komitéledere er:**
 
