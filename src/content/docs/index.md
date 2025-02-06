@@ -17,12 +17,12 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Grafisk profil](/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Nodekomiteer](/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
+- [Onlines fond](https://onlinefondet.no) - Informasjon om Onlines fond
 - [Grupper under Online](/grupper-under-online/)  - Output, Realfagskjelleren, Datakameratene, Debug
 - [Interessegrupper](/info/innsikt-og-interface/interessegrupper/) - Liste over eksisterende interessegrupper.
 - [Retningslinjer](/info/innsikt-og-interface/retningslinjer/) - Retningslinjer for Onlines komiteer
 - [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
 - [Onlinepotten](/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
-- [Onlines fond](https://onlinefondet.no) - Informasjon om Onlines fond
 - [Budsjett](/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
 - [Generalforsamlingen](/generalforsamlingen) - Informasjon om Onlines generalforsamling
 
