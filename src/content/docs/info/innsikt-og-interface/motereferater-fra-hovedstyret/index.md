@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------ 
 ### Vår 2025
+- [2025-02-05](2025/2025-02-05-stormote) - Semesterets andre stormøte
 - [2025-02-03](2025/2025-02-03) - Snart genfors og bedkom er på besøk
 - [2025-01-27](2025/2025-01-27) - Opptaket er i gang og K2K vel gjennomført 
 - [2025-01-20](2025/2025-01-20) - Rolig start på nyåret
