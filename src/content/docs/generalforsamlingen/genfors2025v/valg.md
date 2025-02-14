@@ -43,10 +43,10 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Arrkomleder:_
 - _Backlogleder:_
 - _Bankomleder:_
-- _Bedkomleder:_
+- _Bedkomleder:_ Live Stamnes Dyrland
 - _Dotkomleder:_
 - _Debug:_
-- _Fagkomleder:_
+- _Fagkomleder:_ Ailin Tinglum
 - _FeminIT-leder:_
 - _OIL-leder:_
 - _Prokomleder:_
