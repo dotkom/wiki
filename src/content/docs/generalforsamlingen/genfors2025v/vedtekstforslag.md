@@ -30,3 +30,25 @@ _Gammel vedtekt_
 
 Til:  
 _Ny vedtekt_
+
+## Vedtektsforslag 02: Adgang for andre til å bli fullverdig medlem - Jo Gramnæs Tjernshaugen
+
+**Bakgrunn**:
+
+_Slik vedtektene er i dag kan man søke om å være "ikke-sosialt" medlem selv om man ikke går informatikk. Dette kan bryte med kontrakter med bedrifter, og bør ikke være nødvendig da sosiale medlemmer skal ha alle de samme rettighetene som ordinære medlemmer dersom det ikke er spesielle omstendigheter som sier noe annet._
+
+**Stryke _vedtekt §3.5 Adgang for andre til å bli fullverdig medlem_**
+
+Fra:
+
+_**§3.5 Adgang for andre til å bli fullverdig medlem**_
+
+_Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan fritt returnere til denne ved endt engasjement i Hovedstyret:_
+
+- _Leder_
+- _Nestleder_
+- _Økonomiansvarlig_
+
+Til:
+
+_Stryke §3.5 i sin helhet_
