@@ -43,11 +43,7 @@ Fra:
 
 _**§3.5 Adgang for andre til å bli fullverdig medlem**_
 
-_Dersom et komitémedlem blir valgt til et av følgende hovedstyreverv vil medlemmet automatisk få permisjon fra sin komité, og kan fritt returnere til denne ved endt engasjement i Hovedstyret:_
-
-- _Leder_
-- _Nestleder_
-- _Økonomiansvarlig_
+_På spesielt grunnlag kan Hovedstyret, ved 2/3 kvalifisert flertall, tillate andre studenter å bli fullverdig medlem._
 
 Til:
 
