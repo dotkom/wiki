@@ -31,6 +31,22 @@ _Gammel vedtekt_
 Til:  
 _Ny vedtekt_
 
+## Vedtektsforslag 01: Fjerne redaksjonen - Sondre Stokke
+
+**Bakgrunn**:
+
+**Stryke _vedtekt §4.4.1 Redaksjonen_**
+
+Fra:
+
+_**§4.4.1 Redaksjonen**_
+
+_Gruppens hovedoppgave er å gi ut linjeforeningens avis. Redaktøren står fritt fra linjeforeningen, men er underlagt de retningslinjer og avtaler som finnes mellom redaksjonen og linjeforeningen. Redaktøren velger selv redaksjonsmedlemmer, også blant personer utenfor linjeforeningen. Redaksjonsmedlemmer som ikke innfrir krav til medlemskap i linjeforeningen, som definert under §3, er ikke medlemmer av linjeforeningen._
+
+Til:
+
+_Stryke §4.4.1 i sin helhet_
+
 ## Vedtektsforslag 02: Adgang for andre til å bli fullverdig medlem - Jo Gramnæs Tjernshaugen
 
 **Bakgrunn**:
