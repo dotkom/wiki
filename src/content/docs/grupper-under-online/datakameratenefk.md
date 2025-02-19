@@ -26,7 +26,8 @@ Vi har også lagfester hvert semester på Abakus’ studentkjeller LaBamba. Info
 
 ### Kvinneavdelingen 
 
-Kvinneavdelingen ble opprettet i 2011, og har et fotballag som spiller 7’er-fotball i bedriftsserien for kvinner i Trondheim, sammen med flere andre studentlag. Laget består av jenter fra hele IME-fakultetet, og vi håper på å kunne være med på å skape bedre bekjentskaper på tvers av linjene.  
+Kvinneavdelingen ble opprettet i 2011, og har et fotballag som spiller både 5-er fotball i innendørsserien og 7’er-fotball i bedriftsserien for kvinner i Trondheim, sammen med flere andre studentlag. Laget består av jenter fra hele IME-fakultetet, og vi håper på å kunne være med på å skape bedre bekjentskaper på tvers av linjene. For å bli med på treninger og kamper kan du melde deg inn i lagets facebook-gruppe.
+[https://www.facebook.com/groups/402090495265972/](https://www.facebook.com/groups/402090495265972/).
 
 ### Rekruttering & Kontaktinformasjon: 
 
@@ -36,7 +37,7 @@ Leder av klubben: [Geertheihan Elamurugan](https://www.facebook.com/geertheihan.
 
 **Ansvarlige herrelaget:** Johan Knudsen (data) 
 
-**Ansvarlige kvinnelaget:** Camilla Tøftum Ranner (informatikk) 
+**Ansvarlige kvinnelaget:** Miriam Reshane
 
 **E-post:**
 
