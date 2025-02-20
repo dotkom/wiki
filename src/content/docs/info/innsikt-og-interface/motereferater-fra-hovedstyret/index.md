@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------ 
 ### Vår 2025
+- [2025-02-17](2025/2025-02-17) - Div økonomi og karrieredager 
 - [2025-02-10](2025/2025-02-10) - Toastjern, Org.kollegiet
 - [2025-02-05](2025/2025-02-05-stormote) - Semesterets andre stormøte
 - [2025-02-03](2025/2025-02-03) - Snart genfors og bedkom er på besøk
