@@ -31,3 +31,13 @@ _Bakgrunn for saken_
 **Forslag:**
 
 _Forslaget du ønsker å fremme_
+
+## Sak 01: _Utvide kiosken v/ Iver Oprand Heggelund_
+
+**Bakgrunn:**
+
+_Placeholder_
+
+**Forslag:**
+
+_Placeholder_
