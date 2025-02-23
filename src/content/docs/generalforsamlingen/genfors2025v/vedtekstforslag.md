@@ -35,6 +35,8 @@ _Ny vedtekt_
 
 **Bakgrunn**:
 
+_Vedteken er utdatert ettersom redaksjonen som en egen gruppering ikke har blitt praktisert på flere år. Det finnes ingen avtale mellom redaksjonen og Hovedstyret, slik det gjør med de andre gruppene i seksjon 4.4 Andre grupper tilknyttet Online. Beskrivelsen av redaktørens rolle i vedtekten er bevart i prokoms nåværende retningslinjer. Offline sin uavhengighet blir derfor ikke berørt av å fjerne den. I tråd med å holde vedtektene så ryddige som mulig, foreslår vi derfor å fjerne vedtekten i sin helhet._
+
 **Stryke _vedtekt §4.4.1 Redaksjonen_**
 
 Fra:
