@@ -32,12 +32,14 @@ _Bakgrunn for saken_
 
 _Forslaget du ønsker å fremme_
 
-## Sak 01: _Utvide kiosken v/ Iver Oprand Heggelund_
+## Sak 01: _Utvidelse av varesortimentet i kiosken v/ Iver Oprand Heggelund_
 
 **Bakgrunn:**
 
-_Placeholder_
+_Under generalforsamlingen 2024 ble det besluttet å begrense kioskutvalget til åtte varer med lav svinnrisiko for å forenkle driften og redusere tap. Sammen med andre tiltak har dette gitt gode resultater – svinnet har gått betydelig ned, både prosentvis og økonomisk. I tillegg har den begrensede varelisten gjort det enklere å føre oversikt over beholdning, innkjøp og salg._
+
+_Selv om disse tiltakene har vært effektive, har det begrensede utvalget ført til mindre variasjon i kiosken, noe som gjør den mindre attraktiv for mange medlemmer._
 
 **Forslag:**
 
-_Placeholder_
+_For å øke kioskens attraktivitet foreslår Trikom å utvide varesortimentet til 14 varer. Utvalget vil velges basert på en interesseundersøkelse, og varer med høyt svinn vil eventuelt bli fjernet for å opprettholde kontrollen over svinn._
