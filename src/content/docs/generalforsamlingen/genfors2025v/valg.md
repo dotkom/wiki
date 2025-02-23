@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Leder:_ Ola Munthe Vassbotn, Lara Jacobsen, William Fagerstrøm
 - _Nestleder:_
 - _Økonomiansvarlig:_
-- _3 Styremedlemmer:_ Andrej Lazic
+- _3 Styremedlemmer:_ Andrej Lazic, Markus Johansen
 
 **De som har meldt interesse til Fondstyret er:**
 
