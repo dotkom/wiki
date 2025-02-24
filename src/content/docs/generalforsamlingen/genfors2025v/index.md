@@ -29,7 +29,7 @@ Referat fra Generalforsamling Våren 2025: [Live referat](https://docs.google.co
 
 ## Regnskap 2024 og budsjett 2025
 
-- Regnskap: [Regnskap]() TODO legge til link
+- Regnskap 2024: [Regnskap](https://docs.google.com/spreadsheets/d/1w_zzaSEao8GHe1Dv-5eYl3psYHemNigsDkdfSZYzR4s/edit?usp=sharing)
 - Budsjett 2025: [Budsjett](https://docs.google.com/spreadsheets/d/1A9JnuHbZ0hZxJACuQ_WWHXLQQR4AV9iY3BccLnROTEw/edit?gid=1647721186#gid=1647721186)
 
 ## Informasjon
