@@ -42,12 +42,12 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Appkomleder:_
 - _Arrkomleder:_
 - _Backlogleder:_
-- _Bankomleder:_
+- _Bankomleder:_ Sebastian dysterud
 - _Bedkomleder:_ Live Stamnes Dyrland
 - _Dotkomleder:_
 - _Debug:_
 - _Fagkomleder:_ Ailin Tinglum
 - _FeminIT-leder:_
 - _OIL-leder:_
-- _Prokomleder:_
+- _Prokomleder:_ Helle Hornes Fystro
 - _Trikomleder:_
