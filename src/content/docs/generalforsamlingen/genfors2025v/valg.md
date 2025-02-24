@@ -45,7 +45,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Bankomleder:_ Sebastian Dysterud
 - _Bedkomleder:_ Live Stamnes Dyrland
 - _Dotkomleder:_ Brage Andreas Hoven
-- _Debug:_
+- _Debug:_ Torunn Mikkelsen Bårdstu
 - _Fagkomleder:_ Ailin Tinglum
 - _FeminIT-leder:_ Tone-Lill Aarsheim
 - _OIL-leder:_ Filip Pedersen
