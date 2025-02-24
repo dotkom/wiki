@@ -40,14 +40,14 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som skal godkjennes som komitéledere er:**
 
 - _Appkomleder:_
-- _Arrkomleder:_
-- _Backlogleder:_
+- _Arrkomleder:_ Synne Lien Arvesen
+- _Backlogleder:_ Marius Brun
 - _Bankomleder:_ Sebastian Dysterud
 - _Bedkomleder:_ Live Stamnes Dyrland
-- _Dotkomleder:_
+- _Dotkomleder:_ Brage Andreas Hoven
 - _Debug:_
 - _Fagkomleder:_ Ailin Tinglum
-- _FeminIT-leder:_
-- _OIL-leder:_
+- _FeminIT-leder:_ Tone-Lill Aarsheim
+- _OIL-leder:_ Filip Pedersen
 - _Prokomleder:_ Helle Hornes Fystro
-- _Trikomleder:_
+- _Trikomleder:_ Mathea Liv Kvamme
