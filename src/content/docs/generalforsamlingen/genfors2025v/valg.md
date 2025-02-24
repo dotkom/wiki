@@ -42,7 +42,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Appkomleder:_
 - _Arrkomleder:_
 - _Backlogleder:_
-- _Bankomleder:_ Sebastian dysterud
+- _Bankomleder:_ Sebastian Dysterud
 - _Bedkomleder:_ Live Stamnes Dyrland
 - _Dotkomleder:_
 - _Debug:_
