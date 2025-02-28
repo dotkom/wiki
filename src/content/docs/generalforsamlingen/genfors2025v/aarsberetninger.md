@@ -153,12 +153,33 @@ Sosialt og kos:
 
 
 ## Realfagskjelleren
+- Økt kommunikasjon med Kjellersamarbeidet
+    - Felles fester
+        - Halloween
+    - Mer administrativt samarbeid
+- Mistet skjenkebevillingen 🙁
+    - Overtakelsesperiode for nytt styre er per tid for kort til å gjennomføre prøvene man behøver for å overdra skjenkebevillingen 
+        - Har hatt ekstraordinær generalforsamling som sikrer at dette ikke er et problem igjen :) 
+    - Har dessverre ikke lov til å ha åpent frem til den nye skjenkebevillingen er godkjent 
+- Tillatelse til å holde ID20-arrangementer
+    - Når ny skjenk er på plass har vi nå mulighet til å ha ID20-arrangementer dersom man ønsker det, f.eks. til utmatrikuleringsfester eller tilsvarende der alle deltakere uansett er 20+. Det krever at vi sender inn litt dokumentasjon på forhånd til kommunen så må avtales i grei tid i forkant, men det vil være kostnadsfritt for oss og blir da en utvidelse av tilbudene på Rfk om man ønsker det🙂
+    - Alle åpne arrangementer osv. på Realfagskjelleren vil fremdeles være ID18 og dette er kun ment for lukkede arrangementer der alle deltakere uansett er 20+.
+
 
 ## Casual Gaming
+- Har avholdt Nidaros Games (11.–12. oktober i Leangenhallen), med ymse premierte turneringer, i samarbeid med Nidaros E-sport og Smash Trondheim.
+- Har jobbet videre med potensiell sammenslåing med Nidaros E-sport, derunder avholdt internt julebord (Lager 11) og GreebCrib (Trønderburger) og deltatt på Hyperions Landsting (Oslo) og Spillexpo (Lillestrøm) sammen med dem.
+- Jobber med planleggingen av Trondheim Play (3.–4. mars i Spektrum), sammen med Nidaros E-sport, Trondheim Event og Trondheim Spektrum.
+- Jobber med ymse fremtidige arrangementer sammen med Nidaros E-sport, eksempelvis lokal Valorant-kvalik for The Gathering.
+
 
 ## Output
+Output har fortsatt med jevnlige møter, og spilte på julebordet i november. Vi har tenkt til å ha en åpen øvelse og spille på catch idi. 
 
 ## Datakameratene
+I løpet av høsten 2024 har Datakameratene arrangert ukentlige fellestreninger, 7’er-treninger og futsaltreninger (alle er åpne treninger). 11’er-laget har plassert seg på 1. plass i ligaen og er klare til A-sluttspill. 7’er-laget har plassert seg på 3. plass og er klare til å jakte poeng i de resterende kampene. 
+Planen for dette semesteret er for 11’er-laget å jakte gull i A-sluttspill og for 7’er-laget å jakte pallplassering i 1. divisjon. Vi starter som smått nå i uke 7 med fellestreninger ute, så lenge været tillater det, ellers vil vi prøve å arrangere futsaltreninger. 7’er-laget stiller til innecup 15. mars og ønsker å gjenoppta seiersuksessen fra i fjor. Videre skal vi også se etter mulige turneringer, bedpres til inntekt for Datakameratene, og prøve å arrangere lagfest med damelaget. 
+
 
 ## FeminIT
 - Valgt ny leder  
