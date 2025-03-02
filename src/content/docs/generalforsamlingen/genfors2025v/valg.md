@@ -23,9 +23,9 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Hovedstyret er:**
 
 - _Leder:_ Ola Munthe Vassbotn, Lara Jacobsen, William Fagerstrøm
-- _Nestleder:_
+- _Nestleder:_ Andrej Lazic
 - _Økonomiansvarlig:_
-- _3 Styremedlemmer:_ Andrej Lazic, Markus Johansen
+- _3 Styremedlemmer:_ Markus Johansen
 
 **De som har meldt interesse til Fondstyret er:**
 
@@ -39,7 +39,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som skal godkjennes som komitéledere er:**
 
-- _Appkomleder:_
+- _Appkomleder:_ Adele Xiao Yuan Strysse
 - _Arrkomleder:_ Synne Lien Arvesen
 - _Backlogleder:_ Marius Brun
 - _Bankomleder:_ Sebastian Dysterud
