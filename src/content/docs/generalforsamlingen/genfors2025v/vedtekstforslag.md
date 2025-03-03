@@ -49,11 +49,12 @@ Til:
 
 _Stryke §4.4.1 i sin helhet_
 
-## Vedtektsforslag 02: Adgang for andre til å bli fullverdig medlem - Jo Gramnæs Tjernshaugen
+## Vedtektsforslag 02: Fjerne paragraf om fullverdig medlemsskap til ikke-informatikere - Jo Gramnæs Tjernshaugen
 
 **Bakgrunn**:
 
-_Slik vedtektene er i dag kan man søke om å være "ikke-sosialt" medlem selv om man ikke går informatikk. Dette kan bryte med kontrakter med bedrifter, og bør ikke være nødvendig da sosiale medlemmer skal ha alle de samme rettighetene som ordinære medlemmer dersom det ikke er spesielle omstendigheter som sier noe annet._
+_Slik vedtektene er i dag kan man søke om å være “ikke-sosialt” medlem selv om man ikke går informatikk. Dette burde ikke være nødvendig da sosiale medlemmer i utgangspunktet har de samme rettighetene som vanlige medlemmer, og det kompliserer reglene for påmelding.
+Paragrafen ble opprinnelig lagt tidligere inn fordi man skulle gjøre en ikke-informatiker til ridder, men det er ikke nevnt noen steder at man ikke kan være sosialt medlem og ridder._
 
 **Stryke _vedtekt §3.5 Adgang for andre til å bli fullverdig medlem_**
 
