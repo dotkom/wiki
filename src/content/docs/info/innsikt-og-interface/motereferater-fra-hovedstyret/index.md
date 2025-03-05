@@ -8,7 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------
 ### Vår 2025
-- [2025-03-01](2025/2025-03-01) - Første møte med nye HS
+- [2025-03-04](2025/2025-03-04) - Første møte med nye HS
 - [2025-02-24](2025/2025-02-24) - Siste møte :(
 - [2025-02-17](2025/2025-02-17) - Div økonomi og karrieredager
 - [2025-02-10](2025/2025-02-10) - Toastjern, Org.kollegiet
