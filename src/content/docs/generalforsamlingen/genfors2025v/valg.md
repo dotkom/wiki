@@ -7,7 +7,7 @@ title: "Kandidater våren 2025"
 - [2025 Vår Forside](/generalforsamlingen/genfors2025v) - Forside
 - [2025 Vår Forretningsorden](/generalforsamlingen/genfors2025v/forretningsorden) - Forretningsorden
 - [2025 Vår Dagsorden](/generalforsamlingen/genfors2025v/dagsorden) - Dagsorden for generalforsamlingen
-- [2025 Vår Halvårsberetninger](/generalforsamlingen/genfors2025V/aarsberetninger) - Halvårsberetninger
+- [2025 Vår Halvårsberetninger](/generalforsamlingen/genfors2025v/aarsberetninger) - Halvårsberetninger
 - [2025 Vår Saksforslag](/generalforsamlingen/genfors2025v/saksforslag) - Alle innsendte saker vil bli tatt opp.
 - [2025 Vår Vedtektsforslag](/generalforsamlingen/genfors2025v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 - [2025 Vår Kandidater](/generalforsamlingen/genfors2025v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
@@ -22,10 +22,10 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-- _Leder:_
-- _Nestleder:_
+- _Leder:_ Ola Munthe Vassbotn, Lara Jacobsen, William Fagerstrøm
+- _Nestleder:_ Andrej Lazic
 - _Økonomiansvarlig:_
-- _3 Styremedlemmer:_
+- _3 Styremedlemmer:_ Markus Johansen
 
 **De som har meldt interesse til Fondstyret er:**
 
@@ -35,19 +35,19 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Valgkomiteen er:**
 
-- _Kandidater:_ Frederik Andreas Brunvoll Farstad,
+- _Kandidater:_ Frederik Andreas Brunvoll Farstad, Brage Baugerød
 
 **De som skal godkjennes som komitéledere er:**
 
-- _Appkomleder:_
-- _Arrkomleder:_
-- _Backlogleder:_
-- _Bankomleder:_
-- _Bedkomleder:_
-- _Dotkomleder:_
-- _Debug:_
-- _Fagkomleder:_
-- _FeminIT-leder:_
-- _OIL-leder:_
-- _Prokomleder:_
-- _Trikomleder:_
+- _Appkomleder:_ Adele Xiao Yuan Strysse
+- _Arrkomleder:_ Synne Lien Arvesen
+- _Backlogleder:_ Marius Brun
+- _Bankomleder:_ Sebastian Dysterud
+- _Bedkomleder:_ Live Stamnes Dyrland
+- _Dotkomleder:_ Brage Andreas Hoven
+- _Debug:_ Torunn Mikkelsen Bårdstu
+- _Fagkomleder:_ Ailin Tinglum
+- _FeminIT-leder:_ Tone-Lill Aarsheim
+- _OIL-leder:_ Filip Pedersen
+- _Prokomleder:_ Helle Hornes Fystro
+- _Trikomleder:_ Mathea Liv Kvamme

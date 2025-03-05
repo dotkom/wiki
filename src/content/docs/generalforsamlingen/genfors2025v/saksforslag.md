@@ -7,7 +7,7 @@ title: "Saksforslag våren 2025"
 - [2025 Vår Forside](/generalforsamlingen/genfors2025v) - Forside
 - [2025 Vår Forretningsorden](/generalforsamlingen/genfors2025v/forretningsorden) - Forretningsorden
 - [2025 Vår Dagsorden](/generalforsamlingen/genfors2025v/dagsorden) - Dagsorden for generalforsamlingen
-- [2025 Vår Halvårsberetninger](/generalforsamlingen/genfors2025V/aarsberetninger) - Halvårsberetninger
+- [2025 Vår Halvårsberetninger](/generalforsamlingen/genfors2025v/aarsberetninger) - Halvårsberetninger
 - [2025 Vår Saksforslag](/generalforsamlingen/genfors2025v/saksforslag) - Alle innsendte saker vil bli tatt opp.
 - [2025 Vår Vedtektsforslag](/generalforsamlingen/genfors2025v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 - [2025 Vår Kandidater](/generalforsamlingen/genfors2025v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
@@ -31,3 +31,15 @@ _Bakgrunn for saken_
 **Forslag:**
 
 _Forslaget du ønsker å fremme_
+
+## Sak 01: _Utvidelse av varesortimentet i kiosken v/ Iver Oprand Heggelund_
+
+**Bakgrunn:**
+
+_Under generalforsamlingen 2024 ble det besluttet å begrense kioskutvalget til åtte varer med lav svinnrisiko for å forenkle driften og redusere tap. Sammen med andre tiltak har dette gitt gode resultater – svinnet har gått betydelig ned, både prosentvis og økonomisk. I tillegg har den begrensede varelisten gjort det enklere å føre oversikt over beholdning, innkjøp og salg._
+
+_Selv om disse tiltakene har vært effektive, har det begrensede utvalget ført til mindre variasjon i kiosken, noe som gjør den mindre attraktiv for mange medlemmer._
+
+**Forslag:**
+
+_For å øke kioskens attraktivitet foreslår Trikom å utvide varesortimentet til 14 varer. Utvalget vil velges basert på en interesseundersøkelse, og varer med høyt svinn vil eventuelt bli fjernet for å opprettholde kontrollen over svinn._

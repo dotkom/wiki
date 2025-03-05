@@ -47,7 +47,7 @@ const getSidebar = (rawSlug = "", first = true) => {
 
 	const index = indexContent ? { label, slug } : [];
 
-	const parsedFiles = files.map((file) => {
+	const parsedFiles = files.filter((f) => !f.endsWith(".DS_Store")).map((file) => {
 		const content = readFile(`${path}/${file}`);
 		const title = getTitle(content);
 
