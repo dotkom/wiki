@@ -13,7 +13,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
 - [**Møtereferater fra Hovedstyret**](/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
 - [Facebook/Slack Blæstekalender](https://docs.google.com/spreadsheets/d/1N4c01zclcgD0xs_RtDCqOVgs2GPOZB2Tx3pO7AIZrqI/edit#gid=1408777825) - Onlines Facebook blæstekalender. Alt som skal promoteres i Onlines Facebook-gruppe og/eller Slack må bli lagt inn først.
-- [Instagram Blæstekalender](https://docs.google.com/spreadsheets/d/16oKeiFbde-Ra8RK_lsdUX7gvvp2kKrURvrh0Q_KgZM8/edit?usp=sharing) - Onlines Instagram blæstekalender. Alt som skal legges ut i Onlines Instagram må bli lagt inn først.
+- [Instagram Blæstekalender](https://docs.google.com/spreadsheets/d/1gk9fXSvoo37U_VPHPDEAY-u5_oYB6v4owxovwp4v9-I/edit?gid=83737319#gid=83737319) - Onlines Instagram blæstekalender. Alt som skal legges ut i Onlines Instagram må bli lagt inn først.
 - [Grafisk profil](/info/innsikt-og-interface/grafisk-profil/) - Onlines grafiske profil
 - [Vedtekter](/info/innsikt-og-interface/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 - [Nodekomiteer](/info/innsikt-og-interface/nodekomiteer/) - Hvordan starte en nodekomite?
