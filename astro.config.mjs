@@ -109,8 +109,8 @@ export default defineConfig({
 				},
 				{
 					tag: "script",
-					atts: {
-						type: "application/ld+json",
+					attrs: {
+						"type": "application/ld+json",
 					},
 					content: JSON.stringify({
 						"@context": "https://schema.org",
