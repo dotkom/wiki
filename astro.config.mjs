@@ -105,6 +105,28 @@ export default defineConfig({
 						"data-domain": "wiki.online.ntnu.no",
 						"src": "https://plausible.io/js/script.outbound-links.file-downloads.js",
 					},
+
+				},
+				{
+					tag: "script",
+					atts: {
+						type: "application/ld+json",
+					},
+					content: JSON.stringify({
+						"@context": "https://schema.org",
+						"@type": "WebSite",
+						"name": "Linjeforeningen Onlines Wiki",
+						"alternateName": "Online Wiki",
+						"url": "https://wiki.online.ntnu.no"
+					})
+				},
+				{
+					tag: 'link',
+					attrs: {
+						rel: 'icon',
+						href: '/images/icon-256.png',
+						sizes: '256x256',
+					},
 				},
 			],
 			sidebar: getSidebar(),
