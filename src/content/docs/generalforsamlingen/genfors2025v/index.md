@@ -26,6 +26,7 @@ Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_F
 Referat Generalforsamlingen Høsten 2024: [vedlegg 851](/attachments/851-Referat_Onlines_generalforsamling_H2024.pdf)
 
 Referat fra Generalforsamling Våren 2025: [Live referat](https://docs.google.com/document/d/11OzQwg42CwuHX4Q1f7kdJESPVnU3WyauuC2G9kf3-04/edit?usp=sharing)
+Referat fra Generalforsamling Våren 2025: [Referat](/attachments/Referat-Onlines-generalforsamling-V2025-signert.pdf)
 
 ## Regnskap 2024 og budsjett 2025
 
