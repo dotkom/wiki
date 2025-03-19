@@ -8,6 +8,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------
 ### Vår 2025
+- [2025-03-18](2025/2025-03-18) - Det regner Daljer
 - [2025-03-06-stormøte](2025/2025-03-06-stormote) - Semesterets tredje og desidert største stormøte
 - [2025-03-04](2025/2025-03-04) - Første møte med nye HS
 - [2025-02-24](2025/2025-02-24) - Siste møte :(
