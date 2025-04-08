@@ -9,7 +9,10 @@ Møtereferater
 ------------------
 ### Vår 2025
 
+- [2025-04-08-stormøte](2025/2025-04-08-stormote) - Kræsj med Bedpres og cancel dotDAGENE!
+- [2025-04-04](2025/2025-04-04) - Tilgang til suspensjoner for arrangerende komiteer
 - [2025-03-31](2025/2025-03-31) - Wiki oppdatering
+- [2025-03-26-stormøte](2025/2025-03-26-stormote) - Masse prikker og uendelig med eventuelt saker
 - [2025-03-18](2025/2025-03-18) - Det regner Daljer
 - [2025-03-06-stormøte](2025/2025-03-06-stormote) - Semesterets tredje og desidert største stormøte
 - [2025-03-04](2025/2025-03-04) - Første møte med nye HS
