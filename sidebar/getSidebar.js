@@ -1,5 +1,5 @@
 import fs from "node:fs";
-import { sortHsMeetings } from "./sortHsMeetings";
+import { groupHsMeetings } from "./groupHsMeetings";
 import { getFrontmatter, getIndexFileContent, readFile, removeFileExtension } from "./utils";
 
 /*
@@ -120,14 +120,14 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
 	} else if (sortChildFilesMethod === "desc") {
 		files.sort((a, b) => b.label.localeCompare(a.label));
 	} else if (sortChildFilesMethod === "date") {
+		files.sort((a, b) => {
+			const aDate = new Date(getFrontmatter(a.content, "date") || 0);
+			const bDate = new Date(getFrontmatter(b.content, "date") || 0);
+			return bDate - aDate;
+		});
+
 		if (slug.includes(HS_MEETINGS_FOLDER)) {
-			files = sortHsMeetings(files, slug);
-		} else {
-			files.sort((a, b) => {
-				const aDate = new Date(getFrontmatter(a.content, "date") || 0);
-				const bDate = new Date(getFrontmatter(b.content, "date") || 0);
-				return bDate - aDate;
-			});
+			files = groupHsMeetings(files, slug);
 		}
 	}
 

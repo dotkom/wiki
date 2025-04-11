@@ -3,7 +3,7 @@ import { getFrontmatter } from "./utils";
 const JULY = 6;
 const FIFTEENTH = 15;
 
-export const sortHsMeetings = (files) => {
+export const groupHsMeetings = (files) => {
 	const groups = files.reduce(
 		(acc, file) => {
 			const rawDate = getFrontmatter(file.content, "date");
