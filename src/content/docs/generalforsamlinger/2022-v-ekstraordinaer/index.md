@@ -1,5 +1,5 @@
 ---
-title: "2022 vår (ekstraordinær)"
+title: "Genfors 2022 vår (ekstraordinær)"
 ---
 
 ## Innhold

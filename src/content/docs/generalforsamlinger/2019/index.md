@@ -1,5 +1,5 @@
 ---
-title: "2019"
+title: "Genfors 2019"
 ---
 
 * [2019 Forside](/generalforsamlingen/genfors2019)   - Forside

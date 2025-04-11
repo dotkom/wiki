@@ -1,5 +1,5 @@
 ---
-title: "2025 vår"
+title: "Genfors 2025 vår"
 ---
 
 ## Innhold

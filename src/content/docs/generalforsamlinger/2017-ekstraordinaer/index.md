@@ -1,5 +1,5 @@
 ---
-title: "2017 (ekstraordinær)"
+title: "Genfors 2017 (ekstraordinær)"
 ---
 
 * [2017 Forretningsorden](/generalforsamlingen/ekstra2017/forretningsorden) - Forretningsorden

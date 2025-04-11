@@ -1,5 +1,5 @@
 ---
-title: "2011"
+title: "Genfors 2011"
 ---
 
 * [2011 Hovedstyrets vedtektsforslag](/generalforsamlingen/2011/hs-vedtektsforslag) - Mange Onlinere har vært med å skrive dette forslaget til totalrevidering.

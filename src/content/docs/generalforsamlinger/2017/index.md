@@ -1,5 +1,5 @@
 ---
-title: "2017"
+title: "Genfors 2017"
 ---
 
 * [2017 Forretningsorden](/generalforsamlingen/2017/forretningsorden) - Forretningsorden

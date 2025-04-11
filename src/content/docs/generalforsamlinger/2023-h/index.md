@@ -1,5 +1,5 @@
 ---
-title: "2023 høst"
+title: "Genfors 2023 høst"
 ---
 
 ## Innhold

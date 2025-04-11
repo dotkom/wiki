@@ -1,5 +1,5 @@
 ---
-title: "2015"
+title: "Genfors 2015"
 ---
 
 * [2015 Saksliste](/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015

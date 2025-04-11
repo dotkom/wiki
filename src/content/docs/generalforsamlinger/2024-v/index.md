@@ -1,5 +1,5 @@
 ---
-title: "2024 vår"
+title: "Genfors 2024 vår"
 ---
 
 ## Innhold
