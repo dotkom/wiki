@@ -1,69 +1,6 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
-import fs from "node:fs";
-
-const BOUNDRY_SLASHES_REGEX = /^\/|\/$/g;
-const TITLE_REGEX = /^-{3}\r?\ntitle:\s(?<tick>["'`])(?<title>.+)\k<tick>\s*\r?\n-{3}/;
-
-const BASE_PATH = "src/content/docs";
-
-const readFile = (filePath) => {
-	if (!fs.existsSync(filePath)) {
-		return null;
-	}
-
-	return fs.readFileSync(filePath, "utf-8");
-};
-
-const getTitle = (string) => {
-	const match = string.match(TITLE_REGEX);
-
-	return match?.groups?.title ?? null;
-};
-
-const getSidebar = (rawSlug = "", first = true) => {
-	const slug = rawSlug.replace(BOUNDRY_SLASHES_REGEX, "");
-	const path = `${BASE_PATH}/${slug}`;
-
-	const indexContent = readFile(`${path}/index.md`);
-	const label = indexContent ? getTitle(indexContent) : slug.split("/").pop();
-
-	const [files, directories] = fs.readdirSync(path).reduce(
-		([files, directories], item) => {
-			const itemPath = `${path}/${item}`;
-
-			if (fs.lstatSync(itemPath).isDirectory()) {
-				return [files, [...directories, item]];
-			}
-
-			if (item === "index.md") {
-				return [files, directories];
-			}
-
-			return [[...files, item], directories];
-		},
-		[[], []]
-	);
-
-	const index = indexContent ? { label, slug } : [];
-
-	const parsedFiles = files.filter((f) => !f.endsWith(".DS_Store")).map((file) => {
-		const content = readFile(`${path}/${file}`);
-		const title = getTitle(content);
-
-		return { label: title, slug: `${slug}/${file.replace(/\.mdx?/, "")}` };
-	});
-
-	const children = directories.map((directory) => getSidebar(`${slug}/${directory}`, false));
-
-	const items = [index, ...children.flat(), ...parsedFiles].flat();
-
-	if (first) {
-		return items;
-	}
-
-	return [{ label, collapsed: true, items }];
-};
+import { getSidebar } from "./sidebar/getSidebar";
 
 // https://astro.build/config
 export default defineConfig({
@@ -105,31 +42,31 @@ export default defineConfig({
 						"data-domain": "wiki.online.ntnu.no",
 						"src": "https://plausible.io/js/script.outbound-links.file-downloads.js",
 					},
-
 				},
 				{
 					tag: "script",
 					attrs: {
-						"type": "application/ld+json",
+						type: "application/ld+json",
 					},
 					content: JSON.stringify({
 						"@context": "https://schema.org",
 						"@type": "WebSite",
 						"name": "Linjeforeningen Onlines Wiki",
 						"alternateName": "Online Wiki",
-						"url": "https://wiki.online.ntnu.no"
-					})
+						"url": "https://wiki.online.ntnu.no",
+					}),
 				},
 				{
-					tag: 'link',
+					tag: "link",
 					attrs: {
-						rel: 'icon',
-						href: '/images/icon-256.png',
-						sizes: '256x256',
+						rel: "icon",
+						href: "/images/icon-256.png",
+						sizes: "256x256",
 					},
 				},
 			],
-			sidebar: getSidebar(),
+			// Makes it so not everything is in one folder
+			sidebar: getSidebar()[0].items,
 		}),
 	],
 });
