@@ -1,6 +1,5 @@
 import fs from "node:fs";
 import matter from "gray-matter";
-import { sortGeneralforsamlinger } from "./sortGeneralforsamlinger";
 
 /*
 Available frontmatters:
