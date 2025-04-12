@@ -11,7 +11,7 @@ Møtereferater
 ------------------
 ### Vår 2025
 
-- [2025-04-10](2025/2025-04-10) - Nominasjoner til Debug
+- [2025-04-10](2025/2025-04-10) - Valg for interne roller og litt økonomi
 - [2025-04-08-stormøte](2025/2025-04-08-stormote) - Kræsj med Bedpres og cancel dotDAGENE!
 - [2025-04-04](2025/2025-04-04) - Tilgang til suspensjoner for arrangerende komiteer
 - [2025-03-31](2025/2025-03-31) - Wiki oppdatering
