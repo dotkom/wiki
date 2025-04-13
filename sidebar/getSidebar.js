@@ -1,12 +1,22 @@
 import fs from "node:fs";
 import { groupHsMeetings } from "./groupHsMeetings";
-import { getFrontmatter, getIndexFileContent, readFile, removeFileExtension } from "./utils";
+import {
+	getFrontmatterFromContent,
+	getIndexFrontmatter,
+	isIndexFile,
+	readFile,
+	getPathFromSlug,
+	removeFileExtension,
+	trimSlashes,
+} from "./utils";
+import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
+import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
 
 /*
 Available frontmatter keys:
 - title: string
 - date: string
-- child-directories-sort: "asc" | "desc"
+- child-directories-sort: "asc" | "desc" | "date"
 - child-files-sort: "asc" | "desc" | "date"
 
 Notes:
@@ -15,17 +25,13 @@ Notes:
 - child-files-sort will sort all files in same directory and all files in all subdirectories.
 */
 
-const HS_MEETINGS_FOLDER = "/motereferater-fra-hovedstyret/";
-
-const MARKDOWN_FILE_EXTENSIONS = [".md", ".mdx"];
-const INDEX_FILE_NAMES = MARKDOWN_FILE_EXTENSIONS.map((ext) => `index${ext}`);
-const BOUNDRY_SLASHES_REGEX = /^\/|\/$/g;
-const BASE_PATH = "src/content/docs";
+const GENERALFORSAMLINGER_FOLDER = "generalforsamlinger";
+const HS_MEETINGS_FOLDER = "motereferater-fra-hovedstyret/";
 
 /**
- * Gets all file and directory names in a given path. Excludes index.md files.
+ * Gets all file and directory names in a given slug. Excludes index.md files.
  *
- * @param {string} path - The path to the directory.
+ * @param {string} directorySlug - The slug of the directory.
  * @returns {Array} An array containing two arrays: the first with file names and the second with directory names.
  * @example
  * // Assuming the directory structure is as follows:
@@ -39,59 +45,78 @@ const BASE_PATH = "src/content/docs";
  * fileNames // => ["file1.md", "file2.md"]
  * directoryNames // => ["subdirectory"]
  */
-const getChildFilesAndDirectoriesNames = (path) =>
-	fs.readdirSync(path).reduce(
-		([files, directories], item) => {
-			const itemPath = `${path}/${item}`;
+const getChildFilesAndDirectoriesNames = (directorySlug) => {
+	const path = getPathFromSlug(directorySlug);
+
+	return fs.readdirSync(path).reduce(
+		([files, directories], fileOrFolderName) => {
+			const itemPath = `${path}/${fileOrFolderName}`;
 
 			if (fs.lstatSync(itemPath).isDirectory()) {
-				return [files, [...directories, item]];
+				return [files, [...directories, fileOrFolderName]];
 			}
 
-			// Exclude index.md
-			if (INDEX_FILE_NAMES.includes(item)) {
-				return [files, directories];
-			}
-
-			return [[...files, item], directories];
+			return [[...files, fileOrFolderName], directories];
 		},
 		[[], []]
 	);
+};
 
 /**
  * Creates sidebar items from file names and a slug.
  *
  * @param {Array} fileNames - The file names to create sidebar items from.
- * @param {string} slug - The slug to use for the sidebar items.
- * @param {boolean} includeContent - Whether to include the content of the files.
+ * @param {string} parentDirectorySlug - The slug to use for the sidebar items.
+ * @param {boolean} includeFrontmatter - Whether to include the frontmatter of the files.
  * @returns {Array} An array of sidebar items.
  * @example
  * // Assuming the file names are ["file1.md", "file2.md"] and the slug is "slug"
- * const sidebarItems = fileNamesToSidebarItem(["file1.md", "file2.md"], "slug")
- * sidebarItems // => [{ label: "file1", slug: "slug/file1" }, { label: "file2", slug: "slug/file2" }]
+ * fileNamesToSidebarItem(["file1.md", "file2.md"], "slug")
+ * // [{ label: "File 1", slug: "slug/file1" }, { label: "File 2", slug: "slug/file2" }]
  *
- * const sidebarItemsWithContent = fileNamesToSidebarItem(["file1.md", "file2.md"], "slug", true)
- * sidebarItemsWithContent // => [{ label: "file1", slug: "slug/file1", content: "..." }, { label: "file2", slug: "slug/file2", content: "..." }]
+ * fileNamesToSidebarItem(["file1.md", "file2.md"], "slug", true)
+ * // [{ label: "File 1", slug: "slug/file1", frontmatter: { ... } }, { label: "File 2", slug: "slug/file2", frontmatter: null }]
  */
-const fileNamesToSidebarItem = (fileNames, slug, includeContent) => {
+const fileNamesToSidebarItem = (fileNames, parentDirectorySlug, includeFrontmatter) => {
 	return fileNames.reduce((items, fileName) => {
-		const content = readFile(`${BASE_PATH}/${slug}/${fileName}`);
+		const content = readFile(`${parentDirectorySlug}/${fileName}`);
+
+		const fileNameWithoutExtension = removeFileExtension(fileName);
+		const slug = `${parentDirectorySlug}/${fileNameWithoutExtension}`;
 
 		if (!content) {
 			return items;
 		}
 
-		const label = getFrontmatter(content, "title");
-		const fileSlug = `${slug}/${removeFileExtension(fileName)}`;
+		const frontmatter = getFrontmatterFromContent(content);
 
-		if (includeContent) {
-			items.push({ label, slug: fileSlug, content });
+		if (!frontmatter) {
+			return items;
+		}
+
+		const label = frontmatter.title || fileNameWithoutExtension;
+
+		if (isIndexFile(fileName)) {
+			items.push({ label, slug: parentDirectorySlug, frontmatter });
+		} else if (includeFrontmatter) {
+			items.push({ label, slug, frontmatter });
 		} else {
-			items.push({ label, slug: fileSlug });
+			items.push({ label, slug });
 		}
 
 		return items;
 	}, []);
+};
+
+const getIndexFile = (files, parentSlug) => {
+	// fileNameToSidebarItem removes file extensions
+	const indexOfIndexFile = files.findIndex((file) => file.slug === parentSlug);
+
+	if (indexOfIndexFile === -1) {
+		return null;
+	}
+
+	return files.splice(indexOfIndexFile, 1)[0];
 };
 
 /**
@@ -102,46 +127,70 @@ const fileNamesToSidebarItem = (fileNames, slug, includeContent) => {
  * @returns {Array} The sidebar structure for Astro.
  */
 export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => {
-	const slug = rawSlug.replace(BOUNDRY_SLASHES_REGEX, "");
-	const path = `${BASE_PATH}/${slug}`;
+	const slug = trimSlashes(rawSlug);
 
-	const indexContent = getIndexFileContent(path, INDEX_FILE_NAMES);
-	const label = indexContent ? getFrontmatter(indexContent, "title") : slug.split("/").pop();
-	const index = indexContent ? { label, slug } : [];
+	const indexFrontmatter = getIndexFrontmatter(slug);
+	let label = indexFrontmatter?.title || slug.split("/").pop();
 
-	const [fileNames, childDirectoriesNames] = getChildFilesAndDirectoriesNames(path);
+	const [fileNames, childDirectoriesNames] = getChildFilesAndDirectoriesNames(slug);
 
-	const sortChildFilesMethod = __sortChildFilesMethod || getFrontmatter(indexContent, "child-files-sort");
+	const sortChildFilesMethod = indexFrontmatter?.["child-files-sort"] || __sortChildFilesMethod;
+	const sortChildDirectoriesMethod = indexFrontmatter?.["child-directories-sort"];
 
-	let files = fileNamesToSidebarItem(fileNames, slug, sortChildFilesMethod);
+	// Turning file names into sidebar items
+	const includeFrontmatter = sortChildFilesMethod === "date" || sortChildDirectoriesMethod === "date";
+	let files = fileNamesToSidebarItem(fileNames, slug, includeFrontmatter);
 
+	const indexFile = getIndexFile(files, slug);
+
+	// Sorting child files
 	if (sortChildFilesMethod === "asc") {
 		files.sort((a, b) => a.label.localeCompare(b.label));
 	} else if (sortChildFilesMethod === "desc") {
 		files.sort((a, b) => b.label.localeCompare(a.label));
 	} else if (sortChildFilesMethod === "date") {
 		files.sort((a, b) => {
-			const aDate = new Date(getFrontmatter(a.content, "date") || 0);
-			const bDate = new Date(getFrontmatter(b.content, "date") || 0);
+			const aDate = new Date(a.frontmatter?.date || 0);
+			const bDate = new Date(b.frontmatter?.date || 0);
 			return bDate - aDate;
 		});
 
+		// Grouping HS meetings
 		if (slug.includes(HS_MEETINGS_FOLDER)) {
 			files = groupHsMeetings(files, slug);
 		}
 	}
 
-	if (getFrontmatter(indexContent, "child-directories-sort") === "asc") {
+	// Sorting child directories
+	if (sortChildDirectoriesMethod === "asc") {
 		childDirectoriesNames.sort((a, b) => a.localeCompare(b));
-	} else if (getFrontmatter(indexContent, "child-directories-sort") === "desc") {
+	} else if (sortChildDirectoriesMethod === "desc") {
 		childDirectoriesNames.sort((a, b) => b.localeCompare(a));
 	}
 
-	const childDirectories = childDirectoriesNames.flatMap((directory) =>
+	// Filling child directories with their files and directories
+	let childDirectories = childDirectoriesNames.flatMap((directory) =>
 		getSidebar(`${slug}/${directory}`, sortChildFilesMethod)
 	);
 
-	const items = [index, ...childDirectories, ...files].flat();
+	// Sorting child directories by date
+	if (sortChildDirectoriesMethod === "date") {
+		childDirectories.sort((a, b) => {
+			// Index file is always first in the array, regardless of sorting method
+			// if it exists
+			const dateA = new Date(a.items[0]?.frontmatter?.date || 0);
+			const dateB = new Date(b.items[0]?.frontmatter?.date || 0);
+			return dateB - dateA;
+		});
+	}
+
+	// Processing generalforsamlinger
+	if (slug.includes(GENERALFORSAMLINGER_FOLDER)) {
+		label = trimGeneralforsamlingerDirectoryLabel(label);
+		childDirectories = groupGeneralforsamlinger(childDirectories);
+	}
+
+	const items = [indexFile ?? [], ...childDirectories, ...files].flat();
 
 	return [{ label, collapsed: true, items }];
 };
