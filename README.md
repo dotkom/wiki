@@ -38,8 +38,9 @@ The following frontmatter can be used in the `.md` files to control the sidebar:
 
 ```
 - title: string
+- ... and other default Starlight frontmatter keys
 - date: string
-- child-directories-sort: "asc" | "desc"
+- child-directories-sort: "asc" | "desc" | "date"
 - child-files-sort: "asc" | "desc" | "date"
 ```
 
