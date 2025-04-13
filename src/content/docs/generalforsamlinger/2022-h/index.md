@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2022 høst"
+date: 2022-10-19
 ---
 
 ## Innhold

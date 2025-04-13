@@ -1,5 +1,6 @@
 ---
 title: "Generalforsamlinger"
+child-directories-sort: "date"
 ---
 
 ## Hva er en generalforsamling?

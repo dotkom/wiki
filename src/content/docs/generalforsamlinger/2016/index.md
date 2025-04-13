@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2016"
+date: 2016-04-18
 ---
 
 * [2016 Forretningsorden](/generalforsamlingen/2016/forretningsorden) - Forretningsorden

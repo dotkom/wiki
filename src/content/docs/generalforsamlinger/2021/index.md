@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2021"
+date: 2021-03-01
 ---
 
 ### Zoom Invite

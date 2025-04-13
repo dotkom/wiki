@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2017 (ekstraordinær)"
+date: 2017-11-01
 ---
 
 * [2017 Forretningsorden](/generalforsamlingen/ekstra2017/forretningsorden) - Forretningsorden

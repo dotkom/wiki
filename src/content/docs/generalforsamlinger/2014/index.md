@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2014"
+date: 2014-04-01
 ---
 
 * [2014 Saksliste](/generalforsamlingen/2014/saksliste) - Saksliste for generalforsamlingen 2014

@@ -1,5 +1,6 @@
 ---
 title: "Fadderukene"
+child-directories-sort: "desc"
 ---
 
 Informasjonskanal for fadderukene
