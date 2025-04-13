@@ -20,7 +20,7 @@ title: "Historie"
     - [Velkomstkomiteen](/historie/velkom)
     - [IT-Ekskursjonen](/historie/itex)
 - [Offline](/offlines-historie/)
-- [Generalforsamlingen](/generalforsamlingen)
+- [Generalforsamlingen](/generalforsamlinger)
 - [Kontoret](/kontoret)
 - [Boden på Moholt](/bodenpaamoholt)
 - [Realfagskjelleren](/realfagskjelleren)

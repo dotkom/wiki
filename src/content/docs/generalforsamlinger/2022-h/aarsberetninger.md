@@ -3,13 +3,13 @@ title: "Årsberetninger høsten 2022"
 ---
 
 ## Innhold  
-* [2022 Forside](/generalforsamlingen/genfors2022h)   - Forside
-* [2022 Forretningsorden](/generalforsamlingen/genfors2022h/forretningsorden) - Forretningsorden
-* [2022 Dagsorden](/generalforsamlingen/genfors2022h/dagsorden) - Dagsorden for generalforsamlingen
-* [2022 Årsberetninger](/generalforsamlingen/genfors2022h/aarsberetninger) - Årsberetninger
-* [2022 Saksforslag](/generalforsamlingen/genfors2022h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2022 Vedtektsforslag](/generalforsamlingen/genfors2022h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Kandidater](/generalforsamlingen/genfors2022h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2022 Forside](/generalforsamlinger/2022-h)   - Forside
+* [2022 Forretningsorden](/generalforsamlinger/2022-h/forretningsorden) - Forretningsorden
+* [2022 Dagsorden](/generalforsamlinger/2022-h/dagsorden) - Dagsorden for generalforsamlingen
+* [2022 Årsberetninger](/generalforsamlinger/2022-h/aarsberetninger) - Årsberetninger
+* [2022 Saksforslag](/generalforsamlinger/2022-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2022 Vedtektsforslag](/generalforsamlinger/2022-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Kandidater](/generalforsamlinger/2022-h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 
 [TOC]

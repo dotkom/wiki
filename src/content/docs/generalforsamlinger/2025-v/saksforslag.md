@@ -4,13 +4,13 @@ title: "Saksforslag våren 2025"
 
 ## Innhold
 
-- [2025 Vår Forside](/generalforsamlingen/genfors2025v) - Forside
-- [2025 Vår Forretningsorden](/generalforsamlingen/genfors2025v/forretningsorden) - Forretningsorden
-- [2025 Vår Dagsorden](/generalforsamlingen/genfors2025v/dagsorden) - Dagsorden for generalforsamlingen
-- [2025 Vår Halvårsberetninger](/generalforsamlingen/genfors2025v/aarsberetninger) - Halvårsberetninger
-- [2025 Vår Saksforslag](/generalforsamlingen/genfors2025v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-- [2025 Vår Vedtektsforslag](/generalforsamlingen/genfors2025v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-- [2025 Vår Kandidater](/generalforsamlingen/genfors2025v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+- [2025 Vår Forside](/generalforsamlinger/2025-v) - Forside
+- [2025 Vår Forretningsorden](/generalforsamlinger/2025-v/forretningsorden) - Forretningsorden
+- [2025 Vår Dagsorden](/generalforsamlinger/2025-v/dagsorden) - Dagsorden for generalforsamlingen
+- [2025 Vår Halvårsberetninger](/generalforsamlinger/2025-v/aarsberetninger) - Halvårsberetninger
+- [2025 Vår Saksforslag](/generalforsamlinger/2025-v/saksforslag) - Alle innsendte saker vil bli tatt opp.
+- [2025 Vår Vedtektsforslag](/generalforsamlinger/2025-v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2025 Vår Kandidater](/generalforsamlinger/2025-v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 17. februar kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp.
 

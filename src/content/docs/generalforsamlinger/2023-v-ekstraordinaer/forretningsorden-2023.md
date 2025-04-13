@@ -3,11 +3,11 @@ title: "Forretningsorden"
 ---
 
 ## Innhold
-* [2023 Forside](/generalforsamlingen/ekstrav23)   - Forside
-* [2023 Vedtektsforslag](/generalforsamlingen/ekstrav23/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2023 Dagsorden](/generalforsamlingen/ekstrav23/dagsorden-23) - Dagsorden for generalforsamlingen
-* [2023 Forretningsorden](/generalforsamlingen/ekstrav23/forretningsorden-2023) - Forretningsorden
-* [2023 Kandidater](/generalforsamlingen/ekstrav23/valg) - Ny leder Debug og Appkom 
+* [2023 Forside](/generalforsamlinger/2023-v-ekstraordinaer)   - Forside
+* [2023 Vedtektsforslag](/generalforsamlinger/2023-v-ekstraordinaer/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Dagsorden](/generalforsamlinger/2023-v-ekstraordinaer/dagsorden-23) - Dagsorden for generalforsamlingen
+* [2023 Forretningsorden](/generalforsamlinger/2023-v-ekstraordinaer/forretningsorden-2023) - Forretningsorden
+* [2023 Kandidater](/generalforsamlinger/2023-v-ekstraordinaer/valg) - Ny leder Debug og Appkom 
 
 ## 1 Generalforsamlingen
 Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag, budsjett for neste periode og velge nytt Hovedstyre.

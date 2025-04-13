@@ -2,13 +2,13 @@
 title: "Vedtektsforslag 2020"
 ---
 
-* [2020 Forside](/generalforsamlingen/genfors2020)   - Forside
-* [2020 Forretningsorden](/generalforsamlingen/genfors2020/forretningsorden) - Forretningsorden
-* [2020 Dagsorden](/generalforsamlingen/genfors2020/dagsorden) - Dagsorden for generalforsamlingen
-* [2020 Årsberetninger](/generalforsamlingen/genfors2020/aarsberetninger) - Årsberetninger
-* [2020 Saksforslag](/generalforsamlingen/genfors2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2020 Vedtektsforslag](/generalforsamlingen/genfors2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2020 Kandidater](/generalforsamlingen/genfors2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+* [2020 Forside](/generalforsamlinger/2020)   - Forside
+* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden) - Forretningsorden
+* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
+* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
+* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 ** Hva er et vedtektsforslag? **
 

@@ -2,12 +2,12 @@
 title: "Årsberetninger 2017"
 ---
 
-* [2017 Forretningsorden](/generalforsamlingen/2017/forretningsorden) - Forretningsorden
-* [2017 Dagsorden](/generalforsamlingen/2017/dagsorden) - Dagsorden for generalforsamlingen
-* [2017 Årsberetninger](/generalforsamlingen/2017/aarsberetninger) - Årsberetninger
-* [2017 Saksforslag](/generalforsamlingen/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2017 Vedtektsforslag](/generalforsamlingen/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2017 Kandidater til Hovedstyret](/generalforsamlingen/2017/valg) - Er du klar for et verv i Hovedstyret?
+* [2017 Forretningsorden](/generalforsamlinger/2017/forretningsorden) - Forretningsorden
+* [2017 Dagsorden](/generalforsamlinger/2017/dagsorden) - Dagsorden for generalforsamlingen
+* [2017 Årsberetninger](/generalforsamlinger/2017/aarsberetninger) - Årsberetninger
+* [2017 Saksforslag](/generalforsamlinger/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2017 Vedtektsforslag](/generalforsamlinger/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2017 Kandidater til Hovedstyret](/generalforsamlinger/2017/valg) - Er du klar for et verv i Hovedstyret?
 
 [TOC]
 

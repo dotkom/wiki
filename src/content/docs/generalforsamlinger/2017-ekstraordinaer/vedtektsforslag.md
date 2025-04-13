@@ -2,11 +2,11 @@
 title: "Vedtektsforslag"
 ---
 
-* [2017 Forretningsorden](/generalforsamlingen/ekstra2017/forretningsorden) - Forretningsorden
-* [2017 Dagsorden](/generalforsamlingen/ekstra2017/dagsorden) - Dagsorden for generalforsamlingen
-* [2017 Saksforslag](/generalforsamlingen/ekstra2017/saksforslag) - Foreslåtte saksforslag
-* [2017 Vedtektsforslag](/generalforsamlingen/ekstra2017/vedtektsforslag) - Foreslåtte endringer til vedtektene. 
-* [2017 Kandidater](/generalforsamlingen/ekstra2017/valg) - Er du klar for et eventuelt verv?
+* [2017 Forretningsorden](/generalforsamlinger/2017-ekstraordinaer/forretningsorden) - Forretningsorden
+* [2017 Dagsorden](/generalforsamlinger/2017-ekstraordinaer/dagsorden) - Dagsorden for generalforsamlingen
+* [2017 Saksforslag](/generalforsamlinger/2017-ekstraordinaer/saksforslag) - Foreslåtte saksforslag
+* [2017 Vedtektsforslag](/generalforsamlinger/2017-ekstraordinaer/vedtektsforslag) - Foreslåtte endringer til vedtektene. 
+* [2017 Kandidater](/generalforsamlinger/2017-ekstraordinaer/valg) - Er du klar for et eventuelt verv?
 
 Vedtektsforslag under ekstraordinær generalforsamling kan kun stilles av de som kalte inn til generalforsamling, i dette tilfellet Hovedstyret. Vedtektsforslagene skal ha noe med formålet til generalforsamlingen å gjøre.
 
@@ -21,7 +21,7 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 **Bakgrunn**: Online har de siste årene gått i solide overskudd og etterhvert begynt å opparbeide seg en ganske stor pengebuffer. Det er per nå ikke noe stort rom for å gå mye utover budsjetterte midler til innkjøp som gagner foreningen, noe vi ønsker å gjøre noe med. Dette er ikke et investeringsfond, men et fond som skal forvalte en gitt pengebase forsvarlig, samtidig som pengene skal kunne komme online til gode for store investeringer. Vedtektene legges inn som et supplement til nåværende vedtekter og oppretter en _organisasjon i organisasjonen_. Per nå er dette kun en oppstart og tanken er at pengesøknader skal kunne komme etter ordinær generalforsamling der hvor regnskapet for 2017 blant annet legges frem. Stillingstittel til leder for bank- og økonomikomiteen endres til økonomiansvarlig, da stillingen vil få en god del ekstra arbeidsoppgaver i tillegg til å lede bank- og økonomikomiteen.
 
 **Hva endres?**  
-Legge inn vedtekter for fond som finnes [på wikisiden her](/generalforsamlingen/ekstra2017/fondvedtekter) og endringene under.
+Legge inn vedtekter for fond som finnes [på wikisiden her](/generalforsamlinger/2017-ekstraordinaer/fondvedtekter) og endringene under.
 
 **Endres fra:**
 

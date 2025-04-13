@@ -4,13 +4,13 @@ date: 2023-10-16
 ---
 
 ## Innhold
-* [2023 Høst Forside](/generalforsamlingen/genfors2023h)   - Forside
-* [2023 Høst Forretningsorden](/generalforsamlingen/genfors2023h/forretningsorden) - Forretningsorden
-* [2023 Høst Dagsorden](/generalforsamlingen/genfors2023h/dagsorden) - Dagsorden for generalforsamlingen
-* [2023 Høst Halvårsberetninger](/generalforsamlingen/genfors2023h/aarsberetninger) - Årsberetninger
-* [2023 Høst Saksforslag](/generalforsamlingen/genfors2023h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2023 Høst Vedtektsforslag](/generalforsamlingen/genfors2023h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2023 Høst Kandidater](/generalforsamlingen/genfors2023h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2023 Høst Forside](/generalforsamlinger/2023-h)   - Forside
+* [2023 Høst Forretningsorden](/generalforsamlinger/2023-h/forretningsorden) - Forretningsorden
+* [2023 Høst Dagsorden](/generalforsamlinger/2023-h/dagsorden) - Dagsorden for generalforsamlingen
+* [2023 Høst Halvårsberetninger](/generalforsamlinger/2023-h/aarsberetninger) - Årsberetninger
+* [2023 Høst Saksforslag](/generalforsamlinger/2023-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2023 Høst Vedtektsforslag](/generalforsamlinger/2023-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Høst Kandidater](/generalforsamlinger/2023-h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2023 Høst](https://docs.google.com/presentation/d/1X4QmPVh5e_cNDm7kb78r5goNMCaHhhE0y7cEzJYabO4/edit?usp=sharing)
@@ -48,7 +48,7 @@ Om du har en sak du vil at Hovedstyret for perioden 23/24 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/genfors2023v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2023-v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 
