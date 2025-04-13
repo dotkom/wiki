@@ -12,18 +12,7 @@ import {
 import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
 import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
 
-/*
-Available frontmatter keys:
-- title: string
-- date: string
-- child-directories-sort: "asc" | "desc" | "date"
-- child-files-sort: "asc" | "desc" | "date"
-
-Notes:
-- date should be parsable by new Date()
-- child-directories-sort will sort all directories in same directory, but not all subdirectories.
-- child-files-sort will sort all files in same directory and all files in all subdirectories.
-*/
+// See README for available frontmatter keys
 
 const GENERALFORSAMLINGER_FOLDER = "generalforsamlinger";
 const HS_MEETINGS_FOLDER = "motereferater-fra-hovedstyret/";
@@ -109,7 +98,7 @@ const fileNamesToSidebarItem = (fileNames, parentDirectorySlug, includeFrontmatt
 };
 
 const getIndexFile = (files, parentSlug) => {
-	// fileNameToSidebarItem removes file extensions
+	// Index files will use the parent directory as their slug
 	const indexOfIndexFile = files.findIndex((file) => file.slug === parentSlug);
 
 	if (indexOfIndexFile === -1) {
