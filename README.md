@@ -30,35 +30,6 @@ Done automatically with GitHub Actions
 
 ---
 
-## Information about frontmatter and sidebar
-
-This project uses a custom Astro sidebar, found in `/sidebar/getSiderbar.js`. It will always place any `index.md` or `index.mdx` on the top of a directory, followed by all subdirectories, followed by all files. Using sort options in the frontmatter, you can control the order inside the files and subdirectories, but not make files appear before subdirectories.
-
-The following frontmatter can be used in the `.md` files to control the sidebar:
-
-```
-- title: string
-- ... and other default Starlight frontmatter keys
-- date: string
-- child-directories-sort: "asc" | "desc" | "date"
-- child-files-sort: "asc" | "desc" | "date"
-```
-
-Notes:
-
-- `title` will be used as the title in the sidebar and on the page. The file name will be used as a fallback if no title is provided.
-  - If the file is `index.md` or `index.mdx`, the title will also be the name of the directory.
-- `date` should be parsable by `new Date()`
-- `child-directories-sort` will sort all directories in same directory, but **not** all subdirectories.
-- `child-files-sort` will sort all files in same directory **and** all files in all subdirectories.
-
-### Special cases
-
-1. The top-level directory is not shown in the sidebar (`astro.config.mjs:69`)
-2. Any file who's path includes `/motereferater-fra-hovedstyret/` and where child items are sorted by date will have their child items (markdown files in child directories) grouped into "Høst" and "Vår". (`/sidebar/groupHsMeetings.js`)
-
----
-
 ## Wiki Guide for Managing Pages
 
 ### Overview
@@ -123,3 +94,46 @@ Follow these steps to add a picture or attachments to your wiki page:
     ```markdown
     [Attachment 1](/attachments/your-attachment.pdf)
     ```
+
+---
+
+## Information about frontmatter and sidebar
+
+This project uses a custom Astro sidebar, found in `/sidebar/getSiderbar.js`. It will always place any `index.md` or `index.mdx` on the top of a directory, followed by all subdirectories, followed by all files. Using sort options in the frontmatter, you can control the order inside the files and subdirectories, but not make files appear before subdirectories.
+
+The following frontmatter can be used in the `.md` files to control the sidebar:
+
+```
+- title: string
+- ... and other default Starlight frontmatter keys
+- date: string
+- child-directories-sort: "asc" | "desc" | "date"
+- child-files-sort: "asc" | "desc" | "date"
+```
+
+Notes:
+
+- `title` will be used as the title in the sidebar and on the page. The file name will be used as a fallback if no title is provided.
+  - If the file is `index.md` or `index.mdx`, the title will also be the name of the directory.
+- `date` should be parsable by `new Date()`
+- `child-directories-sort` will sort all directories in same directory, but **not** all subdirectories.
+- `child-files-sort` will sort all files in same directory **and** all files in all subdirectories.
+
+### Special cases
+
+1. The top-level directory is not shown in the sidebar (`astro.config.mjs:69`)
+2. Any directory:
+    - who's path includes `motereferater-fra-hovedstyret/`
+    - AND where child items are sorted by date
+   
+   will have their child files grouped into "Høst" and "Vår". This does not alter any URLs. (`/sidebar/groupHsMeetings.js`)
+3. Any file:
+    - who's path includes `generalforsamlinger`
+    - AND where child directories are sorted by date
+    
+    will have all but their three first child directories grouped into "Tidligere generalforsamlinger". This does not alter any URLs. (`/sidebar/groupGeneralforsamlinger.js`)
+4. Any file:
+    - whos path includes `generalforsamlinger`
+    - AND matches the regex in `/sidebar/trimGeneralforsamlingerDirectoryLabel.js`
+    
+    will have `"Genfors "` trimmed from their title in the sidebar. (`/sidebar/trimGeneralforsamlingerDirectoryLabel.js`)
