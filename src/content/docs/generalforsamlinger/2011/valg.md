@@ -3,8 +3,8 @@ title: "Kandidater til Hovedstyret"
 ---
 
 Se også:
-* [2011 Hovedstyrets vedtektsforslag](/generalforsamlingen/2011/hs-vedtektsforslag) - Mange Onlinere har vært med å skrive dette forslaget til totalrevidering.
-* [2011 Separate vedtektsforslag](/generalforsamlingen/2011/separate-vedtekstforslag) - Endringer som kan skape større kontrovers.
+* [2011 Hovedstyrets vedtektsforslag](/generalforsamlinger/2011/hs-vedtektsforslag) - Mange Onlinere har vært med å skrive dette forslaget til totalrevidering.
+* [2011 Separate vedtektsforslag](/generalforsamlinger/2011/separate-vedtekstforslag) - Endringer som kan skape større kontrovers.
 
 - - -
 
