@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2012"
+date: 2012-01-01
 ---
 
 * [2012 Saksliste](/generalforsamlingen/2012/saksliste) - Saksliste for generalforsamlingen 2012

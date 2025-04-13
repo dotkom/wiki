@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2019"
+date: 2019-03-11
 ---
 
 * [2019 Forside](/generalforsamlingen/genfors2019)   - Forside

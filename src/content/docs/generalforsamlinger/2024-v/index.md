@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2024 vår"
+date: 2024-02-26
 ---
 
 ## Innhold
