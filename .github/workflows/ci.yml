@@ -5,6 +5,10 @@ on:
     branches:
       - static-hosting-test
       - main
+  push:
+    branches:
+      - static-hosting-test
+      - main
 
 
 jobs:
