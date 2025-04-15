@@ -1,0 +1,32 @@
+name: CI
+
+on:
+  pull_request:
+    branches:
+      - static-hosting-test
+      - main
+
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: oven-sh/setup-bun@v1
+        with:
+          bun-version: latest
+
+      - name: Install dependencies
+        run: bun install
+      - name: Build project
+        run: bun run build
+
+      - uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-north-1
+          role-to-assume: arn:aws:iam::891459268445:role/WikiProdDeploymentRole
+      - name: Deploy to S3
+        run: |
+          aws s3 sync ./dist s3://wiki.staging.online.ntnu.no --delete
+          aws cloudfront create-invalidation --distribution-id arn:aws:cloudfront::891459268445:distribution/EAJ8LK5O4AL25 --paths '/*'
