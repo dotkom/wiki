@@ -7,6 +7,6 @@ Hovedstyret ber om at du sender inn saker du vil fremme, eller spørsmål du vil
 
 
 
-* [2016 Saker fra Hovedstyret](/info/innsikt-og-interface/diskusjonskveldmedhs/2016/sakerfrahovedstyret)
-* [2016 Saker fra medlemmer](/info/innsikt-og-interface/diskusjonskveldmedhs/2016/sakerframedlemmer)
+* [2016 Saker fra Hovedstyret](https://wiki.online.ntnu.no/info/innsikt-og-interface/diskusjonskveldmedhs/2016/sakerfrahovedstyret/)
+* [2016 Saker fra medlemmer](https://wiki.online.ntnu.no/info/innsikt-og-interface/diskusjonskveldmedhs/2016/sakerframedlemmer/)
 * [2016 Møtereferat fra diskusjonskveld](/info/innsikt-og-interface/diskusjonskveldmedhs/2016/møtereferatfradiskusjonskveld)

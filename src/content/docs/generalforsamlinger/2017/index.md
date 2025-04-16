@@ -12,7 +12,7 @@ date: 2017-04-25
 
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 390](/attachments/390-Onlines_vedtekter_2016.pdf)    
+Onlines vedtekter finner du her: [vedlegg 390](https://wiki.online.ntnu.no/attachments/390-Onlines_vedtekter_2016.pdf)    
 Referat fra generalforsamlingen 2016 finner du [her](https://docs.google.com/document/d/1bdfl_0JeUXOgTTfzSxqy810MSbr3JGKxOWVLt_Lry7M/edit?usp=sharing).
 
 # Regnskap 2016 og budsjett 17/18
@@ -23,7 +23,7 @@ Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart.
 * [Budsjett 2017/2018](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
 
 # Referat fra årets generalforsamling
-Referat fra generalforsamlingen 2017 finner du her: [vedlegg 405](/attachments/405-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)    
+Referat fra generalforsamlingen 2017 finner du her: [vedlegg 405](https://wiki.online.ntnu.no/attachments/405-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)    
 
 # Informasjon
 

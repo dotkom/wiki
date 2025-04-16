@@ -21,11 +21,11 @@ Onlines fonds vedtekter:  [Vedtekter Fondet](https://github.com/dotkom/Onlines_F
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)   
-Referat Generalforsamlingen Høst 2023: [vedlegg 847](/attachments/847-Referat_Onlines_generalforsamling_H2023.pdf)
+Referat Generalforsamlingen Høst 2023: [vedlegg 847](https://wiki.online.ntnu.no/attachments/847-Referat_Onlines_generalforsamling_H2023.pdf)
 
-Referat fra genVORS: [vedlegg 849](/attachments/849-Referat_genVORS_V2024.pdf)
+Referat fra genVORS: [vedlegg 849](https://wiki.online.ntnu.no/attachments/849-Referat_genVORS_V2024.pdf)
 
-Referat fra Generalforsamling våren 2024: [vedlegg 850](/attachments/850-Referat_Onlines_generalforsamling_V2024.pdf)
+Referat fra Generalforsamling våren 2024: [vedlegg 850](https://wiki.online.ntnu.no/attachments/850-Referat_Onlines_generalforsamling_V2024.pdf)
 
 
 ## Regnskap 2023 og budsjett 2024
@@ -47,7 +47,7 @@ Om du har en sak du vil at Hovedstyret for perioden 24/25 skal fokusere på, og 
 
 Ønsker du å forandre på [vedtektene](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) **senest to uker før** generalforsamlingen. Det vil si ** 12. februar 2024, kl.23:59**. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](https://wiki.online.ntnu.no/okogved/).
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2024-v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 

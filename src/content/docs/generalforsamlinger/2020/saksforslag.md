@@ -73,7 +73,7 @@ Tradisjonelle kontorvakter fjernes til fordel for utprøving av en ny ordning. O
 ## Sak 5 - Øke støtten til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
 **Begrunnelse**
 
-I bank- og økonomikomiteens [retningslinjer](/info/innsikt-og-interface/retningslinjer/bankom/) §3.4 står det:
+I bank- og økonomikomiteens [retningslinjer](https://wiki.online.ntnu.no/info/innsikt-og-interface/retningslinjer/bankom/) §3.4 står det:
 >Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring.
 
 De siste to årene har hvert immball hatt 80 000 kroner i støtte fra Online. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
@@ -149,7 +149,7 @@ To vedtektsforslag krever endring av valgprosessen. Siden saksforslag kommer fø
 **Forslag:**
 Dersom splittelse av komitéleder vedtas legges valg av komitéledere inn i dagsorden:
 
-[Endret dagsorden for å inkludere dette](/generalforsamlinger/2020/alternativ-dagsorden-2020/)
+[Endret dagsorden for å inkludere dette](https://wiki.online.ntnu.no/generalforsamlinger/2020/alternativ-dagsorden-2020/)
 
   
 ## Sak 11 - Endring av dagsorden dersom forslag om intern valg av komitéleder går gjennom (AUO)  
@@ -162,6 +162,6 @@ Dersom internt valg også vedtas foreslår vi et spesielt tilfelle for 2020. Sid
 
 Dagsorden oppdateres til å ikke ha valg av komitéledere. 
 
-[Endret dagsorden for å inkludere dette](/generalforsamlinger/2020/alternativ-dagsorden-2020-2/)  
+[Endret dagsorden for å inkludere dette](https://wiki.online.ntnu.no/generalforsamlinger/2020/alternativ-dagsorden-2020-2/)  
 
 # Saksforslag for Online Fond

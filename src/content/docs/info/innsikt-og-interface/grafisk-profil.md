@@ -64,13 +64,13 @@ I tillegg kan det være ønskelig å bruke andre nyanser av blå og oransje på 
 Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste ned kits og enkeltstående bilder nedenfor.
 
 ## Kits
-### [Logokit](/attachments/677-Logokit.zip) - Inneholder alle logoversjoner på .png og .svg-format
+### [Logokit](https://wiki.online.ntnu.no/attachments/677-Logokit.zip) - Inneholder alle logoversjoner på .png og .svg-format
 
 ## PNG - enkeltbilder
-### [Blå](/attachments/679-Online_bla.png) - logo
-### [Blå](/attachments/680-Online_bla_o.png) - ikon
-### [Hvit](/attachments/681-Online_hvit.png) - logo
-### [Hvit](/attachments/682-Online_hvit_o.png) - ikon
+### [Blå](https://wiki.online.ntnu.no/attachments/679-Online_bla.png) - logo
+### [Blå](https://wiki.online.ntnu.no/attachments/680-Online_bla_o.png) - ikon
+### [Hvit](https://wiki.online.ntnu.no/attachments/681-Online_hvit.png) - logo
+### [Hvit](https://wiki.online.ntnu.no/attachments/682-Online_hvit_o.png) - ikon
 
 ## SVG - enkeltbilder 
 

@@ -12,16 +12,16 @@ date: 2019-03-11
 * [2019 Kandidater](/generalforsamlinger/2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Onlines vedtekter: [vedlegg 635](/attachments/635-Onlines_Vedtekter_Signed.pdf)  
-Onlines fonds vedtekter: [vedlegg 637](/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
-Referat: [vedlegg 636](/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf)
+Onlines vedtekter: [vedlegg 635](https://wiki.online.ntnu.no/attachments/635-Onlines_Vedtekter_Signed.pdf)  
+Onlines fonds vedtekter: [vedlegg 637](https://wiki.online.ntnu.no/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat: [vedlegg 636](https://wiki.online.ntnu.no/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf)
 
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 551](/attachments/551-vedtekter.pdf)  
-Onlines fonds vedtekter finner du her: [vedlegg 550](/attachments/550-Vedtekter_fond_2018.pdf)  
-Referat fra generalforsamlingen 2018 finner du her: [vedlegg 552](/attachments/552-Referat_fra_Onlines_generalforsamling_2018.pdf)  
+Onlines vedtekter finner du her: [vedlegg 551](https://wiki.online.ntnu.no/attachments/551-vedtekter.pdf)  
+Onlines fonds vedtekter finner du her: [vedlegg 550](https://wiki.online.ntnu.no/attachments/550-Vedtekter_fond_2018.pdf)  
+Referat fra generalforsamlingen 2018 finner du her: [vedlegg 552](https://wiki.online.ntnu.no/attachments/552-Referat_fra_Onlines_generalforsamling_2018.pdf)  
 
 ## Regnskap 2018 og budsjett 19/20
 
@@ -36,7 +36,7 @@ Om du har en sak du vil at Hovedstyret for perioden 19/20 skal fokusere på, og 
 
 Ønsker du å forandre på vedtektene (se ovenfor) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til hovedstyret@online.ntnu.no senest to uker før generalforsamlingen. Det vil si 25. februar 2019. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](/okogved/) 21. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
+Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](https://wiki.online.ntnu.no/okogved/) 21. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
 Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2019/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 

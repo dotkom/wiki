@@ -11,8 +11,8 @@ date: 2017-11-01
 
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 424](/attachments/424-vedtekter-signert-av-paraferer.pdf)      
-Referat fra generalforsamlingen 2017 finner du her: [vedlegg 423](/attachments/423-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)  
+Onlines vedtekter finner du her: [vedlegg 424](https://wiki.online.ntnu.no/attachments/424-vedtekter-signert-av-paraferer.pdf)      
+Referat fra generalforsamlingen 2017 finner du her: [vedlegg 423](https://wiki.online.ntnu.no/attachments/423-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)  
 
 # Budsjett
 
