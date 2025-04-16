@@ -2,13 +2,13 @@
 title: "Kandidater 2020"
 ---
 
-* [2020 Forside](/generalforsamlinger/2020)   - Forside
-* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden) - Forretningsorden
-* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
-* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
-* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2020 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2020)   - Forside
+* [2020 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/forretningsorden) - Forretningsorden
+* [2020 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
+* [2020 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
+* [2020 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2020 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2020 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
@@ -36,7 +36,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 ### Alternativ kandidatliste
 
-Grunnet vedtektsforslag og saksforslag som endrer valgprosessen i år har Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur åpnet en alternativ kandidatliste. Den alternative kandidatlisten dekker det mulige tilfellet der komitélederrollen blir splittet inn i styremedlem og komitéleder, som du kan lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag/#wiki-toc-forslag-23-splittelse-av-det-to-delte-vervet-auo).
+Grunnet vedtektsforslag og saksforslag som endrer valgprosessen i år har Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur åpnet en alternativ kandidatliste. Den alternative kandidatlisten dekker det mulige tilfellet der komitélederrollen blir splittet inn i styremedlem og komitéleder, som du kan lese mer om [**her**](https://wiki.online.ntnu.no/generalforsamlinger/2020/vedtekstforslag/#wiki-toc-forslag-23-splittelse-av-det-to-delte-vervet-auo).
 
 Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
 

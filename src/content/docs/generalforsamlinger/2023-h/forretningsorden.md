@@ -3,13 +3,13 @@ title: "Forretningsorden Høsten 2023"
 ---
 
 ## Innhold  
-* [2023 Høst Forside](/generalforsamlinger/2023-h)   - Forside
-* [2023 Høst Forretningsorden](/generalforsamlinger/2023-h/forretningsorden) - Forretningsorden
-* [2023 Høst Dagsorden](/generalforsamlinger/2023-h/dagsorden) - Dagsorden for generalforsamlingen
-* [2023 Høst Halvårsberetninger](/generalforsamlinger/2023-h/aarsberetninger) - Halvårsberetninger
-* [2023 Høst Saksforslag](/generalforsamlinger/2023-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2023 Høst Vedtektsforslag](/generalforsamlinger/2023-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2023 Høst Kandidater](/generalforsamlinger/2023-h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2023 Høst Forside](https://wiki.online.ntnu.no/generalforsamlinger/2023-h)   - Forside
+* [2023 Høst Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2023-h/forretningsorden) - Forretningsorden
+* [2023 Høst Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2023-h/dagsorden) - Dagsorden for generalforsamlingen
+* [2023 Høst Halvårsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2023-h/aarsberetninger) - Halvårsberetninger
+* [2023 Høst Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2023-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2023 Høst Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2023-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Høst Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2023-h/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## 1 Generalforsamlingen
 Generalforsamlingen skal bli informert om fjorårets regnskap, behandle innsendte saks- og vedtektesforslag og velge nytt Hovedstyre.

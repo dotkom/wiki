@@ -20,7 +20,7 @@ title: "Historie"
     - [Velkomstkomiteen](https://wiki.online.ntnu.no/historie/velkom/)
     - [IT-Ekskursjonen](https://wiki.online.ntnu.no/historie/itex/)
 - [Offline](https://wiki.online.ntnu.no/offlines-historie/)
-- [Generalforsamlingen](/generalforsamlinger)
+- [Generalforsamlingen](https://wiki.online.ntnu.no/generalforsamlinger)
 - [Kontoret](https://wiki.online.ntnu.no/kontoret/)
 - [Boden på Moholt](https://wiki.online.ntnu.no/bodenpaamoholt)
 - [Realfagskjelleren](https://wiki.online.ntnu.no/realfagskjelleren)

@@ -14,13 +14,13 @@ Meeting ID: 998 2664 4797
 Passcode: 859489
 
 ## Innhold
-* [2021 Forside](/generalforsamlinger/2021)   - Forside
-* [2021 Forretningsorden](/generalforsamlinger/2021/forretningsorden) - Forretningsorden
-* [2021 Dagsorden](/generalforsamlinger/2021/dagsorden) - Dagsorden for generalforsamlingen
-* [2021 Årsberetninger](/generalforsamlinger/2021/aarsberetninger) - Årsberetninger
-* [2021 Saksforslag](/generalforsamlinger/2021/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2021 Vedtektsforslag](/generalforsamlinger/2021/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2021 Kandidater](/generalforsamlinger/2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2021 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2021)   - Forside
+* [2021 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2021/forretningsorden) - Forretningsorden
+* [2021 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2021/dagsorden) - Dagsorden for generalforsamlingen
+* [2021 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2021/aarsberetninger) - Årsberetninger
+* [2021 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2021/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2021 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2021/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2021 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter:  [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf)
@@ -50,7 +50,7 @@ Om du har en sak du vil at Hovedstyret for perioden 21/22 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Informasjon om dette kommer senere.
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2021/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2021/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Hva: Onlines generalforsamling  
 Dato: 1. mars  

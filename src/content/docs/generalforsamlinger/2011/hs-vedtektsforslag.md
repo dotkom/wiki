@@ -6,8 +6,8 @@ title: "Hovedstyrets vedtektsforslag"
 
 Se også:
 
-* [2011 Separate vedtektsforslag](/generalforsamlinger/2011/separate-vedtekstforslag) - Endringer som kan skape større kontrovers.
-* [2011 Kandidater til Hovedstyret](/generalforsamlinger/2011/valg) - Er du klar for et verv i Hovedstyret?
+* [2011 Separate vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2011/separate-vedtekstforslag) - Endringer som kan skape større kontrovers.
+* [2011 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2011/valg) - Er du klar for et verv i Hovedstyret?
 
 
 Dette er et forslag Hovedstyret har utarbeidet da Onlines gamle vedtekter ikke er solide nok. Den letteste måten å gjøre denne oppvasken på er å totalrevidere strukturen og deretter fremme forslag om endring til denne.

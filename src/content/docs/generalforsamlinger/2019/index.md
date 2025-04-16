@@ -3,13 +3,13 @@ title: "Genfors 2019"
 date: 2019-03-11
 ---
 
-* [2019 Forside](/generalforsamlinger/2019)   - Forside
-* [2019 Forretningsorden](/generalforsamlinger/2019/forretningsorden) - Forretningsorden
-* [2019 Dagsorden](/generalforsamlinger/2019/dagsorden) - Dagsorden for generalforsamlingen
-* [2019 Årsberetninger](/generalforsamlinger/2019/aarsberetninger) - Årsberetninger
-* [2019 Saksforslag](/generalforsamlinger/2019/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2019 Vedtektsforslag](/generalforsamlinger/2019/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2019 Kandidater](/generalforsamlinger/2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2019 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2019)   - Forside
+* [2019 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2019/forretningsorden) - Forretningsorden
+* [2019 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2019/dagsorden) - Dagsorden for generalforsamlingen
+* [2019 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2019/aarsberetninger) - Årsberetninger
+* [2019 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2019/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2019 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2019/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2019 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter: [vedlegg 635](https://wiki.online.ntnu.no/attachments/635-Onlines_Vedtekter_Signed.pdf)  
@@ -38,7 +38,7 @@ Om du har en sak du vil at Hovedstyret for perioden 19/20 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](https://wiki.online.ntnu.no/okogved/) 21. februar. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2019/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2019/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. Det blir gratis pizza til alle som møter opp.
 

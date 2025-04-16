@@ -65,7 +65,7 @@ title: "Dagsorden"
 
 21:15 - Pause (5 min)
 
-* 16 Valg - Se [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg)
+* 16 Valg - Se [2016 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2016/valg)
     * 16.1 - Valg av leder
     * 16.2 - Valg av nestleder
     * 16.3 - Valg av leder for arrKom
