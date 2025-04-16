@@ -51,7 +51,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Leonardo](http://industrielldesign.no) (1994) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992459425) | Industriell design | Styrebånd (hvite) | [Institutt for (produkt)Design](http://use.mazemap.com/#&v=1&dest=35936&desttype=poi) | The Sign | [Page](http://fb.com/LeonardoLinjeforening), [Person](http://fb.com/leonardo.linjeforening.7), [Group](http://fb.com/groups/142627265775491/) | |
 | [Logitas](http://www.logitas.no/) (1989) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikkingeniør | Styrebånd (Gult med rød stripe) | [Gemba](https://link.mazemap.com/EigLnAdY) |  | [Page](https://www.facebook.com/profile.php?id=100064073106026) | |
 | [Mannhullet](http://mannhullet.no) (1917) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991538836) | Marin teknikk | Styrebånd (mørkeblå), NTH-medaljer | Marinteknisk senter, a1.003 | Marina | [Page](http://fb.com/pages/Mannhullet/161454280549602/)| [Boksalg](http://fb.com/groups/245012782293185/) |
-| [MiT](/ https:/www.maskining.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | Syrebånd (blå med oransje stripe) | [VE23](https://link.mazemap.com/dNwgWu2g) |  leder@maskining.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
+| [MiT](https:/www.maskining.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | Syrebånd (blå med oransje stripe) | [VE23](https://link.mazemap.com/dNwgWu2g) |  leder@maskining.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
 | [Nabla](http://nabla.no) (1943) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992168544) | FysMat | Styrebånd (blå med gullkant) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7594&desttype=poi) | [Nabladet](http://nabla.no/nabladet/) | [Group](http://fb.com/groups/2248934869/) | [Boksalg](http://fb.com/groups/274516045996844/) |
 | [Nutrix](http://nutrix.no) (2011) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | Styrebånd (hvit/lyseblå)| | post@nutrix.no | [Page](http://fb.com/pages/Nutrix/297838347011022) 
 | [Omega](http://omega.ntnu.no) (1919) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=890384692) | ElSys og Kyb | Styrebånd (hvit/sort) | [Gamle elektro](https://link.mazemap.com/tKXG2Ncn) | [OmBul](http://omega.ntnu.no/ombul/) | [Page](http://fb.com/SctOmegaBroderskab), [Group](http://fb.com/groups/omega.ntnu/) |[Boksalg](https://www.facebook.com/groups/826883277342963/) |
@@ -290,7 +290,7 @@ døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
 tilbake til oss på kontakt@online.ntnu.no
 
-![Bilde 518](/assets/images/518-Gloshaugenkartet.png)
+![Bilde 518](../../../../../assets/images/518-Gloshaugenkartet.png)
     Gløshaugenkartet
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601

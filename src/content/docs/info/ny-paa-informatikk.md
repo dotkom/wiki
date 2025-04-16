@@ -39,4 +39,4 @@ Hvis du lurer på noe mer, er det sikkert noen andre som også gjør det. Send g
 Hovedstyret behandler søknadene fortløpende og spørsmål kan rettes til hovedstyret@online.ntnu.no.
 
 **Eksempel på dokumentasjon**
-![Bilde 749](/assets/images/749-dokumentasjon.jpeg)
+![Bilde 749](../../../assets/images/749-dokumentasjon.jpeg)
