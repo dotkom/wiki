@@ -1,25 +1,27 @@
-import { getFrontmatter } from "./utils";
-
 const JULY = 6;
 const FIFTEENTH = 15;
 
-export const groupHsMeetings = (files) => {
-	const groups = files.reduce(
+export const groupHsMeetings = (filesWithFrontmatter) => {
+	const groups = filesWithFrontmatter.reduce(
 		(acc, file) => {
-			const rawDate = getFrontmatter(file.content, "date");
+			const rawDate = file.frontmatter?.date ?? 0;
+
 			if (!rawDate) {
 				acc.other.push(file);
-			} else {
-				const date = new Date(rawDate);
-				const cutoff = new Date(date);
-				cutoff.setMonth(JULY, FIFTEENTH);
 
-				if (date > cutoff) {
-					acc.autumn.push(file);
-				} else {
-					acc.spring.push(file);
-				}
+				return acc;
 			}
+
+			const date = new Date(rawDate);
+			const cutoff = new Date(date);
+			cutoff.setMonth(JULY, FIFTEENTH);
+
+			if (date > cutoff) {
+				acc.autumn.push(file);
+			} else {
+				acc.spring.push(file);
+			}
+
 			return acc;
 		},
 		{ autumn: [], spring: [], other: [] }

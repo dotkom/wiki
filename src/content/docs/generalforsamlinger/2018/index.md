@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2018"
+date: 2018-03-05
 ---
 
 * [2018 Forside](/generalforsamlingen/genfors2018)   - Forside

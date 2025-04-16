@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2023 vår"
+date: 2023-03-01
 ---
 
 ## Innhold

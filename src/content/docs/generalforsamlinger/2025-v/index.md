@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2025 vår"
+date: 2025-03-03
 ---
 
 ## Innhold

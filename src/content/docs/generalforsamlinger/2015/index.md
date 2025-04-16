@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2015"
+date: 2015-04-20
 ---
 
 * [2015 Saksliste](/generalforsamlingen/2015/saksliste) - Saksliste for generalforsamlingen 2015

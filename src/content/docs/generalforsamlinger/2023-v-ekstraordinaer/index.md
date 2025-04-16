@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2023 vår (ekstraordinær)"
+date: 2023-05-02
 ---
 
 ## Innhold

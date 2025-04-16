@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2023 høst"
+date: 2023-10-16
 ---
 
 ## Innhold

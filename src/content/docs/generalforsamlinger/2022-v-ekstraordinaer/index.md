@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2022 vår (ekstraordinær)"
+date: 2022-03-22
 ---
 
 ## Innhold

@@ -1,5 +1,6 @@
 ---
 title: "Genfors 2020"
+date: 2020-03-02
 ---
 
 * [2020 Forside](/generalforsamlingen/genfors2020)   - Forside
