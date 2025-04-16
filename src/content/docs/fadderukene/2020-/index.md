@@ -12,10 +12,8 @@ Informasjonskanal for fadderukene 2021
 * [Koronavirus-informasjon](/fadderukene/2020-/korona/) 
 * [Praktisk informasjon](/fadderukene/2020-/praktiskinfo/)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
-* [Faddere](/fadderukene/2020-/Faddere)  
+* [Faddere](/fadderukene/2020-/faddere)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/search)  
-* [Program - Bachelor](https://online.ntnu.no/splash/)    
-* [Program - Master](https://online.ntnu.no/splash/)  
 * [Velkom kontaktinfo](/fadderukene/2020-/velkom/) 
 * [Greit å ha til fadderukene](/fadderukene/2020-/tamedliste/)
 
