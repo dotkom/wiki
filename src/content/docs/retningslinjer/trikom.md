@@ -5,7 +5,7 @@ title: "Retningslinjer triKom"
 Trivselskomiteen
 ===========
 
-**Disse retningslinjene blir ikke lenger vedlikeholdt, oppdatert versjon finnes [her](/info/innsikt-og-interface/retningslinjer/trikom/).**
+**Disse retningslinjene blir ikke lenger vedlikeholdt, oppdatert versjon finnes [her](https://wiki.online.ntnu.no/info/innsikt-og-interface/retningslinjer/trikom/).**
 
 ### §1 Trivselskomiteens formål
 

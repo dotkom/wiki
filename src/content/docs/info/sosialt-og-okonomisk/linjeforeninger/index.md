@@ -14,16 +14,16 @@ Tilhørende info
 
 Tilhørende wikisider
 
-*  Du er her: [Linjeforeninger på Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
-* [Linjeforeninger på Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på Kalvskinnet](/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
-* [Linjeforeninger på Tunga](/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
-* [Linjeforeninger i Ålesund](/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
-* [Linjeforeninger på Gjøvik](/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
-* [Andre linjeforeninger ved NTNU](/info/sosialt-og-okonomisk/linjeforeninger/andre/)
-* [Studentkjellere på Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+*  Du er her: [Linjeforeninger på Gløshaugen, Øya, Tyholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/)
+* [Linjeforeninger på Dragvoll](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* [Linjeforeninger på Kalvskinnet](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
+* [Linjeforeninger på Tunga](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
+* [Linjeforeninger i Ålesund](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
+* [Linjeforeninger på Gjøvik](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
+* [Andre linjeforeninger ved NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/andre/)
+* [Studentkjellere på Moholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ## Linjeforeninger
 
@@ -165,7 +165,7 @@ Arrangementer der linjeforeningene inviterer hverandre
     -   Frivillige foreninger/organisasjoner som er åpne for alle 
         studenter med formål om å bidra til positivt studentmiljøet 
         i sin respektive by kan søke.
-    -   Mer informasjon kan bli funnet her [vedlegg 523](/attachments/523-Retningslinjer_for_Velferdstingets_sponsormidler.pdf).
+    -   Mer informasjon kan bli funnet her [vedlegg 523](https://wiki.online.ntnu.no/attachments/523-Retningslinjer_for_Velferdstingets_sponsormidler.pdf).
 
 -   **Studentrådet IE** deler ut 150 000,- i året til prosjekter som gagner hovedsaklig studenter ved IE fakultetet. 
     -   Mer informasjon kan bli funnet [her](https://ie.studentrad.no/2018/04/26/velferdsmidler/).
@@ -335,5 +335,5 @@ Bilder er noe annet enn ved legg, og endres ved å trykke på `Bilder` på høyr
 - Ole Anders Stokker, 15.09.2018
 -->
 
-* [vedlegg 520](/attachments/520-Gloshaugenkartet.png) (selve kartet)
-* [vedlegg 521](/attachments/521-Gloshaugenkartet.psd) (photoshopfila)
+* [vedlegg 520](https://wiki.online.ntnu.no/attachments/520-Gloshaugenkartet.png) (selve kartet)
+* [vedlegg 521](https://wiki.online.ntnu.no/attachments/521-Gloshaugenkartet.psd) (photoshopfila)

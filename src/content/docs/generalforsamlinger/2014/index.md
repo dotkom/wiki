@@ -11,7 +11,7 @@ title: "Genfors 2014"
 ---
 
 # Vedlegg
-*  Referat fra generalforsamlingen 2014 [vedlegg 203](/attachments/203-genfors2014.pdf)
+*  Referat fra generalforsamlingen 2014 [vedlegg 203](https://wiki.online.ntnu.no/attachments/203-genfors2014.pdf)
 
 # Informasjon
 

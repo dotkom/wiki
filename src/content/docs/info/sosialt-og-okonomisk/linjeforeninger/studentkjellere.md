@@ -14,16 +14,16 @@ Tilhørende info
 
 Tilhørende wikisider
 
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
-* [Linjeforeninger på Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på Kalvskinnet](/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
-* [Linjeforeninger på Tunga](/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
-* [Linjeforeninger i Ålesund](/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
-* [Linjeforeninger på Gjøvik](/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
-* [Andre linjeforeninger ved NTNU](/info/sosialt-og-okonomisk/linjeforeninger/andre/)
-* Du er her: [Studentkjellere på Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/)
+* [Linjeforeninger på Dragvoll](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* [Linjeforeninger på Kalvskinnet](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
+* [Linjeforeninger på Tunga](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
+* [Linjeforeninger i Ålesund](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
+* [Linjeforeninger på Gjøvik](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
+* [Andre linjeforeninger ved NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/andre/)
+* Du er her: [Studentkjellere på Moholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ---
 
@@ -52,9 +52,9 @@ For øyeblikket er kjellerene fordelt slikt:
 
 Kjellerne på Moholt har lange tradisjoner for å "berge" ting, altså å ta ting fra en kjeller og overrekke til en annen (fortrinnsvis din egen). Her gjelder det enkelte regler, disse finner du her:
 
-* [vedlegg 118](/attachments/118-Bergingsregler.pdf)
+* [vedlegg 118](https://wiki.online.ntnu.no/attachments/118-Bergingsregler.pdf)
 ![Bilde 292](../../../../../assets/images/292-Moholtkjellerne.png)
 Om du vil *redigere dette kartet* er det bare å laste ned photoshopfilen nederst på denne siden og sende en oppdatert versjon tilbake til oss på kontakt@online.ntnu.no
 
-* [vedlegg 120](/attachments/120-Moholtkjellerne.png)
-* [vedlegg 119](/attachments/119-Moholtkjellerne.psd)
+* [vedlegg 120](https://wiki.online.ntnu.no/attachments/120-Moholtkjellerne.png)
+* [vedlegg 119](https://wiki.online.ntnu.no/attachments/119-Moholtkjellerne.psd)

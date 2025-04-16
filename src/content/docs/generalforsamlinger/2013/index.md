@@ -9,4 +9,4 @@ title: "Genfors 2013"
 
 ## Budsjetter og regnskap
 
-* [vedlegg 115](/attachments/115-referat_genfors_2013.pdf)
+* [vedlegg 115](https://wiki.online.ntnu.no/attachments/115-referat_genfors_2013.pdf)
