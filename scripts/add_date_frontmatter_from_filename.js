@@ -9,7 +9,7 @@ const directoryPath = path.join(
 );
 
 function forceQuotes(yamlString) {
-	return yamlString.replace(/^---\r?\n([\s\S]+?)\r?\n---/, (match, frontmatterContent) => {
+	return yamlString.replace(/^---\r?\n([\s\S]+?)\r?\n---/, (_match, frontmatterContent) => {
 		const processedFrontmatter = frontmatterContent.replace(/:(\s*)([^"'][^\r\n]*)/g, (pairMatch, space, value) => {
 			const trimmed = value.trim();
 			// If already quoted (single or double) or is "true"/"false", do nothing.
