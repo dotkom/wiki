@@ -84,15 +84,15 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Jubileumskomiteen](/historie/jubkom/)
     - [Velkomstkomiteen](/historie/velkom/)
     - [IT-Ekskursjonen](/historie/itex/)
-- [Offline](/offlines-historie/)
+- [Offline](/historie/offlines-historie/)
 - [Generalforsamlingen](/generalforsamlinger)
 - [GenVORS (Tidligere Økonomi- og vedtektskvelden)](/okogved/)
-- [Ridderne av Det Indre Lager](/ridderne/)
+- [Ridderne av Det Indre Lager](/info/ridderne/)
 - [Kontoret](/kontoret/)
-- [Realfagskjelleren](/realfagskjelleren)
-- [Datakameratene FK](/datakameratenefk)
+- [Realfagskjelleren](/grupper-under-online/realfagskjelleren)
+- [Datakameratene FK](/grupper-under-online/datakameratenefk)
 
-[Interne wikier](/wiki/)
+[Interne wikier](https://old.online.ntnu.no/wiki/)
 --------------
 
 I tillegg til en felles wiki for alle komiteer har hver komite sin egen wiki (som kun komitemedlemmene har tilgang til).

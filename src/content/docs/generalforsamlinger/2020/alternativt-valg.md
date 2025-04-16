@@ -10,7 +10,7 @@ title: "Alternativ kandidatliste 2020"
 * [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
-**OBS!** Dette er en alternativ kandidatliste for det tilfellet der splittelsen av det to-delte komitéledervervet blir vedtatt. Da deler man altså komitéleder inn i styremedlem og komitéleder, som _enda kan være samme person hvis ønskelig_. Dette vedtektsforslaget kan du lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag/#wiki-toc-forslag-23-splittelse-av-det-to-delte-vervet-auo).
+**OBS!** Dette er en alternativ kandidatliste for det tilfellet der splittelsen av det to-delte komitéledervervet blir vedtatt. Da deler man altså komitéleder inn i styremedlem og komitéleder, som _enda kan være samme person hvis ønskelig_. Dette vedtektsforslaget kan du lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag(/.
 
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 
@@ -30,7 +30,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 * *Styremedlem fra prokom:* Henrik Giil Liisberg 
 * *Styremedlem fra trikom:* Erik Skår, Thea Karin Fladby, Jon-Inge Heggstad
 
-**OBS!** Dersom vedtektsforslaget om internt valg av komitéleder _også_ går gjennom, vil komiteene velge sine egne komitéledere, som Hovedstyret godkjenner senest én måned etter generalforsamlingen. Dette vedtektsforslaget kan du lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag/#wiki-toc-forslag-24-godkjenning-av-lederkandidater).
+**OBS!** Dersom vedtektsforslaget om internt valg av komitéleder _også_ går gjennom, vil komiteene velge sine egne komitéledere, som Hovedstyret godkjenner senest én måned etter generalforsamlingen. Dette vedtektsforslaget kan du lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag(/.
 
 Hvis forslaget om internt valg _ikke_ går gjennom, vil det være ordinært valg av komitéledere på generalforsamlingen, og listen under vil være utgangspunktet for det valget.
 

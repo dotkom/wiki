@@ -118,7 +118,7 @@ Møtereferater
 - [2022-09-14](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2022/2022-09-14) - Genfors, FIF-møte og valg av styrerepresentanter
 - [2022-09-14-stormøte](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2022/2022-09-14-stormote) - Stormøte
 - [2022-09-07](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2022/2022-09-07) - Planlegger genfors
-- [2022-08-31](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2022/2022-08-31) - Omøblering og revidert Budsjett møte
+- [2022-08-30](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2022/2022-08-30) - Omøblering og revidert Budsjett møte
 - [2022-08-24](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2022/2022-08-24) - Årets første møte<3
 
 ### Vår 2022
@@ -215,7 +215,6 @@ Møtereferater
 - [2019-09-18](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2019/2019-09-18)
 - [2019-09-11](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2019/2019-09-11)
 - [2019-09-04](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2019/2019-09-04)
-- [2019-08-25](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2019/2019-08-25)
 
 ### Vår 2019
 - [2019-05-13](/info/innsikt-og-interface/motereferater-fra-hovedstyret/2019/2019-05-13)
@@ -386,6 +385,6 @@ Møtereferater
 
 #### Arkiv fra perioden før høst 2014
 
-- Møtereferater fra perioden 2011-2012: [vedlegg 141](/info/innsikt-og-interface/motereferater-fra-hovedstyret/attachments/141-HS2011-2012.zip)
-- Møtereferater fra perioden 2012-2013: [vedlegg 142](/info/innsikt-og-interface/motereferater-fra-hovedstyret/attachments/142-HS2012-2013.zip)
-- Møtereferater fra perioden 2013-2014: [vedlegg 143](/info/innsikt-og-interface/motereferater-fra-hovedstyret/attachments/143-HS2013-2014.zip)
+- Møtereferater fra perioden 2011-2012: [vedlegg 141](https://wiki.online.ntnu.no/attachments/141-HS2011-2012.zip)
+- Møtereferater fra perioden 2012-2013: [vedlegg 142](https://wiki.online.ntnu.no/attachments/142-HS2012-2013.zip)
+- Møtereferater fra perioden 2013-2014: [vedlegg 143](https://wiki.online.ntnu.no/attachments/143-HS2013-2014.zip)

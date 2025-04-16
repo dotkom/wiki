@@ -36,7 +36,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 ### Alternativ kandidatliste
 
-Grunnet vedtektsforslag og saksforslag som endrer valgprosessen i år har Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur åpnet en alternativ kandidatliste. Den alternative kandidatlisten dekker det mulige tilfellet der komitélederrollen blir splittet inn i styremedlem og komitéleder, som du kan lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag/#wiki-toc-forslag-23-splittelse-av-det-to-delte-vervet-auo).
+Grunnet vedtektsforslag og saksforslag som endrer valgprosessen i år har Arbeidsgruppen for Undersøkelse av Organisasjonsstruktur åpnet en alternativ kandidatliste. Den alternative kandidatlisten dekker det mulige tilfellet der komitélederrollen blir splittet inn i styremedlem og komitéleder, som du kan lese mer om [**her**](/generalforsamlinger/2020/vedtekstforslag(/.
 
 Som kandidatlisten over viser man interesse for kandidatur i verv, og man har enda mulighet for å stille eller godta benkeforslag under generalforsamlingen.
 
