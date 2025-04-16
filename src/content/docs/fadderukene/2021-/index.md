@@ -9,15 +9,15 @@ Informasjonskanal for fadderukene 2021
 ** OBS: Er du syk, nylig reist til utlandet eller i karantene, ikke møt opp på arrangementer(!!!) og ta kontakt med oss på velkom@online.ntnu.no ** 
 
 
-* [Koronavirus-informasjon](/fadderukene/2021-/korona) 
-* [Praktisk informasjon](/fadderukene/2021-/PraktiskInfo)
+* [Koronavirus-informasjon](https://wiki.online.ntnu.no/fadderukene/2021-/korona/) 
+* [Praktisk informasjon](https://wiki.online.ntnu.no/fadderukene/2021-/praktiskinfo)
 * [Arrangementer](https://online.ntnu.no/splash#calendar)  
-* [Faddere](/fadderukene/2021-/Faddere)  
+* [Faddere](https://wiki.online.ntnu.no/fadderukene/2021-/faddere/)  
 * [Kontaktinfosøk](https://online.ntnu.no/profile/search)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  
-* [Velkom kontaktinfo](/fadderukene/2021-/velkom) 
-* [Greit å ha til fadderukene](/fadderukene/2021-/TaMedListe)
+* [Velkom kontaktinfo](https://wiki.online.ntnu.no/fadderukene/2021-/velkom/) 
+* [Greit å ha til fadderukene](https://wiki.online.ntnu.no/fadderukene/2021-/tamedliste)
 
 
 ### Kontakt
@@ -34,7 +34,7 @@ Har du sett eller opplevd noe ugreit oppfordres det til å ta kontakt med Online
 
 - E-post: siifra@online.ntnu.no  
 - Telefon: 966 46 705  
-- Nett: [splash.online.ntnu.no](splash.online.ntnu.no/splash)  
+- Nett: [splash.online.ntnu.no](https://wiki.online.ntnu.no/splash.online.ntnu.no/splash)  
 
 
 Akutt hjelp
