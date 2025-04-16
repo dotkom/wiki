@@ -3,28 +3,28 @@ title: "Genfors 2020"
 date: 2020-03-02
 ---
 
-* [2020 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2020)   - Forside
-* [2020 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/forretningsorden) - Forretningsorden
-* [2020 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
-* [2020 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
-* [2020 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2020 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2020 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2020 Forside](/generalforsamlinger/2020)   - Forside
+* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden) - Forretningsorden
+* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
+* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
+* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
-Onlines vedtekter: [vedlegg 635](https://wiki.online.ntnu.no/attachments/635-Onlines_Vedtekter_Signed.pdf)  
-Onlines fonds vedtekter: [vedlegg 637](https://wiki.online.ntnu.no/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
-Referat 2019: [vedlegg 636](https://wiki.online.ntnu.no/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf)  
-Referat 2020: [vedlegg 751](https://wiki.online.ntnu.no/attachments/751-Referat_fra_Generalforsamling_2020.pdf)
+Onlines vedtekter: [vedlegg 635](/attachments/635-Onlines_Vedtekter_Signed.pdf)  
+Onlines fonds vedtekter: [vedlegg 637](/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat 2019: [vedlegg 636](/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf)  
+Referat 2020: [vedlegg 751](/attachments/751-Referat_fra_Generalforsamling_2020.pdf)
 
 
 
 
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 635](https://wiki.online.ntnu.no/attachments/635-Onlines_Vedtekter_Signed.pdf)  
-Onlines fonds vedtekter finner du her: [vedlegg 637](https://wiki.online.ntnu.no/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
-Referat fra generalforsamlingen 2019 finner du her: [vedlegg 636](https://wiki.online.ntnu.no/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf) 
+Onlines vedtekter finner du her: [vedlegg 635](/attachments/635-Onlines_Vedtekter_Signed.pdf)  
+Onlines fonds vedtekter finner du her: [vedlegg 637](/attachments/637-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat fra generalforsamlingen 2019 finner du her: [vedlegg 636](/attachments/636-Referat_Onlines_Generalforsamling_2019_Signert.pdf) 
 
 ## Regnskap 2019 og budsjett 20
 
@@ -41,7 +41,7 @@ Om du har en sak du vil at Hovedstyret for perioden 20/21 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til økonomi- og vedtektskveld. Informasjon om dette kommer senere.
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2020/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2020/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. Det blir gratis pizza til alle som møter opp.
 

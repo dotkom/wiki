@@ -4,7 +4,7 @@ title: "Kjære broder, rens din stemme"
 
 # Innspilling
 
-["Guldbergs Akademiske Kor - Kjære broder, rens din stemme"](https://wiki.online.ntnu.no/:http:/www.rockipedia.no/Vault.aspx?entity=1204483 _Kilde:rockipedia_)
+["Guldbergs Akademiske Kor - Kjære broder, rens din stemme"](/:http:/www.rockipedia.no/Vault.aspx?entity=1204483 _Kilde:rockipedia_)
 
 # Tekst
 

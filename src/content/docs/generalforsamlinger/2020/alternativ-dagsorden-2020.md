@@ -2,13 +2,13 @@
 title: "Alternativ Dagsorden 2020"
 ---
 
-* [2020 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2020)   - Forside
-* [2020 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/forretningsorden) - Forretningsorden
-* [2020 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
-* [2020 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
-* [2020 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2020 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2020 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+* [2020 Forside](/generalforsamlinger/2020)   - Forside
+* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden) - Forretningsorden
+* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
+* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
+* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 **Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 

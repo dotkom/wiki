@@ -8,7 +8,7 @@ title: "Referat økonomi- og vedtektskveld 2018"
 
 *Referenter: Taran og Peter*
 
-*Dagsorden: **[https://online.ntnu.no/wiki/online/okogved/dagsorden18*/](https://wiki.online.ntnu.no/okogved/dagsorden18/)* *
+*Dagsorden: **[https://online.ntnu.no/wiki/online/okogved/dagsorden18*/](/okogved/dagsorden18/)* *
 
 *Sted: R9*
 
@@ -373,7 +373,7 @@ Velkommen
 
 ### Vedtektsforslag 1 v/Agnete Djupvik
 
-[https://online.ntnu.no/wiki/online/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik](https://wiki.online.ntnu.no/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik) 
+[https://online.ntnu.no/wiki/online/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik](/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik) 
 
 Dette handler om å restrukturere Hovedstyret, og få komitélederne ut derfra. Dette er et samlet forslag med flere endringer i vedtektene. 
 
@@ -527,7 +527,7 @@ Hovedstyret vil bestå av:
 
         * Online per i dag styres av retningslinjene, de kan finnes på OW :D
 
-            * [https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/](https://wiki.online.ntnu.no/info/innsikt-og-interface/retningslinjer/) 
+            * [https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/](/info/innsikt-og-interface/retningslinjer/) 
 
 * Er dette rette tiden å gjennomføre endringene? Det er mange endringer nå i forbindelse med bl. a. samlokaliseringen.
 

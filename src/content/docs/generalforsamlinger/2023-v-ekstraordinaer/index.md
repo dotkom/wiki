@@ -4,10 +4,10 @@ date: 2023-05-02
 ---
 
 ## Innhold
-* [2023 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer)   - Forside
-* [2023 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer/dagsorden-23) - Dagsorden for generalforsamlingen
-* [2023 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer/forretningsorden-2023) - Forretningsorden
-* [2023 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer/valg) - Ny leder Debug og Appkom
+* [2023 Forside](/generalforsamlinger/2023-v-ekstraordinaer)   - Forside
+* [2023 Dagsorden](/generalforsamlinger/2023-v-ekstraordinaer/dagsorden-23) - Dagsorden for generalforsamlingen
+* [2023 Forretningsorden](/generalforsamlinger/2023-v-ekstraordinaer/forretningsorden-2023) - Forretningsorden
+* [2023 Kandidater](/generalforsamlinger/2023-v-ekstraordinaer/valg) - Ny leder Debug og Appkom
 ## Informasjon
 
 **Hva:** Ekstraordinær generalforsamling
@@ -26,4 +26,4 @@ Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekt
 Onlines fonds vedtekter: [Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter)
 
 ## Dokumenter fra årets ordinæregeneralforsamling
-Referat Generalforsamlingen 2023: [vedlegg 843](https://wiki.online.ntnu.no/attachments/843-Referat_Onlines_generalforsamlingV2023.pdf)
+Referat Generalforsamlingen 2023: [vedlegg 843](/attachments/843-Referat_Onlines_generalforsamlingV2023.pdf)

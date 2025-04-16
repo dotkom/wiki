@@ -14,16 +14,16 @@ Tilhørende info
 
 Tilhørende wikisider
 
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/)
-* Du er her: [Linjeforeninger på Dragvoll](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på Kalvskinnet](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
-* [Linjeforeninger på Tunga](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
-* [Linjeforeninger i Ålesund](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
-* [Linjeforeninger på Gjøvik](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
-* [Andre linjeforeninger ved NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/andre/)
-* [Studentkjellere på Moholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
+* Du er her: [Linjeforeninger på Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* [Linjeforeninger på Kalvskinnet](/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
+* [Linjeforeninger på Tunga](/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
+* [Linjeforeninger i Ålesund](/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
+* [Linjeforeninger på Gjøvik](/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
+* [Andre linjeforeninger ved NTNU](/info/sosialt-og-okonomisk/linjeforeninger/andre/)
+* [Studentkjellere på Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ## Linjeforeninger
 
@@ -40,11 +40,11 @@ Tilhørende wikisider
 | [Eureka](http://eurekalf.wordpress.com/) | | Europastudier | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/pages/Eureka-Linjeforening/151608164898485), [Group](http://fb.com/groups/11223227811/) | eurekalinjeforening@gmail.com | [serEØS](https://eurekalf.wordpress.com/linjeforeningsmagasinet-sereos/)
 | Fauréningen | | Musikkvitenskap | 2-426 (bygg 2, nivå 4) | [Group](https://www.facebook.com/groups/298175420253936), [Page](https://www.facebook.com/NTNUmusv) | faureningen@gmail.com |
 | [Geolf](http://geolf.org/) | | Geografi | | [Page](http://fb.com/GEOLF.ntnu) | info.geolf@gmail.com |
-| [Gengangere](https://wiki.online.ntnu.no/ https:/www.facebook.com/linjeforeningengangere/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Page](https://www.facebook.com/linjeforeningengangere/) | gengangerentnu@gmail.com |
+| [Gengangere](/ https:/www.facebook.com/linjeforeningengangere/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994754173) | Nordisk og allmenn litteraturvitenskap | | [Page](https://www.facebook.com/linjeforeningengangere/) | gengangerentnu@gmail.com |
 | [Jump Cut](http://jumpcutdragvoll.wordpress.com) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995537184) | Filmvitenskap og -produksjon | | [Page](http://fb.com/jumpcut.dragvoll) | jumpcut.dragvoll@gmail.com |
 | [IVRig](http://org.ntnu.no/ivriglinjeforening/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911689871) | Voksnes læring og rådgivningsvitenskap | | [Page](https://www.facebook.com/ivriglinjeforening/?fref=ts) | ivrig.linjeforening@gmail.com |
 | [Galleri af Klint](https://www.instagram.com/galleriafklint/) (tidl. Det Gyldne Snitt, og enda tidl. Katharsis) | | Kunsthistorie | 5424D, Bygg 5, Etasje n4 | [Group](https://www.facebook.com/profile.php?id=61563171084753&locale=nb_NO) | galleriafklint@gmail.com |
-| [Kultura](https://wiki.online.ntnu.no/www.kulturalinjeforening.no ) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911761157) | Kulturminneforvaltning | Bygg 6 nivå 4, rom 6430C | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
+| [Kultura](/www.kulturalinjeforening.no ) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=911761157) | Kulturminneforvaltning | Bygg 6 nivå 4, rom 6430C | [Group](http://fb.com/groups/kulturalinjeforening/) | kulturalinjeforening@gmail.com |
 | [Leviathan](https://www.leviathanntnu.com//) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=998131715) | Statsvitenskap | Rom 5424C, bygg 5, nivå 4 | [Page](https://www.fb.com/linjeforeningenleviathan/), [Person](https://www.fb.com/thomashobbesleviathan) | leviathan.ntnu@gmail.com |
 | Lipton | | Engelsk | 7-508 (bygg 7, nivå 5) | [Page](http://fb.com/liptonlf) | liptonlinjeforening@gmail.com |
 | [Lydmurerlosjen](https://lydmurerlosjen.no/) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=915955630)| Musikkteknologi | F303  | [Group](https://www.facebook.com/lydmurerlosjen) | styret@lydmurerlosjen.no  |

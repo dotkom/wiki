@@ -21,8 +21,8 @@ Besøk [facebook.com/gullblekka](https://www.facebook.com/gullblekka/) for oppda
 **Hvordan nominere:**  
 Frist for å sende inn nominasjoner er fredag 1. april klokken 17.00. Det vil foregå på følgende måte:
 
-Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([vedlegg 201](https://wiki.online.ntnu.no/attachments/201-Nominasjonsskjema%20Gullblekka.doc)) (et eksempel er  
-fylt ut her([vedlegg 202](https://wiki.online.ntnu.no/attachments/202-Eksempel_på_nominasjon.pdf))). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2016” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Ikke fra andre linjeforeningsaviser.
+Legg fysisk utgave av det nummeret saken/bildet er i, i én konvolutt, sammen med et utfylt nominasjonsskjema([vedlegg 201](/attachments/201-Nominasjonsskjema%20Gullblekka.doc)) (et eksempel er  
+fylt ut her([vedlegg 202](/attachments/202-Eksempel_på_nominasjon.pdf))). Om det er nominasjoner fra ulike utgaver legger dere ved alle utgavene det gjelder. Merk konvolutten med “Gullblekka 2016” og redaksjonsnavn. Hver linjeforening nominerer én kandidat til hver av kategoriene. Disse er fra egen avis. Ikke fra andre linjeforeningsaviser.
 
 Konvolutten leveres i postkassen utenfor Abakus kontoret, fjerde etasjen i Høyskoleringen 3. Det vil bli sendt kvittering når nominasjonene er mottat. Ta kontakt om dere har noen spørsmål.
 
@@ -36,5 +36,5 @@ Gullblekka er prisutdelingen for linjeredaksjonene på Gløshaugen, og har som f
 Gullblekka ble startet tidlig i 2014, på initiativ fra lederen for Profil- og aviskomiteen i Online, Thor Håkon Bredesen (redaktør for Offline i 2014/2015). Det ble kalt inn til allmøte blant redaksjonene (TODO: Linke til møtereferatene, om de er å oppdrive). Produksjonsnavnet på denne tiden var linjeforeningsavisprisutdeling. Senere endret til Gullblekka etter avstemning blant redaktørene på det andre stormøtet. Komiteen ble satt og besto av Ole, Teodor, Jonas og Thor Håkon. Den første prisutdelingen ble holdt på Olavs Pub.
 
 #### Utdelinger
-- [Utdelingen 2015](https://wiki.online.ntnu.no/gullblekka/utdelingen_2015/)
-- [Utdelingen 2014](https://wiki.online.ntnu.no/gullblekka/utdelingen_2014/)
+- [Utdelingen 2015](/gullblekka/utdelingen_2015/)
+- [Utdelingen 2014](/gullblekka/utdelingen_2014/)

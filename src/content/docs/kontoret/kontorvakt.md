@@ -86,5 +86,5 @@ title: "Kontorvakt"
 
 **Generell kontorinfo:**
 
-- [For alle](https://wiki.online.ntnu.no/kontoret/)
+- [For alle](/kontoret/)
 - [For komitémedlemmer](https://online.ntnu.no/wiki/komiteer/kontoret/)

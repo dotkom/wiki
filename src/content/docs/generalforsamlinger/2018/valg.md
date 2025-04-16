@@ -2,13 +2,13 @@
 title: "Kandidater 2018"
 ---
 
-* [2018 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2018)   - Forside
-* [2018 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2018/forretningsorden) - Forretningsorden
-* [2018 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2018/dagsorden) - Dagsorden for generalforsamlingen
-* [2018 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2018/aarsberetninger) - Årsberetninger
-* [2018 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2018 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2018 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2018 Forside](/generalforsamlinger/2018)   - Forside
+* [2018 Forretningsorden](/generalforsamlinger/2018/forretningsorden) - Forretningsorden
+* [2018 Dagsorden](/generalforsamlinger/2018/dagsorden) - Dagsorden for generalforsamlingen
+* [2018 Årsberetninger](/generalforsamlinger/2018/aarsberetninger) - Årsberetninger
+* [2018 Saksforslag](/generalforsamlinger/2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2018 Vedtektsforslag](/generalforsamlinger/2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2018 Kandidater](/generalforsamlinger/2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!
 

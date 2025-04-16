@@ -3,17 +3,17 @@ title: "Genfors 2015"
 date: 2015-04-20
 ---
 
-* [2015 Saksliste](https://wiki.online.ntnu.no/generalforsamlinger/2015/saksliste) - Saksliste for generalforsamlingen 2015
-* [2015 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2015/valg) - Er du klar for et verv i Hovedstyret?
-* [2015 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2015/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2015 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2015/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2015 Saksliste](/generalforsamlinger/2015/saksliste) - Saksliste for generalforsamlingen 2015
+* [2015 Kandidater til Hovedstyret](/generalforsamlinger/2015/valg) - Er du klar for et verv i Hovedstyret?
+* [2015 Vedtektsforslag](/generalforsamlinger/2015/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2015 Saksforslag](/generalforsamlinger/2015/saksforslag) - Alle innsendte saker vil bli tatt opp.
 
 ---
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
 
-* Vedtekter: [vedlegg 71](https://wiki.online.ntnu.no/attachments/71-vedtekter.pdf)
-* Referat fra generalforsamlingen 2014: [vedlegg 203](https://wiki.online.ntnu.no/attachments/203-genfors2014.pdf)
+* Vedtekter: [vedlegg 71](/attachments/71-vedtekter.pdf)
+* Referat fra generalforsamlingen 2014: [vedlegg 203](/attachments/203-genfors2014.pdf)
 * Budsjett og regnskap:     
 
     1. https://docs.google.com/spreadsheets/d/1xZBJKfU2GH_BnkOocPEednsOGOOMMqCBE_0PWxIXw3s/edit?usp=sharing

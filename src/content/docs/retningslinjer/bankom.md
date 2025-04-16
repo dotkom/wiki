@@ -2,7 +2,7 @@
 title: "Bank- og økonomikomiteens retningslinjer"
 ---
 
-**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](https://wiki.online.ntnu.no/info/innsikt-og-interface/retningslinjer/bankom/).**
+**Disse retningslinjene vedlikeholdes ikke, oppdaterte retningslinjer finnes [her](/info/innsikt-og-interface/retningslinjer/bankom/).**
 
 ### §1 Komiteens formål
 

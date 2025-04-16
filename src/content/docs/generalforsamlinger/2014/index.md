@@ -3,16 +3,16 @@ title: "Genfors 2014"
 date: 2014-04-01
 ---
 
-* [2014 Saksliste](https://wiki.online.ntnu.no/generalforsamlinger/2014/saksliste) - Saksliste for generalforsamlingen 2014
-* [2014 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2014/valg) - Er du klar for et verv i Hovedstyret?
-* [2014 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2014/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2014 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2014/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2014 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2014/aarsberetninger) - Oppsummering av Onlines arbeid 2013/2014
+* [2014 Saksliste](/generalforsamlinger/2014/saksliste) - Saksliste for generalforsamlingen 2014
+* [2014 Kandidater til Hovedstyret](/generalforsamlinger/2014/valg) - Er du klar for et verv i Hovedstyret?
+* [2014 Vedtektsforslag](/generalforsamlinger/2014/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2014 Saksforslag](/generalforsamlinger/2014/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2014 Årsberetninger](/generalforsamlinger/2014/aarsberetninger) - Oppsummering av Onlines arbeid 2013/2014
 
 ---
 
 # Vedlegg
-*  Referat fra generalforsamlingen 2014 [vedlegg 203](https://wiki.online.ntnu.no/attachments/203-genfors2014.pdf)
+*  Referat fra generalforsamlingen 2014 [vedlegg 203](/attachments/203-genfors2014.pdf)
 
 # Informasjon
 
