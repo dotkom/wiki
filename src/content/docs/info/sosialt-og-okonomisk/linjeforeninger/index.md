@@ -83,7 +83,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet || [Page](https://www.facebook.com/pokayokeNTNU/) | | ||
 |Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk||[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)|||
 |[ProMan](http://www.mscproman.com/) (est. 2010)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|Styrebånd (vinrødt med kremfarget kant)|[Group](https://www.facebook.com/groups/MScProMan/)||Rom 346, Sentralbygg 2|
-|[Solan](/www.solanlinjeforening.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|[NTNUs Entreprenørskole](http://www.entreprenorskolen.no)||[Page](https://www.facebook.com/solanlinjeforening/)||Oppredning/gruvedrift, 4.egt, Rom 453|
+|[Solan](https://www.solanlinjeforening.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|[NTNUs Entreprenørskole](http://www.entreprenorskolen.no)||[Page](https://www.facebook.com/solanlinjeforening/)||Oppredning/gruvedrift, 4.egt, Rom 453|
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
 |[GLOBUS](https://www.ntnu.edu/studies/msgloman) ||Global Produksjonsledelse||[Page](https://www.ntnu.edu/studies/msgloman), [Linkedin](https://www.linkedin.com/company/globus-ntnu)||209 på verkstedtekniske laboratorier|
 | [SOMA](https://www.soma-linjeforening.com) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559) | Masterstudenter ved Fakultet for Medisin og Helsevitenskap: Folkehelse, Global helse, Helseinformatikk, Jordmorfag, Klinisk helsevitenskap, Klinisk sykepleier, Medisinsk bildeteknologi, Molekylær Medisin, Nevrovitenskap, Fysisk aktivitet og Helse, Helsesykepleie og Psykisk helse | Styregenser | [Facebook](https://www.facebook.com/SOMANTNU) |  | MTFS, Studsalen |
@@ -220,10 +220,10 @@ Arrangementer der linjeforeningene inviterer hverandre
 
 -   **Lyd og lys:**
     -   Begge: [H.M. Aarhønen](http://aarhonen.no/utleie/), [HC](http://www.hc.ntnu.no)
-    -   Lyd: [Abakus](/abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
+    -   Lyd: [Abakus](https://abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
 , [Elektra](http://elektra.io)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus](/abakus.no), [Emil](http://emilntnu.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
+    -   Band: [H.M. Aarhønen][1], [Abakus](https://abakus.no), [Emil](http://emilntnu.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/the-lubricators/)
     -   Storband: [Emil](http://emilntnu.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.no/)

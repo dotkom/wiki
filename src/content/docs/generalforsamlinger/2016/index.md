@@ -11,7 +11,7 @@ title: "Genfors 2016"
 ---
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du [her](/wiki/71/plugin/attachments/download/71/)  
+Onlines vedtekter finner du her  
 Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](/attachments/304-Generalforsamlingen2015.pdf)
 
 # Regnskap 2015 og budsjett 16/17

@@ -7,8 +7,6 @@ Informasjonskanal for fadderukene 2019
 ** OBS, denne siden er under konstruksjon og mer informasjon kommer! **
 
 * [Arrangementer](/fadderukene/2019-/arrangementer/)  
-* [Faddere](/fadderukene/2019-/faddere/)  
-* [For faddere](/fadderukene/2019-/fadder/) (kun faddere har tilgang) 
 * [Kontaktinfosøk](https://online.ntnu.no/profile/user_search/)  
 * [Program - Bachelor](https://online.ntnu.no/splash/)    
 * [Program - Master](https://online.ntnu.no/splash/)  

@@ -29,7 +29,7 @@ Studentsanger
 -   [Balladen om Theobald Thor](/info/sosialt-og-okonomisk/studentsanger/theobald/) - En studentvise som handler om en
     mann som blotter seg for en kvinne og dreper hennes hund med sitt
     kjønnsorgan.
--   [Når Trondheim blir hovedstad!](/nar-trondheim-blir-hovedstad)
+-   [Når Trondheim blir hovedstad!](/info/sosialt-og-okonomisk/studentsanger/nar-trondheim-blir-hovedstad)
 
 Andre sanger
 ------------
@@ -119,7 +119,7 @@ Skåler
 ------
 
 -   [Alla har det så bra](/info/sosialt-og-okonomisk/studentsanger/sabra/)
--   [Dampbåten](/info/sosialt-og-okonomisk/studentsanger/dampbåten)
+-   [Dampbåten](/info/sosialt-og-okonomisk/studentsanger/dampbaaten)
 -   [Drikke dagen lang](/info/sosialt-og-okonomisk/studentsanger/drikkedagenlang/)
 -   [Rundup](/info/sosialt-og-okonomisk/studentsanger/rundup/)
 -   [skål - skål - skål](/info/sosialt-og-okonomisk/studentsanger/skaal/)
