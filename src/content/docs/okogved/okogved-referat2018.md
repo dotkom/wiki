@@ -373,7 +373,7 @@ Velkommen
 
 ### Vedtektsforslag 1 v/Agnete Djupvik
 
-[https://online.ntnu.no/wiki/online/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik](/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik) 
+[https://online.ntnu.no/wiki/online/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik](https://wiki.online.ntnu.no/generalforsamlinger/2018/vedtekstforslag/#wiki-toc-forslag-1-komiteledere-ut-av-hovedstyret-agnete-djupvik) 
 
 Dette handler om å restrukturere Hovedstyret, og få komitélederne ut derfra. Dette er et samlet forslag med flere endringer i vedtektene. 
 

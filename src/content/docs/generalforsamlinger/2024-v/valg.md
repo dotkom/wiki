@@ -3,13 +3,13 @@ title: "Kandidater våren 2024"
 ---
 
 ## Innhold
-* [2024 Vår Forside](/generalforsamlinger/2024-v)   - Forside
-* [2024 Vår Forretningsorden](/generalforsamlinger/2024-v/forretningsorden) - Forretningsorden
-* [2024 Vår Dagsorden](/generalforsamlinger/2024-v/dagsorden) - Dagsorden for generalforsamlingen
-* [2024 Vår Halvårsberetninger](/generalforsamlinger/2024-v/aarsberetninger) - Halvårsberetninger
-* [2024 Vår Saksforslag](/generalforsamlinger/2024-v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2024 Vår Vedtektsforslag](/generalforsamlinger/2024-v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2024 Vår Kandidater](/generalforsamlinger/2024-v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+* [2024 Vår Forside](https://wiki.online.ntnu.no/generalforsamlinger/2024-v)   - Forside
+* [2024 Vår Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2024-v/forretningsorden) - Forretningsorden
+* [2024 Vår Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2024-v/dagsorden) - Dagsorden for generalforsamlingen
+* [2024 Vår Halvårsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2024-v/aarsberetninger) - Halvårsberetninger
+* [2024 Vår Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2024-v/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2024 Vår Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2024-v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2024 Vår Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2024-v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 ## Kandidater til verv  
 Er du interessert i et verv? Legg inn deg selv i listen ved vervet du er interessert i!

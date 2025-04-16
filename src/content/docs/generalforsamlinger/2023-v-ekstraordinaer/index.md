@@ -3,10 +3,10 @@ title: "Genfors 2023 vår (ekstraordinær)"
 ---
 
 ## Innhold
-* [2023 Forside](/generalforsamlinger/2023-v-ekstraordinaer)   - Forside
-* [2023 Dagsorden](/generalforsamlinger/2023-v-ekstraordinaer/dagsorden-23) - Dagsorden for generalforsamlingen
-* [2023 Forretningsorden](/generalforsamlinger/2023-v-ekstraordinaer/forretningsorden-2023) - Forretningsorden
-* [2023 Kandidater](/generalforsamlinger/2023-v-ekstraordinaer/valg) - Ny leder Debug og Appkom
+* [2023 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer)   - Forside
+* [2023 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer/dagsorden-23) - Dagsorden for generalforsamlingen
+* [2023 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer/forretningsorden-2023) - Forretningsorden
+* [2023 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2023-v-ekstraordinaer/valg) - Ny leder Debug og Appkom
 ## Informasjon
 
 **Hva:** Ekstraordinær generalforsamling
