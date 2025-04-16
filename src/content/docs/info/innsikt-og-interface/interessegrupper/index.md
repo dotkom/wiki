@@ -59,6 +59,5 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Comitato Di Pizza](/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
 - [Sjampismandag](/info/innsikt-og-interface/interessegrupper/sjampismandag/)
 - [Henrik](/info/innsikt-og-interface/interessegrupper/henrik/)
-- [UX](/info/innsikt-og-interface/interessegrupper/ux/)
 - [PremLine](/info/innsikt-og-interface/interessegrupper/premline/)
 - [Padelpiratene](/info/innsikt-og-interface/interessegrupper/padelpiratene/)
