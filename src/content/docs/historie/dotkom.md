@@ -28,7 +28,7 @@ I [mai 2018](https://github.com/dotkom/onlineweb-frontend/commit/a4f617f2849709d
 
 I [oktober 2019](https://github.com/dotkom/vengeful-vineyard/commit/6bcd806ab2adc15c5a78a4939743237052717194) ble Vinstraff startet (da kalt Vengeful Vineyard), som skulle bytte ut gamle RedWine inne på OW4. Vinstraff er skrevet i React med Typescript og backend i FastAPI med Python. Vinstraff ble lansert 22. februar 2024, og er per høst 2024 fortsatt i bruk. Du kan finne Vinstraff på [vinstraff.no](https://vinstraff.no).
 
-I [oktober 2021](https://github.com/dotkom/monoweb/commit/c562481f8a360b6582ca20a474502f21aac1d37f) startet dotkom på OnlineWeb 5, som er den første rewriten av OnlineWeb på mange år. OW5 er skrevet i Next.js med Typescript, og er per høst 2024 fortsatt i utvikling. Du kan finne nyeste development-versjon av OW5 på [staging.online.ntnu.no](/staging.online.ntnu.no).
+I [oktober 2021](https://github.com/dotkom/monoweb/commit/c562481f8a360b6582ca20a474502f21aac1d37f) startet dotkom på OnlineWeb 5, som er den første rewriten av OnlineWeb på mange år. OW5 er skrevet i Next.js med Typescript, og er per høst 2024 fortsatt i utvikling. Du kan finne nyeste development-versjon av OW5 på [staging.online.ntnu.no](https://staging.online.ntnu.no).
 
 I [november 2021](https://github.com/dotkom/onlineweb4/pull/2776) migrerte dotkom fra fysiske servere til skybaserte løsninger, deriblant AWS.
 
