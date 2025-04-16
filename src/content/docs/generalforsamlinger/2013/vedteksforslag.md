@@ -5,10 +5,10 @@ title: "2013 Vedtektsforslag"
 [TOC]
 
 ---
-* [2013 Saksliste](https://wiki.online.ntnu.no/generalforsamlinger/2013/saksliste) - Saksliste for generalforsamlingen 2013
-* [2013 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2013/valg) - Er du klar for et verv i Hovedstyret?
-* [2013 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2013/vedteksforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2013 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2013/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2013 Saksliste](/generalforsamlinger/2013/saksliste) - Saksliste for generalforsamlingen 2013
+* [2013 Kandidater til Hovedstyret](/generalforsamlinger/2013/valg) - Er du klar for et verv i Hovedstyret?
+* [2013 Vedtektsforslag](/generalforsamlinger/2013/vedteksforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2013 Saksforslag](/generalforsamlinger/2013/saksforslag) - Alle innsendte saker vil bli tatt opp.
 ---
 
 # §3 Generalforsamlingen

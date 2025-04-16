@@ -17,7 +17,7 @@ På kontoret har vi pr. dags dato to kjøleskap. Det til venstre er det mulig å
 
 ## Kaffetrakteren
 
-Kaffe er gratis, det er bare [å lage! =)](https://wiki.online.ntnu.no/attachments/535-kaffekok-plakat.pdf) 
+Kaffe er gratis, det er bare [å lage! =)](/attachments/535-kaffekok-plakat.pdf) 
 Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kanna, slik at andre kan se når kaffen ble laget.
 
 For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fylle vann til "2.2 l"-merket.
@@ -28,7 +28,7 @@ For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fy
   
 ## Tilgang til kontoret
 
-Alle Online-medlemmer kan søke om å få tilgang til kontoret. For å gjøre dette les gjerne [denne artikkelen](https://wiki.online.ntnu.no/retningslinjertilkontoret) som forteller litt mer om hva som kreves av en/ei som vil få tilgang til kontoret. Søknaden gjøres ved å lese og signere [vedlegg 409](https://wiki.online.ntnu.no/attachments/409-retningslinjer_for_kontortilgang.pdf). Ferdigsignert mal skal sendes til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no)
+Alle Online-medlemmer kan søke om å få tilgang til kontoret. For å gjøre dette les gjerne [denne artikkelen](/retningslinjertilkontoret) som forteller litt mer om hva som kreves av en/ei som vil få tilgang til kontoret. Søknaden gjøres ved å lese og signere [vedlegg 409](/attachments/409-retningslinjer_for_kontortilgang.pdf). Ferdigsignert mal skal sendes til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no)
 
 ## Annet
 
@@ -43,6 +43,6 @@ Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lig
 Telefonnummeret til kontoret er 73 59 64 89
 
 
-- [Kontorordning](https://wiki.online.ntnu.no/kontoret/kontorvakt/)
+- [Kontorordning](/kontoret/kontorvakt/)
 - [For komitémedlemmer](https://online.ntnu.no/wiki/komiteer/kontoret/)
-- [Handleliste](https://wiki.online.ntnu.no/kontoret/handleliste/)
+- [Handleliste](/kontoret/handleliste/)

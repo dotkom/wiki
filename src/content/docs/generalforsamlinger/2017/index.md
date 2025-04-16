@@ -3,16 +3,16 @@ title: "Genfors 2017"
 date: 2017-04-25
 ---
 
-* [2017 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2017/forretningsorden) - Forretningsorden
-* [2017 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2017/dagsorden) - Dagsorden for generalforsamlingen
-* [2017 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2017/aarsberetninger) - Årsberetninger
-* [2017 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2017 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2017 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2017/valg) - Er du klar for et verv i Hovedstyret?
+* [2017 Forretningsorden](/generalforsamlinger/2017/forretningsorden) - Forretningsorden
+* [2017 Dagsorden](/generalforsamlinger/2017/dagsorden) - Dagsorden for generalforsamlingen
+* [2017 Årsberetninger](/generalforsamlinger/2017/aarsberetninger) - Årsberetninger
+* [2017 Saksforslag](/generalforsamlinger/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2017 Vedtektsforslag](/generalforsamlinger/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2017 Kandidater til Hovedstyret](/generalforsamlinger/2017/valg) - Er du klar for et verv i Hovedstyret?
 
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du her: [vedlegg 390](https://wiki.online.ntnu.no/attachments/390-Onlines_vedtekter_2016.pdf)    
+Onlines vedtekter finner du her: [vedlegg 390](/attachments/390-Onlines_vedtekter_2016.pdf)    
 Referat fra generalforsamlingen 2016 finner du [her](https://docs.google.com/document/d/1bdfl_0JeUXOgTTfzSxqy810MSbr3JGKxOWVLt_Lry7M/edit?usp=sharing).
 
 # Regnskap 2016 og budsjett 17/18
@@ -23,7 +23,7 @@ Regnskap og budsjett vil bli gjort tilgjengelig så snart det er klart.
 * [Budsjett 2017/2018](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
 
 # Referat fra årets generalforsamling
-Referat fra generalforsamlingen 2017 finner du her: [vedlegg 405](https://wiki.online.ntnu.no/attachments/405-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)    
+Referat fra generalforsamlingen 2017 finner du her: [vedlegg 405](/attachments/405-Referat-fra-Onlines-generalforsamling-2017-signert-av-paraferer.pdf)    
 
 # Informasjon
 
@@ -35,7 +35,7 @@ Om du har en sak du vil at Hovedstyret for perioden 17/18 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til økonomi- og vedtektskveld 30. mars i R7 kl. 15.15. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2017/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2017/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. 
 

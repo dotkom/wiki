@@ -3,17 +3,17 @@ title: "Genfors 2016"
 date: 2016-04-18
 ---
 
-* [2016 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2016/forretningsorden) - Forretningsorden
-* [2016 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2016/dagsorden) - Dagsorden for generalforsamlingen
-* [2016 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2016/aarsberetninger) - Årsberetninger
-* [2016 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2016 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2016 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
+* [2016 Forretningsorden](/generalforsamlinger/2016/forretningsorden) - Forretningsorden
+* [2016 Dagsorden](/generalforsamlinger/2016/dagsorden) - Dagsorden for generalforsamlingen
+* [2016 Årsberetninger](/generalforsamlinger/2016/aarsberetninger) - Årsberetninger
+* [2016 Saksforslag](/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2016 Vedtektsforslag](/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
 ---
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
-Onlines vedtekter finner du [her](https://wiki.online.ntnu.no/wiki/71/plugin/attachments/download/71/)  
-Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](https://wiki.online.ntnu.no/attachments/304-Generalforsamlingen2015.pdf)
+Onlines vedtekter finner du [her](/wiki/71/plugin/attachments/download/71/)  
+Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](/attachments/304-Generalforsamlingen2015.pdf)
 
 # Regnskap 2015 og budsjett 16/17
 
@@ -21,7 +21,7 @@ Referat fra generalforsamlingen 2015 finner du her: [vedlegg 304](https://wiki.o
 [Budsjett 16/17](https://docs.google.com/spreadsheets/d/1Kw7rSxZtq2brddImTsAnO1mZAtr6sm0Q3XoUshNdP0g/edit?usp=sharing)    
 
 # Referat fra årets generalforsamling
-Årets referat finner du her: [vedlegg 335](https://wiki.online.ntnu.no/attachments/335-ReferatfraOnlinesgeneralforsamling2016_signert.pdf)
+Årets referat finner du her: [vedlegg 335](/attachments/335-ReferatfraOnlinesgeneralforsamling2016_signert.pdf)
    
 
 # Informasjon
@@ -36,7 +36,7 @@ I år kommer Hovedstyret til å foreslå en omskriving av alle vedtektene, vi be
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](https://www.facebook.com/events/969880506434584/) 31. mars i Kjl1. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2016/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2016/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. 
 

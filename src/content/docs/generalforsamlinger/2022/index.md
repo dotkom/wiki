@@ -4,25 +4,25 @@ date: 2022-03-02
 ---
 
 ## Innhold
-* [2022 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2022)   - Forside
-* [2022 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2022/forretningsorden) - Forretningsorden
-* [2022 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2022/dagsorden) - Dagsorden for generalforsamlingen
-* [2022 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2022/aarsberetninger) - Årsberetninger
-* [2022 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2022/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2022 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2022 Forside](/generalforsamlinger/2022)   - Forside
+* [2022 Forretningsorden](/generalforsamlinger/2022/forretningsorden) - Forretningsorden
+* [2022 Dagsorden](/generalforsamlinger/2022/dagsorden) - Dagsorden for generalforsamlingen
+* [2022 Årsberetninger](/generalforsamlinger/2022/aarsberetninger) - Årsberetninger
+* [2022 Saksforslag](/generalforsamlinger/2022/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2022 Vedtektsforslag](/generalforsamlinger/2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Kandidater](/generalforsamlinger/2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2022](https://docs.google.com/presentation/d/1FrkcYeZrzaAwKnOl6F_Yj9NcrcRok5nhUwZRQhoAu90/edit?usp=sharing)  
 Onlines vedtekter GitHub: [Vedtekter på Github](https://github.com/dotkom/Onlines_Vedtekter)  
-Online vedtekter PDF: [vedlegg 819](https://wiki.online.ntnu.no/attachments/819-vedtekter.pdf)  
+Online vedtekter PDF: [vedlegg 819](/attachments/819-vedtekter.pdf)  
 Onlines fonds vedtekter:  
-Referat 2022:  [vedlegg 817](https://wiki.online.ntnu.no/attachments/817-Referat-Onlines-generalforsamling-2022.pdf)	
+Referat 2022:  [vedlegg 817](/attachments/817-Referat-Onlines-generalforsamling-2022.pdf)	
 
 ## Onlines vedtekter og referat fra forrige generalforsamling 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter: [vedlegg 808](https://wiki.online.ntnu.no/attachments/808-Onlines_Fond_Vedtekter_Signed.pdf)  
-Referat Generalforsamlingen 2021: [vedlegg 810](https://wiki.online.ntnu.no/attachments/810-Genfors_21_referat.pdf)  
+Onlines fonds vedtekter: [vedlegg 808](/attachments/808-Onlines_Fond_Vedtekter_Signed.pdf)  
+Referat Generalforsamlingen 2021: [vedlegg 810](/attachments/810-Genfors_21_referat.pdf)  
 
 ## Regnskap 2021 og budsjett 2022
 
@@ -41,9 +41,9 @@ Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og 
 
 Ønsker du å forandre på [vedtektene](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.pdf) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) **senest to uker før** generalforsamlingen. Det vil si **16. februar 2022**. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](https://wiki.online.ntnu.no/okogved/).
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2022/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2022/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 
