@@ -386,6 +386,6 @@ Møtereferater
 
 #### Arkiv fra perioden før høst 2014
 
-- Møtereferater fra perioden 2011-2012: [vedlegg 141](/attachments/141-HS2011-2012.zip)
-- Møtereferater fra perioden 2012-2013: [vedlegg 142](/attachments/142-HS2012-2013.zip)
-- Møtereferater fra perioden 2013-2014: [vedlegg 143](/attachments/143-HS2013-2014.zip)
+- Møtereferater fra perioden 2011-2012: [vedlegg 141](https://wiki.online.ntnu.no/attachments/141-HS2011-2012.zip)
+- Møtereferater fra perioden 2012-2013: [vedlegg 142](https://wiki.online.ntnu.no/attachments/142-HS2012-2013.zip)
+- Møtereferater fra perioden 2013-2014: [vedlegg 143](https://wiki.online.ntnu.no/attachments/143-HS2013-2014.zip)

@@ -7,8 +7,8 @@ date: 2012-01-01
 * [2012 Kandidater til Hovedstyret](/generalforsamlinger/2012/valg) - Er du klar for et verv i Hovedstyret?
 * [2012 Vedtektsforslag](/generalforsamlinger/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 * [2012 Saksforslag](/generalforsamlinger/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [vedlegg 110](/attachments/110-Underskrevet%20referat%20fra%20Generalforsamlingen%202012.PDF)
-* [vedlegg 109](/attachments/109-Alle%20budsjett%2012-13.xlsx)
+* [vedlegg 110](https://wiki.online.ntnu.no/attachments/110-Underskrevet%20referat%20fra%20Generalforsamlingen%202012.PDF)
+* [vedlegg 109](https://wiki.online.ntnu.no/attachments/109-Alle%20budsjett%2012-13.xlsx)
 
 ### Budsjetter og regnskap:
 

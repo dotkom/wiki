@@ -12,16 +12,16 @@ Tilhørende info
 
 Tilhørende wikisider
 
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
-* [Linjeforeninger på Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på Kalvskinnet](/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
-* [Linjeforeninger på Tunga](/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
-* Du er her: [Linjeforeninger i Ålesund](/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
-* [Linjeforeninger på Gjøvik](/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
-* [Andre linjeforeninger ved NTNU](/info/sosialt-og-okonomisk/linjeforeninger/andre/)
-* [Studentkjellere på Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/)
+* [Linjeforeninger på Dragvoll](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
+* [Linjeforeninger på Kalvskinnet](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
+* [Linjeforeninger på Tunga](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
+* Du er her: [Linjeforeninger i Ålesund](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
+* [Linjeforeninger på Gjøvik](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
+* [Andre linjeforeninger ved NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/andre/)
+* [Studentkjellere på Moholt](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
+* [Karrieredager](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
 
 ## Linjeforeninger
 

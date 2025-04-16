@@ -46,4 +46,4 @@ Leder av klubben: [Geertheihan Elamurugan](https://www.facebook.com/geertheihan.
 **Kvinnelaget:** laglederdkj@abakus.no
 
 
-[Foregående sesonger her.](/attachments/537-Oppdatering-datakam.pdf)
+[Foregående sesonger her.](https://wiki.online.ntnu.no/attachments/537-Oppdatering-datakam.pdf)

@@ -12,10 +12,10 @@ Det finnes en egen kanal på slack for gruppens medlemmer, kalt #strikkogdrikk. 
 Utstyr
 ------------------
 ###### Pinner
-- [Utlån av strikkepinner](/info/innsikt-og-interface/interessegrupper/strikkogdrikk/utlaan/)
+- [Utlån av strikkepinner](https://wiki.online.ntnu.no/info/innsikt-og-interface/interessegrupper/strikkogdrikk/utlaan/)
 ###### Mønster
-- [Onlinegenseren](/info/trivia/strikkegenser/)
-- [Onlinevotter](/info/trivia/oppskrift_pa_strikkevotter/)
+- [Onlinegenseren](https://wiki.online.ntnu.no/info/trivia/strikkegenser/)
+- [Onlinevotter](https://wiki.online.ntnu.no/info/trivia/oppskrift_pa_strikkevotter/)
 
 Om interessegruppen
 ------------------

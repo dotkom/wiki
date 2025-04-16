@@ -167,7 +167,7 @@ historie.
 
 Cirka 1990 - Online og Delta utga sangboken “Nusse”. Nusse er oppkalt
 etter Norges første elektroniske regnemaskin: [Norsk Universell
-Siffermaskin Selvstyrt Elektronisk](http://no.wikipedia.org/wiki/Norsk\_Universell\_Siffermaskin\_Selvstyrt\_Elektronisk). En kopi av denne sangboken ble funnet på kontoret og er tilgjengelig her: [vedlegg 137](/attachments/137-nusse.pdf)
+Siffermaskin Selvstyrt Elektronisk](http://no.wikipedia.org/wiki/Norsk\_Universell\_Siffermaskin\_Selvstyrt\_Elektronisk). En kopi av denne sangboken ble funnet på kontoret og er tilgjengelig her: [vedlegg 137](https://wiki.online.ntnu.no/attachments/137-nusse.pdf)
 
 Informatikk ved AVH går i ukatog (UKA 91). Ca. 2min12s inn i [klippet](https://www.youtube.com/watch?v=XxiIYj-1LSc). Utdrag av youtube-klippet
 er lastet opp blant “Files” på denne wiki-en.
@@ -234,23 +234,23 @@ kaffedrikking.
 
 -   **Historie ønskes!**
 
-### [2009/2010](/historie/om/0910)
+### [2009/2010](https://wiki.online.ntnu.no/historie/om/0910/)
 
-### [2010/2011](/historie/om/1011)
+### [2010/2011](https://wiki.online.ntnu.no/historie/om/1011/)
 
-### [2011/2012](/historie/om/1112)
+### [2011/2012](https://wiki.online.ntnu.no/historie/om/1112/)
 
-### [2012/2013](/historie/om/1213)
+### [2012/2013](https://wiki.online.ntnu.no/historie/om/1213/)
 
-### [2017/2018](/historie/om/p1718)
+### [2017/2018](https://wiki.online.ntnu.no/historie/om/p1718/)
 
-### [2018/2019](/historie/om/p1819)
+### [2018/2019](https://wiki.online.ntnu.no/historie/om/p1819/)
 
-### [2019/2020](/historie/om/p1920)
+### [2019/2020](https://wiki.online.ntnu.no/historie/om/p1920/)
 
-### [2020/2021](/historie/om/p2021)
+### [2020/2021](https://wiki.online.ntnu.no/historie/om/p2021/)
 
-### [2021/2022](/historie/om/p2122)
+### [2021/2022](https://wiki.online.ntnu.no/historie/om/p2122/)
 
 
 ## Hovedstyrer
@@ -351,7 +351,7 @@ Skal ligge her en plass: Nils Fredriksen, Knut Stølen,
 |1987h-1988h|Ole A. Brevik|Leiv Arild Andenes||
 |1986h-1987h|Ole A. Brevik|Leiv Arild Andenes||
 
-Se forøvrig referatet fra [Årsmøtet 1987](/generalforsamlinger/arsmotet1987/).
+Se forøvrig referatet fra [Årsmøtet 1987](https://wiki.online.ntnu.no/generalforsamlinger/arsmotet1987/).
 
 |År|Formann|Sekretær|Styremedlem|Styremedlem|Styremedlem|
 |---|---|---|---|---|---|

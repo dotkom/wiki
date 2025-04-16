@@ -4,9 +4,9 @@ title: "Skjemaer"
 
 vedegg 185 (mangler)
 
-[Avtale for utleie av utstyr](/attachments/799-Utleiekontrakt_Online.docx.pdf)
+[Avtale for utleie av utstyr](https://wiki.online.ntnu.no/attachments/799-Utleiekontrakt_Online.docx.pdf)
 
-[Kjøpsavtale for bruktkjøp](/attachments/827-KjoepsavtaleMal_.pdf)
+[Kjøpsavtale for bruktkjøp](https://wiki.online.ntnu.no/attachments/827-KjoepsavtaleMal_.pdf)
 
 ## Kvitteringsskjema
 

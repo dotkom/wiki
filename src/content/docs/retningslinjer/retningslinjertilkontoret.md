@@ -9,7 +9,7 @@ Alle som har tilgang til Online-kontoret har et ansvar for å følge disse retni
 ## Vors, fest og nachspiel
 
 
-Deter ikke lov til å arrangere vors, fest eller nach på kontoret uten å ha [fått innvilget søknad om det først](/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
+Deter ikke lov til å arrangere vors, fest eller nach på kontoret uten å ha [fått innvilget søknad om det først](https://wiki.online.ntnu.no/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/). Det betyr at du ikke skal dra med deg vennene dine til kontoret når Samfundet stenger.
 
 ## Åpne og lukke kontoret
 
@@ -33,4 +33,4 @@ Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lig
 Renholder kommer innom kontoret for å tømme søppel og vaske tirsdager og torsdager, utenom disse dagene er det vårt eget ansvar å tømme søppel og vaske når vi søler noe. Søppeldunker står nede i kjelleren, så det er bare å gå ned med søpla når den begynner å bli full. Helst før den er for full.
 
 # Søke om tilgang
-Frem til vi får et bedre søkesystem skal søknader sendes på e-post til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no) med [vedlegg 409](/attachments/409-retningslinjer_for_kontortilgang.pdf) ferdigsignert. Du trenger ingen bedre grunn enn at du er informatiker og har lyst på tilgang!
+Frem til vi får et bedre søkesystem skal søknader sendes på e-post til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no) med [vedlegg 409](https://wiki.online.ntnu.no/attachments/409-retningslinjer_for_kontortilgang.pdf) ferdigsignert. Du trenger ingen bedre grunn enn at du er informatiker og har lyst på tilgang!

@@ -24,9 +24,9 @@ Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fo
 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
-Referat Generalforsamlingen Høsten 2024: [vedlegg 851](/attachments/851-Referat_Onlines_generalforsamling_H2024.pdf)
+Referat Generalforsamlingen Høsten 2024: [vedlegg 851](https://wiki.online.ntnu.no/attachments/851-Referat_Onlines_generalforsamling_H2024.pdf)
 
-Referat fra Generalforsamling Våren 2025: [Referat](/attachments/Referat-Onlines-generalforsamling-V2025-signert.pdf)
+Referat fra Generalforsamling Våren 2025: [Referat](https://wiki.online.ntnu.no/attachments/Referat-Onlines-generalforsamling-V2025-signert.pdf)
 
 ## Regnskap 2024 og budsjett 2025
 

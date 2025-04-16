@@ -26,4 +26,4 @@ Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Vedtekt
 Onlines fonds vedtekter: [Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter)
 
 ## Dokumenter fra årets ordinæregeneralforsamling
-Referat Generalforsamlingen 2023: [vedlegg 843](/attachments/843-Referat_Onlines_generalforsamlingV2023.pdf)
+Referat Generalforsamlingen 2023: [vedlegg 843](https://wiki.online.ntnu.no/attachments/843-Referat_Onlines_generalforsamlingV2023.pdf)
