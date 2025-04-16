@@ -46,4 +46,4 @@ Damp lett over genseren med strykejern og et fuktig håndkle. Merk av ermevidden
 Begynn på den ene skulderen. Bruk pinne nummer 3 og garn F2. Strikk opp 11 masker pr. 5 cm rundt halsen og strikk med maskene som ble satt på tråd. Strikk 3 cm med 1 rett og 1 vrang. Fell av passe løst. Brett så kanten ned og sy fast slik at du får en fin avrundet halskant.
 
 ####**Mønster:**
-Her finner du mønsteret i sin helhet: [vedlegg 172](https://wiki.online.ntnu.no/attachments/172-monster.xlsx)
+Her finner du mønsteret i sin helhet: [vedlegg 172](/attachments/172-monster.xlsx)

@@ -2,12 +2,12 @@
 title: "Forretningsorden for generalforsamling i Online"
 ---
 
-* [2016 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2016/forretningsorden) - Forretningsorden
-* [2016 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2016/dagsorden) - Dagsorden for generalforsamlingen
-* [2016 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2016/aarsberetninger) - Årsberetninger
-* [2016 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2016 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2016 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
+* [2016 Forretningsorden](/generalforsamlinger/2016/forretningsorden) - Forretningsorden
+* [2016 Dagsorden](/generalforsamlinger/2016/dagsorden) - Dagsorden for generalforsamlingen
+* [2016 Årsberetninger](/generalforsamlinger/2016/aarsberetninger) - Årsberetninger
+* [2016 Saksforslag](/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2016 Vedtektsforslag](/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
 ---
 
 ## 1 Generalforsamlingen

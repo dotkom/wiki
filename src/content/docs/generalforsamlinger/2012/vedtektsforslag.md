@@ -6,10 +6,10 @@ title: "2012 Vedtektsforslag"
 
 ---
 
-* [2012 Saksliste](https://wiki.online.ntnu.no/generalforsamlinger/2012/saksliste) - Saksliste for generalforsamlingen 2012
-* [2012 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2012/valg) - Er du klar for et verv i Hovedstyret?
-* [2012 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2012 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2012 Saksliste](/generalforsamlinger/2012/saksliste) - Saksliste for generalforsamlingen 2012
+* [2012 Kandidater til Hovedstyret](/generalforsamlinger/2012/valg) - Er du klar for et verv i Hovedstyret?
+* [2012 Vedtektsforslag](/generalforsamlinger/2012/vedtektsforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2012 Saksforslag](/generalforsamlinger/2012/saksforslag) - Alle innsendte saker vil bli tatt opp.
 - - -
 
 # §5 Medlemskap

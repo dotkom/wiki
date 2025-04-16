@@ -2,7 +2,7 @@
 title: "Armyvors 💚 PSI 🇳🇴 Online 💚"
 ---
 
-Ta kontakt med de dere skal vorse med. Avtal diverse direkte med dem. Kontaktpersoner hos Online sine faddergrupper finnes [her](https://wiki.online.ntnu.no/fadderukene/2018-/faddere/) (trykk inn på navnene).
+Ta kontakt med de dere skal vorse med. Avtal diverse direkte med dem. Kontaktpersoner hos Online sine faddergrupper finnes [her](/fadderukene/2018-/faddere/) (trykk inn på navnene).
 
 
 Online-tropp  | PSI-tropp  | Kontaktperson  | Mobil  | Adresse

@@ -2,4 +2,4 @@
 title: "Retningslinjer"
 ---
 
-Retningslinjene for komiteene er å finne [her](https://wiki.online.ntnu.no/info/innsikt-og-interface/retningslinjer/)
+Retningslinjene for komiteene er å finne [her](/info/innsikt-og-interface/retningslinjer/)

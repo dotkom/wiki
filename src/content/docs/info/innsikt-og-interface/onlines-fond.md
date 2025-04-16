@@ -40,19 +40,19 @@ Fondstyrets styredokument kan man finne [her](https://docs.google.com/document/d
 
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
 ------|-------|-------|--------|-------|-------|------
-11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [Søknad pdf vedlegg 542](https://wiki.online.ntnu.no/attachments/542-fond_soknad_online_band.pdf)
-13. des 2018 | 31. okt 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [Søknad pdf vedlegg 543](https://wiki.online.ntnu.no/attachments/543-fond_soknad_kaffetrakter.pdf)
-13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [Søknad pdf vedlegg 544](https://wiki.online.ntnu.no/attachments/544-fond_soknad_x-sport_surfetur.pdf)
+11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [Søknad pdf vedlegg 542](/attachments/542-fond_soknad_online_band.pdf)
+13. des 2018 | 31. okt 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [Søknad pdf vedlegg 543](/attachments/543-fond_soknad_kaffetrakter.pdf)
+13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [Søknad pdf vedlegg 544](/attachments/544-fond_soknad_x-sport_surfetur.pdf)
 26. mai 2019 | 4. april 2019 | Linjeforeningen Online v/ arrkom | Lydanlegg for sosiale arrangementer | 8700 kr | 18 392 kr | 
-2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | [vedlegg 716](https://wiki.online.ntnu.no/attachments/716-uketog_søknad.pdf)
-24. Oktober 2019 | 30. September 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [vedlegg 717](https://wiki.online.ntnu.no/attachments/717-søknad_fond.pdf)
+2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | [vedlegg 716](/attachments/716-uketog_søknad.pdf)
+24. Oktober 2019 | 30. September 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [vedlegg 717](/attachments/717-søknad_fond.pdf)
 10. april 2020|12. februar 2020|Trikom|Støtte til oppussing av kontoret| 22 000 kr (11 700 kr betinget) |27 800 kr| |
 15. september 2020| 7. september 2020 | RFK | Nytt kassasystem og nytt lydsystem | 24 312,25 kr | 24 312,25 kr |
 18. Mai 2021| 9. Mai 2021 | Jubkom | Senke billettprisene på jubileum | 86 000 kr | 86 000 kr |
 8. Oktober 2021| 7. Oktober 2021 | Arrkom | Transport til Åre 2022 (AVLYST) | 76 000 kr | 76 000 kr |
 19. Oktober 2021| 16. Oktober 2021 | Ekskom | Ekskursjon til Japan (AVLYST) | 75 000 kr | 75 000 kr | vedegg 806 (mangler)
-5. April 2022| 4. April 2022 | Floppy Disk | Innkjøp av frisbeegolf-utstyr | 10 157 kr | 10 157 kr | [Søknad pdf vedlegg 822](https://wiki.online.ntnu.no/attachments/822-E-post_for_Linjeforeningen_Online_-_Floppy_Disk_Søknad_fondet_for_oppstart_av_interessegruppe.pdf)
-12. September 2022| 17. Oktober 2022 | RFK | Nytt lysdesign | 30 000 kr | 41 000 kr | [Søknad pdf vedlegg 835](https://wiki.online.ntnu.no/attachments/835-søknad_onlinefondet_RFK_reduced.pdf)
+5. April 2022| 4. April 2022 | Floppy Disk | Innkjøp av frisbeegolf-utstyr | 10 157 kr | 10 157 kr | [Søknad pdf vedlegg 822](/attachments/822-E-post_for_Linjeforeningen_Online_-_Floppy_Disk_Søknad_fondet_for_oppstart_av_interessegruppe.pdf)
+12. September 2022| 17. Oktober 2022 | RFK | Nytt lysdesign | 30 000 kr | 41 000 kr | [Søknad pdf vedlegg 835](/attachments/835-søknad_onlinefondet_RFK_reduced.pdf)
 30. September 2022| 12. Oktober 2022 | Arrkom | Transport til Åre | 88 000 kr | 88 000 kr |
 18. Oktober 2022| 19. Oktober 2022 | Trikom | Ny sofa til kontoret | 20 000 kr | 20 000 kr |
 
@@ -60,7 +60,7 @@ Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt bel�
 ## Søknader
 
 ### Onlines band, Output
-Den 17. april 2018 fikk Fondstyret en søknad om å innvilge 24 733 kr til Onlines nye linjeforeningsband, se [Søknad pdf vedlegg 542](https://wiki.online.ntnu.no/attachments/542-fond_soknad_online_band.pdf). Vedlagt var også en kjøpsliste fra en leverandør med spesifikke instrumenter de ønsket kjøpe, derav det spesifikke beløpet. Fondstyret var fornøyd med søknaden, men ønsket litt mer utdypende svar på noen temaer:
+Den 17. april 2018 fikk Fondstyret en søknad om å innvilge 24 733 kr til Onlines nye linjeforeningsband, se [Søknad pdf vedlegg 542](/attachments/542-fond_soknad_online_band.pdf). Vedlagt var også en kjøpsliste fra en leverandør med spesifikke instrumenter de ønsket kjøpe, derav det spesifikke beløpet. Fondstyret var fornøyd med søknaden, men ønsket litt mer utdypende svar på noen temaer:
 
 "Vi saknar ein del kontekst for søknaden, og litt tankar om korleis dette kjem den gjengse onliner til gode. I dette konkrete tilfellet skulle vi gjerne lest litt om bandet, kven de er og kva de spelar, kva de har av utstyr frå før, kva aktivitetsnivået ligg på og kva ambisjonsnivået framover er for framføringar og slike ting. Vidare lurar vi på kva de har tenkt rundt praktiske ting som plass til lagring av utstyr, og om de har søkt midlar nokon anna plass."
 
