@@ -3,12 +3,12 @@ title: "Genfors 2016"
 date: 2016-04-18
 ---
 
-* [2016 Forretningsorden](/generalforsamlinger/2016/forretningsorden) - Forretningsorden
-* [2016 Dagsorden](/generalforsamlinger/2016/dagsorden) - Dagsorden for generalforsamlingen
-* [2016 Årsberetninger](/generalforsamlinger/2016/aarsberetninger) - Årsberetninger
-* [2016 Saksforslag](/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2016 Vedtektsforslag](/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
+* [2016 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2016/forretningsorden) - Forretningsorden
+* [2016 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2016/dagsorden) - Dagsorden for generalforsamlingen
+* [2016 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2016/aarsberetninger) - Årsberetninger
+* [2016 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2016 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2016 Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
 ---
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
@@ -36,7 +36,7 @@ I år kommer Hovedstyret til å foreslå en omskriving av alle vedtektene, vi be
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektene på generalforsamlingen. Derfor inviterer Hovedstyret til [økonomi- og vedtektskveld](https://www.facebook.com/events/969880506434584/) 31. mars i Kjl1. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2016/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](https://wiki.online.ntnu.no/generalforsamlinger/2016/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. 
 

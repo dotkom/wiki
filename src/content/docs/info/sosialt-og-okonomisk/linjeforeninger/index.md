@@ -51,7 +51,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | [Leonardo](http://industrielldesign.no) (1994) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992459425) | Industriell design | Styrebånd (hvite) | [Institutt for (produkt)Design](http://use.mazemap.com/#&v=1&dest=35936&desttype=poi) | The Sign | [Page](http://fb.com/LeonardoLinjeforening), [Person](http://fb.com/leonardo.linjeforening.7), [Group](http://fb.com/groups/142627265775491/) | |
 | [Logitas](http://www.logitas.no/) (1989) | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=891131372) | Logistikkingeniør | Styrebånd (Gult med rød stripe) | [Gemba](https://link.mazemap.com/EigLnAdY) |  | [Page](https://www.facebook.com/profile.php?id=100064073106026) | |
 | [Mannhullet](http://mannhullet.no) (1917) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991538836) | Marin teknikk | Styrebånd (mørkeblå), NTH-medaljer | Marinteknisk senter, a1.003 | Marina | [Page](http://fb.com/pages/Mannhullet/161454280549602/)| [Boksalg](http://fb.com/groups/245012782293185/) |
-| [MiT]( https://www.maskining.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | Syrebånd (blå med oransje stripe) | [VE23](https://link.mazemap.com/dNwgWu2g) |  leder@maskining.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
+| [MiT](https://wiki.online.ntnu.no/ https:/www.maskining.no/) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992376430) | Maskin | Syrebånd (blå med oransje stripe) | [VE23](https://link.mazemap.com/dNwgWu2g) |  leder@maskining.no | [Page](https://www.facebook.com/Maskiningeni%C3%B8r-i-Trondheim-47566809492) |
 | [Nabla](http://nabla.no) (1943) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992168544) | FysMat | Styrebånd (blå med gullkant) | [Kjemi sydfløy](http://use.mazemap.com/#&v=1&dest=7594&desttype=poi) | [Nabladet](http://nabla.no/nabladet/) | [Group](http://fb.com/groups/2248934869/) | [Boksalg](http://fb.com/groups/274516045996844/) |
 | [Nutrix](http://nutrix.no) (2011) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=999094872) | Sykepleier | Styrebånd (hvit/lyseblå)| | post@nutrix.no | [Page](http://fb.com/pages/Nutrix/297838347011022) 
 | [Omega](http://omega.ntnu.no) (1919) | [BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=890384692) | ElSys og Kyb | Styrebånd (hvit/sort) | [Gamle elektro](https://link.mazemap.com/tKXG2Ncn) | [OmBul](http://omega.ntnu.no/ombul/) | [Page](http://fb.com/SctOmegaBroderskab), [Group](http://fb.com/groups/omega.ntnu/) |[Boksalg](https://www.facebook.com/groups/826883277342963/) |
@@ -83,7 +83,7 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | Poka-Yoke | [BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=997640756) | Master i helse, miljø og sikkerhet || [Page](https://www.facebook.com/pokayokeNTNU/) | | ||
 |Projeksjon (også for 3. klasse)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=995453231)|Geomatikk||[Page](http://fb.com/pages/Geomatikklesesalen/168410799862032)|||
 |[ProMan](http://www.mscproman.com/) (est. 2010)|[BrReg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=996617556)|Project management|Styrebånd (vinrødt med kremfarget kant)|[Group](https://www.facebook.com/groups/MScProMan/)||Rom 346, Sentralbygg 2|
-|[Solan](www.solanlinjeforening.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|[NTNUs Entreprenørskole](http://www.entreprenorskolen.no)||[Page](https://www.facebook.com/solanlinjeforening/)||Oppredning/gruvedrift, 4.egt, Rom 453|
+|[Solan](https://wiki.online.ntnu.no/www.solanlinjeforening.no)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=992029471)|[NTNUs Entreprenørskole](http://www.entreprenorskolen.no)||[Page](https://www.facebook.com/solanlinjeforening/)||Oppredning/gruvedrift, 4.egt, Rom 453|
 |[Symbiosis](http://www.ntnusymbiosis.com)|[BrReg](http://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=994052012)|Industriell Økologi||[Group](http://fb.com/groups/104245099606755/)|||
 |[GLOBUS](https://www.ntnu.edu/studies/msgloman) ||Global Produksjonsledelse||[Page](https://www.ntnu.edu/studies/msgloman), [Linkedin](https://www.linkedin.com/company/globus-ntnu)||209 på verkstedtekniske laboratorier|
 | [SOMA](https://www.soma-linjeforening.com) | [Brreg](https://w2.brreg.no/enhet/sok/detalj.jsp?orgnr=991232559) | Masterstudenter ved Fakultet for Medisin og Helsevitenskap: Folkehelse, Global helse, Helseinformatikk, Jordmorfag, Klinisk helsevitenskap, Klinisk sykepleier, Medisinsk bildeteknologi, Molekylær Medisin, Nevrovitenskap, Fysisk aktivitet og Helse, Helsesykepleie og Psykisk helse | Styregenser | [Facebook](https://www.facebook.com/SOMANTNU) |  | MTFS, Studsalen |
@@ -220,10 +220,10 @@ Arrangementer der linjeforeningene inviterer hverandre
 
 -   **Lyd og lys:**
     -   Begge: [H.M. Aarhønen](http://aarhonen.no/utleie/), [HC](http://www.hc.ntnu.no)
-    -   Lyd: [Abakus](abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
+    -   Lyd: [Abakus](https://wiki.online.ntnu.no/abakus.no), [A/F Smørekoppen], (http://www.smorekoppen.no/index.php?special=groups&gid=60)
 , [Elektra](http://elektra.io)
 -   **Musikere:**
-    -   Band: [H.M. Aarhønen][1], [Abakus](abakus.no), [Emil](http://emilntnu.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
+    -   Band: [H.M. Aarhønen][1], [Abakus](https://wiki.online.ntnu.no/abakus.no), [Emil](http://emilntnu.no), [Omega](http://omega.ntnu.no), [Nabla](https://nabla.no/), [Elektra](http://elektra.io)
         [Placebo](http://org.ntnu.no/placebo), [A/F Smørekoppen](https://www.xn--smrekoppen-1cb.no/the-lubricators/)
     -   Storband: [Emil](http://emilntnu.no)
     -   Kor: [A/F Smørekoppen](http://www.smorekoppen.no), [Broderskapet](http://org.ntnu.no/alf/), [BSF](http://bergstud.no), [Mannhullet](http://mannhullet.no),  [H.M. Aarhønen](http://www.aarhonen.no/)
@@ -290,7 +290,7 @@ døgnets tider. Om du vil **redigere dette kartet** er det bare å laste
 ned photoshopfilen nederst på denne siden og sende en oppdatert versjon
 tilbake til oss på kontakt@online.ntnu.no
 
-![Bilde 518](../../../../../assets/images/518-Gloshaugenkartet.png)
+![Bilde 518](https://wiki.online.ntnu.no/assets/images/518-Gloshaugenkartet.png)
     Gløshaugenkartet
 
   [Trondheim Kommune]: https://skjema.kf.no/more/wizard/wizard.jsp?wizardid=991&ouref=1601

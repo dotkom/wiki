@@ -3,13 +3,13 @@ title: "Dagsorden 2021"
 ---
 
 # Dagsorden 2021
-* [2021 Forside](/generalforsamlinger/2021)   - Forside
-* [2021 Forretningsorden](/generalforsamlinger/2021/forretningsorden) - Forretningsorden
-* [2021 Dagsorden](/generalforsamlinger/2021/dagsorden) - Dagsorden for generalforsamlingen
-* [2021 Årsberetninger](/generalforsamlinger/2021/aarsberetninger) - Årsberetninger
-* [2021 Saksforslag](/generalforsamlinger/2021/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2021 Vedtektsforslag](/generalforsamlinger/2021/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2021 Kandidater](/generalforsamlinger/2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+* [2021 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2021)   - Forside
+* [2021 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2021/forretningsorden) - Forretningsorden
+* [2021 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2021/dagsorden) - Dagsorden for generalforsamlingen
+* [2021 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2021/aarsberetninger) - Årsberetninger
+* [2021 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2021/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2021 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2021/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2021 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2021/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 
 

@@ -24,7 +24,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
 - [Onlinepotten](https://wiki.online.ntnu.no/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
 - [Budsjett](https://wiki.online.ntnu.no/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
-- [Generalforsamlingen](/generalforsamlinger) - Informasjon om Onlines generalforsamling
+- [Generalforsamlingen](https://wiki.online.ntnu.no/generalforsamlinger) - Informasjon om Onlines generalforsamling
 
 
 ### [Faglig](https://wiki.online.ntnu.no/info/faglig/)
@@ -85,7 +85,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Velkomstkomiteen](https://wiki.online.ntnu.no/historie/velkom/)
     - [IT-Ekskursjonen](https://wiki.online.ntnu.no/historie/itex/)
 - [Offline](https://wiki.online.ntnu.no/offlines-historie/)
-- [Generalforsamlingen](/generalforsamlinger)
+- [Generalforsamlingen](https://wiki.online.ntnu.no/generalforsamlinger)
 - [GenVORS (Tidligere Økonomi- og vedtektskvelden)](https://wiki.online.ntnu.no/okogved/)
 - [Ridderne av Det Indre Lager](https://wiki.online.ntnu.no/ridderne/)
 - [Kontoret](https://wiki.online.ntnu.no/kontoret/)

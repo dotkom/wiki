@@ -2,13 +2,13 @@
 title: "Saksforslag 2020"
 ---
 
-* [2020 Forside](/generalforsamlinger/2020)   - Forside
-* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden) - Forretningsorden
-* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
-* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
-* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+* [2020 Forside](https://wiki.online.ntnu.no/generalforsamlinger/2020)   - Forside
+* [2020 Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/forretningsorden) - Forretningsorden
+* [2020 Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
+* [2020 Årsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
+* [2020 Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2020 Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2020 Kandidater](https://wiki.online.ntnu.no/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 17. februar kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp. 
 
@@ -41,7 +41,7 @@ Hovedstyret skal få muligheten til å gi fullt medlemskap til studenter som har
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
-**Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](/generalforsamlinger/2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake".
+**Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://wiki.online.ntnu.no/generalforsamlinger/2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake".
 
 **Forslag:**
 
@@ -57,7 +57,7 @@ Gruppen skal etterstrebe å holde prosessen åpen for innsikt underveis i arbeid
 
 Et sett med slides ble utviklet i forbindelse med AUO sitt arbeid mot generalforsamlingen 2020. Du kan se slides [**her**](https://docs.google.com/presentation/d/12UGSAKRj-xqgyetmlhCb36xqtvPPXuB7cSqustxHWeU/edit?usp=sharing).
 
-**Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](/generalforsamlinger/2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake". Dette prosjektet slet med opptak direkte etter generalforsamlingen 2019, og kan derfor være noe hovedstyret selv kan ha som arbeidsområde, så er det opp til dem hvorvidt de delegerer arbeidet til en egen gruppe på sikt.
+**Bakgrunn:** I 2019 ble det fremmet et [forslag om å nedsette en arbeidsgruppe for undersøkelse av organisasjonsstruktur](https://wiki.online.ntnu.no/generalforsamlinger/2019/saksforslag/#wiki-toc-sak-1-nedsette-en-gruppe-for-underskelse-av-organisasjonsstruktur-johannes-kvamme). Gruppen selv har evaluert dette som et positivt tiltak og ser nytten av at en gruppe "tar et steg tilbake". Dette prosjektet slet med opptak direkte etter generalforsamlingen 2019, og kan derfor være noe hovedstyret selv kan ha som arbeidsområde, så er det opp til dem hvorvidt de delegerer arbeidet til en egen gruppe på sikt.
 
 **Forslag:** Hovedstyret skal ha fokus på å se hvordan organisasjonens struktur påvirker linjeforeningen positivt og negativt, samt ta tiltak for å forbedre eller beholde ulike aspekter.
 

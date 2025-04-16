@@ -5,12 +5,12 @@ date: 2024-10-14
 
 ## Innhold
 
-- [2024 Høst Forside](/generalforsamlinger/2024-h) - Forside
-- [2024 Høst Forretningsorden](/generalforsamlinger/2024-h/forretningsorden) - Forretningsorden
-- [2024 Høst Dagsorden](/generalforsamlinger/2024-h/dagsorden) - Dagsorden for generalforsamlingen
-- [2024 Høst Halvårsberetninger](/generalforsamlinger/2024-h/aarsberetninger) - Halvårsberetninger
-- [2024 Høst Saksforslag](/generalforsamlinger/2024-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-- [2024 Høst Vedtektsforslag](/generalforsamlinger/2024-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2024 Høst Forside](https://wiki.online.ntnu.no/generalforsamlinger/2024-h) - Forside
+- [2024 Høst Forretningsorden](https://wiki.online.ntnu.no/generalforsamlinger/2024-h/forretningsorden) - Forretningsorden
+- [2024 Høst Dagsorden](https://wiki.online.ntnu.no/generalforsamlinger/2024-h/dagsorden) - Dagsorden for generalforsamlingen
+- [2024 Høst Halvårsberetninger](https://wiki.online.ntnu.no/generalforsamlinger/2024-h/aarsberetninger) - Halvårsberetninger
+- [2024 Høst Saksforslag](https://wiki.online.ntnu.no/generalforsamlinger/2024-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+- [2024 Høst Vedtektsforslag](https://wiki.online.ntnu.no/generalforsamlinger/2024-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 ## Dokumenter fra årets generalforsamling
 
