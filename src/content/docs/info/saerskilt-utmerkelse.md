@@ -10,10 +10,9 @@ Utmerkelsen gis ut på julebord da denne prisen skal være litt ekstra fin å f�
 Diplom for Særskilt utmerkelse (fra og med 2020)
 ================================================
 
-<img src="../../../assets/images/nysaerskiltutmerkelse.png" alt="Diplom for særskilt utmerkelse" width="600"/>
+![Diplom for særskilt utmerkelse](../../../assets/images/nysaerskiltutmerkelse.png)
 
 Gammel diplom for Særskilt utmerkelse (til og med 2019)
 =======================================================
 
-<img src="../../../assets/images/gammelsaerskiltutmerkelse.png" alt="Gammel diplom for særskilt utmerkelse" width="600"/>
-
+![Gammel diplom for særskilt utmerkelse](../../../assets/images/gammelsaerskiltutmerkelse.png)
