@@ -64,6 +64,13 @@ export default defineConfig({
 						sizes: "256x256",
 					},
 				},
+				{
+					tag: "meta",
+					attrs: {
+						name: "application-name",
+						content: "Online Wiki",
+					},
+				},
 			],
 			// Makes it so not everything is in one folder
 			sidebar: getSidebar()[0].items,
