@@ -12,14 +12,14 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/starlight": "^0.32.2",
-    "astro": "^5.4.1",
+    "@astrojs/starlight": "^0.34.0",
+    "astro": "^5.7.4",
     "gray-matter": "^4.0.3",
-    "sharp": "^0.33.5",
-    "typescript": "^5.8.2"
+    "sharp": "^0.34.1",
+    "typescript": "^5.8.3"
   },
   "devDependencies": {
-    "wrangler": "^3.111.0"
+    "wrangler": "^4.12.0"
   },
   "engines": {
     "node": ">=18.0"

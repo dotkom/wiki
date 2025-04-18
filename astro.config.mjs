@@ -27,13 +27,13 @@ export default defineConfig({
 			lastUpdated: true,
 			customCss: ["./src/styles/custom.css"],
 			editLink: { baseUrl: "https://github.com/dotkom/wiki/edit/main/" },
-			social: {
-				facebook: "https://facebook.com/LinjeforeningenOnline",
-				instagram: "https://www.instagram.com/online_ntnu/",
-				slack: "https://onlinentnu.slack.com/",
-				github: "https://github.com/dotkom/wiki",
-				discord: "https://discordapp.com/invite/2XB9egU",
-			},
+			social: [
+				{ icon: "facebook", label: "Facebook", href: "https://facebook.com/LinjeforeningenOnline" },
+				{ icon: "instagram", label: "Instagram", href: "https://www.instagram.com/online_ntnu/" },
+				{ icon: "slack", label: "Slack", href: "https://onlinentnu.slack.com/" },
+				{ icon: "github", label: "GitHub", href: "https://github.com/dotkom/wiki" },
+				{ icon: "discord", label: "Discord", href: "https://discordapp.com/invite/2XB9egU" },
+			],
 			head: [
 				{
 					tag: "script",
