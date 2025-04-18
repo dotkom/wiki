@@ -1,0 +1,6 @@
+name = "wiki"
+pages_build_output_dir = "./dist"
+
+[vars]
+BUN_VERISON = "1.2.10"
+SKIP_DEPENDENCY_INSTALL = "true"
