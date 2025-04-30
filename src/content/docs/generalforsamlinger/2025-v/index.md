@@ -5,13 +5,13 @@ date: 2025-03-03
 
 ## Innhold
 
-- [2025 Vår Forside](/generalforsamlinger/2025-v) - Forside
-- [2025 Vår Forretningsorden](/generalforsamlinger/2025-v/forretningsorden) - Forretningsorden
-- [2025 Vår Dagsorden](/generalforsamlinger/2025-v/dagsorden) - Dagsorden for generalforsamlingen
-- [2025 Vår Halvårsberetninger](/generalforsamlinger/2025-v/aarsberetninger) - Halvårsberetninger
-- [2025 Vår Saksforslag](/generalforsamlinger/2025-v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-- [2025 Vår Vedtektsforslag](/generalforsamlinger/2025-v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-- [2025 Vår Kandidater](/generalforsamlinger/2025-v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+- [2025 Vår Forside](/generalforsamlingen/genfors2025v) - Forside
+- [2025 Vår Forretningsorden](/generalforsamlingen/genfors2025v/forretningsorden) - Forretningsorden
+- [2025 Vår Dagsorden](/generalforsamlingen/genfors2025v/dagsorden) - Dagsorden for generalforsamlingen
+- [2025 Vår Halvårsberetninger](/generalforsamlingen/genfors2025v/aarsberetninger) - Halvårsberetninger
+- [2025 Vår Saksforslag](/generalforsamlingen/genfors2025v/saksforslag) - Alle innsendte saker vil bli tatt opp.
+- [2025 Vår Vedtektsforslag](/generalforsamlingen/genfors2025v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2025 Vår Kandidater](/generalforsamlingen/genfors2025v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 ## Dokumenter fra årets generalforsamling
 
@@ -49,7 +49,7 @@ Om du har en sak du vil at Hovedstyret for perioden 25/26 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Etter tilbakemeldinger de siste generalforsamlingenene har HS bestemt for å prøve å ikke arrangere vedtektskveld i forkant av generalforsamlingen dette semesterert.
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2025-v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/genfors2025v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 Vel møtt!
 

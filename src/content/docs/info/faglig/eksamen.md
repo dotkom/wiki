@@ -144,7 +144,7 @@ ikke kan svare på noe som helst?
 utholdelig.*
 
 [Offisielle wiki]: https://innsida.ntnu.no/eksamen
-[ntnustipend]: https://www.ntnu.no/studier/international/ntnustipend
+[ntnustipend]: www.ntnu.no/studier/international/ntnustipend
 [Kilder]: http://bit.ly/GlucoseAndCaffeine
 [Dragvoll]: http://bit.ly/DragvollIdrettsSenter
 [Gløshaugen]: http://bit.ly/GloshaugenIdrettsSenter 

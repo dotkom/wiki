@@ -35,7 +35,7 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 |Karrieredag|Ansvarlig|Når|Hvor|Facebook|
 |---|---|---|---|---|
 | Arbeidslivsdagen | [Panoptikon ](https://www.facebook.com/panoptikonlinjeforening/)  | Vårsemester oddetallsår | Dragvoll | [Event 2019](https://www.facebook.com/events/ntnu-dragvoll-d154/arbeidslivsdagen-2019-sts/386535878803627/) |
-| Navn | Ansvarlig | tidspunkt | Sted | Page |
+| [Navn](Nettside) | [Ansvarlig](Link til ansvarlige)  | tidspunkt | Sted | [Page](FB) |
 | [BM-dagen](http://www.bmdagen.no/) | [Næringslivsringen Bygg](http://www.bygg.ntnu.no/naringslivsringen/) og 3. klasse bygg | November | Realfagbygget | [Page](http://fb.com/BMdagen) |
 | Bedriftsdag | [GEOLF](https://geolf.org)  | Varierer | Dragvoll | [Page](https://www.facebook.com/GEOLF.ntnu/) |
 | [Bedriftsdagen](http://bedriftsdagen.no/) | Studenter Marin Teknikk | Oktober | Marinteknisk senter | [Page](https://www.facebook.com/Bedriftsdagen) |
@@ -50,11 +50,11 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 | [itDAGENE](http://itdagene.no) | [itDAGENE](http://itdagene.no) | September | Glassgården | [Page](http://fb.com/itDAGENE) |
 | [KarriereDagene](http://www.kdntnu.no) | [Bindeleddet](http://bindeleddet.no) | September | Stort telt på plenen bak hovedbygget | [Page](http://fb.com/kdntnu) |
 | [Karrieredag ING:α](http://karrieredag.no/linjeforeningen-inga/) | [ING:α](https://www.facebook.com/inga.hig/)  | Oktober | NTNU Gjøvik | [Page](https://www.facebook.com/inga.hig/) |
-| Karrieredag for helsefagstudenter NTNU Gjøvik | [FRESK](https://www.facebook.com/linjeforeningenfresk/)  | Januar | NTNU Gjøvik | [Event 2019](https://www.facebook.com/events/fresk-linjeforeningen-for-helsefag-ved-ntnu-i-gj%C3%B8vik/karrieredag-for-alle-helsefagstudenter-ved-ntnu-i-gj%C3%B8vik/915205765353731/) |
+| [Karrieredag for helsefagstudenter NTNU Gjøvik](Nettside) | [FRESK](https://www.facebook.com/linjeforeningenfresk/)  | Januar | NTNU Gjøvik | [Event 2019](https://www.facebook.com/events/fresk-linjeforeningen-for-helsefag-ved-ntnu-i-gj%C3%B8vik/karrieredag-for-alle-helsefagstudenter-ved-ntnu-i-gj%C3%B8vik/915205765353731/) |
 | Karrieredagen| [Darling](http://org.ntnu.no/darling2016/)  | Februar | NTNU i Gjøvik Ametystbygget | [Page](https://www.facebook.com/darlingntnu/) |
 | [Karrieredagen Dragvoll](https://www.kndntnu.no/) | [Karrieredagen Dragvoll](https://www.kndntnu.no/kontakt-oss)  | Februar | Dragvoll | [Page](https://www.facebook.com/KarrieredagenNTNUDragvoll/) |
 | [Karrieredagen Handelshøyskolen](https://nuhhit.no/karrieredagen/) | [NU](https://nuhhit.no/om-oss/)  | September | Elgeseter | [Page](https://www.facebook.com/Karrieredagen.handels/) |
-| Karrieredagen for institutt for sosialt arbeid | | Mars | Tunga | [Page](https://www.facebook.com/events/tungasletta-2-7047-trondheim-norge/karrieredagen-ntnu-institutt-for-sosialt-arbeid/347585732667507/) |
+| [Karrieredagen for institutt for sosialt arbeid](Nettside) | | Mars | Tunga | [Page](https://www.facebook.com/events/tungasletta-2-7047-trondheim-norge/karrieredagen-ntnu-institutt-for-sosialt-arbeid/347585732667507/) |
 | [Karrièredagen eurêka](https://nabla.no/arrangement/1386-karrieredagen-eureka-2021) | [Nabla](https://nabla.no/)  | Januar | Realfagbygget | [Page](https://www.facebook.com/Bedriftskontakt1Nabla/) |
 | [Karrieremessa i Trondheim](http://framtidsfylket.no/for-arbeidsgjevar/karrieremesser-2014/karriemesse-trondheim-2014/) (2014) | [Framtidsfylket](http://framtidsfylket.no/) | Mars | Glassgården | |
 | [Kjemidagen](http://www.kjemidagen.no/) | [HC](http://www.hc.ntnu.no,) [Timini](https://www.timini.no/) | Oktober | Realfagbygget | [Page](http://fb.com/Kjemidagen) |

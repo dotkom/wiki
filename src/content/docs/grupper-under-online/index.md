@@ -38,11 +38,11 @@ Kjelleren arrangerer lavterskel arrangementer hvor alle er velkomne, til vanlig 
 
 Ellers er det mulig å booke kjelleren for egne arrangementer og sammenkomster. 
 
-Les mer: [Realfagskjelleren](/grupper-under-online/realfagskjelleren/)
+Les mer: [Realfagskjelleren](/realfagskjelleren/)
 
 # Datakameratene FK
 Datakameratene FK Gløshaugen er en fotballklubb primært for studenter ved linjene datateknikk, kommunikasjonsteknologi og informatikk ved NTNU. 
 Fotballklubben består av et styre og to avdelinger; herreavdelingen og kvinneavdelingen. 
 Klubben har ingen direkte tilknytning til Online og Abakus, men er et fint samlingspunkt for studenter fra de to linjeforeningene. 
  
-Les mer: [Datakameratene FK](/grupper-under-online/datakameratenefk/)
+Les mer: [Datakameratene FK](/datakameratenefk/)

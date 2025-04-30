@@ -19,7 +19,7 @@ Her legges det ut videoer av freshe moves og generelt smashprat.
 
 ### Smash Ranking System
 For øyeblikket ute av drift  
-Vi har vårt eget rankingsystem, smash.online.ntnu.no! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret.
+Vi har vårt eget rankingsystem, [smash.online.ntnu.no](smash.online.ntnu.no)! Her kan du logge deg inn med din OW-bruker og registrere kamper mot andre du spiller med på kontoret.
 
 ## Litt historie
 

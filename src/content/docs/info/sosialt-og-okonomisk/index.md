@@ -11,4 +11,4 @@ title: "Sosialt & økonomisk"
 - [Studentsanger](/info/sosialt-og-okonomisk/studentsanger/) - De tradisjonsrike sangene sunget av NTNU-studenter gjennom tidene!
 - [Onlines kalender](https://www.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe/Oslo){:target="_blank"}
 - [Søke om drikking på kontoret](/info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret/)
-- [Gullblekka](/info/sosialt-og-okonomisk/gullblekka/)
+- [Gullblekka](/info/sosialt-og-okonomisk/gullblekka)

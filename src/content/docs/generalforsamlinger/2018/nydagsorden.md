@@ -2,13 +2,13 @@
 title: "Endret dagsorden etter vedtektsforslag 1"
 ---
 
-* [2018 Forside](/generalforsamlinger/2018)   - Forside
-* [2018 Forretningsorden](/generalforsamlinger/2018/forretningsorden) - Forretningsorden
-* [2018 Dagsorden](/generalforsamlinger/2018/dagsorden) - Dagsorden for generalforsamlingen
-* [2018 Årsberetninger](/generalforsamlinger/2018/aarsberetninger) - Årsberetninger
-* [2018 Saksforslag](/generalforsamlinger/2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2018 Vedtektsforslag](/generalforsamlinger/2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2018 Kandidater](/generalforsamlinger/2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2018 Forside](/generalforsamlingen/genfors2018)   - Forside
+* [2018 Forretningsorden](/generalforsamlingen/genfors2018/forretningsorden) - Forretningsorden
+* [2018 Dagsorden](/generalforsamlingen/genfors2018/dagsorden) - Dagsorden for generalforsamlingen
+* [2018 Årsberetninger](/generalforsamlingen/genfors2018/aarsberetninger) - Årsberetninger
+* [2018 Saksforslag](/generalforsamlingen/genfors2018/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2018 Vedtektsforslag](/generalforsamlingen/genfors2018/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2018 Kandidater](/generalforsamlingen/genfors2018/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 **Pizzabestilling vil bli organisert felles og annonsert i begynnelsen av generalforsamlingen.**
 

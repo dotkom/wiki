@@ -4,12 +4,12 @@ title: "Saksforslag høsten 2024"
 
 ## Innhold
 
-- [2024 Høst Forside](/generalforsamlinger/2024-h) - Forside
-- [2024 Høst Forretningsorden](/generalforsamlinger/2024-h/forretningsorden) - Forretningsorden
-- [2024 Høst Dagsorden](/generalforsamlinger/2024-h/dagsorden) - Dagsorden for generalforsamlingen
-- [2024 Høst Halvårsberetninger](/generalforsamlinger/2024-h/aarsberetninger) - Halvårsberetninger
-- [2024 Høst Saksforslag](/generalforsamlinger/2024-h/saksforslag) - Alle innsendte saker vil bli tatt opp.
-- [2024 Høst Vedtektsforslag](/generalforsamlinger/2024-h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2024 Høst Forside](/generalforsamlingen/genfors2024h) - Forside
+- [2024 Høst Forretningsorden](/generalforsamlingen/genfors2024h/forretningsorden) - Forretningsorden
+- [2024 Høst Dagsorden](/generalforsamlingen/genfors2024h/dagsorden) - Dagsorden for generalforsamlingen
+- [2024 Høst Halvårsberetninger](/generalforsamlingen/genfors2024h/aarsberetninger) - Halvårsberetninger
+- [2024 Høst Saksforslag](/generalforsamlingen/genfors2024h/saksforslag) - Alle innsendte saker vil bli tatt opp.
+- [2024 Høst Vedtektsforslag](/generalforsamlingen/genfors2024h/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 30. september kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp.
 

@@ -24,7 +24,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
 - [Onlinepotten](/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
 - [Budsjett](/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
-- [Generalforsamlingen](/generalforsamlinger) - Informasjon om Onlines generalforsamling
+- [Generalforsamlingen](/generalforsamlingen) - Informasjon om Onlines generalforsamling
 
 
 ### [Faglig](/info/faglig/)
@@ -38,9 +38,9 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 ### [Sosialt & økonomisk](/info/sosialt-og-okonomisk/)
 - [Ny student?](/info/sosialt-og-okonomisk/ny-student/) - La oss hjelpe deg igang!
 - [Ny på informatikk](/info/ny-paa-informatikk/)  - TL;DR av den over. 
-- [Onlines daljer](/info/daljer/) - Oversikt over Online sine daljer
-- [Hvordan bære daljer](/info/dalje/) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
-- [Særskilt utmerkelse](/info/saerskilt-utmerkelse/) - Informasjon om en av de gjeveste prisene som deles ut i Online hvert år
+- [Onlines daljer](/info/daljer) - Oversikt over Online sine daljer
+- [Hvordan bære daljer](/info/dalje) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
+- [Særskilt utmerkelse](/info/saerskilt-utmerkelse) - Informasjon om en av de gjeveste prisene som deles ut i Online hvert år
 - [Ditt liv som Onliner](/info/sosialt-og-okonomisk/ditt-liv-som-onliner/) - Hvordan kommer Onlines komiteer til å påvirke meg?
 - [Mat for lange dager på lesesalen](/info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen/) - Her finner du oversikt over take away
 - [Lånekassen](/info/sosialt-og-okonomisk/lanekassen/) - Din beste venn eller verste fiende
@@ -57,9 +57,9 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Trøndersk ordliste](/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Strikkemønster for Online-genseren](/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/info/trivia/oppskrift_pa_strikkevotter/)
-- [Lage ny bruker på Onlineweb](/info/trivia/ny_bruker/)
+- [Lage ny bruker på Onlineweb](/info/trivia/ny_bruker)
 - [Hvordan endre wiki-sider](/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
-- [Artikkel-arkiv](/info/trivia/arkiv/) - Her finner du gamle wiki-artikler som ikke lenger er like relevante i dag, men fortsatt kan være artige å lese!
+- [Artikkel-arkiv](/info/trivia/arkiv) - Her finner du gamle wiki-artikler som ikke lenger er like relevante i dag, men fortsatt kan være artige å lese!
 
 
 
@@ -67,32 +67,32 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 [Historie om linjeforeningen og komiteene](/historie/)
 ----------------------------------------
 
-- [Historien om linjeforeningen](/historie/om/)
-    - [Hovedstyret](/historie/hs/)
-    - [Debug](/historie/debug/)
-    - [Applikasjonskomiteen](/historie/appkom/)
-    - [Arrangementskomiteen](/historie/arrkom/)  
-    - [Backlog](/historie/seniorkom/)
-    - [Bank- og økonomikomiteen](/historie/bankom/)
-    - [Bedriftskomiteen](/historie/bedkom/)
-    - [Drifts- og utviklingskomiteen](/historie/dotkom/)
-    - [Fag- og kurskomiteen](/historie/fagkom/)
-    - [Online Idrettslag](/historie/oil/)
-    - [Profil- og aviskomiteen](/historie/prokom/)
-    - [Trivselskomiteen](/historie/trikom/)
-    - [Ekskursjonskomiteen](/historie/ekskom/)
-    - [Jubileumskomiteen](/historie/jubkom/)
-    - [Velkomstkomiteen](/historie/velkom/)
-    - [IT-Ekskursjonen](/historie/itex/)
-- [Offline](/historie/offlines-historie/)
-- [Generalforsamlingen](/generalforsamlinger)
-- [GenVORS (Tidligere Økonomi- og vedtektskvelden)](/okogved/)
-- [Ridderne av Det Indre Lager](/info/ridderne/)
-- [Kontoret](/kontoret/)
-- [Realfagskjelleren](/grupper-under-online/realfagskjelleren)
-- [Datakameratene FK](/grupper-under-online/datakameratenefk)
+- [Historien om linjeforeningen](/historie/om)
+    - [Hovedstyret](/historie/hs)
+    - [Debug](/historie/debug)
+    - [Applikasjonskomiteen](/historie/appkom)
+    - [Arrangementskomiteen](/historie/arrkom)  
+    - [Backlog](/historie/seniorkom)
+    - [Bank- og økonomikomiteen](/historie/bankom)
+    - [Bedriftskomiteen](/historie/bedkom)
+    - [Drifts- og utviklingskomiteen](/historie/dotkom)
+    - [Fag- og kurskomiteen](/historie/fagkom)
+    - [Online Idrettslag](/historie/oil)
+    - [Profil- og aviskomiteen](/historie/prokom)
+    - [Trivselskomiteen](/historie/trikom)
+    - [Ekskursjonskomiteen](/historie/ekskom)
+    - [Jubileumskomiteen](/historie/jubkom)
+    - [Velkomstkomiteen](/historie/velkom)
+    - [IT-Ekskursjonen](/historie/itex)
+- [Offline](/offlines-historie/)
+- [Generalforsamlingen](/generalforsamlingen)
+- [GenVORS (Tidligere Økonomi- og vedtektskvelden)](/okogved)
+- [Ridderne av Det Indre Lager](/ridderne/)
+- [Kontoret](/kontoret)
+- [Realfagskjelleren](/realfagskjelleren)
+- [Datakameratene FK](/datakameratenefk)
 
-[Interne wikier](https://old.online.ntnu.no/wiki/)
+[Interne wikier](/wiki/)
 --------------
 
 I tillegg til en felles wiki for alle komiteer har hver komite sin egen wiki (som kun komitemedlemmene har tilgang til).

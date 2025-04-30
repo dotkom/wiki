@@ -4,13 +4,13 @@ date: 2022-03-02
 ---
 
 ## Innhold
-* [2022 Forside](/generalforsamlinger/2022)   - Forside
-* [2022 Forretningsorden](/generalforsamlinger/2022/forretningsorden) - Forretningsorden
-* [2022 Dagsorden](/generalforsamlinger/2022/dagsorden) - Dagsorden for generalforsamlingen
-* [2022 Årsberetninger](/generalforsamlinger/2022/aarsberetninger) - Årsberetninger
-* [2022 Saksforslag](/generalforsamlinger/2022/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2022 Vedtektsforslag](/generalforsamlinger/2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Kandidater](/generalforsamlinger/2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2022 Forside](/generalforsamlingen/genfors2022)   - Forside
+* [2022 Forretningsorden](/generalforsamlingen/genfors2022/forretningsorden) - Forretningsorden
+* [2022 Dagsorden](/generalforsamlingen/genfors2022/dagsorden) - Dagsorden for generalforsamlingen
+* [2022 Årsberetninger](/generalforsamlingen/genfors2022/aarsberetninger) - Årsberetninger
+* [2022 Saksforslag](/generalforsamlingen/genfors2022/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2022 Vedtektsforslag](/generalforsamlingen/genfors2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Kandidater](/generalforsamlingen/genfors2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2022](https://docs.google.com/presentation/d/1FrkcYeZrzaAwKnOl6F_Yj9NcrcRok5nhUwZRQhoAu90/edit?usp=sharing)  
@@ -43,7 +43,7 @@ Om du har en sak du vil at Hovedstyret for perioden 22/23 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2022/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/genfors2022/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 

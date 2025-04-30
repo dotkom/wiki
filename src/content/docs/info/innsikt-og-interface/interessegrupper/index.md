@@ -22,7 +22,7 @@ Støtten utbetales ved å sende inn et kvitteringsskjema via https://kvittering.
 - Husk å ta vare på alle kvitteringer. Bruk gjerne en scanner-app som CamScanner eller scanning-funksjonen til Google Drive. Kvitteringen skal være leselig.  
 
 ## Retningslinjer for interessegrupper  
-Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene: [Retningslinjer](/info/innsikt-og-interface/interessegrupper/retningslinjer/)
+Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene: [Retningslinjer](/info/innsikt-og-interface/interessegrupper/retningslinjer)
 
 ## Aktive interessegrupper
 
@@ -31,8 +31,8 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Ontap](/info/innsikt-og-interface/interessegrupper/ontap/)
 - [Stipendsushi](/info/innsikt-og-interface/nodekomiteer/sushikom/)
 - [Onski](/info/innsikt-og-interface/interessegrupper/onski/)
-- [Podline](/info/innsikt-og-interface/interessegrupper/podline/)
-- [GratIste](/info/innsikt-og-interface/interessegrupper/gratiste/)
+- [Podline](/info/innsikt-og-interface/interessegrupper/podline)
+- [GratIste](/info/innsikt-og-interface/interessegrupper/gratiste)
 - [Questline](/info/innsikt-og-interface/interessegrupper/questline/)
 - [Smashkom](/info/innsikt-og-interface/interessegrupper/smashkom/)
 - [Interessegruppen for folk som er glad i jul](/info/innsikt-og-interface/interessegrupper/interessegruppen-folk-som-er-glad-i-jul/)
@@ -52,12 +52,13 @@ Disse retningslinjene er utarbeidet av backlog og gjelder alle interessegruppene
 - [Cachekom](/info/innsikt-og-interface/nodekomiteer/cachekom/)
 - [Kobkom] - Kort og brettspillkomiteen ([facebook-gruppe](https://www.facebook.com/groups/357002807821891/))
 - [Strikk & drikk](/info/innsikt-og-interface/interessegrupper/strikkogdrikk/)
-- [Sjadam](/info/innsikt-og-interface/interessegrupper/sjadom/)
+- [Sjadam](/info/innsikt-og-interface/interessegrupper/sjadom)
 - [Makrellgutta](/info/innsikt-og-interface/interessegrupper/makrellgutta/)
 - [Quizline](/info/innsikt-og-interface/interessegrupper/quizline/)
 - [Maleklubben](/info/innsikt-og-interface/interessegrupper/maleklubben/)
 - [Comitato Di Pizza](/info/innsikt-og-interface/interessegrupper/comitatodipizza/)
-- [Sjampismandag](/info/innsikt-og-interface/interessegrupper/sjampismandag/)
+- [Sjampismandag](/info/innsikt-og-interface/interessegrupper/sjampismandag)
 - [Henrik](/info/innsikt-og-interface/interessegrupper/henrik/)
+- [UX](/info/innsikt-og-interface/interessegrupper/ux/)
 - [PremLine](/info/innsikt-og-interface/interessegrupper/premline/)
 - [Padelpiratene](/info/innsikt-og-interface/interessegrupper/padelpiratene/)

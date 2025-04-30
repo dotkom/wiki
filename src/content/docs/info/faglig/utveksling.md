@@ -84,7 +84,7 @@ Mer informasjon og nyttige lenker
 ==================
 - Har du et (eller flere) spørsmål om utveksling? Andre informatikere svarer deg gjerne i #utveksling i Onlineslacken.  
 -  I november 2019 holdt fire flinke informatikere frokostseminar om utveksling. Det anbefales å sjekke ut slides fra [presentasjonen](https://docs.google.com/presentation/d/1gGVZ3KJeSM1nnFXGXe4EP3tIEWVbwOvzWP-H2YQZJvY/edit?usp=sharing).
-- Lurer du på hvordan det er å være på utveksling? Sjekk ut rapporter [her](https://www.ntnu.no/studier/studier_i_utlandet/rapport/search.php?language=no), og blogginnlegg fra datastudenter [her](/ http:/utland.abakus.no/). I denne utgaven av Offline finner du også en [artikkel](https://online.ntnu.no/media/images/offline/Offline_nr4-2018_Web.pdf) skrevet av en informatiker på utveksling.
+- Lurer du på hvordan det er å være på utveksling? Sjekk ut rapporter [her](https://www.ntnu.no/studier/studier_i_utlandet/rapport/search.php?language=no), og blogginnlegg fra datastudenter [her]( http://utland.abakus.no/). I denne utgaven av Offline finner du også en [artikkel](https://online.ntnu.no/media/images/offline/Offline_nr4-2018_Web.pdf) skrevet av en informatiker på utveksling.
 - Sidene til internasjonal seksjon: https://innsida.ntnu.no/utenlandsstudier 
 - IDI wiki side om utveksling: https://www.ntnu.no/wiki/display/utland/Information+about+Student+Exchange  
 - Oversikt over universiteter NTNU har avtale med: https://innsida.ntnu.no/studiested-utland

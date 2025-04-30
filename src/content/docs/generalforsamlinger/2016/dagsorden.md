@@ -53,11 +53,11 @@ title: "Dagsorden"
 
 * 14 Innsendte saker og vedtektsendringer
      * 14.1 Saksforslag
-     * [Saksliste finner du her](/generalforsamlinger/2016/saksliste/)
+     * [Saksliste finner du her](/generalforsamlingen/2016/saksliste/)
          
     * 14.2 Vedtektsforslag  
 
-    * [Vedtektsforslag finner du her](/generalforsamlinger/2016/vedtekstforslag/)
+    * [Vedtektsforslag finner du her](/generalforsamlingen/2016/vedtekstforslag/)
         
 20:00 - Pause (30 min)
 
@@ -65,7 +65,7 @@ title: "Dagsorden"
 
 21:15 - Pause (5 min)
 
-* 16 Valg - Se [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg)
+* 16 Valg - Se [2016 Kandidater til Hovedstyret](/generalforsamlingen/2016/valg)
     * 16.1 - Valg av leder
     * 16.2 - Valg av nestleder
     * 16.3 - Valg av leder for arrKom
