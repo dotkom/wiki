@@ -12,6 +12,7 @@ Møtereferater
 ### Vår 2025
 
 - [2025-04-30](2025/2025-04-30) - Fondet blir kanskje endelig brukt og litt straffaganza
+- [2025-04-25-stormøte](2025/2025-04-25-stormote) - Endring av avmeldingsfrist
 - [2025-04-25](2025/2025-04-25) - Vi er tilbake etter påskeferie
 - [2025-04-10](2025/2025-04-10) - Valg for interne roller og litt økonomi
 - [2025-04-08-stormøte](2025/2025-04-08-stormote) - Kræsj med Bedpres og cancel dotDAGENE!
