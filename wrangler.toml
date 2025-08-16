@@ -1,6 +1,16 @@
 name = "wiki"
-pages_build_output_dir = "./dist"
+main = "./dist/_worker.js/index.js"
+
+compatibility_date = "2025-08-09"
+compatibility_flags = [ "nodejs_compat" ]
+
+[assets]
+binding = "ASSETS"
+directory = "./dist"
+
+[observability.logs]
+enabled = true
 
 [vars]
-BUN_VERISON = "1.2.10"
+BUN_VERSION = "1.2.20"
 SKIP_DEPENDENCY_INSTALL = "true"

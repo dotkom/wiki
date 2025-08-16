@@ -2,10 +2,20 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import { getSidebar } from "./sidebar/getSidebar";
 import starlightLinksValidator from "starlight-links-validator";
+import cloudflare from "@astrojs/cloudflare";
 
 // https://astro.build/config
 export default defineConfig({
 	site: "https://wiki.online.ntnu.no",
+	adapter: cloudflare({
+		platformProxy: {
+			enable: true,
+		},
+		imageService: "cloudflare",
+		runtime: {
+			mode: "local",
+		},
+	}),
 	integrations: [
 		// https://starlight.astro.build/reference/configuration/
 		starlight({
