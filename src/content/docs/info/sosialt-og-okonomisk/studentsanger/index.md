@@ -119,7 +119,7 @@ Skåler
 ------
 
 -   [Alla har det så bra](/info/sosialt-og-okonomisk/studentsanger/sabra)
--   [Dampbåten](/info/sosialt-og-okonomisk/studentsanger/dampbåten)
+-   [Dampbåten](/info/sosialt-og-okonomisk/studentsanger/dampbaaten)
 -   [Drikke dagen lang](/info/sosialt-og-okonomisk/studentsanger/drikkedagenlang)
 -   [Rundup](/info/sosialt-og-okonomisk/studentsanger/rundup)
 -   [skål - skål - skål](/info/sosialt-og-okonomisk/studentsanger/skaal)
