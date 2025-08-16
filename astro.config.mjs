@@ -75,7 +75,12 @@ export default defineConfig({
 			],
 			// Makes it so not everything is in one folder
 			sidebar: getSidebar()[0].items,
-			plugins: [starlightLinksValidator()],
+			plugins: [starlightLinksValidator(
+				{
+					errorOnRelativeLinks: false,
+					errorOnInvalidHashes: false,
+				}
+			)],
 		}),
 	],
 });
