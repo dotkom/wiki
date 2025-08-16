@@ -68,10 +68,12 @@ const getChildFilesAndDirectoriesNames = (directorySlug) => {
  */
 const fileNamesToSidebarItem = (fileNames, parentDirectorySlug, includeFrontmatter) => {
 	return fileNames.reduce((items, fileName) => {
-		const content = readFile(`${parentDirectorySlug}/${fileName}`);
+		// Build path/slug segments without introducing a leading slash when parent slug is empty
+		const filePathSlug = parentDirectorySlug ? `${parentDirectorySlug}/${fileName}` : fileName;
+		const content = readFile(filePathSlug);
 
 		const fileNameWithoutExtension = removeFileExtension(fileName);
-		const slug = `${parentDirectorySlug}/${fileNameWithoutExtension}`;
+		const slug = parentDirectorySlug ? `${parentDirectorySlug}/${fileNameWithoutExtension}` : fileNameWithoutExtension;
 
 		if (!content) {
 			return items;
@@ -159,7 +161,7 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
 
 	// Filling child directories with their files and directories
 	let childDirectories = childDirectoriesNames.flatMap((directory) =>
-		getSidebar(`${slug}/${directory}`, sortChildFilesMethod)
+		getSidebar(slug ? `${slug}/${directory}` : directory, sortChildFilesMethod)
 	);
 
 	// Sorting child directories by date

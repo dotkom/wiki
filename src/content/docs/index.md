@@ -24,7 +24,7 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Prikkeregler](https://online.ntnu.no/profile/settings/penalties#rules) - Onlines prikkereglement  
 - [Onlinepotten](/info/innsikt-og-interface/onlinepotten/) - Midler som kan søkes om i forbindelse med arbeid som er nyttig for linjeforeningen
 - [Budsjett](/info/innsikt-og-interface/budsjett/) - Informasjon om Onlines budsjett  
-- [Generalforsamlingen](/generalforsamlingen) - Informasjon om Onlines generalforsamling
+- [Generalforsamlingen](/generalforsamlinger/) - Informasjon om Onlines generalforsamling
 
 
 ### [Faglig](/info/faglig/)
@@ -57,8 +57,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Trøndersk ordliste](/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Strikkemønster for Online-genseren](/info/trivia/strikkegenser/)
 - [Oppskrift på strikkevotter](/info/trivia/oppskrift_pa_strikkevotter/)
-- [Lage ny bruker på Onlineweb](/info/trivia/ny_bruker)
-- [Hvordan endre wiki-sider](/info/trivia/hvordan-endre-wiki-sider-pa-ow/)
 - [Artikkel-arkiv](/info/trivia/arkiv) - Her finner du gamle wiki-artikler som ikke lenger er like relevante i dag, men fortsatt kan være artige å lese!
 
 
@@ -84,15 +82,13 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
     - [Jubileumskomiteen](/historie/jubkom)
     - [Velkomstkomiteen](/historie/velkom)
     - [IT-Ekskursjonen](/historie/itex)
-- [Offline](/offlines-historie/)
-- [Generalforsamlingen](/generalforsamlingen)
+- [Offline](/historie/offlines-historie/)
+- [Generalforsamlingen](/generalforsamlinger/)
 - [GenVORS (Tidligere Økonomi- og vedtektskvelden)](/okogved)
-- [Ridderne av Det Indre Lager](/ridderne/)
+- [Ridderne av Det Indre Lager](/info/ridderne/)
 - [Kontoret](/kontoret)
-- [Realfagskjelleren](/realfagskjelleren)
-- [Datakameratene FK](/datakameratenefk)
-
-[Interne wikier](/wiki/)
+- [Realfagskjelleren](/grupper-under-online/realfagskjelleren)
+- [Datakameratene FK](/grupper-under-online/datakameratenefk)
 --------------
 
 I tillegg til en felles wiki for alle komiteer har hver komite sin egen wiki (som kun komitemedlemmene har tilgang til).

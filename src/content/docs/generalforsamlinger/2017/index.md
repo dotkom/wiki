@@ -3,12 +3,12 @@ title: "Genfors 2017"
 date: 2017-04-25
 ---
 
-* [2017 Forretningsorden](/generalforsamlingen/2017/forretningsorden) - Forretningsorden
-* [2017 Dagsorden](/generalforsamlingen/2017/dagsorden) - Dagsorden for generalforsamlingen
-* [2017 Årsberetninger](/generalforsamlingen/2017/aarsberetninger) - Årsberetninger
-* [2017 Saksforslag](/generalforsamlingen/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2017 Vedtektsforslag](/generalforsamlingen/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2017 Kandidater til Hovedstyret](/generalforsamlingen/2017/valg) - Er du klar for et verv i Hovedstyret?
+* [2017 Forretningsorden](/generalforsamlinger/2017/forretningsorden) - Forretningsorden
+* [2017 Dagsorden](/generalforsamlinger/2017/dagsorden) - Dagsorden for generalforsamlingen
+* [2017 Årsberetninger](/generalforsamlinger/2017/aarsberetninger) - Årsberetninger
+* [2017 Saksforslag](/generalforsamlinger/2017/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2017 Vedtektsforslag](/generalforsamlinger/2017/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2017 Kandidater til Hovedstyret](/generalforsamlinger/2017/valg) - Er du klar for et verv i Hovedstyret?
 
 
 # Onlines vedtekter og referat fra forrige generalforsamling 
@@ -35,7 +35,7 @@ Om du har en sak du vil at Hovedstyret for perioden 17/18 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til økonomi- og vedtektskveld 30. mars i R7 kl. 15.15. Her har du muligheten til å kommentere på de foreslåtte vedtektsendringene og budsjettet. 
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlingen/2017/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2017/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. 
 

@@ -30,7 +30,7 @@ Under finnes retningslinjer for Onlines komiteer, som er vedtatt av Hovedstyret.
 
 
 ### Diverse 
-- [Komitémedlemsretningslinjer](/wiki/komiteer/retningslinjer/) - Felles retningslinjer for alle komitémedlemer
+- [Komitémedlemsretningslinjer](https://old.online.ntnu.no/wiki/komiteer/retningslinjer/) - Felles retningslinjer for alle komitémedlemer
 - [Budsjettreglement](/info/innsikt-og-interface/budsjett/budsjettreglement-online/)
 - [Signatur](/info/innsikt-og-interface/retningslinjer/epostsignatur/)
 - [Instagram](/info/innsikt-og-interface/retningslinjer/instagram)

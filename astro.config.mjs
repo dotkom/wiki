@@ -1,6 +1,7 @@
 import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 import { getSidebar } from "./sidebar/getSidebar";
+import starlightLinksValidator from "starlight-links-validator";
 
 // https://astro.build/config
 export default defineConfig({
@@ -74,6 +75,12 @@ export default defineConfig({
 			],
 			// Makes it so not everything is in one folder
 			sidebar: getSidebar()[0].items,
+			plugins: [starlightLinksValidator(
+				{
+					errorOnRelativeLinks: false,
+					errorOnInvalidHashes: false,
+				}
+			)],
 		}),
 	],
 });
