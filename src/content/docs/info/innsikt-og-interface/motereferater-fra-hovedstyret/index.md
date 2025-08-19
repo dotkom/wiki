@@ -10,6 +10,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------
 ### Vår 2025
+- [2025-08-15-stormøte](2025/2025-08-15-stormote) - Første stormøte
 - [2025-05-09](2025/2025-05-09) - Faxepins for alle
 - [2025-04-30](2025/2025-04-30) - Fondet blir kanskje endelig brukt og litt straffaganza
 - [2025-04-25-stormøte](2025/2025-04-25-stormote) - Endring av avmeldingsfrist
