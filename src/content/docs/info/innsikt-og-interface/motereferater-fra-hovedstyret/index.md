@@ -12,6 +12,7 @@ Møtereferater
 ### Høst 2025
 - [2025-08-15](2025/2025-08-15) - Første HS-møte
 - [2025-08-15-stormøte](2025/2025-08-15-stormote) - Første stormøte
+- [2025-08-29-stormøte](2025/2025-08-29-stormote) - Opptak snart!!
 
 ### Vår 2025
 - [2025-05-09](2025/2025-05-09) - Faxepins for alle
