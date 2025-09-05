@@ -79,6 +79,7 @@ Medlemmer
 ---------------
 |Milepæl|Leder|Medlemmer||||||||||
 |---|---|---|---|---|---|---|---|---|---|---|---|
+|40 år|**Erik Hjelm Fjeldheim**|Henry Græsberg|Johanna Wilmers|Henrik Nordvik|Nicolay Bennett Rennemo|Scott Alexander Jarve Jennings|Kristian Numme|Jens Cranner Dahle|Emma Zhang Christiansen|Tim Olof Peter Wolgers|
 |35 år|**Jonas Lavik**|Mathias Schulstok|Duvara Nisharan|Mats Ellingsen|Henrik Giil Lisberg|Sigurd Oxaas Wie|Emma Blix|Idunn Stabell|Linn Holst-Dyrnes|Emilie Lia-Rognli|Martin Kvalsund|
 |30 år|**Marthe Øynes**|Sverre Bjørke|Kathrine Steffensen|Caroline Odden|Silje Riseng|Thor Håkon Bredesen|Nils Herde|
 |25 år|**Mathilde Oftedal**|Ingrid Kittelsen|Håvard S. Slettvold|Elling Overaa|Dag O. Prestegarden|John H. Kolstad|||
