@@ -40,6 +40,7 @@ tvingende nødvendig.
 
 ## Dokumenter
 
+- [Generalforsamlingen 2025 (Høst)](/generalforsamlinger/2025-h)
 - [Generalforsamlingen 2025 (Vår)](/generalforsamlinger/2025-v)
 - [Generalforsamlingen 2024 (Høst)](/generalforsamlinger/2024-h)
 - [Generalforsamlingen 2024 (Vår)](/generalforsamlinger/2024-v)
