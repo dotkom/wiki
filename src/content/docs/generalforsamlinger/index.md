@@ -1,6 +1,7 @@
 ---
 title: "Generalforsamlinger"
 child-directories-sort: "date"
+date: 2020-04-01
 ---
 
 ## Hva er en generalforsamling?
@@ -14,7 +15,7 @@ Generalforsamlingen avholdes en gang i året, og er åpen for alle
 medlemmer av Online. I forkant av generalforsamlingen er det tre viktige
 dokumenter som skal fremlegges:
 
-###  Saksliste
+### Saksliste
 
 Denne inneholder en oversikt ogver alle sakene som skal tas opp, og skal
 sendes ut i god tid før generalforsamlingen (vanlig praksis er 14 dager
@@ -22,7 +23,7 @@ før). Som regel er sakene presentert, og det er ofte lagt ved regnskap
 og budsjetter for de sakene som krever det, samt årsberetning fra alle
 komiteene.
 
-###  Vedtekter
+### Vedtekter
 
 Hvis generalforsamlingen er et stortingsvalg er vedtektene grunnloven.
 Her står bla. formålet til Online og en del om driften. For å endre vedtektene må et endringsforslag fremmes før
