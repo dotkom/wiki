@@ -10,7 +10,7 @@ Selv om gruppens navn lener såvidt mot ett av de mange kjønnene som eksisterer
 
 Under er en liste over de medlemmene gruppa har.
 
-![Bilde 371](../../../../assets/images/371-image.jpg)
+![Bilde 371](../../../../../assets/images/371-image.jpg)
 Vår hymn
 
 - **Leder:** Ellen Bakksjø
@@ -56,4 +56,4 @@ Resten
 ## Historie
 
 Makrellgutta anno 16/17
-![Bilde 522](../../../../assets/images/522-IMG_0218.jpg)
+![Bilde 522](../../../../../assets/images/522-IMG_0218.jpg)

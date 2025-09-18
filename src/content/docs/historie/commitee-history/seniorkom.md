@@ -1,5 +1,5 @@
 ---
-title: "Historien om seniorkomiteen"
+title: "Historien om Backlog"
 ---
 
 Vårt virke
