@@ -1,4 +1,4 @@
 ---
-title: "Hvordan er linjeforeningen satt opp?"
+title: "Informasjon om Online"
 date: 2020-05-01
 ---
