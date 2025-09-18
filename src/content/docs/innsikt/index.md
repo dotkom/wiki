@@ -1,6 +1,6 @@
 ---
 title: "Hva skjer i linjeforeningen?"
-date: 2020-04-01
+date: 2020-06-01
 ---
 
 - [Møtereferater fra Hovedstyret](/info/innsikt-og-interface/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!

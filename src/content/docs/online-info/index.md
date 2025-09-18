@@ -1,4 +1,4 @@
 ---
 title: "Informasjon om Online"
-date: 2020-05-01
+date: 2020-07-01
 ---
