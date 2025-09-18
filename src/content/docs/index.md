@@ -22,9 +22,11 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Hvordan bære daljer](/online-info/dalje/) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
 - [Onlines daljer og pins](/online-info/daljer/) - Oversikt over Online sine daljer og pins
 - [Grafisk profil](/online-info/grafisk-profil/) - Onlines grafiske profil
+- [Prikkeregler](/innsikt/prikkeregler/) - Onlines prikkeregelverk
 - [Ridderne av Det Indre Lager](/online-info/ridderne/) - Informasjon om ridderordenen
 - [Særskilt utmerkelse](/online-info/saerskilt-utmerkelse) - Informasjon om en av de gjeveste prisene som deles ut i Online hvert år
 - [Stillingstitler på engelsk](/online-info/stillingstitler-pa-engelsk/) - Oversettelse av vanlige stillingstitler i Online
+- [Vedtekter](/innsikt/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 
 #### [Hva skjer i linjeforeningen?](/innsikt/)
 
@@ -34,9 +36,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 
   - [**Økonomi- og vedtektskvelden**](/innsikt/okonomi/okogved/) - Informasjon om Økonomi- og vedtektskvelden
   - [Onlines fond](/innsikt/okonomi/onlines-fond/) - Informasjon om Onlines fond
-
-- [Prikkeregler](/innsikt/prikkeregler/) - Onlines prikkeregelverk
-- [Vedtekter](/innsikt/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
 
 #### [Generalforsamlinger](/generalforsamlinger/)
 
