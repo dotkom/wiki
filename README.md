@@ -109,6 +109,7 @@ The following frontmatter can be used in the `.md` files to control the sidebar:
 - date: string
 - child-directories-sort: "asc" | "desc" | "date"
 - child-files-sort: "asc" | "desc" | "date"
+- link: string (if this is set, the sidebar will link to this URL instead of the page)
 ```
 
 Notes:
@@ -118,6 +119,7 @@ Notes:
 - `date` should be parsable by `new Date()`
 - `child-directories-sort` will sort all directories in same directory, but **not** all subdirectories.
 - `child-files-sort` will sort all files in same directory **and** all files in all subdirectories.
+- `link` will make the sidebar link to the provided URL instead of the page itself. Any children will be hidden in the sidebar. The page and any children will still be accessible by URL.
 
 ### Special cases
 

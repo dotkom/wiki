@@ -1,13 +1,13 @@
 import fs from "node:fs";
 import { groupHsMeetings } from "./groupHsMeetings";
 import {
-	getFrontmatterFromContent,
-	getIndexFrontmatter,
-	isIndexFile,
-	readFile,
-	getPathFromSlug,
-	removeFileExtension,
-	trimSlashes,
+    getFrontmatterFromContent,
+    getIndexFrontmatter,
+    isIndexFile,
+    readFile,
+    getPathFromSlug,
+    removeFileExtension,
+    trimSlashes,
 } from "./utils";
 import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
 import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
@@ -35,20 +35,20 @@ const HS_MEETINGS_FOLDER = "motereferater-fra-hovedstyret/";
  * directoryNames // => ["subdirectory"]
  */
 const getChildFilesAndDirectoriesNames = (directorySlug) => {
-	const path = getPathFromSlug(directorySlug);
+    const path = getPathFromSlug(directorySlug);
 
-	return fs.readdirSync(path).reduce(
-		([files, directories], fileOrFolderName) => {
-			const itemPath = `${path}/${fileOrFolderName}`;
+    return fs.readdirSync(path).reduce(
+        ([files, directories], fileOrFolderName) => {
+            const itemPath = `${path}/${fileOrFolderName}`;
 
-			if (fs.lstatSync(itemPath).isDirectory()) {
-				return [files, [...directories, fileOrFolderName]];
-			}
+            if (fs.lstatSync(itemPath).isDirectory()) {
+                return [files, [...directories, fileOrFolderName]];
+            }
 
-			return [[...files, fileOrFolderName], directories];
-		},
-		[[], []]
-	);
+            return [[...files, fileOrFolderName], directories];
+        },
+        [[], []]
+    );
 };
 
 /**
@@ -56,7 +56,6 @@ const getChildFilesAndDirectoriesNames = (directorySlug) => {
  *
  * @param {Array} fileNames - The file names to create sidebar items from.
  * @param {string} parentDirectorySlug - The slug to use for the sidebar items.
- * @param {boolean} includeFrontmatter - Whether to include the frontmatter of the files.
  * @returns {Array} An array of sidebar items.
  * @example
  * // Assuming the file names are ["file1.md", "file2.md"] and the slug is "slug"
@@ -66,48 +65,55 @@ const getChildFilesAndDirectoriesNames = (directorySlug) => {
  * fileNamesToSidebarItem(["file1.md", "file2.md"], "slug", true)
  * // [{ label: "File 1", slug: "slug/file1", frontmatter: { ... } }, { label: "File 2", slug: "slug/file2", frontmatter: null }]
  */
-const fileNamesToSidebarItem = (fileNames, parentDirectorySlug, includeFrontmatter) => {
-	return fileNames.reduce((items, fileName) => {
-		// Build path/slug segments without introducing a leading slash when parent slug is empty
-		const filePathSlug = parentDirectorySlug ? `${parentDirectorySlug}/${fileName}` : fileName;
-		const content = readFile(filePathSlug);
+const fileNamesToSidebarItem = (fileNames, parentDirectorySlug) => {
+    return fileNames.reduce((items, fileName) => {
+        // Build path/slug segments without introducing a leading slash when parent slug is empty
+        const filePathSlug = parentDirectorySlug ? `${parentDirectorySlug}/${fileName}` : fileName;
+        const content = readFile(filePathSlug);
 
-		const fileNameWithoutExtension = removeFileExtension(fileName);
-		const slug = parentDirectorySlug ? `${parentDirectorySlug}/${fileNameWithoutExtension}` : fileNameWithoutExtension;
+        const fileNameWithoutExtension = removeFileExtension(fileName);
+        const slug = parentDirectorySlug
+            ? `${parentDirectorySlug}/${fileNameWithoutExtension}`
+            : fileNameWithoutExtension;
 
-		if (!content) {
-			return items;
-		}
+        if (!content) {
+            return items;
+        }
 
-		const frontmatter = getFrontmatterFromContent(content);
+        const frontmatter = getFrontmatterFromContent(content);
 
-		if (!frontmatter) {
-			return items;
-		}
+        if (!frontmatter) {
+            return items;
+        }
 
-		const label = frontmatter.title || fileNameWithoutExtension;
+        const label = frontmatter.title || fileNameWithoutExtension;
+        const link = frontmatter.link
+            ? {
+                  link: frontmatter.link,
+                  attrs: { target: "_blank", rel: "noopener" },
+              }
+            : {};
 
-		if (isIndexFile(fileName)) {
-			items.push({ label, slug: parentDirectorySlug, frontmatter });
-		} else if (includeFrontmatter) {
-			items.push({ label, slug, frontmatter });
-		} else {
-			items.push({ label, slug });
-		}
+        if (isIndexFile(fileName)) {
+            // Needs slug to be able to link to parent directory
+            items.push({ item: { label, slug: parentDirectorySlug, ...link }, frontmatter });
+        } else {
+            items.push({ item: { label, slug, ...link }, frontmatter });
+        }
 
-		return items;
-	}, []);
+        return items;
+    }, []);
 };
 
 const getIndexFile = (files, parentSlug) => {
-	// Index files will use the parent directory as their slug
-	const indexOfIndexFile = files.findIndex((file) => file.slug === parentSlug);
+    // Index files will use the parent directory as their slug
+    const indexOfIndexFile = files.findIndex((file) => file.item.slug === parentSlug);
 
-	if (indexOfIndexFile === -1) {
-		return null;
-	}
+    if (indexOfIndexFile === -1) {
+        return null;
+    }
 
-	return files.splice(indexOfIndexFile, 1)[0];
+    return files.splice(indexOfIndexFile, 1)[0];
 };
 
 /**
@@ -118,70 +124,76 @@ const getIndexFile = (files, parentSlug) => {
  * @returns {Array} The sidebar structure for Astro.
  */
 export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => {
-	const slug = trimSlashes(rawSlug);
+    const slug = trimSlashes(rawSlug);
 
-	const indexFrontmatter = getIndexFrontmatter(slug);
-	let label = indexFrontmatter?.title || slug.split("/").pop();
+    const [fileNames, childDirectoriesNames] = getChildFilesAndDirectoriesNames(slug);
 
-	const [fileNames, childDirectoriesNames] = getChildFilesAndDirectoriesNames(slug);
+    let files = fileNamesToSidebarItem(fileNames, slug);
+    const indexFile = getIndexFile(files, slug);
 
-	const sortChildFilesMethod = indexFrontmatter?.["child-files-sort"] || __sortChildFilesMethod;
-	const sortChildDirectoriesMethod = indexFrontmatter?.["child-directories-sort"];
+    let label = indexFile?.frontmatter.title || slug.split("/").pop();
 
-	// Turning file names into sidebar items
-	const includeFrontmatter = sortChildFilesMethod === "date" || sortChildDirectoriesMethod === "date";
-	let files = fileNamesToSidebarItem(fileNames, slug, includeFrontmatter);
+    if (indexFile?.item.link) {
+        const { slug: _, ...item } = indexFile.item;
 
-	const indexFile = getIndexFile(files, slug);
+        return [item];
+    }
 
-	// Sorting child files
-	if (sortChildFilesMethod === "asc") {
-		files.sort((a, b) => a.label.localeCompare(b.label));
-	} else if (sortChildFilesMethod === "desc") {
-		files.sort((a, b) => b.label.localeCompare(a.label));
-	} else if (sortChildFilesMethod === "date") {
-		files.sort((a, b) => {
-			const aDate = new Date(a.frontmatter?.date || 0);
-			const bDate = new Date(b.frontmatter?.date || 0);
-			return bDate - aDate;
-		});
+    const sortChildFilesMethod = indexFile?.frontmatter["child-files-sort"] || __sortChildFilesMethod;
+    const sortChildDirectoriesMethod = indexFile?.frontmatter["child-directories-sort"];
 
-		// Grouping HS meetings
-		if (slug.includes(HS_MEETINGS_FOLDER)) {
-			files = groupHsMeetings(files, slug);
-		}
-	}
+    // Sorting child files
+    if (sortChildFilesMethod === "asc") {
+        files.sort((a, b) => a.item.label.localeCompare(b.item.label));
+    } else if (sortChildFilesMethod === "desc") {
+        files.sort((a, b) => b.item.label.localeCompare(a.item.label));
+    } else if (sortChildFilesMethod === "date") {
+        files.sort((a, b) => {
+            const aDate = new Date(a.frontmatter?.date || 0);
+            const bDate = new Date(b.frontmatter?.date || 0);
+            return bDate - aDate;
+        });
 
-	// Sorting child directories
-	if (sortChildDirectoriesMethod === "asc") {
-		childDirectoriesNames.sort((a, b) => a.localeCompare(b));
-	} else if (sortChildDirectoriesMethod === "desc") {
-		childDirectoriesNames.sort((a, b) => b.localeCompare(a));
-	}
+        // Grouping HS meetings
+        if (slug.includes(HS_MEETINGS_FOLDER)) {
+            files = groupHsMeetings(files, slug);
+        }
+    }
 
-	// Filling child directories with their files and directories
-	let childDirectories = childDirectoriesNames.flatMap((directory) =>
-		getSidebar(slug ? `${slug}/${directory}` : directory, sortChildFilesMethod)
-	);
+    // Sorting child directories
+    if (sortChildDirectoriesMethod === "asc") {
+        childDirectoriesNames.sort((a, b) => a.localeCompare(b));
+    } else if (sortChildDirectoriesMethod === "desc") {
+        childDirectoriesNames.sort((a, b) => b.localeCompare(a));
+    }
 
-	// Sorting child directories by date
-	if (sortChildDirectoriesMethod === "date") {
-		childDirectories.sort((a, b) => {
-			// Index file is always first in the array, regardless of sorting method
-			// if it exists
-			const dateA = new Date(a.items[0]?.frontmatter?.date || 0);
-			const dateB = new Date(b.items[0]?.frontmatter?.date || 0);
-			return dateB - dateA;
-		});
-	}
+    // Filling child directories with their files and directories
+    let childDirectories = childDirectoriesNames.flatMap((directory) =>
+        getSidebar(slug ? `${slug}/${directory}` : directory, sortChildFilesMethod)
+    );
 
-	// Processing generalforsamlinger
-	if (slug.includes(GENERALFORSAMLINGER_FOLDER)) {
-		label = trimGeneralforsamlingerDirectoryLabel(label);
-		childDirectories = groupGeneralforsamlinger(childDirectories);
-	}
+    // Sorting child directories by date
+    if (sortChildDirectoriesMethod === "date") {
+        childDirectories.sort((a, b) => {
+            // Index file is always first in the array, regardless of sorting method
+            // if it exists
+            const dateA = new Date(a.items[0]?.frontmatter?.date || 0);
+            const dateB = new Date(b.items[0]?.frontmatter?.date || 0);
+            return dateB - dateA;
+        });
+    }
 
-	const items = [indexFile ?? [], ...childDirectories, ...files].flat();
+    // Processing generalforsamlinger
+    if (slug.includes(GENERALFORSAMLINGER_FOLDER)) {
+        label = trimGeneralforsamlingerDirectoryLabel(label);
+        childDirectories = groupGeneralforsamlinger(childDirectories);
+    }
 
-	return [{ label, collapsed: true, items }];
+    const items = [
+        indexFile ? indexFile.item : [],
+        ...childDirectories,
+        ...files.map((file) => ("item" in file ? file.item : file)),
+    ].flat();
+
+    return [{ label, collapsed: true, items }];
 };
