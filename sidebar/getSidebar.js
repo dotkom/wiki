@@ -153,14 +153,9 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
         });
 
         // Grouping HS meetings
-        if (slug.includes(HS_MEETINGS_FOLDER)) {
+        if (slug.includes(HS_MEETINGS_FOLDER) || slug.includes(LEADERS_MEETINGS_FOLDER)) {
             files = groupHsMeetings(files, slug);
         }
-
-        else if (slug.includes(LEADERS_MEETINGS_FOLDER)) {
-            files = groupHsMeetings(files, slug);
-        }
-
     }
 
     // Sorting child directories
