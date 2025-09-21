@@ -2,4 +2,4 @@
 title: "Tilknyttede grupper"
 ---
 
-Grupper under Online, er grupper som verken er interessegrupper eller komiteer.
+Tilknyttede grupper er grupper som verken er interessegrupper eller komiteer.
