@@ -15,19 +15,6 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
 - [Trøndersk ordliste](/info/trivia/trondersk-ordliste/) - Noen ord og uttrykk du kanskje kommer til å støte på
 - [Utveksling](/studie-guide/utveksling/) - Informasjon om utveksling for informatikkstudenter
 
-#### [Informasjon om Online](/online-info/)
-
-- [**Kontoret**](/online-info/kontoret/)
-  - [Kontorvakt](/online-info/kontoret/kontorvakt/) - Oversikt over kontorordningen
-- [Hvordan bære daljer](/online-info/dalje/) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
-- [Onlines daljer og pins](/online-info/daljer/) - Oversikt over Online sine daljer og pins
-- [Grafisk profil](/online-info/grafisk-profil/) - Onlines grafiske profil
-- [Prikkeregler](/innsikt/prikkeregler/) - Onlines prikkeregelverk
-- [Ridderne av Det Indre Lager](/online-info/ridderne/) - Informasjon om ridderordenen
-- [Særskilt utmerkelse](/online-info/saerskilt-utmerkelse) - Informasjon om en av de gjeveste prisene som deles ut i Online hvert år
-- [Stillingstitler på engelsk](/online-info/stillingstitler-pa-engelsk/) - Oversettelse av vanlige stillingstitler i Online
-- [Vedtekter](/innsikt/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
-
 #### [Hva skjer i linjeforeningen?](/innsikt/)
 
 - [**Møtereferater fra Hovedstyret**](/innsikt/motereferater-fra-hovedstyret/) - Lurer du på hva Hovedstyret egentlig gjør? Sjekk her!
@@ -37,9 +24,36 @@ Dette er en åpen wiki for alle medlemmene av Online. Her finner du informasjon 
   - [**Økonomi- og vedtektskvelden**](/innsikt/okonomi/okogved/) - Informasjon om Økonomi- og vedtektskvelden
   - [Onlines fond](/innsikt/okonomi/onlines-fond/) - Informasjon om Onlines fond
 
+#### [Informasjon om Online](/online-info/)
+
+- [**Kontoret**](/online-info/kontoret/)
+  - [Kontorvakt](/online-info/kontoret/kontorvakt/) - Oversikt over kontorordningen
+- [**Organisasjonsstruktur**](/online-info/org-structure/) - Hvordan Online er organisert
+  - [**Tilknyttede grupper**](/online-info/org-structure/associated-groups/) - Oversikt over Online sine tilknyttede grupper
+    - [Datakameratene FK](/online-info/org-structure/associated-groups/datakameratenefk/) - Informasjon om fotballklubben Online er tilknyttet
+    - [Output](/online-info/org-structure/associated-groups/output/) - Informasjon om Output, Onlines band
+    - [Realfagskjelleren](/online-info/org-structure/associated-groups/realfagskjelleren/) - Informasjon om Realfagskjelleren, kjelleren Online er med i.
+  - [**Komiteer**](/online-info/org-structure/committees/) - Oversikt over Online sine komiteer
+    - [Testkom](/online-info/org-structure/committees/testkom/) - Test test
+  - [**Interessegrupper**](/online-info/org-structure/interessegrupper/) - Oversikt over noen av Online sine interessegrupper
+  - [**Nodekomiteer**](/online-info/org-structure/node-committees/) - Oversikt over Online sine nodekomiteer
+    - [Ekskursjonskomiteen](/online-info/org-structure/node-committees/ekskom/) - Informasjon om Ekskursjonskomiteen
+    - [Jubileumskomiteen](/online-info/org-structure/node-committees/jubkom/) - Informasjon om Jubileumskomiteen
+    - [Velkomstkomiteen](/online-info/org-structure/node-committees/velkom/) - Informasjon om Velkomstkomiteen
+  - [Debug](/online-info/org-structure/debug/) - Informasjon om Onlines uavhengige varslingsorgan
+  - [Hovedstyret](/online-info/org-structure/hovedstyret/) - Informasjon om Onlines Hovedstyre
+- [Hvordan bære daljer](/online-info/dalje/) - En veiledning på hvordan kle seg i daljer og pin på studentgallaer
+- [Onlines daljer og pins](/online-info/daljer/) - Oversikt over Online sine daljer og pins
+- [Grafisk profil](/online-info/grafisk-profil/) - Onlines grafiske profil
+- [Prikkeregler](/innsikt/prikkeregler/) - Onlines prikkeregelverk
+- [Ridderne av Det Indre Lager](/online-info/ridderne/) - Informasjon om ridderordenen
+- [Særskilt utmerkelse](/online-info/saerskilt-utmerkelse) - Informasjon om en av de gjeveste prisene som deles ut i Online hvert år
+- [Stillingstitler på engelsk](/online-info/stillingstitler-pa-engelsk/) - Oversettelse av vanlige stillingstitler i Online
+- [Vedtekter](/innsikt/vedtekter/) - Onlines vedtekter, valgt og stemt frem på generalforsamlingen av Onlines av medlemmer.
+
 #### [Generalforsamlinger](/generalforsamlinger/)
 
-#### [dotDAGENE](/dotdagene/)
+<!-- #### [dotDAGENE](/dotdagene/) -->
 
 #### [Onlines Historie](/historie/)
 
