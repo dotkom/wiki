@@ -1,10 +1,10 @@
 const JULY = 6;
 const FIFTEENTH = 15;
 
-export const groupHsMeetings = (filesWithFrontmatter) => {
-    const groups = filesWithFrontmatter.reduce(
+export const groupHsMeetings = (files) => {
+    const groups = files.reduce(
         (acc, file) => {
-            const rawDate = file.frontmatter?.date ?? 0;
+            const rawDate = file.meta.frontmatter?.date ?? 0;
 
             if (!rawDate) {
                 acc.other.push(file);
@@ -32,7 +32,7 @@ export const groupHsMeetings = (filesWithFrontmatter) => {
     if (groups.autumn.length > 0) {
         groupedFiles.push({
             label: "Høst",
-            items: groups.autumn.map((f) => f.item),
+            items: groups.autumn,
             collapsed: false,
         });
     }
@@ -40,7 +40,7 @@ export const groupHsMeetings = (filesWithFrontmatter) => {
     if (groups.spring.length > 0) {
         groupedFiles.push({
             label: "Vår",
-            items: groups.spring.map((f) => f.item),
+            items: groups.spring,
             collapsed: false,
         });
     }
@@ -48,7 +48,7 @@ export const groupHsMeetings = (filesWithFrontmatter) => {
     if (groups.other.length > 0) {
         groupedFiles.push({
             label: "Andre",
-            items: groups.other.map((f) => f.item),
+            items: groups.other,
             collapsed: false,
         });
     }
