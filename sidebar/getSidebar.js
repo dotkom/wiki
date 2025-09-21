@@ -16,6 +16,7 @@ import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlinger
 
 const GENERALFORSAMLINGER_FOLDER = "generalforsamlinger";
 const HS_MEETINGS_FOLDER = "motereferater-fra-hovedstyret/";
+const LEADERS_MEETINGS_FOLDER = "motereferater-fra-stormoter/";
 
 /**
  * Gets all file and directory names in a given slug. Excludes index.md files.
@@ -155,6 +156,11 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
         if (slug.includes(HS_MEETINGS_FOLDER)) {
             files = groupHsMeetings(files, slug);
         }
+
+        else if (slug.includes(LEADERS_MEETINGS_FOLDER)) {
+            files = groupHsMeetings(files, slug);
+        }
+
     }
 
     // Sorting child directories
