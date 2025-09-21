@@ -59,22 +59,19 @@ const getChildFilesAndDirectoriesNames = (directorySlug) => {
  * @returns {Array} An array of sidebar items.
  * @example
  * // Assuming the file names are ["file1.md", "file2.md"] and the slug is "slug"
- * fileNamesToSidebarItem(["file1.md", "file2.md"], "slug")
- * // [{ label: "File 1", slug: "slug/file1" }, { label: "File 2", slug: "slug/file2" }]
  *
- * fileNamesToSidebarItem(["file1.md", "file2.md"], "slug", true)
- * // [{ label: "File 1", slug: "slug/file1", frontmatter: { ... } }, { label: "File 2", slug: "slug/file2", frontmatter: null }]
+ * fileNamesToSidebarItem(["file1.md", "file2.md"], "slug")
+ * // [
+ * //   { label: "File 1", slug: "slug/file1", meta: { index: false, slug: "slug/file1", frontmatter: {...} } },
+ * //   { label: "File 2", link: "https://...", attrs: {...}, meta: { index: false, slug: "slug/file2", frontmatter: {...} } },
+ * //   { label: "File 3", slug: "slug/file3", meta: { index: false, slug: "slug/file3", frontmatter: null } },
+ * // ]
  */
 const fileNamesToSidebarItem = (fileNames, parentDirectorySlug) => {
     return fileNames.reduce((items, fileName) => {
         // Build path/slug segments without introducing a leading slash when parent slug is empty
         const filePathSlug = parentDirectorySlug ? `${parentDirectorySlug}/${fileName}` : fileName;
         const content = readFile(filePathSlug);
-
-        const fileNameWithoutExtension = removeFileExtension(fileName);
-        const slug = parentDirectorySlug
-            ? `${parentDirectorySlug}/${fileNameWithoutExtension}`
-            : fileNameWithoutExtension;
 
         if (!content) {
             return items;
@@ -86,34 +83,33 @@ const fileNamesToSidebarItem = (fileNames, parentDirectorySlug) => {
             return items;
         }
 
+        const isIndex = isIndexFile(fileName);
+        const fileNameWithoutExtension = removeFileExtension(fileName);
         const label = frontmatter.title || fileNameWithoutExtension;
-        const link = frontmatter.link
-            ? {
-                  link: frontmatter.link,
-                  attrs: { target: "_blank", rel: "noopener" },
-              }
-            : {};
 
-        if (isIndexFile(fileName)) {
-            // Needs slug to be able to link to parent directory
-            items.push({ item: { label, slug: parentDirectorySlug, ...link }, frontmatter });
+        // Determine the slug for the sidebar item with the following rules:
+        // - If the file is an index file, use the parent directory slug (which may be "/" for root index files)
+        // - If the parent directory slug is not empty, combine it with the file name without extension
+        // - If the parent directory slug is empty, use just the file name without extension
+        const slug = isIndex
+            ? parentDirectorySlug
+            : parentDirectorySlug
+            ? `${parentDirectorySlug}/${fileNameWithoutExtension}`
+            : fileNameWithoutExtension;
+
+        const meta = { index: isIndex, slug, frontmatter };
+
+        if (frontmatter.link) {
+            const link = frontmatter.link;
+            const attrs = { target: "_blank", rel: "noopener" };
+
+            items.push({ label, link, attrs, meta });
         } else {
-            items.push({ item: { label, slug, ...link }, frontmatter });
+            items.push({ label, slug, meta });
         }
 
         return items;
     }, []);
-};
-
-const getIndexFile = (files, parentSlug) => {
-    // Index files will use the parent directory as their slug
-    const indexOfIndexFile = files.findIndex((file) => file.item.slug === parentSlug);
-
-    if (indexOfIndexFile === -1) {
-        return null;
-    }
-
-    return files.splice(indexOfIndexFile, 1)[0];
 };
 
 /**
@@ -129,28 +125,29 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
     const [fileNames, childDirectoriesNames] = getChildFilesAndDirectoriesNames(slug);
 
     let files = fileNamesToSidebarItem(fileNames, slug);
-    const indexFile = getIndexFile(files, slug);
 
-    let label = indexFile?.frontmatter.title || slug.split("/").pop();
+    const indexFileIndex = files.findIndex((file) => file.meta.index);
+    // This mutates the files array and removes the index from it
+    const indexFile = indexFileIndex !== -1 ? files.splice(indexFileIndex, 1)[0] : null;
 
-    if (indexFile?.item.link) {
-        const { slug: _, ...item } = indexFile.item;
+    let label = indexFile?.meta.frontmatter.title || slug.split("/").pop();
 
-        return [item];
+    if (indexFile?.link) {
+        return [indexFile];
     }
 
-    const sortChildFilesMethod = indexFile?.frontmatter["child-files-sort"] || __sortChildFilesMethod;
-    const sortChildDirectoriesMethod = indexFile?.frontmatter["child-directories-sort"];
+    const sortChildFilesMethod = indexFile?.meta.frontmatter["child-files-sort"] || __sortChildFilesMethod;
+    const sortChildDirectoriesMethod = indexFile?.meta.frontmatter["child-directories-sort"];
 
     // Sorting child files
     if (sortChildFilesMethod === "asc") {
-        files.sort((a, b) => a.item.label.localeCompare(b.item.label));
+        files.sort((a, b) => a.label.localeCompare(b.label));
     } else if (sortChildFilesMethod === "desc") {
-        files.sort((a, b) => b.item.label.localeCompare(a.item.label));
+        files.sort((a, b) => b.label.localeCompare(a.label));
     } else if (sortChildFilesMethod === "date") {
         files.sort((a, b) => {
-            const aDate = new Date(a.frontmatter?.date || 0);
-            const bDate = new Date(b.frontmatter?.date || 0);
+            const aDate = new Date(a.meta.frontmatter?.date || 0);
+            const bDate = new Date(b.meta.frontmatter?.date || 0);
             return bDate - aDate;
         });
 
@@ -177,8 +174,8 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
         childDirectories.sort((a, b) => {
             // Index file is always first in the array, regardless of sorting method
             // if it exists
-            const dateA = new Date(a.items[0]?.frontmatter?.date || 0);
-            const dateB = new Date(b.items[0]?.frontmatter?.date || 0);
+            const dateA = new Date(a.items[0]?.meta.frontmatter?.date || 0);
+            const dateB = new Date(b.items[0]?.meta.frontmatter?.date || 0);
             return dateB - dateA;
         });
     }
@@ -189,11 +186,7 @@ export const getSidebar = (rawSlug = "", __sortChildFilesMethod = undefined) => 
         childDirectories = groupGeneralforsamlinger(childDirectories);
     }
 
-    const items = [
-        indexFile ? indexFile.item : [],
-        ...childDirectories,
-        ...files.map((file) => ("item" in file ? file.item : file)),
-    ].flat();
+    const items = [indexFile ?? [], ...childDirectories, ...files].flat();
 
     return [{ label, collapsed: true, items }];
 };

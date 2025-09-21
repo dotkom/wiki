@@ -3,6 +3,19 @@ import starlight from "@astrojs/starlight";
 import { getSidebar } from "./sidebar/getSidebar";
 import starlightLinksValidator from "starlight-links-validator";
 
+// Removes any "meta" objects used to generate the sidebar
+const sanitizeSidebar = (nodes) => {
+    return nodes.map((node) => {
+        const { meta, ...sanitizedNode } = node;
+
+        if (Array.isArray(sanitizedNode.items)) {
+            sanitizedNode.items = sanitizeSidebar(sanitizedNode.items);
+        }
+
+        return sanitizedNode;
+    });
+};
+
 // https://astro.build/config
 export default defineConfig({
     site: "https://wiki.online.ntnu.no",
@@ -74,7 +87,7 @@ export default defineConfig({
                 },
             ],
             // Makes it so not everything is in one folder
-            sidebar: getSidebar()[0].items,
+            sidebar: sanitizeSidebar(getSidebar()[0].items),
             plugins: [
                 starlightLinksValidator({
                     errorOnRelativeLinks: false,
