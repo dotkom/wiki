@@ -8,8 +8,8 @@ const sanitizeSidebar = (nodes) => {
     return nodes.map((node) => {
         const { meta, ...sanitizedNode } = node;
 
-        if (Array.isArray(node.items)) {
-            sanitizedNode.items = sanitizeSidebar(node.items);
+        if (Array.isArray(sanitizedNode.items)) {
+            sanitizedNode.items = sanitizeSidebar(sanitizedNode.items);
         }
 
         return sanitizedNode;
