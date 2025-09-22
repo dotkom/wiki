@@ -1,14 +1,6 @@
 import fs from "node:fs";
 import { groupHsMeetings } from "./groupHsMeetings";
-import {
-    getFrontmatterFromContent,
-    getIndexFrontmatter,
-    isIndexFile,
-    readFile,
-    getPathFromSlug,
-    removeFileExtension,
-    trimSlashes,
-} from "./utils";
+import { isIndexFile, readFile, getPathFromSlug, removeFileExtension, trimSlashes } from "./utils";
 import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
 import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
 import getFrontMatter from "gray-matter";

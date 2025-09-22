@@ -1,5 +1,4 @@
 import fs from "node:fs";
-import getFrontMatter from "gray-matter";
 
 const BOUNDRY_SLASHES_REGEX = /^\/|\/$/g;
 const INDEX_FILE_NAMES = ["md", "mdx"].map((ext) => `index.${ext}`);
