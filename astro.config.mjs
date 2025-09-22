@@ -5,15 +5,20 @@ import starlightLinksValidator from "starlight-links-validator";
 
 // Removes any "meta" objects used to generate the sidebar
 const sanitizeSidebar = (nodes) => {
-    return nodes.map((node) => {
+    return nodes.reduce((acc, node) => {
         const { meta, ...sanitizedNode } = node;
+
+        if (meta.empty) {
+            return acc;
+        }
 
         if (Array.isArray(sanitizedNode.items)) {
             sanitizedNode.items = sanitizeSidebar(sanitizedNode.items);
         }
 
-        return sanitizedNode;
-    });
+        acc.push(sanitizedNode);
+        return acc;
+    }, []);
 };
 
 // https://astro.build/config

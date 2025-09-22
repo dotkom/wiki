@@ -11,6 +11,7 @@ import {
 } from "./utils";
 import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
 import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
+import getFrontMatter from "gray-matter";
 
 // See README for available frontmatter keys
 
@@ -77,11 +78,8 @@ const fileNamesToSidebarItem = (fileNames, parentDirectorySlug) => {
             return items;
         }
 
-        const frontmatter = getFrontmatterFromContent(content);
-
-        if (!frontmatter) {
-            return items;
-        }
+        const { data: frontmatter, content: contentWithoutFrontmatter } = getFrontMatter(content);
+        const isFileEmpty = !contentWithoutFrontmatter.trim();
 
         const isIndex = isIndexFile(fileName);
         const fileNameWithoutExtension = removeFileExtension(fileName);
@@ -97,7 +95,7 @@ const fileNamesToSidebarItem = (fileNames, parentDirectorySlug) => {
             ? `${parentDirectorySlug}/${fileNameWithoutExtension}`
             : fileNameWithoutExtension;
 
-        const meta = { index: isIndex, slug, frontmatter };
+        const meta = { index: isIndex, slug, frontmatter, empty: isFileEmpty };
 
         if (frontmatter.link) {
             const link = frontmatter.link;
