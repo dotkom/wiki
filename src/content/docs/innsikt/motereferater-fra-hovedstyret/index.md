@@ -10,7 +10,6 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Høst 2025
-
 - [2025-09-16](2025/2025-09-16) - Ansvarsfordeling
 - [2025-09-11-stormøte](2025/2025-09-11-stormote) - Immball prep og onboarding ting
 - [2025-09-09](2025/2025-09-09) - Ikke så mye å melde
