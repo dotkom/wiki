@@ -4,8 +4,10 @@ const BOUNDRY_SLASHES_REGEX = /^\/|\/$/g;
 const INDEX_FILE_NAMES = ["md", "mdx"].map((ext) => `index.${ext}`);
 const BASE_PATH = "src/content/docs";
 
+export const getPathFromSlug = (slug) => `${BASE_PATH}/${slug}`;
+
 export const readFile = (slug) => {
-    const path = `${BASE_PATH}/${slug}`;
+    const path = getPathFromSlug(slug);
 
     if (!fs.existsSync(path)) {
         return null;
