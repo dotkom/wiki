@@ -5,15 +5,20 @@ import starlightLinksValidator from "starlight-links-validator";
 
 // Removes any "meta" objects used to generate the sidebar
 const sanitizeSidebar = (nodes) => {
-    return nodes.map((node) => {
+    return nodes.reduce((acc, node) => {
         const { meta, ...sanitizedNode } = node;
+
+        if (meta?.empty) {
+            return acc;
+        }
 
         if (Array.isArray(sanitizedNode.items)) {
             sanitizedNode.items = sanitizeSidebar(sanitizedNode.items);
         }
 
-        return sanitizedNode;
-    });
+        acc.push(sanitizedNode);
+        return acc;
+    }, []);
 };
 
 // https://astro.build/config
@@ -42,11 +47,31 @@ export default defineConfig({
             customCss: ["./src/styles/custom.css"],
             editLink: { baseUrl: "https://github.com/dotkom/wiki/edit/main/" },
             social: [
-                { icon: "facebook", label: "Facebook", href: "https://facebook.com/LinjeforeningenOnline" },
-                { icon: "instagram", label: "Instagram", href: "https://www.instagram.com/online_ntnu/" },
-                { icon: "slack", label: "Slack", href: "https://onlinentnu.slack.com/" },
-                { icon: "github", label: "GitHub", href: "https://github.com/dotkom/wiki" },
-                { icon: "discord", label: "Discord", href: "https://discordapp.com/invite/2XB9egU" },
+                {
+                    icon: "facebook",
+                    label: "Facebook",
+                    href: "https://facebook.com/LinjeforeningenOnline",
+                },
+                {
+                    icon: "instagram",
+                    label: "Instagram",
+                    href: "https://www.instagram.com/online_ntnu/",
+                },
+                {
+                    icon: "slack",
+                    label: "Slack",
+                    href: "https://onlinentnu.slack.com/",
+                },
+                {
+                    icon: "github",
+                    label: "GitHub",
+                    href: "https://github.com/dotkom/wiki",
+                },
+                {
+                    icon: "discord",
+                    label: "Discord",
+                    href: "https://discordapp.com/invite/2XB9egU",
+                },
             ],
             head: [
                 {

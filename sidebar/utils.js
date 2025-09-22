@@ -1,5 +1,4 @@
 import fs from "node:fs";
-import matter from "gray-matter";
 
 const BOUNDRY_SLASHES_REGEX = /^\/|\/$/g;
 const INDEX_FILE_NAMES = ["md", "mdx"].map((ext) => `index.${ext}`);
@@ -17,14 +16,6 @@ export const readFile = (slug) => {
     return fs.readFileSync(path, "utf-8");
 };
 
-export const getFrontmatterFromContent = (content) => (content ? matter(content).data : null);
-
-export const getFrontmatterFromSlug = (slug) => {
-    const content = readFile(slug);
-
-    return content && getFrontmatterFromContent(content);
-};
-
 /**
  * Checks if a file is an index file.
  *
@@ -35,18 +26,6 @@ export const isIndexFile = (fileNameWithExtension) => {
     const fileName = fileNameWithExtension.split("/").pop();
 
     return INDEX_FILE_NAMES.some((indexFileName) => fileName === indexFileName);
-};
-
-export const getIndexFrontmatter = (slugOfParentDirectory) => {
-    for (const index of INDEX_FILE_NAMES) {
-        const frontmatter = getFrontmatterFromSlug(`${slugOfParentDirectory}/${index}`);
-
-        if (frontmatter) {
-            return frontmatter;
-        }
-    }
-
-    return null;
 };
 
 export const removeFileExtension = (fileName) => {
