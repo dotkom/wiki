@@ -8,7 +8,7 @@ const sanitizeSidebar = (nodes) => {
     return nodes.reduce((acc, node) => {
         const { meta, ...sanitizedNode } = node;
 
-        if (meta.empty) {
+        if (meta?.empty) {
             return acc;
         }
 
