@@ -17,7 +17,7 @@
     "gray-matter": "^4.0.3",
     "typescript": "^5.9.2",
     "sharp": "^0.34.3",
-    "starlight-links-validator": "^0.17.0"
+    "starlight-links-validator": "^0.18.0"
   },
   "devDependencies": {
     "wrangler": "^4.30.0"
