@@ -22,7 +22,7 @@ Du får 2 prikker for å melde deg av et arrangement sent. Nå har du fire timer
 
 Eksempelet visualisert:
 
-![Visualiseringeksempel](../../../../assets/images/prikkeregler-visualisering.png) 
+![Visualiseringeksempel](../../../assets/images/prikkeregler-visualisering.png) 
 
 Ferier
 
