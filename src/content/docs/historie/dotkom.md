@@ -10,6 +10,8 @@ Hver onsdag samles komitémedlemmene til arbeidskveld hvor det kodes, spises piz
 
 ## Historie
 
+<sub>(Sist oppdatert september 2025)</sub>
+
 Drifts- og utviklingskomiteen ble opprettet høsten 2004 med forkortelsen "dotKom". Før det var det den i HS som hadde mest peiling på nettsider som laget og vedlikeholdt Onlines nettsider.
 
 I de tidlige år kjørte alle tjenester og systemer enten på eldgamle bokser rasket ut av søppelcontainere eller på IDIs systemer. Dette fungerte overraskende godt, men denne tiden er forbi.
@@ -28,49 +30,64 @@ I [mai 2018](https://github.com/dotkom/onlineweb-frontend/commit/a4f617f2849709d
 
 I [oktober 2019](https://github.com/dotkom/vengeful-vineyard/commit/6bcd806ab2adc15c5a78a4939743237052717194) ble Vinstraff startet (da kalt Vengeful Vineyard), som skulle bytte ut gamle RedWine inne på OW4. Vinstraff er skrevet i React med Typescript og backend i FastAPI med Python. Vinstraff ble lansert 22. februar 2024, og er per høst 2024 fortsatt i bruk. Du kan finne Vinstraff på [vinstraff.no](https://vinstraff.no).
 
-I [oktober 2021](https://github.com/dotkom/monoweb/commit/c562481f8a360b6582ca20a474502f21aac1d37f) startet dotkom på OnlineWeb 5, som er den første rewriten av OnlineWeb på mange år. OW5 er skrevet i Next.js med Typescript, og er per høst 2024 fortsatt i utvikling. Du kan finne nyeste development-versjon av OW5 på [web.online.ntnu.no](web.online.ntnu.no).
+I [oktober 2021](https://github.com/dotkom/monoweb/commit/c562481f8a360b6582ca20a474502f21aac1d37f) startet dotkom på OnlineWeb 5, som er den første rewriten av OnlineWeb på mange år.
 
 I [november 2021](https://github.com/dotkom/onlineweb4/pull/2776) migrerte dotkom fra fysiske servere til skybaserte løsninger, deriblant AWS.
 
 Høsten 2023 til våren 2024 måtte dotkom rydde ut de resterende serverene våre, da NTNU ikke tillot å ha servere på Gløshaugen lengre. Per høst 2024 har dotkom ingen fysiske servere.
 
+Kvelden 10. august 2025 ble OnlineWeb 5 lansert, etter 13 år med OnlineWeb 4. OWF ble samtidig pensjonert. Perioden etter lansering ble etterfulgt av mye feilretting og kaos, særlig den første måneden. Allerede dag én hadde vi problemet med den nye FEIDE-innloggingen, siden de nye informatikkstudentene ikke hadde fått NTNU-bruker enda. Det var også en bug hvor alle Master-studenter ble satt til 1. og 2. klasse, men systemet clampet dem mellom 4. og 5., så alle ble 4.-klassinger. Det tok oss litt for lang tid å innse at vi hadde klart å snu påmeldingkøen, da sistemann ble påmeldt først. Videre hadde vi spesielt mye trøbbel med det nye betalingssystemet og tilbakemeldingsskjemasystemet. Vi hadde klart å hard-code kundeopplysningene i betalingssystemet til å være personen som skrev koden. Vi fant også ut at VISA og Mastercard ikke lar deg reservere et beløp lengre enn en uke da alle betalingene til immball plutselig forsvant. Det dukket opp en lang rekke andre feil som måtte fikses. Til tross for problemene var det en stor suksess, og vi er veldig fornøyd med arbeidet. Du kan finne OnlineWeb 5 på [online.ntnu.no](https://online.ntnu.no).
+
+Den 01. oktober 2025 ble OnlineWeb 4 pensjonert, og alle tjenester kjører nå på OnlineWeb 5. Kildekoden til OnlineWeb 4 ligger åpent på [GitHub](https://github.com/dotkom/onlineweb4).
+
 ## Utvikling
 
-Onlines websider er utviklet i rammeverket Django. Django bruker
-Python som programmeringsspråk og vårt valg av databasesoftware er
-PostgreSQL. Kildekoden ligger åpent tilgjengelig på [GitHub](https://github.com/dotKom/onlineweb4).
+<sub>(Sist oppdatert september 2025)</sub>
 
-Denne wikien er et open source-prosjekt kalt [Wiki](https://github.com/dotkom/wiki) og er laget med Astro og Starlight.
+De mest aktive repositoriene per høst 2025 er:
+
+-   [`monoweb`](https://github.com/dotkom/monoweb) (OnlineWeb 5)
+-   [`wiki`](https://github.com/dotkom/wiki) (denne siden)
+-   [`vengeful-vineyard`](https://github.com/dotkom/vengeful-vineyard) (Vinstraff)
+
+### [Monoweb](https://github.com/dotkom/monoweb) (OnlineWeb 5)
+
+`monoweb` er et monorepo som hovedsaklig inneholder OnlineWeb 5 frontend, backend og dashboard.
+
+**OnlineWeb 5 frontend** (`/apps/web`)
+
+`web` er skrevet i Next.js med React og Typescript og kommuniserer med backend via tRPC og TanStack Query. Vi bruker Tailwind CSS for styling og en mix av shadcn/ui og hjemmelagde komponenter, som du kan finne inne i `web`-pakken og `/packages/ui`.
+
+**OnlineWeb 5 backend** (`/apps/rpc`)
+
+`rpc` er skrevet i Fastify med Typescript og bruker tRPC for API-kommunikasjon, PostgreSQL som database, Prisma som ORM, og Stripe API som betalingsløsning.
+Vi etterstrever modellering i spec av Domain-Driven Design, som du kan lese mer om i `/docs`.
+
+**OnlineWeb 5 Dashboard** (`/apps/dashboard`)
+
+`dashboard` er skrevet i Next.js med React og Typescript og kommuniserer med backend via tRPC og TanStack Query. Vi bruker Mantine for UI-komponenter og styling.
+
+### [Wiki](https://github.com/dotkom/wiki)
+
+`wiki` er laget med Astro og Starlight. Wikien var tidligere bygget inn i OnlineWeb 4, men ble overført til et eget repository i høsten 2024. Wikien har en utrolig historisk verdi for Online, og er svært mye brukt av både Onlinere og utenforstående. Wiki-sidene har én million visninger det siste året (per september 2025).
+
+### [Vinstraff](https://github.com/dotkom/vengeful-vineyard)
+
+`vengeful-vineyard` er et system for å administrere "vinstraffer" i Online. Vinstraff er skrevet i React med Typescript og bruker FastAPI med Python som backend. Vinstraff bruker OnlineWeb 5s backend til å hente brukerdata.
 
 ## Drift
 
-Per høst 2024 bruker vi følgede skybaserte tjenester:
+Per høst 2025 bruker vi blant annet følgede skybaserte tjenester:
 
 -   [Auth0](https://auth0.com/)
 -   [AWS](https://aws.amazon.com/)
-    -   [RDS](https://aws.amazon.com/rds/)
-    -   [EC2](https://aws.amazon.com/ec2)
-    -   [VPC](https://aws.amazon.com/vpc/)
-    -   [S3](https://aws.amazon.com/s3/)
-    -   [ECR](https://aws.amazon.com/ecr/)
-    -   [Lambda](https://aws.amazon.com/lambda/)
-    -   [Route 53](https://aws.amazon.com/route53/)
-    -   [API Gateway](https://aws.amazon.com/api-gateway/)
-    -   [KMS](https://aws.amazon.com/kms/)
-    -   [Secrets Manager](https://aws.amazon.com/secrets-manager/)
-    -   [CloudWatch](https://aws.amazon.com/cloudwatch/)
-    -   [DynamoDB](https://aws.amazon.com/dynamodb/)
-    -   [SES](https://aws.amazon.com/ses/)
-    -   [CloudWatch](https://aws.amazon.com/cloudwatch/)
 -   [Docker](https://www.docker.com/)
 -   [Doppler](https://doppler.com/)
 -   [Google Workspace](https://workspace.google.com/)
 -   [Neon](https://neon.dev/)
--   [Vault](https://www.hashicorp.com/products/vault) (self-hosted)
--   [Vercel](https://vercel.com/)
 
 <details>
-<summary>Disse serverne har kjørt hos oss:</summary>
+<summary>Disse serverne har tidligere kjørt hos oss:</summary>
 
 Aktiv per 2012:
 
@@ -105,7 +122,7 @@ Alle serverne kjørte Debian Squeeze, og tykklientene kjørte Ubuntu.
 
 | År | Leder | Medlemmer |
 | -- | ----- | --------- |
-| 2025-2026 | _Brage Andreas Hoven_ | Henrik Johannes Bjørnstad Skog, Henrik Hørlück Berg, Sondre Alfnes, Daniel Pietrzykowski Sarjomaa, Mads André Bårnes, Nora Wirkola Langli, Brage Baugerød, Jonas Hole, Jo Gramnæs Tjernshaugen, Erlend Løken Sæveraas, Jennica Duong, André Ferdinand Klarpås, Eline Fondevik, Ragnhild Moe Danielsen, Henry Græsberg, Thea Nguyen, Johannes Hansen Aas, Ella Haugland Waal |
+| 2025-2026 | _Brage Andreas Hoven_ | Henrik Johannes Bjørnstad Skog, Henrik Hørlück Berg, Sondre Alfnes, Daniel Pietrzykowski Sarjomaa, Mads André Bårnes, Nora Wirkola Langli, Brage Baugerød, Jonas Hole, Jo Gramnæs Tjernshaugen, Erlend Løken Sæveraas, Jennica Duong, André Ferdinand Klarpås, Eline Fondevik, Ragnhild Moe Danielsen, Henry Græsberg, Thea Nguyen, Johannes Hansen Aas, Ella Haugland Waal, Nina Flaaten, Nicolay Bennett Rennemo, Silje Mathisen Håheim, Viktor Hamre, Sofie Regine Kjølsaas, Jacob Kielland-Hansen, Simen Norvald Meldahl Lie, Christopher Sune Elton-Winther |
 | 2024-2025 | _Jo Gramnæs Tjernshaugen_ | Henrik Johannes Bjørnstad Skog, Henrik Hørlück Berg, Sondre Alfnes, Daniel Pietrzykowski Sarjomaa, Mads André Bårnes, Nora Wirkola Langli, Hanna Lunne, Erlend Løken Sæveraas, Jennica Duong, André Ferdinand Klarpås, Eline Fondevik, Victoria Barseth, Brage Andreas Hoven, Ragnhild Moe Danielsen, Andrej Lazic, Emil Fleischmann Salomonsen, Henry Græsberg, Thea Nguyen, Johannes Hansen Aas, Ella Haugland Waal |
 | 2023-2024 | _Mats Jun Larsen_ | Anh-Kha Nguyen Vo, Thomas Hasvold, Julian Grande, Magnus Rødseth, Njål Sørland, Henrik Johannes Bjørnstad Skog, Henrik Hørlück Berg, Sondre Alfnes, Billy Steen Barrett, Mads André Bårnes, Nora Langli, Hanna Lunne, Brage Baugerød, Jonas Hole, Jo Gramnæs Tjernshaugen, Erlend Løken Sæveraas, Jennica Duong, André Ferdinand Klarpås, Eline Fondevik, Victoria Barseth, Brage Andreas Hoven, Ragnhild Moe Danielsen |
 | 2022-2023 | _Thomas Hasvold_ | |
