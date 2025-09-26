@@ -45,6 +45,7 @@ Medlemmer
 --------
 | År | Leder | Nestleder | Medlemmer  |
 | --- | --- | ---  | :---: |
+|2025-2026| *Adele Strysse* | *Joel Ramin Neuhaus-Khatami* | Mats Nyfløt, Jørgen Galdal, Mads Hermansen, Julian Ottosen, Aksel Matashev, Dina Marie Stenrud, Emily Malcolmson, Johannes Hage, Sinder Emil Halleraker, Amund Dahlmo Berge, Sylvia Yung, Victoria Næsheim, Emma Fredriksen, John Gøthesen, Marie Holen Danielson, Mina Ellingsen, Ann Sofie Ha Tran, Magnus Flugeim, Peder Sandnes Eggemoen, Simen Bårnes, Theodor Sandaa |
 |2024-2025| *Fredrik Hansteen* | *Erlend Strøm* | Mats Nyfløt, Jørgen Galdal, Mads Hermansen, Julian Ottosen, Aksel Fosaas, Adele Strysse, Sander Skogh Linnerud, Dina Marie Stenrud, Emily Malcolmson, Johannes Hage, Sinder Emil Halleraker, Amund Dahlmo Berge, Anam Amer, Sylvia Yung, Victoria Næsheim, Emma Fredriksen, Joel Ramin Neuhaus-Khatami, John Gøthesen, Marie Holen Danielson, Mina Ellingsen |
 |2023-2024| *Mats Nyfløt* | *Jørgen Galdal* | Mads Hermansen, Fredrik Carsten Hansteen, Julian Ottosen, Aksel Fosaas, Adele Strysse, Amy Andrea Sitte, Sander Skogh Linnerud, Dina Marie Stenrud, Emily Malcolmson, Erlend Strøm, Johannes Hage, Robin Tveråen, Sinder Emil Halleraker |
 |2022-2023| *Robin Tveråen* | *David Lekve* | Endre Gilje Sørnes, Hanna Meland Vestvik, Ida Matre, Julian Ottosen, Aksel Fosaas, Jørgen Galdal, Lea Aas-jakobsen, Matias Opsahl, Mats Nyfløt, Sander Skogh Linnerud, Siri Arnesen, Viktor Tingstad |
