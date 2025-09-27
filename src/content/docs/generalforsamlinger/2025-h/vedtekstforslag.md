@@ -49,3 +49,23 @@ Til:
 **_§4.2.11 FeminIT_**
 
 _Komiteens hovedoppgave er å øke trivselen blant jenter og ikke-binære på informatikk for å på sikt øke andelen kvinner og ikke-binære. Komiteen legges ned etter at nevnt gruppe av uteksaminerte studenter på informatikk har nådd 40% på bachelornivå og 30% på masternivå over tre år._
+
+## Vedtektsforslag 02: Oppdatere Backlogs rolle - Marius Brun
+
+**Bakgrunn**:
+
+_Backlog sitt vedtak er utdatert og beskriver bedre den tidligere komitéen Seniorkom enn Backlog. Det nye vedtaket reflekterer Backlog som komité slik den er nå._
+
+**Endre _vedtekt §4.2.8 Backlog_**
+
+Fra:
+
+**_§4.2.8 Backlog_**
+
+_Komiteens hovedoppgave vil være å bistå med kunnskap, erfaring og assistanse i linjeforeningens daglige drift._
+
+Til:
+
+**_§4.2.8 Backlog_**
+
+_Komiteens hovedoppgave er å forbedre linjeforeningen gjennom selvvalgte prosjekter, samt å ha det overordnede ansvaret for interessegruppene._
