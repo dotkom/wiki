@@ -70,7 +70,7 @@ Til:
 
 _Komiteens hovedoppgave er å forbedre linjeforeningen gjennom selvvalgte prosjekter, samt å ha det overordnede ansvaret for interessegruppene._
 
-## Vedtektsforslag 03: Endre retningslinjer for tillitsvalgt
+## Vedtektsforslag 03: Endre retningslinjer for tillitsvalgt - Andrej Lazic
 
 **Bakgrunn**:
 
