@@ -69,3 +69,37 @@ Til:
 **_§4.2.8 Backlog_**
 
 _Komiteens hovedoppgave er å forbedre linjeforeningen gjennom selvvalgte prosjekter, samt å ha det overordnede ansvaret for interessegruppene._
+
+## Vedtektsforslag 03: Endre retningslinjer for tillitsvalgt
+
+**Bakgrunn**:
+
+_Det kan oppstå situasjoner der et medlem har en utfordring knyttet til sin egen tillitsvalgte. I slike tilfeller er det viktig at medlemmet har alternative kontaktpersoner å henvende seg til. For å sikre trygge og tilgjengelige varslingskanaler bør derfor ikke én og samme person være eneste tillitskontakt for et medlem._
+
+**Endre vedtekt _§4.2 Komiteer_**
+
+Fra:
+
+**_4.2 Komiteer_**
+
+_Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt._
+
+_Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før ordinær generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3._
+
+_Kun medlemmer av linjeforeningen kan inneha verv i en komité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret._
+
+_En person kan ikke inneha verv i flere av Onlines komiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog, FeminIT og nodekomiteer kan kombineres med en annen komite._
+
+Til:
+
+**_4.2 Komiteer_**
+
+_Alle komiteer består av minimum en leder, en økonomiansvarlig og en tillitsvalgt._
+
+_Komiteens lederkandidat, med unntak av nodekomiteer, velges internt i komiteen før ordinær generalforsamling avholdes, og godkjennes av generalforsamlingen ved alminnelig flertall. Dersom komitélederkandidaten har blitt stemt inn i Hovedstyret skal det avholdes valg av komitéleder etter §3. Hvis kandidaten ikke har blitt stemt inn i Hovedstyret, og generalforsamlingen ikke godkjenner kandidaten til ledervervet, skal det avholdes valg av komitéleder etter §3._
+
+_Tillitsvalgt kan ikke samtidig inneha verv som leder i den samme komiteen eller være medlem av Debug. Dersom en tillitsvalgt velges til leder i sin komité eller blir medlem av Debug, skal det gjennomføres nyvalg av tillitsvalgt på førstkommende møte._
+
+_Kun medlemmer av linjeforeningen kan inneha verv i en komité. Dersom studenten ikke lengre kvalifiserer til medlemskap i linjeforeningen kan vervet fortsette etter avtale med Hovedstyret._
+
+_En person kan ikke inneha verv i flere av Onlines komiteer til samme tid uten avtale med Hovedstyret. Verv i Bankom, Backlog, FeminIT og nodekomiteer kan kombineres med en annen komite._
