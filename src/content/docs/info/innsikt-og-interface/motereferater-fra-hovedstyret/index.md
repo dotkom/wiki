@@ -10,6 +10,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------
 ### Høst 2025
+- [2025-09-30](2025/2025-09-30) - Eventuelt punktet blir abused
 - [2025-09-25-stormote](2025/2025-09-25-stormote) - Mange saker
 - [2025-09-23](2025/2025-09-23) - Regler for komp-daljer
 - [2025-09-16](2025/2025-09-16) - Ansvarsfordeling
