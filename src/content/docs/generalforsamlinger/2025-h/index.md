@@ -16,14 +16,14 @@ date: 2025-10-13
 
 Presentasjon: [Generalforsamling 2025 Høst](https://docs.google.com/presentation/d/1Pfo6TG8sTYYKq5atERqgcrFgriQW8t2y5I4QFV7JHrY/edit?usp=sharing)
 
-Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
-Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
+Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)
+Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 
 Referat Høst 2025: [Referat](https://docs.google.com/document/d/1sg5nOiXxe8nu79OZojsOZ0nNbBwWUm60Dqc8oI2GhxY/edit?usp=sharing)
 
 ## Onlines vedtekter og referat fra forrige generalforsamling
 
-Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
+Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 
 Referat fra Generalforsamling våren 2025: [vedlegg 853](public\attachments\Referat-Onlines-generalforsamling-V2025-signert.pdf)
@@ -46,6 +46,6 @@ Vel møtt!
 
 ## Link til stemmesystem
 
-[https://vedtatt.online.ntnu.no/](https://vedtatt.online.ntnu.no/)
+[https://vedtatt.no/](https://vedtatt.no/)
 
 Du må være tilstede for å ha stemmerett og kunne bli stemmeberettiget.
