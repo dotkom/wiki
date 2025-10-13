@@ -5,8 +5,8 @@ title: "Onlines daljer og pins"
 Online har de siste årene begynt å få en del forskjellige daljer. Dette er en oversikt over disse.
 
 Den første Komitédaljen er gratis, etter det koster den 100,-.
-Alle får en gratis pin etter fullført kompilering, etter det koster pinen 40,-.    
-Hvis du har mistet pin eller dalje betales dette til HS-konto, 1644.20.38094, og merkes med navn. Så kan du kontakte noen i HS, så finner de en ny til deg. 
+Alle får en gratis pin etter fullført kompilering, etter det koster pinen 40,-.
+Hvis du har mistet pin eller dalje betales dette til HS-konto, 1644.20.38094, og merkes med navn. Så kan du kontakte noen i HS, så finner de en ny til deg.
 
 
 Æresmedlemsdaljen
@@ -39,7 +39,7 @@ Linjeleder-dalje
 ==================
 ![Bilde 769](../../../assets/images/769-Linjeleder_dalje.png)
     Linjeleder-dalje.
-Linjeleder-daljen utdeles til den nye lederen av Online under Generalforsamlingen. Daljen er produsert av [Musette](musette.no) og viser NTH-logoen som tegnet av Kristiania-maleren Domenico Erdman i 1912. Daljen har guden Prometevs som motiv. 
+Linjeleder-daljen utdeles til den nye lederen av Online under Generalforsamlingen. Daljen er produsert av [Musette](musette.no) og viser NTH-logoen som tegnet av Kristiania-maleren Domenico Erdman i 1912. Daljen har guden Prometevs som motiv.
 
 
 Lang og tro tjeneste
@@ -71,7 +71,7 @@ Onlines 30års-dalje
 ==================
 ![Bilde 708](../../../assets/images/708-30_års_dalje.png)
 
-Til Onlines 30-årsjubileum ble det selvsagt designet dalje. Designer var Carl Erik Friedemann. Daljen er jubileumslogen, en sirkuler variant av Online-O-en med lynet gjennom. Medaljen er i blankt gullpreg, med blå emalje i O-en. Medaljen henger i et blått, oransje og hvitt bånd, og skiller seg med dette fra de øvrige onlinedaljene som kun har blå og hvite bånd. Agraffen er preget med 00011110. Medaljen ble produsert av Musette. 
+Til Onlines 30-årsjubileum ble det selvsagt designet dalje. Designer var Carl Erik Friedemann. Daljen er jubileumslogen, en sirkuler variant av Online-O-en med lynet gjennom. Medaljen er i blankt gullpreg, med blå emalje i O-en. Medaljen henger i et blått, oransje og hvitt bånd, og skiller seg med dette fra de øvrige onlinedaljene som kun har blå og hvite bånd. Agraffen er preget med 00011110. Medaljen ble produsert av Musette.
 
 Redaktørdaljen
 ==================
@@ -80,17 +80,6 @@ Redaktørdaljen
 Redaktør av Offline, linjeforeningens tidsskrift, bærer denne daljen. Daljen utdeles sammen med redaktørhatten på immball eller andre passende anledninger. Daljen viser Offlines logo, designet av tidligere prokom-medlem Beate Hay. Medaljen er produsert med en lasergravert plate satt i en krans. Produsert av Trofé.
 
 
-Utmatrikuleringsdaljer
-==================
-I forbindelse med utmatrikuleringen av ferdige masterstudenter har backlog tidligere produsert utmatrikuleringsdaljer.
-
-
-Utmatrikuleringen 2013
-------------------
-TODO
-Utmatrikuleringen 2015
-------------------
-TODO
 
 Pins
 ==================

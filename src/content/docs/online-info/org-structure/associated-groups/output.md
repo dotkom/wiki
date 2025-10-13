@@ -14,6 +14,4 @@ Utlån av miksebord og annet utstyr skjer også i dialog med oss. Vi har denne p
 
 **Hovedmail:** band@online.ntnu.no
 
-**Leder:** output-leder@online.ntnu.no eller ida.manger@online.ntnu.no
-
 **Instagram:** @online_output
