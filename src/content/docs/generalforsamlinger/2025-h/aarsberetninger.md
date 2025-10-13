@@ -204,6 +204,10 @@ Planer fremover
 
 ## Output
 
+- Output har dette semesteret tatt opp 4 nye bandmedlemmer
+- Øvinger skjer torsdag hver uke på AKKS
+- Vi har gjennomført immball, og planlegger å spille på julebord og en åpen konsert på studentloftet
+
 ## Datakameratene
 
 Organisering
