@@ -2,6 +2,13 @@
 title: "Søke om drikking på kontoret"
 ---
 
+
+> ⚠️ **Merk:**  
+> Denne siden gjelder **kun søknader om drikking på Onlines kontor**.  
+> For andre arrangementer eller generell søknad om alkohol­tillatelse på NTNU,  
+> må du bruke NTNUs offisielle [søknadsskjema for drikketillatelse](https://hjelp.ntnu.no/tas/public/ssp/content/serviceflow?unid=8f090c9e58444762876750db1104178d&openedFromService=true) og kontakte NTNU direkte.  
+> Trikom håndterer **ikke** slike henvendelser.
+
 **For å få tillatelse til å ha arrangementer med alkohol på kontoret må alle følgende steg utføres:**
 
 **Steg 1.**	
