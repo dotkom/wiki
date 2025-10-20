@@ -193,6 +193,12 @@ Planer fremover
 - Flere markedsføringstiltak på campus og online
 - Sikre økonomi og budsjett for videre aktiviteter
 
+## Jubileumskomiteen
+
+- Har tatt opp 3 nye
+- Har booket hotell til banketten
+- Jobber med å få på plass resten for jubileumsuka
+
 ## Realfagskjelleren
 
 - Tatt opp nye medlemmer til RFK og f ̊att nytt styre
