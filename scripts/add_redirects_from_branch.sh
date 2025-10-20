@@ -1,0 +1,43 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# "<BASE path> <HEAD path> 301"
+BASE=${1:-origin/main}
+HEAD=${2:-HEAD}
+OUTFILE=${3:-redirects.txt}
+
+normalize() {
+  local p="$1"
+  p="${p#src/content/docs}" # strip docs base path
+  p="${p%.md}"; p="${p%.mdx}" # strip .md/.mdx
+  p="${p%/index}" # collapse trailing /index -> (parent)
+  [[ "$p" != /* ]] && p="/$p" # ensure leading slash
+  p="$(printf '%s' "$p" | sed -E 's#/+#/#g')" # collapse duplicate slashes
+  [[ -z "$p" || "$p" == "/" ]] && echo "/" || echo "$p"
+}
+
+: > "$OUTFILE" # empty file
+
+git --no-pager diff -M --diff-filter=R --name-status -z "$BASE...$HEAD" -- |{
+  while :; do
+    IFS= read -r -d '' status || break
+    IFS= read -r -d '' old    || break
+    IFS= read -r -d '' new    || break
+
+    # Skip non-rename changes
+    [[ ${status:0:1} != R ]] && continue
+
+    from="$(normalize "$old")"
+    to="$(normalize "$new")"
+    [[ "$from" == "$to" ]] && continue # no-op
+
+    printf '%s %s 301\n' "$from" "$to"
+  done
+} >> "$OUTFILE"
+
+# Remove duplicate redirects
+if [[ -s "$OUTFILE" ]]; then
+  LC_ALL=C sort -u "$OUTFILE" -o "$OUTFILE"
+fi
+
+echo "Redirects written to $OUTFILE"
