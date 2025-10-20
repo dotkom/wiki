@@ -10,7 +10,7 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Høst 2025
 
-- [2025-10-09](2025/2025-10-09-stormote) - Semesterets 5. stormøte
+- [2025-10-09-stormote](2025/2025-10-09-stormote) - Semesterets 5. stormøte
 - [2025-09-25-stormote](2025/2025-09-25-stormote) - Mange saker
 - [2025-09-11-stormøte](2025/2025-09-11-stormote) - Immball prep og onboarding ting
 - [2025-08-29-stormøte](2025/2025-08-29-stormote) - Opptak snart!!

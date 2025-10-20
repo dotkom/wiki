@@ -10,7 +10,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Høst 2025
-- [2025-10-7](2025/2025-10-07) - Ny switch er her!!
+- [2025-10-14](2025/2025-10-14) - Hovedstyre møte 14. Oktober 2025
+- [2025-10-07](2025/2025-10-07) - Ny switch er her!!
 - [2025-09-30](2025/2025-09-30) - Eventuelt punktet blir abused
 - [2025-09-23](2025/2025-09-23) - Regler for komp-daljer
 - [2025-09-16](2025/2025-09-16) - Ansvarsfordeling
