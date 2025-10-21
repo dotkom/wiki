@@ -8,7 +8,7 @@ title: "Referat økonomi- og vedtektskveld 2018"
 
 *Referenter: Taran og Peter*
 
-*Dagsorden: **[https://online.ntnu.no/wiki/online/okogved/dagsorden18*/](/okogved/dagsorden18/)* *
+*Dagsorden: **[https://online.ntnu.no/wiki/online/okogved/dagsorden18*/](/innsikt/okonomi/okogved/dagsorden18/)* *
 
 *Sted: R9*
 
@@ -527,7 +527,7 @@ Hovedstyret vil bestå av:
 
         * Online per i dag styres av retningslinjene, de kan finnes på OW :D
 
-            * [https://online.ntnu.no/wiki/online/info/innsikt-og-interface/retningslinjer/](/info/innsikt-og-interface/retningslinjer/) 
+            * [retningslinjer/](https://www.notion.so/2721c99db8f680cc8d64fb988ff4e1a6?v=2721c99db8f6802fb59b000c9dc9d30d) 
 
 * Er dette rette tiden å gjennomføre endringene? Det er mange endringer nå i forbindelse med bl. a. samlokaliseringen.
 

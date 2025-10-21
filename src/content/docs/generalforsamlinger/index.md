@@ -63,4 +63,3 @@ tvingende nødvendig.
 - [Generalforsamlingen 2013](/generalforsamlinger/2013)
 - [Generalforsamlingen 2012](/generalforsamlinger/2012)
 - [Generalforsamlingen 2011](/generalforsamlinger/2011)
-- [Årsmøtet 1987](/generalforsamlinger/arsmotet1987)

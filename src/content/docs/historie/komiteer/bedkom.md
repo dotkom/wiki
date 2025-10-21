@@ -21,7 +21,7 @@ Arbeidsoppgaver/annet engasjement komiteen har er:
 \* Linjesamarbeidet  
 \* Oslotur hvert semester
 
-Vi samarbeider også godt med [fagKom](/historie/fagkom/) ved at vi også promoterer
+Vi samarbeider også godt med [Fagkom](/historie/komiteer/fagkom/) ved at vi også promoterer
 kurs/workshops.
 
 Medlemmer

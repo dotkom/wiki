@@ -12,16 +12,16 @@ Tilhørende info
 
 Tilhørende wikisider
 
-* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
-* [Linjeforeninger på Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Linjeforeninger på Kalvskinnet](/info/sosialt-og-okonomisk/linjeforeninger/kalvskinnet/)
-* Du er her: [Linjeforeninger på Tunga](/info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga/)
-* [Linjeforeninger i Ålesund](/info/sosialt-og-okonomisk/linjeforeninger/alesund/)
-* [Linjeforeninger på Gjøvik](/info/sosialt-og-okonomisk/linjeforeninger/gjovik/)
-* [Andre linjeforeninger ved NTNU](/info/sosialt-og-okonomisk/linjeforeninger/andre/)
-* [Studentkjellere på Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Karrieredager](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+* [Linjeforeninger på Gløshaugen, Øya, Tyholt](/trondheimsstudent/linjeforeninger/)
+* [Linjeforeninger på Dragvoll](/trondheimsstudent/linjeforeninger/dragvoll/)
+* [Linjeforeninger på Kalvskinnet](/trondheimsstudent/linjeforeninger/kalvskinnet/)
+* Du er her: [Linjeforeninger på Tunga](/trondheimsstudent/linjeforeninger/linjeforeninger-pa-tunga/)
+* [Linjeforeninger i Ålesund](/trondheimsstudent/linjeforeninger/alesund/)
+* [Linjeforeninger på Gjøvik](/trondheimsstudent/linjeforeninger/gjovik/)
+* [Andre linjeforeninger ved NTNU](/trondheimsstudent/linjeforeninger/andre/)
+* [Studentkjellere på Moholt](/trondheimsstudent/linjeforeninger/studentkjellere/)
+* [Karrieredager](/trondheimsstudent/linjeforeninger/karrieredager/)
+* [International student organizations at NTNU](/trondheimsstudent/linjeforeninger/internasjonalorg/)
 
 ## Linjeforeninger på Tunga
 

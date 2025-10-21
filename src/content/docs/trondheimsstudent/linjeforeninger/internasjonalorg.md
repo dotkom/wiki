@@ -11,12 +11,12 @@ Associated information
 
 Associated wiki pages
 
-* [Student orgs. at Gløshaugen, Øya, Tyholt](/info/sosialt-og-okonomisk/linjeforeninger/)
-* [Student orgs. at Dragvoll](/info/sosialt-og-okonomisk/linjeforeninger/dragvoll/)
-* [Student orgs. at HiST, TJSF, BI](/info/sosialt-og-okonomisk/linjeforeninger/hist/)
-* [Student basements at Moholt](/info/sosialt-og-okonomisk/linjeforeninger/studentkjellere/)
-* [Career fairs](/info/sosialt-og-okonomisk/linjeforeninger/karrieredager/)
-* You are here: [International student organizations at NTNU](/info/sosialt-og-okonomisk/linjeforeninger/internasjonalorg/)
+* [Student orgs. at Gløshaugen, Øya, Tyholt](/trondheimsstudent/linjeforeninger/)
+* [Student orgs. at Dragvoll](/trondheimsstudent/linjeforeninger/dragvoll/)
+* [Student orgs. at HiST, TJSF, BI](/trondheimsstudent/linjeforeninger/hist/)
+* [Student basements at Moholt](/trondheimsstudent/linjeforeninger/studentkjellere/)
+* [Career fairs](/trondheimsstudent/linjeforeninger/karrieredager/)
+* You are here: [International student organizations at NTNU](/trondheimsstudent/linjeforeninger/internasjonalorg/)
 
 ## Student organizations
 
