@@ -1,30 +1,28 @@
 ﻿# https://developers.cloudflare.com/workers/static-assets/redirects/
 
-/info/sosialt-og-okonomisk/lanekassen/lanekassen/ /trondheimsstudent/lanekassen/ 301
-/info/sosialt-og-okonomisk/ny-student/ny-i-trondheim/ /trondheimsstudent/ny-student/ 301
+/generalforsamlingen /generalforsamlinger 301
 /generalforsamlingen/2011 /generalforsamlinger/2011 301
 /generalforsamlingen/2012 /generalforsamlinger/2012 301
 /generalforsamlingen/2013 /generalforsamlinger/2013 301
 /generalforsamlingen/2014 /generalforsamlinger/2014 301
 /generalforsamlingen/2015 /generalforsamlinger/2015 301
 /generalforsamlingen/2016 /generalforsamlinger/2016 301
-/generalforsamlingen/ekstra2017 /generalforsamlinger/2017-ekstraordinaer 301
 /generalforsamlingen/2017 /generalforsamlinger/2017 301
+/generalforsamlingen/arsmotet1987 /historie/arsmotet1987 301
+/generalforsamlingen/ekstra2017 /generalforsamlinger/2017-ekstraordinaer 301
+/generalforsamlingen/ekstra2022 /generalforsamlinger/2022-v-ekstraordinaer 301
+/generalforsamlingen/ekstrav23 /generalforsamlinger/2023-v-ekstraordinaer 301
 /generalforsamlingen/genfors2018 /generalforsamlinger/2018 301
 /generalforsamlingen/genfors2019 /generalforsamlinger/2019 301
 /generalforsamlingen/genfors2020 /generalforsamlinger/2020 301
 /generalforsamlingen/genfors2021 /generalforsamlinger/2021 301
-/generalforsamlingen/genfors2022h /generalforsamlinger/2022-h 301
-/generalforsamlingen/ekstra2022 /generalforsamlinger/2022-v-ekstraordinaer 301
 /generalforsamlingen/genfors2022 /generalforsamlinger/2022 301
+/generalforsamlingen/genfors2022h /generalforsamlinger/2022-h 301
 /generalforsamlingen/genfors2023h /generalforsamlinger/2023-h 301
-/generalforsamlingen/ekstrav23 /generalforsamlinger/2023-v-ekstraordinaer 301
 /generalforsamlingen/genfors2023v /generalforsamlinger/2023-v 301
 /generalforsamlingen/genfors2024h /generalforsamlinger/2024-h 301
 /generalforsamlingen/genfors2024v /generalforsamlinger/2024-v 301
 /generalforsamlingen/genfors2025v /generalforsamlinger/2025-v 301
-/generalforsamlingen/arsmotet1987 /historie/arsmotet1987 301
-/generalforsamlingen /generalforsamlinger 301
 /grupper-under-online/datakameratenefk /online-info/organisasjonsstruktur/tilknyttede-grupper/datakameratenefk 301
 /grupper-under-online/realfagskjelleren /online-info/organisasjonsstruktur/tilknyttede-grupper/realfagskjelleren 301
 /historie/appkom /historie/komiteer/appkom 301
@@ -405,7 +403,8 @@
 /info/sosialt-og-okonomisk/ditt-liv-som-onliner /historie/arkiv/ditt-liv-som-onliner 301
 /info/sosialt-og-okonomisk/gullblekka /historie/gullblekka 301
 /info/sosialt-og-okonomisk/irc /historie/arkiv/irc 301
-/info/sosialt-og-okonomisk/lanekassen /historie/lanekassen 301
+/info/sosialt-og-okonomisk/lanekassen /trondheimsstudent/lanekassen 301
+/info/sosialt-og-okonomisk/lanekassen/lanekassen /trondheimsstudent/lanekassen 301
 /info/sosialt-og-okonomisk/linjeforeninger /trondheimsstudent/linjeforeninger 301
 /info/sosialt-og-okonomisk/linjeforeninger/alesund /trondheimsstudent/linjeforeninger/alesund 301
 /info/sosialt-og-okonomisk/linjeforeninger/andre /trondheimsstudent/linjeforeninger/andre 301
@@ -418,6 +417,7 @@
 /info/sosialt-og-okonomisk/linjeforeninger/linjeforeninger-pa-tunga /trondheimsstudent/linjeforeninger/linjeforeninger-pa-tunga 301
 /info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen /historie/arkiv/mat_for_lange_dager_pa_lesesalen 301
 /info/sosialt-og-okonomisk/ny-student /trondheimsstudent/ny-student 301
+/info/sosialt-og-okonomisk/ny-student/ny-i-trondheim/ /trondheimsstudent/ny-student/ 301
 /info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret /online-info/kontoret/soke-om-drikking-pa-kontoret 301
 /info/sosialt-og-okonomisk/studentsanger/ /trondheimsstudent/studentsanger/ 301
 /info/sosialt-og-okonomisk/studentsanger/aalskaal /trondheimsstudent/studentsanger/aalskaal 301
