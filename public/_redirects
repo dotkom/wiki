@@ -2,55 +2,29 @@
 
 /info/sosialt-og-okonomisk/lanekassen/lanekassen/ /trondheimsstudent/lanekassen/ 301
 /info/sosialt-og-okonomisk/ny-student/ny-i-trondheim/ /trondheimsstudent/ny-student/ 301
-
-# Standardize generalforsamlinger (https://github.com/dotkom/wiki/pull/43)
 /generalforsamlingen/2011 /generalforsamlinger/2011 301
-/generalforsamlingen/2011/* /generalforsamlinger/2011/:splat 301
 /generalforsamlingen/2012 /generalforsamlinger/2012 301
-/generalforsamlingen/2012/* /generalforsamlinger/2012/:splat 301
 /generalforsamlingen/2013 /generalforsamlinger/2013 301
-/generalforsamlingen/2013/* /generalforsamlinger/2013/:splat 301
 /generalforsamlingen/2014 /generalforsamlinger/2014 301
-/generalforsamlingen/2014/* /generalforsamlinger/2014/:splat 301
 /generalforsamlingen/2015 /generalforsamlinger/2015 301
-/generalforsamlingen/2015/* /generalforsamlinger/2015/:splat 301
 /generalforsamlingen/2016 /generalforsamlinger/2016 301
-/generalforsamlingen/2016/* /generalforsamlinger/2016/:splat 301
 /generalforsamlingen/ekstra2017 /generalforsamlinger/2017-ekstraordinaer 301
-/generalforsamlingen/ekstra2017/* /generalforsamlinger/2017-ekstraordinaer/:splat 301
 /generalforsamlingen/2017 /generalforsamlinger/2017 301
-/generalforsamlingen/2017/* /generalforsamlinger/2017/:splat 301
 /generalforsamlingen/genfors2018 /generalforsamlinger/2018 301
-/generalforsamlingen/genfors2018/* /generalforsamlinger/2018/:splat 301
 /generalforsamlingen/genfors2019 /generalforsamlinger/2019 301
-/generalforsamlingen/genfors2019/* /generalforsamlinger/2019/:splat 301
 /generalforsamlingen/genfors2020 /generalforsamlinger/2020 301
-/generalforsamlingen/genfors2020/* /generalforsamlinger/2020/:splat 301
 /generalforsamlingen/genfors2021 /generalforsamlinger/2021 301
-/generalforsamlingen/genfors2021/* /generalforsamlinger/2021/:splat 301
 /generalforsamlingen/genfors2022h /generalforsamlinger/2022-h 301
-/generalforsamlingen/genfors2022h/* /generalforsamlinger/2022-h/:splat 301
 /generalforsamlingen/ekstra2022 /generalforsamlinger/2022-v-ekstraordinaer 301
-/generalforsamlingen/ekstra2022/* /generalforsamlinger/2022-v-ekstraordinaer/:splat 301
 /generalforsamlingen/genfors2022 /generalforsamlinger/2022 301
-/generalforsamlingen/genfors2022/* /generalforsamlinger/2022/:splat 301
 /generalforsamlingen/genfors2023h /generalforsamlinger/2023-h 301
-/generalforsamlingen/genfors2023h/* /generalforsamlinger/2023-h/:splat 301
 /generalforsamlingen/ekstrav23 /generalforsamlinger/2023-v-ekstraordinaer 301
-/generalforsamlingen/ekstrav23/* /generalforsamlinger/2023-v-ekstraordinaer/:splat 301
 /generalforsamlingen/genfors2023v /generalforsamlinger/2023-v 301
-/generalforsamlingen/genfors2023v/* /generalforsamlinger/2023-v/:splat 301
 /generalforsamlingen/genfors2024h /generalforsamlinger/2024-h 301
-/generalforsamlingen/genfors2024h/* /generalforsamlinger/2024-h/:splat 301
 /generalforsamlingen/genfors2024v /generalforsamlinger/2024-v 301
-/generalforsamlingen/genfors2024v/* /generalforsamlinger/2024-v/:splat 301
 /generalforsamlingen/genfors2025v /generalforsamlinger/2025-v 301
-/generalforsamlingen/genfors2025v/* /generalforsamlinger/2025-v/:splat 301
-/generalforsamlingen/arsmotet1987 /generalforsamlinger/arsmotet1987 301
+/generalforsamlingen/arsmotet1987 /historie/arsmotet1987 301
 /generalforsamlingen /generalforsamlinger 301
-
-# Reorganize the wiki (https://github.com/dotkom/wiki/pull/52)
-/generalforsamlinger/arsmotet1987 /historie/arsmotet1987 301
 /grupper-under-online/datakameratenefk /online-info/organisasjonsstruktur/tilknyttede-grupper/datakameratenefk 301
 /grupper-under-online/realfagskjelleren /online-info/organisasjonsstruktur/tilknyttede-grupper/realfagskjelleren 301
 /historie/appkom /historie/komiteer/appkom 301
@@ -586,3 +560,26 @@
 /okogved/okogved-referat2017 /innsikt/okonomi/okogved/okogved-referat2017 301
 /okogved/okogved-referat2018 /innsikt/okonomi/okogved/okogved-referat2018 301
 /okogved/okogved-referat2021 /innsikt/okonomi/okogved/okogved-referat2021 301
+
+# Dynamic redirects (max 100)
+/generalforsamlingen/2011/* /generalforsamlinger/2011/:splat 301
+/generalforsamlingen/2012/* /generalforsamlinger/2012/:splat 301
+/generalforsamlingen/2013/* /generalforsamlinger/2013/:splat 301
+/generalforsamlingen/2014/* /generalforsamlinger/2014/:splat 301
+/generalforsamlingen/2015/* /generalforsamlinger/2015/:splat 301
+/generalforsamlingen/2016/* /generalforsamlinger/2016/:splat 301
+/generalforsamlingen/ekstra2017/* /generalforsamlinger/2017-ekstraordinaer/:splat 301
+/generalforsamlingen/2017/* /generalforsamlinger/2017/:splat 301
+/generalforsamlingen/genfors2018/* /generalforsamlinger/2018/:splat 301
+/generalforsamlingen/genfors2019/* /generalforsamlinger/2019/:splat 301
+/generalforsamlingen/genfors2020/* /generalforsamlinger/2020/:splat 301
+/generalforsamlingen/genfors2021/* /generalforsamlinger/2021/:splat 301
+/generalforsamlingen/genfors2022h/* /generalforsamlinger/2022-h/:splat 301
+/generalforsamlingen/ekstra2022/* /generalforsamlinger/2022-v-ekstraordinaer/:splat 301
+/generalforsamlingen/genfors2022/* /generalforsamlinger/2022/:splat 301
+/generalforsamlingen/genfors2023h/* /generalforsamlinger/2023-h/:splat 301
+/generalforsamlingen/ekstrav23/* /generalforsamlinger/2023-v-ekstraordinaer/:splat 301
+/generalforsamlingen/genfors2023v/* /generalforsamlinger/2023-v/:splat 301
+/generalforsamlingen/genfors2024h/* /generalforsamlinger/2024-h/:splat 301
+/generalforsamlingen/genfors2024v/* /generalforsamlinger/2024-v/:splat 301
+/generalforsamlingen/genfors2025v/* /generalforsamlinger/2025-v/:splat 301

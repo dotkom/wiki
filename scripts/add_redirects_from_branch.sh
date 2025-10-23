@@ -4,7 +4,7 @@ set -euo pipefail
 # "<BASE path> <HEAD path> 301"
 BASE=${1:-origin/main}
 HEAD=${2:-HEAD}
-OUTFILE=${3:-redirects.txt}
+OUTFILE=${3:-redirects-output.txt}
 
 normalize() {
   local p="$1"
@@ -15,6 +15,8 @@ normalize() {
   p="$(printf '%s' "$p" | sed -E 's#/+#/#g')" # collapse duplicate slashes
   [[ -z "$p" || "$p" == "/" ]] && echo "/" || echo "$p"
 }
+
+echo "Writing redirects to $OUTFILE. This can take some time."
 
 : > "$OUTFILE" # empty file
 
