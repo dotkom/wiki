@@ -1,7 +1,7 @@
 ﻿# https://developers.cloudflare.com/workers/static-assets/redirects/
 
 /info/sosialt-og-okonomisk/lanekassen/lanekassen/ /trondheimsstudent/lanekassen/ 301
-/info/sosialt-og-okonomisk/ny-student/ny-i-trondheim/ /info/sosialt-og-okonomisk/ny-student/ 301
+/info/sosialt-og-okonomisk/ny-student/ny-i-trondheim/ /trondheimsstudent/ny-student/ 301
 
 # Standardize generalforsamlinger (https://github.com/dotkom/wiki/pull/43)
 /generalforsamlingen/2011 /generalforsamlinger/2011 301
@@ -432,6 +432,7 @@
 /info/sosialt-og-okonomisk/gullblekka /historie/gullblekka 301
 /info/sosialt-og-okonomisk/irc /historie/arkiv/irc 301
 /info/sosialt-og-okonomisk/lanekassen /historie/lanekassen 301
+/info/sosialt-og-okonomisk/linjeforeninger /trondheimsstudent/linjeforeninger 301
 /info/sosialt-og-okonomisk/linjeforeninger/alesund /trondheimsstudent/linjeforeninger/alesund 301
 /info/sosialt-og-okonomisk/linjeforeninger/andre /trondheimsstudent/linjeforeninger/andre 301
 /info/sosialt-og-okonomisk/linjeforeninger/dragvoll /trondheimsstudent/linjeforeninger/dragvoll 301
@@ -444,6 +445,7 @@
 /info/sosialt-og-okonomisk/mat_for_lange_dager_pa_lesesalen /historie/arkiv/mat_for_lange_dager_pa_lesesalen 301
 /info/sosialt-og-okonomisk/ny-student /trondheimsstudent/ny-student 301
 /info/sosialt-og-okonomisk/soke-om-drikking-pa-kontoret /online-info/kontoret/soke-om-drikking-pa-kontoret 301
+/info/sosialt-og-okonomisk/studentsanger/ /trondheimsstudent/studentsanger/ 301
 /info/sosialt-og-okonomisk/studentsanger/aalskaal /trondheimsstudent/studentsanger/aalskaal 301
 /info/sosialt-og-okonomisk/studentsanger/andrasidan /trondheimsstudent/studentsanger/andrasidan 301
 /info/sosialt-og-okonomisk/studentsanger/artillerisangen /trondheimsstudent/studentsanger/artillerisangen 301
