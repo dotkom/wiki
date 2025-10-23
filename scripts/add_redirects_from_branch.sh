@@ -18,20 +18,23 @@ normalize() {
 
 : > "$OUTFILE" # empty file
 
-git --no-pager diff -M --diff-filter=R --name-status -z "$BASE...$HEAD" -- |{
+git --no-pager diff -M --diff-filter=ACMR --name-status -z "$BASE...$HEAD" -- |{
   while :; do
     IFS= read -r -d '' status || break
-    IFS= read -r -d '' old    || break
-    IFS= read -r -d '' new    || break
 
-    # Skip non-rename changes
-    [[ ${status:0:1} != R ]] && continue
+    if [[ ${status:0:1} == R || ${status:0:1} == C ]]; then
+      IFS= read -r -d '' old || break
+      IFS= read -r -d '' new || break
 
-    from="$(normalize "$old")"
-    to="$(normalize "$new")"
-    [[ "$from" == "$to" ]] && continue # no-op
+      from="$(normalize "$old")"
+      to="$(normalize "$new")"
+      [[ "$from" == "$to" ]] && continue # no-op
 
-    printf '%s %s 301\n' "$from" "$to"
+      printf '%s %s 301\n' "$from" "$to"
+    else
+      # Skip added, modified, or other single-file changes
+      IFS= read -r -d '' dummy || break
+    fi
   done
 } >> "$OUTFILE"
 

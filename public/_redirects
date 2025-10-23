@@ -1,6 +1,6 @@
 ﻿# https://developers.cloudflare.com/workers/static-assets/redirects/
 
-/info/sosialt-og-okonomisk/lanekassen/lanekassen/ /info/sosialt-og-okonomisk/lanekassen/ 301
+/info/sosialt-og-okonomisk/lanekassen/lanekassen/ /trondheimsstudent/lanekassen/ 301
 /info/sosialt-og-okonomisk/ny-student/ny-i-trondheim/ /info/sosialt-og-okonomisk/ny-student/ 301
 
 # Standardize generalforsamlinger (https://github.com/dotkom/wiki/pull/43)
@@ -431,7 +431,7 @@
 /info/sosialt-og-okonomisk/ditt-liv-som-onliner /historie/arkiv/ditt-liv-som-onliner 301
 /info/sosialt-og-okonomisk/gullblekka /historie/gullblekka 301
 /info/sosialt-og-okonomisk/irc /historie/arkiv/irc 301
-/info/sosialt-og-okonomisk/lanekassen /historie/arkiv/lanekassen 301
+/info/sosialt-og-okonomisk/lanekassen /historie/lanekassen 301
 /info/sosialt-og-okonomisk/linjeforeninger/alesund /trondheimsstudent/linjeforeninger/alesund 301
 /info/sosialt-og-okonomisk/linjeforeninger/andre /trondheimsstudent/linjeforeninger/andre 301
 /info/sosialt-og-okonomisk/linjeforeninger/dragvoll /trondheimsstudent/linjeforeninger/dragvoll 301
