@@ -82,11 +82,11 @@ De tidlige årene
 *…som fortalt av vår første formann, Ole A. Brevik.*
 
 Linjeforeningens formål var å skape et sosialt miljø og et bedre
-fagmiljø for de som studerte datafag på AVH.
+fagmiljø for de som studerte datafag på AVH.  
 * Sosialt miljø - AVH hadde ikke hadde klasser, kun studenter som tok
 enkeltfag i ulik rekkefølge i sine studier. Derfor var det viktig å
 skape en sosial arena (holde fester) hvor man kunne bli bedre kjent med
-de øvrige studentene.
+de øvrige studentene.  
 * Faglig miljø - Linjeforeningen jobbet for å få etablert
 hovedfagsstudium i informatikk. For å nå dette hovedmålet jobbet vi opp
 mot Fagstyret for EDB.
@@ -351,7 +351,7 @@ Skal ligge her en plass: Nils Fredriksen, Knut Stølen,
 |1987h-1988h|Ole A. Brevik|Leiv Arild Andenes||
 |1986h-1987h|Ole A. Brevik|Leiv Arild Andenes||
 
-Se forøvrig referatet fra [Årsmøtet 1987](/historie/arsmotet1987/).
+Se forøvrig referatet fra [Årsmøtet 1987](/generalforsamlinger/arsmotet1987/).
 
 |År|Formann|Sekretær|Styremedlem|Styremedlem|Styremedlem|
 |---|---|---|---|---|---|

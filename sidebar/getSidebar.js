@@ -1,21 +1,20 @@
-import getFrontMatter from "gray-matter";
 import fs from "node:fs";
-import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
 import { groupHsMeetings } from "./groupHsMeetings";
-import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
 import {
-  getPathFromSlug,
   isIndexFile,
   readFile,
+  getPathFromSlug,
   removeFileExtension,
   trimSlashes,
 } from "./utils";
+import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
+import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
+import getFrontMatter from "gray-matter";
 
 // See README for available frontmatter keys
 
 const GENERALFORSAMLINGER_FOLDER = "generalforsamlinger";
 const HS_MEETINGS_FOLDER = "motereferater-fra-hovedstyret/";
-const LEADERS_MEETINGS_FOLDER = "motereferater-fra-stormoter/";
 
 /**
  * Gets all file and directory names in a given slug. Excludes index.md files.
@@ -159,10 +158,7 @@ export const getSidebar = (
     });
 
     // Grouping HS meetings
-    if (
-      slug.includes(HS_MEETINGS_FOLDER) ||
-      slug.includes(LEADERS_MEETINGS_FOLDER)
-    ) {
+    if (slug.includes(HS_MEETINGS_FOLDER)) {
       files = groupHsMeetings(files, slug);
     }
   }

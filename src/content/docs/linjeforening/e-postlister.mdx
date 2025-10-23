@@ -1,0 +1,347 @@
+---
+title: "E-postlister for linjeforeningene"
+---
+
+### Retningslinjer og oversikt
+
+Epostlistene gjør det enkelt for linjeforeningene, og eksterne, å kontakte foreningene. Hensikten med disse epostlistene er å fremme kommunikasjon mellom foreningene og å skape en kanal for å kunne kontakte alle foreningene på en enkel måte.
+
+Det er flere hundre brukere på epostlistene. Epost på listene må begrenses til informasjon som kommer fellesskapet til gode. Dette gjelder gjerne informasjon om hendelser og arrangementer som er interessant å informere om fordi det appellerer til studentmassen eller avgjørelser i de foreningsstyrene som mottar eposten.
+
+Gode eksempler:
+
+- Invitasjoner til jubileum, immatrikuleringsball, revy osv.
+- Nyheter som påvirker linjeforeningene.
+- Invitasjon til ikke-kommersielle foreningskurs.
+
+Epost om jobbtilbud, reklame og annen avertering skal ikke sendes til disse listene. Epost uten noe relevant innhold for linjeforeningene som blir sendt til disse listene kan medføre advarsler, utestenging eller annen inndragelse av rettigheter. Vi (Online) ønsker ikke å sensurere meldinger, da det kan være vanskelig å bedømme hva andre synes er relevant. Vi ønsker heller ikke at blindkopi (BCC) skal benyttes, ettersom at vi ønsker å fremme åpenhet og muligheter for oppfølging. Vi ber derfor folk tenke seg nøye om før man bruker listene. Disse retningslinjene gjelder epostlistene på denne siden.
+
+Følgende er en oversikt over epostlister som overlapper. Øverst har du foreninger-epostlisten som går til alle. Pass på så du ikke sender epost til overlappende lister da du risikerer at flere hundre personer får samme epost to ganger, da vil du oppleve å få frustrasjon rettet mot deg.
+
+![Oversikt over hvordan e-post-listene henger sammen](../../../assets/img/mailinglists-map.png)
+
+### List og medlemmer
+
+import { Icon } from "@astrojs/starlight/components";
+
+{(function() {
+
+    const items = [
+        {
+            "name": "foreninger",
+            "members": [
+                {"name": "Ascend NTNU", "email": "contact@ascendntnu.no"},
+                {"name": "Badcom", "email": "badcom.mail@gmail.com"},
+                {"name": "En Psykt Vanlig Uke", "email": "epvu.trondheim@gmail.com"},
+                {"name": "Fadderutvalget", "email": "fadderutvalget@gmail.com"},
+                {"name": "Fuel Fighter NTNU", "email": "leder@fuelfighter.no"},
+                {"name": "Gridville NTNU", "email": "pm@gridvillentnu.com"},
+                {"name": "Linjeforeninger (mailliste)", "email": "linjeforeninger@online.ntnu.no"},
+                {"name": "Mannskor", "email": "formann@mannskor.no"},
+                {"name": "Nordlys NTNU", "email": "contact@nordlysntnu.no"},
+                {"name": "NTNUI", "email": "hovedstyret@ntnui.no"},
+                {"name": "Orbit NTNU", "email": "contact@orbitntnu.com"},
+                {"name": "Propulse NTNU", "email": "contact@propulsentnu.no"},
+                {"name": "Radio Revolt", "email": "ntnu@radiorevolt.no"},
+                {"name": "Revolve NTNU", "email": "post@revolve.no"},
+                {"name": "Samfundet", "email": "styret@samfundet.no"},
+                {"name": "Student-TV", "email": "styret@stv.no"},
+                {"name": "Studentkor", "email": "leder@studentkor.no"},
+                {"name": "Studentorchesteret Dei Taktlause", "email": "styret@taktlaus.no"},
+                {"name": "Studenttinget", "email": "sti@studenttinget.no"},
+                {"name": "Sukkerhuset", "email": "styret@sukkerhuset.no"},
+                {"name": "Teknologiporten", "email": "post@teknologiporten.no"},
+                {"name": "Velferdstinget", "email": "vt@velferdstinget.no"},
+                {"name": "Vortext NTNU", "email": "post@vortexntnu.no"},
+            ],
+        },
+        {
+            "name": "linjeforeninger",
+            "members": [
+                {"name": "Dragvoll", "email": "dragvoll@online.ntnu.no"},
+                {"name": "Gløshaugen", "email": "gloshaugen@online.ntnu.no"},
+                {"name": "Masterforeninger", "email": "masterforeninger@online.ntnu.no"},
+            ],
+        },
+        {
+            "name": "gloshaugen",
+            "members": [
+                {"name": "A/F Smørekoppen", "email": "styret@smorekoppen.no"},
+                {"name": "Abakus", "email": "abakus@abakus.no"},
+                {"name": "Antidot", "email": "antidot.ntnu@gmail.com"},
+                {"name": "Arkitektstudentenes Broderskab", "email": "kontakt@broderskabet.no"},
+                {"name": "Baris", "email": "leder.baris@gmail.com"},
+                {"name": "Bergstuderendes Forening", "email": "styret@bergstud.no"},
+                {"name": "Cibus", "email": "cibus.mattek@gmail.com"},
+                {"name": "Delta", "email": "delta@delta.org.ntnu.no"},
+                {"name": "Elektra", "email": "styret@elektra.io"},
+                {"name": "Emil", "email": "styret@emilntnu.no"},
+                {"name": "Fraktur", "email": "fraktur.ntnu@gmail.com"},
+                {"name": "FYSIO", "email": "trondheimfysio@gmail.com"},
+                {"name": "H.M. Aarhønen", "email": "hs@aarhonen.no"},
+                {"name": "HC", "email": "styret@hc.ntnu.no"},
+                {"name": "Helix", "email": "helix.leder@gmail.com"},
+                {"name": "Hippodamus", "email": "hippodamus.ntnu@gmail.com"},
+                {"name": "Hybrida", "email": "styret@hybrida.no"},
+                {"name": "Intro", "email": "leder@introntnu.no"},
+                {"name": "Janus", "email": "janus@janus.org.ntnu.no"},
+                {"name": "KOM", "email": "kom.linjeforening@gmail.com"},
+                {"name": "Leonardo", "email": "ilpresidente@industrielldesign.no"},
+                {"name": "Logitas", "email": "styret@logitas.no"},
+                {"name": "Lotte Vollen (Ordstyrer)", "email": "lotte.vollen@linjeforeninger.no"},
+                {"name": "Mannhullet", "email": "styret@mannhullet.no"},
+                {"name": "MiT", "email": "leder@maskining.no"},
+                {"name": "Nabla", "email": "nabla@nabla.no"},
+                {"name": "NITO", "email": "nitolinjeforening@gmail.com"},
+                {"name": "Nucleus", "email": "nucleuslinjeforening@gmail.com"},
+                {"name": "Nutrix", "email": "post@nutrix.no"},
+                {"name": "Omega", "email": "hs@omega.ntnu.no"},
+                {"name": "Online", "email": "online@online.ntnu.no"},
+                {"name": "Operon", "email": "leder@operon.no"},
+                {"name": "Pareto", "email": "pareto.linjeforening@gmail.com"},
+                {"name": "Placebo", "email": "placebo@list.stud.ntnu.no"},
+                {"name": "Pokayoke", "email": "pokayoke.ntnu@gmail.com"},
+                {"name": "Salt", "email": "post@saltntnu.no"},
+                {"name": "Signifikant", "email": "signifikant-styret@org.ntnu.no"},
+                {"name": "Socialis", "email": "ledersocialis.lf@gmail.com"},
+                {"name": "Solan", "email": "post@solanlinjeforening.no"},
+                {"name": "Spanskrøret", "email": "styret@spanskroret.no"},
+                {"name": "Støh", "email": "post@sftoh.no"},
+                {"name": "Sukkerhuset", "email": "styret@sukkerhuset.no"},
+                {"name": "TIHLDE", "email": "hs@tihlde.org"},
+                {"name": "Tim & Shænko", "email": "styret@bygging.no"},
+                {"name": "Timini", "email": "styret@timini.no"},
+                {"name": "TTS", "email": "leder@teknikersamfunn.no"},
+                {"name": "Turbulenten", "email": "styret@turbulenten.no"},
+                {"name": "Vivas", "email": "leder@vivasntnu.no"},
+                {"name": "Volvox", "email": "leder@volvox.no"},
+                {"name": "Ægir", "email": "styret@aegirntnu.no"},
+            ],
+        },
+        {
+            "name": "dragvoll",
+            "members": [
+                {"name": "Akwaaba", "email": "akwaabapost.ntnu@gmail.com"},
+                {"name": "Apeiron", "email": "apeiron.ntnu@gmail.com"},
+                {"name": "Babel", "email": "babel.linjeforening@gmail.com"},
+                {"name": "CAF", "email": "cafidrett@gmail.com"},
+                {"name": "Communitas", "email": "sosant.ntnu@gmail.com"},
+                {"name": "Erudio", "email": "styret@erudiontnu.no"},
+                {"name": "De Folkevalgte", "email": "defolkevalgte@gmail.com"},
+                {"name": "Det Historiske Selskab", "email": "ntnu_dhs@hotmail.com"},
+                {"name": "Dionysos", "email": "dionysoslinjeforening@gmail.com"},
+                {"name": "Eureka", "email": "eurekalinjeforening@gmail.com"},
+                {"name": "Fauréningen", "email": "faureningen@gmail.com"},
+                {"name": "Galleri af Klint", "email": "galleriafklint@gmail.com"},
+                {"name": "Gengangere", "email": "gengangerentnu@gmail.com"},
+                {"name": "Geolf", "email": "info.geolf@gmail.com"},
+                {"name": "Innovatio", "email": "kontakt@innovationtnu.no"},
+                {"name": "IVRig", "email": "ivrig.linjeforening@gmail.com"},
+                {"name": "JASS", "email": "ntnujazz@gmail.com"},
+                {"name": "Jump Cut", "email": "jumpcut.dragvoll@gmail.com"},
+                {"name": "Kultura", "email": "kulturalinjeforening@gmail.com"},
+                {"name": "Leviathan", "email": "leviathan.ntnu@gmail.com"},
+                {"name": "LiMP", "email": "linjeforeningenlimp@gmail.com"},
+                {"name": "Lipton", "email": "liptonlinjeforening@gmail.com"},
+                {"name": "MAST", "email": "mastlinjeforening@gmail.com"},
+                {"name": "Oda", "email": "oda.ntnu@gmail.com"},
+                {"name": "Ordstyrer LF", "email": "ordstyrerhfsu@gmail.com"},
+                {"name": "Paideia", "email": "paideiantnu@gmail.com"},
+                {"name": "Panoptikon", "email": "offisielle.panoptikon@gmail.com"},
+                {"name": "Primetime", "email": "primetime.ntnu@gmail.com"},
+                {"name": "Psi", "email": "psi.linjeforening@gmail.com"},
+                {"name": "Psykolosjen", "email": "psykolosjen@gmail.com"},
+                {"name": "Socius Extremus", "email": "socius.extremus@hotmail.no"},
+                {"name": "Sukkerhuset", "email": "styret@sukkerhuset.no"},
+                {"name": "Teaterlosjen", "email": "post@teaterlosjen.no"},
+                {"name": "Theodor", "email": "theodor.arkeologi@gmail.com"},
+                {"name": "TKS", "email": "tks.ntnu@gmail.com"},
+                {"name": "YFF", "email": "yff.ntnu@hotmail.com"},
+            ],
+        },
+        {
+            "name": "masterforeninger",
+            "members": [
+                {"name": "Antidot", "email": "antidot.ntnu@gmail.com"},
+                {"name": "Globus", "email": "globus.ntnu@gmail.com"},
+                {"name": "Hippodamus", "email": "post@hippodamus.no"},
+                {"name": "Innovation", "email": "kontakt@innovationtnu.no"},
+                {"name": "Njord", "email": "leder.njord@gmail.com"},
+                {"name": "Oda", "email": "oda.ntnu@gmail.com"},
+                {"name": "Pokayoke", "email": "pokayoke.ntnu@gmail.com"},
+                {"name": "Projeksjon", "email": "kontakt@projeksjon.no"},
+                {"name": "ProMan", "email": "promanntnu@gmail.com"},
+                {"name": "pStimulus", "email": "pstimulus@gmail.com"},
+                {"name": "Solan", "email": "post@solanlinjeforening.no"},
+                {"name": "SoMa", "email": "somaevent@gmail.com"},
+                {"name": "Symbiosis", "email": "symbiosis.board@gmail.com"},
+            ],
+        },
+        {
+            "name": "kjellere",
+            "members": [
+                {"name": "Dragvollkjelleren", "email": "dragvollkjelleren@gmail.com"},
+                {
+                    "name": "Emil, Smørekoppen",
+                    "email": "emil.smorekoppenkjelleren@gmail.com",
+                },
+                {"name": "Hybrida, Berg, Timini", "email": "kjellersjef@hybrida.no"},
+                {"name": "Nabla, Janus, HC", "email": "kjellern.hk18@nabla.ntnu.no"},
+                {
+                    "name": "Dykkergruppa, NTNUI",
+                    "email": "styret@dypet.dykkergruppa.no",
+                },
+                {"name": "Labamba", "email": "labamba@abakus.no"},
+                {
+                    "name": "Omega, Psykolosjen",
+                    "email": "kjellersjefkielderen@gmail.com",
+                },
+                {
+                    "name": "Realfagskjelleren",
+                    "email": "styret@realfagskjelleren.no",
+                },
+                {"name": "H.M. Aarhønen", "email": "krosjef@aarhonen.org.ntnu.no"},
+            ],
+        },
+        {
+            "name": "linjeledere",
+            "members": [
+                {"name": "A/F Smørekoppen", "email": "phormand@smorekoppen.no"},
+                {"name": "Abakus", "email": "leder@abakus.no"},
+                {"name": "Antidot", "email": "antidot.leder@gmail.com"},
+                {"name": "Arkitektstudentenes Broderskab", "email": "dominus@broderskabet.no"},
+                {"name": "Baris", "email": "leder.baris@gmail.com"},
+                {"name": "Bergstuderendes Forening", "email": "leder@bergstud.no"},
+                {"name": "Cibus", "email": "cibus.mattek@gmail.com"},
+                {"name": "Delta", "email": "delta.leder@gmail.com"},
+                {"name": "Elektra", "email": "leder@elektra.io"},
+                {"name": "Emil", "email": "leder@emilntnu.no"},
+                {"name": "Fraktur", "email": "leder.fraktur@gmail.com"},
+                {"name": "FYSIO", "email": "trondheimfysio@gmail.com"},
+                {"name": "Globus", "email": "president@globusntnu.no"},
+                {"name": "H.M. Aarhønen", "email": "aarhonen-kanzler@list.stud.ntnu.no"},
+                {"name": "HC", "email": "leder@hc.ntnu.no"},
+                {"name": "Helix", "email": "helix.leder@gmail.com"},
+                {"name": "Hippodamus", "email": "lederhippodamus@gmail.com"},
+                {"name": "Hybrida", "email": "leder@hybrida.no"},
+                {"name": "Intro", "email": "leder@introntnu.no"},
+                {"name": "Janus", "email": "janus-president@org.ntnu.no"},
+                {"name": "KOM", "email": "leder.kom.linjeforening@gmail.com"},
+                {"name": "Leonardo", "email": "ilpresidente.leonardo@gmail.com"},
+                {"name": "Logitas", "email": "leder@logitas.no"},
+                {"name": "Lotte Vollen (Ordstyrer)", "email": "lotte.vollen@linjeforeninger.no"},
+                {"name": "Mannhullet", "email": "formann@mannhullet.no"},
+                {"name": "MiT", "email": "leder@maskining.no"},
+                {"name": "Nabla", "email": "leder@nabla.no"},
+                {"name": "Nucleus", "email": "nucleus.leder@gmail.com"},
+                {"name": "Nutrix", "email": "leder@nutrix.no"},
+                {"name": "Omega", "email": "stormeister@omega.ntnu.no"},
+                {"name": "Online", "email": "leder@online.ntnu.no"},
+                {"name": "Operon", "email": "leder@operon.no"},
+                {"name": "Pareto", "email": "pareto.leder@gmail.com"},
+                {"name": "Placebo", "email": "leder@mfplacebo.no"},
+                {"name": "Salt", "email": "leder@saltntnu.no"},
+                {"name": "Socialis", "email": "ledersocialis.lf@gmail.com"},
+                {"name": "Solan", "email": "leder@solanlinjeforening.no"},
+                {"name": "SoMa", "email": "somaevent@gmail.com"},
+                {"name": "Spanskrøret", "email": "rektor@spanskroret.no"},
+                {"name": "Studenttinget", "email": "sti@studenttinget.no"},
+                {"name": "Støh", "email": "leder.stoh@gmail.com"},
+                {"name": "Tihlde", "email": "president@tihlde.org"},
+                {"name": "Tim & Shænko", "email": "leder@bygging.no"},
+                {"name": "Timini", "email": "buckminister@timini.no"},
+                {"name": "Turbulenten", "email": "leder@turbulenten.no"},
+                {"name": "Vivas", "email": "leder@vivasntnu.no"},
+                {"name": "Volvox", "email": "leder@volvox.no"},
+                {"name": "Ægir", "email": "styreleder@aegirntnu.no"},
+            ],
+        },
+        {
+            "name": "linjeledere-oya",
+            "members": [
+                {"name": "Baris", "email": "leder.baris@gmail.com"},
+                {"name": "Viventibus", "email": "viventibus@gmail.com"},
+                {"name": "Placebo", "email": "leder@mfplacebo.no"},
+                {"name": "Nutrix", "email": "leder@nutrix.no"},
+                {"name": "SoMa", "email": "somaevent@gmail.com"},
+                {"name": "Antidot", "email": "antidot.ntnu@gmail.com"},
+                {"name": "Socialis", "email": "socialis.lf@gmail.com"},
+                {"name": "Fraktur", "email": "fraktur.ntnu@gmail.com"},
+                {"name": "Helix", "email": "helix.leder@gmail.com"},
+                {"name": "Ergo", "email": "ergoledertrondheim@outlook.com"},
+                {"name": "CAF", "email": "cafidrett@gmail.com"},
+                {"name": "Nucleus", "email": "nucleus.leder@gmail.com"},
+                {"name": "Fysio", "email": "trondheimfysio@gmail.com"},
+            ],
+        },
+        {
+            "name": "sr-samarbeid",
+            "members": [
+                {"name": "Delta", "email": "delta@delta.org.ntnu.no"},
+                {"name": "Abakus", "email": "hs@abakus.no"},
+                {"name": "Omega", "email": "hs@omega.ntnu.no"},
+                {"name": "Online", "email": "hovedstyret@online.ntnu.no"},
+                {"name": "Nabla", "email": "nabla@nabla.ntnu.no"},
+                {
+                    "name": "Studentrådet IME",
+                    "email": "studentrad_ime-medlem@org.ntnu.no",
+                },
+                {"name": "Spanskrøret", "email": "styre@spanskroret.no"},
+                {"name": "Elektra", "email": "styret@elektra.io"},
+                {"name": "Emil", "email": "styret@emilntnu.no"},
+                {"name": "Epsilon", "email": "epsilon.linjeforening@gmail.com"},
+                {"name": "TIHLDE", "email": "hs@tihlde.org"},
+                {"name": "INGa", "email": "inga@hig.no"},
+                {"name": "Login", "email": "login@gjovik.ntnu.no"},
+            ],
+        },
+        {
+            "name": "ie-samarbeid",
+            "members": [
+                {"name": "Abakus", "email": "abakus@abakus.no"},
+                {"name": "Emil", "email": "styret@emilntnu.no"},
+                {"name": "Nabla", "email": "nabla@nabla.no"},
+                {"name": "Omega", "email": "hs@omega.ntnu.no"},
+                {"name": "Online", "email": "kontakt@online.ntnu.no"},
+                {"name": "Spanskrøret", "email": "spanskroret@spanskroret.no"},
+                {"name": "Login", "email": "kontakt@login.no"},
+                {"name": "Syntax", "email": "post@syntax-linjeforening.no"},
+                {"name": "Intro", "email": "leder@introntnu.no"},
+                {"name": "INGa", "email": "post@inga.no"},
+                {"name": "Delta", "email": "delta@delta.org.ntnu.no"},
+                {"name": "Elektra", "email": "styret@elektra.io"},
+            ],
+        },
+        {
+            "name": "iv-samarbeid",
+            "members": [
+                {"name": "H.M. Aarhønen", "email": "hs@aarhonen.no"},
+                {"name": "Hybrida", "email": "hybrida@org.ntnu.no"},
+                {"name": "Studentrådet IV", "email": "medlem@sr-iv.no"},
+                {"name": "Teknologiporten", "email": "post@teknologiporten.no"},
+                {"name": "A/F Smørekoppen", "email": "styret@smorekoppen.no"},
+                {"name": "Bergstuderendes Forening", "email": "styret@bergstud.no"},
+                {"name": "Emil", "email": "styret@emilntnu.no"},
+                {"name": "Mannhullet", "email": "styret@mannhullet.no"},
+            ],
+        },
+    ];
+    return items.map(list => {
+        return (
+        <details>
+        <summary>
+            <a href={`mailto:${list.name}@online.ntnu.no`}>{`${list.name}@online.ntnu.no`}</a>
+        </summary>
+        <ul>
+        {
+            list.members.map(org => (<li><a href={`mailto:${org.email}`}>{org.name}</a></li>))
+        }
+        </ul>
+        </details>)
+    })
+
+})()}
+
+**_Oppdatert 10. desember 2024_**
+
+Utdatert info? Send endringsforslag ved å trykke på "Rediger side" under, eller send en e-post til dotkom@online.ntnu.no.
