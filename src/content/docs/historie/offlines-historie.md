@@ -2,12 +2,12 @@
 title: "Offlines historie"
 ---
 
-Offline er Online sitt eget tidsskrift og så dagens lys i mars 2011. Profil- og aviskomiteen står for det grafiske og redaksjonelle ansvaret, og har i tillegg eksterne skribenter i andre deler av Online.  
+Offline er Online sitt eget tidsskrift og så dagens lys i mars 2011. Profil- og aviskomiteen står for det grafiske og redaksjonelle ansvaret, og har i tillegg eksterne skribenter i andre deler av Online.
 Offline gis ut to ganger i semesteret og inneholder en fin blanding av underholdende og opplysende saker myntet på informatikkstudenter.
 
 Våren 2014 ble Gulleblekka arrangert for første gang, etter initiativ fra Offline. Gullblekka er en prisutdeling ment å fokusere på arbeidet som alle linjeredaksjonene på Gløshaugen gjør, og premiere de som står ekstra frem. Offline vant tre priser. Årets artikkel (Kari F. Skjold for "Offline utforsker CERN"), årets morsomste artikkel (Ingrid W. Myrann for "Da varmen ble borte") og årets illustrasjon (Hallvard J. Christiansen for "Å skar'n si?"). Gullblekka gikk til Readme.
 
-[Her](http://online.ntnu.no/offline) finner du alle (bortsett i fra utgave #9) utgavene i PDF-format.
+[Her](http://online.ntnu.no/offline) finner du alle utgavene i PDF-format.
 
 God lesing!
 

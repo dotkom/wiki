@@ -49,7 +49,7 @@ Om du har en sak du vil at Hovedstyret for perioden 24/25 skal fokusere på, og 
 
 Ønsker du å forandre på [vedtektene](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc) fremmer du et vedtektsforslag. Det gjør du ved å sende forslaget til [hovedstyret@online.ntnu.no](mailto:hovedstyret@online.ntnu.no) **senest to uker før** generalforsamlingen. Det vil si **30. september 2024, kl.23:59**. Skriv vedtektsendringen slik at de kan gå rett inn i vedtektene. På generalforsamlingen må du fremme forslaget for de fremmøtte medlemmene.
 
-Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/okogved/).
+Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/innsikt/okonomi/okogved/).
 
 Vel møtt!
 
