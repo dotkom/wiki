@@ -1,3 +1,0 @@
----
-title: "Tilknyttede grupper"
----
