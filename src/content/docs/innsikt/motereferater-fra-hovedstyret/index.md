@@ -10,6 +10,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Høst 2025
+- [2025-10-28](2025/2025-10-28) - På tide med nytt kjøleskap!!!
 - [2025-10-21](2025/2025-10-21) - Historiens morsommeste HS-møte
 - [2025-10-14](2025/2025-10-14) - Hovedstyre møte 14. Oktober 2025
 - [2025-10-07](2025/2025-10-07) - Ny switch er her!!
