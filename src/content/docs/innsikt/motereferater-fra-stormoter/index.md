@@ -20,7 +20,7 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 ### Vår 2025
 
 - [2025-04-25-stormøte](2025/2025-04-25-stormote) - Endring av avmeldingsfrist
-- [2025-04-08-stormøte](2025/2025-04-08-stormote) - Kræsj med Bedpres og cancel dotDAGENE!
+- [2025-04-08-stormøte](2025/2025-04-08-stormote) - Kræsj med Bedpres
 - [2025-03-26-stormøte](2025/2025-03-26-stormote) - Masse prikker og uendelig med eventuelt saker
 - [2025-03-06-stormøte](2025/2025-03-06-stormote) - Semesterets tredje og desidert største stormøte
 - [2025-02-05-stormøte](2025/2025-02-05-stormote) - Semesterets andre stormøte
