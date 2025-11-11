@@ -4,12 +4,11 @@ title: "Output"
 
 # Output - linjebandet
 
-Output er linjebandet til Online. Bandet spiller på arrangementer som immatrikuleringsball, julebord og Battle of The Bands. Output er et lavterskel tilbud man kan henge seg på når som helst! Vi tar imot alle instrumenter.
+Output er linjebandet til Online. Bandet spiller på arrangementer som immatrikuleringsball, julebord og Battle of The Bands.  
 
-Besetningen per mai 2024 består av vokal, gitar, bass, slagverk, piano og trompet!
+Besetningen per november 2025 består av vokal, gitar, bass, slagverk og piano. Vi tar imot alle instrumenter!
 
-Utlån av miksebord og annet utstyr skjer også i dialog med oss. Vi har denne planen for når miksebordet er ledig: [Miksebord-kalender](https://docs.google.com/spreadsheets/d/1lfR09p7ll-hVHNL_dVR7feaoIHRt-uTqzVR_KURI-UM/edit?usp=sharing)
-
+Utlån av miksebord og annet utstyr skjer også i dialog med oss.
 ### **Kontaktinformasjon:**
 
 **Hovedmail:** band@online.ntnu.no
