@@ -73,7 +73,7 @@ Tradisjonelle kontorvakter fjernes til fordel for utprøving av en ny ordning. O
 ## Sak 5 - Øke støtten til jubkom (Thomas Iversen Ramm og Alis Wiken Wilson)
 **Begrunnelse**
 
-I bank- og økonomikomiteens [retningslinjer](https://www.notion.so/Bankom-2721c99db8f68061bb3ef5f5362d4d83?v=2721c99db8f6802fb59b000c9dc9d30d) §3.4 står det:
+I bank- og økonomikomiteens [retningslinjer](/info/innsikt-og-interface/retningslinjer/bankom/) §3.4 står det:
 >Det skal tilstrebes å årlig spare minimum 10 000,- kroner øremerket jubileumsfeiring.
 
 De siste to årene har hvert immball hatt 80 000 kroner i støtte fra Online. Tidligere har jubkom arrangert en uke med ulike arrangementer og avsluttet med en gallamiddag.  
