@@ -2,46 +2,66 @@
 title: "Kontoret"
 ---
 
-Her kan du drikke gratis kaffe mellom (og under) forelesningene, kjøpe mat og drikke til sene kvelder, sitte i en av kontorets mange sofaer, ta del i en heftig diskusjon om Floyd-Warshall og siste helgs hendelser, kanskje benytte deg av kontorets fasttelefon (hvis du klarer å knekke koden for å ringe ut), eller kanskje knuse nyfødte vennskap med en super smash kamp.
+Her kan du drikke gratis kaffe mellom (og under) forelesningene, varme nisten din i toastjern eller mikro, kjøpe mat og drikke til sene kvelder, sitte i en av kontorets mange sofaer, eller kanskje knuse nyfødte vennskap med en super smash kamp.
 
 ## Beliggenhet
 
-Kontoret fyller rom A4-137 i 4. etg på A-blokka i [Realfagbygget](https://www.google.com/maps/place/Realfagbygget+NTNU/@63.4156747,10.4039532,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31bfefa5e113:0x263240e7643fbb50!8m2!3d63.4156747!4d10.4061418?hl=en) på Gløshaugen. 
+Kontoret fyller rom A4-137 i 4. etg på A-blokka i [Realfagbygget](https://www.google.com/maps/place/Realfagbygget+NTNU/@63.4156747,10.4039532,17z/data=!3m1!4b1!4m5!3m4!1s0x466d31bfefa5e113:0x263240e7643fbb50!8m2!3d63.4156747!4d10.4061418?hl=en) på Gløshaugen.
 
 ## Åpningstider
 
-Kontoret er vanligvis åpent fra 10 til 16, dette kan unnvikes tidlig eller sent i semesteret grunnet eksamenslesing eller at kontorvakter ikke er satt opp enda. Det er i flittig bruk uansett, så det er nok noen innom i løpet av dagen uansett tid på året. I noen helger og kvelder er kanskje kontoret booket til ymse workshops og lignende, oversikt over disse bookingene [ligger her](https://calendar.google.com/calendar/embed?src=54v6g4v6r46qi4asf7lh5j9pcs%40group.calendar.google.com&ctz=Europe%2FOslo).
+Kontorets åpningstider er mellom 8 til 16 i hverdager. Utenfor dette tidsrommet skal døren holdes lukket. Alle i Online har tilgang til kontoret, selv utenfor åpningstidene. Noen kvelder og helger blir kontoret brukt til workshops, arbeidskvelder, arrangement, eller lignende. Selv om kontoret er booket, skal likevel alle onlinere ha tilgang til kontoret.
 
 ## Kjøleskapene
-På kontoret har vi pr. dags dato to kjøleskap. Det til venstre er det mulig å oppbevare mat i, men det må merkes med navn ellers kan hvem som helst forsyne seg av den. Kjøleskapet til høyre er stortsett fylt med kioskvarer som kjøpes inn av triKom for videre salg til studentene. 
 
-## Kaffetrakteren
+Per dags dato har vi to kjøleskap. Kioskvarer oppbevares i det store kjøleskapet, samt i frysedelen av kombiskapet. Kjøleskapsdelen av kombiskapet kan fritt benyttes av onlinere til egne matvarer/matpakker, så lenge de merkes med navn og dato. Er matvarer/matbokser ikke markert, kan de bli kastet.
 
-Kaffe er gratis, det er bare [å lage! =)](/attachments/535-kaffekok-plakat.pdf) 
-Hvis du er litt hyggelig, så skriver du tidspunkt på en lapp og fester til kanna, slik at andre kan se når kaffen ble laget.
+## Varm drikke
 
-For en full kanne lønner det seg å bruke 3.5 store kaffeskjeer med kaffe og fylle vann til "2.2 l"-merket.
+Kaffe, te, og kakao er gratis - det er bare å lage! :-) Du kan brygge filterkaffe i den store kanna i kaffehjørnet, eller espresso på kontoret. Du må ha med kopp selv, men koppen kan oppbevares i skapene i kaffehjørnet om ønskelig.
 
-## Kiosksystemet
+### Filterkaffe
 
-<TODO> 
-  
-## Tilgang til kontoret
+Instruksjoner til brygging av filterkaffe står på en plakat like ved maskinen. Kannen skal skylles før du brygger kaffe. Det er hyggelig om man skriver og henger opp en liten lapp om tidspunkt kaffen ble brygget.
 
-Alle Online-medlemmer kan søke om å få tilgang til kontoret. For å gjøre dette les gjerne denne artikkelen som forteller litt mer om hva som kreves av en/ei som vil få tilgang til kontoret. Søknaden gjøres ved å lese og signere [vedlegg 409](/attachments/409-retningslinjer_for_kontortilgang.pdf). Ferdigsignert mal skal sendes til [kontortilgang@online.ntnu.no](mailto:kontortilgang@online.ntnu.no)
+### Espressomaskin
+
+Espressomaskinen på kontoret bruker kaffekapsler, som er gratis å bruke. Kapslene finner du ved siden av maskinen. Sett inn en kapsel, og trykk på ønsket vannmengde (liten, middels eller stor kopp).
+
+Husk å fylle på vann i beholderne dersom de er tomme. Dette gjøres enkelt ved å ta beholderen av maskinen og fylle den opp i springen, den har praktiske håndtak. Tørk gjerne av maskinen dersom det har rent kaffe eller vann.
+
+### Håndtering av rensevann
+
+For å rense maskinen brukes en egen rensemugge. Fyll den med vann fra vannoppsamleren under maskinen (den som tar imot brukt vann), eventuelt om man bruker en kopp som tar i mot rensevannet. Hvis muggen blir full, tøm den i vasken før du fortsetter.
+
+### Håndtering av feilmelding
+
+Dersom maskinen viser feilmeldingen **«Maskin blokkert, ring Nespresso Club»**, kan dette løses ved å:
+
+1. Skru av maskinen.
+2. Hold inne de tre kaffeikon-knappene samtidig som du holder inne **på-knappen** i 10 sekunder.
+3. Hvis feilmeldingen fortsatt vises, gjenta prosessen én gang til.
+
+### Te og kakao
+
+Te og kakao som står på kontoret er gratis! Varmt vann kan finnes på vannkoker i master-kaffehjørnet, på kaffemaskinen i kaffehjørnet ved toalettene, eller på espressomaskin på kontoret (så lenge det er vann i beholderene).
+
+## Kiosken
+
+I kiosken kan du kjøpe billig snacks, drikke, og enkel mat! Betaling skjer via zettle-terminal som ligger i hyllen. Er terminalen nede, kan du kontakte økonomiansvarlig eller innkjøpsansvarlig i trikom.
+
+Kiosken er et nullprosjekt, så det er svært viktig at alle betaler for seg. Høyt svinntall fører i første omgang av fjerning av spesifikke varer. Om fjerning av varer ikke fungerer, stenges hele kiosken ned. Så, hvis du er glad i kiosken, husk å betal!
+
+Trikom håndterer varepåfylling. HS kan også fylle på, så lenge de varsler trikom om hva og hvor mye.
+
+## Mikrobølgeovn og toastjern
+
+Mikro og toastjern kan fritt brukes. I mikro må du bruke mikrolokk om matboksen din ikke har eget lokk, og i toastjernet må du bruke bakepapir. Om det likevel blir søl, skal du vaske opp etter deg.
+
+## Renhold
+
+Alle Onlinere forventes å plukke opp etter seg og holde kontoret hyggelig. Utover det, deler alle aktive komiteer under Online Linjeforening på ansvaret av å vaske av kontoret. All pant håndteres av trikom, og pengene går til arrangement som 17. mai og eksamenslesning. Detaljer om kontorordningen finnes [her](kontorordningen).
 
 ## Annet
 
-Det står en mikrobølgeovn fremme som er til fritt bruk.
-
-Vannkoker og kanner som står på kontoret er også til fritt bruk, men det er fint om ikke kannene fjernes fra kontoret. Man kan gjerne ta med en kanne til møter eller lignende, så lenge det står igjen en til andre kaffetørste mennesker på kontoret.
-
-Kaffe, te og annet som ikke står oppført på prislisten på Nibble er å betrakte som gratis goder til alle.
-
-Bruker man gjenstander som finnes på kontoret som f.eks. boller, bestikk og lignende vasker man det opp etter seg. Oppvaskmiddel og børste skal finnes ved vasken.
-
-Telefonnummeret til kontoret er 73 59 64 89
-
-
-- [Kontorordning](/online-info/kontoret/kontorvakt)
-- [For komitémedlemmer](https://spurious-lynx-a5d.notion.site/Hjem-b22d657f3c8143ee842f8810cafef1cb)
+Om du har spørsmål om hvordan noe fungerer, eller innspill til ting som kunne gjort kontoret bedre, er det bare å sende en mail til [trikom@online.ntnu.no](mailto:trikom@online.ntnu.no)!
