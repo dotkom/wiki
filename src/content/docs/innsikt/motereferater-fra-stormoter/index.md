@@ -10,6 +10,7 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Høst 2025
 
+- [2025-11-20-stormote](2025/2025-11-20-stormote) - Semesterets siste stormote!
 - [2025-11-06-stormote](2025/2025-11-06-stormote) - Uendelig med straffer
 - [2025-10-23-stormote](2025/2025-10-23-stormote) - Meld dere på bedriftsarrangementer
 - [2025-10-09-stormote](2025/2025-10-09-stormote) - Semesterets 5. stormøte
