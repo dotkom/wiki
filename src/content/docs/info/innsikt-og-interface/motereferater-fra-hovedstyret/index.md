@@ -427,6 +427,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 Møtereferater
 ------------------
 ### Høst 2025
+- [2025-11-20](2025/2025-11-20) - Semesterets siste stormøte!
 - [2025-10-21](2025/2025-10-21) - Historiens morsommeste HS-møte
 - [2025-10-09](2025/2025-10-09-stormote) - Semesterets 5. stormøte
 - [2025-10-7](2025/2025-10-07) - Ny switch er her!!
