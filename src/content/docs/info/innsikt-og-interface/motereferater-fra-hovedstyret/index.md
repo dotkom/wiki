@@ -11,34 +11,47 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ### Høst 2025
 
+- [2025-11-20-stormote](2025/2025-11-20-stormote) - Semesterets siste stormøte!
+- [2025-11-18](2025/2025-11-18) - Refleksjoner rundt ny HS struktur
 - [2025-11-11](2025/2025-11-11) - OW innloging er broken
 - [2025-10-21](2025/2025-10-21) - Historiens morsommeste HS-møte
 - [2025-10-14](2025/2025-10-14) - Hovedstyre møte 14. Oktober 2025
+- [2025-10-09-stormote](2025/2025-10-09-stormote) - Semesterets 5. stormøte
 - [2025-10-07](2025/2025-10-07) - Ny switch er her!!
 - [2025-09-30](2025/2025-09-30) - Eventuelt punktet blir abused
+- [2025-09-25-stormote](2025/2025-09-25-stormote) - Mange saker
 - [2025-09-23](2025/2025-09-23) - Regler for komp-daljer
 - [2025-09-16](2025/2025-09-16) - Ansvarsfordeling
+- [2025-09-11-stormote](2025/2025-09-11-stormote) - Immball prep og onboarding ting
 - [2025-09-09](2025/2025-09-09) - Ikke så mye å melde
 - [2025-09-06](2025/2025-09-06) - Genfors- og arbeidsdag-planlegging
+- [2025-08-29-stormote](2025/2025-08-29-stormote) - Opptak snart!!
 - [2025-08-29](2025/2025-08-29) - Semesterstart og Switch 2
+- [2025-08-15-stormote](2025/2025-08-15-stormote) - Første stormøte
 - [2025-08-15](2025/2025-08-15) - Første HS-møte
 
 ### Vår 2025
 
 - [2025-05-09](2025/2025-05-09) - Faxepins for alle
 - [2025-04-30](2025/2025-04-30) - Fondet blir kanskje endelig brukt og litt straffaganza
+- [2025-04-25-stormote](2025/2025-04-25-stormote) - Endring av avmeldingsfrist
 - [2025-04-25](2025/2025-04-25) - Vi er tilbake etter påskeferie
 - [2025-04-10](2025/2025-04-10) - Valg for interne roller og litt økonomi
+- [2025-04-08-stormote](2025/2025-04-08-stormote) - Kræsj med Bedpres og cancel dotDAGENE!
 - [2025-04-04](2025/2025-04-04) - Tilgang til suspensjoner for arrangerende komiteer
 - [2025-03-31](2025/2025-03-31) - Wiki oppdatering
+- [2025-03-26-stormote](2025/2025-03-26-stormote) - Masse prikker og uendelig med eventuelt saker
 - [2025-03-18](2025/2025-03-18) - Det regner Daljer
+- [2025-03-06-stormote](2025/2025-03-06-stormote) - Semesterets tredje og desidert største stormøte
 - [2025-03-04](2025/2025-03-04) - Første møte med nye HS
 - [2025-02-24](2025/2025-02-24) - Siste møte :(
 - [2025-02-17](2025/2025-02-17) - Div økonomi og karrieredager
 - [2025-02-10](2025/2025-02-10) - Toastjern, Org.kollegiet
+- [2025-02-05-stormote](2025/2025-02-05-stormote) - Semesterets andre stormøte
 - [2025-02-03](2025/2025-02-03) - Snart genfors og bedkom er på besøk
 - [2025-01-27](2025/2025-01-27) - Opptaket er i gang og K2K vel gjennomført
 - [2025-01-20](2025/2025-01-20) - Rolig start på nyåret
+- [2025-01-14-stormote](2025/2025-01-14-stormote) - Semesterets første stormøte
 - [2025-01-13](2025/2025-01-13) - Første møte etter nyttår!
 
 ### Høst 2024
@@ -51,9 +64,11 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2024-10-18](2024/2024-10-18) - Post genfors møte
 - [2024-10-09](2024/2024-10-09) - Snart generalforsamling, yey
 - [2024-10-02](2024/2024-10-02) - Legeerklæring og progging med Abakus
+- [2024-09-30-stormote](2024/2024-09-30-stormote) - Semesterets andre stormøte
 - [2024-09-25](2024/2024-09-25) - Vedtatt.no, Rekom
 - [2024-09-18](2024/2024-09-18) - Samarbeid med Abakus, nye signaturer og RFK
 - [2024-09-11](2024/2024-09-11) - Budsjettgodkjenning
+- [2024-09-09-stormote](2024/2024-09-09-stormote) - Semesterets første stormøte
 - [2024-09-04](2024/2024-09-04) - Mye immball for tiden
 - [2024-08-26](2024/2024-08-26) - Ny wiki
 - [2024-08-19](2024/2024-08-19) - Back to school
@@ -62,6 +77,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 - [2024-05-06](2024/2024-05-06) - Siste møte før sommeren :(
 - [2024-04-29](2024/2024-04-29) - Rekom og nodekomitédajer
+- [2024-04-22-stormote](2024/2024-04-22-stormote) - Stormøte
 - [2024-04-22](2024/2024-04-22) - Reform av IDI-støtte og snart stormøte
 - [2024-04-15](2024/2024-04-15) - Blæsting, stormøte og bånd
 - [2024-04-08](2024/2024-04-08) - Komitéstørrelse, ITV og bånd
@@ -73,6 +89,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2024-02-12](2024/2024-02-12) - Tech Talks og ItDagene
 - [2024-02-05](2024/2024-02-05) - Genfors og t-skjorter
 - [2024-01-29](2024/2024-01-29) - Nyhetsbrev og Aba IL?
+- [2024-01-23-stormote](2024/2024-01-23-stormote) - Stormøte 23.01.2024
 - [2024-01-22](2024/2024-01-22) - Nibble i chokehold, genfors prep
 - [2024-01-15](2024/2024-01-15) - Sliten gjeng etter Åre
 - [2024-01-10](2024/2024-01-10) - Nytt år nye muligheter
@@ -125,6 +142,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2022-10-05](2022/2022-10-05) - Status på genfors og engelske arrangementer
 - [2022-09-28](2022/2022-09-28) - Ægir i RFK, Genfors, Daljer og t-skjorter til oil, retrospekt hovedopptak
 - [2022-09-21](2022/2022-09-21) - ØoV, Genfors, Notion
+- [2022-09-14-stormote](2022/2022-09-14-stormote) - Stormøte 14.09.2022
 - [2022-09-14](2022/2022-09-14) - Genfors, FIF-møte og valg av styrerepresentanter
 - [2022-09-07](2022/2022-09-07) - Planlegger genfors
 - [2022-08-31](2022/2022-08-31) - Omøblering og revidert Budsjett møte
