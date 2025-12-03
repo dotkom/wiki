@@ -11,6 +11,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ### Høst 2025
 
+- [2025-11-25](2025/2025-11-25) - God jul fra Hovedstyret!
 - [2025-11-18](2025/2025-11-18) - Refleksjoner rundt ny HS struktur
 - [2025-11-11](2025/2025-11-11) - OW innloging er broken
 - [2025-11-04](2025/2025-11-04) - Kontor til kontor hver dag i uka!
