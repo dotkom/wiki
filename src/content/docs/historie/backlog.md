@@ -1,6 +1,9 @@
 ---
-title: "Historien om seniorkomiteen"
+title: "Backlog"
 ---
+Historie
+---------
+Backlog het tidligere seniorkom, og har historisk sett stått for bidragelse i linjeforeningen der det har trengtes utfyllende erfaring innenfor linjeforeningens drift. Backlog har med navneendringen gått over til å drive med diverse prosjekter for å forbedre linjeforeningen.
 
 Vårt virke
 ----------
@@ -8,23 +11,22 @@ Vårt virke
 
 Arbeidsoppgaver/annet engasjement komiteen har er:  
 
-* Komitekickoff
-* Lederkurs for styret og komiteledere  
-* Kollokvieorganisering
-* Drifte prosjekter 
-    * Revy
-    * Autobank
-    * Maraton
+* Komitekickoff og komiteseminar
+* Lederkurs for styret og komiteledere
+* Buddyordningen
+* Diverse prosjekter
 
 
 Medlemmer
 ---------
 
-Komiteen består for øyeblikket av 15 engasjerte studenter.
-
-
 |År|Leder|Nestleder|Økonomiansvarlig|Medlemmer|||||||||||||||||||||| 
 |--------------|------------------|------------------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|----------|---------------|---------------|---------------|---------------|---------------|---------------|---------------|  
+| 2025H         |Marius Aleksander Brun|Tobias Haugrønning|Scott Jennings|Edvard Aasen|Ådne Børresen|Johanna Wilmers|Line Grytten|Frederik Farstad|Brage Baugerød|Sofie Sagmo|Vilde Kørner|Aurora Karlsen|Markus Wathle|Brinje Marie Haugli|Nikolai Thougaard||
+| 2025V         |Marius Aleksander Brun|Tobias Haugrønning|Scott Jennings|Pål Djuve Vambheim|Edvard Aasen|Luca Grujic|Aurora Karlsen|Markus Wathle|Carolina Gunnesdal|Brinje Marie Haugli|Ådne Børresen|Johanna Wilmers|Line Grytten|Frederik Farstad|Brage Baugerød|Sofie Sagmo|Vilde Kørner|Nikolai Thougaard||
+| 2024H         |Ådne Børresen|Carolina Gunnesdal|Brinje Haugli|Edvard Aasen|Marius Aleksander Brun|Markus Wathle|Pål Djuve Vambheim|Luca Grujic|Aurora Karlsen||
+| 2024V         |Milla Weium|Mattis Hembre|Farhad Ismayilov|Andrine Heggelund|Frede Berdal|Edvard Aasen|Luka Grujic|Carolina Gunnesdal|Pål Djuve Vambheim|Eeman Hasmi|Markus Wathle|Aurora Karlsen|Brinje Marie Haugli|Ådne Børresen|Marius Aleksander Brun||
+| 2023H         |Milla Weium|Mattis Hembre|Farhad Ismayilov|Andrine Heggelund|Frede Berdal|Martin Kvalsund|Ida Manger|Njål Sørland|Edvard Aasen|Luka Grujic|Hilmir Straumland|Billy Steen Barrett|Ådne Børresen||
 | 2023V         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Christoffer Stensrud|Luka Grujic|Emma Blix|Hilmir Straumland|Billy Steen Barrett|Farhad Ismayilov|Martin Kvalsund|Ida Manger|Frede Berdal|Andrine Heggelund|Edvard Aasen|Sunniva Bjerke|Mattis Hembre||
 | 2022H         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Duvara Nishaharan|Luka Grujic|Emma Blix|Hilmir Straumland|Anniken Hoff|Billy Steen Barrett |Farhad Ismayilov||
 | 2022V         |Milla Weium|Sarmi Ponnuthurai|Christoffer Stensrud|Christoffer Stensrud|Luka Grujic|Emma Blix|William Andersson|Anniken Hoff|Johan August Østbye |Mia Bjørndal|Thomas Iversen Ramm|
