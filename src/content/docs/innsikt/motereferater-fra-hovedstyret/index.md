@@ -9,6 +9,10 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ## Møtereferater
 
+### Vår 2026
+
+- [2026-01-12](2026/2026-01-12) - Nytt år, nye saker
+
 ### Høst 2025
 
 - [2025-11-25](2025/2025-11-25) - God jul fra Hovedstyret!
