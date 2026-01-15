@@ -4,13 +4,13 @@ date: 2023-03-01
 ---
 
 ## Innhold
-* [2023 Forside](/generalforsamlinger/2023-v)   - Forside
-* [2023 Forretningsorden](/generalforsamlinger/2023-v/forretningsorden) - Forretningsorden
-* [2023 Dagsorden](/generalforsamlinger/2023-v/dagsorden) - Dagsorden for generalforsamlingen
-* [2023 Årsberetninger](/generalforsamlinger/2023-v/aarsberetninger) - Årsberetninger
-* [2023 Saksforslag](/generalforsamlinger/2023-v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2023 Vedtektsforslag](/generalforsamlinger/2023-v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2023 Kandidater](/generalforsamlinger/2023-v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2023 Forside](/generalforsamlinger/2023-v/)   - Forside
+* [2023 Forretningsorden](/generalforsamlinger/2023-v/forretningsorden/) - Forretningsorden
+* [2023 Dagsorden](/generalforsamlinger/2023-v/dagsorden/) - Dagsorden for generalforsamlingen
+* [2023 Årsberetninger](/generalforsamlinger/2023-v/aarsberetninger/) - Årsberetninger
+* [2023 Saksforslag](/generalforsamlinger/2023-v/saksforslag/) - Alle innsendte saker vil bli tatt opp.
+* [2023 Vedtektsforslag](/generalforsamlinger/2023-v/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2023 Kandidater](/generalforsamlinger/2023-v/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2023](https://docs.google.com/presentation/d/17-HMuvhAHn0pFBuJEWHEe1OR3LuXiJ1LsygS1bGVNrw/edit?usp=sharing)  
@@ -43,7 +43,7 @@ Om du har en sak du vil at Hovedstyret for perioden 23/24 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/innsikt/okonomi/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2023-v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2023-v/valg/). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 

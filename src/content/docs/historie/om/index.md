@@ -234,23 +234,23 @@ kaffedrikking.
 
 -   **Historie ønskes!**
 
-### [2009/2010](/historie/om/0910)
+### [2009/2010](/historie/om/0910/)
 
-### [2010/2011](/historie/om/1011)
+### [2010/2011](/historie/om/1011/)
 
-### [2011/2012](/historie/om/1112)
+### [2011/2012](/historie/om/1112/)
 
-### [2012/2013](/historie/om/1213)
+### [2012/2013](/historie/om/1213/)
 
-### [2017/2018](/historie/om/p1718)
+### [2017/2018](/historie/om/p1718/)
 
-### [2018/2019](/historie/om/p1819)
+### [2018/2019](/historie/om/p1819/)
 
-### [2019/2020](/historie/om/p1920)
+### [2019/2020](/historie/om/p1920/)
 
-### [2020/2021](/historie/om/p2021)
+### [2020/2021](/historie/om/p2021/)
 
-### [2021/2022](/historie/om/p2122)
+### [2021/2022](/historie/om/p2122/)
 
 
 ## Hovedstyrer

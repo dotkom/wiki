@@ -4,13 +4,13 @@ date: 2024-02-26
 ---
 
 ## Innhold
-* [2024 Vår Forside](/generalforsamlinger/2024-v)   - Forside
-* [2024 Vår Forretningsorden](/generalforsamlinger/2024-v/forretningsorden) - Forretningsorden
-* [2024 Vår Dagsorden](/generalforsamlinger/2024-v/dagsorden) - Dagsorden for generalforsamlingen
-* [2024 Vår Halvårsberetninger](/generalforsamlinger/2024-v/aarsberetninger) - Halvårsberetninger
-* [2024 Vår Saksforslag](/generalforsamlinger/2024-v/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2024 Vår Vedtektsforslag](/generalforsamlinger/2024-v/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2024 Vår Kandidater](/generalforsamlinger/2024-v/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2024 Vår Forside](/generalforsamlinger/2024-v/)   - Forside
+* [2024 Vår Forretningsorden](/generalforsamlinger/2024-v/forretningsorden/) - Forretningsorden
+* [2024 Vår Dagsorden](/generalforsamlinger/2024-v/dagsorden/) - Dagsorden for generalforsamlingen
+* [2024 Vår Halvårsberetninger](/generalforsamlinger/2024-v/aarsberetninger/) - Halvårsberetninger
+* [2024 Vår Saksforslag](/generalforsamlinger/2024-v/saksforslag/) - Alle innsendte saker vil bli tatt opp.
+* [2024 Vår Vedtektsforslag](/generalforsamlinger/2024-v/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2024 Vår Kandidater](/generalforsamlinger/2024-v/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Presentasjon: [Generalforsamling 2024 Vår](https://docs.google.com/presentation/d/1dsZ-7JkZeU4GnbNN-GOqJdgYicYE5B0YlHEnqDqBvi0/edit?usp=sharing)
@@ -49,7 +49,7 @@ Om du har en sak du vil at Hovedstyret for perioden 24/25 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsforslagene på generalforsamlingen. Derfor inviterer Hovedstyret til vedtektskveld. Du finner mer informasjon om økonomi og vedtektskveld [her](/innsikt/okonomi/okogved/).
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2024-v/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2024-v/valg/). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på [valgkom@online.ntnu.no](mailto:valgkom@online.ntnu.no).
 
 
 

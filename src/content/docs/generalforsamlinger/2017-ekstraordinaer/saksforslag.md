@@ -2,11 +2,11 @@
 title: "Saksforslag"
 ---
 
-* [2017 Forretningsorden](/generalforsamlinger/2017-ekstraordinaer/forretningsorden) - Forretningsorden
-* [2017 Dagsorden](/generalforsamlinger/2017-ekstraordinaer/dagsorden) - Dagsorden for generalforsamlingen
-* [2017 Saksforslag](/generalforsamlinger/2017-ekstraordinaer/saksforslag) - Foreslåtte saksforslag
-* [2017 Vedtektsforslag](/generalforsamlinger/2017-ekstraordinaer/vedtektsforslag) - Foreslåtte endringer til vedtektene. 
-* [2017 Kandidater](/generalforsamlinger/2017-ekstraordinaer/valg) - Er du klar for et eventuelt verv?
+* [2017 Forretningsorden](/generalforsamlinger/2017-ekstraordinaer/forretningsorden/) - Forretningsorden
+* [2017 Dagsorden](/generalforsamlinger/2017-ekstraordinaer/dagsorden/) - Dagsorden for generalforsamlingen
+* [2017 Saksforslag](/generalforsamlinger/2017-ekstraordinaer/saksforslag/) - Foreslåtte saksforslag
+* [2017 Vedtektsforslag](/generalforsamlinger/2017-ekstraordinaer/vedtektsforslag/) - Foreslåtte endringer til vedtektene. 
+* [2017 Kandidater](/generalforsamlinger/2017-ekstraordinaer/valg/) - Er du klar for et eventuelt verv?
 
 Saksforslag under ekstraordinær generalforsamling kan kun stilles av de som kalte inn til generalforsamling, i dette tilfellet Hovedstyret. Saksforslagene skal ha noe med formålet til generalforsamlingen å gjøre.
 

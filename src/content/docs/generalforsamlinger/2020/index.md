@@ -3,13 +3,13 @@ title: "Genfors 2020"
 date: 2020-03-02
 ---
 
-* [2020 Forside](/generalforsamlinger/2020)   - Forside
-* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden) - Forretningsorden
-* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden) - Dagsorden for generalforsamlingen
-* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger) - Årsberetninger
-* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2020 Kandidater](/generalforsamlinger/2020/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2020 Forside](/generalforsamlinger/2020/)   - Forside
+* [2020 Forretningsorden](/generalforsamlinger/2020/forretningsorden/) - Forretningsorden
+* [2020 Dagsorden](/generalforsamlinger/2020/dagsorden/) - Dagsorden for generalforsamlingen
+* [2020 Årsberetninger](/generalforsamlinger/2020/aarsberetninger/) - Årsberetninger
+* [2020 Saksforslag](/generalforsamlinger/2020/saksforslag/) - Alle innsendte saker vil bli tatt opp.
+* [2020 Vedtektsforslag](/generalforsamlinger/2020/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2020 Kandidater](/generalforsamlinger/2020/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 ## Dokumenter fra årets generalforsamling
 Onlines vedtekter: [vedlegg 635](/attachments/635-Onlines_Vedtekter_Signed.pdf)  
@@ -41,7 +41,7 @@ Om du har en sak du vil at Hovedstyret for perioden 20/21 skal fokusere på, og 
 
 Det vil ikke være mulighet til å gjøre endringer på vedtektsendringene på generalforsamlingen. Derfor inviterer Hovedstyret til økonomi- og vedtektskveld. Informasjon om dette kommer senere.
 
-Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2020/valg). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
+Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandidater til Hovedstyret](/generalforsamlinger/2020/valg/). Om du har spørsmål om ledervervene kan du kontakte valgkomiteen på valgkom@online.ntnu.no.
 
 Trivselskomiteen vil stille med enkel servering, og det vil bli gjennomført felles pizzabestilling i løpet av kvelden. Det blir gratis pizza til alle som møter opp.
 

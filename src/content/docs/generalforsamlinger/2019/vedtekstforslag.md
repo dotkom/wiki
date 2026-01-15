@@ -2,13 +2,13 @@
 title: "Vedtektsforslag 2019"
 ---
 
-* [2019 Forside](/generalforsamlinger/2019)   - Forside
-* [2019 Forretningsorden](/generalforsamlinger/2019/forretningsorden) - Forretningsorden
-* [2019 Dagsorden](/generalforsamlinger/2019/dagsorden) - Dagsorden for generalforsamlingen
-* [2019 Årsberetninger](/generalforsamlinger/2019/aarsberetninger) - Årsberetninger
-* [2019 Saksforslag](/generalforsamlinger/2019/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2019 Vedtektsforslag](/generalforsamlinger/2019/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2019 Kandidater](/generalforsamlinger/2019/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret?
+* [2019 Forside](/generalforsamlinger/2019/)   - Forside
+* [2019 Forretningsorden](/generalforsamlinger/2019/forretningsorden/) - Forretningsorden
+* [2019 Dagsorden](/generalforsamlinger/2019/dagsorden/) - Dagsorden for generalforsamlingen
+* [2019 Årsberetninger](/generalforsamlinger/2019/aarsberetninger/) - Årsberetninger
+* [2019 Saksforslag](/generalforsamlinger/2019/saksforslag/) - Alle innsendte saker vil bli tatt opp.
+* [2019 Vedtektsforslag](/generalforsamlinger/2019/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2019 Kandidater](/generalforsamlinger/2019/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 ** Hva er et vedtektsforslag? **
 

@@ -2,11 +2,11 @@
 title: "Kandidater"
 ---
 
-* [2017 Forretningsorden](/generalforsamlinger/2017-ekstraordinaer/forretningsorden) - Forretningsorden
-* [2017 Dagsorden](/generalforsamlinger/2017-ekstraordinaer/dagsorden) - Dagsorden for generalforsamlingen
-* [2017 Saksforslag](/generalforsamlinger/2017-ekstraordinaer/saksforslag) - Foreslåtte saksforslag
-* [2017 Vedtektsforslag](/generalforsamlinger/2017-ekstraordinaer/vedtektsforslag) - Foreslåtte endringer til vedtektene. 
-* [2017 Kandidater](/generalforsamlinger/2017-ekstraordinaer/valg) - Er du klar for et eventuelt verv?
+* [2017 Forretningsorden](/generalforsamlinger/2017-ekstraordinaer/forretningsorden/) - Forretningsorden
+* [2017 Dagsorden](/generalforsamlinger/2017-ekstraordinaer/dagsorden/) - Dagsorden for generalforsamlingen
+* [2017 Saksforslag](/generalforsamlinger/2017-ekstraordinaer/saksforslag/) - Foreslåtte saksforslag
+* [2017 Vedtektsforslag](/generalforsamlinger/2017-ekstraordinaer/vedtektsforslag/) - Foreslåtte endringer til vedtektene. 
+* [2017 Kandidater](/generalforsamlinger/2017-ekstraordinaer/valg/) - Er du klar for et eventuelt verv?
 
 ### Hovedstyret
 

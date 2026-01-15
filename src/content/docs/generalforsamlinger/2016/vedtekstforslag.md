@@ -2,9 +2,9 @@
 title: "Vedtektsforslag 2016"
 ---
 
-* [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg) - Er du klar for et verv i Hovedstyret?
-* [2016 Vedtektsforslag](/generalforsamlinger/2016/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2016 Saksforslag](/generalforsamlinger/2016/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2016 Kandidater til Hovedstyret](/generalforsamlinger/2016/valg/) - Er du klar for et verv i Hovedstyret?
+* [2016 Vedtektsforslag](/generalforsamlinger/2016/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2016 Saksforslag](/generalforsamlinger/2016/saksforslag/) - Alle innsendte saker vil bli tatt opp.
 * [Komiteenes retningslinjer](https://www.notion.so/2721c99db8f680cc8d64fb988ff4e1a6?v=2721c99db8f6802fb59b000c9dc9d30d)
 
 ---
