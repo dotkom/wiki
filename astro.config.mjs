@@ -24,6 +24,7 @@ const sanitizeSidebar = (nodes) => {
 // https://astro.build/config
 export default defineConfig({
   site: "https://wiki.online.ntnu.no",
+  trailingSlash: "always",
   integrations: [
     // https://starlight.astro.build/reference/configuration/
     starlight({
@@ -34,9 +35,6 @@ export default defineConfig({
         root: {
           label: "Norsk",
           lang: "no",
-        },
-        en: {
-          label: "English",
         },
       },
       logo: {

@@ -2,9 +2,6 @@
 .DS_Store
 package-lock.json
 
-# Script output
-scripts/redirects-output.txt
-
 
 # build output
 dist/
@@ -27,3 +24,6 @@ pnpm-debug.log*
 # VSCode
 .vscode/
 .wrangler/
+
+# Jetbrains
+.idea/
