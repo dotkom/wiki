@@ -3,10 +3,10 @@ title: "Genfors 2015"
 date: 2015-04-20
 ---
 
-* [2015 Saksliste](/generalforsamlinger/2015/saksliste) - Saksliste for generalforsamlingen 2015
-* [2015 Kandidater til Hovedstyret](/generalforsamlinger/2015/valg) - Er du klar for et verv i Hovedstyret?
-* [2015 Vedtektsforslag](/generalforsamlinger/2015/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2015 Saksforslag](/generalforsamlinger/2015/saksforslag) - Alle innsendte saker vil bli tatt opp.
+* [2015 Saksliste](/generalforsamlinger/2015/saksliste/) - Saksliste for generalforsamlingen 2015
+* [2015 Kandidater til Hovedstyret](/generalforsamlinger/2015/valg/) - Er du klar for et verv i Hovedstyret?
+* [2015 Vedtektsforslag](/generalforsamlinger/2015/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2015 Saksforslag](/generalforsamlinger/2015/saksforslag/) - Alle innsendte saker vil bli tatt opp.
 
 ---
 

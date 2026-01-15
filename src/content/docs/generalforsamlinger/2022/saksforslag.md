@@ -3,13 +3,13 @@ title: "Saksforslag 2022"
 ---
 
 ## Innhold  
-* [2022 Forside](/generalforsamlinger/2022)   - Forside
-* [2022 Forretningsorden](/generalforsamlinger/2022/forretningsorden) - Forretningsorden
-* [2022 Dagsorden](/generalforsamlinger/2022/dagsorden) - Dagsorden for generalforsamlingen
-* [2022 Årsberetninger](/generalforsamlinger/2022/aarsberetninger) - Årsberetninger
-* [2022 Saksforslag](/generalforsamlinger/2022/saksforslag) - Alle innsendte saker vil bli tatt opp.
-* [2022 Vedtektsforslag](/generalforsamlinger/2022/vedtekstforslag) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
-* [2022 Kandidater](/generalforsamlinger/2022/valg) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
+* [2022 Forside](/generalforsamlinger/2022/)   - Forside
+* [2022 Forretningsorden](/generalforsamlinger/2022/forretningsorden/) - Forretningsorden
+* [2022 Dagsorden](/generalforsamlinger/2022/dagsorden/) - Dagsorden for generalforsamlingen
+* [2022 Årsberetninger](/generalforsamlinger/2022/aarsberetninger/) - Årsberetninger
+* [2022 Saksforslag](/generalforsamlinger/2022/saksforslag/) - Alle innsendte saker vil bli tatt opp.
+* [2022 Vedtektsforslag](/generalforsamlinger/2022/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+* [2022 Kandidater](/generalforsamlinger/2022/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret? 
 
 Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 16. februar kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp. 
 
