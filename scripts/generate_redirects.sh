@@ -55,6 +55,7 @@ git --no-pager diff -M30 --diff-filter=R --name-status -z "$BASE" "$HEAD" -- |{
     from_clean="${from%/}"
 
     printf '%s/ %s 301\n' "$from_clean" "$to"
+    printf '%s %s 301\n' "$from_clean" "$to"
 
   done
 } >> "$OUTFILE"
