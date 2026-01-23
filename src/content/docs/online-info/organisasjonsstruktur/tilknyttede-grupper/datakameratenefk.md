@@ -2,7 +2,7 @@
 title: "Datakameratene FK"
 ---
 
-Datakameratene FK Gløshaugen er en fotballklubb primært for studenter ved linjene datateknikk, kommunikasjonsteknologi og informatikk ved NTNU. 
+Datakameratene FK Gløshaugen er en fotballklubb primært for studenter ved linjene Datateknologi & Cybersikkerhet og datakommunikasjon ved NTNU. 
 Fotballklubben består av et styre og to avdelinger; herreavdelingen og kvinneavdelingen. 
 Klubben har ingen direkte tilknytning til Online og Abakus, men er et fint samlingspunkt for studenter fra de to linjeforeningene. 
  
@@ -12,7 +12,7 @@ Herreavdelingen, som opprinnelig var den eneste avdelingen i klubben, har ett fo
 
 **11’er laget**
 
-Dette er hovedlaget til Datakameratene. Vi kjører ukentlige treninger, som oftest på Salmarbanen, med godt og variert nivå. Datakameratene har tidligere hatt gode resultater i studentligaen  [tsff.no](http://tsff.no/)  og satser på å ta ligagull hvert år. I 18/19 sesongen gikk vi helt til topps!
+Dette er hovedlaget til Datakameratene. Vi kjører ukentlige treninger, som oftest på Salmarbanen, med godt og variert nivå. Datakameratene har hatt gode resultater i studentligaen  [tsff.no](http://tsff.no/)  og satser på å ta ligagull hvert år. Vi vant ligagull i 18/19 sesongen og gjentok suksessen i sesongen 23/24!
 
 11’er laget har ingen fastsatt rekrutteringsprosess. Laget håndplukkes basert på prestasjoner og deltakelse på fellestreningene, som er åpne for alle. Følg med i facebook-gruppen for informasjon om treningstider.  [https://www.facebook.com/groups/231082833623613/](https://www.facebook.com/groups/231082833623613/)
 
@@ -33,11 +33,12 @@ Kvinneavdelingen ble opprettet i 2011, og har et fotballag som spiller både 5-e
 
 Rekruttering foregår i hovedsak to ganger i året, på våren før seriestart og i perioden etter fadderukene, men ta kontakt dersom du plutselig får lyst til å være med, eller dersom du bare ønsker mer informasjon.  Alle er selvfølgelig hjertelig velkommen, enten man planlegger å være med på kamper, eller bare ønsker å være med på treninger. 
 
-Leder av klubben: [Geertheihan Elamurugan](https://www.facebook.com/geertheihan.elamurugan)(data) 
+Leder av klubben: Mads Nøtland
 
-**Ansvarlige herrelaget:** Johan Knudsen (data) 
+**Ansvarlige herrelaget:** Johan Knudsen (data)
+**Trener herrelag:** Herman Engelstad Kristiansen
 
-**Ansvarlige kvinnelaget:** Miriam Reshane
+**Ansvarlig kvinnelaget:** Maren Nodenes Fimland
 
 **E-post:**
 

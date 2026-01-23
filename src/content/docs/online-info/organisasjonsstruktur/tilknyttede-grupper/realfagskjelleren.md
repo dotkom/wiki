@@ -20,6 +20,13 @@ Realfagskjelleren har en kontaktperson i hver linjeforening som fungerer som bin
 Ellers kan kjellerstyret bli kontaktet på [styret@realfagskjelleren.no](mailto:styret@realfagskjelleren.no) det er også mulig å kontakte de på Facebook siden [deres](https://www.facebook.com/Realfagskjelleren/)
 
 
+**Æresmedlemsorden** - Tildeles eksterne personer som anerkjenning for fortjenestefullt virke innenfor Realfagskjelleren.
+Liste over alle som er kåret kan du finne [her](https://docs.google.com/spreadsheets/d/1H2x_WtzX3AXRUrhQKFTpFB_LceiU7S9c/edit?gid=1897642262#gid=1897642262)
+
+**Riddere av Pi-damens bord** - Ordenen for interne medlemmer som har utmerket seg eksepsjonelt innenfor Realfagskjellerens drift og virke.
+Liste over alle som er kåret kan du finne [her](https://docs.google.com/spreadsheets/d/1kPqfE2X5Hdnddqu1T_OxjAJ5pTJalMwa/edit?gid=185185711#gid=185185711)
+
+
 # Historie
 
 I 2000 ble det åpnet for at andre linjeforeninger utenom siv ing-linjene kunne søke om egen kjellerbar på Moholt, Online søkte samtidig som Volvox & Alkymisten, og da det var en kjeller som var ledig ble de enige om å dele den, slik fikk de tildelt sin egen kjeller på Moholt i Herman Krags veg 15, ett år senere, den 16. Mai 2001, var den offisielle åpningen.
@@ -38,6 +45,18 @@ Kjelleren fortsatte å holde åpent best mulig, selv under Korona pandemien 2020
 
 
 ## Onlinere i Kjellerstyret
+### 2025/2026
+* Even Tveit (Kjellerkontakt)
+* Tor Jacob Neple (SoMe ansvarlig)
+* Bjørnar Johansen Løvland
+* Anders Reed
+
+### 2024/2025
+* Gina Bjøralt Giske (Kjellerkontakt)
+* Vebjørn Nyvoll (Leder)
+* Tor Jacob Neple (Nestleder)
+* Lukas Thrane
+
 ### 2022/2023
 * Tor Jacob Neple
 * August Skarfjord Nyheim (Kjellerkontakt)
@@ -46,8 +65,7 @@ Kjelleren fortsatte å holde åpent best mulig, selv under Korona pandemien 2020
 * Lea Aas-Jakobsen
 * Vebjørn Nyvoll
 
-
-###2021/2022
+### 2021/2022
 * Nicolai Dalaaker (Kjellerkontakt)
 * Martin Skatvedt (Nestleder)
 * Tor Jacob Neple (Økonomiansvarlig)
@@ -55,14 +73,14 @@ Kjelleren fortsatte å holde åpent best mulig, selv under Korona pandemien 2020
 * Elin Bjerve
 * Magnus Byrkjeland
 
-###2020/2021
+### 2020/2021
 * Nicolai Dalaaker (Kjellerkontakt)
 * Marius Lerstein
 * Martin Skatvedt
 * Jørgen Hoel Lund
 * Tor Jacob Neple
 
-###2019/2020
+### 2019/2020
 * Sigurd Oxaas Wie
 * Sander Lindberg  (Kjellersjef)
 * Nicolai Dalaaker (Kjellerkontakt)
@@ -70,14 +88,14 @@ Kjelleren fortsatte å holde åpent best mulig, selv under Korona pandemien 2020
 * Marius Lerstein
 
 
-###2018/2019
+### 2018/2019
 * Sigurd Oxaas Wie (Økonomiansvarlig)
 * Sander Lindberg  (Kjellerkontakt)
 * Ida Høyland
 * Nicolai Dalaaker
 * Vivi Svendsen
 
-###2017/2018
+### 2017/2018
 
 * Martin Bjerke (Kjellerkontakt Høst)
 * Andreas F. Eikeland (Kjellersjef)
