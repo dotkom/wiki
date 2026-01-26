@@ -1,5 +1,5 @@
 ---
-title: "Historien om Backlog"
+title: "Backlog"
 ---
 
 ## Historie
