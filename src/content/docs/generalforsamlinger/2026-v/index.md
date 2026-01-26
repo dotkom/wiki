@@ -10,7 +10,7 @@ date: 2026-03-02
 - [2026 Vår Dagsorden](/generalforsamlinger/2026-v/dagsorden/) - Dagsorden for generalforsamlingen
 - [2026 Vår Halvårsberetninger](/generalforsamlinger/2026-v/aarsberetninger/) - Halvårsberetninger
 - [2026 Vår Saksforslag](/generalforsamlinger/2026-v/saksforslag/) - Alle innsendte saker vil bli tatt opp.
-- [2026 Vår Vedtektsforslag](/generalforsamlinger/2026-v/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2026 Vår Vedtektsforslag](/generalforsamlinger/2026-v/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 - [2026 Vår Kandidater](/generalforsamlinger/2026-v/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 ## Dokumenter fra årets generalforsamling
