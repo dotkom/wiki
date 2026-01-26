@@ -20,6 +20,8 @@ Presentasjon: [Generalforsamling 2026 Vår](https://docs.google.com/presentation
 Onlines vedtekter GitHub: [Vedtekter Online](https://github.com/dotkom/Onlines_Vedtekter/blob/master/vedtekter.adoc)  
 Onlines fonds vedtekter: [Vedtekter Fondet](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 
+Referat fra Generalforsamling våren 2026: [Referat](https://docs.google.com/document/d/1juIuwaufRl7TwwlfIH9Y1hdneXGvWjLic69rZycHeVY/edit?usp=sharing)
+
 ## Onlines vedtekter og referat fra forrige generalforsamling
 
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)  
