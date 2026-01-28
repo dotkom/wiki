@@ -8,6 +8,10 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ## Møtereferater
 
+### Vår 2026
+
+- [2026-01-27-stormote](2026/2026-01-27-stormote) - Semesterets første stormote!
+
 ### Høst 2025
 
 - [2025-11-20-stormote](2025/2025-11-20-stormote) - Semesterets siste stormote!
