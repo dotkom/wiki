@@ -12,6 +12,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ### Vår 2026
 
 - [2026-01-12](2026/2026-01-12) - Nytt år, nye saker
+- [2026-01-27](2026/2026-01-27) - Nytt møte, samme år
 
 ### Høst 2025
 
