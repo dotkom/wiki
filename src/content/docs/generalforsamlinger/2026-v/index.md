@@ -53,6 +53,23 @@ Om du ønsker å stille til et Hovedstyreverv kan du skrive deg opp på [Kandida
 
 Vel møtt!
 
+## Onlinefondets generalforsamling
+
+I forbindelse med Onlines generalforsamling avholdes også generalforsamling i Onlinefondet, 2. mars 2026, kl. 16:15 i S5, Sentralbygg 2.
+
+Generalforsamlingen er fondets øverste organ og gir medlemmene mulighet til å påvirke hvordan Onlinefondets midler forvaltes videre.
+
+På generalforsamlingen vil det blant annet gjennomføres valg til Fondstyret i Onlinefondet. Mer informasjon finner du på [2026 Vår Kandidater](/generalforsamlinger/2026-v/valg/).
+
+Saksforslag til Fondstyret kan sendes til [fond@online.ntnu.no](mailto:fond@online.ntnu.no).
+Vedtektsforslag til Onlinefondet sendes til [fond@online.ntnu.no](mailto:fond@online.ntnu.no) senest 16. februar 2026 kl. 23:59. Forslagene må være ferdig formulert slik at de kan settes direkte inn i vedtektene, og må fremmes av forslagsstiller på generalforsamlingen. Det vil ikke være mulig å gjøre endringer i vedtektsforslagene under generalforsamlingen.
+
+Alle medlemmer av Online er velkommen til å delta.
+
+Vel møtt!
+
+Mer informasjon om fondet finner du på [onlinefondet.no](onlinefondet.no)
+
 ## Link til stemmesystem
 
 [https://vedtatt.no/](https://vedtatt.no/)
