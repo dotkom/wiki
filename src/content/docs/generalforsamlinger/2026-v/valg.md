@@ -22,7 +22,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Hovedstyret er:**
 
-- _Leder:_ Andrej Lazic
+- _Leder:_ Andrej Lazic, Synne Lien Arvesen
 - _Nestleder:_ 
 - _Økonomiansvarlig:_
 - _3 Styremedlemmer:_ Tone-Lill Aarsheim
