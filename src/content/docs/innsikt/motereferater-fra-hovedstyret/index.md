@@ -10,6 +10,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Vår 2026
+- [2026-02-03](2026/2026-02-03) - Nye blesteregler
 - [2026-01-27](2026/2026-01-27) - Nytt møte, samme år
 - [2026-01-20](2026/2026-01-20) - Nytt år, nye kaker
 - [2026-01-12](2026/2026-01-12) - Nytt år, nye saker
