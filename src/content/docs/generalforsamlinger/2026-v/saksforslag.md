@@ -10,6 +10,7 @@ title: "Saksforslag våren 2026"
 - [2026 Vår Halvårsberetninger](/generalforsamlinger/2026-v/aarsberetninger/) - Halvårsberetninger
 - [2026 Vår Saksforslag](/generalforsamlinger/2026-v/saksforslag/) - Alle innsendte saker vil bli tatt opp.
 - [2026 Vår Vedtektsforslag](/generalforsamlinger/2026-v/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2026 Vår Diskusjonssak](/generalforsamlinger/2026-v/diskusjonssak/) - Saker som skal diskuteres men ikke stemmes over 
 - [2026 Vår Kandidater](/generalforsamlinger/2026-v/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 16. februar kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp.
@@ -31,4 +32,3 @@ _Bakgrunn for saken_
 **Forslag:**
 
 _Forslaget du ønsker å fremme_
-

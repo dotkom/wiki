@@ -11,6 +11,7 @@ date: 2026-03-02
 - [2026 Vår Halvårsberetninger](/generalforsamlinger/2026-v/aarsberetninger/) - Halvårsberetninger
 - [2026 Vår Saksforslag](/generalforsamlinger/2026-v/saksforslag/) - Alle innsendte saker vil bli tatt opp.
 - [2026 Vår Vedtektsforslag](/generalforsamlinger/2026-v/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2026 Vår Diskusjonssak](/generalforsamlinger/2026-v/diskusjonssak/) - Saker som skal diskuteres men ikke stemmes over 
 - [2026 Vår Kandidater](/generalforsamlinger/2026-v/valg/) - Er du klar for et verv i Hovedstyret eller Fondstyret?
 
 ## Dokumenter fra årets generalforsamling
@@ -31,8 +32,8 @@ Referat fra Generalforsamling Våren 2025: [Referat](/attachments/Referat-Online
 
 ## Regnskap 2025 og budsjett 2026
 
-Kommer!
-
+- Budsjett 2026: [Budsjett](https://docs.google.com/spreadsheets/d/1v-xb7RW-L0i1ap5Hu8lusjQm0YYz1JNv/edit?usp=sharing&ouid=112418589276962906727&rtpof=true&sd=true)
+  
 ## Informasjon
 
 **Hva:** Onlines generalforsamling
