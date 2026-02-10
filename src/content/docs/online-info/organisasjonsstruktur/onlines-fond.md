@@ -2,11 +2,14 @@
 title: "Onlines fond"
 ---
 
+Se [www.onlinefondet.no](www.onlinefondet.no) for oppdatert informasjon om medlemmer, vedteter og informasjon om søknader.
+
 Onlines fondstyre
 ==================
 
 |År|Økonomiansvarlig Online|Onlinemedlem 1|Onlinemedlem 2|Tidligere HS 1|Tidligere HS 2|Ridder 1|Ridder 2|
 --|--|--|--|--|--|--|--|
+|2025|Johannes Hage|Mattis Hattestad|Brinje Marie Haugli|Frederik Farstad|Magnus Ouren (leder)|Carolina Gunnesdal|Duvara Nishaharan|
 |2024|Jacob Gullesen Hagen|Magnus Byrkjeland (Leder)|Brinje Marie Haugli|Maiken Lie|Magnus Ouren|Thea Karin Fladby|Duvara Nishaharan|
 |2023|Johanna Wilmers|Magnus Byrkjeland|Hilmir Straumland (Leder)|Maiken Lie|William Andersson|Thea Karin Fladby|Johanne Tronstad|
 |2022|Henrik Horten Hegli|Anh-Kha Vo Nguyen (tok over for Jonathan)|Hilmir Straumland|Henrik Giil Liisberg (Leder)|William Andersson|Michael Johansen|Johanne Tronstad|
@@ -16,45 +19,27 @@ Onlines fondstyre
 |2018|Christian Nyvoll|Tord Standnes|Sigurd Oxaas Wie|Sondre Widmark|Taran Ruge|Henning Wold|Sverre Bjørke|
 |2017|Christoffer Skar Lofsberg|Tord Standnes|n/a|Sondre Widmark|n/a|Henning Wold|n/a|
 
-
-Søknad om støtte fra Onlines fond
-==================================
-Alle Onlines medlemmer kan søke Onlines fond om penger. Søknaden skal være velbegrunnet og ha som hensikt å komme flest mulig medlemmer av Online til gode. For at Fondstyre skal kunne ta en god avgjørelse trenger vi en helhetlig forståelse av hvem dere er og hva dere gjør. Skriv gjerne litt for mye, enn litt for lite. 
-Søknaden er kun gyldig dersom det søkes om mellom 10 000 kr og 100 000 kr.
-
-Dette skal være med i søknaden:
-
-- Beskriv av dere selv
-- Hva midlene skal brukes til
-- Hvordan midlene går onlinere til gode
-- Aktivitetsplan
-- Budsjett
-
-Søknader sendes til: fond@online.ntnu.no
-
-## Styredokument
-
-Fondstyrets styredokument kan man finne [her](https://docs.google.com/document/d/1m9z9iEusRxHdKggtVNthJ37A3WJsQ-tGNSzo0pO9hy8/edit?usp=sharing).
-
 ## Oversikt over godkjente søknader
+
+**NB! Denne oversikten inneholder tidligere søknader, men er nå erstattet med ny oppdatert side på [www.onlinefondet.no](www.onlinefondet.no).**
 
 Dato innvilget | Dato søkt | Mottaker | Formål | Innvilget beløp | Søkt beløp | Søknad 
 ------|-------|-------|--------|-------|-------|------
-11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [Søknad pdf vedlegg 542](/attachments/542-fond_soknad_online_band.pdf)
-13. des 2018 | 31. okt 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [Søknad pdf vedlegg 543](/attachments/543-fond_soknad_kaffetrakter.pdf)
-13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [Søknad pdf vedlegg 544](/attachments/544-fond_soknad_x-sport_surfetur.pdf)
-26. mai 2019 | 4. april 2019 | Linjeforeningen Online v/ arrkom | Lydanlegg for sosiale arrangementer | 8700 kr | 18 392 kr | 
-2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | [vedlegg 716](/attachments/716-uketog_søknad.pdf)
-24. Oktober 2019 | 30. September 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [vedlegg 717](/attachments/717-søknad_fond.pdf)
-10. april 2020|12. februar 2020|Trikom|Støtte til oppussing av kontoret| 22 000 kr (11 700 kr betinget) |27 800 kr| |
-15. september 2020| 7. september 2020 | RFK | Nytt kassasystem og nytt lydsystem | 24 312,25 kr | 24 312,25 kr |
-18. Mai 2021| 9. Mai 2021 | Jubkom | Senke billettprisene på jubileum | 86 000 kr | 86 000 kr |
-8. Oktober 2021| 7. Oktober 2021 | Arrkom | Transport til Åre 2022 (AVLYST) | 76 000 kr | 76 000 kr |
-19. Oktober 2021| 16. Oktober 2021 | Ekskom | Ekskursjon til Japan (AVLYST) | 75 000 kr | 75 000 kr | vedegg 806 (mangler)
-5. April 2022| 4. April 2022 | Floppy Disk | Innkjøp av frisbeegolf-utstyr | 10 157 kr | 10 157 kr | [Søknad pdf vedlegg 822](/attachments/822-E-post_for_Linjeforeningen_Online_-_Floppy_Disk_Søknad_fondet_for_oppstart_av_interessegruppe.pdf)
-12. September 2022| 17. Oktober 2022 | RFK | Nytt lysdesign | 30 000 kr | 41 000 kr | [Søknad pdf vedlegg 835](/attachments/835-søknad_onlinefondet_RFK_reduced.pdf)
-30. September 2022| 12. Oktober 2022 | Arrkom | Transport til Åre | 88 000 kr | 88 000 kr |
-18. Oktober 2022| 19. Oktober 2022 | Trikom | Ny sofa til kontoret | 20 000 kr | 20 000 kr |
+|11. mai 2018 | 17. april 2018 | Øvre P15 Spællemannslag (senere kjent som Output) | Onlines linjeforeningsband | 25 000 kr | 24 733 kr | [Søknad pdf vedlegg 542](/attachments/542-fond_soknad_online_band.pdf)
+|13. des 2018 | 31. okt 2018 | Linjeforeningen Online | Ny kaffetrakter på Online kontoret | 21 720 kr | 21 720 kr | [Søknad pdf vedlegg 543](/attachments/543-fond_soknad_kaffetrakter.pdf)
+|13. des 2018 | 13. nov 2018 | X-sport | Surfetur til Portugal | 500 kr/deltager inntil 10 000 kr | 10 000 kr | [Søknad pdf vedlegg 544](/attachments/544-fond_soknad_x-sport_surfetur.pdf)
+|26. mai 2019 | 4. april 2019 | Linjeforeningen Online v/ arrkom | Lydanlegg for sosiale arrangementer | 8700 kr | 18 392 kr | 
+|2. sept 2019 | 29. aug 2019 | Linjeforeningen Online | Bygging av UKE-tog-flåte | 18 000 kr | 18 000 kr | [vedlegg 716](/attachments/716-uketog_søknad.pdf)|
+|24. Oktober 2019 | 30. September 2019 | Online IL| Støtte for å arrangere ting| 18 000 kr| 35 000 kr | [vedlegg 717](/attachments/717-søknad_fond.pdf)|
+|10. april 2020|12. februar 2020|Trikom|Støtte til oppussing av kontoret| 22 000 kr (11 700 kr betinget) |27 800 kr| |
+|15. september 2020| 7. september 2020 | RFK | Nytt kassasystem og nytt lydsystem | 24 312,25 kr | 24 312,25 kr |
+|18. Mai 2021| 9. Mai 2021 | Jubkom | Senke billettprisene på jubileum | 86 000 kr | 86 000 kr |
+|8. Oktober 2021| 7. Oktober 2021 | Arrkom | Transport til Åre 2022 (AVLYST) | 76 000 kr | 76 000 kr |
+|19. Oktober 2021| 16. Oktober 2021 | Ekskom | Ekskursjon til Japan (AVLYST) | 75 000 kr | 75 000 kr | vedegg 806 (mangler) |
+|5. April 2022| 4. April 2022 | Floppy Disk | Innkjøp av frisbeegolf-utstyr | 10 157 kr | 10 157 kr | [Søknad pdf vedlegg 822](/attachments/822-E-post_for_Linjeforeningen_Online_-_Floppy_Disk_Søknad_fondet_for_oppstart_av_interessegruppe.pdf)
+|12. September 2022| 17. Oktober 2022 | RFK | Nytt lysdesign | 30 000 kr | 41 000 kr | [Søknad pdf vedlegg 835](/attachments/835-søknad_onlinefondet_RFK_reduced.pdf)
+|30. September 2022| 12. Oktober 2022 | Arrkom | Transport til Åre | 88 000 kr | 88 000 kr |
+|18. Oktober 2022| 19. Oktober 2022 | Trikom | Ny sofa til kontoret | 20 000 kr | 20 000 kr |
 
 
 ## Søknader
