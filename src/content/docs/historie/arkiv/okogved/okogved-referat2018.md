@@ -8,7 +8,7 @@ title: "Referat økonomi- og vedtektskveld 2018"
 
 *Referenter: Taran og Peter*
 
-*Dagsorden: **[https://online.ntnu.no/wiki/online/okogved/dagsorden18*/](/innsikt/okonomi/okogved/dagsorden18/)* *
+*Dagsorden: **[https://online.ntnu.no/wiki/online/okogved/dagsorden18*/](/historie/arkiv/okogved/dagsorden18/)* *
 
 *Sted: R9*
 
