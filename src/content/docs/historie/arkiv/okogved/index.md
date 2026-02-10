@@ -27,27 +27,27 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden høsten 2022 finner sted 21. September kl. 16.15 i Verkstedteknisk: VE1.**
 
-- [Dagsorden](/innsikt/okonomi/okogved/dagsorden22h/)
+- [Dagsorden](/historie/arkiv/okogved/dagsorden22h/)
 - [Vedtektsforslag](/generalforsamlinger/2022-h/vedtekstforslag/)
 - [Saksforslag](/generalforsamlinger/2022-h/saksforslag/)
 - [vedlegg 828](/attachments/828-Referat_vedtektskveld_høsten_2022.pdf)
 
 **Økonomi- og vedtektskvelden våren 2022 finner sted 01. februar kl. 16.15 i EL6 og digitalt.**
 
-- [Dagsorden](/innsikt/okonomi/okogved/dagsorden22/)
+- [Dagsorden](/historie/arkiv/okogved/dagsorden22/)
 - [Vedtektsforslag](/generalforsamlinger/2022/vedtekstforslag/)
 - [Saksforslag](/generalforsamlinger/2022/saksforslag/)
 
 **Økonomi- og vedtektskvelden 2021 finner sted 09. februar kl. 16.15 digitalt.**
 
-- [Dagsorden](/innsikt/okonomi/okogved/dagsorden21/)
+- [Dagsorden](/historie/arkiv/okogved/dagsorden21/)
 - [Vedtektsforslag](/generalforsamlinger/2021/vedtekstforslag/)
 - [Saksforslag](/generalforsamlinger/2021/saksforslag/)
 - [Referat fra økonomi- og vedtektskvelden 2021](okogved-referat2021)
 
 **Økonomi- og vedtektskvelden 2019 finner sted 21. februar kl. 17 i R8.**
 
-- [Dagsorden](/innsikt/okonomi/okogved/dagsorden19/)
+- [Dagsorden](/historie/arkiv/okogved/dagsorden19/)
 - [Budsjett](https://docs.google.com/spreadsheets/d/1I-4p_l02Y_ZThvSMCD9HRgu3ApbARie46-_FX-1mEBw/edit?usp=sharing)
 - [Regnskap](https://docs.google.com/spreadsheets/d/1BDvtP80nsKV5kvy6gEhzqtSGr50tb1bmXXgxjpXdTBU/edit?usp=sharing)
 - [Vedtektsforslag](/generalforsamlinger/2019/vedtekstforslag/)
@@ -56,7 +56,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden 2018 finner sted 18. februar kl. 17 i R9.**
 
-- [Dagsorden](/innsikt/okonomi/okogved/dagsorden18/)
+- [Dagsorden](/historie/arkiv/okogved/dagsorden18/)
 - Budsjett
 - Regnskap
 - [Vedtektsforslag](/generalforsamlinger/2018/vedtekstforslag/)
@@ -65,7 +65,7 @@ Onlines første økonomi- og vedtektskveld ble arrangert i 2016.
 
 **Økonomi- og vedtektskvelden 2017 finner sted 30. mars kl. 15 i R7.**
 
-- [Dagsorden](/innsikt/okonomi/okogved/dagsorden/)
+- [Dagsorden](/historie/arkiv/okogved/dagsorden/)
 - [Budsjett](https://docs.google.com/spreadsheets/d/1exCJ_8gr1KrS7Bv4N-JnjUBoUKJ56eaPp4wp0mvs9is/edit?usp=sharing)
 - Regnskap
 - [Vedtektsforslag](/generalforsamlinger/2017/vedtekstforslag/)

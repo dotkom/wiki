@@ -808,8 +808,13 @@
 /info/innsikt-og-interface/nodekomiteer /online-info/organisasjonsstruktur/nodekomiteer/ 301
 /info/innsikt-og-interface/notifier/ /historie/arkiv/notifier/ 301
 /info/innsikt-og-interface/notifier /historie/arkiv/notifier/ 301
-/info/innsikt-og-interface/onlines-fond/ /innsikt/okonomi/onlines-fond/ 301
-/info/innsikt-og-interface/onlines-fond /innsikt/okonomi/onlines-fond/ 301
+
+/info/innsikt-og-interface/onlines-fond/ /online-info/organisasjonsstruktur/onlines-fond/ 301
+/info/innsikt-og-interface/onlines-fond /online-info/organisasjonsstruktur/onlines-fond/ 301
+
+/innsikt/okonomi/onlines-fond/ /online-info/organisasjonsstruktur/onlines-fond/ 301
+/innsikt/okonomi/onlines-fond /online-info/organisasjonsstruktur/onlines-fond/ 301
+
 /info/innsikt-og-interface/prikkeregler/ /online-info/prikkeregler/ 301
 /info/innsikt-og-interface/prikkeregler /online-info/prikkeregler/ 301
 /info/innsikt-og-interface/stillingstitler-pa-engelsk/ /online-info/stillingstitler-pa-engelsk/ 301
@@ -1116,28 +1121,52 @@
 /kontoret/kontorvakt /online-info/kontoret/kontorordningen/ 301
 /linjeforening/e-postlister/ /e-postlister/ 301
 /linjeforening/e-postlister /e-postlister/ 301
-/okogved/ /innsikt/okonomi/okogved/ 301
-/okogved /innsikt/okonomi/okogved/ 301
-/okogved/dagsorden/ /innsikt/okonomi/okogved/dagsorden/ 301
-/okogved/dagsorden /innsikt/okonomi/okogved/dagsorden/ 301
-/okogved/dagsorden18/ /innsikt/okonomi/okogved/dagsorden18/ 301
-/okogved/dagsorden18 /innsikt/okonomi/okogved/dagsorden18/ 301
-/okogved/dagsorden19/ /innsikt/okonomi/okogved/dagsorden19/ 301
-/okogved/dagsorden19 /innsikt/okonomi/okogved/dagsorden19/ 301
-/okogved/dagsorden21/ /innsikt/okonomi/okogved/dagsorden21/ 301
-/okogved/dagsorden21 /innsikt/okonomi/okogved/dagsorden21/ 301
-/okogved/dagsorden22/ /innsikt/okonomi/okogved/dagsorden22/ 301
-/okogved/dagsorden22 /innsikt/okonomi/okogved/dagsorden22/ 301
-/okogved/dagsorden22h/ /innsikt/okonomi/okogved/dagsorden22h/ 301
-/okogved/dagsorden22h /innsikt/okonomi/okogved/dagsorden22h/ 301
-/okogved/dagsorden23v/ /innsikt/okonomi/okogved/dagsorden23v/ 301
-/okogved/dagsorden23v /innsikt/okonomi/okogved/dagsorden23v/ 301
-/okogved/okogved-referat2017/ /innsikt/okonomi/okogved/okogved-referat2017/ 301
-/okogved/okogved-referat2017 /innsikt/okonomi/okogved/okogved-referat2017/ 301
-/okogved/okogved-referat2018/ /innsikt/okonomi/okogved/okogved-referat2018/ 301
-/okogved/okogved-referat2018 /innsikt/okonomi/okogved/okogved-referat2018/ 301
-/okogved/okogved-referat2021/ /innsikt/okonomi/okogved/okogved-referat2021/ 301
-/okogved/okogved-referat2021 /innsikt/okonomi/okogved/okogved-referat2021/ 301
+
+/okogved/ /historie/arkiv/okogved/ 301
+/okogved /historie/arkiv/okogved/ 301
+/okogved/dagsorden/ /historie/arkiv/okogved/dagsorden/ 301
+/okogved/dagsorden /historie/arkiv/okogved/dagsorden/ 301
+/okogved/dagsorden18/ /historie/arkiv/okogved/dagsorden18/ 301
+/okogved/dagsorden18 /historie/arkiv/okogved/dagsorden18/ 301
+/okogved/dagsorden19/ /historie/arkiv/okogved/dagsorden19/ 301
+/okogved/dagsorden19 /historie/arkiv/okogved/dagsorden19/ 301
+/okogved/dagsorden21/ /historie/arkiv/okogved/dagsorden21/ 301
+/okogved/dagsorden21 /historie/arkiv/okogved/dagsorden21/ 301
+/okogved/dagsorden22/ /historie/arkiv/okogved/dagsorden22/ 301
+/okogved/dagsorden22 /historie/arkiv/okogved/dagsorden22/ 301
+/okogved/dagsorden22h/ /historie/arkiv/okogved/dagsorden22h/ 301
+/okogved/dagsorden22h /historie/arkiv/okogved/dagsorden22h/ 301
+/okogved/dagsorden23v/ /historie/arkiv/okogved/dagsorden23v/ 301
+/okogved/dagsorden23v /historie/arkiv/okogved/dagsorden23v/ 301
+/okogved/okogved-referat2017/ /historie/arkiv/okogved/okogved-referat2017/ 301
+/okogved/okogved-referat2017 /historie/arkiv/okogved/okogved-referat2017/ 301
+/okogved/okogved-referat2018/ /historie/arkiv/okogved/okogved-referat2018/ 301
+/okogved/okogved-referat2018 /historie/arkiv/okogved/okogved-referat2018/ 301
+/okogved/okogved-referat2021/ /historie/arkiv/okogved/okogved-referat2021/ 301
+/okogved/okogved-referat2021 /historie/arkiv/okogved/okogved-referat2021/ 301
+
+/innsikt/okonomi/okogved/ /historie/arkiv/okogved/ 301
+/innsikt/okonomi/okogved /historie/arkiv/okogved/ 301
+/innsikt/okonomi/okogved/dagsorden/ /historie/arkiv/okogved/dagsorden/ 301
+/innsikt/okonomi/okogved/dagsorden /historie/arkiv/okogved/dagsorden/ 301
+/innsikt/okonomi/okogved/dagsorden18/ /historie/arkiv/okogved/dagsorden18/ 301
+/innsikt/okonomi/okogved/dagsorden18 /historie/arkiv/okogved/dagsorden18/ 301
+/innsikt/okonomi/okogved/dagsorden19/ /historie/arkiv/okogved/dagsorden19/ 301
+/innsikt/okonomi/okogved/dagsorden19 /historie/arkiv/okogved/dagsorden19/ 301
+/innsikt/okonomi/okogved/dagsorden21/ /historie/arkiv/okogved/dagsorden21/ 301
+/innsikt/okonomi/okogved/dagsorden21 /historie/arkiv/okogved/dagsorden21/ 301
+/innsikt/okonomi/okogved/dagsorden22/ /historie/arkiv/okogved/dagsorden22/ 301
+/innsikt/okonomi/okogved/dagsorden22 /historie/arkiv/okogved/dagsorden22/ 301
+/innsikt/okonomi/okogved/dagsorden22h/ /historie/arkiv/okogved/dagsorden22h/ 301
+/innsikt/okonomi/okogved/dagsorden22h /historie/arkiv/okogved/dagsorden22h/ 301
+/innsikt/okonomi/okogved/dagsorden23v/ /historie/arkiv/okogved/dagsorden23v/ 301
+/innsikt/okonomi/okogved/dagsorden23v /historie/arkiv/okogved/dagsorden23v/ 301
+/innsikt/okonomi/okogved/okogved-referat2017/ /historie/arkiv/okogved/okogved-referat2017/ 301
+/innsikt/okonomi/okogved/okogved-referat2017 /historie/arkiv/okogved/okogved-referat2017/ 301
+/innsikt/okonomi/okogved/okogved-referat2018/ /historie/arkiv/okogved/okogved-referat2018/ 301
+/innsikt/okonomi/okogved/okogved-referat2018 /historie/arkiv/okogved/okogved-referat2018/ 301
+/innsikt/okonomi/okogved/okogved-referat2021/ /historie/arkiv/okogved/okogved-referat2021/ 301
+/innsikt/okonomi/okogved/okogved-referat2021 /historie/arkiv/okogved/okogved-referat2021/ 301
 
 # Dynamic redirects (max 100)
 /en/* /:splat 301
