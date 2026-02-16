@@ -25,7 +25,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 - _Leder:_ Andrej Lazic, Synne Lien Arvesen
 - _Nestleder:_ 
-- _Økonomiansvarlig:_
+- _Økonomiansvarlig:_ Johannes Hage
 - _3 Styremedlemmer:_ Tone-Lill Aarsheim
 
 **De som har meldt interesse til Fondstyret er:**
