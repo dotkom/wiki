@@ -44,11 +44,11 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Arrkomleder:_ 
 - _Backlogleder:_
 - _Bankomleder:_ 
-- _Bedkomleder:_ 
+- _Bedkomleder:_ Guro Kiste Lotten
 - _Dotkomleder:_ 
-- _Debug:_ 
+- _Debug:_ Gurveer Singh
 - _Fagkomleder:_ 
 - _FeminIT-leder:_
 - _OIL-leder:_ 
 - _Prokomleder:_ 
-- _Trikomleder:_ 
+- _Trikomleder:_ Cecilie Uttian
