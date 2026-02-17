@@ -13,11 +13,13 @@ Hvis du har mistet pin eller dalje burde du kontakte hovedstyret, så hjelper de
 ### Æresmedlemsdaljen
 ![Bilde 275](../../../assets/images/275-aeresdalje.png)
 
-Æresdaljen i all sin prakt. Æresmedlemsdaljen er utvilsomt den daljen i Online som henger høyest. Æresmedlemsdaljen er kun produsert i ti eksemplarer og er per nå utdelt tre ganger. Daljen dels utelukkende ut på ekstra flotte arrangementer. De stolte bærere av Onlines æresdalje er:
+Æresdaljen i all sin prakt. Æresmedlemsdaljen er utvilsomt den daljen i Online som henger høyest. Æresmedlemsdaljen er kun produsert i ti eksemplarer og er per nå utdelt tre ganger. Daljen deles utelukkende ut på ekstra flotte arrangementer. De stolte bærere av Onlines æresdalje er:
 
 * Arvid Holme
 * Steinar Hagen
 * Erlend Klakegg Bergheim
+* Åsmund Eldhuset
+* Tjerand Silde
 
 Medaljen ble introdusert i 2010 og er designet av Magnus Line, tidligere leder av proKom. Den er produsert av [Musette](http://www.musette.no). Daljen er [showcaset](http://musette.no/no/produkter/medaljer/eksempler/) på deres nettsider og der kan man lese at:
 > Medaljen er en avansert variant i 3D-teknikk, laget i blankt gull belagt med sølv på motivet og banneret. Den blå bakgrunnen er laget i perlemor-effekt for å skape mer dybde i fargen.
