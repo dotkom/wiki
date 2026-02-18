@@ -30,7 +30,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Fondstyret er:**
 
-- _Onlinemedlem:_ Helene Urdahl Lotsberg
+- _Onlinemedlem:_ Helene Urdahl Lotsberg, Mats Jun Larsen
 - _Tidligere hovedstyremedlem:_
 - _Ridder:_
 
