@@ -31,7 +31,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Fondstyret er:**
 
 - _Onlinemedlem:_ Helene Urdahl Lotsberg, Mats Jun Larsen
-- _Tidligere hovedstyremedlem:_
+- _Tidligere hovedstyremedlem:_ Erik David Thiis-Evensen
 - _Ridder:_
 
 **De som har meldt interesse til Valgkomiteen er:**
