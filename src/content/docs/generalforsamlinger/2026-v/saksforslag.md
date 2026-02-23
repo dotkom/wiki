@@ -32,3 +32,39 @@ _Bakgrunn for saken_
 **Forslag:**
 
 _Forslaget du ønsker å fremme_
+
+
+## Sak 01: _Onlines holdning til samarbeid med våpenproduserende bedrifter v/ Live Stamnes Dyrland_
+
+**Bakgrunn:**
+
+_Bedriftskomiteens virke er å ivareta informatikkstudentenes beste, med mål om å blant annet gi Onlinere innblikk i hvilke karrieremuligheter som finnes på markedet. Det har i den siste tiden vært tatt opp på generalforsamling hos flere linjeforeninger om de aktuelle linjeforeningene ønsker å samarbeide med bedrifter som er en del av våpenindustrien på bakgrunn av etiske verdier. Bedriftskomiteen har hatt denne saken oppe for diskusjon internt tidligere, men har kommet frem til at vi som en komité ikke skal ta en avgjørelse på en etisk problemstilling på vegne av hele linjeforeningen. Derfor ønsker vi å avgjøre om Online stiller seg åpen for å samarbeide med bedrifter i våpenindustrien, eller om vi aktivt skal ta avstand fra dette._
+
+**Forslag:**
+
+_Online skal få lov til å samarbeide med relevante bedrifter til tross for at de er en del av våpenindustrien._
+
+
+## Sak 02: _(dersom Sakforslag 1 faller) Onlines holdning til samarbeid med våpenproduserende bedrifter v/ Live Stamnes Dyrland_
+
+**Forslag:**
+
+_Online skal få lov til å samarbeide med relevante avdelinger av bedrifter som er en del av våpenindustrien så lenge den relevante avdelingen ikke er en del av våpenindustrien._
+
+## Sak 03: _Kunne kjøpe inn tilstrekkelig mengde varer til Online sin kiosk v/ Mathea Liv Kvamme_
+
+**Forslag:**
+
+_Trivselskomiteen kan maksimalt kjøpe inn varer til kiosken for 200 000 kr per semester._
+
+## Sak 04: _Kunne tilby et bredere utvalg i kiosken v/ Mathea Liv Kvamme_
+
+**Forslag:**
+
+_Trivselskomiteen styrer selv hvilket antall varer vi skal ha i kiosken._
+
+## Sak 05: _Splittelse av Profil- og aviskomiteen_
+
+**Forslag:**
+
+_Profil- og aviskomité skal deles i to separate komiteer: Redaksjonen og Profilkomiteen (Prokom)_

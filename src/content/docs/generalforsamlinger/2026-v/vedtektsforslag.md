@@ -34,6 +34,65 @@ Til:
 _Ny vedtekt_
 
 
+## Vedtektsforslag 01: _Ordstyrers stemmerett v/ William Fagerstrøm_
+
+**Bakgrunn**:
+Dersom ordstyrer er medlem av linjeforeningen, kan det oppstå uklarhet rundt rollen som nøytral møteleder. For å sikre tillit til ordstyrers upartiskhet, foreslås det at ordstyrer frasier seg stemmeretten under generalforsamlingen.
+
+**Endre vedtekt _§5.5 Stemmeberettigelse og talerett_**
+
+Fra:  
+
+_**§5.5 Stemmeberettigelse og talerett**_
+
+_Ethvert medlem av linjeforeningen har talerett ved generalforsamlingen. Ethvert medlem av linjeforeningen som er tilstede når generalforsamlingen godkjenner stemmeberettigede har rett til å stemme. Medlemmer av linjeforeningen som ikke har mulighet til å møte i tide plikter å informere Hovedstyret og oppgi en tilstrekkelig grunn til forsinkelse. Generalforsamlingen kan vedta å gi disse personene stemmerett samtidig som stemmeberettigede godkjennes.Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer._
+
+Til:  
+
+_**§5.5 Stemmeberettigelse og talerett**_
+
+
+_Ethvert medlem av linjeforeningen har talerett ved generalforsamlingen. Ethvert medlem av linjeforeningen som er tilstede når generalforsamlingen godkjenner stemmeberettigede har rett til å stemme. Medlemmer av linjeforeningen som ikke har mulighet til å møte i tide plikter å informere Hovedstyret og oppgi en tilstrekkelig grunn til forsinkelse. Generalforsamlingen kan vedta å gi disse personene stemmerett samtidig som stemmeberettigede godkjennes. Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer.Ordstyrer frasier seg stemmeretten under generalforsamlingen._
+
+
+
+## Vedtektsforslag 02: _Mer nøyaktig skildring av Trivselskomiteen /v Mathea Liv Kvamme_
+
+**Endre vedtekt _§4.2.7 Trivselskomiteen_**
+
+Fra:  
+
+_**§4.2.7 Trivselskomiteen**_
+
+_Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes trikom._
+
+Til:  
+
+_**§4.2.7 Trivselskomiteen**_
+
+_Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen, ved å arrangere lavterskel arrangement i og utenfor skoletid. Komiteen har hovedansvar for linjeforeningskontoret, samt linjeforeningens kiosk. Komiteens navn forkortes trikom._
+
+## Vedtektsforslag 03: _(Dersom saksforslag 5 går gjennom) Splittelse av Profil- og aviskomiteen_
+
+**Endre vedtekt _§4.2.6 Profil- og aviskomiteen_**
+
+Fra:  
+_**§4.2.6 Profil- og aviskomiteen**_
+
+_Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell, samt gi ut linjeforeningens tidsskrift. Komiteens navn forkortes prokom._
+
+Til:  
+
+_**§4.2.6 Profilkomiteen**_
+
+_Komiteens hovedoppgave er å sikre kvalitet på profileringsmateriell. Komiteens navn forkortes prokom._
+
+og
+
+_**§4.2.12 Redaksjonen**_
+
+_Komiteens hovedoppgave er å gi ut linjeforeningens tidsskrift. Komiteens leder er linjeforeningens redaktør._
+
 # Forslag til Fondets vedtekter
 
 ## Vedtektsforslag 01: _Beløpsgrenser på søknader_
