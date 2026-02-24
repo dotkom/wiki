@@ -93,6 +93,21 @@ _**§4.2.12 Redaksjonen**_
 
 _Komiteens hovedoppgave er å gi ut linjeforeningens tidsskrift. Komiteens leder er linjeforeningens redaktør._
 
+## Vedtektsforslag 04: _Presisering av regler for tilbaketrekking av saksforslag_
+
+**Endre vedtekt _§5.1 Frister_**
+
+Fra:  
+_**§5.1 Frister**_
+
+_Innkalling skal sendes ut til medlemmene senest fire (4) uker før generalforsamlingen skal avholdes. Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest to (2) uker før generalforsamlingen skal avholdes. Fullstendig saksliste med forslag til vedtektsendringer skal tilgjengeliggjøres senest en (1) uke før møtedato. Denne skal også inneholde årsmelding, revidert regnskap, vedtatt budsjett for året og eventuelle andre relevante sakspapirer. Referat fra generalforsamlingen skal korrekturleses og godkjennes av Hovedstyret, og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest 14 dager etter generalforsamlingen._
+
+Til:  
+
+_**§5.1 Frister**_
+
+_Innkalling skal sendes ut til medlemmene senest fire (4) uker før generalforsamlingen skal avholdes. Saksforslag og forslag til vedtektsendringer sendes Hovedstyret senest to (2) uker før generalforsamlingen skal avholdes. Dersom innsender ønsker å trekke et saksforslag eller forslag til vedtektsendering etter utløpt innsendingsfrist, skal dette informeres til hovedstyret. Saken skal da åpnes for at andre medlemmer kan ta og fremme den ved interesse frem til utsending av saksliste. Dersom ingen har meldt interesse innen dette tidspunktet, kan saken strykes. Fullstendig saksliste med forslag til vedtektsendringer skal tilgjengeliggjøres senest en (1) uke før møtedato. Denne skal også inneholde årsmelding, revidert regnskap, vedtatt budsjett for året og eventuelle andre relevante sakspapirer. Referat fra generalforsamlingen skal korrekturleses og godkjennes av Hovedstyret, og sendes til medlemmene eller gjøres tilgjengelig for medlemmene senest 14 dager etter generalforsamlingen._
+
 # Forslag til Fondets vedtekter
 
 ## Vedtektsforslag 01: _Beløpsgrenser på søknader_
