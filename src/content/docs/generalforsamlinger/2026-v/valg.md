@@ -46,7 +46,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Bankomleder:_
 - _Bedkomleder:_ Guro Kiste Lotten
 - _Dotkomleder:_ Brage Andreas Hoven
-- _Debug:_ Gurveer Singh
+- _Debugleder:_ Gurveer Singh
 - _Fagkomleder:_ Ada Schweder Uglenes
 - _FeminIT-leder:_
 - _OIL-leder:_
