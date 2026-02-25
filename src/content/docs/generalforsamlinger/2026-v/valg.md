@@ -45,7 +45,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Backlogleder:_ Brinje Marie Haugli
 - _Bankomleder:_
 - _Bedkomleder:_ Guro Kiste Lotten
-- _Dotkomleder:_
+- _Dotkomleder:_ Brage Andreas Hoven
 - _Debug:_ Gurveer Singh
 - _Fagkomleder:_ Ada Schweder Uglenes
 - _FeminIT-leder:_
