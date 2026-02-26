@@ -40,7 +40,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som skal godkjennes som komitéledere er:**
 
-- _Appkomleder:_
+- _Appkomleder:_ Emma Fredriksen
 - _Arrkomleder:_
 - _Backlogleder:_ Brinje Marie Haugli
 - _Bankomleder:_
