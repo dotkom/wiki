@@ -31,7 +31,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 **De som har meldt interesse til Fondstyret er:**
 
 - _Onlinemedlem:_ Helene Urdahl Lotsberg, Mats Jun Larsen, Eeman Hashmi
-- _Tidligere hovedstyremedlem:_ Erik David Thiis-Evensen, Ola Munthe Vassbotn
+- _Tidligere hovedstyremedlem:_ Erik David Thiis-Evensen
 - _Ridder:_
 
 **De som har meldt interesse til Valgkomiteen er:**
@@ -50,5 +50,5 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Fagkomleder:_ Ada Schweder Uglenes
 - _FeminIT-leder:_ Maria Våge Sætre
 - _OIL-leder:_ Tord Tefre Stavnsborg
-- _Prokomleder:_
+- _Prokomleder:_ Bernhard Trygve Wielgolaski Rynning
 - _Trikomleder:_ Cecilie Uttian
