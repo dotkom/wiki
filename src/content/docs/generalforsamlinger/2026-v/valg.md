@@ -49,6 +49,6 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Debugleder:_ Gurveer Singh
 - _Fagkomleder:_ Ada Schweder Uglenes
 - _FeminIT-leder:_ Maria Våge Sætre
-- _OIL-leder:_
+- _OIL-leder:_ Tord Tefre Stavnsborg
 - _Prokomleder:_
 - _Trikomleder:_ Cecilie Uttian
