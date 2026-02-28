@@ -32,7 +32,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 - _Onlinemedlem:_ Helene Urdahl Lotsberg, Mats Jun Larsen, Eeman Hashmi
 - _Tidligere hovedstyremedlem:_ Erik David Thiis-Evensen
-- _Ridder:_
+- _Ridder:_ Brage Baugerød
 
 **De som har meldt interesse til Valgkomiteen er:**
 
