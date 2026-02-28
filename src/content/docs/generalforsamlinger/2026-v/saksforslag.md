@@ -53,15 +53,23 @@ _Online skal få lov til å samarbeide med relevante avdelinger av bedrifter som
 
 ## Sak 03: _Kunne kjøpe inn tilstrekkelig mengde varer til Online sin kiosk v/ Mathea Liv Kvamme_
 
+**Bakgrunn:**
+
+_Trikom ynskjer å kjøpe inn tilstrekkeleg mengd varer til Online sin kiosk. I dag er maksgrensa 75 000 kr per semester. I haustsemesteret 2025 handla trivselskomiteen for om lag 107 000 kr grunna dårleg erfaringsoverføring. Dersom maksgrensa på 75 000 kr blir ståande, vil kiosken vere tom store delar av semesteret. I starten av 2024 hadde kiosken eit for høgt svinn på om lag 55 000 kr i løpet av det foregående året (17 %). Hovudårsaka var tjuveri. Dette skuldast truleg fleire faktorar, mellom anna sjeldan vareteljing, dårleg betalingssystem (Nibble) og at kontoret sto opent etter kl. 16:00. Trikom har sidan innført fleire tiltak for å redusere svinnet: månadleg vareteljing, fjerning av varer med svinn som nærmer seg 10% og stenging av kiosken dersom totalt svinn overstig 10 %. Vi har innført nytt og betre betalingssystem (iZettle), blitt flinkare til å lukke kontordørene slik at berre Onlinere har tilgang etter kl. 16:00, og redusert tilgangen til A4-boda der varene blir oppbevarte. Svinntallene fra månadlege vareteljingar skal bli delt med bankom gjennom semesteret. Hausten 2025 hadde kiosken eit samla svinn på under 4 %, tilsvarande om lag 4 000 kr. Med denne betydelege reduksjonen, og tiltaka som er innførte for å halde svinnet lågt, ønskjer vi å fjerne maksgrensa for innkjøp slik at Trikom sjølv kan regulere dette._
+
 **Forslag:**
 
-_Trivselskomiteen kan maksimalt kjøpe inn varer til kiosken for 200 000 kr per semester._
+_Trivselskomiteen vurderar kor mykje det skal kjøpast inn til kiosken for._
 
 ## Sak 04: _Kunne tilby et bredere utvalg i kiosken v/ Mathea Liv Kvamme_
 
+**Bakgrunn:**
+
+_Trivselskomiteen vurderar kor mykje det skal kjøpast inn til kiosken for._
+
 **Forslag:**
 
-_Trivselskomiteen styrer selv hvilket antall varer vi skal ha i kiosken._
+_Trivselskomiteen styrer sjølv talet varar i kiosken._
 
 ## Sak 05: _Splittelse av Profil- og aviskomiteen_
 

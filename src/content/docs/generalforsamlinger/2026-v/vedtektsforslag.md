@@ -55,24 +55,7 @@ _**§5.5 Stemmeberettigelse og talerett**_
 _Ethvert medlem av linjeforeningen har talerett ved generalforsamlingen. Ethvert medlem av linjeforeningen som er tilstede når generalforsamlingen godkjenner stemmeberettigede har rett til å stemme. Medlemmer av linjeforeningen som ikke har mulighet til å møte i tide plikter å informere Hovedstyret og oppgi en tilstrekkelig grunn til forsinkelse. Generalforsamlingen kan vedta å gi disse personene stemmerett samtidig som stemmeberettigede godkjennes. Generalforsamlingen kan vedta å gi medlemmer av linjeforeningen som kommer for sent, og ikke har informert om dette, stemmerett når vedkommende ankommer.Ordstyrer frasier seg stemmeretten under generalforsamlingen._
 
 
-
-## Vedtektsforslag 02: _Mer nøyaktig skildring av Trivselskomiteen /v Mathea Liv Kvamme_
-
-**Endre vedtekt _§4.2.7 Trivselskomiteen_**
-
-Fra:  
-
-_**§4.2.7 Trivselskomiteen**_
-
-_Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen og har hovedansvar for linjeforeningskontoret. Komiteens navn forkortes trikom._
-
-Til:  
-
-_**§4.2.7 Trivselskomiteen**_
-
-_Komiteens hovedoppgave er å sørge for økt trivsel blant informatikere i hverdagen, ved å arrangere lavterskel arrangement i og utenfor skoletid. Komiteen har hovedansvar for linjeforeningskontoret, samt linjeforeningens kiosk. Komiteens navn forkortes trikom._
-
-## Vedtektsforslag 03: _(Dersom saksforslag 5 går gjennom) Splittelse av Profil- og aviskomiteen_
+## Vedtektsforslag 02: _(Dersom saksforslag 5 går gjennom) Splittelse av Profil- og aviskomiteen_
 
 **Endre vedtekt _§4.2.6 Profil- og aviskomiteen_**
 
@@ -93,7 +76,7 @@ _**§4.2.12 Redaksjonen**_
 
 _Komiteens hovedoppgave er å gi ut linjeforeningens tidsskrift. Komiteens leder er linjeforeningens redaktør._
 
-## Vedtektsforslag 04: _Presisering av regler for tilbaketrekking av saksforslag_
+## Vedtektsforslag 03: _Presisering av regler for tilbaketrekking av saksforslag_
 
 **Endre vedtekt _§5.1 Frister_**
 
