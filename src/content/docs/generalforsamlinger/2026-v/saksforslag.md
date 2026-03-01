@@ -50,10 +50,6 @@ _Trivselskomiteen vurderar kor mykje det skal kjøpast inn til kiosken for._
 
 ## Sak 04: _Kunne tilby et bredere utvalg i kiosken v/ Mathea Liv Kvamme_
 
-**Bakgrunn:**
-
-_Trivselskomiteen vurderar kor mykje det skal kjøpast inn til kiosken for._
-
 **Forslag:**
 
 _Trivselskomiteen styrer sjølv talet varar i kiosken._
