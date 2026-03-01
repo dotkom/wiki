@@ -43,7 +43,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 - _Appkomleder:_ Emma Fredriksen
 - _Arrkomleder:_ Janaann Jay Johanraj
 - _Backlogleder:_ Brinje Marie Haugli
-- _Bankomleder:_
+- _Bankomleder:_ Isak Edvin Nausthaug-Kjøren
 - _Bedkomleder:_ Guro Kiste Lotten
 - _Dotkomleder:_ Brage Andreas Hoven
 - _Debugleder:_ Gurveer Singh
