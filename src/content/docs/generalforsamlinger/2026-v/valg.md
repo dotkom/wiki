@@ -36,7 +36,7 @@ Merk! Det er fortsatt åpent for å stille eller godta benkeforslag under genera
 
 **De som har meldt interesse til Valgkomiteen er:**
 
-- _Kandidater:_
+- _Kandidater:_ Ola Munthe Vassbotn
 
 **De som skal godkjennes som komitéledere er:**
 
