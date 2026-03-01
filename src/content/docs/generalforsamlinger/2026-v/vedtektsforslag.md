@@ -66,6 +66,9 @@ _Komiteens hovedoppgave er å gi ut linjeforeningens tidsskrift. Komiteens leder
 
 **Endre vedtekt _§5.1 Frister_**
 
+**Bakgrunn**
+I forbindelse med forberedelsene til generalforsamlingen oppstod det en situasjon der et innsendt saksforslag ble trukket etter fristen for innsending, uten at vedtektene tydelig regulerer hvordan slike tilfeller skal håndteres. Dette medførte uklarhet rundt videre behandling av saken og muligheten for andre medlemmer til å ta den. For å sikre en tydelig, forutsigbar og rettferdig prosess foreslås det derfor å presisere reglene for tilbaketrekking av saksforslag.
+
 Fra:
 _**§5.1 Frister**_
 
