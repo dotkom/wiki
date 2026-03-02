@@ -84,6 +84,9 @@ Sosialt og kos:
 
 ## Debug
 
+- Tatt opp et nytt medlem
+- Støttet Online som normalt når det gjelder konflikthåndtering, varslingssaker og samtalepartner
+
 ## Drifts- og utviklingskomiteen
 
 - Vi har en litt mer down-to-earth 295 commits siden forrige generalforsamling
