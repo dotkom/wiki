@@ -10,6 +10,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Vår 2026
+- [2026-03-10](2026/2026-03-10) - Mye mails og dårlig tid!
 - [2026-03-03](2026/2026-03-03) - Første møte med nye HS!
 - [2026-02-24](2026/2026-02-24) - Siste møtet til dette hovedstyret, rolige forberedelser til genfors
 - [2026-02-17](2026/2026-02-17) - Sakene til genfors og lån av utstyr
