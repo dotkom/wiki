@@ -21,12 +21,12 @@ Hovedstyret er det utøvende organet i Online linjeforening og står for den dag
 
 | Rolle              | Navn                          | E-post                      |
 |--------------------|-------------------------------|-----------------------------|
-| Leder              | William Son Fagerstrøm        | leder@online.ntnu.no        |
-| Nestleder          | Ola Vassbotn                  | nestleder@online.ntnu.no    |
+| Leder              | Andrej Lazic                  | leder@online.ntnu.no        |
+| Nestleder          | Live Stamnes Dyrland          | nestleder@online.ntnu.no    |
 | Økonomiansvarlig   | Johannes Hage                 | johannes.hage@online.ntnu.no|
-| Styremedlem        | Iver Oprand Heggelund         | iver.heggelund@online.ntnu.no |
-| Styremedlem        | Andrej Lazic                  | andrej.lazic@online.ntnu.no |
-| Styremedlem        | Markus Aleksander Råkil Johansen | markus.johansen@online.ntnu.no |
+| Styremedlem        | Synne Lien Arvesen            | synne.lien.arvesen@online.ntnu.no |
+| Styremedlem        | Karl Theodor Ladegård Beck    | theodor.beck@online.ntnu.no |
+| Styremedlem        | Tone-Lill Aarsheim            | tonelill.aarsheim@online.ntnu.no |
 
 Hovedstyret velges på høstens generalforsamling og sitter i ett år.
 
