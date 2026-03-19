@@ -10,6 +10,8 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Vår 2026
 
+- [2026-03-17-stormote](2026/2026-03-17-stormote.md)
+- Stormøte før alle tar påskefri
 - [2026-03-03-stormote](2026/2026-03-03-stormote.md) - Velkommen til nye ledelsen
 - [2026-02-17-stormote](2026/2026-02-17-stormote) - Quintuppelstraff og genfors prep
 - [2026-02-10-stormote](2026/2026-02-10-stormote) - Snart ny ledelse!
