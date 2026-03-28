@@ -34,8 +34,9 @@ Hvordan arrangere en karrieredag? Se bedriftsdag i linjeforeningskokeboka
 
 |Karrieredag|Ansvarlig|Når|Hvor|Facebook|
 |---|---|---|---|---|
-| Arbeidslivsdagen | [Panoptikon ](https://www.facebook.com/panoptikonlinjeforening/)  | Vårsemester oddetallsår | Dragvoll | [Event 2019](https://www.facebook.com/events/ntnu-dragvoll-d154/arbeidslivsdagen-2019-sts/386535878803627/) |
 | [Navn](Nettside) | [Ansvarlig](Link til ansvarlige)  | tidspunkt | Sted | [Page](FB) |
+| Arbeidslivsdagen | [Panoptikon ](https://www.facebook.com/panoptikonlinjeforening/)  | Vårsemester oddetallsår | Dragvoll | [Event 2019](https://www.facebook.com/events/ntnu-dragvoll-d154/arbeidslivsdagen-2019-sts/386535878803627/) |
+| [Arkitekturdagen](https://www.broderskabet.no/arkitekturdagen) | [Broderskabet](https://www.broderskabet.no/)  | November | Realfagbygget | [Page](https://www.facebook.com/profile.php?id=100091782025399) |
 | [BM-dagen](http://www.bmdagen.no/) | [Næringslivsringen Bygg](http://www.bygg.ntnu.no/naringslivsringen/) og 3. klasse bygg | November | Realfagbygget | [Page](http://fb.com/BMdagen) |
 | Bedriftsdag | [GEOLF](https://geolf.org)  | Varierer | Dragvoll | [Page](https://www.facebook.com/GEOLF.ntnu/) |
 | [Bedriftsdagen](http://bedriftsdagen.no/) | Studenter Marin Teknikk | Oktober | Marinteknisk senter | [Page](https://www.facebook.com/Bedriftsdagen) |
