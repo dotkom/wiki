@@ -1,6 +1,6 @@
 ---
 title: "dotDAGENE"
-date: 2020-04-01
+date: 2026-01-01
 ---
 dotDAGENE er et nytt arrangement som skal arrangeres for første gang 3. mars 2026. Arrangementet har som mål å koble studenter og bedrifter gjennom faglige og karriererelaterte aktiviteter, og med dette samle midler til ekskursjonen. Dette blir første gang dotDAGENE gjennomføres, og arrangementet er fortsatt under utvikling.
 
