@@ -11,7 +11,7 @@ Prikker er et straffetiltak for å sikre at medlemmene av Online følger reglene
 | 1 prikk               | 1t                                            |
 | 2 prikker             | 4t                                            |
 | 3 prikker             | 24t                                           |
-| 6+ prikker            | Suspensasjon i 14 dager fra siste prikk       |
+| 6+ prikker            | Suspensjon i 14 dager fra siste prikk       |
 
 
 Prikker er overlappende. Dette betyr at dersom du får nye prikker når du allerede har aktive prikker fra en annen anledning, så vil disse prikkene plusses sammen. Hver anledning som har gitt deg prikker vil ha sin egen levetid før de ikke er aktive lenger.
