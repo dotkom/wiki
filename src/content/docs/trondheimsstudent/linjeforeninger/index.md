@@ -93,6 +93,13 @@ og må være åpen for studenter gjennom et fullt studieløp på fem år.
 | ------------------------------- | ----- | ----------------- | ------------------------------- |
 | [DION](http://www.dion.ntnu.no) |       | Alle doktorgrader | [Page](http://fb.com/DION.NTNU) |
 
+## Tverrfaglige interesseforeninger
+
+| Linjeforening                                        | BrReg                                                             | Kontor |
+| [Nettverksgruppa] NVG (www.nvg.ntnu.no)              | [BrReg](https://virksomhet.brreg.no/nb/oppslag/enheter/995572338)  |                              | 
+| [Programvareverkstedet] PVV (www.pvv.ntnu.no)              | [BrReg](https://virksomhet.brreg.no/nb/oppslag/enheter/994535412)  | [Oppredning/Gruve, room 247](https://use.mazemap.com/#v=1&campusid=1&zlevel=2&center=10.406194,63.417143&zoom=18&sharepoitype=identifier&sharepoi=305-247)   | 
+
+
 ## Tradisjoner
 
 Tradisjoner som linjeforeninger på Gløshaugen har opprettholdt i mange
