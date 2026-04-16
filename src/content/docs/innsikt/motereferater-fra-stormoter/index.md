@@ -10,10 +10,10 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Vår 2026
 
-- [2026-04-14-stormote](2026/2026-04-14-stormote.md) - Tidenes lengste eventuelt-punkt
-- [2026-03-17-stormote](2026/2026-03-17-stormote.md)
+- [2026-04-14-stormote](2026/2026-04-14-stormote) - Tidenes lengste eventuelt-punkt
+- [2026-03-17-stormote](2026/2026-03-17-stormote)
 - Stormøte før alle tar påskefri
-- [2026-03-03-stormote](2026/2026-03-03-stormote.md) - Velkommen til nye ledelsen
+- [2026-03-03-stormote](2026/2026-03-03-stormote) - Velkommen til nye ledelsen
 - [2026-02-17-stormote](2026/2026-02-17-stormote) - Quintuppelstraff og genfors prep
 - [2026-02-10-stormote](2026/2026-02-10-stormote) - Snart ny ledelse!
 - [2026-01-27-stormote](2026/2026-01-27-stormote) - Semesterets første stormote!
