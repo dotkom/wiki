@@ -1,6 +1,8 @@
 ---
 title: "Generalforsamlinger"
 child-directories-sort: "date"
+child-directories-collapse-label: "Tidligere generalforsamlinger"
+child-directories-collapse-count: 3
 date: 2020-06-01
 ---
 

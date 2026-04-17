@@ -101,7 +101,7 @@ Follow these steps to add a picture or attachments to your wiki page:
 
 This project uses a custom Astro sidebar, found in `/sidebar/getSiderbar.js`. It will always place any `index.md` or `index.mdx` on the top of a directory, followed by all subdirectories, followed by all files. Using sort options in the frontmatter, you can control the order inside the files and subdirectories, but not make files appear before subdirectories.
 
-The following frontmatter can be used in the `.md` files to control the sidebar:
+The following frontmatter can be used in the `.md` files to control the sidebar (see `src/content.config.ts` for the full schema):
 
 ```
 - title: string
@@ -110,6 +110,8 @@ The following frontmatter can be used in the `.md` files to control the sidebar:
 - child-directories-sort: "asc" | "desc" | "date"
 - child-files-sort: "asc" | "desc" | "date"
 - link: string (if this is set, the sidebar will link to this URL instead of the page)
+- child-directories-collapse-count: number
+- child-directories-collapse-label: string
 ```
 
 Notes:
@@ -120,6 +122,8 @@ Notes:
 - `child-directories-sort` will sort all directories in same directory, but **not** all subdirectories.
 - `child-files-sort` will sort all files in same directory **and** all files in all subdirectories.
 - `link` will make the sidebar link to the provided URL instead of the page itself. Any children will be hidden in the sidebar. The page and any children will still be accessible by URL.
+- `child-directories-collapse-count` will collapse the child directories shallowly so only the provided count of child directories are shown.
+- `child-directories-collapse-label` the label used for the collapsed child directories.
 
 ### Special cases
 
@@ -130,11 +134,6 @@ Notes:
    
    will have their child files grouped into "Høst" and "Vår". This does not alter any URLs. (`/sidebar/groupHsMeetings.js`)
 3. Any file:
-    - who's path includes `generalforsamlinger`
-    - AND where child directories are sorted by date
-    
-    will have all but their three first child directories grouped into "Tidligere generalforsamlinger". This does not alter any URLs. (`/sidebar/groupGeneralforsamlinger.js`)
-4. Any file:
     - whos path includes `generalforsamlinger`
     - AND matches the regex in `/sidebar/trimGeneralforsamlingerDirectoryLabel.js`
     
