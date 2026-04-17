@@ -1,6 +1,6 @@
 import getFrontMatter from "gray-matter";
 import fs from "node:fs";
-import { groupGeneralforsamlinger } from "./groupGeneralforsamlinger";
+import { groupOldEntries } from "./groupOldEntries";
 import { groupHsMeetings } from "./groupHsMeetings";
 import { trimGeneralforsamlingerDirectoryLabel } from "./trimGeneralforsamlingerDirectoryLabel";
 import {
@@ -12,7 +12,7 @@ import {
 } from "./utils";
 
 // See README for available frontmatter keys
-
+const DEFAULT_COLLAPSE_CHILD_DIRECTORIES_COUNT = 3;
 const GENERALFORSAMLINGER_FOLDER = "generalforsamlinger";
 const HS_MEETINGS_FOLDER = "motereferater-fra-hovedstyret/";
 const LEADERS_MEETINGS_FOLDER = "motereferater-fra-stormoter/";
@@ -146,6 +146,11 @@ export const getSidebar = (
   const sortChildDirectoriesMethod =
     indexFile?.meta.frontmatter["child-directories-sort"];
 
+  const collapseChildDirectoriesLabel =
+    indexFile?.meta.frontmatter["child-directories-collapse"];
+  const collapseChildDirectoriesCount =
+    indexFile?.meta.frontmatter["child-directories-collapse-count"];
+
   // Sorting child files
   if (sortChildFilesMethod === "asc") {
     files.sort((a, b) => a.label.localeCompare(b.label));
@@ -193,7 +198,14 @@ export const getSidebar = (
   // Processing generalforsamlinger
   if (slug.includes(GENERALFORSAMLINGER_FOLDER)) {
     label = trimGeneralforsamlingerDirectoryLabel(label);
-    childDirectories = groupGeneralforsamlinger(childDirectories);
+  }
+
+  if (collapseChildDirectoriesCount) {
+    childDirectories = groupOldEntries(
+      childDirectories,
+      collapseChildDirectoriesCount || DEFAULT_COLLAPSE_CHILD_DIRECTORIES_COUNT,
+      collapseChildDirectoriesLabel || "Tidligere"
+    );
   }
 
   const items = [indexFile ?? [], ...childDirectories, ...files].flat();

@@ -1,7 +1,9 @@
 ---
-title: "Møtereferater fra Stormøter"
+title: "Møtereferater fra stormøter"
 child-directories-sort: "desc"
 child-files-sort: "date"
+child-directories-collapse-label: "Tidligere stormøter"
+child-directories-collapse-count: 3
 ---
 
 Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å diskutere saker som dukker opp. Fra og med stormøtet den 26. mars 2025 begynte stormøtene å foregå annenhver uke.

@@ -1,12 +1,13 @@
+const MAX_RECENT_MEETINGS = 3;
 const JULY = 6;
 const FIFTEENTH = 15;
 
 export const groupHsMeetings = (files) => {
   const groups = files.reduce(
     (acc, file) => {
-      const rawDate = file.meta.frontmatter?.date ?? 0;
+      const rawDate = file.meta?.frontmatter?.date ?? null;
 
-      if (!rawDate) {
+      if (rawDate === null) {
         acc.other.push(file);
 
         return acc;
