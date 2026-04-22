@@ -26,7 +26,7 @@ aktuelle bedriftene. Som medlem av Fag- og kurskomiteen vil du få god
 innsikt i emner utenfor skolen, og samtidig knytte tettere bånd til din
 fremtidige arbeidsgiver.
 
-FagKom til daglig
+Fagkom til daglig
 -----------------
 
 Fag- og kurskomiteen jobber med å arrangere kurs, workshop, faglige
@@ -44,7 +44,8 @@ Medlemmer
 
 |År|Leder| Medlemmer |
 |----|---| -------- |
-|2025-2026|****|
+|2026-2027|****|||
+|2025-2026|**Ailin Tinglum**|Ada Schweder Uglenes, Anja Ødegård, Eivind Østlyngen, Elyas Masumi, Gurveer Singh, Holger Setten, Haakon Spilling, Ingrid Gustavsen, Ludvig Zapffe, Mari Gjul, Mari Jin, Rebecca Selfors, Sebastian Dysterud, Tuva Marie Mork, Erlend Golten Persen, Jonas Kristiansen, Magnus Strømseng, Ola Munthe Vassbotn, Pelle Traalum Okkenhaug, Sara Seeberg|
 |2024-2025|**Mari Gjul**| Aurora Nergaard, Frede Kjølseth Berdal, Johannes Landmark, Torunn Mikkelsen Bårdstu, Anders Stubberud, Erlend Golten Persen, Magnus Strømseng, Elise Telje, Per Håvard Skogli Holte, Mari Lehne, Sunniva Bjerke, Sara Seeberg-Rommetveit, Karen Singh Sandhu, Anja Ødegård, Mari Jin Sjøvold, Ola Munthe Vassbotn, Pelle Okkenhaug, Odin Lund, Holger Ekker Setten, Jonas Kristiansen, Tuva Marie Mork, Ailin Tinglum, Gurveer Singh, Ludvig Zapffe, Sebastian Dysterud|
 |2023-2024|**Sara Seeberg-Rommetveit**| Aurora Nergaard, Frede Kjølseth Berdal, Johannes Landmark, Torunn Mikkelsen Bårdstu, Anders Stubberud,Torstein Kristiansen Olsen, Egil Hagen, Erlend Golten Persen, Magnus Strømseng, Andreas "brukelig" Amundsen, Øyvind Jalland Schjerven, Elise Telje, Per Håvard Skogli Holte, André Schjøth, Elise Anna Francisca Rabassa Stautland, Ruben Kobbeltvedt, Ivar Hembre, Karan Singh Sandhu, Mari Lehne, Rebecca Ruud, Sunniva Bjerke, Christoffer Stensrud, Anja Ødegård, Mari Jin Sjøvold, Odin Lund, Pelle Okkenhaug, Ola Munthe Vassbotn, Mari Gjul|
 |2022-2023|**Tale Nygaard Eikenes**| Andreas "brukelig" Amundsen, Øyvind Jalland Schjerven, Elise Telje, Per Håvard Skogli Holte, André Schjøth, Elise Anna Francisca Rabassa Stautland, Ruben Kobbeltvedt, Ivar Hembre, Karan Singh Sandhu, Mari Lehne, Nikolai Mork, Rebecca Ruud, Sunniva Bjerke, Torstein Kristiansen Olsen, Egil Hagen, Erlend Golten Persen, Magnus Strømseng, Sara Seeberg-Rommetveit, Aurora Nergaard, Frede Kjølseth Berdal, Johannes Landmark, Torunn Mikkelsen Bårdstu, Anders Stubberud, Christoffer Stensrud, Hanna Thevik |
