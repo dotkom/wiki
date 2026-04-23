@@ -12,6 +12,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Vår 2026
+- [2026-04-20](2026/2026-04-20) - Output møtekrasj
 - [2026-04-13](2026/2026-04-13) - Backlog møtekrasj
 - [2026-04-09](2026/2026-04-09) - Første fysiske møte på evigheter
 - [2026-03-24](2026/2026-03-24) - Direkte fra Budapest
