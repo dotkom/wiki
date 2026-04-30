@@ -12,6 +12,8 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ## Møtereferater
 
 ### Vår 2026
+
+- [2026-04-27](2026/2026-04-27) - Gratis komitédaljer fremover!
 - [2026-04-20](2026/2026-04-20) - Output møtekrasj
 - [2026-04-13](2026/2026-04-13) - Backlog møtekrasj
 - [2026-04-09](2026/2026-04-09) - Første fysiske møte på evigheter
