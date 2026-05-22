@@ -13,6 +13,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ### Vår 2026
 
+- [2025-05-13](2026/2026-05-13) - Semesterets siste HS møte
 - [2026-04-27](2026/2026-04-27) - Gratis komitédaljer fremover!
 - [2026-04-20](2026/2026-04-20) - Output møtekrasj
 - [2026-04-13](2026/2026-04-13) - Backlog møtekrasj
