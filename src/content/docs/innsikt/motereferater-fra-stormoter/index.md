@@ -12,6 +12,8 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Vår 2026
 
+
+- [2026-08-14.stormote](2026/2026-08-14-stormote) - Semesterets første stormøte! Gjensynsglede
 - [2026-04-14-stormote](2026/2026-04-14-stormote) - Tidenes lengste eventuelt-punkt
 - [2026-03-17-stormote](2026/2026-03-17-stormote)
 - Stormøte før alle tar påskefri
