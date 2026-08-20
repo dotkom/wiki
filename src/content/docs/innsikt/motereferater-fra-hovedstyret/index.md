@@ -11,6 +11,10 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ## Møtereferater
 
+### Høst 2026
+
+- [2026-08-17](2026/2026-08-17)- Halvveis til å overleve fadderukene
+
 ### Vår 2026
 
 - [2025-05-13](2026/2026-05-13) - Semesterets siste HS møte
