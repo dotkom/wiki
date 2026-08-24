@@ -14,7 +14,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 
 ### Høst 2026
-
+- [2026-08-24](2026/2026-08-24) - Another week of survival etter fadderukene
 - [2026-08-17](2026/2026-08-17) - Halvveis til å overleve fadderukene
 - [2026-08-13](2026/2026-08-13) - Semesterets første HS-møte
 
