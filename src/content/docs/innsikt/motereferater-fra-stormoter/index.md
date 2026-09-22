@@ -12,6 +12,7 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Høst 2026
 
+- [2026-08-27.stormote](2026/2026-09-17-stormote) - På tide å følge Prokoms bestillingsstandarder
 - [2026-08-27.stormote](2026/2026-08-27-stormote) - Redaksjonen har fått punkt i statusrunden!
 - [2026-08-14.stormote](2026/2026-08-14-stormote) - Semesterets første stormøte! Gjensynsglede
 
