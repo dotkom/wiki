@@ -9,7 +9,7 @@ title: "Dagsorden Generalforsamlingen Høsten 2026"
 - [2026 Høst Dagsorden](/generalforsamlinger/2026-h/dagsorden/) - Dagsorden for generalforsamlingen
 - [2026 Høst Halvårsberetninger](/generalforsamlinger/2026-h/aarsberetninger/) - Halvårsberetninger
 - [2026 Høst Saksforslag](/generalforsamlinger/2026-h/saksforslag/) - Alle innsendte saker vil bli tatt opp.
-- [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 # Dagsorden Høsten 2026
 

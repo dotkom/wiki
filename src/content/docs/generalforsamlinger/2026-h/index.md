@@ -10,7 +10,7 @@ date: 2026-10-12
 - [2026 Høst Dagsorden](/generalforsamlinger/2026-h/dagsorden/) - Dagsorden for generalforsamlingen
 - [2026 Høst Halvårsberetninger](/generalforsamlinger/2026-h/aarsberetninger/) - Halvårsberetninger
 - [2026 Høst Saksforslag](/generalforsamlinger/2026-h/saksforslag/) - Alle innsendte saker vil bli tatt opp.
-- [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 ## Dokumenter fra årets generalforsamling
 
@@ -26,7 +26,7 @@ Live Referat Høst 2026: [Live Referat](https://docs.google.com/document/d/16muv
 Onlines vedtekter: [Onlines vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 Onlines fonds vedtekter: [Fondets Vedtekter](https://github.com/dotkom/Onlines_Fond_Vedtekter/blob/master/vedtekter.adoc)
 
-Referat fra Generalforsamling våren 2026: [vedlegg 855](public\attachments\public/attachments/Signert-Referat-Onlines-generalforsamling-V2026.pdf)
+Referat fra Generalforsamling våren 2026: [vedlegg 855](/attachments/Signert-Referat-Onlines-generalforsamling-V2026.pdf)
 
 ## Informasjon
 

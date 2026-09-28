@@ -9,7 +9,7 @@ title: "Saksforslag høsten 2026"
 - [2026 Høst Dagsorden](/generalforsamlinger/2026-h/dagsorden/) - Dagsorden for generalforsamlingen
 - [2026 Høst Halvårsberetninger](/generalforsamlinger/2026-h/aarsberetninger/) - Halvårsberetninger
 - [2026 Høst Saksforslag](/generalforsamlinger/2026-h/saksforslag/) - Alle innsendte saker vil bli tatt opp.
-- [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtekstforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
+- [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 Om du ønsker å fremme saker foran generalforsamlingen kan du sende en e-post til hovedstyret@online.ntnu.no før 28. september kl. 23.59, så vil de bli lagt inn her. Du må selv fremme saken foran generalforsamlingen. Saker som ikke er fremmet innen fristen vil ikke bli tatt opp.
 
