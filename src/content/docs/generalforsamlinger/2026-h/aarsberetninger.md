@@ -18,25 +18,16 @@ title: "Halvårsberetninger Høsten 2026"
 
 Siden sist generalforsamling har vi arrangert:
 
-Hybel til hybel
-
-Quiz x2
-
-Komiteseminar i samarbeid med Backlog
-
-Studielånspils
-
-Pubgolf
-
-Avsluttet forrige semester med utmatrikulering for 3. og 5. klasse og eksamensfest for 1. klasse
-
-Tatt opp 7 nye medlemmer og fordelt arrangementer på våre totalt 17 aktive medlemmer.
-
-Arrangert immatrikuleringsballet.
-
-Har 3 arrangementer til som skal gjennomføres dette semesteret (Oktoberfest, Halloweenfest, Julebord).
-
-Vi er godt i gang med å planlegge Åre-tur, Veldedighetsfest og Immatrikuleringsball 2027.
+- Hybel til hybel
+- Quiz x2
+- Komiteseminar i samarbeid med Backlog
+- Studielånspils
+- Pubgolf
+- Avsluttet forrige semester med utmatrikulering for 3. og 5. klasse og eksamensfest for 1. klasse
+- Tatt opp 7 nye medlemmer og fordelt arrangementer på våre totalt 17 aktive medlemmer.
+- Arrangert immatrikuleringsballet.
+- Har 3 arrangementer til som skal gjennomføres dette semesteret (Oktoberfest, Halloweenfest, Julebord).
+- Vi er godt i gang med å planlegge Åre-tur, Veldedighetsfest og Immatrikuleringsball 2027.
 
 
 ## Bank- og økonomikomiteen
@@ -57,7 +48,7 @@ Vi er godt i gang med å planlegge Åre-tur, Veldedighetsfest og Immatrikulering
 
 Halvårsberetning for våren 2026:
 
-Tatt opp 6 nye medlemmer ved opptak høsten 2026
+- Tatt opp 6 nye medlemmer ved opptak høsten 2026
 
 Eksamenskurs:
 - Objekt orientert programmering
@@ -76,19 +67,17 @@ Ikke bedriftskurs:
 
 ## Profil- og aviskomiteen
 
-H26
-Vi er 13 aktive medlemmer og tok opp 6 prokommere dette opptaket.
-
-Plakat-, bonger- og bannerbestillinger: 23 stk
-Vært på blåtur
-Laget og solgt Årbok 25/26
-Sluppet ny Offline utgave på våren
-Jobbet frem en halvsplitt mellom redaksjonen og prokom
-Hatt en rekke splittmøter med HS og den nye redaksjonen
-Vi har valgt nye ansvarsroller
-Slapp ny online merch på høsten
-Laget nytt bestillingssystem for some-innlegg
-Vært på hyttetur
+- Vi er 13 aktive medlemmer og tok opp 6 prokommere dette opptaket.
+- Plakat-, bonger- og bannerbestillinger: 23 stk
+- Vært på blåtur
+- Laget og solgt Årbok 25/26
+- Sluppet ny Offline utgave på våren
+- Jobbet frem en halvsplitt mellom redaksjonen og prokom
+- Hatt en rekke splittmøter med HS og den nye redaksjonen
+- Vi har valgt nye ansvarsroller
+- Slapp ny online merch på høsten
+- Laget nytt bestillingssystem for some-innlegg
+- Vært på hyttetur
 
 
 ## Trivselskomiteen
@@ -121,13 +110,13 @@ Vært på hyttetur
 
 ## Applikasjonskomiteen
 
-Lansert Online appen 2.0
-Fikset ny TV til infoskjermen
-Mer eller mindre ferdigstilt skjerm til kiosken
-Gjennomført og holdt komitéopptak høst 2026
-Startet utviklingen av side til Mordvember på vegne av Trikom
-Definert/utarbeidet skille mellom Appkom og Dotkom
-Videreutviklet og vedlikeholdt andre tjenester som Autobank, Infoskjerm og Opptakssiden
+- Lansert Online appen 2.0
+- Fikset ny TV til infoskjermen
+- Mer eller mindre ferdigstilt skjerm til kiosken
+- Gjennomført og holdt komitéopptak høst 2026
+- Startet utviklingen av side til Mordvember på vegne av Trikom
+- Definert/utarbeidet skille mellom Appkom og Dotkom
+- Videreutviklet og vedlikeholdt andre tjenester som Autobank, Infoskjerm og Opptakssiden
 
 
 ## Ekskursjonskomiteen 2026
@@ -181,9 +170,8 @@ I løpet av perioden har dotDAGENE hatt fokus på tidlig bedriftskontakt, rekrut
 
 ## Fondstyret
 
-Onlinefondet sin beholdning er per dags dato: fyll inn
-
-Fondstyret har mistet tre medlemmer og fått tre nye.
-Det er blitt valgt ny leder.
-Fondstyret har avgjort likviditetsspørmålet som ble luftet som diskusjonssak på forrige generalforsamling og avgjort med å senke likvitetsbufferen som tidligere var på 300,000kr til nå å være 100,000kr. Disse pengene er blitt investert i ytterligere indeksfond.
-Det har blitt siden sist generalforsamling sendt inn én søknad som ble avslått.
+- Onlinefondet sin beholdning er per dags dato: fyll inn
+- Fondstyret har mistet tre medlemmer og fått tre nye.
+- Det er blitt valgt ny leder.
+- Fondstyret har avgjort likviditetsspørmålet som ble luftet som diskusjonssak på forrige generalforsamling og avgjort med å senke likvitetsbufferen som tidligere var på 300,000kr til nå å være 100,000kr. Disse pengene er blitt investert i ytterligere indeksfond.
+- Det har blitt siden sist generalforsamling sendt inn én søknad som ble avslått.
