@@ -36,9 +36,23 @@ Siden sist generalforsamling har vi arrangert:
 
 ## Bedriftskomiteen
 
+- Tatt opp 7 nye medlemmer
+- Planlagt og gjennomført 8 bedriftspresentasjoner
+- Arrangert ITEX
+- Støttet Nexus i gjennomføringen av deres arrangementer
+- Skaffet sponsor til fadderukene
+- Lagt ut 34 stillingsannonser (4. okt)
+- Startet bookingrunden for vårens arrangementer
+- Representert Online på FIF-møte
+- Satt i gang planlegging av Trondheimstur for å nå ut til nye bedrifter i Trondheim denne høsten
+- Satt i gang kaffeavtale med Netlight i samarbeid med trikom
+
 
 ## Debug
 
+- Støttet Online som normalt når det gjelder konflikthåndtering, varslingssaker og samtalepartner.
+- Arrangert et arrangement for "en psykt vanlig uke".
+- Et kommende arrangement for vår synlighet og markering av psykisk helsedag.
 
 ## Drifts- og utviklingskomiteen
 
@@ -106,6 +120,26 @@ Ikke bedriftskurs:
 
 ## Backlog
 
+Siden forrige generalforsamling har vi arrangert:
+
+- Studiekafe for 4. klasse
+- Middag for 1. klasse
+- Utvekslingskveld
+- Lederkurs vår/høst
+- Vors til immatrikuleringsball for 1. klasse
+- Middag for 4. klasse
+- Bowling for 1. klasse × OiL
+- Interessegruppe speeddating for første gang
+- Arrangert komitekickoff
+
+I tillegg har vi:
+
+- Gjennom organisasjonsstruktur gruppen bidratt til ProKom-splittelsen og vært i dialog med Appkom og Dotkom om tydeligere skille
+- Fasilitert og gitt støtte til en rekke interessegruppearrangementer
+- Vært i kontakt med THILDE og Abakus om felles håndballtreninger
+- Bidratt med faglig innhold på komiteseminar
+- Laget og delt ut første utgave av Online 101
+- Vært i dialog med Dotkom og HS om synlighet og en ny side for interessegrupper
 
 
 ## Applikasjonskomiteen
@@ -134,7 +168,9 @@ Ikke bedriftskurs:
 
 ## Online IL
 
-
+- Tatt opp 7 nye medlemmer
+- Planlagt ett nytt semester med workshop
+- Arrangert: Buldring, Boblefotball, 1 klasse bowling med backlog, pirbadet x2, Padelturnering x2, Volleyballturnering med NTNUI (som Online vant), Cageball, Boller beining og badstue, Gymtime og HotYoga. 
 
 ## DotDAGENE
 
@@ -166,6 +202,23 @@ I løpet av perioden har dotDAGENE hatt fokus på tidlig bedriftskontakt, rekrut
 
 ## FeminIT
 
+Det forrige semesteret gjennomførte vi følgende arrangementer:
+
+- Skøyter og kakao (eller ski+grilling), 28. januar 2026
+- Byttekveld, 13. februar 2026
+- Daljebelte workshop, 19. februar 2026
+- Investeringskurs m/fagkom, 25. februar 2026
+- Kvinnedagen, 9. mars 2026
+- Kanelbolleonsdag, 11. mars 2026
+- Damene på DT med beerpongturnering, 19. mars 2026
+- Buldring (tentativ), 23. mars 2026
+
+Hittil i høstsemesteret har vi arrangert:
+
+- 1- og 4. klassemiddag, 28. september 2026
+- FeminIT vors i fadderukene, 12. august 2026
+
+Dette semesteret har vi også tatt opp 8 nye medlemmer i komiteen og er totalt 11 aktive medlemmer. Interne roller i komiteen er også fordelt.
 
 
 ## Fondstyret
