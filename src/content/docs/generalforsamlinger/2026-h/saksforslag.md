@@ -19,12 +19,17 @@ Et saksforslag er noe du vil at linjeforeningen skal jobbe med, enten noe som gj
 
 # Saksforslag
 
-## Sak xx: _Tittel på sak_
+## Saksforslag 01: _Forslag om splittelse av Prokom ved vårens generalforsamling v/ Ola Munthe Vassbotn & Bernhard Trygve Wielgolaski Rynning_
 
 **Bakgrunn:**
 
-_Bakgrunn for saken_
+_Profil- og Aviskomiteen har hatt ansvar for både Offline og profilering av organisasjonen. Over tid har arbeidsmengden og kompleksiteten i disse oppgavene økt. For å sikre bedre struktur, tydeligere ansvarsfordeling og mer effektiv drift, har en arbeidsgruppe bestående av HS, Backlog og Prokom satt seg ned for å jobbe med en effektiv løsning._
+
+_Løsningen er å dele dagens Profil- og Aviskomité i to separate komiteer: Redaksjonen og Profilkomiteen (Prokom). Arbeidet med splittelsen har kommet en lang vei, som har ført til at Prokom har gjort en splittelse internt allerede nå. Bl.a. har de hatt separate opptak, tatt opp egne ledere og holder egne separate møter. For å ryddigst løse problemer som økonomi, erfaringsoverføring, o.l., trengs litt mer tid for å gjøre splittelsen offisiell._
 
 **Forslag:**
 
-_Forslaget du ønsker å fremme_
+_Vi foreslår derfor å fortsette dette arbeidet, og så plikte oss ved vårens generalforsamling å fremme et vedtektsforslag for å offisielt fullføre prosessen med splittelsen. Vedtektsforslaget vil inneholde noe lignende dette:_
+
+- _Definisjonen av Prokom vil endres slik at tidsskrifter ikke er dens ansvar._
+- _Redaksjonen festes som komité i vedtektene. Definisjonen kommer til å inneholde at komiteen har ansvar for tidsskrifter, inkludert, men ikke begrenset til, Offline og Newbie._
