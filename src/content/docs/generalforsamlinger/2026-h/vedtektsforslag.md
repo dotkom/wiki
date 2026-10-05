@@ -17,26 +17,6 @@ Vedtektsforslag kan, om de blir godkjent av generalforsamlingen, endre vedtekten
 
 # Forslag til Onlines vedtekter
 
-## Eksempel Vedtektsforslag xx: _Tittel på vedtektsforslag_
-
-**Bakgrunn**:
-
-_Bakgrunn for endring_
-
-**Endre vedtekt _vedtektsnummer og overskrift_**
-
-Fra:
-
-_Gammel vedtekt_
-
-Til:
-
-_Ny vedtekt_
-
-
-
-
-
 ## Vedtektsforslag 01: _Definere saksforslag v/ Ola Munthe Vassbotn & Andrej Lazic_
 
 **Bakgrunn:**
