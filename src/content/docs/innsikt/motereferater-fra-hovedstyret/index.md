@@ -16,7 +16,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 ### Høst 2026
 
 - [2026-10-02](2026/2026-10-02) - Møte med realfagskjelleren
-- [2026-09-22](2026/2026-09-22) - dotDAGENE på besøk<3
+- [2026-09-22](2026/2026-09-22) - Bare masse mails og eventuelt
 - [2026-09-15](2026/2026-09-15) - Post-hyttetur-møte
 - [2026-09-01](2026/2026-09-01) - Evig med mails
 - [2026-08-24](2026/2026-08-24) - Another week of survival etter fadderukene
