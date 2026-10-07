@@ -56,6 +56,16 @@ Siden sist generalforsamling har vi arrangert:
 
 ## Drifts- og utviklingskomiteen
 
+- Vi har hatt 607 commits siden forrige generalforsamling, som er mer enn dobbelt så mange som i forrige periode
+- Vi har feiret ettårsdagen til OnlineWeb 5
+- Vi har oppdatert OnlineWeb 5 med nye features og bistått ved problemer som har oppstått
+- Vi har laget Onlines kuleste fadderukeside ever
+- Vi har gjort store endringer i kodebasen til OnlineWeb 5 for å bedre leslighet, utvikleropplevelse og fremtidige utviklingsmuligheter, samt spare litt penger i samme slengen
+- Vi har tydeliggjort rolle- og ansvarsfordelingen mellom Dotkom og Appkom
+- Vi har lansert ny versjon av Grades.no
+- Vi har påbegynt arbeidet med en felles passordløsning for alle komiteer i Online
+- Vi har dokumentert interne prosedyrer og tjenester for erfaringsoverføring
+- Vi har tatt opp fem nye medlemmer
 
 
 ## Fag- og kurskomiteen
@@ -190,14 +200,53 @@ I løpet av perioden har dotDAGENE hatt fokus på tidlig bedriftskontakt, rekrut
 
 ## Realfagskjelleren
 
-
+- Har hatt flere fredagsåpninger og eksterne arrangementer
+- Fullført jub (Suksess)
+- Fullført Vårkoie (Suksess)
+- Planlagt Høstkoie
+- Solgt store mengder øl og diverse
+- Fått nytt styre
+- Tatt opp nye medlemmer
 
 ## Output
 
+Generelt:
 
+- Holdt bandøvinger
+- Vunnet andreplass i Battle of the Bands Trondheim
+- Lagd sang på oppdrag fra JubKom
+- Framført på jub- Sikker framført noen andre plasser også idk
+- Tatt opp 5 nye medlemmer gjennom opptak og åpen øving.
+
+Sosialt:
+
+- Hytteturer
+- Annet sosialt
+- Narkotika-sesh
 
 ## Datakameratene
 
+### Organisering
+
+På generalforsamlingen i vår ble det gjennomført utskiftninger i støtteapparatet. Mads Nøtland fortsatte som klubbleder. Herman Kristiansen ble erstattet av Noah Syrdal (tidligere klubbleder) og Johan Legreid (tidligere trener) som nye trenere, mens Edvard Bjørnevik gikk av som økonomiansvarlig og ga stafettpinnen videre til Ask Schønning. Med dette fikk laget en ny organisering, men samtidig sikret vi stabilitet gjennom erfaring fra gamle kjenninger.
+
+### Sesongen
+
+Etter å ha vunnet studentligaen for to år siden, og A-sluttspill året før, var målet å komme seg til A-sluttspill i år også. Vi stod overfor store utskiftninger, blant annet på grunn av spillere som dro på utveksling. Rekruttering av nye førsteårsstudenter ble derfor avgjørende for ambisjonene. Totalt 12 nye spillere ble en del av troppen, som til sammen bestod av rundt 20 spillere. Høstsesongen bestod av mye stang ut. Vi dominerte banespillet, men manglet det siste lille til å putte ballen i mål. Det førte til mye tapte poeng. Vi endte på 3. plass og ble sendt til B-sluttspill på våren. Her var det kun én ting som var godt nok, seier. Med mye skader og travle studenter, sliter vi i de første kampene. Vi går på noen smeller før ting begynner å ta seg opp igjen. Med tiki taka spill og en ball som endelig går i mål så klarer vi til slutt å sikre oss seier i B-sluttspill. Etter litt uflaks på høsten sier vi oss fornøyd med resultatet.
+
+### Aktiviteter og samhold
+
+Laget hadde en fast kamp og en fellestrening i uken Det ble også arrangert sosiale aktiviteter
+som vorspiel og felles visning av Premier League-kamper. Samholdet i troppen har vært svært
+godt, og de nye spillerne har blitt godt integrert.
+
+### Fremtidsplaner
+
+Målet for kommende sesong er å etablere en solid tropp tidlig, med mål om å komme topp 3 i studentligaen. Det skal også legges til rette for økt samhold gjennom flere sosiale arrangementer, blant annet å arrangere samlinger på La Bamba og andre felles aktiviteter som styrker lagmiljøet. Vi har opprettet en stilling som sosial ansvarlig og sosiale medier ansvarlig. Dette er blant annet for å øke interessen rundt datakameratene, og ikke minst få enda bedre samhold i gruppa.
+
+### 7’er laget
+
+7er-laget hadde en fin sesong, vi endte på 3. plass i den øverste divisjonen i 7dentligaen. Vi stilte også med ett lag på innecuppen i mars. Deltakelsen på trening var noe lavere enn tidligere, men vi fikk fortsatt gjennomført en del treninger. I vinter hadde vi noen innetreninger sammen med 11er-laget.
 
 
 ## FeminIT
@@ -228,3 +277,10 @@ Dette semesteret har vi også tatt opp 8 nye medlemmer i komiteen og er totalt 1
 - Det er blitt valgt ny leder.
 - Fondstyret har avgjort likviditetsspørmålet som ble luftet som diskusjonssak på forrige generalforsamling og avgjort med å senke likvitetsbufferen som tidligere var på 300,000kr til nå å være 100,000kr. Disse pengene er blitt investert i ytterligere indeksfond.
 - Det har blitt siden sist generalforsamling sendt inn én søknad som ble avslått.
+
+
+## Redaksjonen
+
+- Holdt første opptak, tatt opp 4 nye medlemmer.
+- Utgitt to offline utgaver (en av dem mens vi fortsatt var sammen med prokom).
+- Samarbeidet med prokom om hvordan fullføre splitten.
