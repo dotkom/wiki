@@ -214,15 +214,10 @@ Generelt:
 
 - Holdt bandøvinger
 - Vunnet andreplass i Battle of the Bands Trondheim
-- Lagd sang på oppdrag fra JubKom
-- Framført på jub- Sikker framført noen andre plasser også idk
-- Tatt opp 5 nye medlemmer gjennom opptak og åpen øving.
-
-Sosialt:
-
-- Hytteturer
-- Annet sosialt
-- Narkotika-sesh
+- Laget sang på oppdrag fra Jubkom
+- Fremført på Onlines jubileum og andre steder
+- Tatt opp 5 nye medlemmer gjennom opptak og åpen øving
+- Hatt hyttetur og annet sosialt
 
 ## Datakameratene
 
