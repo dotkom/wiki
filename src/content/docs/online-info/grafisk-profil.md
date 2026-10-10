@@ -2,6 +2,56 @@
 title: "Grafisk profil"
 ---
 
+# Onlines logo
+
+[Last ned Onlines logo og ikon (zip)](/attachments/brand/logo.zip).
+
+Pakken inneholder symboler i PNG- og SVG-format. Du kan også laste ned hver gruppe separat nedenfor.
+
+| Variant | PNG | SVG |
+| --- | --- | --- |
+| Logo | [PNG](/attachments/brand/online-logo.png) | [SVG](/attachments/brand/online-logo.svg) |
+| Logo (hvit) | [PNG](/attachments/brand/online-logo--white.png) | [SVG](/attachments/brand/online-logo--white.svg) |
+| Logo (med bakgrunn) | [PNG](/attachments/brand/online-logo--bg.png) | — |
+| Logo (hvit med bakgrunn) | [PNG](/attachments/brand/online-logo--white--bg.png) | — |
+| Ikon | [PNG](/attachments/brand/online-icon.png) | [SVG](/attachments/brand/online-icon.svg) |
+| Ikon (hvit) | [PNG](/attachments/brand/online-icon--white.png) | [SVG](/attachments/brand/online-icon--white.svg) |
+| Ikon (hvit med bakgrunn) | [PNG](/attachments/brand/online-icon--white--bg.png) | — |
+
+# Gruppesymboler
+
+[Last ned komité- og gruppesymboler (zip)](/attachments/brand/group/online-gruppesymboler.zip).
+
+Pakken inneholder symboler i PNG- og SVG-format. Du kan også laste ned hver gruppe separat nedenfor. Tilgjengelige varianter varierer mellom gruppene.
+
+| Komité | Nedlasting |
+| --- | --- |
+| Appkom | [ZIP](/attachments/brand/group/appkom.zip) |
+| Arrkom | [ZIP](/attachments/brand/group/arrkom.zip) |
+| Backlog | [ZIP](/attachments/brand/group/backlog.zip) |
+| Bankom | [ZIP](/attachments/brand/group/bankom.zip) |
+| Bedkom | [ZIP](/attachments/brand/group/bedkom.zip) |
+| Debug | [ZIP](/attachments/brand/group/debug.zip) |
+| Dotkom | [ZIP](/attachments/brand/group/dotkom.zip) |
+| Ekskom | - |
+| Fagkom | [ZIP](/attachments/brand/group/fagkom.zip) |
+| FeminIT | - |
+| Hovedstyret | Onlines logo |
+| Jubkom | [ZIP](/attachments/brand/group/jubkom.zip) |
+| Online IL | [ZIP](/attachments/brand/group/online-il.zip) |
+| Onlines Fond | - |
+| Prokom | [ZIP](/attachments/brand/group/prokom.zip) |
+| Redaksjonen | [ZIP](/attachments/brand/group/redaksjonen.zip) |
+| Trikom | [ZIP](/attachments/brand/group/trikom.zip) |
+| Valgkom | - |
+| Velkom | - |
+
+| Andre grupper | Nedlasting |
+| --- | --- |
+| Casual Gaming | [ZIP](/attachments/brand/group/casual-gaming.zip) |
+| Output | - |
+| Realfagskjelleren | [ZIP](/attachments/brand/group/realfagskjelleren.zip) |
+
 # Merkevare
 
 For at Online skal kunne fremme seg som en seriøs linjeforening med hensikt om å ta vare på sine studenter, gjelder det at organisasjonen gjenspeiler samme konsistens og profesjonalitet under sin egen profilering. Da bygges opp en uvurderlig merkevare som oppfattes daglig av Onlines medlemmer, NTNU, bedrifter og andre eksterne kontakter. Dette oppnås ved at alle synlige aspekter ved linjeforeningen er lett gjenkjennbare, tydelige i utforming og ellers pene å se på. De blå og oransje fargene skal brukes der det er hensiktsmessig og logoen skal komme tydelig frem både på trykk, nettsidene våre og andre sosiale medier. Om Online klarer å følge disse prinsippene i sin helhet, vil organisasjonen oppfattes som en profesjonell linjeforening med sterk tilstedeværelse.
@@ -72,41 +122,7 @@ Onlinelogoens offisielle fargeprofil finner du i tabellen under. Logoen bruker C
 
 I tillegg kan det være ønskelig å bruke andre nyanser av blå og oransje på f\.eks. nettsider eller annet design. Blå brukes da hovedsaklig som primærfarge, mens oransje brukes sekundært. Pass også på at kontrastene mellom nyansene er gode nok. For å se en oversikt over hvilke kontraster og paletter som brukes av Onlines nettsider, kan du ta en titt på [Onlines designsystem](https://storybook.online.ntnu.no/?path=/docs/global-colors--primary).
 
-# Vedlegg
-
-Om man har behov for å bruke Onlines logoer, ikoner og symboler, kan man laste ned kits og enkeltstående bilder nedenfor.
-
-## Kits
-
-### [Logokit](/attachments/677-Logokit.zip) - Inneholder alle logoversjoner på .png og .svg-format
-
-## PNG - enkeltbilder
-
-### [Blå](/attachments/679-Online_bla.png) - logo
-
-### [Blå](/attachments/680-Online_bla_o.png) - ikon
-
-### [Hvit](/attachments/681-Online_hvit.png) - logo
-
-### [Hvit](/attachments/682-Online_hvit_o.png) - ikon
-
-## SVG - enkeltbilder
-
-(Kommer når OW støtter nedlasting av .svg-filer. Alt ligger i logokit.)
-
-### Blå\* - logo
-
-### Blå\* - ikon
-
-### Hvit\* - logo
-
-### Hvit\* - ikon
-
-## Annet
-
-### [Komitésymboler](/attachments/678-Komitésymboler.zip) - Inneholder alle komitésymboler på .eps- og png-format
-
-## Presentasjonsmal
+# Presentasjonsmal
 
 Online har også en relativt enkel presentasjonsmal som kan brukes når noen i linjeforeningen skal holde en presentasjon internt eller til eksterne. Denne kan du finne på Drive, i form av Google Presentation og PowerPoint. Hvis du vil bruke den som Theme i Google Drive, kan du følge disse stegene:
 
