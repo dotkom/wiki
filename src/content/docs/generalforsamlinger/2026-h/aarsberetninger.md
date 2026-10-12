@@ -12,7 +12,36 @@ title: "Halvårsberetninger Høsten 2026"
 - [2026 Høst Vedtektsforslag](/generalforsamlinger/2026-h/vedtektsforslag/) - Foreslåtte endringer til vedtektene. Send gjerne inn ditt forslag.
 
 ## Hovedstyret
+Generelt:
 
+- Gjennomført opplæring av nye medlemmer i Hovedstyret
+- Holdt åtte stormøter
+- Oppdatert retningslinjer for stormøter
+- Oppdatert prikkreglene 
+- Laget Retningslinjer for å arrangere arrangementer og for varslingsytemer
+- Deltatt på ledelseskurs sammen med Backlog og Støttehjulet
+- Arrangert kompilering
+- Arrangert sommerfest for Online i Oslo
+- Arrangert komitespeeddating
+- Gjennomført komiteopptaket høsten 2026
+- Reviderte opptaksprosessen
+- Støttet i internt reorganisering av Profil- og aviskomiteen
+- Fiket daljedisplay på kontoret, før den datt ned og ble knust
+- Søkt om momskompensasjon
+
+Samarbeid med andre:
+
+- Deltatt på møter med IE
+- Deltatt på møter med IDI
+- Deltatt på møter med FIF
+- Deltatt på linjeledermøter hver måned
+
+Sosialt og kos:
+
+- Representert Online på diverse jubileum, revyer og gallaer.
+- Hatt styrevors med eksterne og riddere på Emil- og Smørekoppenkjelleren før immball
+- Har deltatt på Tihlde og Abakus kompilering
+- Hytteture med HS og komiteledere
 
 ## Arrangementskomiteen
 
