@@ -89,7 +89,7 @@ Siden sist generalforsamling har vi arrangert:
 
 ## Drifts- og utviklingskomiteen
 
-- Vi har hatt 607 commits siden forrige generalforsamling, som er mer enn dobbelt så mange som i forrige periode
+- Vi har hatt 644 commits siden forrige generalforsamling, som er mer enn dobbelt så mange som i forrige periode
 - Vi har feiret ettårsdagen til OnlineWeb 5
 - Vi har oppdatert OnlineWeb 5 med nye features og bistått ved problemer som har oppstått
 - Vi har laget Onlines kuleste fadderukeside ever
