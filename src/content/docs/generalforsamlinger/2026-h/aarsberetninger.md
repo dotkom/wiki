@@ -32,7 +32,11 @@ Siden sist generalforsamling har vi arrangert:
 
 ## Bank- og økonomikomiteen
 
-
+- Har revidert 2026 frem til og med August
+- Regnskapsført første halvdel av 2026 (januar - Juni)
+- Tatt opp 8 nye medlem, totalt 15 aktive
+- Fordelt Overskudd fra 2025
+- Valgt ny leder
 
 ## Bedriftskomiteen
 
@@ -163,8 +167,25 @@ I tillegg har vi:
 - Videreutviklet og vedlikeholdt andre tjenester som Autobank, Infoskjerm og Opptakssiden
 
 
-## Ekskursjonskomiteen 2026
+## Ekskursjonskomiteen 2027
 
+Mellom 2. februar og 2. mars
+
+- Fekk i gang Ekskom 2027, og tok opp nestleder og 6 medlem.
+- Fordelte rollar og signerte taushetserklæring internt.
+
+Sidan genfors V26
+
+- Bestemte destinasjon og gruppestorleik basert på interesseskjema. Vi skal reise til Málaga, Sevilla, og Lisboa, i ein gruppestorleik på 40.
+- Gjennomførte info-møte med destinasjonsreveal og prisestimat. Målet for egenandel, ekskl. dugnad, ligg på 6000 kr.
+- Gjennomførte påmelding, det ble 53 påmeldte på 40 plassar.
+- Påmeldte blei lagt til i eige Slack workspace, og har signert kontrakter.
+- Vi fekk tildelt fagansvarlege frå NTNU, Trond og Kerstin.
+- Vi jobbar med å få på plass fagleg opplegg, helst før jul.
+- Vi har bestilt tur og hostel, og hatt 1 innbetaling frå påmeldte.
+- Vi har sendt ut interesseskjema for kulturelt opplegg til påmeldte.
+- Vi har tilbudd ca 80 dugnadsvakter, og gjennomført 250 dugnadstimar totalt.
+- Miljøtiltak: Tar buss og tog mellom destinasjonane
 
 ## Velkomstkomiteen
 
@@ -192,10 +213,6 @@ I løpet av perioden har dotDAGENE hatt fokus på tidlig bedriftskontakt, rekrut
 - Startet planlegging av arrangement, lokaler, logistikk og kveldsarrangement.
 - Oppdatert nettside og startet markedsføringen mot både bedrifter og studenter.
 - Arbeidet med budsjett, sponsorarbeid og organisering av komiteen.
-
-
-## Jubileumskomiteen
-
 
 
 ## Realfagskjelleren
