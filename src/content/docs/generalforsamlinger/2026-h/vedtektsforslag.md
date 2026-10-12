@@ -103,9 +103,11 @@ _Vedtektsendringer fremmes som vedtektsforslag jf. §5.8, og avgjøres med kvali
 
 **Bakgrunn:**
 
-_1. Ifølge vedtekt §2 er Linjeforeningen Online sitt formål blant annet å forbedre studiemiljøet, student samvær og å skape sterke bånd mellom medlemmene. Samarbeid med de relevante bedriftene kan fremmedgjøre studenter med familier i utsatte områder, der deler av Onlines finansiering kommer av familiens lidelser._
+_1. På forrige generalforsamling til vår semesteret 2026 ble det avstemt om Online skal oppsøke samarbeid med våpenselskaper eller datterselskaper av våpenselskaper. Begge forslagene ble nedstemt av forsamlingen, men nedstemmelse innebærer ikke organisatoriske endringer. Dette vedtekts forslaget ønsker da å iverksette beskyttelse mot våpen industrien på vedtekts nivået av Online Linjeforening._
 
-_2. Linjeforeningen Online har allerede satt en presedens for langvarig arbeid med å øke trygghet for visse student demografier. FeminIT, ifølge vedtekt §4.2.11, er en komité med spesifikt arbeid om å øke trivselen blant kvinner og ikke-binære. For å videreføre slikt arbeid for andre grupper, burde samarbeid med bedrifter i nevnte områder opphøre._
+_2. Ifølge vedtekt §2 er Online Linjeforening sitt formål blant annet å forbedre studiemiljøet, student samvær og å skape sterke bånd mellom medlemmene. Samarbeid med de relevante bedriftene kan fremmedgjøre studenter med familier i utsatte områder. Det ble også argumentert positivt til våpenselskaper på forrige generalforsamling for de positive sidene ved våpen industrien for visse utsatte grupper, en argumentasjon som direkte setter opp ulike studenters interesser opp mot hverandre for konflikt._
+
+_3. Online linjeforening har allerede satt en presedens for langvarig arbeid med å øke trygghet for visse student demografier. FeminIT, ifølge vedtekt §4.2.11, er en komité med spesifikt arbeid om å øke trivselen blant kvinner og ikke-binære. For å videreføre slikt arbeid for andre grupper, burde samarbeid med bedrifter i nevnte områder opphøre._
 
 **Legg til ny vedtekt _§4.10 Samarbeid med eksterne aktører_**
 
