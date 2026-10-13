@@ -15,6 +15,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ### Høst 2026
 
+- [2026-10-06](2026/2026-10-06) - Interessegruppene skal bli synligere på OW
 - [2026-10-02](2026/2026-10-02) - Møte med realfagskjelleren
 - [2026-09-22](2026/2026-09-22) - Bare masse mails og eventuelt
 - [2026-09-15](2026/2026-09-15) - Post-hyttetur-møte
