@@ -18,11 +18,11 @@ Prikker er overlappende. Dette betyr at dersom du får nye prikker når du aller
 
 **Eksempel:**
 
-Du får 2 prikker for å melde deg av et arrangement sent. Nå blir behandlingen av alle påmeldingene dine utsatt med fire timer. Fire dager senere får du to nye prikker for å ikke ha sendt inn tilbakemeldingsskjema innen tidsfristen. Nå vil du i ti dager fremover ha totalt 4 aktive prikker og dermed få behandlingen av alle påmeldingene dine utsatt med 24 timer. Etter disse ti dagene vil de to første prikkene løpe ut og du vil da kun ha to aktive prikker i fire dager. Dette medfører fire timers utsettelse av behandlingen av påmeldingene dine.
+Du får først 2 prikker, som gir fire timers utsettelse av behandlingen av påmeldingene dine. Fem dager senere får du 1 prikk til. Du har da totalt 3 aktive prikker og 24 timers utsettelse. Når det har gått 14 dager siden du fikk de to første prikkene, utløper disse. Du har da 1 aktiv prikk og én times utsettelse i fem dager til. Etter totalt 19 dager utløper også den siste prikken.
 
 **Eksempelet visualisert:**
 
-![Visualiseringeksempel](../../../assets/images/prikkeregler-visualisering.png) 
+![Tidslinje med 2 prikker fra dag 0 til 14 og 1 prikk fra dag 5 til 19](../../../assets/images/prikkeregler-visualisering.png)
 
 ### Ferier
 
@@ -31,11 +31,12 @@ Varigheten til prikker er fryst i ferier. Disse er definert fra 5. desember til 
 ## **Hva gir prikker?**
 
 Dette er en kort punktliste. Unntak og videre forklaringer finner du lenger ned.
+
 - Å melde seg av etter avmeldingsfristen inntil 2 timer før arrangementstart gir 2 prikker. Etter dette gis 3 prikker i stedet.
 - Å ikke møte opp på et arrangement man har plass på gir 3 prikker.
 - Å møte opp etter arrangementets start eller innslipp er ferdig gir i utgangspunktet 3 prikker. Her vil en skjønnsmessig vurdering bli foretatt ut fra hvor sent deltakeren ankom arrangementet.
 - Å ikke svare på tilbakemeldingsskjema innen tidsfristen gir 2 prikker.
-- Å ikke overholde påmeldingsfristen medfører avmelding fra arrangementet. Dersom dette skjer etter avmeldingsfristen og du ikke har betalt, suspenderes du fra alle Onlines arrangementer inntil betaling er gjennomført og blir gitt 1 prikk.
+- Manglende betaling innen påmeldingsfristen gir suspensjon og 1 prikk dersom påmeldingsfristen utløper ved eller etter avmeldingsfristen. Se [Påmeldingsfrist og betaling](#påmeldingsfrist-og-betaling).
 
 Den ansvarlige komiteen kan også foreta en skjønnsmessig vurdering som gagner deltakeren.
 
@@ -51,8 +52,18 @@ Den ansvarlige komiteen kan også foreta en skjønnsmessig vurdering som gagner 
 
 ## **Påmeldingsfrist og betaling**
 
-- Påmeldingsfristen er 1 time etter ordinær påmelding og 24 timer etter annen påmelding, for eksempel ledig plass fra køen. Betaling må være gjennomført innen påmeldingsfristen.
-- Dersom påmeldingsfristen ikke overholdes, blir du avmeldt arrangementet. Skjer dette etter avmeldingsfristen og du ikke har betalt, suspenderes du fra alle Onlines arrangementer inntil betalingen er gjennomført og får 1 prikk.
+Påmeldingsfristen er 1 time etter ordinær påmelding og 24 timer etter annen påmelding, for eksempel når du får plass fra køen. Betaling må være gjennomført innen påmeldingsfristen.
+
+**Før avmeldingsfristen:**
+
+- Dersom påmeldingsfristen utløper før avmeldingsfristen og du ikke har betalt, blir du avmeldt og mister din plass.
+
+**Ved eller etter avmeldingsfristen:**
+
+- Dersom påmeldingsfristen utløper ved eller etter avmeldingsfristen og du ikke har betalt, suspenderes du fra alle Onlines arrangementer inntil betalingen er gjennomført og får 1 prikk.
+
+**Tilbakebetaling:**
+
 - Ved betalt arrangement, men manglende oppmøte, vil man ikke få tilbakebetalt dersom avmelding skjer etter avmeldingsfristen. Dersom neste i køen er tilgjengelig kan dette gjøres unntak for.
 
 ## **Oppførsel**
@@ -62,7 +73,6 @@ Den ansvarlige komiteen kan også foreta en skjønnsmessig vurdering som gagner 
 ## **Bedriftsarrangementer**
 
 - Ved bedriftsarrangementer åpner dørene i henhold til starttid på arrangementet. Ti minutter etter at dørene åpner slippes oppmøtte i køen inn dersom det er plass. 15 minutter etter at dørene åpner stenger innslippet.
-- Det kreves at en deltaker svarer på den elektroniske tilbakemeldingen etter bedriftsarrangementer. Det vil komme e-post etter arrangementet med lenke til tilbakemeldingsskjema som må besvares innen den oppgitte fristen. Dersom en deltaker ikke svarer innen fristen, vil dette gi to prikker.
 - Deltakere på bedriftsarrangementer skal delta på alle obligatoriske deler av arrangementet. For bedriftspresentasjon og kurs vil dette henholdsvis innebære selve presentasjonen og kursopplegget. De første 45 minuttene med påfølgende mingling regnes også som obligatorisk . Dersom en deltaker forlater den obligatoriske delen uten gyldig grunn vil dette medføre 2 prikker.
 
 ## **Hvorfor har jeg fått prikk?**
