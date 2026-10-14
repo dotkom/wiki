@@ -13,8 +13,11 @@ Prikker er et straffetiltak for å sikre at medlemmene av Online følger reglene
 | 3 prikker             | 24 timer                              |
 | 6+ prikker            | Suspensjon i 14 dager fra siste prikk |
 
-
 Prikker er overlappende. Dette betyr at dersom du får nye prikker når du allerede har aktive prikker fra en annen anledning, så vil disse prikkene plusses sammen. Hver anledning som har gitt deg prikker vil ha sin egen levetid før de ikke er aktive lenger.
+
+En suspensjon innebærer at du ikke kan melde deg på noen av Onlines arrangementer mens suspensjonen varer. Du beholder plassene du allerede har, og kan fortsatt delta på disse arrangementene.
+
+Dersom du blir suspendert på grunn av antall prikker, vil denne suspensjonen vare i 14 dager uavhengig av hvor mange prikker du har i denne perioden.
 
 **Eksempel:**
 
@@ -54,17 +57,15 @@ Den ansvarlige komiteen kan også foreta en skjønnsmessig vurdering som gagner 
 
 Påmeldingsfristen er 1 time etter ordinær påmelding og 24 timer etter annen påmelding, for eksempel når du får plass fra køen. Betaling må være gjennomført innen påmeldingsfristen.
 
+Dersom du melder deg av etter avmeldingsfristen eller ikke møter opp, vil du ikke få tilbakebetalt. Arrangøren gjøre unntak dersom noen i køen kan overta plassen din.
+
 **Før avmeldingsfristen:**
 
 - Dersom påmeldingsfristen utløper før avmeldingsfristen og du ikke har betalt, blir du avmeldt og mister din plass.
 
 **Ved eller etter avmeldingsfristen:**
 
-- Dersom påmeldingsfristen utløper ved eller etter avmeldingsfristen og du ikke har betalt, suspenderes du fra alle Onlines arrangementer inntil betalingen er gjennomført og får 1 prikk.
-
-**Tilbakebetaling:**
-
-- Ved betalt arrangement, men manglende oppmøte, vil man ikke få tilbakebetalt dersom avmelding skjer etter avmeldingsfristen. Dersom neste i køen er tilgjengelig kan dette gjøres unntak for.
+- Dersom påmeldingsfristen utløper ved eller etter avmeldingsfristen og du ikke har betalt, suspenderes du fra alle Onlines påmeldinger inntil betalingen er gjennomført og får 1 prikk. Når betalingen er gjennomført, vil suspensjonen bli opphevet umiddelbart, men prikken vil fortsatt stå.
 
 ## **Oppførsel**
 
