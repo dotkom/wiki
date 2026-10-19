@@ -12,29 +12,28 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Høst 2026
 
-- [2026-10-15-stormote](2026/2026-10-15-stormote) - Databaser vs OS, 5. klasse utmat og Sidequests
-- [2026-08-27.stormote](2026/2026-09-17-stormote) - På tide å følge Prokoms bestillingsstandarder
-- [2026-08-27.stormote](2026/2026-08-27-stormote) - Redaksjonen har fått punkt i statusrunden!
-- [2026-08-14.stormote](2026/2026-08-14-stormote) - Semesterets første stormøte! Gjensynsglede
+- [2026-10-15-stormøte](2026/2026-10-15-stormote) - Databaser vs OS, 5. klasse utmat og Sidequests
+- [2026-09-17-stormøte](2026/2026-09-17-stormote) - På tide å følge Prokoms bestillingsstandarder
+- [2026-08-27-stormøte](2026/2026-08-27-stormote) - Redaksjonen har fått punkt i statusrunden!
+- [2026-08-14-stormøte](2026/2026-08-14-stormote) - Semesterets første stormøte! Gjensynsglede
 
 ### Vår 2026
 
 
-- [2026-04-14-stormote](2026/2026-04-14-stormote) - Tidenes lengste eventuelt-punkt
-- [2026-03-17-stormote](2026/2026-03-17-stormote)
-- Stormøte før alle tar påskefri
-- [2026-03-03-stormote](2026/2026-03-03-stormote) - Velkommen til nye ledelsen
-- [2026-02-17-stormote](2026/2026-02-17-stormote) - Quintuppelstraff og genfors prep
-- [2026-02-10-stormote](2026/2026-02-10-stormote) - Snart ny ledelse!
-- [2026-01-27-stormote](2026/2026-01-27-stormote) - Semesterets første stormote!
+- [2026-04-14-stormøte](2026/2026-04-14-stormote) - Tidenes lengste eventuelt-punkt
+- [2026-03-17-stormøte](2026/2026-03-17-stormote) - Stormøte før alle tar påskefri
+- [2026-03-03-stormøte](2026/2026-03-03-stormote) - Velkommen til nye ledelsen
+- [2026-02-17-stormøte](2026/2026-02-17-stormote) - Quintuppelstraff og genfors prep
+- [2026-02-10-stormøte](2026/2026-02-10-stormote) - Snart ny ledelse!
+- [2026-01-27-stormøte](2026/2026-01-27-stormote) - Semesterets første stormote!
 
 ### Høst 2025
 
-- [2025-11-20-stormote](2025/2025-11-20-stormote) - Semesterets siste stormote!
-- [2025-11-06-stormote](2025/2025-11-06-stormote) - Uendelig med straffer
-- [2025-10-23-stormote](2025/2025-10-23-stormote) - Meld dere på bedriftsarrangementer
-- [2025-10-09-stormote](2025/2025-10-09-stormote) - Semesterets 5. stormøte
-- [2025-09-25-stormote](2025/2025-09-25-stormote) - Mange saker
+- [2025-11-20-stormøte](2025/2025-11-20-stormote) - Semesterets siste stormote!
+- [2025-11-06-stormøte](2025/2025-11-06-stormote) - Uendelig med straffer
+- [2025-10-23-stormøte](2025/2025-10-23-stormote) - Meld dere på bedriftsarrangementer
+- [2025-10-09-stormøte](2025/2025-10-09-stormote) - Semesterets 5. stormøte
+- [2025-09-25-stormøte](2025/2025-09-25-stormote) - Mange saker
 - [2025-09-11-stormøte](2025/2025-09-11-stormote) - Immball prep og onboarding ting
 - [2025-08-29-stormøte](2025/2025-08-29-stormote) - Opptak snart!!
 - [2025-08-15-stormøte](2025/2025-08-15-stormote) - Første stormøte
