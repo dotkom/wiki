@@ -15,6 +15,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 
 ### Høst 2026
 
+- [2026-10-20](2026/2026-10-20) - På tide å rydde IT-boden igjen
 - [2026-10-13](2026/2026-10-13) - Første møte etter generalforsamling
 - [2026-10-06](2026/2026-10-06) - Interessegruppene skal bli synligere på OW
 - [2026-09-29](2026/2026-09-29) - Møte med realfagskjelleren
