@@ -28,7 +28,6 @@ Pakken inneholder symboler i PNG- og SVG-format. Du kan også laste ned hver gru
 | --- | --- |
 | Appkom | [ZIP](/attachments/brand/group/appkom.zip) |
 | Arrkom | [ZIP](/attachments/brand/group/arrkom.zip) |
-| Arrkom (gammel) | [ZIP](/attachments/brand/group/arrkom-old.zip) |
 | Backlog | [ZIP](/attachments/brand/group/backlog.zip) |
 | Bankom | [ZIP](/attachments/brand/group/bankom.zip) |
 | Bedkom | [ZIP](/attachments/brand/group/bedkom.zip) |
@@ -38,7 +37,8 @@ Pakken inneholder symboler i PNG- og SVG-format. Du kan også laste ned hver gru
 | Fagkom | [ZIP](/attachments/brand/group/fagkom.zip) |
 | FeminIT | - |
 | Hovedstyret | Onlines logo |
-| Nodekomite (gammel) | [ZIP](/attachments/brand/group/nodekomite-old.zip) |
+| Jubkom | - |
+| Nodekomité (gammel) | [ZIP](/attachments/brand/group/nodekomite-old.zip) |
 | Online IL | [ZIP](/attachments/brand/group/online-il.zip) |
 | Onlines Fond | - |
 | Prokom | [ZIP](/attachments/brand/group/prokom.zip) |
@@ -50,7 +50,7 @@ Pakken inneholder symboler i PNG- og SVG-format. Du kan også laste ned hver gru
 | Andre grupper | Nedlasting |
 | --- | --- |
 | Casual Gaming | [ZIP](/attachments/brand/group/casual-gaming.zip) |
-| dotdagene | [ZIP](/attachments/brand/group/dotdagene.zip) |
+| dotDAGENE | [ZIP](/attachments/brand/group/dotdagene.zip) |
 | Output | - |
 | Realfagskjelleren | [ZIP](/attachments/brand/group/realfagskjelleren.zip) |
 
