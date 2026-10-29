@@ -35,12 +35,12 @@ Pakken inneholder symboler i PNG- og SVG-format. Du kan også laste ned hver gru
 | Dotkom | [ZIP](/attachments/brand/group/dotkom.zip) |
 | Ekskom | - |
 | Fagkom | [ZIP](/attachments/brand/group/fagkom.zip) |
-| FeminIT | - |
+| FeminIT | [ZIP](/attachments/brand/group/feminit.zip) |
 | Hovedstyret | Onlines logo |
 | Jubkom | - |
 | Nodekomité (gammel) | [ZIP](/attachments/brand/group/nodekomite-old.zip) |
 | Online IL | [ZIP](/attachments/brand/group/online-il.zip) |
-| Onlines Fond | - |
+| Onlines Fond | [ZIP](/attachments/brand/group/onlines-fond.zip) |
 | Prokom | [ZIP](/attachments/brand/group/prokom.zip) |
 | Redaksjonen | [ZIP](/attachments/brand/group/redaksjonen.zip) |
 | Trikom | [ZIP](/attachments/brand/group/trikom.zip) |
