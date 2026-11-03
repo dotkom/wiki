@@ -12,6 +12,7 @@ Her finner du referatene fra Stormøtene, der HS og komitélederne samles for å
 
 ### Høst 2026
 
+- [2026-10-29-stormøte](2026/2026-10-29-stormote.md) - RIP AI-bevere🙅‍♀️
 - [2026-10-15-stormøte](2026/2026-10-15-stormote) - Databaser vs OS, 5. klasse utmat og Sidequests
 - [2026-10-01-stormøte](2026/2026-10-01-stormote) - Nye daljer
 - [2026-09-17-stormøte](2026/2026-09-17-stormote) - På tide å følge Prokoms bestillingsstandarder
