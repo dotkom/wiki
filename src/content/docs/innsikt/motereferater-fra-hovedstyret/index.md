@@ -18,6 +18,7 @@ Merk at personinformasjon, bedriftsdiskusjoner og annen sensitiv informasjon er 
 - [2026-11-17](2026/2026-11-17) - Ryddig bod og juleglede
 - [2026-11-10](2026/2026-11-10) - Utdeling av godteri på A4
 - [2026-11-03](2026/2026-11-03) - Gamle komiteer, nye daljer
+- [2026-10-03] (2026/2026-10-27) - Online er grasrotmottaker!
 - [2026-10-20](2026/2026-10-20) - På tide å rydde IT-boden igjen
 - [2026-10-13](2026/2026-10-13) - Første møte etter generalforsamling
 - [2026-10-06](2026/2026-10-06) - Interessegruppene skal bli synligere på OW
