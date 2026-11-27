@@ -4,7 +4,7 @@ title: "Andre linjeforeninger ved NTNU"
 
 Tilhørende info
 
-* Kontakte linjeforeningene? [Se epostlister her](https://online.ntnu.no/resourcecenter/mailinglists)
+* Kontakte linjeforeningene? [Se epostlister her](https://wiki.online.ntnu.no/e-postlister/)
 * Er din linjeforening listet opp her? Send epost til kontakt@online.ntnu.no for oppdateringer
 * Har dere kontor? [Les regler for rombruk og internhusleie](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Regler+for+bruk+av+arealer)
 * Trenger dere kontor? [Søk til NTNU sentralt om fristasjon for studentorganisasjon](https://innsida.ntnu.no/web/guest/wiki/-/wiki/Norsk/Lokaler+for+studentorganisasjoner+og+studentforeninger)
